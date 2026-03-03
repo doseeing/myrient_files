@@ -94,30 +94,47 @@ def save_listing(entries: list[dict], path: Path) -> None:
     (path / "index.txt").write_text("".join(lines), encoding="utf-8")
 
 
+def load_listing(path: Path) -> list[dict] | None:
+    """Load listing from directory/listing.json if it exists. Returns None if missing or invalid."""
+    f = path / "listing.json"
+    if not f.exists():
+        return None
+    try:
+        data = json.loads(f.read_text(encoding="utf-8"))
+        return data if isinstance(data, list) else None
+    except (json.JSONDecodeError, OSError):
+        return None
+
+
 def safe_path_component(name: str) -> str:
     """Sanitize a directory name for use as a filesystem path component."""
     return name.replace("/", "_").replace("\\", "_").strip() or "unnamed"
 
 
 def crawl_recursive(url: str, local_path: Path, visited: set[str]) -> None:
-    """Fetch a directory listing, save it, and recurse into subdirectories."""
+    """Fetch a directory listing (or load from disk if resumable), save it, and recurse into subdirectories."""
     url_normalized = url.rstrip("/") + "/"
     if url_normalized in visited:
         return
     visited.add(url_normalized)
 
-    print(f"Fetching {url_normalized} ...")
-    try:
-        html = fetch_page(url_normalized)
-    except requests.RequestException as e:
-        print(f"  Error: {e}")
-        return
+    existing = load_listing(local_path)
+    if existing is not None:
+        print(f"Skipping (exists) {local_path} ...")
+        entries = existing
+    else:
+        print(f"Fetching {url_normalized} ...")
+        try:
+            html = fetch_page(url_normalized)
+        except requests.RequestException as e:
+            print(f"  Error: {e}")
+            return
 
-    time.sleep(DELAY_SECONDS)
+        time.sleep(DELAY_SECONDS)
 
-    entries = parse_directory_listing(html, url_normalized)
-    print(f"  Parsed {len(entries)} entries -> {local_path}")
-    save_listing(entries, local_path)
+        entries = parse_directory_listing(html, url_normalized)
+        print(f"  Parsed {len(entries)} entries -> {local_path}")
+        save_listing(entries, local_path)
 
     for e in entries:
         if e["is_dir"] and e.get("url"):
