@@ -1,0 +1,434 @@
+[
+  {
+    "name": "cpu_clock",
+    "href": "cpu_clock/",
+    "url": "https://myrient.erista.me/files/bitsavers/components/winbond/cpu_clock/",
+    "is_dir": true,
+    "size": null,
+    "date": "20-Jun-2022 19:08"
+  },
+  {
+    "name": "isd",
+    "href": "isd/",
+    "url": "https://myrient.erista.me/files/bitsavers/components/winbond/isd/",
+    "is_dir": true,
+    "size": null,
+    "date": "08-Jun-2022 22:56"
+  },
+  {
+    "name": "national_apc",
+    "href": "national_apc/",
+    "url": "https://myrient.erista.me/files/bitsavers/components/winbond/national_apc/",
+    "is_dir": true,
+    "size": null,
+    "date": "08-Jun-2022 22:57"
+  },
+  {
+    "name": "pa-risc",
+    "href": "pa-risc/",
+    "url": "https://myrient.erista.me/files/bitsavers/components/winbond/pa-risc/",
+    "is_dir": true,
+    "size": null,
+    "date": "08-Jun-2022 23:12"
+  },
+  {
+    "name": "KVBDC-2000VL.jpg",
+    "href": "KVBDC-2000VL.jpg",
+    "url": "https://myrient.erista.me/files/bitsavers/components/winbond/KVBDC-2000VL.jpg",
+    "is_dir": false,
+    "size": "153.4 KiB",
+    "date": "11-May-2022 17:55"
+  },
+  {
+    "name": "Nuvoton_W83722G_HW_Monitor_200807.pdf",
+    "href": "Nuvoton_W83722G_HW_Monitor_200807.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/winbond/Nuvoton_W83722G_HW_Monitor_200807.pdf",
+    "is_dir": false,
+    "size": "382.3 KiB",
+    "date": "09-Jun-2022 16:27"
+  },
+  {
+    "name": "Nuvoton_W83795G_HW_Monitor_201008.pdf",
+    "href": "Nuvoton_W83795G_HW_Monitor_201008.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/winbond/Nuvoton_W83795G_HW_Monitor_201008.pdf",
+    "is_dir": false,
+    "size": "1.1 MiB",
+    "date": "09-Jun-2022 16:27"
+  },
+  {
+    "name": "W24256A_199111.pdf",
+    "href": "W24256A_199111.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/winbond/W24256A_199111.pdf",
+    "is_dir": false,
+    "size": "185.2 KiB",
+    "date": "08-Jun-2022 23:13"
+  },
+  {
+    "name": "W27C512_64Kx8_EEPROM_199911.pdf",
+    "href": "W27C512_64Kx8_EEPROM_199911.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/winbond/W27C512_64Kx8_EEPROM_199911.pdf",
+    "is_dir": false,
+    "size": "172.4 KiB",
+    "date": "15-Jan-2024 21:28"
+  },
+  {
+    "name": "W29C011A.PDF",
+    "href": "W29C011A.PDF",
+    "url": "https://myrient.erista.me/files/bitsavers/components/winbond/W29C011A.PDF",
+    "is_dir": false,
+    "size": "168.6 KiB",
+    "date": "23-Feb-2026 01:17"
+  },
+  {
+    "name": "W29C020.PDF",
+    "href": "W29C020.PDF",
+    "url": "https://myrient.erista.me/files/bitsavers/components/winbond/W29C020.PDF",
+    "is_dir": false,
+    "size": "282.7 KiB",
+    "date": "23-Feb-2026 01:17"
+  },
+  {
+    "name": "W39V040FA_200412.pdf",
+    "href": "W39V040FA_200412.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/winbond/W39V040FA_200412.pdf",
+    "is_dir": false,
+    "size": "105.8 KiB",
+    "date": "08-Jun-2022 22:56"
+  },
+  {
+    "name": "W39V040FA_AN-11_200207.pdf",
+    "href": "W39V040FA_AN-11_200207.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/winbond/W39V040FA_AN-11_200207.pdf",
+    "is_dir": false,
+    "size": "94.5 KiB",
+    "date": "08-Jun-2022 22:56"
+  },
+  {
+    "name": "W49V002FA_AN-6_200107.pdf",
+    "href": "W49V002FA_AN-6_200107.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/winbond/W49V002FA_AN-6_200107.pdf",
+    "is_dir": false,
+    "size": "72.0 KiB",
+    "date": "08-Jun-2022 22:56"
+  },
+  {
+    "name": "W538A8XX_200605.pdf",
+    "href": "W538A8XX_200605.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/winbond/W538A8XX_200605.pdf",
+    "is_dir": false,
+    "size": "142.7 KiB",
+    "date": "08-Jun-2022 23:13"
+  },
+  {
+    "name": "W558C320_200605.pdf",
+    "href": "W558C320_200605.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/winbond/W558C320_200605.pdf",
+    "is_dir": false,
+    "size": "179.0 KiB",
+    "date": "08-Jun-2022 23:13"
+  },
+  {
+    "name": "W55FC200_200201.pdf",
+    "href": "W55FC200_200201.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/winbond/W55FC200_200201.pdf",
+    "is_dir": false,
+    "size": "115.5 KiB",
+    "date": "08-Jun-2022 22:56"
+  },
+  {
+    "name": "W55Fxxx_200605.pdf",
+    "href": "W55Fxxx_200605.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/winbond/W55Fxxx_200605.pdf",
+    "is_dir": false,
+    "size": "211.5 KiB",
+    "date": "08-Jun-2022 22:56"
+  },
+  {
+    "name": "W56940_200505.pdf",
+    "href": "W56940_200505.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/winbond/W56940_200505.pdf",
+    "is_dir": false,
+    "size": "163.8 KiB",
+    "date": "08-Jun-2022 23:13"
+  },
+  {
+    "name": "W83176R-400_200605.pdf",
+    "href": "W83176R-400_200605.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/winbond/W83176R-400_200605.pdf",
+    "is_dir": false,
+    "size": "278.7 KiB",
+    "date": "08-Jun-2022 23:13"
+  },
+  {
+    "name": "W83194R-630_200505.pdf",
+    "href": "W83194R-630_200505.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/winbond/W83194R-630_200505.pdf",
+    "is_dir": false,
+    "size": "232.7 KiB",
+    "date": "30-Apr-2022 17:46"
+  },
+  {
+    "name": "W83305S_200604.pdf",
+    "href": "W83305S_200604.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/winbond/W83305S_200604.pdf",
+    "is_dir": false,
+    "size": "266.5 KiB",
+    "date": "08-Jun-2022 23:13"
+  },
+  {
+    "name": "W83310S-N_200601.pdf",
+    "href": "W83310S-N_200601.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/winbond/W83310S-N_200601.pdf",
+    "is_dir": false,
+    "size": "246.9 KiB",
+    "date": "08-Jun-2022 23:13"
+  },
+  {
+    "name": "W83310S-R_200504.pdf",
+    "href": "W83310S-R_200504.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/winbond/W83310S-R_200504.pdf",
+    "is_dir": false,
+    "size": "293.8 KiB",
+    "date": "08-Jun-2022 23:13"
+  },
+  {
+    "name": "W83310U_200601.pdf",
+    "href": "W83310U_200601.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/winbond/W83310U_200601.pdf",
+    "is_dir": false,
+    "size": "304.6 KiB",
+    "date": "08-Jun-2022 23:13"
+  },
+  {
+    "name": "W83391TS_200601.pdf",
+    "href": "W83391TS_200601.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/winbond/W83391TS_200601.pdf",
+    "is_dir": false,
+    "size": "208.2 KiB",
+    "date": "08-Jun-2022 23:13"
+  },
+  {
+    "name": "W83627HF_LPCIO_200211.pdf",
+    "href": "W83627HF_LPCIO_200211.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/winbond/W83627HF_LPCIO_200211.pdf",
+    "is_dir": false,
+    "size": "866.8 KiB",
+    "date": "24-May-2022 01:17"
+  },
+  {
+    "name": "W83628F_W83629D_PCI-ISA_Bridge_199812.pdf",
+    "href": "W83628F_W83629D_PCI-ISA_Bridge_199812.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/winbond/W83628F_W83629D_PCI-ISA_Bridge_199812.pdf",
+    "is_dir": false,
+    "size": "261.6 KiB",
+    "date": "24-May-2022 01:17"
+  },
+  {
+    "name": "W83628F_W83629D_PCI-ISA_Bridge_200505.pdf",
+    "href": "W83628F_W83629D_PCI-ISA_Bridge_200505.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/winbond/W83628F_W83629D_PCI-ISA_Bridge_200505.pdf",
+    "is_dir": false,
+    "size": "260.7 KiB",
+    "date": "24-May-2022 01:17"
+  },
+  {
+    "name": "W83757.pdf",
+    "href": "W83757.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/winbond/W83757.pdf",
+    "is_dir": false,
+    "size": "1.7 MiB",
+    "date": "11-May-2022 17:54"
+  },
+  {
+    "name": "W83758_199411.pdf",
+    "href": "W83758_199411.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/winbond/W83758_199411.pdf",
+    "is_dir": false,
+    "size": "175.4 KiB",
+    "date": "11-May-2022 17:54"
+  },
+  {
+    "name": "W83759A_LVB_IDE_199505.pdf",
+    "href": "W83759A_LVB_IDE_199505.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/winbond/W83759A_LVB_IDE_199505.pdf",
+    "is_dir": false,
+    "size": "338.1 KiB",
+    "date": "09-Jun-2022 16:27"
+  },
+  {
+    "name": "W83759_199505.pdf",
+    "href": "W83759_199505.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/winbond/W83759_199505.pdf",
+    "is_dir": false,
+    "size": "234.8 KiB",
+    "date": "11-May-2022 17:55"
+  },
+  {
+    "name": "W83767_Super_IO.pdf",
+    "href": "W83767_Super_IO.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/winbond/W83767_Super_IO.pdf",
+    "is_dir": false,
+    "size": "1.7 MiB",
+    "date": "09-Jun-2022 16:27"
+  },
+  {
+    "name": "W83768_IO_Coupler_199410.pdf",
+    "href": "W83768_IO_Coupler_199410.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/winbond/W83768_IO_Coupler_199410.pdf",
+    "is_dir": false,
+    "size": "154.5 KiB",
+    "date": "09-Jun-2022 16:27"
+  },
+  {
+    "name": "W83769_PCI_IDE_199411.pdf",
+    "href": "W83769_PCI_IDE_199411.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/winbond/W83769_PCI_IDE_199411.pdf",
+    "is_dir": false,
+    "size": "169.2 KiB",
+    "date": "09-Jun-2022 16:27"
+  },
+  {
+    "name": "W83772G_200604.pdf",
+    "href": "W83772G_200604.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/winbond/W83772G_200604.pdf",
+    "is_dir": false,
+    "size": "219.9 KiB",
+    "date": "08-Jun-2022 23:13"
+  },
+  {
+    "name": "W83787IF_199509.pdf",
+    "href": "W83787IF_199509.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/winbond/W83787IF_199509.pdf",
+    "is_dir": false,
+    "size": "1.7 MiB",
+    "date": "11-May-2022 17:54"
+  },
+  {
+    "name": "W83C42_Keyboard_Controller_199407.pdf",
+    "href": "W83C42_Keyboard_Controller_199407.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/winbond/W83C42_Keyboard_Controller_199407.pdf",
+    "is_dir": false,
+    "size": "143.1 KiB",
+    "date": "28-Dec-2023 12:50"
+  },
+  {
+    "name": "W83C45_Keyboard_Controller_199611.pdf",
+    "href": "W83C45_Keyboard_Controller_199611.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/winbond/W83C45_Keyboard_Controller_199611.pdf",
+    "is_dir": false,
+    "size": "162.4 KiB",
+    "date": "08-Feb-2024 22:35"
+  },
+  {
+    "name": "W83C553F_199603.pdf",
+    "href": "W83C553F_199603.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/winbond/W83C553F_199603.pdf",
+    "is_dir": false,
+    "size": "2.9 MiB",
+    "date": "08-Jun-2022 22:56"
+  },
+  {
+    "name": "W83C553F_prelim.pdf",
+    "href": "W83C553F_prelim.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/winbond/W83C553F_prelim.pdf",
+    "is_dir": false,
+    "size": "3.5 MiB",
+    "date": "08-Jun-2022 23:00"
+  },
+  {
+    "name": "W83C554F_200003.pdf",
+    "href": "W83C554F_200003.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/winbond/W83C554F_200003.pdf",
+    "is_dir": false,
+    "size": "2.7 MiB",
+    "date": "08-Jun-2022 23:13"
+  },
+  {
+    "name": "W83L350R_200604.pdf",
+    "href": "W83L350R_200604.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/winbond/W83L350R_200604.pdf",
+    "is_dir": false,
+    "size": "501.2 KiB",
+    "date": "08-Jun-2022 23:13"
+  },
+  {
+    "name": "W83L761G_200504.pdf",
+    "href": "W83L761G_200504.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/winbond/W83L761G_200504.pdf",
+    "is_dir": false,
+    "size": "280.0 KiB",
+    "date": "08-Jun-2022 23:13"
+  },
+  {
+    "name": "W86C450_199008.pdf",
+    "href": "W86C450_199008.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/winbond/W86C450_199008.pdf",
+    "is_dir": false,
+    "size": "912.0 KiB",
+    "date": "08-Jun-2022 23:13"
+  },
+  {
+    "name": "W86C451_199004.pdf",
+    "href": "W86C451_199004.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/winbond/W86C451_199004.pdf",
+    "is_dir": false,
+    "size": "676.2 KiB",
+    "date": "08-Jun-2022 23:13"
+  },
+  {
+    "name": "W86C452_198907.pdf",
+    "href": "W86C452_198907.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/winbond/W86C452_198907.pdf",
+    "is_dir": false,
+    "size": "738.3 KiB",
+    "date": "08-Jun-2022 23:13"
+  },
+  {
+    "name": "W9960CF_199706.pdf",
+    "href": "W9960CF_199706.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/winbond/W9960CF_199706.pdf",
+    "is_dir": false,
+    "size": "308.9 KiB",
+    "date": "08-Jun-2022 23:13"
+  },
+  {
+    "name": "W9975D_200104.pdf",
+    "href": "W9975D_200104.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/winbond/W9975D_200104.pdf",
+    "is_dir": false,
+    "size": "98.8 KiB",
+    "date": "08-Jun-2022 23:13"
+  },
+  {
+    "name": "WB83176R_200405.pdf",
+    "href": "WB83176R_200405.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/winbond/WB83176R_200405.pdf",
+    "is_dir": false,
+    "size": "274.1 KiB",
+    "date": "30-Apr-2022 17:51"
+  },
+  {
+    "name": "WB83176R_WB83176G_200603.pdf",
+    "href": "WB83176R_WB83176G_200603.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/winbond/WB83176R_WB83176G_200603.pdf",
+    "is_dir": false,
+    "size": "268.8 KiB",
+    "date": "30-Apr-2022 17:51"
+  },
+  {
+    "name": "WFP6530B_199907.pdf",
+    "href": "WFP6530B_199907.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/winbond/WFP6530B_199907.pdf",
+    "is_dir": false,
+    "size": "252.9 KiB",
+    "date": "08-Jun-2022 23:13"
+  },
+  {
+    "name": "WMS7100_200504.pdf",
+    "href": "WMS7100_200504.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/winbond/WMS7100_200504.pdf",
+    "is_dir": false,
+    "size": "326.3 KiB",
+    "date": "08-Jun-2022 23:13"
+  }
+]

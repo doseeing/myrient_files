@@ -1,0 +1,34 @@
+[
+  {
+    "name": "brochures",
+    "href": "brochures/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/hmi/brochures/",
+    "is_dir": true,
+    "size": null,
+    "date": "01-Jan-2015 03:37"
+  },
+  {
+    "name": "firmware",
+    "href": "firmware/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/hmi/firmware/",
+    "is_dir": true,
+    "size": null,
+    "date": "07-Jan-2015 05:01"
+  },
+  {
+    "name": "photos",
+    "href": "photos/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/hmi/photos/",
+    "is_dir": true,
+    "size": null,
+    "date": "01-Jan-2015 03:29"
+  },
+  {
+    "name": "HMI-200_Series_68000_Users_Manual_1988.pdf",
+    "href": "HMI-200_Series_68000_Users_Manual_1988.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/hmi/HMI-200_Series_68000_Users_Manual_1988.pdf",
+    "is_dir": false,
+    "size": "15.2 MiB",
+    "date": "06-Jan-2015 08:28"
+  }
+]

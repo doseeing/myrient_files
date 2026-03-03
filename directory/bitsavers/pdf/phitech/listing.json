@@ -1,0 +1,34 @@
+[
+  {
+    "name": "patents",
+    "href": "patents/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/phitech/patents/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Aug-2019 19:09"
+  },
+  {
+    "name": "pictures",
+    "href": "pictures/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/phitech/pictures/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Aug-2019 19:09"
+  },
+  {
+    "name": "Phi-Deck_Fixed-Speed_Deck_Demonstrator_1976.pdf",
+    "href": "Phi-Deck_Fixed-Speed_Deck_Demonstrator_1976.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/phitech/Phi-Deck_Fixed-Speed_Deck_Demonstrator_1976.pdf",
+    "is_dir": false,
+    "size": "1.5 MiB",
+    "date": "12-Sep-2019 16:02"
+  },
+  {
+    "name": "Phi-Deck_UsersMan.pdf",
+    "href": "Phi-Deck_UsersMan.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/phitech/Phi-Deck_UsersMan.pdf",
+    "is_dir": false,
+    "size": "1.9 MiB",
+    "date": "19-Nov-2004 03:41"
+  }
+]

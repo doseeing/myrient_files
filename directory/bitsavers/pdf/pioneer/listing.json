@@ -1,0 +1,26 @@
+[
+  {
+    "name": "cdrom",
+    "href": "cdrom/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/pioneer/cdrom/",
+    "is_dir": true,
+    "size": null,
+    "date": "03-Feb-2022 20:04"
+  },
+  {
+    "name": "dvd",
+    "href": "dvd/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/pioneer/dvd/",
+    "is_dir": true,
+    "size": null,
+    "date": "31-Jan-2022 19:05"
+  },
+  {
+    "name": "laserdisc",
+    "href": "laserdisc/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/pioneer/laserdisc/",
+    "is_dir": true,
+    "size": null,
+    "date": "17-Jul-2019 23:30"
+  }
+]

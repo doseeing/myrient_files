@@ -1,0 +1,746 @@
+[
+  {
+    "name": "abep.zip",
+    "href": "abep.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/electron_rom/abep.zip",
+    "is_dir": false,
+    "size": "21.5 KiB",
+    "date": "28-Sep-2025 14:50"
+  },
+  {
+    "name": "acp.zip",
+    "href": "acp.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/electron_rom/acp.zip",
+    "is_dir": false,
+    "size": "12.4 KiB",
+    "date": "28-Sep-2025 14:50"
+  },
+  {
+    "name": "acp100.zip",
+    "href": "acp100.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/electron_rom/acp100.zip",
+    "is_dir": false,
+    "size": "10.2 KiB",
+    "date": "28-Sep-2025 14:50"
+  },
+  {
+    "name": "acp102.zip",
+    "href": "acp102.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/electron_rom/acp102.zip",
+    "is_dir": false,
+    "size": "12.1 KiB",
+    "date": "28-Sep-2025 14:50"
+  },
+  {
+    "name": "acp103.zip",
+    "href": "acp103.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/electron_rom/acp103.zip",
+    "is_dir": false,
+    "size": "12.2 KiB",
+    "date": "28-Sep-2025 14:50"
+  },
+  {
+    "name": "acp104.zip",
+    "href": "acp104.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/electron_rom/acp104.zip",
+    "is_dir": false,
+    "size": "12.1 KiB",
+    "date": "28-Sep-2025 14:50"
+  },
+  {
+    "name": "addcomm.zip",
+    "href": "addcomm.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/electron_rom/addcomm.zip",
+    "is_dir": false,
+    "size": "6.2 KiB",
+    "date": "28-Sep-2025 14:50"
+  },
+  {
+    "name": "addcomm100.zip",
+    "href": "addcomm100.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/electron_rom/addcomm100.zip",
+    "is_dir": false,
+    "size": "6.2 KiB",
+    "date": "28-Sep-2025 14:50"
+  },
+  {
+    "name": "addcomm110.zip",
+    "href": "addcomm110.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/electron_rom/addcomm110.zip",
+    "is_dir": false,
+    "size": "6.2 KiB",
+    "date": "28-Sep-2025 14:50"
+  },
+  {
+    "name": "addcomm120.zip",
+    "href": "addcomm120.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/electron_rom/addcomm120.zip",
+    "is_dir": false,
+    "size": "6.2 KiB",
+    "date": "28-Sep-2025 14:50"
+  },
+  {
+    "name": "adi.zip",
+    "href": "adi.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/electron_rom/adi.zip",
+    "is_dir": false,
+    "size": "10.4 KiB",
+    "date": "28-Sep-2025 14:50"
+  },
+  {
+    "name": "adi100.zip",
+    "href": "adi100.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/electron_rom/adi100.zip",
+    "is_dir": false,
+    "size": "10.2 KiB",
+    "date": "28-Sep-2025 14:50"
+  },
+  {
+    "name": "adi100a.zip",
+    "href": "adi100a.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/electron_rom/adi100a.zip",
+    "is_dir": false,
+    "size": "10.3 KiB",
+    "date": "28-Sep-2025 14:50"
+  },
+  {
+    "name": "adi110.zip",
+    "href": "adi110.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/electron_rom/adi110.zip",
+    "is_dir": false,
+    "size": "10.2 KiB",
+    "date": "28-Sep-2025 14:50"
+  },
+  {
+    "name": "adi120.zip",
+    "href": "adi120.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/electron_rom/adi120.zip",
+    "is_dir": false,
+    "size": "10.2 KiB",
+    "date": "28-Sep-2025 14:50"
+  },
+  {
+    "name": "adi120a.zip",
+    "href": "adi120a.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/electron_rom/adi120a.zip",
+    "is_dir": false,
+    "size": "10.2 KiB",
+    "date": "28-Sep-2025 14:50"
+  },
+  {
+    "name": "adi122.zip",
+    "href": "adi122.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/electron_rom/adi122.zip",
+    "is_dir": false,
+    "size": "10.2 KiB",
+    "date": "28-Sep-2025 14:50"
+  },
+  {
+    "name": "adt.zip",
+    "href": "adt.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/electron_rom/adt.zip",
+    "is_dir": false,
+    "size": "12.5 KiB",
+    "date": "28-Sep-2025 14:50"
+  },
+  {
+    "name": "adt120.zip",
+    "href": "adt120.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/electron_rom/adt120.zip",
+    "is_dir": false,
+    "size": "12.1 KiB",
+    "date": "28-Sep-2025 14:50"
+  },
+  {
+    "name": "adt140.zip",
+    "href": "adt140.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/electron_rom/adt140.zip",
+    "is_dir": false,
+    "size": "12.2 KiB",
+    "date": "28-Sep-2025 14:50"
+  },
+  {
+    "name": "adt150.zip",
+    "href": "adt150.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/electron_rom/adt150.zip",
+    "is_dir": false,
+    "size": "12.1 KiB",
+    "date": "28-Sep-2025 14:50"
+  },
+  {
+    "name": "adt160.zip",
+    "href": "adt160.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/electron_rom/adt160.zip",
+    "is_dir": false,
+    "size": "12.2 KiB",
+    "date": "28-Sep-2025 14:50"
+  },
+  {
+    "name": "adt172.zip",
+    "href": "adt172.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/electron_rom/adt172.zip",
+    "is_dir": false,
+    "size": "12.4 KiB",
+    "date": "28-Sep-2025 14:50"
+  },
+  {
+    "name": "adt173.zip",
+    "href": "adt173.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/electron_rom/adt173.zip",
+    "is_dir": false,
+    "size": "12.4 KiB",
+    "date": "28-Sep-2025 14:50"
+  },
+  {
+    "name": "adt174.zip",
+    "href": "adt174.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/electron_rom/adt174.zip",
+    "is_dir": false,
+    "size": "12.5 KiB",
+    "date": "28-Sep-2025 14:50"
+  },
+  {
+    "name": "adt175.zip",
+    "href": "adt175.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/electron_rom/adt175.zip",
+    "is_dir": false,
+    "size": "12.5 KiB",
+    "date": "28-Sep-2025 14:50"
+  },
+  {
+    "name": "adt176.zip",
+    "href": "adt176.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/electron_rom/adt176.zip",
+    "is_dir": false,
+    "size": "12.5 KiB",
+    "date": "28-Sep-2025 14:50"
+  },
+  {
+    "name": "adt177c.zip",
+    "href": "adt177c.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/electron_rom/adt177c.zip",
+    "is_dir": false,
+    "size": "12.5 KiB",
+    "date": "28-Sep-2025 14:50"
+  },
+  {
+    "name": "adt178.zip",
+    "href": "adt178.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/electron_rom/adt178.zip",
+    "is_dir": false,
+    "size": "12.5 KiB",
+    "date": "28-Sep-2025 14:50"
+  },
+  {
+    "name": "aep.zip",
+    "href": "aep.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/electron_rom/aep.zip",
+    "is_dir": false,
+    "size": "9.1 KiB",
+    "date": "28-Sep-2025 14:50"
+  },
+  {
+    "name": "afm.zip",
+    "href": "afm.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/electron_rom/afm.zip",
+    "is_dir": false,
+    "size": "11.6 KiB",
+    "date": "28-Sep-2025 14:50"
+  },
+  {
+    "name": "afm106.zip",
+    "href": "afm106.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/electron_rom/afm106.zip",
+    "is_dir": false,
+    "size": "11.6 KiB",
+    "date": "28-Sep-2025 14:50"
+  },
+  {
+    "name": "afm107.zip",
+    "href": "afm107.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/electron_rom/afm107.zip",
+    "is_dir": false,
+    "size": "11.6 KiB",
+    "date": "28-Sep-2025 14:50"
+  },
+  {
+    "name": "ample.zip",
+    "href": "ample.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/electron_rom/ample.zip",
+    "is_dir": false,
+    "size": "13.0 KiB",
+    "date": "28-Sep-2025 14:50"
+  },
+  {
+    "name": "arm.zip",
+    "href": "arm.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/electron_rom/arm.zip",
+    "is_dir": false,
+    "size": "6.2 KiB",
+    "date": "28-Sep-2025 14:50"
+  },
+  {
+    "name": "arm100.zip",
+    "href": "arm100.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/electron_rom/arm100.zip",
+    "is_dir": false,
+    "size": "6.3 KiB",
+    "date": "28-Sep-2025 14:50"
+  },
+  {
+    "name": "arm110.zip",
+    "href": "arm110.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/electron_rom/arm110.zip",
+    "is_dir": false,
+    "size": "6.3 KiB",
+    "date": "28-Sep-2025 14:50"
+  },
+  {
+    "name": "arm112.zip",
+    "href": "arm112.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/electron_rom/arm112.zip",
+    "is_dir": false,
+    "size": "6.3 KiB",
+    "date": "28-Sep-2025 14:50"
+  },
+  {
+    "name": "art.zip",
+    "href": "art.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/electron_rom/art.zip",
+    "is_dir": false,
+    "size": "4.7 KiB",
+    "date": "28-Sep-2025 14:50"
+  },
+  {
+    "name": "bedemo.zip",
+    "href": "bedemo.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/electron_rom/bedemo.zip",
+    "is_dir": false,
+    "size": "8.3 KiB",
+    "date": "28-Sep-2025 14:50"
+  },
+  {
+    "name": "bet.zip",
+    "href": "bet.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/electron_rom/bet.zip",
+    "is_dir": false,
+    "size": "21.4 KiB",
+    "date": "28-Sep-2025 14:50"
+  },
+  {
+    "name": "e2p.zip",
+    "href": "e2p.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/electron_rom/e2p.zip",
+    "is_dir": false,
+    "size": "2.5 KiB",
+    "date": "28-Sep-2025 14:50"
+  },
+  {
+    "name": "elkman.zip",
+    "href": "elkman.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/electron_rom/elkman.zip",
+    "is_dir": false,
+    "size": "3.7 KiB",
+    "date": "28-Sep-2025 14:50"
+  },
+  {
+    "name": "elkman14.zip",
+    "href": "elkman14.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/electron_rom/elkman14.zip",
+    "is_dir": false,
+    "size": "6.0 KiB",
+    "date": "28-Sep-2025 14:50"
+  },
+  {
+    "name": "epromprg.zip",
+    "href": "epromprg.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/electron_rom/epromprg.zip",
+    "is_dir": false,
+    "size": "3.9 KiB",
+    "date": "28-Sep-2025 14:50"
+  },
+  {
+    "name": "gommc.zip",
+    "href": "gommc.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/electron_rom/gommc.zip",
+    "is_dir": false,
+    "size": "7.5 KiB",
+    "date": "28-Sep-2025 14:50"
+  },
+  {
+    "name": "i2c.zip",
+    "href": "i2c.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/electron_rom/i2c.zip",
+    "is_dir": false,
+    "size": "2.4 KiB",
+    "date": "28-Sep-2025 14:50"
+  },
+  {
+    "name": "matrix.zip",
+    "href": "matrix.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/electron_rom/matrix.zip",
+    "is_dir": false,
+    "size": "5.2 KiB",
+    "date": "28-Sep-2025 14:50"
+  },
+  {
+    "name": "mforth83.zip",
+    "href": "mforth83.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/electron_rom/mforth83.zip",
+    "is_dir": false,
+    "size": "11.2 KiB",
+    "date": "28-Sep-2025 14:50"
+  },
+  {
+    "name": "mode7mk2.zip",
+    "href": "mode7mk2.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/electron_rom/mode7mk2.zip",
+    "is_dir": false,
+    "size": "11.0 KiB",
+    "date": "28-Sep-2025 14:50"
+  },
+  {
+    "name": "mode7mk211.zip",
+    "href": "mode7mk211.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/electron_rom/mode7mk211.zip",
+    "is_dir": false,
+    "size": "10.8 KiB",
+    "date": "28-Sep-2025 14:50"
+  },
+  {
+    "name": "mode7sim.zip",
+    "href": "mode7sim.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/electron_rom/mode7sim.zip",
+    "is_dir": false,
+    "size": "9.6 KiB",
+    "date": "28-Sep-2025 14:50"
+  },
+  {
+    "name": "mode7sim11.zip",
+    "href": "mode7sim11.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/electron_rom/mode7sim11.zip",
+    "is_dir": false,
+    "size": "9.6 KiB",
+    "date": "28-Sep-2025 14:50"
+  },
+  {
+    "name": "pdg.zip",
+    "href": "pdg.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/electron_rom/pdg.zip",
+    "is_dir": false,
+    "size": "5.4 KiB",
+    "date": "28-Sep-2025 14:50"
+  },
+  {
+    "name": "pluscom.zip",
+    "href": "pluscom.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/electron_rom/pluscom.zip",
+    "is_dir": false,
+    "size": "9.2 KiB",
+    "date": "28-Sep-2025 14:50"
+  },
+  {
+    "name": "pluscom10.zip",
+    "href": "pluscom10.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/electron_rom/pluscom10.zip",
+    "is_dir": false,
+    "size": "9.1 KiB",
+    "date": "28-Sep-2025 14:50"
+  },
+  {
+    "name": "printer.zip",
+    "href": "printer.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/electron_rom/printer.zip",
+    "is_dir": false,
+    "size": "2.9 KiB",
+    "date": "28-Sep-2025 14:50"
+  },
+  {
+    "name": "printerrb.zip",
+    "href": "printerrb.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/electron_rom/printerrb.zip",
+    "is_dir": false,
+    "size": "3.1 KiB",
+    "date": "28-Sep-2025 14:50"
+  },
+  {
+    "name": "ramtest.zip",
+    "href": "ramtest.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/electron_rom/ramtest.zip",
+    "is_dir": false,
+    "size": "644 B",
+    "date": "28-Sep-2025 14:50"
+  },
+  {
+    "name": "stargrph.zip",
+    "href": "stargrph.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/electron_rom/stargrph.zip",
+    "is_dir": false,
+    "size": "5.0 KiB",
+    "date": "28-Sep-2025 14:50"
+  },
+  {
+    "name": "stargrph2.zip",
+    "href": "stargrph2.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/electron_rom/stargrph2.zip",
+    "is_dir": false,
+    "size": "6.5 KiB",
+    "date": "28-Sep-2025 14:50"
+  },
+  {
+    "name": "starmon.zip",
+    "href": "starmon.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/electron_rom/starmon.zip",
+    "is_dir": false,
+    "size": "5.8 KiB",
+    "date": "28-Sep-2025 14:50"
+  },
+  {
+    "name": "starspell.zip",
+    "href": "starspell.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/electron_rom/starspell.zip",
+    "is_dir": false,
+    "size": "6.5 KiB",
+    "date": "28-Sep-2025 14:50"
+  },
+  {
+    "name": "starstor.zip",
+    "href": "starstor.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/electron_rom/starstor.zip",
+    "is_dir": false,
+    "size": "5.6 KiB",
+    "date": "28-Sep-2025 14:50"
+  },
+  {
+    "name": "starstor2.zip",
+    "href": "starstor2.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/electron_rom/starstor2.zip",
+    "is_dir": false,
+    "size": "10.1 KiB",
+    "date": "28-Sep-2025 14:50"
+  },
+  {
+    "name": "starstor203.zip",
+    "href": "starstor203.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/electron_rom/starstor203.zip",
+    "is_dir": false,
+    "size": "10.2 KiB",
+    "date": "28-Sep-2025 14:50"
+  },
+  {
+    "name": "starstora.zip",
+    "href": "starstora.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/electron_rom/starstora.zip",
+    "is_dir": false,
+    "size": "5.5 KiB",
+    "date": "28-Sep-2025 14:50"
+  },
+  {
+    "name": "starword.zip",
+    "href": "starword.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/electron_rom/starword.zip",
+    "is_dir": false,
+    "size": "9.8 KiB",
+    "date": "28-Sep-2025 14:50"
+  },
+  {
+    "name": "starwordc.zip",
+    "href": "starwordc.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/electron_rom/starwordc.zip",
+    "is_dir": false,
+    "size": "10.2 KiB",
+    "date": "28-Sep-2025 14:50"
+  },
+  {
+    "name": "starwordnlf.zip",
+    "href": "starwordnlf.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/electron_rom/starwordnlf.zip",
+    "is_dir": false,
+    "size": "9.8 KiB",
+    "date": "28-Sep-2025 14:50"
+  },
+  {
+    "name": "stopress.zip",
+    "href": "stopress.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/electron_rom/stopress.zip",
+    "is_dir": false,
+    "size": "19.5 KiB",
+    "date": "28-Sep-2025 14:50"
+  },
+  {
+    "name": "t2c3.zip",
+    "href": "t2c3.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/electron_rom/t2c3.zip",
+    "is_dir": false,
+    "size": "3.1 KiB",
+    "date": "28-Sep-2025 14:50"
+  },
+  {
+    "name": "t2cu.zip",
+    "href": "t2cu.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/electron_rom/t2cu.zip",
+    "is_dir": false,
+    "size": "3.3 KiB",
+    "date": "28-Sep-2025 14:50"
+  },
+  {
+    "name": "t2cu101.zip",
+    "href": "t2cu101.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/electron_rom/t2cu101.zip",
+    "is_dir": false,
+    "size": "3.4 KiB",
+    "date": "28-Sep-2025 14:50"
+  },
+  {
+    "name": "t2cu200.zip",
+    "href": "t2cu200.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/electron_rom/t2cu200.zip",
+    "is_dir": false,
+    "size": "3.4 KiB",
+    "date": "28-Sep-2025 14:50"
+  },
+  {
+    "name": "t2p3.zip",
+    "href": "t2p3.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/electron_rom/t2p3.zip",
+    "is_dir": false,
+    "size": "3.1 KiB",
+    "date": "28-Sep-2025 14:50"
+  },
+  {
+    "name": "t2p3100.zip",
+    "href": "t2p3100.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/electron_rom/t2p3100.zip",
+    "is_dir": false,
+    "size": "6.2 KiB",
+    "date": "28-Sep-2025 14:50"
+  },
+  {
+    "name": "t2p3101.zip",
+    "href": "t2p3101.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/electron_rom/t2p3101.zip",
+    "is_dir": false,
+    "size": "3.2 KiB",
+    "date": "28-Sep-2025 14:50"
+  },
+  {
+    "name": "t2p3200.zip",
+    "href": "t2p3200.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/electron_rom/t2p3200.zip",
+    "is_dir": false,
+    "size": "3.2 KiB",
+    "date": "28-Sep-2025 14:50"
+  },
+  {
+    "name": "t2p3201.zip",
+    "href": "t2p3201.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/electron_rom/t2p3201.zip",
+    "is_dir": false,
+    "size": "3.2 KiB",
+    "date": "28-Sep-2025 14:50"
+  },
+  {
+    "name": "t2p4.zip",
+    "href": "t2p4.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/electron_rom/t2p4.zip",
+    "is_dir": false,
+    "size": "6.2 KiB",
+    "date": "28-Sep-2025 14:50"
+  },
+  {
+    "name": "t2p4200.zip",
+    "href": "t2p4200.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/electron_rom/t2p4200.zip",
+    "is_dir": false,
+    "size": "3.1 KiB",
+    "date": "28-Sep-2025 14:50"
+  },
+  {
+    "name": "t2p4201.zip",
+    "href": "t2p4201.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/electron_rom/t2p4201.zip",
+    "is_dir": false,
+    "size": "3.0 KiB",
+    "date": "28-Sep-2025 14:50"
+  },
+  {
+    "name": "t2peg400.zip",
+    "href": "t2peg400.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/electron_rom/t2peg400.zip",
+    "is_dir": false,
+    "size": "6.2 KiB",
+    "date": "28-Sep-2025 14:50"
+  },
+  {
+    "name": "t2sd.zip",
+    "href": "t2sd.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/electron_rom/t2sd.zip",
+    "is_dir": false,
+    "size": "3.0 KiB",
+    "date": "28-Sep-2025 14:50"
+  },
+  {
+    "name": "t2sedfs.zip",
+    "href": "t2sedfs.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/electron_rom/t2sedfs.zip",
+    "is_dir": false,
+    "size": "3.0 KiB",
+    "date": "28-Sep-2025 14:50"
+  },
+  {
+    "name": "t2sedfs200.zip",
+    "href": "t2sedfs200.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/electron_rom/t2sedfs200.zip",
+    "is_dir": false,
+    "size": "3.1 KiB",
+    "date": "28-Sep-2025 14:50"
+  },
+  {
+    "name": "timetndr.zip",
+    "href": "timetndr.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/electron_rom/timetndr.zip",
+    "is_dir": false,
+    "size": "7.7 KiB",
+    "date": "28-Sep-2025 14:50"
+  },
+  {
+    "name": "trek.zip",
+    "href": "trek.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/electron_rom/trek.zip",
+    "is_dir": false,
+    "size": "9.1 KiB",
+    "date": "28-Sep-2025 14:50"
+  },
+  {
+    "name": "trek106.zip",
+    "href": "trek106.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/electron_rom/trek106.zip",
+    "is_dir": false,
+    "size": "9.1 KiB",
+    "date": "28-Sep-2025 14:50"
+  },
+  {
+    "name": "utility.zip",
+    "href": "utility.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/electron_rom/utility.zip",
+    "is_dir": false,
+    "size": "10.4 KiB",
+    "date": "28-Sep-2025 14:50"
+  },
+  {
+    "name": "wordpwr.zip",
+    "href": "wordpwr.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/electron_rom/wordpwr.zip",
+    "is_dir": false,
+    "size": "11.3 KiB",
+    "date": "28-Sep-2025 14:50"
+  },
+  {
+    "name": "xbasic.zip",
+    "href": "xbasic.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/electron_rom/xbasic.zip",
+    "is_dir": false,
+    "size": "12.6 KiB",
+    "date": "28-Sep-2025 14:50"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "name": "CHD-PSX-JAP",
+    "href": "CHD-PSX-JAP/",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/chadmaster/chd_psx_jap/CHD-PSX-JAP/",
+    "is_dir": true,
+    "size": null,
+    "date": "07-Sep-2025 10:35"
+  },
+  {
+    "name": "chd_psx_jap_files.xml",
+    "href": "chd_psx_jap_files.xml",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/chadmaster/chd_psx_jap/chd_psx_jap_files.xml",
+    "is_dir": false,
+    "size": "1.4 MiB",
+    "date": "01-Jan-1970 00:00"
+  },
+  {
+    "name": "chd_psx_jap_meta.sqlite",
+    "href": "chd_psx_jap_meta.sqlite",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/chadmaster/chd_psx_jap/chd_psx_jap_meta.sqlite",
+    "is_dir": false,
+    "size": "7.0 MiB",
+    "date": "22-May-2022 02:28"
+  },
+  {
+    "name": "chd_psx_jap_meta.xml",
+    "href": "chd_psx_jap_meta.xml",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/chadmaster/chd_psx_jap/chd_psx_jap_meta.xml",
+    "is_dir": false,
+    "size": "1.3 KiB",
+    "date": "01-Sep-2024 04:48"
+  },
+  {
+    "name": "chd_psx_jap_reviews.xml",
+    "href": "chd_psx_jap_reviews.xml",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/chadmaster/chd_psx_jap/chd_psx_jap_reviews.xml",
+    "is_dir": false,
+    "size": "1.3 KiB",
+    "date": "08-Oct-2024 23:51"
+  }
+]

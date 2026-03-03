@@ -1,0 +1,258 @@
+[
+  {
+    "name": "ATX",
+    "href": "ATX/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intel/ATX/",
+    "is_dir": true,
+    "size": null,
+    "date": "23-Jul-2025 12:31"
+  },
+  {
+    "name": "ICE-86",
+    "href": "ICE-86/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intel/ICE-86/",
+    "is_dir": true,
+    "size": null,
+    "date": "06-Mar-2023 02:04"
+  },
+  {
+    "name": "ISIS_II",
+    "href": "ISIS_II/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intel/ISIS_II/",
+    "is_dir": true,
+    "size": null,
+    "date": "08-Aug-2021 02:33"
+  },
+  {
+    "name": "MDS",
+    "href": "MDS/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intel/MDS/",
+    "is_dir": true,
+    "size": null,
+    "date": "31-Mar-2022 01:23"
+  },
+  {
+    "name": "MDS2",
+    "href": "MDS2/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intel/MDS2/",
+    "is_dir": true,
+    "size": null,
+    "date": "01-Mar-2023 23:25"
+  },
+  {
+    "name": "MDS3",
+    "href": "MDS3/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intel/MDS3/",
+    "is_dir": true,
+    "size": null,
+    "date": "22-Feb-2025 19:51"
+  },
+  {
+    "name": "MDS4",
+    "href": "MDS4/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intel/MDS4/",
+    "is_dir": true,
+    "size": null,
+    "date": "01-Dec-2016 01:22"
+  },
+  {
+    "name": "MDS800",
+    "href": "MDS800/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intel/MDS800/",
+    "is_dir": true,
+    "size": null,
+    "date": "31-Mar-2022 01:23"
+  },
+  {
+    "name": "NDS-II",
+    "href": "NDS-II/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intel/NDS-II/",
+    "is_dir": true,
+    "size": null,
+    "date": "09-Aug-2025 14:07"
+  },
+  {
+    "name": "PCI",
+    "href": "PCI/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intel/PCI/",
+    "is_dir": true,
+    "size": null,
+    "date": "16-Sep-2011 18:03"
+  },
+  {
+    "name": "PLM",
+    "href": "PLM/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intel/PLM/",
+    "is_dir": true,
+    "size": null,
+    "date": "05-Dec-2016 01:42"
+  },
+  {
+    "name": "_busSpec",
+    "href": "_busSpec/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intel/_busSpec/",
+    "is_dir": true,
+    "size": null,
+    "date": "25-May-2022 18:44"
+  },
+  {
+    "name": "_catalog",
+    "href": "_catalog/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intel/_catalog/",
+    "is_dir": true,
+    "size": null,
+    "date": "07-Apr-2019 00:54"
+  },
+  {
+    "name": "articleReprints",
+    "href": "articleReprints/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intel/articleReprints/",
+    "is_dir": true,
+    "size": null,
+    "date": "16-Jul-2015 15:41"
+  },
+  {
+    "name": "i2ice",
+    "href": "i2ice/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intel/i2ice/",
+    "is_dir": true,
+    "size": null,
+    "date": "30-Nov-2016 00:17"
+  },
+  {
+    "name": "iDIS",
+    "href": "iDIS/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intel/iDIS/",
+    "is_dir": true,
+    "size": null,
+    "date": "04-Nov-2022 15:26"
+  },
+  {
+    "name": "iPDS",
+    "href": "iPDS/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intel/iPDS/",
+    "is_dir": true,
+    "size": null,
+    "date": "24-Dec-2009 19:04"
+  },
+  {
+    "name": "iRMX",
+    "href": "iRMX/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intel/iRMX/",
+    "is_dir": true,
+    "size": null,
+    "date": "05-Dec-2016 01:45"
+  },
+  {
+    "name": "iSBC",
+    "href": "iSBC/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intel/iSBC/",
+    "is_dir": true,
+    "size": null,
+    "date": "08-Oct-2025 17:02"
+  },
+  {
+    "name": "iSBX",
+    "href": "iSBX/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intel/iSBX/",
+    "is_dir": true,
+    "size": null,
+    "date": "23-Dec-2012 02:54"
+  },
+  {
+    "name": "iTPS",
+    "href": "iTPS/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intel/iTPS/",
+    "is_dir": true,
+    "size": null,
+    "date": "04-Nov-2022 18:10"
+  },
+  {
+    "name": "iUP201",
+    "href": "iUP201/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intel/iUP201/",
+    "is_dir": true,
+    "size": null,
+    "date": "12-Jan-2017 19:56"
+  },
+  {
+    "name": "inboard",
+    "href": "inboard/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intel/inboard/",
+    "is_dir": true,
+    "size": null,
+    "date": "04-Jan-2022 13:47"
+  },
+  {
+    "name": "insite",
+    "href": "insite/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intel/insite/",
+    "is_dir": true,
+    "size": null,
+    "date": "27-Aug-2017 01:46"
+  },
+  {
+    "name": "isa_systems",
+    "href": "isa_systems/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intel/isa_systems/",
+    "is_dir": true,
+    "size": null,
+    "date": "15-Jan-2022 19:06"
+  },
+  {
+    "name": "prompt48",
+    "href": "prompt48/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intel/prompt48/",
+    "is_dir": true,
+    "size": null,
+    "date": "05-Mar-2017 19:58"
+  },
+  {
+    "name": "prompt80",
+    "href": "prompt80/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intel/prompt80/",
+    "is_dir": true,
+    "size": null,
+    "date": "07-Jan-2017 17:30"
+  },
+  {
+    "name": "supercomputer",
+    "href": "supercomputer/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intel/supercomputer/",
+    "is_dir": true,
+    "size": null,
+    "date": "05-Nov-2016 17:46"
+  },
+  {
+    "name": "system3xx",
+    "href": "system3xx/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intel/system3xx/",
+    "is_dir": true,
+    "size": null,
+    "date": "18-Aug-2025 16:33"
+  },
+  {
+    "name": "upp",
+    "href": "upp/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intel/upp/",
+    "is_dir": true,
+    "size": null,
+    "date": "26-Jan-2011 16:48"
+  },
+  {
+    "name": "uscope820",
+    "href": "uscope820/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intel/uscope820/",
+    "is_dir": true,
+    "size": null,
+    "date": "31-Aug-2021 16:45"
+  },
+  {
+    "name": "_ManualPartNumbers.txt",
+    "href": "_ManualPartNumbers.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intel/_ManualPartNumbers.txt",
+    "is_dir": false,
+    "size": "9.1 KiB",
+    "date": "25-Jul-2004 04:06"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "name": "firmware",
+    "href": "firmware/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Solbourne/firmware/",
+    "is_dir": true,
+    "size": null,
+    "date": "06-Aug-2016 18:25"
+  },
+  {
+    "name": "pcb_photos",
+    "href": "pcb_photos/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Solbourne/pcb_photos/",
+    "is_dir": true,
+    "size": null,
+    "date": "06-Aug-2016 18:28"
+  },
+  {
+    "name": "scans",
+    "href": "scans/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Solbourne/scans/",
+    "is_dir": true,
+    "size": null,
+    "date": "23-Feb-2012 21:40"
+  },
+  {
+    "name": "41CDIST.TAR.gz",
+    "href": "41CDIST.TAR.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Solbourne/41CDIST.TAR.gz",
+    "is_dir": false,
+    "size": "47.0 MiB",
+    "date": "23-Feb-2012 15:57"
+  },
+  {
+    "name": "4_1CPTCH.TAR.gz",
+    "href": "4_1CPTCH.TAR.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Solbourne/4_1CPTCH.TAR.gz",
+    "is_dir": false,
+    "size": "1.5 MiB",
+    "date": "23-Feb-2012 15:57"
+  },
+  {
+    "name": "OSMP_4.1c_orig.iso.gz",
+    "href": "OSMP_4.1c_orig.iso.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Solbourne/OSMP_4.1c_orig.iso.gz",
+    "is_dir": false,
+    "size": "53.7 MiB",
+    "date": "23-Feb-2012 15:36"
+  },
+  {
+    "name": "Solbourne4.1C_and_patches.iso.gz",
+    "href": "Solbourne4.1C_and_patches.iso.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Solbourne/Solbourne4.1C_and_patches.iso.gz",
+    "is_dir": false,
+    "size": "48.5 MiB",
+    "date": "23-Feb-2012 15:48"
+  },
+  {
+    "name": "solbourne_4.1C_patches_11-10-95.tar.gz",
+    "href": "solbourne_4.1C_patches_11-10-95.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Solbourne/solbourne_4.1C_patches_11-10-95.tar.gz",
+    "is_dir": false,
+    "size": "1.5 MiB",
+    "date": "16-Sep-2016 17:38"
+  },
+  {
+    "name": "solbourne_4.1C_patches_11-10-95.tar.txt",
+    "href": "solbourne_4.1C_patches_11-10-95.tar.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Solbourne/solbourne_4.1C_patches_11-10-95.tar.txt",
+    "is_dir": false,
+    "size": "52.1 KiB",
+    "date": "16-Sep-2016 17:38"
+  }
+]

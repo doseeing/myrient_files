@@ -1,0 +1,98 @@
+[
+  {
+    "name": "frontal",
+    "href": "frontal/",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Standalone/Star%20Rider%20Emulator%20%28Oct%202024%29/frontal/",
+    "is_dir": true,
+    "size": null,
+    "date": "04-Dec-2025 01:43"
+  },
+  {
+    "name": "info",
+    "href": "info/",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Standalone/Star%20Rider%20Emulator%20%28Oct%202024%29/info/",
+    "is_dir": true,
+    "size": null,
+    "date": "04-Dec-2025 01:43"
+  },
+  {
+    "name": "roms",
+    "href": "roms/",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Standalone/Star%20Rider%20Emulator%20%28Oct%202024%29/roms/",
+    "is_dir": true,
+    "size": null,
+    "date": "01-Dec-2025 18:35"
+  },
+  {
+    "name": "source",
+    "href": "source/",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Standalone/Star%20Rider%20Emulator%20%28Oct%202024%29/source/",
+    "is_dir": true,
+    "size": null,
+    "date": "04-Dec-2025 01:43"
+  },
+  {
+    "name": "video",
+    "href": "video/",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Standalone/Star%20Rider%20Emulator%20%28Oct%202024%29/video/",
+    "is_dir": true,
+    "size": null,
+    "date": "04-Dec-2025 01:43"
+  },
+  {
+    "name": "DUMPRAM.BIN",
+    "href": "DUMPRAM.BIN",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Standalone/Star%20Rider%20Emulator%20%28Oct%202024%29/DUMPRAM.BIN",
+    "is_dir": false,
+    "size": "24.5 KiB",
+    "date": "04-Dec-2025 01:43"
+  },
+  {
+    "name": "EmulStarRider.exe",
+    "href": "EmulStarRider.exe",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Standalone/Star%20Rider%20Emulator%20%28Oct%202024%29/EmulStarRider.exe",
+    "is_dir": false,
+    "size": "213.5 KiB",
+    "date": "04-Dec-2025 01:43"
+  },
+  {
+    "name": "NVRAM.BIN",
+    "href": "NVRAM.BIN",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Standalone/Star%20Rider%20Emulator%20%28Oct%202024%29/NVRAM.BIN",
+    "is_dir": false,
+    "size": "1.0 KiB",
+    "date": "04-Dec-2025 01:43"
+  },
+  {
+    "name": "README English.txt",
+    "href": "README%20English.txt",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Standalone/Star%20Rider%20Emulator%20%28Oct%202024%29/README%20English.txt",
+    "is_dir": false,
+    "size": "4.2 KiB",
+    "date": "04-Dec-2025 01:43"
+  },
+  {
+    "name": "README HOW TO PLAY.txt",
+    "href": "README%20HOW%20TO%20PLAY.txt",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Standalone/Star%20Rider%20Emulator%20%28Oct%202024%29/README%20HOW%20TO%20PLAY.txt",
+    "is_dir": false,
+    "size": "393 B",
+    "date": "04-Dec-2025 01:43"
+  },
+  {
+    "name": "README Spanish.txt",
+    "href": "README%20Spanish.txt",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Standalone/Star%20Rider%20Emulator%20%28Oct%202024%29/README%20Spanish.txt",
+    "is_dir": false,
+    "size": "4.1 KiB",
+    "date": "04-Dec-2025 01:43"
+  },
+  {
+    "name": "Xvid-1.3.7-20191228.exe",
+    "href": "Xvid-1.3.7-20191228.exe",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Standalone/Star%20Rider%20Emulator%20%28Oct%202024%29/Xvid-1.3.7-20191228.exe",
+    "is_dir": false,
+    "size": "11.3 MiB",
+    "date": "04-Dec-2025 01:43"
+  }
+]

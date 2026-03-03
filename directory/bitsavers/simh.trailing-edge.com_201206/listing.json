@@ -1,0 +1,314 @@
+[
+  {
+    "name": "docs",
+    "href": "docs/",
+    "url": "https://myrient.erista.me/files/bitsavers/simh.trailing-edge.com_201206/docs/",
+    "is_dir": true,
+    "size": null,
+    "date": "02-Jun-2012 18:20"
+  },
+  {
+    "name": "games",
+    "href": "games/",
+    "url": "https://myrient.erista.me/files/bitsavers/simh.trailing-edge.com_201206/games/",
+    "is_dir": true,
+    "size": null,
+    "date": "02-Jun-2012 18:20"
+  },
+  {
+    "name": "kits",
+    "href": "kits/",
+    "url": "https://myrient.erista.me/files/bitsavers/simh.trailing-edge.com_201206/kits/",
+    "is_dir": true,
+    "size": null,
+    "date": "02-Jun-2012 18:19"
+  },
+  {
+    "name": "pdf",
+    "href": "pdf/",
+    "url": "https://myrient.erista.me/files/bitsavers/simh.trailing-edge.com_201206/pdf/",
+    "is_dir": true,
+    "size": null,
+    "date": "02-Jun-2012 18:19"
+  },
+  {
+    "name": "photos",
+    "href": "photos/",
+    "url": "https://myrient.erista.me/files/bitsavers/simh.trailing-edge.com_201206/photos/",
+    "is_dir": true,
+    "size": null,
+    "date": "02-Jun-2012 18:18"
+  },
+  {
+    "name": "semi",
+    "href": "semi/",
+    "url": "https://myrient.erista.me/files/bitsavers/simh.trailing-edge.com_201206/semi/",
+    "is_dir": true,
+    "size": null,
+    "date": "02-Jun-2012 18:11"
+  },
+  {
+    "name": "sources",
+    "href": "sources/",
+    "url": "https://myrient.erista.me/files/bitsavers/simh.trailing-edge.com_201206/sources/",
+    "is_dir": true,
+    "size": null,
+    "date": "02-Jun-2012 18:17"
+  },
+  {
+    "name": "altair.html",
+    "href": "altair.html",
+    "url": "https://myrient.erista.me/files/bitsavers/simh.trailing-edge.com_201206/altair.html",
+    "is_dir": false,
+    "size": "2.1 KiB",
+    "date": "02-Jun-2012 18:10"
+  },
+  {
+    "name": "altairz80.html",
+    "href": "altairz80.html",
+    "url": "https://myrient.erista.me/files/bitsavers/simh.trailing-edge.com_201206/altairz80.html",
+    "is_dir": false,
+    "size": "2.8 KiB",
+    "date": "02-Jun-2012 18:10"
+  },
+  {
+    "name": "contrib.html",
+    "href": "contrib.html",
+    "url": "https://myrient.erista.me/files/bitsavers/simh.trailing-edge.com_201206/contrib.html",
+    "is_dir": false,
+    "size": "10.3 KiB",
+    "date": "02-Jun-2012 18:10"
+  },
+  {
+    "name": "dsarchive.html",
+    "href": "dsarchive.html",
+    "url": "https://myrient.erista.me/files/bitsavers/simh.trailing-edge.com_201206/dsarchive.html",
+    "is_dir": false,
+    "size": "4.5 KiB",
+    "date": "02-Jun-2012 18:10"
+  },
+  {
+    "name": "future.html",
+    "href": "future.html",
+    "url": "https://myrient.erista.me/files/bitsavers/simh.trailing-edge.com_201206/future.html",
+    "is_dir": false,
+    "size": "1.2 KiB",
+    "date": "02-Jun-2012 18:10"
+  },
+  {
+    "name": "gri.html",
+    "href": "gri.html",
+    "url": "https://myrient.erista.me/files/bitsavers/simh.trailing-edge.com_201206/gri.html",
+    "is_dir": false,
+    "size": "1.8 KiB",
+    "date": "02-Jun-2012 18:10"
+  },
+  {
+    "name": "h316.html",
+    "href": "h316.html",
+    "url": "https://myrient.erista.me/files/bitsavers/simh.trailing-edge.com_201206/h316.html",
+    "is_dir": false,
+    "size": "1.9 KiB",
+    "date": "02-Jun-2012 18:10"
+  },
+  {
+    "name": "hardware.html",
+    "href": "hardware.html",
+    "url": "https://myrient.erista.me/files/bitsavers/simh.trailing-edge.com_201206/hardware.html",
+    "is_dir": false,
+    "size": "3.0 KiB",
+    "date": "02-Jun-2012 18:10"
+  },
+  {
+    "name": "help.html",
+    "href": "help.html",
+    "url": "https://myrient.erista.me/files/bitsavers/simh.trailing-edge.com_201206/help.html",
+    "is_dir": false,
+    "size": "1.8 KiB",
+    "date": "02-Jun-2012 18:10"
+  },
+  {
+    "name": "hp2100.html",
+    "href": "hp2100.html",
+    "url": "https://myrient.erista.me/files/bitsavers/simh.trailing-edge.com_201206/hp2100.html",
+    "is_dir": false,
+    "size": "3.1 KiB",
+    "date": "02-Jun-2012 18:10"
+  },
+  {
+    "name": "i1401.html",
+    "href": "i1401.html",
+    "url": "https://myrient.erista.me/files/bitsavers/simh.trailing-edge.com_201206/i1401.html",
+    "is_dir": false,
+    "size": "2.2 KiB",
+    "date": "02-Jun-2012 18:10"
+  },
+  {
+    "name": "i1620.html",
+    "href": "i1620.html",
+    "url": "https://myrient.erista.me/files/bitsavers/simh.trailing-edge.com_201206/i1620.html",
+    "is_dir": false,
+    "size": "2.3 KiB",
+    "date": "02-Jun-2012 18:10"
+  },
+  {
+    "name": "i7094.html",
+    "href": "i7094.html",
+    "url": "https://myrient.erista.me/files/bitsavers/simh.trailing-edge.com_201206/i7094.html",
+    "is_dir": false,
+    "size": "2.7 KiB",
+    "date": "02-Jun-2012 18:10"
+  },
+  {
+    "name": "index.html",
+    "href": "index.html",
+    "url": "https://myrient.erista.me/files/bitsavers/simh.trailing-edge.com_201206/index.html",
+    "is_dir": false,
+    "size": "3.4 KiB",
+    "date": "02-Jun-2012 18:10"
+  },
+  {
+    "name": "interdata.html",
+    "href": "interdata.html",
+    "url": "https://myrient.erista.me/files/bitsavers/simh.trailing-edge.com_201206/interdata.html",
+    "is_dir": false,
+    "size": "3.1 KiB",
+    "date": "02-Jun-2012 18:10"
+  },
+  {
+    "name": "lgp30.html",
+    "href": "lgp30.html",
+    "url": "https://myrient.erista.me/files/bitsavers/simh.trailing-edge.com_201206/lgp30.html",
+    "is_dir": false,
+    "size": "1.4 KiB",
+    "date": "02-Jun-2012 18:10"
+  },
+  {
+    "name": "links.html",
+    "href": "links.html",
+    "url": "https://myrient.erista.me/files/bitsavers/simh.trailing-edge.com_201206/links.html",
+    "is_dir": false,
+    "size": "4.0 KiB",
+    "date": "02-Jun-2012 18:10"
+  },
+  {
+    "name": "nova.html",
+    "href": "nova.html",
+    "url": "https://myrient.erista.me/files/bitsavers/simh.trailing-edge.com_201206/nova.html",
+    "is_dir": false,
+    "size": "3.5 KiB",
+    "date": "02-Jun-2012 18:10"
+  },
+  {
+    "name": "papers.html",
+    "href": "papers.html",
+    "url": "https://myrient.erista.me/files/bitsavers/simh.trailing-edge.com_201206/papers.html",
+    "is_dir": false,
+    "size": "3.4 KiB",
+    "date": "02-Jun-2012 18:10"
+  },
+  {
+    "name": "pdp1.html",
+    "href": "pdp1.html",
+    "url": "https://myrient.erista.me/files/bitsavers/simh.trailing-edge.com_201206/pdp1.html",
+    "is_dir": false,
+    "size": "1.9 KiB",
+    "date": "02-Jun-2012 18:10"
+  },
+  {
+    "name": "pdp10.html",
+    "href": "pdp10.html",
+    "url": "https://myrient.erista.me/files/bitsavers/simh.trailing-edge.com_201206/pdp10.html",
+    "is_dir": false,
+    "size": "2.8 KiB",
+    "date": "02-Jun-2012 18:10"
+  },
+  {
+    "name": "pdp11.html",
+    "href": "pdp11.html",
+    "url": "https://myrient.erista.me/files/bitsavers/simh.trailing-edge.com_201206/pdp11.html",
+    "is_dir": false,
+    "size": "5.7 KiB",
+    "date": "02-Jun-2012 18:10"
+  },
+  {
+    "name": "pdp15.html",
+    "href": "pdp15.html",
+    "url": "https://myrient.erista.me/files/bitsavers/simh.trailing-edge.com_201206/pdp15.html",
+    "is_dir": false,
+    "size": "2.4 KiB",
+    "date": "02-Jun-2012 18:10"
+  },
+  {
+    "name": "pdp4.html",
+    "href": "pdp4.html",
+    "url": "https://myrient.erista.me/files/bitsavers/simh.trailing-edge.com_201206/pdp4.html",
+    "is_dir": false,
+    "size": "1.7 KiB",
+    "date": "02-Jun-2012 18:10"
+  },
+  {
+    "name": "pdp7.html",
+    "href": "pdp7.html",
+    "url": "https://myrient.erista.me/files/bitsavers/simh.trailing-edge.com_201206/pdp7.html",
+    "is_dir": false,
+    "size": "2.0 KiB",
+    "date": "02-Jun-2012 18:10"
+  },
+  {
+    "name": "pdp8.html",
+    "href": "pdp8.html",
+    "url": "https://myrient.erista.me/files/bitsavers/simh.trailing-edge.com_201206/pdp8.html",
+    "is_dir": false,
+    "size": "3.3 KiB",
+    "date": "02-Jun-2012 18:10"
+  },
+  {
+    "name": "pdp9.html",
+    "href": "pdp9.html",
+    "url": "https://myrient.erista.me/files/bitsavers/simh.trailing-edge.com_201206/pdp9.html",
+    "is_dir": false,
+    "size": "2.2 KiB",
+    "date": "02-Jun-2012 18:10"
+  },
+  {
+    "name": "photos.html",
+    "href": "photos.html",
+    "url": "https://myrient.erista.me/files/bitsavers/simh.trailing-edge.com_201206/photos.html",
+    "is_dir": false,
+    "size": "3.8 KiB",
+    "date": "02-Jun-2012 18:10"
+  },
+  {
+    "name": "s3.html",
+    "href": "s3.html",
+    "url": "https://myrient.erista.me/files/bitsavers/simh.trailing-edge.com_201206/s3.html",
+    "is_dir": false,
+    "size": "1.1 KiB",
+    "date": "02-Jun-2012 18:10"
+  },
+  {
+    "name": "sds940.html",
+    "href": "sds940.html",
+    "url": "https://myrient.erista.me/files/bitsavers/simh.trailing-edge.com_201206/sds940.html",
+    "is_dir": false,
+    "size": "2.1 KiB",
+    "date": "02-Jun-2012 18:10"
+  },
+  {
+    "name": "software.html",
+    "href": "software.html",
+    "url": "https://myrient.erista.me/files/bitsavers/simh.trailing-edge.com_201206/software.html",
+    "is_dir": false,
+    "size": "6.3 KiB",
+    "date": "02-Jun-2012 18:10"
+  },
+  {
+    "name": "vax.html",
+    "href": "vax.html",
+    "url": "https://myrient.erista.me/files/bitsavers/simh.trailing-edge.com_201206/vax.html",
+    "is_dir": false,
+    "size": "5.5 KiB",
+    "date": "02-Jun-2012 18:10"
+  }
+]

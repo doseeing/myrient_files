@@ -1,0 +1,74 @@
+[
+  {
+    "name": "ASIC",
+    "href": "ASIC/",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ncr_symbios/ASIC/",
+    "is_dir": true,
+    "size": null,
+    "date": "04-Aug-2025 01:39"
+  },
+  {
+    "name": "NCR32",
+    "href": "NCR32/",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ncr_symbios/NCR32/",
+    "is_dir": true,
+    "size": null,
+    "date": "27-Aug-2017 01:49"
+  },
+  {
+    "name": "ethernet",
+    "href": "ethernet/",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ncr_symbios/ethernet/",
+    "is_dir": true,
+    "size": null,
+    "date": "16-Nov-2025 17:18"
+  },
+  {
+    "name": "scsi",
+    "href": "scsi/",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ncr_symbios/scsi/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Jun-2024 16:33"
+  },
+  {
+    "name": "1985_NCR_Microlectronics_Data_Book.pdf",
+    "href": "1985_NCR_Microlectronics_Data_Book.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ncr_symbios/1985_NCR_Microlectronics_Data_Book.pdf",
+    "is_dir": false,
+    "size": "27.3 MiB",
+    "date": "13-Jul-2017 17:44"
+  },
+  {
+    "name": "1988_NCR_Standard_Products_Data_Book.pdf",
+    "href": "1988_NCR_Standard_Products_Data_Book.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ncr_symbios/1988_NCR_Standard_Products_Data_Book.pdf",
+    "is_dir": false,
+    "size": "22.9 MiB",
+    "date": "26-Jun-2021 23:17"
+  },
+  {
+    "name": "D02911MPD_NCR_Digital_ASIC_Data_Book_1991.pdf",
+    "href": "D02911MPD_NCR_Digital_ASIC_Data_Book_1991.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ncr_symbios/D02911MPD_NCR_Digital_ASIC_Data_Book_1991.pdf",
+    "is_dir": false,
+    "size": "51.5 MiB",
+    "date": "08-Sep-2020 19:17"
+  },
+  {
+    "name": "NCR_Short-Form_Catalog_Apr85.pdf",
+    "href": "NCR_Short-Form_Catalog_Apr85.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ncr_symbios/NCR_Short-Form_Catalog_Apr85.pdf",
+    "is_dir": false,
+    "size": "1.9 MiB",
+    "date": "05-Jan-2011 03:23"
+  },
+  {
+    "name": "Symbios_SYM92C1000_Ethernet_MAC_1995.pdf",
+    "href": "Symbios_SYM92C1000_Ethernet_MAC_1995.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ncr_symbios/Symbios_SYM92C1000_Ethernet_MAC_1995.pdf",
+    "is_dir": false,
+    "size": "5.2 MiB",
+    "date": "30-Oct-2017 00:00"
+  }
+]

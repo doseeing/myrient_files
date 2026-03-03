@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Valid_PC386",
+    "href": "Valid_PC386/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/ValidLogic/Valid_PC386/",
+    "is_dir": true,
+    "size": null,
+    "date": "11-Jan-2024 11:58"
+  },
+  {
+    "name": "Valid_Logic_tapes.zip",
+    "href": "Valid_Logic_tapes.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/ValidLogic/Valid_Logic_tapes.zip",
+    "is_dir": false,
+    "size": "176.5 MiB",
+    "date": "06-Jul-2022 21:30"
+  },
+  {
+    "name": "Valid_V6.1_Disk_Dump.tap.gz",
+    "href": "Valid_V6.1_Disk_Dump.tap.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/ValidLogic/Valid_V6.1_Disk_Dump.tap.gz",
+    "is_dir": false,
+    "size": "10.9 MiB",
+    "date": "17-Jul-2022 20:11"
+  },
+  {
+    "name": "realchip.tar.gz",
+    "href": "realchip.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/ValidLogic/realchip.tar.gz",
+    "is_dir": false,
+    "size": "1.0 MiB",
+    "date": "20-Jul-2022 02:47"
+  },
+  {
+    "name": "scaldcompiler.tar.gz",
+    "href": "scaldcompiler.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/ValidLogic/scaldcompiler.tar.gz",
+    "is_dir": false,
+    "size": "7.5 MiB",
+    "date": "20-Jul-2022 02:47"
+  },
+  {
+    "name": "valid_ksrc.zip",
+    "href": "valid_ksrc.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/ValidLogic/valid_ksrc.zip",
+    "is_dir": false,
+    "size": "10.3 MiB",
+    "date": "08-Jul-2022 23:52"
+  }
+]

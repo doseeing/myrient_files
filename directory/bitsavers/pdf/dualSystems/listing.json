@@ -1,0 +1,74 @@
+[
+  {
+    "name": "firmware",
+    "href": "firmware/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dualSystems/firmware/",
+    "is_dir": true,
+    "size": null,
+    "date": "02-Jan-2010 19:48"
+  },
+  {
+    "name": "pictures",
+    "href": "pictures/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dualSystems/pictures/",
+    "is_dir": true,
+    "size": null,
+    "date": "29-Aug-2025 00:14"
+  },
+  {
+    "name": "DUAL_Catalog.pdf",
+    "href": "DUAL_Catalog.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dualSystems/DUAL_Catalog.pdf",
+    "is_dir": false,
+    "size": "1.0 MiB",
+    "date": "03-May-2024 18:58"
+  },
+  {
+    "name": "DUAL_Model_68000M_CPU_Board_Manual.pdf",
+    "href": "DUAL_Model_68000M_CPU_Board_Manual.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dualSystems/DUAL_Model_68000M_CPU_Board_Manual.pdf",
+    "is_dir": false,
+    "size": "3.3 MiB",
+    "date": "03-May-2024 18:58"
+  },
+  {
+    "name": "Dual_68K_ad_198309.jpg",
+    "href": "Dual_68K_ad_198309.jpg",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dualSystems/Dual_68K_ad_198309.jpg",
+    "is_dir": false,
+    "size": "381.6 KiB",
+    "date": "15-Mar-2024 16:22"
+  },
+  {
+    "name": "Dual_CPU_68000_Users_Manual_1982.pdf",
+    "href": "Dual_CPU_68000_Users_Manual_1982.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dualSystems/Dual_CPU_68000_Users_Manual_1982.pdf",
+    "is_dir": false,
+    "size": "1.8 MiB",
+    "date": "05-Sep-2015 18:51"
+  },
+  {
+    "name": "Dual_EPROM_32_64K_1982.pdf",
+    "href": "Dual_EPROM_32_64K_1982.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dualSystems/Dual_EPROM_32_64K_1982.pdf",
+    "is_dir": false,
+    "size": "1.7 MiB",
+    "date": "22-Jun-2025 21:17"
+  },
+  {
+    "name": "Dual_SI04_DMA_Users_Manual_1982.pdf",
+    "href": "Dual_SI04_DMA_Users_Manual_1982.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dualSystems/Dual_SI04_DMA_Users_Manual_1982.pdf",
+    "is_dir": false,
+    "size": "2.7 MiB",
+    "date": "16-Oct-2025 03:14"
+  },
+  {
+    "name": "Dual_System_83_Unix_System_User_Manual_19820816.pdf",
+    "href": "Dual_System_83_Unix_System_User_Manual_19820816.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dualSystems/Dual_System_83_Unix_System_User_Manual_19820816.pdf",
+    "is_dir": false,
+    "size": "4.8 MiB",
+    "date": "16-Oct-2025 03:50"
+  }
+]

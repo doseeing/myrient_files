@@ -1,0 +1,90 @@
+[
+  {
+    "name": "X",
+    "href": "X/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/X/",
+    "is_dir": true,
+    "size": null,
+    "date": "03-Mar-2019 23:55"
+  },
+  {
+    "name": "cadr",
+    "href": "cadr/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/cadr/",
+    "is_dir": true,
+    "size": null,
+    "date": "27-Oct-2004 01:18"
+  },
+  {
+    "name": "gnu",
+    "href": "gnu/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/gnu/",
+    "is_dir": true,
+    "size": null,
+    "date": "26-Feb-2007 19:25"
+  },
+  {
+    "name": "multics",
+    "href": "multics/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/multics/",
+    "is_dir": true,
+    "size": null,
+    "date": "11-Nov-2007 00:59"
+  },
+  {
+    "name": "pc-ip",
+    "href": "pc-ip/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/pc-ip/",
+    "is_dir": true,
+    "size": null,
+    "date": "12-Mar-2019 18:36"
+  },
+  {
+    "name": "rle_pdp1x",
+    "href": "rle_pdp1x/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/rle_pdp1x/",
+    "is_dir": true,
+    "size": null,
+    "date": "13-Mar-2025 15:42"
+  },
+  {
+    "name": "trix",
+    "href": "trix/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/trix/",
+    "is_dir": true,
+    "size": null,
+    "date": "09-Feb-2019 18:55"
+  },
+  {
+    "name": "tx-0",
+    "href": "tx-0/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/tx-0/",
+    "is_dir": true,
+    "size": null,
+    "date": "27-Oct-2004 01:19"
+  },
+  {
+    "name": "whirlwind",
+    "href": "whirlwind/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/whirlwind/",
+    "is_dir": true,
+    "size": null,
+    "date": "02-Jan-2020 21:11"
+  },
+  {
+    "name": "trix.tar.gz",
+    "href": "trix.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/trix.tar.gz",
+    "is_dir": false,
+    "size": "133.4 KiB",
+    "date": "03-Dec-2003 00:32"
+  },
+  {
+    "name": "tx0_tapeImages_20040922.tar.gz",
+    "href": "tx0_tapeImages_20040922.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/tx0_tapeImages_20040922.tar.gz",
+    "is_dir": false,
+    "size": "481.0 KiB",
+    "date": "22-Sep-2004 16:49"
+  }
+]

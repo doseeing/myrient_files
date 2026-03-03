@@ -1,0 +1,5522 @@
+[
+  {
+    "name": "32x",
+    "href": "32x/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/32x/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:09"
+  },
+  {
+    "name": "a2600",
+    "href": "a2600/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/a2600/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:09"
+  },
+  {
+    "name": "a2600_cass",
+    "href": "a2600_cass/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/a2600_cass/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:09"
+  },
+  {
+    "name": "a5200",
+    "href": "a5200/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/a5200/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:09"
+  },
+  {
+    "name": "a7800",
+    "href": "a7800/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/a7800/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:09"
+  },
+  {
+    "name": "a800",
+    "href": "a800/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/a800/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:09"
+  },
+  {
+    "name": "a800_cass",
+    "href": "a800_cass/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/a800_cass/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:09"
+  },
+  {
+    "name": "a800_flop",
+    "href": "a800_flop/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/a800_flop/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:09"
+  },
+  {
+    "name": "abc1600_flop",
+    "href": "abc1600_flop/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/abc1600_flop/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:09"
+  },
+  {
+    "name": "abc806_flop",
+    "href": "abc806_flop/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/abc806_flop/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:09"
+  },
+  {
+    "name": "abc80_cass",
+    "href": "abc80_cass/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/abc80_cass/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:09"
+  },
+  {
+    "name": "abc80_flop",
+    "href": "abc80_flop/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/abc80_flop/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:09"
+  },
+  {
+    "name": "abc80_rom",
+    "href": "abc80_rom/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/abc80_rom/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:09"
+  },
+  {
+    "name": "abc830_flop",
+    "href": "abc830_flop/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/abc830_flop/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:09"
+  },
+  {
+    "name": "abc832_flop",
+    "href": "abc832_flop/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/abc832_flop/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:09"
+  },
+  {
+    "name": "abc838_flop",
+    "href": "abc838_flop/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/abc838_flop/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:09"
+  },
+  {
+    "name": "acrnsys_flop",
+    "href": "acrnsys_flop/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/acrnsys_flop/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:09"
+  },
+  {
+    "name": "acrnsys_rom",
+    "href": "acrnsys_rom/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/acrnsys_rom/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:09"
+  },
+  {
+    "name": "adam_cart",
+    "href": "adam_cart/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/adam_cart/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:09"
+  },
+  {
+    "name": "adam_cass",
+    "href": "adam_cass/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/adam_cass/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:09"
+  },
+  {
+    "name": "adam_flop",
+    "href": "adam_flop/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/adam_flop/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:10"
+  },
+  {
+    "name": "advantage",
+    "href": "advantage/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/advantage/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:10"
+  },
+  {
+    "name": "advision",
+    "href": "advision/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/advision/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:10"
+  },
+  {
+    "name": "aim65_cart",
+    "href": "aim65_cart/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/aim65_cart/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:10"
+  },
+  {
+    "name": "aleste",
+    "href": "aleste/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/aleste/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:10"
+  },
+  {
+    "name": "alice32",
+    "href": "alice32/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/alice32/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:10"
+  },
+  {
+    "name": "alice90",
+    "href": "alice90/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/alice90/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:10"
+  },
+  {
+    "name": "alphasmart_kapps",
+    "href": "alphasmart_kapps/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/alphasmart_kapps/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:10"
+  },
+  {
+    "name": "alphatro_cart",
+    "href": "alphatro_cart/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/alphatro_cart/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:10"
+  },
+  {
+    "name": "alphatro_flop",
+    "href": "alphatro_flop/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/alphatro_flop/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:10"
+  },
+  {
+    "name": "altos5",
+    "href": "altos5/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/altos5/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:10"
+  },
+  {
+    "name": "altos586",
+    "href": "altos586/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/altos586/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:10"
+  },
+  {
+    "name": "altos8600",
+    "href": "altos8600/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/altos8600/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:10"
+  },
+  {
+    "name": "amiga_amix",
+    "href": "amiga_amix/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/amiga_amix/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:10"
+  },
+  {
+    "name": "amiga_apps",
+    "href": "amiga_apps/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/amiga_apps/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:10"
+  },
+  {
+    "name": "amiga_demos",
+    "href": "amiga_demos/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/amiga_demos/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:10"
+  },
+  {
+    "name": "amiga_flop",
+    "href": "amiga_flop/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/amiga_flop/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:10"
+  },
+  {
+    "name": "amiga_hardware",
+    "href": "amiga_hardware/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/amiga_hardware/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:10"
+  },
+  {
+    "name": "amiga_workbench",
+    "href": "amiga_workbench/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/amiga_workbench/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:10"
+  },
+  {
+    "name": "amigaaga_flop",
+    "href": "amigaaga_flop/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/amigaaga_flop/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:10"
+  },
+  {
+    "name": "amigaecs_flop",
+    "href": "amigaecs_flop/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/amigaecs_flop/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:10"
+  },
+  {
+    "name": "amigaocs_flop",
+    "href": "amigaocs_flop/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/amigaocs_flop/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:10"
+  },
+  {
+    "name": "ampro",
+    "href": "ampro/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/ampro/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:10"
+  },
+  {
+    "name": "apc",
+    "href": "apc/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/apc/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:10"
+  },
+  {
+    "name": "apexc_cyl",
+    "href": "apexc_cyl/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/apexc_cyl/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:10"
+  },
+  {
+    "name": "apfimag_cass",
+    "href": "apfimag_cass/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/apfimag_cass/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:10"
+  },
+  {
+    "name": "apfm1000",
+    "href": "apfm1000/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/apfm1000/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:10"
+  },
+  {
+    "name": "apogee",
+    "href": "apogee/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/apogee/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:10"
+  },
+  {
+    "name": "apollo_ctape",
+    "href": "apollo_ctape/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/apollo_ctape/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:10"
+  },
+  {
+    "name": "apple1",
+    "href": "apple1/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/apple1/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:10"
+  },
+  {
+    "name": "apple2_cass",
+    "href": "apple2_cass/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/apple2_cass/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:11"
+  },
+  {
+    "name": "apple2_flop_clcracked",
+    "href": "apple2_flop_clcracked/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/apple2_flop_clcracked/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:11"
+  },
+  {
+    "name": "apple2_flop_misc",
+    "href": "apple2_flop_misc/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/apple2_flop_misc/",
+    "is_dir": true,
+    "size": null,
+    "date": "01-Dec-2025 19:39"
+  },
+  {
+    "name": "apple2_flop_orig",
+    "href": "apple2_flop_orig/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/apple2_flop_orig/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:12"
+  },
+  {
+    "name": "apple2gs_flop_clcracked",
+    "href": "apple2gs_flop_clcracked/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/apple2gs_flop_clcracked/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:12"
+  },
+  {
+    "name": "apple2gs_flop_misc",
+    "href": "apple2gs_flop_misc/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/apple2gs_flop_misc/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:12"
+  },
+  {
+    "name": "apple2gs_flop_orig",
+    "href": "apple2gs_flop_orig/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/apple2gs_flop_orig/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:12"
+  },
+  {
+    "name": "apple3",
+    "href": "apple3/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/apple3/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:12"
+  },
+  {
+    "name": "applix_flop",
+    "href": "applix_flop/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/applix_flop/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:12"
+  },
+  {
+    "name": "apricot_flop",
+    "href": "apricot_flop/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/apricot_flop/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:12"
+  },
+  {
+    "name": "apxen_flop",
+    "href": "apxen_flop/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/apxen_flop/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:12"
+  },
+  {
+    "name": "aquarius_cart",
+    "href": "aquarius_cart/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/aquarius_cart/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:12"
+  },
+  {
+    "name": "aquarius_cass",
+    "href": "aquarius_cass/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/aquarius_cass/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:12"
+  },
+  {
+    "name": "arb",
+    "href": "arb/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/arb/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:12"
+  },
+  {
+    "name": "arcadia",
+    "href": "arcadia/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/arcadia/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:12"
+  },
+  {
+    "name": "archimedes",
+    "href": "archimedes/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/archimedes/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:12"
+  },
+  {
+    "name": "archimedes_rom",
+    "href": "archimedes_rom/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/archimedes_rom/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:12"
+  },
+  {
+    "name": "astrocde",
+    "href": "astrocde/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/astrocde/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:12"
+  },
+  {
+    "name": "atom_cass",
+    "href": "atom_cass/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/atom_cass/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:12"
+  },
+  {
+    "name": "atom_flop",
+    "href": "atom_flop/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/atom_flop/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:12"
+  },
+  {
+    "name": "atom_rom",
+    "href": "atom_rom/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/atom_rom/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:12"
+  },
+  {
+    "name": "attache",
+    "href": "attache/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/attache/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:12"
+  },
+  {
+    "name": "aussiebyte",
+    "href": "aussiebyte/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/aussiebyte/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:12"
+  },
+  {
+    "name": "b2m",
+    "href": "b2m/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/b2m/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:12"
+  },
+  {
+    "name": "basf7100",
+    "href": "basf7100/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/basf7100/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:12"
+  },
+  {
+    "name": "bbc_cass",
+    "href": "bbc_cass/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_cass/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:13"
+  },
+  {
+    "name": "bbc_flop_32016",
+    "href": "bbc_flop_32016/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_flop_32016/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:13"
+  },
+  {
+    "name": "bbc_flop_6502",
+    "href": "bbc_flop_6502/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_flop_6502/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:13"
+  },
+  {
+    "name": "bbc_flop_68000",
+    "href": "bbc_flop_68000/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_flop_68000/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:13"
+  },
+  {
+    "name": "bbc_flop_80186",
+    "href": "bbc_flop_80186/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_flop_80186/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:13"
+  },
+  {
+    "name": "bbc_flop_arm",
+    "href": "bbc_flop_arm/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_flop_arm/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:13"
+  },
+  {
+    "name": "bbc_flop_hybrid",
+    "href": "bbc_flop_hybrid/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_flop_hybrid/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:13"
+  },
+  {
+    "name": "bbc_flop_torch",
+    "href": "bbc_flop_torch/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_flop_torch/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:13"
+  },
+  {
+    "name": "bbc_flop_z80",
+    "href": "bbc_flop_z80/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_flop_z80/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:13"
+  },
+  {
+    "name": "bbc_rom",
+    "href": "bbc_rom/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:13"
+  },
+  {
+    "name": "bbc_vsm",
+    "href": "bbc_vsm/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_vsm/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:13"
+  },
+  {
+    "name": "bbcb_flop",
+    "href": "bbcb_flop/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbcb_flop/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:13"
+  },
+  {
+    "name": "bbcb_flop_orig",
+    "href": "bbcb_flop_orig/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbcb_flop_orig/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:13"
+  },
+  {
+    "name": "bbcb_flop_us",
+    "href": "bbcb_flop_us/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbcb_flop_us/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:13"
+  },
+  {
+    "name": "bbcbc",
+    "href": "bbcbc/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbcbc/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:13"
+  },
+  {
+    "name": "bbcm_cart",
+    "href": "bbcm_cart/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbcm_cart/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:13"
+  },
+  {
+    "name": "bbcm_flop",
+    "href": "bbcm_flop/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbcm_flop/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:13"
+  },
+  {
+    "name": "bbcmc_flop",
+    "href": "bbcmc_flop/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbcmc_flop/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:13"
+  },
+  {
+    "name": "bdesignm_design_cart",
+    "href": "bdesignm_design_cart/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bdesignm_design_cart/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:13"
+  },
+  {
+    "name": "bdesignm_game_cart",
+    "href": "bdesignm_game_cart/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bdesignm_game_cart/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:13"
+  },
+  {
+    "name": "bingobear",
+    "href": "bingobear/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bingobear/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:13"
+  },
+  {
+    "name": "bk0010",
+    "href": "bk0010/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bk0010/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:13"
+  },
+  {
+    "name": "bkrankp_cart",
+    "href": "bkrankp_cart/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bkrankp_cart/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:13"
+  },
+  {
+    "name": "bmjr_cass",
+    "href": "bmjr_cass/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bmjr_cass/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:13"
+  },
+  {
+    "name": "bml3_cass",
+    "href": "bml3_cass/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bml3_cass/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:13"
+  },
+  {
+    "name": "bml3_flop",
+    "href": "bml3_flop/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bml3_flop/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:13"
+  },
+  {
+    "name": "brother_pn",
+    "href": "brother_pn/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/brother_pn/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:13"
+  },
+  {
+    "name": "bungo_flop",
+    "href": "bungo_flop/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bungo_flop/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:13"
+  },
+  {
+    "name": "buzztime_cart",
+    "href": "buzztime_cart/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/buzztime_cart/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:13"
+  },
+  {
+    "name": "bw12",
+    "href": "bw12/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bw12/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:13"
+  },
+  {
+    "name": "bw14",
+    "href": "bw14/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bw14/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:13"
+  },
+  {
+    "name": "bw2",
+    "href": "bw2/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bw2/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:13"
+  },
+  {
+    "name": "bx256hp_flop",
+    "href": "bx256hp_flop/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bx256hp_flop/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:13"
+  },
+  {
+    "name": "c128_cart",
+    "href": "c128_cart/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/c128_cart/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:13"
+  },
+  {
+    "name": "c128_flop",
+    "href": "c128_flop/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/c128_flop/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:13"
+  },
+  {
+    "name": "c128_rom",
+    "href": "c128_rom/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/c128_rom/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:13"
+  },
+  {
+    "name": "c2color_cart",
+    "href": "c2color_cart/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/c2color_cart/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:13"
+  },
+  {
+    "name": "c64_cart",
+    "href": "c64_cart/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/c64_cart/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:13"
+  },
+  {
+    "name": "c64_cass",
+    "href": "c64_cass/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/c64_cass/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:14"
+  },
+  {
+    "name": "c64_flop_misc",
+    "href": "c64_flop_misc/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/c64_flop_misc/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:14"
+  },
+  {
+    "name": "c64_flop_orig",
+    "href": "c64_flop_orig/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/c64_flop_orig/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:14"
+  },
+  {
+    "name": "c65_flop",
+    "href": "c65_flop/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/c65_flop/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:14"
+  },
+  {
+    "name": "camplynx_cass",
+    "href": "camplynx_cass/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/camplynx_cass/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:14"
+  },
+  {
+    "name": "camplynx_flop",
+    "href": "camplynx_flop/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/camplynx_flop/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:14"
+  },
+  {
+    "name": "carbeena",
+    "href": "carbeena/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/carbeena/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:14"
+  },
+  {
+    "name": "casio_rompack",
+    "href": "casio_rompack/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/casio_rompack/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:14"
+  },
+  {
+    "name": "casloopy",
+    "href": "casloopy/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/casloopy/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:14"
+  },
+  {
+    "name": "cassvisn_cart",
+    "href": "cassvisn_cart/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/cassvisn_cart/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:14"
+  },
+  {
+    "name": "cbm2_cart",
+    "href": "cbm2_cart/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/cbm2_cart/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:14"
+  },
+  {
+    "name": "cbm2_flop",
+    "href": "cbm2_flop/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/cbm2_flop/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:14"
+  },
+  {
+    "name": "cbm8096_flop",
+    "href": "cbm8096_flop/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/cbm8096_flop/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:14"
+  },
+  {
+    "name": "cbm8296_flop",
+    "href": "cbm8296_flop/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/cbm8296_flop/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:14"
+  },
+  {
+    "name": "cc40_cart",
+    "href": "cc40_cart/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/cc40_cart/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:14"
+  },
+  {
+    "name": "cecflop",
+    "href": "cecflop/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/cecflop/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:14"
+  },
+  {
+    "name": "cgenie_cass",
+    "href": "cgenie_cass/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/cgenie_cass/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:14"
+  },
+  {
+    "name": "cgenie_flop_rom",
+    "href": "cgenie_flop_rom/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/cgenie_flop_rom/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:14"
+  },
+  {
+    "name": "challenge_gear_cart",
+    "href": "challenge_gear_cart/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/challenge_gear_cart/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:14"
+  },
+  {
+    "name": "channelf",
+    "href": "channelf/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/channelf/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:14"
+  },
+  {
+    "name": "chessking_cart",
+    "href": "chessking_cart/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/chessking_cart/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:14"
+  },
+  {
+    "name": "chessmstdm",
+    "href": "chessmstdm/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/chessmstdm/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:14"
+  },
+  {
+    "name": "chip8_quik",
+    "href": "chip8_quik/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/chip8_quik/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:14"
+  },
+  {
+    "name": "clickstart_cart",
+    "href": "clickstart_cart/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/clickstart_cart/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:14"
+  },
+  {
+    "name": "clipper_flop",
+    "href": "clipper_flop/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/clipper_flop/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:14"
+  },
+  {
+    "name": "coco_cart",
+    "href": "coco_cart/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/coco_cart/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:14"
+  },
+  {
+    "name": "coco_flop",
+    "href": "coco_flop/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/coco_flop/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:14"
+  },
+  {
+    "name": "coleco",
+    "href": "coleco/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/coleco/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:14"
+  },
+  {
+    "name": "coleco_homebrew",
+    "href": "coleco_homebrew/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/coleco_homebrew/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:14"
+  },
+  {
+    "name": "compclr2_flop",
+    "href": "compclr2_flop/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/compclr2_flop/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:14"
+  },
+  {
+    "name": "compis",
+    "href": "compis/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/compis/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:14"
+  },
+  {
+    "name": "comx35_flop",
+    "href": "comx35_flop/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/comx35_flop/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:14"
+  },
+  {
+    "name": "conchess",
+    "href": "conchess/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/conchess/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:14"
+  },
+  {
+    "name": "copera",
+    "href": "copera/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/copera/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:14"
+  },
+  {
+    "name": "cpc_cass",
+    "href": "cpc_cass/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/cpc_cass/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:15"
+  },
+  {
+    "name": "cpc_flop",
+    "href": "cpc_flop/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/cpc_flop/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:17"
+  },
+  {
+    "name": "crvision",
+    "href": "crvision/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/crvision/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:17"
+  },
+  {
+    "name": "ctvboy",
+    "href": "ctvboy/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/ctvboy/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:17"
+  },
+  {
+    "name": "cx3000tc",
+    "href": "cx3000tc/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/cx3000tc/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:17"
+  },
+  {
+    "name": "cz1_cart",
+    "href": "cz1_cart/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/cz1_cart/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:17"
+  },
+  {
+    "name": "dai_cass",
+    "href": "dai_cass/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/dai_cass/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:17"
+  },
+  {
+    "name": "database",
+    "href": "database/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/database/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:17"
+  },
+  {
+    "name": "dgnalpha_flop",
+    "href": "dgnalpha_flop/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/dgnalpha_flop/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:17"
+  },
+  {
+    "name": "dgnbeta_flop",
+    "href": "dgnbeta_flop/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/dgnbeta_flop/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:17"
+  },
+  {
+    "name": "digiblast_cart",
+    "href": "digiblast_cart/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/digiblast_cart/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:17"
+  },
+  {
+    "name": "digilog320",
+    "href": "digilog320/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/digilog320/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:17"
+  },
+  {
+    "name": "dim68k",
+    "href": "dim68k/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/dim68k/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:17"
+  },
+  {
+    "name": "dmv",
+    "href": "dmv/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/dmv/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:17"
+  },
+  {
+    "name": "dps1",
+    "href": "dps1/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/dps1/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:17"
+  },
+  {
+    "name": "dragon_cart",
+    "href": "dragon_cart/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/dragon_cart/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:17"
+  },
+  {
+    "name": "dragon_cass",
+    "href": "dragon_cass/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/dragon_cass/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:17"
+  },
+  {
+    "name": "dragon_flex",
+    "href": "dragon_flex/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/dragon_flex/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:17"
+  },
+  {
+    "name": "dragon_flop",
+    "href": "dragon_flop/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/dragon_flop/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:17"
+  },
+  {
+    "name": "dragon_os9",
+    "href": "dragon_os9/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/dragon_os9/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:17"
+  },
+  {
+    "name": "duelmast_cart",
+    "href": "duelmast_cart/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/duelmast_cart/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:17"
+  },
+  {
+    "name": "e01_flop",
+    "href": "e01_flop/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/e01_flop/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:17"
+  },
+  {
+    "name": "easy_karaoke_cart",
+    "href": "easy_karaoke_cart/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/easy_karaoke_cart/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:17"
+  },
+  {
+    "name": "ec1841",
+    "href": "ec1841/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/ec1841/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:17"
+  },
+  {
+    "name": "einstein",
+    "href": "einstein/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/einstein/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:17"
+  },
+  {
+    "name": "einstein_rom",
+    "href": "einstein_rom/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/einstein_rom/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:17"
+  },
+  {
+    "name": "ekara_cart",
+    "href": "ekara_cart/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/ekara_cart/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:17"
+  },
+  {
+    "name": "electron_cart",
+    "href": "electron_cart/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/electron_cart/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:17"
+  },
+  {
+    "name": "electron_cass",
+    "href": "electron_cass/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/electron_cass/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:18"
+  },
+  {
+    "name": "electron_flop",
+    "href": "electron_flop/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/electron_flop/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:18"
+  },
+  {
+    "name": "electron_rom",
+    "href": "electron_rom/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/electron_rom/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:18"
+  },
+  {
+    "name": "entex_sag",
+    "href": "entex_sag/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/entex_sag/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:18"
+  },
+  {
+    "name": "ep64_cart",
+    "href": "ep64_cart/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/ep64_cart/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:18"
+  },
+  {
+    "name": "ep64_cass",
+    "href": "ep64_cass/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/ep64_cass/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:18"
+  },
+  {
+    "name": "ep64_flop",
+    "href": "ep64_flop/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/ep64_flop/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:18"
+  },
+  {
+    "name": "epson_cpm",
+    "href": "epson_cpm/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/epson_cpm/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:18"
+  },
+  {
+    "name": "eti660_quik",
+    "href": "eti660_quik/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/eti660_quik/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:18"
+  },
+  {
+    "name": "evio",
+    "href": "evio/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/evio/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:18"
+  },
+  {
+    "name": "ews286_flop",
+    "href": "ews286_flop/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/ews286_flop/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:18"
+  },
+  {
+    "name": "excalibur64",
+    "href": "excalibur64/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/excalibur64/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:18"
+  },
+  {
+    "name": "exl100",
+    "href": "exl100/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/exl100/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:18"
+  },
+  {
+    "name": "famibox",
+    "href": "famibox/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/famibox/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:18"
+  },
+  {
+    "name": "famicom_cass",
+    "href": "famicom_cass/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/famicom_cass/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:18"
+  },
+  {
+    "name": "famicom_flop",
+    "href": "famicom_flop/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/famicom_flop/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:18"
+  },
+  {
+    "name": "fidel_msc",
+    "href": "fidel_msc/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/fidel_msc/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:18"
+  },
+  {
+    "name": "fidel_sc6",
+    "href": "fidel_sc6/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/fidel_sc6/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:18"
+  },
+  {
+    "name": "fidel_scc",
+    "href": "fidel_scc/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/fidel_scc/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:18"
+  },
+  {
+    "name": "fm77av",
+    "href": "fm77av/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/fm77av/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:18"
+  },
+  {
+    "name": "fm7_cass",
+    "href": "fm7_cass/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/fm7_cass/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:18"
+  },
+  {
+    "name": "fm7_disk",
+    "href": "fm7_disk/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/fm7_disk/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:18"
+  },
+  {
+    "name": "fm8_cass",
+    "href": "fm8_cass/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/fm8_cass/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:18"
+  },
+  {
+    "name": "fmtowns_cd",
+    "href": "fmtowns_cd/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/fmtowns_cd/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:18"
+  },
+  {
+    "name": "fmtowns_flop_cracked",
+    "href": "fmtowns_flop_cracked/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/fmtowns_flop_cracked/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:18"
+  },
+  {
+    "name": "fmtowns_flop_misc",
+    "href": "fmtowns_flop_misc/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/fmtowns_flop_misc/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:18"
+  },
+  {
+    "name": "fmtowns_flop_orig",
+    "href": "fmtowns_flop_orig/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/fmtowns_flop_orig/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:18"
+  },
+  {
+    "name": "fp1100_cass",
+    "href": "fp1100_cass/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/fp1100_cass/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:18"
+  },
+  {
+    "name": "gaelco_ds5002fp_rom",
+    "href": "gaelco_ds5002fp_rom/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/gaelco_ds5002fp_rom/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:18"
+  },
+  {
+    "name": "galaxy",
+    "href": "galaxy/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/galaxy/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:18"
+  },
+  {
+    "name": "gamate",
+    "href": "gamate/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/gamate/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:18"
+  },
+  {
+    "name": "gameboy",
+    "href": "gameboy/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/gameboy/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:18"
+  },
+  {
+    "name": "gamecom",
+    "href": "gamecom/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/gamecom/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:18"
+  },
+  {
+    "name": "gamegear",
+    "href": "gamegear/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/gamegear/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:18"
+  },
+  {
+    "name": "gameking",
+    "href": "gameking/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/gameking/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:18"
+  },
+  {
+    "name": "gameking3",
+    "href": "gameking3/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/gameking3/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:18"
+  },
+  {
+    "name": "gamepock",
+    "href": "gamepock/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/gamepock/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:18"
+  },
+  {
+    "name": "gba",
+    "href": "gba/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/gba/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:19"
+  },
+  {
+    "name": "gba_ereader",
+    "href": "gba_ereader/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/gba_ereader/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:19"
+  },
+  {
+    "name": "gbcolor",
+    "href": "gbcolor/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/gbcolor/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:19"
+  },
+  {
+    "name": "gcslottv",
+    "href": "gcslottv/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/gcslottv/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:19"
+  },
+  {
+    "name": "generic_flop_525",
+    "href": "generic_flop_525/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/generic_flop_525/",
+    "is_dir": true,
+    "size": null,
+    "date": "02-Nov-2025 02:01"
+  },
+  {
+    "name": "ggm",
+    "href": "ggm/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/ggm/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:19"
+  },
+  {
+    "name": "gimix",
+    "href": "gimix/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/gimix/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:19"
+  },
+  {
+    "name": "gj4000",
+    "href": "gj4000/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/gj4000/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:19"
+  },
+  {
+    "name": "gjmovie",
+    "href": "gjmovie/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/gjmovie/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:19"
+  },
+  {
+    "name": "gjrstar",
+    "href": "gjrstar/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/gjrstar/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:20"
+  },
+  {
+    "name": "gl2000",
+    "href": "gl2000/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/gl2000/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:20"
+  },
+  {
+    "name": "gl6000sl",
+    "href": "gl6000sl/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/gl6000sl/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:20"
+  },
+  {
+    "name": "glcolor",
+    "href": "glcolor/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/glcolor/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:20"
+  },
+  {
+    "name": "glcx",
+    "href": "glcx/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/glcx/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:20"
+  },
+  {
+    "name": "gln",
+    "href": "gln/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/gln/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:20"
+  },
+  {
+    "name": "gls",
+    "href": "gls/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/gls/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:20"
+  },
+  {
+    "name": "gmaster",
+    "href": "gmaster/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/gmaster/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:20"
+  },
+  {
+    "name": "gp32",
+    "href": "gp32/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/gp32/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:20"
+  },
+  {
+    "name": "guab",
+    "href": "guab/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/guab/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:20"
+  },
+  {
+    "name": "gx4000",
+    "href": "gx4000/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/gx4000/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:20"
+  },
+  {
+    "name": "h21",
+    "href": "h21/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/h21/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:20"
+  },
+  {
+    "name": "h88_cass",
+    "href": "h88_cass/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/h88_cass/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:20"
+  },
+  {
+    "name": "hikara",
+    "href": "hikara/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/hikara/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:20"
+  },
+  {
+    "name": "horizon",
+    "href": "horizon/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/horizon/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:20"
+  },
+  {
+    "name": "hp85_rom",
+    "href": "hp85_rom/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/hp85_rom/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:20"
+  },
+  {
+    "name": "hp86_rom",
+    "href": "hp86_rom/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/hp86_rom/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:20"
+  },
+  {
+    "name": "hp9825_rom",
+    "href": "hp9825_rom/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/hp9825_rom/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:20"
+  },
+  {
+    "name": "hp9831_rom",
+    "href": "hp9831_rom/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/hp9831_rom/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:20"
+  },
+  {
+    "name": "hp9835a_rom",
+    "href": "hp9835a_rom/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/hp9835a_rom/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:20"
+  },
+  {
+    "name": "hp9845a_rom",
+    "href": "hp9845a_rom/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/hp9845a_rom/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:20"
+  },
+  {
+    "name": "hp9845b_rom",
+    "href": "hp9845b_rom/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/hp9845b_rom/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:20"
+  },
+  {
+    "name": "hp98x6_rom",
+    "href": "hp98x6_rom/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/hp98x6_rom/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:20"
+  },
+  {
+    "name": "hp9k3xx_flop",
+    "href": "hp9k3xx_flop/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/hp9k3xx_flop/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:20"
+  },
+  {
+    "name": "hp_ipc",
+    "href": "hp_ipc/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/hp_ipc/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:20"
+  },
+  {
+    "name": "hp_ipc_rom",
+    "href": "hp_ipc_rom/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/hp_ipc_rom/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:20"
+  },
+  {
+    "name": "ht68k",
+    "href": "ht68k/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/ht68k/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:20"
+  },
+  {
+    "name": "hx20_rom",
+    "href": "hx20_rom/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/hx20_rom/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:20"
+  },
+  {
+    "name": "hyperscan_card",
+    "href": "hyperscan_card/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/hyperscan_card/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:20"
+  },
+  {
+    "name": "i7000_card",
+    "href": "i7000_card/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/i7000_card/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:20"
+  },
+  {
+    "name": "ibm5140",
+    "href": "ibm5140/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/ibm5140/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:20"
+  },
+  {
+    "name": "ibm5150",
+    "href": "ibm5150/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/ibm5150/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:20"
+  },
+  {
+    "name": "ibm5150_cass",
+    "href": "ibm5150_cass/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/ibm5150_cass/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:20"
+  },
+  {
+    "name": "ibm5170",
+    "href": "ibm5170/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/ibm5170/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:20"
+  },
+  {
+    "name": "ibm5170_cdrom",
+    "href": "ibm5170_cdrom/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/ibm5170_cdrom/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:20"
+  },
+  {
+    "name": "ibm6580",
+    "href": "ibm6580/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/ibm6580/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:20"
+  },
+  {
+    "name": "ibmpcjr_cart",
+    "href": "ibmpcjr_cart/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/ibmpcjr_cart/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:20"
+  },
+  {
+    "name": "ibmpcjr_flop",
+    "href": "ibmpcjr_flop/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/ibmpcjr_flop/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:20"
+  },
+  {
+    "name": "ibmpcjx",
+    "href": "ibmpcjx/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/ibmpcjx/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:20"
+  },
+  {
+    "name": "icanguit",
+    "href": "icanguit/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/icanguit/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:20"
+  },
+  {
+    "name": "icanpian",
+    "href": "icanpian/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/icanpian/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:20"
+  },
+  {
+    "name": "intellect02",
+    "href": "intellect02/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/intellect02/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:20"
+  },
+  {
+    "name": "interact",
+    "href": "interact/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/interact/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:20"
+  },
+  {
+    "name": "interpro",
+    "href": "interpro/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/interpro/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:20"
+  },
+  {
+    "name": "intv",
+    "href": "intv/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/intv/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:20"
+  },
+  {
+    "name": "intvecs",
+    "href": "intvecs/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/intvecs/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:20"
+  },
+  {
+    "name": "iq151_cart",
+    "href": "iq151_cart/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/iq151_cart/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:20"
+  },
+  {
+    "name": "iq151_flop",
+    "href": "iq151_flop/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/iq151_flop/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:20"
+  },
+  {
+    "name": "ique",
+    "href": "ique/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/ique/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:20"
+  },
+  {
+    "name": "iqunlim_cart",
+    "href": "iqunlim_cart/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/iqunlim_cart/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:20"
+  },
+  {
+    "name": "itt3030",
+    "href": "itt3030/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/itt3030/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:20"
+  },
+  {
+    "name": "jaguar",
+    "href": "jaguar/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/jaguar/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:20"
+  },
+  {
+    "name": "jakks_gamekey_dp",
+    "href": "jakks_gamekey_dp/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/jakks_gamekey_dp/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:20"
+  },
+  {
+    "name": "jakks_gamekey_dy",
+    "href": "jakks_gamekey_dy/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/jakks_gamekey_dy/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:20"
+  },
+  {
+    "name": "jakks_gamekey_mv",
+    "href": "jakks_gamekey_mv/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/jakks_gamekey_mv/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:20"
+  },
+  {
+    "name": "jakks_gamekey_nk",
+    "href": "jakks_gamekey_nk/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/jakks_gamekey_nk/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:20"
+  },
+  {
+    "name": "jakks_gamekey_nm",
+    "href": "jakks_gamekey_nm/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/jakks_gamekey_nm/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:20"
+  },
+  {
+    "name": "jakks_gamekey_sw",
+    "href": "jakks_gamekey_sw/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/jakks_gamekey_sw/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:20"
+  },
+  {
+    "name": "jaminator",
+    "href": "jaminator/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/jaminator/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:20"
+  },
+  {
+    "name": "jb3000_flop",
+    "href": "jb3000_flop/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/jb3000_flop/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:20"
+  },
+  {
+    "name": "juicebox",
+    "href": "juicebox/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/juicebox/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:20"
+  },
+  {
+    "name": "juku",
+    "href": "juku/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/juku/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:20"
+  },
+  {
+    "name": "jupace_cass",
+    "href": "jupace_cass/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/jupace_cass/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:20"
+  },
+  {
+    "name": "jupace_snap",
+    "href": "jupace_snap/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/jupace_snap/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:20"
+  },
+  {
+    "name": "k28",
+    "href": "k28/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/k28/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:20"
+  },
+  {
+    "name": "kaypro",
+    "href": "kaypro/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/kaypro/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:20"
+  },
+  {
+    "name": "kc_cart",
+    "href": "kc_cart/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/kc_cart/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:20"
+  },
+  {
+    "name": "kc_cass",
+    "href": "kc_cass/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/kc_cass/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:20"
+  },
+  {
+    "name": "kc_flop",
+    "href": "kc_flop/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/kc_flop/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:20"
+  },
+  {
+    "name": "kim1_cass",
+    "href": "kim1_cass/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/kim1_cass/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:20"
+  },
+  {
+    "name": "korvet_flop",
+    "href": "korvet_flop/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/korvet_flop/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:20"
+  },
+  {
+    "name": "lanteach",
+    "href": "lanteach/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/lanteach/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:20"
+  },
+  {
+    "name": "lantrans",
+    "href": "lantrans/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/lantrans/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:20"
+  },
+  {
+    "name": "laser2001_cart",
+    "href": "laser2001_cart/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/laser2001_cart/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:20"
+  },
+  {
+    "name": "laser2001_flop",
+    "href": "laser2001_flop/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/laser2001_flop/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:20"
+  },
+  {
+    "name": "leapfrog_didj_cart",
+    "href": "leapfrog_didj_cart/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/leapfrog_didj_cart/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:20"
+  },
+  {
+    "name": "leapfrog_iquest_cart",
+    "href": "leapfrog_iquest_cart/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/leapfrog_iquest_cart/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:20"
+  },
+  {
+    "name": "leapfrog_leappad_cart",
+    "href": "leapfrog_leappad_cart/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/leapfrog_leappad_cart/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:20"
+  },
+  {
+    "name": "leapfrog_ltleappad_cart",
+    "href": "leapfrog_ltleappad_cart/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/leapfrog_ltleappad_cart/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:20"
+  },
+  {
+    "name": "leapfrog_mfleappad_cart",
+    "href": "leapfrog_mfleappad_cart/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/leapfrog_mfleappad_cart/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:20"
+  },
+  {
+    "name": "leapfrog_zippity_cart",
+    "href": "leapfrog_zippity_cart/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/leapfrog_zippity_cart/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:20"
+  },
+  {
+    "name": "leapster",
+    "href": "leapster/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/leapster/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:20"
+  },
+  {
+    "name": "leapster_explorer_cart",
+    "href": "leapster_explorer_cart/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/leapster_explorer_cart/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:20"
+  },
+  {
+    "name": "lisa",
+    "href": "lisa/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/lisa/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:20"
+  },
+  {
+    "name": "lisa2",
+    "href": "lisa2/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/lisa2/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:20"
+  },
+  {
+    "name": "lk3000",
+    "href": "lk3000/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/lk3000/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:20"
+  },
+  {
+    "name": "lviv",
+    "href": "lviv/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/lviv/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:20"
+  },
+  {
+    "name": "lynx",
+    "href": "lynx/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/lynx/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:21"
+  },
+  {
+    "name": "m20",
+    "href": "m20/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/m20/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:21"
+  },
+  {
+    "name": "m24",
+    "href": "m24/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/m24/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:21"
+  },
+  {
+    "name": "m3",
+    "href": "m3/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/m3/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:21"
+  },
+  {
+    "name": "m5_cart",
+    "href": "m5_cart/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/m5_cart/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:21"
+  },
+  {
+    "name": "m5_cass",
+    "href": "m5_cass/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/m5_cass/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:21"
+  },
+  {
+    "name": "m5_flop",
+    "href": "m5_flop/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/m5_flop/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:21"
+  },
+  {
+    "name": "mac_flop",
+    "href": "mac_flop/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/mac_flop/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:21"
+  },
+  {
+    "name": "mac_flop_clcracked",
+    "href": "mac_flop_clcracked/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/mac_flop_clcracked/",
+    "is_dir": true,
+    "size": null,
+    "date": "02-Nov-2025 02:01"
+  },
+  {
+    "name": "mac_flop_orig",
+    "href": "mac_flop_orig/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/mac_flop_orig/",
+    "is_dir": true,
+    "size": null,
+    "date": "02-Nov-2025 02:01"
+  },
+  {
+    "name": "mac_hdflop",
+    "href": "mac_hdflop/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/mac_hdflop/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:21"
+  },
+  {
+    "name": "mbc200",
+    "href": "mbc200/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/mbc200/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:21"
+  },
+  {
+    "name": "mbc55x",
+    "href": "mbc55x/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/mbc55x/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:21"
+  },
+  {
+    "name": "mbee_cart",
+    "href": "mbee_cart/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/mbee_cart/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:21"
+  },
+  {
+    "name": "mbee_cass",
+    "href": "mbee_cass/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/mbee_cass/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:21"
+  },
+  {
+    "name": "mbee_flop",
+    "href": "mbee_flop/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/mbee_flop/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:21"
+  },
+  {
+    "name": "mbee_quik",
+    "href": "mbee_quik/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/mbee_quik/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:21"
+  },
+  {
+    "name": "mc10",
+    "href": "mc10/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/mc10/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:21"
+  },
+  {
+    "name": "mc1000_cass",
+    "href": "mc1000_cass/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/mc1000_cass/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:21"
+  },
+  {
+    "name": "mc1502_flop",
+    "href": "mc1502_flop/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/mc1502_flop/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:21"
+  },
+  {
+    "name": "md2_flop",
+    "href": "md2_flop/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/md2_flop/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:21"
+  },
+  {
+    "name": "megadriv",
+    "href": "megadriv/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/megadriv/",
+    "is_dir": true,
+    "size": null,
+    "date": "02-Nov-2025 02:01"
+  },
+  {
+    "name": "megaduck",
+    "href": "megaduck/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/megaduck/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:21"
+  },
+  {
+    "name": "megapc",
+    "href": "megapc/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/megapc/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:21"
+  },
+  {
+    "name": "megatech",
+    "href": "megatech/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/megatech/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:21"
+  },
+  {
+    "name": "mephisto_mm1",
+    "href": "mephisto_mm1/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/mephisto_mm1/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:21"
+  },
+  {
+    "name": "mephisto_mm2",
+    "href": "mephisto_mm2/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/mephisto_mm2/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:21"
+  },
+  {
+    "name": "mephisto_mm4",
+    "href": "mephisto_mm4/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/mephisto_mm4/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:21"
+  },
+  {
+    "name": "mephisto_mm5",
+    "href": "mephisto_mm5/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/mephisto_mm5/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:21"
+  },
+  {
+    "name": "mephisto_smondial2",
+    "href": "mephisto_smondial2/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/mephisto_smondial2/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:21"
+  },
+  {
+    "name": "microbox2_flop",
+    "href": "microbox2_flop/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/microbox2_flop/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:21"
+  },
+  {
+    "name": "microvision",
+    "href": "microvision/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/microvision/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:21"
+  },
+  {
+    "name": "midi_flop",
+    "href": "midi_flop/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/midi_flop/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:21"
+  },
+  {
+    "name": "mikro80",
+    "href": "mikro80/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/mikro80/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:21"
+  },
+  {
+    "name": "mikrosha_cart",
+    "href": "mikrosha_cart/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/mikrosha_cart/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:21"
+  },
+  {
+    "name": "mikrosha_cass",
+    "href": "mikrosha_cass/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/mikrosha_cass/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:21"
+  },
+  {
+    "name": "mindset_flop",
+    "href": "mindset_flop/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/mindset_flop/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:21"
+  },
+  {
+    "name": "misterx",
+    "href": "misterx/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/misterx/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:21"
+  },
+  {
+    "name": "mk14_quik",
+    "href": "mk14_quik/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/mk14_quik/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:21"
+  },
+  {
+    "name": "mm1_flop",
+    "href": "mm1_flop/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/mm1_flop/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:21"
+  },
+  {
+    "name": "mm2_flop",
+    "href": "mm2_flop/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/mm2_flop/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:21"
+  },
+  {
+    "name": "mo5_cart",
+    "href": "mo5_cart/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/mo5_cart/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:21"
+  },
+  {
+    "name": "mo5_cass",
+    "href": "mo5_cass/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/mo5_cass/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:21"
+  },
+  {
+    "name": "mo5_flop",
+    "href": "mo5_flop/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/mo5_flop/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:21"
+  },
+  {
+    "name": "mo5_qd",
+    "href": "mo5_qd/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/mo5_qd/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:21"
+  },
+  {
+    "name": "mo6_cass",
+    "href": "mo6_cass/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/mo6_cass/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:21"
+  },
+  {
+    "name": "mo6_flop",
+    "href": "mo6_flop/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/mo6_flop/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:21"
+  },
+  {
+    "name": "mobigo_cart",
+    "href": "mobigo_cart/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/mobigo_cart/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:21"
+  },
+  {
+    "name": "monon_color",
+    "href": "monon_color/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/monon_color/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:21"
+  },
+  {
+    "name": "mpc3000_flop",
+    "href": "mpc3000_flop/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/mpc3000_flop/",
+    "is_dir": true,
+    "size": null,
+    "date": "02-Nov-2025 02:01"
+  },
+  {
+    "name": "mpf1_rom",
+    "href": "mpf1_rom/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/mpf1_rom/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:21"
+  },
+  {
+    "name": "mpu1000",
+    "href": "mpu1000/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/mpu1000/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:21"
+  },
+  {
+    "name": "mpz80",
+    "href": "mpz80/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/mpz80/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:21"
+  },
+  {
+    "name": "msx1_bee_card",
+    "href": "msx1_bee_card/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/msx1_bee_card/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:21"
+  },
+  {
+    "name": "msx1_cart",
+    "href": "msx1_cart/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/msx1_cart/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:22"
+  },
+  {
+    "name": "msx1_cass",
+    "href": "msx1_cass/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/msx1_cass/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:22"
+  },
+  {
+    "name": "msx1_flop",
+    "href": "msx1_flop/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/msx1_flop/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:22"
+  },
+  {
+    "name": "msx1_flop_525",
+    "href": "msx1_flop_525/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/msx1_flop_525/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:22"
+  },
+  {
+    "name": "msx2_cart",
+    "href": "msx2_cart/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/msx2_cart/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:22"
+  },
+  {
+    "name": "msx2_cass",
+    "href": "msx2_cass/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/msx2_cass/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:22"
+  },
+  {
+    "name": "msx2_flop",
+    "href": "msx2_flop/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/msx2_flop/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:22"
+  },
+  {
+    "name": "msx2p_cart",
+    "href": "msx2p_cart/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/msx2p_cart/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:22"
+  },
+  {
+    "name": "msx2p_flop",
+    "href": "msx2p_flop/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/msx2p_flop/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:22"
+  },
+  {
+    "name": "msx_softcard",
+    "href": "msx_softcard/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/msx_softcard/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:22"
+  },
+  {
+    "name": "msx_yamaha_minicart",
+    "href": "msx_yamaha_minicart/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/msx_yamaha_minicart/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:22"
+  },
+  {
+    "name": "msxr_cart",
+    "href": "msxr_cart/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/msxr_cart/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:22"
+  },
+  {
+    "name": "msxr_flop",
+    "href": "msxr_flop/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/msxr_flop/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:22"
+  },
+  {
+    "name": "mt65_cass",
+    "href": "mt65_cass/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/mt65_cass/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:22"
+  },
+  {
+    "name": "mt65_rom",
+    "href": "mt65_rom/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/mt65_rom/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:22"
+  },
+  {
+    "name": "mt65_snap",
+    "href": "mt65_snap/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/mt65_snap/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:22"
+  },
+  {
+    "name": "mtu130_flop",
+    "href": "mtu130_flop/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/mtu130_flop/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:22"
+  },
+  {
+    "name": "mtx_cart",
+    "href": "mtx_cart/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/mtx_cart/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:22"
+  },
+  {
+    "name": "mtx_cass",
+    "href": "mtx_cass/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/mtx_cass/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:22"
+  },
+  {
+    "name": "mtx_flop",
+    "href": "mtx_flop/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/mtx_flop/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:22"
+  },
+  {
+    "name": "mtx_rom",
+    "href": "mtx_rom/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/mtx_rom/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:22"
+  },
+  {
+    "name": "myvision",
+    "href": "myvision/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/myvision/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:22"
+  },
+  {
+    "name": "mz2000_cass",
+    "href": "mz2000_cass/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/mz2000_cass/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:22"
+  },
+  {
+    "name": "mz2000_flop",
+    "href": "mz2000_flop/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/mz2000_flop/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:22"
+  },
+  {
+    "name": "mz2500_flop",
+    "href": "mz2500_flop/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/mz2500_flop/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:23"
+  },
+  {
+    "name": "mz5500_flop",
+    "href": "mz5500_flop/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/mz5500_flop/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:23"
+  },
+  {
+    "name": "mz700_cass",
+    "href": "mz700_cass/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/mz700_cass/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:23"
+  },
+  {
+    "name": "mz800_cass",
+    "href": "mz800_cass/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/mz800_cass/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:23"
+  },
+  {
+    "name": "mz800_rom",
+    "href": "mz800_rom/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/mz800_rom/",
+    "is_dir": true,
+    "size": null,
+    "date": "02-Nov-2025 02:01"
+  },
+  {
+    "name": "mz80b_cass",
+    "href": "mz80b_cass/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/mz80b_cass/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:23"
+  },
+  {
+    "name": "mz80b_flop",
+    "href": "mz80b_flop/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/mz80b_flop/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:23"
+  },
+  {
+    "name": "mz80k_cass",
+    "href": "mz80k_cass/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/mz80k_cass/",
+    "is_dir": true,
+    "size": null,
+    "date": "01-Dec-2025 19:39"
+  },
+  {
+    "name": "n64",
+    "href": "n64/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/n64/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:23"
+  },
+  {
+    "name": "n64_lodgenet",
+    "href": "n64_lodgenet/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/n64_lodgenet/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:23"
+  },
+  {
+    "name": "n64dd",
+    "href": "n64dd/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/n64dd/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:23"
+  },
+  {
+    "name": "nascom_flop",
+    "href": "nascom_flop/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/nascom_flop/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:23"
+  },
+  {
+    "name": "nascom_snap",
+    "href": "nascom_snap/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/nascom_snap/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:23"
+  },
+  {
+    "name": "nascom_socket",
+    "href": "nascom_socket/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/nascom_socket/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:23"
+  },
+  {
+    "name": "neogeo",
+    "href": "neogeo/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/neogeo/",
+    "is_dir": true,
+    "size": null,
+    "date": "01-Dec-2025 19:39"
+  },
+  {
+    "name": "nes",
+    "href": "nes/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/nes/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:24"
+  },
+  {
+    "name": "nes_ade",
+    "href": "nes_ade/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/nes_ade/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:24"
+  },
+  {
+    "name": "nes_datach",
+    "href": "nes_datach/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/nes_datach/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:24"
+  },
+  {
+    "name": "nes_kstudio",
+    "href": "nes_kstudio/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/nes_kstudio/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:24"
+  },
+  {
+    "name": "nes_ntbrom",
+    "href": "nes_ntbrom/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/nes_ntbrom/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:24"
+  },
+  {
+    "name": "nes_vt_cart",
+    "href": "nes_vt_cart/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/nes_vt_cart/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:24"
+  },
+  {
+    "name": "next",
+    "href": "next/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/next/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:24"
+  },
+  {
+    "name": "ngp",
+    "href": "ngp/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/ngp/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:24"
+  },
+  {
+    "name": "ngpc",
+    "href": "ngpc/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/ngpc/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:24"
+  },
+  {
+    "name": "nimbus",
+    "href": "nimbus/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/nimbus/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:24"
+  },
+  {
+    "name": "novag_ssensor4",
+    "href": "novag_ssensor4/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/novag_ssensor4/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:24"
+  },
+  {
+    "name": "octopus",
+    "href": "octopus/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/octopus/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:24"
+  },
+  {
+    "name": "ondra",
+    "href": "ondra/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/ondra/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:24"
+  },
+  {
+    "name": "orao",
+    "href": "orao/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/orao/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:24"
+  },
+  {
+    "name": "oric1_cass",
+    "href": "oric1_cass/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/oric1_cass/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:24"
+  },
+  {
+    "name": "orina_stylish_plus_cart",
+    "href": "orina_stylish_plus_cart/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/orina_stylish_plus_cart/",
+    "is_dir": true,
+    "size": null,
+    "date": "02-Nov-2025 02:01"
+  },
+  {
+    "name": "orion_cart",
+    "href": "orion_cart/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/orion_cart/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:24"
+  },
+  {
+    "name": "orion_cass",
+    "href": "orion_cass/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/orion_cass/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:24"
+  },
+  {
+    "name": "orion_flop",
+    "href": "orion_flop/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/orion_flop/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:24"
+  },
+  {
+    "name": "orionpro_flop",
+    "href": "orionpro_flop/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/orionpro_flop/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:24"
+  },
+  {
+    "name": "osborne1",
+    "href": "osborne1/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/osborne1/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:24"
+  },
+  {
+    "name": "osborne2",
+    "href": "osborne2/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/osborne2/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:24"
+  },
+  {
+    "name": "p500_flop",
+    "href": "p500_flop/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/p500_flop/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:24"
+  },
+  {
+    "name": "partner_cass",
+    "href": "partner_cass/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/partner_cass/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:24"
+  },
+  {
+    "name": "partner_flop",
+    "href": "partner_flop/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/partner_flop/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:24"
+  },
+  {
+    "name": "pasogo",
+    "href": "pasogo/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/pasogo/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:24"
+  },
+  {
+    "name": "pasopia7_cass",
+    "href": "pasopia7_cass/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/pasopia7_cass/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:24"
+  },
+  {
+    "name": "pasopia_cass",
+    "href": "pasopia_cass/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/pasopia_cass/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:24"
+  },
+  {
+    "name": "pb2000c",
+    "href": "pb2000c/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/pb2000c/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:24"
+  },
+  {
+    "name": "pc1000",
+    "href": "pc1000/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/pc1000/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:24"
+  },
+  {
+    "name": "pc100_flop",
+    "href": "pc100_flop/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/pc100_flop/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:24"
+  },
+  {
+    "name": "pc1512_flop",
+    "href": "pc1512_flop/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/pc1512_flop/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:24"
+  },
+  {
+    "name": "pc1640_flop",
+    "href": "pc1640_flop/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/pc1640_flop/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:24"
+  },
+  {
+    "name": "pc200",
+    "href": "pc200/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/pc200/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:24"
+  },
+  {
+    "name": "pc6001_cart",
+    "href": "pc6001_cart/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/pc6001_cart/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:24"
+  },
+  {
+    "name": "pc8001_flop",
+    "href": "pc8001_flop/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/pc8001_flop/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:24"
+  },
+  {
+    "name": "pc8001mk2_flop",
+    "href": "pc8001mk2_flop/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/pc8001mk2_flop/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:24"
+  },
+  {
+    "name": "pc8001mk2sr_flop",
+    "href": "pc8001mk2sr_flop/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/pc8001mk2sr_flop/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:24"
+  },
+  {
+    "name": "pc8201",
+    "href": "pc8201/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/pc8201/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:24"
+  },
+  {
+    "name": "pc8801_cass",
+    "href": "pc8801_cass/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/pc8801_cass/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:24"
+  },
+  {
+    "name": "pc8801_cdrom",
+    "href": "pc8801_cdrom/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/pc8801_cdrom/",
+    "is_dir": true,
+    "size": null,
+    "date": "01-Dec-2025 19:39"
+  },
+  {
+    "name": "pc8801_flop",
+    "href": "pc8801_flop/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/pc8801_flop/",
+    "is_dir": true,
+    "size": null,
+    "date": "02-Dec-2025 06:43"
+  },
+  {
+    "name": "pc88va",
+    "href": "pc88va/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/pc88va/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:24"
+  },
+  {
+    "name": "pc98",
+    "href": "pc98/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/pc98/",
+    "is_dir": true,
+    "size": null,
+    "date": "01-Dec-2025 19:39"
+  },
+  {
+    "name": "pc98_cd",
+    "href": "pc98_cd/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/pc98_cd/",
+    "is_dir": true,
+    "size": null,
+    "date": "01-Dec-2025 19:39"
+  },
+  {
+    "name": "pcd_flop",
+    "href": "pcd_flop/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/pcd_flop/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:25"
+  },
+  {
+    "name": "pce",
+    "href": "pce/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/pce/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:25"
+  },
+  {
+    "name": "pce_tourvision",
+    "href": "pce_tourvision/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/pce_tourvision/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:25"
+  },
+  {
+    "name": "pcw",
+    "href": "pcw/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/pcw/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:25"
+  },
+  {
+    "name": "pcw16",
+    "href": "pcw16/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/pcw16/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:25"
+  },
+  {
+    "name": "pcx_flop",
+    "href": "pcx_flop/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/pcx_flop/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:25"
+  },
+  {
+    "name": "pda600",
+    "href": "pda600/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/pda600/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:25"
+  },
+  {
+    "name": "pdp1_ptp",
+    "href": "pdp1_ptp/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/pdp1_ptp/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:25"
+  },
+  {
+    "name": "pecom_cass",
+    "href": "pecom_cass/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/pecom_cass/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:25"
+  },
+  {
+    "name": "pegasus_cart",
+    "href": "pegasus_cart/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/pegasus_cart/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:25"
+  },
+  {
+    "name": "pencil2",
+    "href": "pencil2/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/pencil2/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:25"
+  },
+  {
+    "name": "pentagon_cass",
+    "href": "pentagon_cass/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/pentagon_cass/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:25"
+  },
+  {
+    "name": "pet_cass",
+    "href": "pet_cass/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/pet_cass/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:25"
+  },
+  {
+    "name": "pet_flop",
+    "href": "pet_flop/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/pet_flop/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:25"
+  },
+  {
+    "name": "pet_quik",
+    "href": "pet_quik/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/pet_quik/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:25"
+  },
+  {
+    "name": "pet_rom",
+    "href": "pet_rom/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/pet_rom/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:25"
+  },
+  {
+    "name": "phc25_cass",
+    "href": "phc25_cass/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/phc25_cass/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:25"
+  },
+  {
+    "name": "pi_storyreader_cart",
+    "href": "pi_storyreader_cart/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/pi_storyreader_cart/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:25"
+  },
+  {
+    "name": "pi_storyreader_v2_cart",
+    "href": "pi_storyreader_v2_cart/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/pi_storyreader_v2_cart/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:25"
+  },
+  {
+    "name": "picno",
+    "href": "picno/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/picno/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:25"
+  },
+  {
+    "name": "pico",
+    "href": "pico/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/pico/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:25"
+  },
+  {
+    "name": "pippin_flop",
+    "href": "pippin_flop/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/pippin_flop/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:25"
+  },
+  {
+    "name": "pixter_cart",
+    "href": "pixter_cart/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/pixter_cart/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:25"
+  },
+  {
+    "name": "plus4_cart",
+    "href": "plus4_cart/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/plus4_cart/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:25"
+  },
+  {
+    "name": "plus4_cass",
+    "href": "plus4_cass/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/plus4_cass/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:25"
+  },
+  {
+    "name": "plus4_flop",
+    "href": "plus4_flop/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/plus4_flop/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:25"
+  },
+  {
+    "name": "pmd85_cass",
+    "href": "pmd85_cass/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/pmd85_cass/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:25"
+  },
+  {
+    "name": "pockchalv2",
+    "href": "pockchalv2/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/pockchalv2/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:25"
+  },
+  {
+    "name": "pockchalw",
+    "href": "pockchalw/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/pockchalw/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:25"
+  },
+  {
+    "name": "pofo",
+    "href": "pofo/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/pofo/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:25"
+  },
+  {
+    "name": "poisk1_flop",
+    "href": "poisk1_flop/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/poisk1_flop/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:25"
+  },
+  {
+    "name": "pokemini",
+    "href": "pokemini/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/pokemini/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:25"
+  },
+  {
+    "name": "poly_flop",
+    "href": "poly_flop/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/poly_flop/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:25"
+  },
+  {
+    "name": "polysix",
+    "href": "polysix/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/polysix/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:25"
+  },
+  {
+    "name": "princ",
+    "href": "princ/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/princ/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:25"
+  },
+  {
+    "name": "pro128_cart",
+    "href": "pro128_cart/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/pro128_cart/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:25"
+  },
+  {
+    "name": "pro128_cass",
+    "href": "pro128_cass/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/pro128_cass/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:25"
+  },
+  {
+    "name": "pro128_flop",
+    "href": "pro128_flop/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/pro128_flop/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:25"
+  },
+  {
+    "name": "pro128s_flop",
+    "href": "pro128s_flop/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/pro128s_flop/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:25"
+  },
+  {
+    "name": "prof180",
+    "href": "prof180/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/prof180/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:25"
+  },
+  {
+    "name": "prof80",
+    "href": "prof80/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/prof80/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:25"
+  },
+  {
+    "name": "psi98",
+    "href": "psi98/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/psi98/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:25"
+  },
+  {
+    "name": "psion1",
+    "href": "psion1/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/psion1/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:25"
+  },
+  {
+    "name": "psion2",
+    "href": "psion2/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/psion2/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:26"
+  },
+  {
+    "name": "psion_flop",
+    "href": "psion_flop/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/psion_flop/",
+    "is_dir": true,
+    "size": null,
+    "date": "01-Dec-2025 19:39"
+  },
+  {
+    "name": "psion_ssd",
+    "href": "psion_ssd/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/psion_ssd/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:26"
+  },
+  {
+    "name": "pt68k2",
+    "href": "pt68k2/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/pt68k2/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:26"
+  },
+  {
+    "name": "pv1000",
+    "href": "pv1000/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/pv1000/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:26"
+  },
+  {
+    "name": "pv2000",
+    "href": "pv2000/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/pv2000/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:26"
+  },
+  {
+    "name": "px4_cart",
+    "href": "px4_cart/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/px4_cart/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:26"
+  },
+  {
+    "name": "px8_cart",
+    "href": "px8_cart/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/px8_cart/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:26"
+  },
+  {
+    "name": "pyl601",
+    "href": "pyl601/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/pyl601/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:26"
+  },
+  {
+    "name": "ql_cart",
+    "href": "ql_cart/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/ql_cart/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:26"
+  },
+  {
+    "name": "ql_cass",
+    "href": "ql_cass/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/ql_cass/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:26"
+  },
+  {
+    "name": "ql_flop",
+    "href": "ql_flop/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/ql_flop/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:26"
+  },
+  {
+    "name": "qx10_flop",
+    "href": "qx10_flop/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/qx10_flop/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:26"
+  },
+  {
+    "name": "r8_card",
+    "href": "r8_card/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/r8_card/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:26"
+  },
+  {
+    "name": "r9751",
+    "href": "r9751/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/r9751/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:26"
+  },
+  {
+    "name": "radio86_cart",
+    "href": "radio86_cart/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/radio86_cart/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:26"
+  },
+  {
+    "name": "radio86_cass",
+    "href": "radio86_cass/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/radio86_cass/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:26"
+  },
+  {
+    "name": "rainbow",
+    "href": "rainbow/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/rainbow/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:26"
+  },
+  {
+    "name": "ramstar",
+    "href": "ramstar/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/ramstar/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:26"
+  },
+  {
+    "name": "roland_tnsc1",
+    "href": "roland_tnsc1/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/roland_tnsc1/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:26"
+  },
+  {
+    "name": "roland_tnsc2",
+    "href": "roland_tnsc2/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/roland_tnsc2/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:26"
+  },
+  {
+    "name": "rwtrntcs",
+    "href": "rwtrntcs/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/rwtrntcs/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:26"
+  },
+  {
+    "name": "rx78_cart",
+    "href": "rx78_cart/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/rx78_cart/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:26"
+  },
+  {
+    "name": "rx78_cass",
+    "href": "rx78_cass/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/rx78_cass/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:26"
+  },
+  {
+    "name": "rz1_cass",
+    "href": "rz1_cass/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/rz1_cass/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:26"
+  },
+  {
+    "name": "sagafox",
+    "href": "sagafox/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/sagafox/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:26"
+  },
+  {
+    "name": "sage2",
+    "href": "sage2/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/sage2/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:26"
+  },
+  {
+    "name": "saitek_egr",
+    "href": "saitek_egr/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/saitek_egr/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:26"
+  },
+  {
+    "name": "saitek_kso",
+    "href": "saitek_kso/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/saitek_kso/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:26"
+  },
+  {
+    "name": "saitek_schess",
+    "href": "saitek_schess/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/saitek_schess/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:26"
+  },
+  {
+    "name": "samcoupe_cass",
+    "href": "samcoupe_cass/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/samcoupe_cass/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:26"
+  },
+  {
+    "name": "samcoupe_flop",
+    "href": "samcoupe_flop/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/samcoupe_flop/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:26"
+  },
+  {
+    "name": "sat_cart",
+    "href": "sat_cart/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/sat_cart/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:26"
+  },
+  {
+    "name": "sat_vccart",
+    "href": "sat_vccart/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/sat_vccart/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:26"
+  },
+  {
+    "name": "sawatte",
+    "href": "sawatte/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/sawatte/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:26"
+  },
+  {
+    "name": "sbrain",
+    "href": "sbrain/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/sbrain/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:26"
+  },
+  {
+    "name": "sc3000_cart",
+    "href": "sc3000_cart/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/sc3000_cart/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:26"
+  },
+  {
+    "name": "sc3000_cass",
+    "href": "sc3000_cass/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/sc3000_cass/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:26"
+  },
+  {
+    "name": "scv",
+    "href": "scv/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/scv/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:26"
+  },
+  {
+    "name": "sd132_flop",
+    "href": "sd132_flop/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/sd132_flop/",
+    "is_dir": true,
+    "size": null,
+    "date": "01-Dec-2025 19:39"
+  },
+  {
+    "name": "sd1_flop",
+    "href": "sd1_flop/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/sd1_flop/",
+    "is_dir": true,
+    "size": null,
+    "date": "01-Dec-2025 19:39"
+  },
+  {
+    "name": "sdk85",
+    "href": "sdk85/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/sdk85/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:26"
+  },
+  {
+    "name": "sega_beena_cart",
+    "href": "sega_beena_cart/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/sega_beena_cart/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:26"
+  },
+  {
+    "name": "segaai",
+    "href": "segaai/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/segaai/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:26"
+  },
+  {
+    "name": "sf7000",
+    "href": "sf7000/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/sf7000/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:26"
+  },
+  {
+    "name": "sg1000",
+    "href": "sg1000/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/sg1000/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:26"
+  },
+  {
+    "name": "sgx",
+    "href": "sgx/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/sgx/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:26"
+  },
+  {
+    "name": "singingstarkaraoke_cart",
+    "href": "singingstarkaraoke_cart/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/singingstarkaraoke_cart/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:26"
+  },
+  {
+    "name": "sitcom",
+    "href": "sitcom/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/sitcom/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:26"
+  },
+  {
+    "name": "smartcycle_cart",
+    "href": "smartcycle_cart/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/smartcycle_cart/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:26"
+  },
+  {
+    "name": "smarttv_cart",
+    "href": "smarttv_cart/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/smarttv_cart/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:26"
+  },
+  {
+    "name": "smc777",
+    "href": "smc777/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/smc777/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:26"
+  },
+  {
+    "name": "sms",
+    "href": "sms/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/sms/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:26"
+  },
+  {
+    "name": "snes",
+    "href": "snes/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/snes/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:27"
+  },
+  {
+    "name": "snes_bspack",
+    "href": "snes_bspack/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/snes_bspack/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:27"
+  },
+  {
+    "name": "snes_strom",
+    "href": "snes_strom/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/snes_strom/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:27"
+  },
+  {
+    "name": "snotec",
+    "href": "snotec/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/snotec/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:27"
+  },
+  {
+    "name": "snread",
+    "href": "snread/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/snread/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:27"
+  },
+  {
+    "name": "snspell",
+    "href": "snspell/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/snspell/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:27"
+  },
+  {
+    "name": "socrates",
+    "href": "socrates/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/socrates/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:27"
+  },
+  {
+    "name": "softbox",
+    "href": "softbox/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/softbox/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:27"
+  },
+  {
+    "name": "sol20_cass",
+    "href": "sol20_cass/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/sol20_cass/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:27"
+  },
+  {
+    "name": "sony_news",
+    "href": "sony_news/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/sony_news/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:27"
+  },
+  {
+    "name": "sorcerer_cart",
+    "href": "sorcerer_cart/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/sorcerer_cart/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:27"
+  },
+  {
+    "name": "sorcerer_cass",
+    "href": "sorcerer_cass/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/sorcerer_cass/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:27"
+  },
+  {
+    "name": "sorcerer_flop",
+    "href": "sorcerer_flop/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/sorcerer_flop/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:27"
+  },
+  {
+    "name": "spc1000_cass",
+    "href": "spc1000_cass/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/spc1000_cass/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:27"
+  },
+  {
+    "name": "spc1500_cass",
+    "href": "spc1500_cass/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/spc1500_cass/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:27"
+  },
+  {
+    "name": "special_cass",
+    "href": "special_cass/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/special_cass/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:27"
+  },
+  {
+    "name": "special_flop",
+    "href": "special_flop/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/special_flop/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:27"
+  },
+  {
+    "name": "specpls3_flop",
+    "href": "specpls3_flop/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/specpls3_flop/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:27"
+  },
+  {
+    "name": "spectrum_betadisc_flop",
+    "href": "spectrum_betadisc_flop/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/spectrum_betadisc_flop/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:27"
+  },
+  {
+    "name": "spectrum_cart",
+    "href": "spectrum_cart/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/spectrum_cart/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:27"
+  },
+  {
+    "name": "spectrum_cass",
+    "href": "spectrum_cass/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/spectrum_cass/",
+    "is_dir": true,
+    "size": null,
+    "date": "02-Nov-2025 02:01"
+  },
+  {
+    "name": "spectrum_flop_opus",
+    "href": "spectrum_flop_opus/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/spectrum_flop_opus/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:29"
+  },
+  {
+    "name": "spectrum_mgt_flop",
+    "href": "spectrum_mgt_flop/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/spectrum_mgt_flop/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:29"
+  },
+  {
+    "name": "spectrum_microdrive",
+    "href": "spectrum_microdrive/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/spectrum_microdrive/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:29"
+  },
+  {
+    "name": "spectrum_wafadrive",
+    "href": "spectrum_wafadrive/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/spectrum_wafadrive/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:29"
+  },
+  {
+    "name": "sprachmg",
+    "href": "sprachmg/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/sprachmg/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:29"
+  },
+  {
+    "name": "squale_cart",
+    "href": "squale_cart/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/squale_cart/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:29"
+  },
+  {
+    "name": "ssem_quik",
+    "href": "ssem_quik/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/ssem_quik/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:29"
+  },
+  {
+    "name": "st_cart",
+    "href": "st_cart/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/st_cart/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:29"
+  },
+  {
+    "name": "st_flop",
+    "href": "st_flop/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/st_flop/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:29"
+  },
+  {
+    "name": "stepone_flop",
+    "href": "stepone_flop/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/stepone_flop/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:29"
+  },
+  {
+    "name": "studio2",
+    "href": "studio2/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/studio2/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:29"
+  },
+  {
+    "name": "stv",
+    "href": "stv/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/stv/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:29"
+  },
+  {
+    "name": "super6",
+    "href": "super6/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/super6/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:29"
+  },
+  {
+    "name": "super80_cass",
+    "href": "super80_cass/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/super80_cass/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:29"
+  },
+  {
+    "name": "super80_flop",
+    "href": "super80_flop/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/super80_flop/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:29"
+  },
+  {
+    "name": "super_tv_pc_cart",
+    "href": "super_tv_pc_cart/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/super_tv_pc_cart/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:29"
+  },
+  {
+    "name": "superpet_flop",
+    "href": "superpet_flop/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/superpet_flop/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:29"
+  },
+  {
+    "name": "supracan",
+    "href": "supracan/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/supracan/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:29"
+  },
+  {
+    "name": "sv8000",
+    "href": "sv8000/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/sv8000/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:29"
+  },
+  {
+    "name": "svi318_cart",
+    "href": "svi318_cart/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/svi318_cart/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:29"
+  },
+  {
+    "name": "svi318_cass",
+    "href": "svi318_cass/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/svi318_cass/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:29"
+  },
+  {
+    "name": "svi318_flop",
+    "href": "svi318_flop/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/svi318_flop/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:29"
+  },
+  {
+    "name": "svision",
+    "href": "svision/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/svision/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:29"
+  },
+  {
+    "name": "svmu",
+    "href": "svmu/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/svmu/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:29"
+  },
+  {
+    "name": "t1000",
+    "href": "t1000/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/t1000/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:29"
+  },
+  {
+    "name": "takara_daigunder_dx_cart",
+    "href": "takara_daigunder_dx_cart/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/takara_daigunder_dx_cart/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:29"
+  },
+  {
+    "name": "tandy200",
+    "href": "tandy200/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/tandy200/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:29"
+  },
+  {
+    "name": "tandy2k",
+    "href": "tandy2k/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/tandy2k/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:29"
+  },
+  {
+    "name": "tandy6k",
+    "href": "tandy6k/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/tandy6k/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:29"
+  },
+  {
+    "name": "tdv2324",
+    "href": "tdv2324/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/tdv2324/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:29"
+  },
+  {
+    "name": "tek4052_cart",
+    "href": "tek4052_cart/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/tek4052_cart/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:29"
+  },
+  {
+    "name": "telestory_cart",
+    "href": "telestory_cart/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/telestory_cart/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:29"
+  },
+  {
+    "name": "teradrive_flop",
+    "href": "teradrive_flop/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/teradrive_flop/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:29"
+  },
+  {
+    "name": "tg16",
+    "href": "tg16/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/tg16/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:29"
+  },
+  {
+    "name": "thinkpad8xx",
+    "href": "thinkpad8xx/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/thinkpad8xx/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:29"
+  },
+  {
+    "name": "ti74_cart",
+    "href": "ti74_cart/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/ti74_cart/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:29"
+  },
+  {
+    "name": "ti95_cart",
+    "href": "ti95_cart/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/ti95_cart/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:29"
+  },
+  {
+    "name": "ti99_cart",
+    "href": "ti99_cart/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/ti99_cart/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:30"
+  },
+  {
+    "name": "tiki100",
+    "href": "tiki100/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/tiki100/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:30"
+  },
+  {
+    "name": "timex_cass",
+    "href": "timex_cass/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/timex_cass/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:30"
+  },
+  {
+    "name": "timex_dock",
+    "href": "timex_dock/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/timex_dock/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:30"
+  },
+  {
+    "name": "tmc600_quik",
+    "href": "tmc600_quik/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/tmc600_quik/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:30"
+  },
+  {
+    "name": "tntell",
+    "href": "tntell/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/tntell/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:30"
+  },
+  {
+    "name": "to770_cart",
+    "href": "to770_cart/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/to770_cart/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:30"
+  },
+  {
+    "name": "to770a_cart",
+    "href": "to770a_cart/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/to770a_cart/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:30"
+  },
+  {
+    "name": "to7_cart",
+    "href": "to7_cart/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/to7_cart/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:30"
+  },
+  {
+    "name": "to7_cass",
+    "href": "to7_cass/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/to7_cass/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:30"
+  },
+  {
+    "name": "to7_qd",
+    "href": "to7_qd/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/to7_qd/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:30"
+  },
+  {
+    "name": "to8_cass",
+    "href": "to8_cass/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/to8_cass/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:30"
+  },
+  {
+    "name": "to8_qd",
+    "href": "to8_qd/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/to8_qd/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:30"
+  },
+  {
+    "name": "to_flop",
+    "href": "to_flop/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/to_flop/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:30"
+  },
+  {
+    "name": "triton_rom",
+    "href": "triton_rom/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/triton_rom/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:30"
+  },
+  {
+    "name": "trs80_cass",
+    "href": "trs80_cass/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/trs80_cass/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:30"
+  },
+  {
+    "name": "trs80_flop",
+    "href": "trs80_flop/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/trs80_flop/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:30"
+  },
+  {
+    "name": "trs80_quik",
+    "href": "trs80_quik/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/trs80_quik/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:30"
+  },
+  {
+    "name": "trs80m2",
+    "href": "trs80m2/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/trs80m2/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:30"
+  },
+  {
+    "name": "trsm100",
+    "href": "trsm100/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/trsm100/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:30"
+  },
+  {
+    "name": "tsconf_betadisc_flop",
+    "href": "tsconf_betadisc_flop/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/tsconf_betadisc_flop/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:30"
+  },
+  {
+    "name": "ttwist_brainquest_cart",
+    "href": "ttwist_brainquest_cart/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/ttwist_brainquest_cart/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:30"
+  },
+  {
+    "name": "turboextreme_cart",
+    "href": "turboextreme_cart/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/turboextreme_cart/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:30"
+  },
+  {
+    "name": "tutor",
+    "href": "tutor/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/tutor/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:30"
+  },
+  {
+    "name": "tvc_cart",
+    "href": "tvc_cart/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/tvc_cart/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:30"
+  },
+  {
+    "name": "tvc_cass",
+    "href": "tvc_cass/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/tvc_cass/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:30"
+  },
+  {
+    "name": "tvc_flop",
+    "href": "tvc_flop/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/tvc_flop/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:30"
+  },
+  {
+    "name": "tvdear",
+    "href": "tvdear/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/tvdear/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:30"
+  },
+  {
+    "name": "tvgogo",
+    "href": "tvgogo/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/tvgogo/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:30"
+  },
+  {
+    "name": "tvochken",
+    "href": "tvochken/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/tvochken/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:30"
+  },
+  {
+    "name": "tx0_ptp",
+    "href": "tx0_ptp/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/tx0_ptp/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:30"
+  },
+  {
+    "name": "u110_card",
+    "href": "u110_card/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/u110_card/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:30"
+  },
+  {
+    "name": "unichamp",
+    "href": "unichamp/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/unichamp/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:30"
+  },
+  {
+    "name": "ut88",
+    "href": "ut88/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/ut88/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:30"
+  },
+  {
+    "name": "uzebox",
+    "href": "uzebox/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/uzebox/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:30"
+  },
+  {
+    "name": "v1050_flop",
+    "href": "v1050_flop/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/v1050_flop/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:30"
+  },
+  {
+    "name": "vbaby_cart",
+    "href": "vbaby_cart/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/vbaby_cart/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:30"
+  },
+  {
+    "name": "vboy",
+    "href": "vboy/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/vboy/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:30"
+  },
+  {
+    "name": "vc4000",
+    "href": "vc4000/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/vc4000/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:30"
+  },
+  {
+    "name": "vector06_cart",
+    "href": "vector06_cart/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/vector06_cart/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:30"
+  },
+  {
+    "name": "vector06_flop",
+    "href": "vector06_flop/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/vector06_flop/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:30"
+  },
+  {
+    "name": "vectrex",
+    "href": "vectrex/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/vectrex/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:30"
+  },
+  {
+    "name": "vfxsd_flop",
+    "href": "vfxsd_flop/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/vfxsd_flop/",
+    "is_dir": true,
+    "size": null,
+    "date": "01-Dec-2025 19:39"
+  },
+  {
+    "name": "vg5k",
+    "href": "vg5k/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/vg5k/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:30"
+  },
+  {
+    "name": "vgmplay",
+    "href": "vgmplay/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/vgmplay/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:31"
+  },
+  {
+    "name": "vic10",
+    "href": "vic10/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/vic10/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:31"
+  },
+  {
+    "name": "vic1001_cart",
+    "href": "vic1001_cart/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/vic1001_cart/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:31"
+  },
+  {
+    "name": "vic1001_cass",
+    "href": "vic1001_cass/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/vic1001_cass/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:31"
+  },
+  {
+    "name": "vic1001_flop",
+    "href": "vic1001_flop/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/vic1001_flop/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:31"
+  },
+  {
+    "name": "victor9k_flop",
+    "href": "victor9k_flop/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/victor9k_flop/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:31"
+  },
+  {
+    "name": "vidbrain",
+    "href": "vidbrain/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/vidbrain/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:31"
+  },
+  {
+    "name": "videoart",
+    "href": "videoart/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/videoart/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:31"
+  },
+  {
+    "name": "videopac",
+    "href": "videopac/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/videopac/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:31"
+  },
+  {
+    "name": "vii",
+    "href": "vii/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/vii/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:31"
+  },
+  {
+    "name": "vip",
+    "href": "vip/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/vip/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:31"
+  },
+  {
+    "name": "visicom",
+    "href": "visicom/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/visicom/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:31"
+  },
+  {
+    "name": "vixen",
+    "href": "vixen/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/vixen/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:31"
+  },
+  {
+    "name": "vsmile_cart",
+    "href": "vsmile_cart/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/vsmile_cart/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:31"
+  },
+  {
+    "name": "vsmileb_cart",
+    "href": "vsmileb_cart/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/vsmileb_cart/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:31"
+  },
+  {
+    "name": "vsmilem_cart",
+    "href": "vsmilem_cart/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/vsmilem_cart/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:31"
+  },
+  {
+    "name": "vtech2_cass",
+    "href": "vtech2_cass/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/vtech2_cass/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:31"
+  },
+  {
+    "name": "vtech_innotab_cart",
+    "href": "vtech_innotab_cart/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/vtech_innotab_cart/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:31"
+  },
+  {
+    "name": "vtech_innotv_cart",
+    "href": "vtech_innotv_cart/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/vtech_innotv_cart/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:31"
+  },
+  {
+    "name": "vtech_storio_cart",
+    "href": "vtech_storio_cart/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/vtech_storio_cart/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:31"
+  },
+  {
+    "name": "vz_cass",
+    "href": "vz_cass/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/vz_cass/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:31"
+  },
+  {
+    "name": "vz_snap",
+    "href": "vz_snap/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/vz_snap/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:31"
+  },
+  {
+    "name": "wangpc",
+    "href": "wangpc/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/wangpc/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:31"
+  },
+  {
+    "name": "waveterm",
+    "href": "waveterm/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/waveterm/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:31"
+  },
+  {
+    "name": "wicat",
+    "href": "wicat/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/wicat/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:31"
+  },
+  {
+    "name": "wizard_cart",
+    "href": "wizard_cart/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/wizard_cart/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:31"
+  },
+  {
+    "name": "wmbullet",
+    "href": "wmbullet/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/wmbullet/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:31"
+  },
+  {
+    "name": "wren_flop",
+    "href": "wren_flop/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/wren_flop/",
+    "is_dir": true,
+    "size": null,
+    "date": "01-Dec-2025 19:39"
+  },
+  {
+    "name": "wscolor",
+    "href": "wscolor/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/wscolor/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:31"
+  },
+  {
+    "name": "wswan",
+    "href": "wswan/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/wswan/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:32"
+  },
+  {
+    "name": "x07_card",
+    "href": "x07_card/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/x07_card/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:32"
+  },
+  {
+    "name": "x07_cass",
+    "href": "x07_cass/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/x07_cass/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:32"
+  },
+  {
+    "name": "x1_cass",
+    "href": "x1_cass/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/x1_cass/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:32"
+  },
+  {
+    "name": "x1_flop",
+    "href": "x1_flop/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/x1_flop/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:32"
+  },
+  {
+    "name": "x37_flop",
+    "href": "x37_flop/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/x37_flop/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:32"
+  },
+  {
+    "name": "x68k_flop",
+    "href": "x68k_flop/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/x68k_flop/",
+    "is_dir": true,
+    "size": null,
+    "date": "02-Nov-2025 02:01"
+  },
+  {
+    "name": "xegs",
+    "href": "xegs/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/xegs/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:32"
+  },
+  {
+    "name": "xerox820",
+    "href": "xerox820/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/xerox820/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:32"
+  },
+  {
+    "name": "xerox820ii",
+    "href": "xerox820ii/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/xerox820ii/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:32"
+  },
+  {
+    "name": "z80clock",
+    "href": "z80clock/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/z80clock/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:32"
+  },
+  {
+    "name": "z80ne_cass",
+    "href": "z80ne_cass/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/z80ne_cass/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:32"
+  },
+  {
+    "name": "z80ne_flop",
+    "href": "z80ne_flop/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/z80ne_flop/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:32"
+  },
+  {
+    "name": "z88_cart",
+    "href": "z88_cart/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/z88_cart/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:32"
+  },
+  {
+    "name": "zorba",
+    "href": "zorba/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/zorba/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:32"
+  },
+  {
+    "name": "zx80_cass",
+    "href": "zx80_cass/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/zx80_cass/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:32"
+  },
+  {
+    "name": "zx81_cass",
+    "href": "zx81_cass/",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/zx81_cass/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Sep-2025 14:32"
+  }
+]

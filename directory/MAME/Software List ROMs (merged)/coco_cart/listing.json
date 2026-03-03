@@ -1,0 +1,786 @@
+[
+  {
+    "name": "7cardstd.zip",
+    "href": "7cardstd.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/coco_cart/7cardstd.zip",
+    "is_dir": false,
+    "size": "7.2 KiB",
+    "date": "28-Sep-2025 03:22"
+  },
+  {
+    "name": "amazing.zip",
+    "href": "amazing.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/coco_cart/amazing.zip",
+    "is_dir": false,
+    "size": "20.4 KiB",
+    "date": "28-Sep-2025 03:22"
+  },
+  {
+    "name": "androne.zip",
+    "href": "androne.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/coco_cart/androne.zip",
+    "is_dir": false,
+    "size": "5.2 KiB",
+    "date": "28-Sep-2025 03:22"
+  },
+  {
+    "name": "applianc.zip",
+    "href": "applianc.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/coco_cart/applianc.zip",
+    "is_dir": false,
+    "size": "10.5 KiB",
+    "date": "28-Sep-2025 03:22"
+  },
+  {
+    "name": "arkanoid.zip",
+    "href": "arkanoid.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/coco_cart/arkanoid.zip",
+    "is_dir": false,
+    "size": "14.5 KiB",
+    "date": "28-Sep-2025 03:22"
+  },
+  {
+    "name": "artgalry.zip",
+    "href": "artgalry.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/coco_cart/artgalry.zip",
+    "is_dir": false,
+    "size": "3.5 KiB",
+    "date": "28-Sep-2025 03:22"
+  },
+  {
+    "name": "atom.zip",
+    "href": "atom.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/coco_cart/atom.zip",
+    "is_dir": false,
+    "size": "6.2 KiB",
+    "date": "28-Sep-2025 03:22"
+  },
+  {
+    "name": "backgamm.zip",
+    "href": "backgamm.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/coco_cart/backgamm.zip",
+    "is_dir": false,
+    "size": "3.0 KiB",
+    "date": "28-Sep-2025 03:22"
+  },
+  {
+    "name": "baseball.zip",
+    "href": "baseball.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/coco_cart/baseball.zip",
+    "is_dir": false,
+    "size": "6.3 KiB",
+    "date": "28-Sep-2025 03:22"
+  },
+  {
+    "name": "bingomth.zip",
+    "href": "bingomth.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/coco_cart/bingomth.zip",
+    "is_dir": false,
+    "size": "3.1 KiB",
+    "date": "28-Sep-2025 03:22"
+  },
+  {
+    "name": "bridge.zip",
+    "href": "bridge.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/coco_cart/bridge.zip",
+    "is_dir": false,
+    "size": "7.6 KiB",
+    "date": "28-Sep-2025 03:22"
+  },
+  {
+    "name": "castlgrd.zip",
+    "href": "castlgrd.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/coco_cart/castlgrd.zip",
+    "is_dir": false,
+    "size": "2.9 KiB",
+    "date": "28-Sep-2025 03:22"
+  },
+  {
+    "name": "cclimber.zip",
+    "href": "cclimber.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/coco_cart/cclimber.zip",
+    "is_dir": false,
+    "size": "5.1 KiB",
+    "date": "28-Sep-2025 03:22"
+  },
+  {
+    "name": "checkerk.zip",
+    "href": "checkerk.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/coco_cart/checkerk.zip",
+    "is_dir": false,
+    "size": "3.3 KiB",
+    "date": "28-Sep-2025 03:22"
+  },
+  {
+    "name": "checkers.zip",
+    "href": "checkers.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/coco_cart/checkers.zip",
+    "is_dir": false,
+    "size": "4.9 KiB",
+    "date": "28-Sep-2025 03:22"
+  },
+  {
+    "name": "clowns.zip",
+    "href": "clowns.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/coco_cart/clowns.zip",
+    "is_dir": false,
+    "size": "4.3 KiB",
+    "date": "28-Sep-2025 03:22"
+  },
+  {
+    "name": "clrfile2.zip",
+    "href": "clrfile2.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/coco_cart/clrfile2.zip",
+    "is_dir": false,
+    "size": "13.7 KiB",
+    "date": "28-Sep-2025 03:22"
+  },
+  {
+    "name": "clrforth.zip",
+    "href": "clrforth.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/coco_cart/clrforth.zip",
+    "is_dir": false,
+    "size": "7.3 KiB",
+    "date": "28-Sep-2025 03:22"
+  },
+  {
+    "name": "clrlogo.zip",
+    "href": "clrlogo.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/coco_cart/clrlogo.zip",
+    "is_dir": false,
+    "size": "11.7 KiB",
+    "date": "28-Sep-2025 03:22"
+  },
+  {
+    "name": "clrrobot.zip",
+    "href": "clrrobot.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/coco_cart/clrrobot.zip",
+    "is_dir": false,
+    "size": "5.9 KiB",
+    "date": "28-Sep-2025 03:22"
+  },
+  {
+    "name": "crosswrd.zip",
+    "href": "crosswrd.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/coco_cart/crosswrd.zip",
+    "is_dir": false,
+    "size": "3.1 KiB",
+    "date": "28-Sep-2025 03:22"
+  },
+  {
+    "name": "cubes.zip",
+    "href": "cubes.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/coco_cart/cubes.zip",
+    "is_dir": false,
+    "size": "3.3 KiB",
+    "date": "28-Sep-2025 03:22"
+  },
+  {
+    "name": "cyrus1.zip",
+    "href": "cyrus1.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/coco_cart/cyrus1.zip",
+    "is_dir": false,
+    "size": "12.6 KiB",
+    "date": "28-Sep-2025 03:22"
+  },
+  {
+    "name": "dagorath.zip",
+    "href": "dagorath.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/coco_cart/dagorath.zip",
+    "is_dir": false,
+    "size": "7.4 KiB",
+    "date": "28-Sep-2025 03:22"
+  },
+  {
+    "name": "dblback.zip",
+    "href": "dblback.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/coco_cart/dblback.zip",
+    "is_dir": false,
+    "size": "3.1 KiB",
+    "date": "28-Sep-2025 03:22"
+  },
+  {
+    "name": "demodrby.zip",
+    "href": "demodrby.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/coco_cart/demodrby.zip",
+    "is_dir": false,
+    "size": "5.3 KiB",
+    "date": "28-Sep-2025 03:22"
+  },
+  {
+    "name": "demonatk.zip",
+    "href": "demonatk.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/coco_cart/demonatk.zip",
+    "is_dir": false,
+    "size": "9.4 KiB",
+    "date": "28-Sep-2025 03:22"
+  },
+  {
+    "name": "diag2.zip",
+    "href": "diag2.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/coco_cart/diag2.zip",
+    "is_dir": false,
+    "size": "3.9 KiB",
+    "date": "28-Sep-2025 03:22"
+  },
+  {
+    "name": "dinowar.zip",
+    "href": "dinowar.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/coco_cart/dinowar.zip",
+    "is_dir": false,
+    "size": "5.3 KiB",
+    "date": "28-Sep-2025 03:22"
+  },
+  {
+    "name": "dlxrs232.zip",
+    "href": "dlxrs232.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/coco_cart/dlxrs232.zip",
+    "is_dir": false,
+    "size": "3.6 KiB",
+    "date": "28-Sep-2025 03:22"
+  },
+  {
+    "name": "donpan.zip",
+    "href": "donpan.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/coco_cart/donpan.zip",
+    "is_dir": false,
+    "size": "5.7 KiB",
+    "date": "28-Sep-2025 03:22"
+  },
+  {
+    "name": "doodlbug.zip",
+    "href": "doodlbug.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/coco_cart/doodlbug.zip",
+    "is_dir": false,
+    "size": "17.2 KiB",
+    "date": "28-Sep-2025 03:22"
+  },
+  {
+    "name": "downland.zip",
+    "href": "downland.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/coco_cart/downland.zip",
+    "is_dir": false,
+    "size": "12.6 KiB",
+    "date": "28-Sep-2025 03:22"
+  },
+  {
+    "name": "drgnfire.zip",
+    "href": "drgnfire.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/coco_cart/drgnfire.zip",
+    "is_dir": false,
+    "size": "9.2 KiB",
+    "date": "28-Sep-2025 03:22"
+  },
+  {
+    "name": "edtasm.zip",
+    "href": "edtasm.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/coco_cart/edtasm.zip",
+    "is_dir": false,
+    "size": "9.1 KiB",
+    "date": "28-Sep-2025 03:22"
+  },
+  {
+    "name": "facemakr.zip",
+    "href": "facemakr.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/coco_cart/facemakr.zip",
+    "is_dir": false,
+    "size": "5.2 KiB",
+    "date": "28-Sep-2025 03:22"
+  },
+  {
+    "name": "fd502.zip",
+    "href": "fd502.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/coco_cart/fd502.zip",
+    "is_dir": false,
+    "size": "7.1 KiB",
+    "date": "28-Sep-2025 03:22"
+  },
+  {
+    "name": "finance2.zip",
+    "href": "finance2.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/coco_cart/finance2.zip",
+    "is_dir": false,
+    "size": "12.1 KiB",
+    "date": "28-Sep-2025 03:22"
+  },
+  {
+    "name": "football.zip",
+    "href": "football.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/coco_cart/football.zip",
+    "is_dir": false,
+    "size": "4.2 KiB",
+    "date": "28-Sep-2025 03:22"
+  },
+  {
+    "name": "fracfevr.zip",
+    "href": "fracfevr.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/coco_cart/fracfevr.zip",
+    "is_dir": false,
+    "size": "5.4 KiB",
+    "date": "28-Sep-2025 03:22"
+  },
+  {
+    "name": "galactic.zip",
+    "href": "galactic.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/coco_cart/galactic.zip",
+    "is_dir": false,
+    "size": "3.1 KiB",
+    "date": "28-Sep-2025 03:22"
+  },
+  {
+    "name": "gfl2.zip",
+    "href": "gfl2.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/coco_cart/gfl2.zip",
+    "is_dir": false,
+    "size": "16.0 KiB",
+    "date": "28-Sep-2025 03:22"
+  },
+  {
+    "name": "ginchamp.zip",
+    "href": "ginchamp.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/coco_cart/ginchamp.zip",
+    "is_dir": false,
+    "size": "5.1 KiB",
+    "date": "28-Sep-2025 03:22"
+  },
+  {
+    "name": "gomoku.zip",
+    "href": "gomoku.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/coco_cart/gomoku.zip",
+    "is_dir": false,
+    "size": "6.3 KiB",
+    "date": "28-Sep-2025 03:22"
+  },
+  {
+    "name": "graphpak.zip",
+    "href": "graphpak.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/coco_cart/graphpak.zip",
+    "is_dir": false,
+    "size": "9.3 KiB",
+    "date": "28-Sep-2025 03:22"
+  },
+  {
+    "name": "handyman.zip",
+    "href": "handyman.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/coco_cart/handyman.zip",
+    "is_dir": false,
+    "size": "3.6 KiB",
+    "date": "28-Sep-2025 03:22"
+  },
+  {
+    "name": "jdos123.zip",
+    "href": "jdos123.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/coco_cart/jdos123.zip",
+    "is_dir": false,
+    "size": "31.8 KiB",
+    "date": "28-Sep-2025 03:22"
+  },
+  {
+    "name": "kidskeys.zip",
+    "href": "kidskeys.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/coco_cart/kidskeys.zip",
+    "is_dir": false,
+    "size": "6.0 KiB",
+    "date": "28-Sep-2025 03:22"
+  },
+  {
+    "name": "kindcomp.zip",
+    "href": "kindcomp.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/coco_cart/kindcomp.zip",
+    "is_dir": false,
+    "size": "3.6 KiB",
+    "date": "28-Sep-2025 03:22"
+  },
+  {
+    "name": "mathtut.zip",
+    "href": "mathtut.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/coco_cart/mathtut.zip",
+    "is_dir": false,
+    "size": "10.6 KiB",
+    "date": "28-Sep-2025 03:22"
+  },
+  {
+    "name": "megabug.zip",
+    "href": "megabug.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/coco_cart/megabug.zip",
+    "is_dir": false,
+    "size": "6.1 KiB",
+    "date": "28-Sep-2025 03:22"
+  },
+  {
+    "name": "microbes.zip",
+    "href": "microbes.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/coco_cart/microbes.zip",
+    "is_dir": false,
+    "size": "3.6 KiB",
+    "date": "28-Sep-2025 03:22"
+  },
+  {
+    "name": "microchs.zip",
+    "href": "microchs.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/coco_cart/microchs.zip",
+    "is_dir": false,
+    "size": "4.7 KiB",
+    "date": "28-Sep-2025 03:22"
+  },
+  {
+    "name": "micropnt.zip",
+    "href": "micropnt.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/coco_cart/micropnt.zip",
+    "is_dir": false,
+    "size": "2.7 KiB",
+    "date": "28-Sep-2025 03:22"
+  },
+  {
+    "name": "mindroll.zip",
+    "href": "mindroll.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/coco_cart/mindroll.zip",
+    "is_dir": false,
+    "size": "17.2 KiB",
+    "date": "28-Sep-2025 03:22"
+  },
+  {
+    "name": "modem.zip",
+    "href": "modem.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/coco_cart/modem.zip",
+    "is_dir": false,
+    "size": "3.9 KiB",
+    "date": "28-Sep-2025 03:22"
+  },
+  {
+    "name": "monstrmz.zip",
+    "href": "monstrmz.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/coco_cart/monstrmz.zip",
+    "is_dir": false,
+    "size": "3.1 KiB",
+    "date": "28-Sep-2025 03:22"
+  },
+  {
+    "name": "music.zip",
+    "href": "music.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/coco_cart/music.zip",
+    "is_dir": false,
+    "size": "3.5 KiB",
+    "date": "28-Sep-2025 03:22"
+  },
+  {
+    "name": "nebula.zip",
+    "href": "nebula.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/coco_cart/nebula.zip",
+    "is_dir": false,
+    "size": "5.4 KiB",
+    "date": "28-Sep-2025 03:22"
+  },
+  {
+    "name": "nereis.zip",
+    "href": "nereis.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/coco_cart/nereis.zip",
+    "is_dir": false,
+    "size": "5.5 KiB",
+    "date": "28-Sep-2025 03:22"
+  },
+  {
+    "name": "orch90.zip",
+    "href": "orch90.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/coco_cart/orch90.zip",
+    "is_dir": false,
+    "size": "6.8 KiB",
+    "date": "28-Sep-2025 03:22"
+  },
+  {
+    "name": "panic.zip",
+    "href": "panic.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/coco_cart/panic.zip",
+    "is_dir": false,
+    "size": "6.2 KiB",
+    "date": "28-Sep-2025 03:22"
+  },
+  {
+    "name": "pinball.zip",
+    "href": "pinball.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/coco_cart/pinball.zip",
+    "is_dir": false,
+    "size": "3.7 KiB",
+    "date": "28-Sep-2025 03:22"
+  },
+  {
+    "name": "polaris.zip",
+    "href": "polaris.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/coco_cart/polaris.zip",
+    "is_dir": false,
+    "size": "3.1 KiB",
+    "date": "28-Sep-2025 03:22"
+  },
+  {
+    "name": "poltrgst.zip",
+    "href": "poltrgst.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/coco_cart/poltrgst.zip",
+    "is_dir": false,
+    "size": "5.3 KiB",
+    "date": "28-Sep-2025 03:22"
+  },
+  {
+    "name": "popcorn.zip",
+    "href": "popcorn.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/coco_cart/popcorn.zip",
+    "is_dir": false,
+    "size": "1.9 KiB",
+    "date": "28-Sep-2025 03:22"
+  },
+  {
+    "name": "predator.zip",
+    "href": "predator.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/coco_cart/predator.zip",
+    "is_dir": false,
+    "size": "29.5 KiB",
+    "date": "28-Sep-2025 03:22"
+  },
+  {
+    "name": "quasar.zip",
+    "href": "quasar.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/coco_cart/quasar.zip",
+    "is_dir": false,
+    "size": "3.6 KiB",
+    "date": "28-Sep-2025 03:22"
+  },
+  {
+    "name": "radwar.zip",
+    "href": "radwar.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/coco_cart/radwar.zip",
+    "is_dir": false,
+    "size": "27.9 KiB",
+    "date": "28-Sep-2025 03:22"
+  },
+  {
+    "name": "rampage.zip",
+    "href": "rampage.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/coco_cart/rampage.zip",
+    "is_dir": false,
+    "size": "21.1 KiB",
+    "date": "28-Sep-2025 03:22"
+  },
+  {
+    "name": "reactoid.zip",
+    "href": "reactoid.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/coco_cart/reactoid.zip",
+    "is_dir": false,
+    "size": "2.9 KiB",
+    "date": "28-Sep-2025 03:22"
+  },
+  {
+    "name": "robocop.zip",
+    "href": "robocop.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/coco_cart/robocop.zip",
+    "is_dir": false,
+    "size": "48.7 KiB",
+    "date": "28-Sep-2025 03:22"
+  },
+  {
+    "name": "scrpsit2.zip",
+    "href": "scrpsit2.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/coco_cart/scrpsit2.zip",
+    "is_dir": false,
+    "size": "15.3 KiB",
+    "date": "28-Sep-2025 03:22"
+  },
+  {
+    "name": "sds80c.zip",
+    "href": "sds80c.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/coco_cart/sds80c.zip",
+    "is_dir": false,
+    "size": "7.0 KiB",
+    "date": "28-Sep-2025 03:22"
+  },
+  {
+    "name": "shanghai.zip",
+    "href": "shanghai.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/coco_cart/shanghai.zip",
+    "is_dir": false,
+    "size": "11.6 KiB",
+    "date": "28-Sep-2025 03:22"
+  },
+  {
+    "name": "shootgal.zip",
+    "href": "shootgal.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/coco_cart/shootgal.zip",
+    "is_dir": false,
+    "size": "4.9 KiB",
+    "date": "28-Sep-2025 03:22"
+  },
+  {
+    "name": "silpheed.zip",
+    "href": "silpheed.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/coco_cart/silpheed.zip",
+    "is_dir": false,
+    "size": "27.1 KiB",
+    "date": "28-Sep-2025 03:22"
+  },
+  {
+    "name": "skiing.zip",
+    "href": "skiing.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/coco_cart/skiing.zip",
+    "is_dir": false,
+    "size": "5.2 KiB",
+    "date": "28-Sep-2025 03:22"
+  },
+  {
+    "name": "sokoban.zip",
+    "href": "sokoban.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/coco_cart/sokoban.zip",
+    "is_dir": false,
+    "size": "11.0 KiB",
+    "date": "28-Sep-2025 03:22"
+  },
+  {
+    "name": "spaceass.zip",
+    "href": "spaceass.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/coco_cart/spaceass.zip",
+    "is_dir": false,
+    "size": "3.3 KiB",
+    "date": "28-Sep-2025 03:22"
+  },
+  {
+    "name": "spdrcide.zip",
+    "href": "spdrcide.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/coco_cart/spdrcide.zip",
+    "is_dir": false,
+    "size": "2.7 KiB",
+    "date": "28-Sep-2025 03:22"
+  },
+  {
+    "name": "spectltr.zip",
+    "href": "spectltr.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/coco_cart/spectltr.zip",
+    "is_dir": false,
+    "size": "5.7 KiB",
+    "date": "28-Sep-2025 03:22"
+  },
+  {
+    "name": "spectrum.zip",
+    "href": "spectrum.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/coco_cart/spectrum.zip",
+    "is_dir": false,
+    "size": "1.5 KiB",
+    "date": "28-Sep-2025 03:22"
+  },
+  {
+    "name": "sprbust.zip",
+    "href": "sprbust.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/coco_cart/sprbust.zip",
+    "is_dir": false,
+    "size": "3.5 KiB",
+    "date": "28-Sep-2025 03:22"
+  },
+  {
+    "name": "spring.zip",
+    "href": "spring.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/coco_cart/spring.zip",
+    "is_dir": false,
+    "size": "9.6 KiB",
+    "date": "28-Sep-2025 03:22"
+  },
+  {
+    "name": "starblaz.zip",
+    "href": "starblaz.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/coco_cart/starblaz.zip",
+    "is_dir": false,
+    "size": "5.6 KiB",
+    "date": "28-Sep-2025 03:22"
+  },
+  {
+    "name": "stellar.zip",
+    "href": "stellar.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/coco_cart/stellar.zip",
+    "is_dir": false,
+    "size": "6.3 KiB",
+    "date": "28-Sep-2025 03:22"
+  },
+  {
+    "name": "superpit.zip",
+    "href": "superpit.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/coco_cart/superpit.zip",
+    "is_dir": false,
+    "size": "20.0 KiB",
+    "date": "28-Sep-2025 03:22"
+  },
+  {
+    "name": "suprlogo.zip",
+    "href": "suprlogo.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/coco_cart/suprlogo.zip",
+    "is_dir": false,
+    "size": "9.2 KiB",
+    "date": "28-Sep-2025 03:22"
+  },
+  {
+    "name": "temple.zip",
+    "href": "temple.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/coco_cart/temple.zip",
+    "is_dir": false,
+    "size": "7.1 KiB",
+    "date": "28-Sep-2025 03:22"
+  },
+  {
+    "name": "tennis.zip",
+    "href": "tennis.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/coco_cart/tennis.zip",
+    "is_dir": false,
+    "size": "3.2 KiB",
+    "date": "28-Sep-2025 03:22"
+  },
+  {
+    "name": "tetris.zip",
+    "href": "tetris.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/coco_cart/tetris.zip",
+    "is_dir": false,
+    "size": "7.7 KiB",
+    "date": "28-Sep-2025 03:22"
+  },
+  {
+    "name": "tharogad.zip",
+    "href": "tharogad.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/coco_cart/tharogad.zip",
+    "is_dir": false,
+    "size": "15.4 KiB",
+    "date": "28-Sep-2025 03:22"
+  },
+  {
+    "name": "thexder.zip",
+    "href": "thexder.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/coco_cart/thexder.zip",
+    "is_dir": false,
+    "size": "10.8 KiB",
+    "date": "28-Sep-2025 03:22"
+  },
+  {
+    "name": "typemate.zip",
+    "href": "typemate.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/coco_cart/typemate.zip",
+    "is_dir": false,
+    "size": "10.6 KiB",
+    "date": "28-Sep-2025 03:22"
+  },
+  {
+    "name": "typetut.zip",
+    "href": "typetut.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/coco_cart/typetut.zip",
+    "is_dir": false,
+    "size": "2.9 KiB",
+    "date": "28-Sep-2025 03:22"
+  },
+  {
+    "name": "vidtex12.zip",
+    "href": "vidtex12.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/coco_cart/vidtex12.zip",
+    "is_dir": false,
+    "size": "4.0 KiB",
+    "date": "28-Sep-2025 03:22"
+  },
+  {
+    "name": "wildcat.zip",
+    "href": "wildcat.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/coco_cart/wildcat.zip",
+    "is_dir": false,
+    "size": "3.8 KiB",
+    "date": "28-Sep-2025 03:22"
+  }
+]

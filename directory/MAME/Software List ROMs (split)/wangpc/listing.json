@@ -1,0 +1,50 @@
+[
+  {
+    "name": "boot.zip",
+    "href": "boot.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/wangpc/boot.zip",
+    "is_dir": false,
+    "size": "174.3 KiB",
+    "date": "28-Sep-2025 15:32"
+  },
+  {
+    "name": "diskutil.zip",
+    "href": "diskutil.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/wangpc/diskutil.zip",
+    "is_dir": false,
+    "size": "153.0 KiB",
+    "date": "28-Sep-2025 15:32"
+  },
+  {
+    "name": "hdformat.zip",
+    "href": "hdformat.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/wangpc/hdformat.zip",
+    "is_dir": false,
+    "size": "9.7 KiB",
+    "date": "28-Sep-2025 15:32"
+  },
+  {
+    "name": "ibmemu.zip",
+    "href": "ibmemu.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/wangpc/ibmemu.zip",
+    "is_dir": false,
+    "size": "68.9 KiB",
+    "date": "28-Sep-2025 15:32"
+  },
+  {
+    "name": "prninst.zip",
+    "href": "prninst.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/wangpc/prninst.zip",
+    "is_dir": false,
+    "size": "70.3 KiB",
+    "date": "28-Sep-2025 15:32"
+  },
+  {
+    "name": "sys.zip",
+    "href": "sys.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/wangpc/sys.zip",
+    "is_dir": false,
+    "size": "431.9 KiB",
+    "date": "28-Sep-2025 15:32"
+  }
+]

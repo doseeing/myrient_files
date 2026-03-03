@@ -1,0 +1,34 @@
+[
+  {
+    "name": "catalog",
+    "href": "catalog/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/eeco/catalog/",
+    "is_dir": true,
+    "size": null,
+    "date": "01-Dec-2019 03:12"
+  },
+  {
+    "name": "11138_R-9001-11_PDP-11_Tape_Reader-Punch_Controller_197509.pdf",
+    "href": "11138_R-9001-11_PDP-11_Tape_Reader-Punch_Controller_197509.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/eeco/11138_R-9001-11_PDP-11_Tape_Reader-Punch_Controller_197509.pdf",
+    "is_dir": false,
+    "size": "5.0 MiB",
+    "date": "04-May-2025 04:08"
+  },
+  {
+    "name": "11142_RP-9362_Tape_Reader-Punch_Instruction_Manual_197509.pdf",
+    "href": "11142_RP-9362_Tape_Reader-Punch_Instruction_Manual_197509.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/eeco/11142_RP-9362_Tape_Reader-Punch_Instruction_Manual_197509.pdf",
+    "is_dir": false,
+    "size": "4.5 MiB",
+    "date": "04-May-2025 04:08"
+  },
+  {
+    "name": "DOC11120-01_EECO_TRS9200_Jun79.pdf",
+    "href": "DOC11120-01_EECO_TRS9200_Jun79.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/eeco/DOC11120-01_EECO_TRS9200_Jun79.pdf",
+    "is_dir": false,
+    "size": "3.5 MiB",
+    "date": "25-May-2010 20:06"
+  }
+]

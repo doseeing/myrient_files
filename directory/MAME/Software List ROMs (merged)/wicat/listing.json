@@ -1,0 +1,42 @@
+[
+  {
+    "name": "asembler.zip",
+    "href": "asembler.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/wicat/asembler.zip",
+    "is_dir": false,
+    "size": "18.9 KiB",
+    "date": "28-Sep-2025 02:29"
+  },
+  {
+    "name": "pascal.zip",
+    "href": "pascal.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/wicat/pascal.zip",
+    "is_dir": false,
+    "size": "169.6 KiB",
+    "date": "28-Sep-2025 02:29"
+  },
+  {
+    "name": "unix10.zip",
+    "href": "unix10.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/wicat/unix10.zip",
+    "is_dir": false,
+    "size": "1.2 MiB",
+    "date": "28-Sep-2025 02:29"
+  },
+  {
+    "name": "unix20.zip",
+    "href": "unix20.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/wicat/unix20.zip",
+    "is_dir": false,
+    "size": "2.3 MiB",
+    "date": "28-Sep-2025 03:40"
+  },
+  {
+    "name": "unix220.zip",
+    "href": "unix220.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/wicat/unix220.zip",
+    "is_dir": false,
+    "size": "3.0 MiB",
+    "date": "28-Sep-2025 03:40"
+  }
+]

@@ -1,0 +1,322 @@
+[
+  {
+    "name": "2920",
+    "href": "2920/",
+    "url": "https://myrient.erista.me/files/bitsavers/components/intel/2920/",
+    "is_dir": true,
+    "size": null,
+    "date": "27-Aug-2017 01:46"
+  },
+  {
+    "name": "3000",
+    "href": "3000/",
+    "url": "https://myrient.erista.me/files/bitsavers/components/intel/3000/",
+    "is_dir": true,
+    "size": null,
+    "date": "27-Aug-2017 01:46"
+  },
+  {
+    "name": "80186",
+    "href": "80186/",
+    "url": "https://myrient.erista.me/files/bitsavers/components/intel/80186/",
+    "is_dir": true,
+    "size": null,
+    "date": "19-Oct-2025 22:48"
+  },
+  {
+    "name": "80196",
+    "href": "80196/",
+    "url": "https://myrient.erista.me/files/bitsavers/components/intel/80196/",
+    "is_dir": true,
+    "size": null,
+    "date": "20-Oct-2023 19:31"
+  },
+  {
+    "name": "80286",
+    "href": "80286/",
+    "url": "https://myrient.erista.me/files/bitsavers/components/intel/80286/",
+    "is_dir": true,
+    "size": null,
+    "date": "01-Oct-2023 20:07"
+  },
+  {
+    "name": "80376",
+    "href": "80376/",
+    "url": "https://myrient.erista.me/files/bitsavers/components/intel/80376/",
+    "is_dir": true,
+    "size": null,
+    "date": "19-Dec-2019 17:40"
+  },
+  {
+    "name": "80386",
+    "href": "80386/",
+    "url": "https://myrient.erista.me/files/bitsavers/components/intel/80386/",
+    "is_dir": true,
+    "size": null,
+    "date": "15-Oct-2023 00:57"
+  },
+  {
+    "name": "8048",
+    "href": "8048/",
+    "url": "https://myrient.erista.me/files/bitsavers/components/intel/8048/",
+    "is_dir": true,
+    "size": null,
+    "date": "06-Jan-2020 19:22"
+  },
+  {
+    "name": "80486",
+    "href": "80486/",
+    "url": "https://myrient.erista.me/files/bitsavers/components/intel/80486/",
+    "is_dir": true,
+    "size": null,
+    "date": "27-Nov-2023 01:59"
+  },
+  {
+    "name": "8051",
+    "href": "8051/",
+    "url": "https://myrient.erista.me/files/bitsavers/components/intel/8051/",
+    "is_dir": true,
+    "size": null,
+    "date": "20-Jun-2018 17:05"
+  },
+  {
+    "name": "8085",
+    "href": "8085/",
+    "url": "https://myrient.erista.me/files/bitsavers/components/intel/8085/",
+    "is_dir": true,
+    "size": null,
+    "date": "08-Aug-2025 14:56"
+  },
+  {
+    "name": "8086",
+    "href": "8086/",
+    "url": "https://myrient.erista.me/files/bitsavers/components/intel/8086/",
+    "is_dir": true,
+    "size": null,
+    "date": "01-Oct-2023 20:11"
+  },
+  {
+    "name": "8275",
+    "href": "8275/",
+    "url": "https://myrient.erista.me/files/bitsavers/components/intel/8275/",
+    "is_dir": true,
+    "size": null,
+    "date": "11-Apr-2025 08:49"
+  },
+  {
+    "name": "82786",
+    "href": "82786/",
+    "url": "https://myrient.erista.me/files/bitsavers/components/intel/82786/",
+    "is_dir": true,
+    "size": null,
+    "date": "04-May-2025 00:53"
+  },
+  {
+    "name": "ARM",
+    "href": "ARM/",
+    "url": "https://myrient.erista.me/files/bitsavers/components/intel/ARM/",
+    "is_dir": true,
+    "size": null,
+    "date": "25-Dec-2020 17:14"
+  },
+  {
+    "name": "IA32_IA64",
+    "href": "IA32_IA64/",
+    "url": "https://myrient.erista.me/files/bitsavers/components/intel/IA32_IA64/",
+    "is_dir": true,
+    "size": null,
+    "date": "20-Jun-2018 17:10"
+  },
+  {
+    "name": "MCS251",
+    "href": "MCS251/",
+    "url": "https://myrient.erista.me/files/bitsavers/components/intel/MCS251/",
+    "is_dir": true,
+    "size": null,
+    "date": "23-Jun-2021 04:38"
+  },
+  {
+    "name": "MCS4",
+    "href": "MCS4/",
+    "url": "https://myrient.erista.me/files/bitsavers/components/intel/MCS4/",
+    "is_dir": true,
+    "size": null,
+    "date": "17-Jan-2023 16:50"
+  },
+  {
+    "name": "MCS40",
+    "href": "MCS40/",
+    "url": "https://myrient.erista.me/files/bitsavers/components/intel/MCS40/",
+    "is_dir": true,
+    "size": null,
+    "date": "22-May-2018 14:00"
+  },
+  {
+    "name": "MCS8",
+    "href": "MCS8/",
+    "url": "https://myrient.erista.me/files/bitsavers/components/intel/MCS8/",
+    "is_dir": true,
+    "size": null,
+    "date": "05-Apr-2018 22:32"
+  },
+  {
+    "name": "MCS80",
+    "href": "MCS80/",
+    "url": "https://myrient.erista.me/files/bitsavers/components/intel/MCS80/",
+    "is_dir": true,
+    "size": null,
+    "date": "06-Feb-2023 18:18"
+  },
+  {
+    "name": "MMX",
+    "href": "MMX/",
+    "url": "https://myrient.erista.me/files/bitsavers/components/intel/MMX/",
+    "is_dir": true,
+    "size": null,
+    "date": "19-Dec-2019 17:43"
+  },
+  {
+    "name": "_dataBooks",
+    "href": "_dataBooks/",
+    "url": "https://myrient.erista.me/files/bitsavers/components/intel/_dataBooks/",
+    "is_dir": true,
+    "size": null,
+    "date": "04-May-2025 00:52"
+  },
+  {
+    "name": "_dataSheets",
+    "href": "_dataSheets/",
+    "url": "https://myrient.erista.me/files/bitsavers/components/intel/_dataSheets/",
+    "is_dir": true,
+    "size": null,
+    "date": "20-Oct-2023 19:34"
+  },
+  {
+    "name": "appNotes",
+    "href": "appNotes/",
+    "url": "https://myrient.erista.me/files/bitsavers/components/intel/appNotes/",
+    "is_dir": true,
+    "size": null,
+    "date": "01-Oct-2023 20:12"
+  },
+  {
+    "name": "article",
+    "href": "article/",
+    "url": "https://myrient.erista.me/files/bitsavers/components/intel/article/",
+    "is_dir": true,
+    "size": null,
+    "date": "05-Nov-2022 23:27"
+  },
+  {
+    "name": "bubbleMemory",
+    "href": "bubbleMemory/",
+    "url": "https://myrient.erista.me/files/bitsavers/components/intel/bubbleMemory/",
+    "is_dir": true,
+    "size": null,
+    "date": "05-Aug-2025 19:23"
+  },
+  {
+    "name": "core",
+    "href": "core/",
+    "url": "https://myrient.erista.me/files/bitsavers/components/intel/core/",
+    "is_dir": true,
+    "size": null,
+    "date": "20-Oct-2023 19:45"
+  },
+  {
+    "name": "ethernet",
+    "href": "ethernet/",
+    "url": "https://myrient.erista.me/files/bitsavers/components/intel/ethernet/",
+    "is_dir": true,
+    "size": null,
+    "date": "31-Oct-2023 21:09"
+  },
+  {
+    "name": "i860",
+    "href": "i860/",
+    "url": "https://myrient.erista.me/files/bitsavers/components/intel/i860/",
+    "is_dir": true,
+    "size": null,
+    "date": "27-Aug-2017 01:45"
+  },
+  {
+    "name": "i960",
+    "href": "i960/",
+    "url": "https://myrient.erista.me/files/bitsavers/components/intel/i960/",
+    "is_dir": true,
+    "size": null,
+    "date": "17-Oct-2025 21:57"
+  },
+  {
+    "name": "iAPX_432",
+    "href": "iAPX_432/",
+    "url": "https://myrient.erista.me/files/bitsavers/components/intel/iAPX_432/",
+    "is_dir": true,
+    "size": null,
+    "date": "27-Aug-2017 01:45"
+  },
+  {
+    "name": "itanium",
+    "href": "itanium/",
+    "url": "https://myrient.erista.me/files/bitsavers/components/intel/itanium/",
+    "is_dir": true,
+    "size": null,
+    "date": "01-Sep-2021 16:20"
+  },
+  {
+    "name": "pci",
+    "href": "pci/",
+    "url": "https://myrient.erista.me/files/bitsavers/components/intel/pci/",
+    "is_dir": true,
+    "size": null,
+    "date": "27-Oct-2023 20:49"
+  },
+  {
+    "name": "pentium",
+    "href": "pentium/",
+    "url": "https://myrient.erista.me/files/bitsavers/components/intel/pentium/",
+    "is_dir": true,
+    "size": null,
+    "date": "05-Sep-2022 18:09"
+  },
+  {
+    "name": "pentium-pro",
+    "href": "pentium-pro/",
+    "url": "https://myrient.erista.me/files/bitsavers/components/intel/pentium-pro/",
+    "is_dir": true,
+    "size": null,
+    "date": "27-Aug-2017 01:45"
+  },
+  {
+    "name": "pentium_4",
+    "href": "pentium_4/",
+    "url": "https://myrient.erista.me/files/bitsavers/components/intel/pentium_4/",
+    "is_dir": true,
+    "size": null,
+    "date": "11-May-2022 18:31"
+  },
+  {
+    "name": "pentium_II",
+    "href": "pentium_II/",
+    "url": "https://myrient.erista.me/files/bitsavers/components/intel/pentium_II/",
+    "is_dir": true,
+    "size": null,
+    "date": "20-Jun-2018 17:10"
+  },
+  {
+    "name": "spd",
+    "href": "spd/",
+    "url": "https://myrient.erista.me/files/bitsavers/components/intel/spd/",
+    "is_dir": true,
+    "size": null,
+    "date": "01-Oct-2023 19:56"
+  },
+  {
+    "name": "usb",
+    "href": "usb/",
+    "url": "https://myrient.erista.me/files/bitsavers/components/intel/usb/",
+    "is_dir": true,
+    "size": null,
+    "date": "15-Oct-2023 03:40"
+  }
+]

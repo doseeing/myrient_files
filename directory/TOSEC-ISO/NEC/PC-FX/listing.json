@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Applications",
+    "href": "Applications/",
+    "url": "https://myrient.erista.me/files/TOSEC-ISO/NEC/PC-FX/Applications/",
+    "is_dir": true,
+    "size": null,
+    "date": "12-Jul-2025 01:18"
+  },
+  {
+    "name": "Demos",
+    "href": "Demos/",
+    "url": "https://myrient.erista.me/files/TOSEC-ISO/NEC/PC-FX/Demos/",
+    "is_dir": true,
+    "size": null,
+    "date": "12-Jul-2025 01:18"
+  },
+  {
+    "name": "Firmware",
+    "href": "Firmware/",
+    "url": "https://myrient.erista.me/files/TOSEC-ISO/NEC/PC-FX/Firmware/",
+    "is_dir": true,
+    "size": null,
+    "date": "03-Feb-2025 20:25"
+  },
+  {
+    "name": "Games",
+    "href": "Games/",
+    "url": "https://myrient.erista.me/files/TOSEC-ISO/NEC/PC-FX/Games/",
+    "is_dir": true,
+    "size": null,
+    "date": "04-Feb-2025 22:28"
+  }
+]

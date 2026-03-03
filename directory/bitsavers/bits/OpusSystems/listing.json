@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Cartridge_Tapes",
+    "href": "Cartridge_Tapes/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/OpusSystems/Cartridge_Tapes/",
+    "is_dir": true,
+    "size": null,
+    "date": "22-Jul-2017 18:15"
+  },
+  {
+    "name": "Floppies",
+    "href": "Floppies/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/OpusSystems/Floppies/",
+    "is_dir": true,
+    "size": null,
+    "date": "22-Jul-2017 18:15"
+  },
+  {
+    "name": "gc88.tar.Z",
+    "href": "gc88.tar.Z",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/OpusSystems/gc88.tar.Z",
+    "is_dir": false,
+    "size": "1.3 MiB",
+    "date": "13-Nov-2021 21:16"
+  },
+  {
+    "name": "localTh.cpio.Z",
+    "href": "localTh.cpio.Z",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/OpusSystems/localTh.cpio.Z",
+    "is_dir": false,
+    "size": "12.6 MiB",
+    "date": "13-Nov-2021 21:16"
+  },
+  {
+    "name": "localWk.cpio.Z",
+    "href": "localWk.cpio.Z",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/OpusSystems/localWk.cpio.Z",
+    "is_dir": false,
+    "size": "12.6 MiB",
+    "date": "13-Nov-2021 21:16"
+  },
+  {
+    "name": "opussy5.cpio.Z",
+    "href": "opussy5.cpio.Z",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/OpusSystems/opussy5.cpio.Z",
+    "is_dir": false,
+    "size": "20.8 MiB",
+    "date": "13-Nov-2021 21:16"
+  },
+  {
+    "name": "sVr4m32.cpio.Z",
+    "href": "sVr4m32.cpio.Z",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/OpusSystems/sVr4m32.cpio.Z",
+    "is_dir": false,
+    "size": "5.0 MiB",
+    "date": "13-Nov-2021 21:16"
+  },
+  {
+    "name": "us99.2.0.cpio.Z",
+    "href": "us99.2.0.cpio.Z",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/OpusSystems/us99.2.0.cpio.Z",
+    "is_dir": false,
+    "size": "2.4 MiB",
+    "date": "13-Nov-2021 21:16"
+  },
+  {
+    "name": "usrsrc88k.cpio.Z",
+    "href": "usrsrc88k.cpio.Z",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/OpusSystems/usrsrc88k.cpio.Z",
+    "is_dir": false,
+    "size": "18.5 MiB",
+    "date": "13-Nov-2021 21:16"
+  }
+]

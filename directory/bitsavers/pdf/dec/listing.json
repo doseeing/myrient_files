@@ -1,0 +1,618 @@
+[
+  {
+    "name": "JPEGs",
+    "href": "JPEGs/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/JPEGs/",
+    "is_dir": true,
+    "size": null,
+    "date": "21-Aug-2002 05:31"
+  },
+  {
+    "name": "_Books",
+    "href": "_Books/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/_Books/",
+    "is_dir": true,
+    "size": null,
+    "date": "31-Aug-2023 21:44"
+  },
+  {
+    "name": "alpha",
+    "href": "alpha/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/alpha/",
+    "is_dir": true,
+    "size": null,
+    "date": "08-Sep-2023 05:03"
+  },
+  {
+    "name": "articles",
+    "href": "articles/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/articles/",
+    "is_dir": true,
+    "size": null,
+    "date": "24-Jun-2020 19:03"
+  },
+  {
+    "name": "bliss",
+    "href": "bliss/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/bliss/",
+    "is_dir": true,
+    "size": null,
+    "date": "11-Jul-2021 22:34"
+  },
+  {
+    "name": "brochures",
+    "href": "brochures/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/brochures/",
+    "is_dir": true,
+    "size": null,
+    "date": "05-Aug-2021 00:25"
+  },
+  {
+    "name": "catalog",
+    "href": "catalog/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/catalog/",
+    "is_dir": true,
+    "size": null,
+    "date": "29-Oct-2025 16:54"
+  },
+  {
+    "name": "comm",
+    "href": "comm/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/comm/",
+    "is_dir": true,
+    "size": null,
+    "date": "05-Apr-2016 00:01"
+  },
+  {
+    "name": "competitiveAnalysis",
+    "href": "competitiveAnalysis/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/competitiveAnalysis/",
+    "is_dir": true,
+    "size": null,
+    "date": "13-Sep-2009 23:41"
+  },
+  {
+    "name": "decCassette",
+    "href": "decCassette/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/decCassette/",
+    "is_dir": true,
+    "size": null,
+    "date": "13-Sep-2009 23:43"
+  },
+  {
+    "name": "dec_archive",
+    "href": "dec_archive/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/dec_archive/",
+    "is_dir": true,
+    "size": null,
+    "date": "23-Apr-2011 17:10"
+  },
+  {
+    "name": "decnet",
+    "href": "decnet/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/decnet/",
+    "is_dir": true,
+    "size": null,
+    "date": "04-Apr-2023 12:26"
+  },
+  {
+    "name": "decpc",
+    "href": "decpc/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/decpc/",
+    "is_dir": true,
+    "size": null,
+    "date": "17-Jan-2022 17:46"
+  },
+  {
+    "name": "decstation",
+    "href": "decstation/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/decstation/",
+    "is_dir": true,
+    "size": null,
+    "date": "08-Nov-2025 21:37"
+  },
+  {
+    "name": "dectalk",
+    "href": "dectalk/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/dectalk/",
+    "is_dir": true,
+    "size": null,
+    "date": "06-Oct-2006 19:09"
+  },
+  {
+    "name": "dectape",
+    "href": "dectape/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/dectape/",
+    "is_dir": true,
+    "size": null,
+    "date": "14-Nov-2014 19:32"
+  },
+  {
+    "name": "decus",
+    "href": "decus/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/decus/",
+    "is_dir": true,
+    "size": null,
+    "date": "14-Jul-2020 02:07"
+  },
+  {
+    "name": "dibol",
+    "href": "dibol/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/dibol/",
+    "is_dir": true,
+    "size": null,
+    "date": "14-Jan-2020 02:42"
+  },
+  {
+    "name": "disc",
+    "href": "disc/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/disc/",
+    "is_dir": true,
+    "size": null,
+    "date": "13-Apr-2024 16:46"
+  },
+  {
+    "name": "drum",
+    "href": "drum/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/drum/",
+    "is_dir": true,
+    "size": null,
+    "date": "24-Sep-2009 19:04"
+  },
+  {
+    "name": "dsa",
+    "href": "dsa/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/dsa/",
+    "is_dir": true,
+    "size": null,
+    "date": "07-Mar-2022 01:01"
+  },
+  {
+    "name": "dssi",
+    "href": "dssi/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/dssi/",
+    "is_dir": true,
+    "size": null,
+    "date": "23-Jan-2021 15:19"
+  },
+  {
+    "name": "dtj",
+    "href": "dtj/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/dtj/",
+    "is_dir": true,
+    "size": null,
+    "date": "17-May-2014 15:16"
+  },
+  {
+    "name": "educationProductsGroup",
+    "href": "educationProductsGroup/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/educationProductsGroup/",
+    "is_dir": true,
+    "size": null,
+    "date": "25-Jan-2019 01:34"
+  },
+  {
+    "name": "engineering",
+    "href": "engineering/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/engineering/",
+    "is_dir": true,
+    "size": null,
+    "date": "06-Jul-2012 15:37"
+  },
+  {
+    "name": "ethernet",
+    "href": "ethernet/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/ethernet/",
+    "is_dir": true,
+    "size": null,
+    "date": "31-Dec-2019 20:33"
+  },
+  {
+    "name": "fieldService",
+    "href": "fieldService/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/fieldService/",
+    "is_dir": true,
+    "size": null,
+    "date": "09-Feb-2024 21:24"
+  },
+  {
+    "name": "graphics",
+    "href": "graphics/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/graphics/",
+    "is_dir": true,
+    "size": null,
+    "date": "17-Jul-2021 09:18"
+  },
+  {
+    "name": "handbooks",
+    "href": "handbooks/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/handbooks/",
+    "is_dir": true,
+    "size": null,
+    "date": "11-Oct-2024 23:05"
+  },
+  {
+    "name": "internal",
+    "href": "internal/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/internal/",
+    "is_dir": true,
+    "size": null,
+    "date": "27-Jun-2023 17:08"
+  },
+  {
+    "name": "linc",
+    "href": "linc/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/linc/",
+    "is_dir": true,
+    "size": null,
+    "date": "09-Mar-2007 16:54"
+  },
+  {
+    "name": "linc8",
+    "href": "linc8/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/linc8/",
+    "is_dir": true,
+    "size": null,
+    "date": "05-Apr-2011 15:34"
+  },
+  {
+    "name": "magtape",
+    "href": "magtape/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/magtape/",
+    "is_dir": true,
+    "size": null,
+    "date": "12-Nov-2025 21:11"
+  },
+  {
+    "name": "microfiche",
+    "href": "microfiche/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/microfiche/",
+    "is_dir": true,
+    "size": null,
+    "date": "07-Dec-2021 05:54"
+  },
+  {
+    "name": "mips",
+    "href": "mips/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/mips/",
+    "is_dir": true,
+    "size": null,
+    "date": "12-Jul-2021 01:32"
+  },
+  {
+    "name": "modules",
+    "href": "modules/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/modules/",
+    "is_dir": true,
+    "size": null,
+    "date": "05-Nov-2022 01:14"
+  },
+  {
+    "name": "monitors",
+    "href": "monitors/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/monitors/",
+    "is_dir": true,
+    "size": null,
+    "date": "15-Jul-2024 15:40"
+  },
+  {
+    "name": "mps",
+    "href": "mps/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/mps/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Jun-2023 17:49"
+  },
+  {
+    "name": "osf",
+    "href": "osf/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/osf/",
+    "is_dir": true,
+    "size": null,
+    "date": "11-May-2024 17:02"
+  },
+  {
+    "name": "papertape",
+    "href": "papertape/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/papertape/",
+    "is_dir": true,
+    "size": null,
+    "date": "23-Aug-2018 23:43"
+  },
+  {
+    "name": "patents",
+    "href": "patents/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/patents/",
+    "is_dir": true,
+    "size": null,
+    "date": "29-Apr-2018 18:26"
+  },
+  {
+    "name": "pdp-x",
+    "href": "pdp-x/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp-x/",
+    "is_dir": true,
+    "size": null,
+    "date": "05-Feb-2008 18:40"
+  },
+  {
+    "name": "pdp1",
+    "href": "pdp1/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp1/",
+    "is_dir": true,
+    "size": null,
+    "date": "11-Dec-2024 17:29"
+  },
+  {
+    "name": "pdp10",
+    "href": "pdp10/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp10/",
+    "is_dir": true,
+    "size": null,
+    "date": "17-Jul-2024 04:22"
+  },
+  {
+    "name": "pdp11",
+    "href": "pdp11/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp11/",
+    "is_dir": true,
+    "size": null,
+    "date": "07-Jun-2024 16:36"
+  },
+  {
+    "name": "pdp12",
+    "href": "pdp12/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp12/",
+    "is_dir": true,
+    "size": null,
+    "date": "23-Mar-2025 13:04"
+  },
+  {
+    "name": "pdp14",
+    "href": "pdp14/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp14/",
+    "is_dir": true,
+    "size": null,
+    "date": "26-Jul-2020 02:12"
+  },
+  {
+    "name": "pdp15",
+    "href": "pdp15/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp15/",
+    "is_dir": true,
+    "size": null,
+    "date": "24-Apr-2025 21:36"
+  },
+  {
+    "name": "pdp16",
+    "href": "pdp16/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp16/",
+    "is_dir": true,
+    "size": null,
+    "date": "19-Feb-2008 19:00"
+  },
+  {
+    "name": "pdp3",
+    "href": "pdp3/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp3/",
+    "is_dir": true,
+    "size": null,
+    "date": "24-Dec-2009 19:21"
+  },
+  {
+    "name": "pdp4",
+    "href": "pdp4/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp4/",
+    "is_dir": true,
+    "size": null,
+    "date": "24-Dec-2009 19:23"
+  },
+  {
+    "name": "pdp5",
+    "href": "pdp5/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp5/",
+    "is_dir": true,
+    "size": null,
+    "date": "01-Oct-2014 15:30"
+  },
+  {
+    "name": "pdp6",
+    "href": "pdp6/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp6/",
+    "is_dir": true,
+    "size": null,
+    "date": "15-Mar-2025 16:52"
+  },
+  {
+    "name": "pdp7",
+    "href": "pdp7/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp7/",
+    "is_dir": true,
+    "size": null,
+    "date": "27-Nov-2016 18:28"
+  },
+  {
+    "name": "pdp8",
+    "href": "pdp8/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp8/",
+    "is_dir": true,
+    "size": null,
+    "date": "20-Jan-2024 20:55"
+  },
+  {
+    "name": "pdp9",
+    "href": "pdp9/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp9/",
+    "is_dir": true,
+    "size": null,
+    "date": "21-Dec-2022 22:15"
+  },
+  {
+    "name": "powerSupply",
+    "href": "powerSupply/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/powerSupply/",
+    "is_dir": true,
+    "size": null,
+    "date": "23-Feb-2025 02:08"
+  },
+  {
+    "name": "priceLists",
+    "href": "priceLists/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/priceLists/",
+    "is_dir": true,
+    "size": null,
+    "date": "31-Jan-2012 00:24"
+  },
+  {
+    "name": "printer",
+    "href": "printer/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/printer/",
+    "is_dir": true,
+    "size": null,
+    "date": "17-Apr-2023 16:02"
+  },
+  {
+    "name": "prism",
+    "href": "prism/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/prism/",
+    "is_dir": true,
+    "size": null,
+    "date": "12-Oct-2025 17:35"
+  },
+  {
+    "name": "qbus",
+    "href": "qbus/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/qbus/",
+    "is_dir": true,
+    "size": null,
+    "date": "20-Feb-2025 11:17"
+  },
+  {
+    "name": "rainbow",
+    "href": "rainbow/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/rainbow/",
+    "is_dir": true,
+    "size": null,
+    "date": "14-Mar-2022 19:24"
+  },
+  {
+    "name": "semiconductor",
+    "href": "semiconductor/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/semiconductor/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Jun-2021 16:16"
+  },
+  {
+    "name": "spd",
+    "href": "spd/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/spd/",
+    "is_dir": true,
+    "size": null,
+    "date": "15-Jun-2008 15:28"
+  },
+  {
+    "name": "src",
+    "href": "src/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/src/",
+    "is_dir": true,
+    "size": null,
+    "date": "08-Aug-2023 21:21"
+  },
+  {
+    "name": "ssi",
+    "href": "ssi/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/ssi/",
+    "is_dir": true,
+    "size": null,
+    "date": "25-Feb-2008 21:29"
+  },
+  {
+    "name": "standards",
+    "href": "standards/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/standards/",
+    "is_dir": true,
+    "size": null,
+    "date": "01-Jan-2017 22:38"
+  },
+  {
+    "name": "tech_reports",
+    "href": "tech_reports/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/tech_reports/",
+    "is_dir": true,
+    "size": null,
+    "date": "27-Jun-2024 19:57"
+  },
+  {
+    "name": "teco",
+    "href": "teco/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/teco/",
+    "is_dir": true,
+    "size": null,
+    "date": "02-Dec-2024 13:33"
+  },
+  {
+    "name": "terminal",
+    "href": "terminal/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/terminal/",
+    "is_dir": true,
+    "size": null,
+    "date": "17-Feb-2024 17:34"
+  },
+  {
+    "name": "transcripts",
+    "href": "transcripts/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/transcripts/",
+    "is_dir": true,
+    "size": null,
+    "date": "22-Feb-2008 01:25"
+  },
+  {
+    "name": "unibus",
+    "href": "unibus/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/unibus/",
+    "is_dir": true,
+    "size": null,
+    "date": "03-Sep-2025 21:48"
+  },
+  {
+    "name": "vax",
+    "href": "vax/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/",
+    "is_dir": true,
+    "size": null,
+    "date": "05-Feb-2025 18:29"
+  },
+  {
+    "name": "vaxmate",
+    "href": "vaxmate/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vaxmate/",
+    "is_dir": true,
+    "size": null,
+    "date": "16-Jul-2024 15:58"
+  },
+  {
+    "name": "wps",
+    "href": "wps/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/wps/",
+    "is_dir": true,
+    "size": null,
+    "date": "08-Feb-2026 18:57"
+  },
+  {
+    "name": "wps-plus",
+    "href": "wps-plus/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/wps-plus/",
+    "is_dir": true,
+    "size": null,
+    "date": "09-Feb-2026 15:06"
+  },
+  {
+    "name": "xmi",
+    "href": "xmi/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/xmi/",
+    "is_dir": true,
+    "size": null,
+    "date": "29-Jan-2024 01:57"
+  }
+]

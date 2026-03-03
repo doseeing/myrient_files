@@ -1,0 +1,42 @@
+[
+  {
+    "name": "dsp",
+    "href": "dsp/",
+    "url": "https://myrient.erista.me/files/bitsavers/components/inmos/dsp/",
+    "is_dir": true,
+    "size": null,
+    "date": "18-Sep-2011 17:25"
+  },
+  {
+    "name": "graphics",
+    "href": "graphics/",
+    "url": "https://myrient.erista.me/files/bitsavers/components/inmos/graphics/",
+    "is_dir": true,
+    "size": null,
+    "date": "18-Sep-2011 17:24"
+  },
+  {
+    "name": "memory",
+    "href": "memory/",
+    "url": "https://myrient.erista.me/files/bitsavers/components/inmos/memory/",
+    "is_dir": true,
+    "size": null,
+    "date": "17-Sep-2011 18:35"
+  },
+  {
+    "name": "transputer",
+    "href": "transputer/",
+    "url": "https://myrient.erista.me/files/bitsavers/components/inmos/transputer/",
+    "is_dir": true,
+    "size": null,
+    "date": "04-Aug-2021 22:54"
+  },
+  {
+    "name": "Inmos_Data_Book_1986.pdf",
+    "href": "Inmos_Data_Book_1986.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/inmos/Inmos_Data_Book_1986.pdf",
+    "is_dir": false,
+    "size": "10.6 MiB",
+    "date": "03-Jul-2011 15:59"
+  }
+]

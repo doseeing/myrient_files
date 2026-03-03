@@ -1,0 +1,26 @@
+[
+  {
+    "name": "firmware",
+    "href": "firmware/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/cimlink/firmware/",
+    "is_dir": true,
+    "size": null,
+    "date": "21-Jul-2011 15:54"
+  },
+  {
+    "name": "CIMLINK_68020_CPU_B.jpg",
+    "href": "CIMLINK_68020_CPU_B.jpg",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/cimlink/CIMLINK_68020_CPU_B.jpg",
+    "is_dir": false,
+    "size": "931.5 KiB",
+    "date": "21-Jul-2011 15:54"
+  },
+  {
+    "name": "CIMLINK_68020_CPU_T.jpg",
+    "href": "CIMLINK_68020_CPU_T.jpg",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/cimlink/CIMLINK_68020_CPU_T.jpg",
+    "is_dir": false,
+    "size": "862.9 KiB",
+    "date": "21-Jul-2011 15:54"
+  }
+]

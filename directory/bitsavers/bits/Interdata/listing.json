@@ -1,0 +1,34 @@
+[
+  {
+    "name": "16bit",
+    "href": "16bit/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/16bit/",
+    "is_dir": true,
+    "size": null,
+    "date": "24-Jun-2022 00:48"
+  },
+  {
+    "name": "32bit",
+    "href": "32bit/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/",
+    "is_dir": true,
+    "size": null,
+    "date": "24-Jun-2022 00:48"
+  },
+  {
+    "name": "diag",
+    "href": "diag/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/diag/",
+    "is_dir": true,
+    "size": null,
+    "date": "12-Mar-2006 08:00"
+  },
+  {
+    "name": "interchange",
+    "href": "interchange/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/interchange/",
+    "is_dir": true,
+    "size": null,
+    "date": "09-Oct-2006 17:48"
+  }
+]

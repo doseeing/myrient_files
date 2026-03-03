@@ -1,0 +1,98 @@
+[
+  {
+    "name": "firmware",
+    "href": "firmware/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/archive/firmware/",
+    "is_dir": true,
+    "size": null,
+    "date": "12-Sep-2014 17:13"
+  },
+  {
+    "name": "patents",
+    "href": "patents/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/archive/patents/",
+    "is_dir": true,
+    "size": null,
+    "date": "29-Jul-2017 16:35"
+  },
+  {
+    "name": "photos",
+    "href": "photos/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/archive/photos/",
+    "is_dir": true,
+    "size": null,
+    "date": "03-Sep-2014 16:47"
+  },
+  {
+    "name": "python",
+    "href": "python/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/archive/python/",
+    "is_dir": true,
+    "size": null,
+    "date": "10-Jul-2022 02:59"
+  },
+  {
+    "name": "scorpion",
+    "href": "scorpion/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/archive/scorpion/",
+    "is_dir": true,
+    "size": null,
+    "date": "10-Jul-2022 02:58"
+  },
+  {
+    "name": "sidewinder",
+    "href": "sidewinder/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/archive/sidewinder/",
+    "is_dir": true,
+    "size": null,
+    "date": "10-Jul-2022 02:59"
+  },
+  {
+    "name": "viper",
+    "href": "viper/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/archive/viper/",
+    "is_dir": true,
+    "size": null,
+    "date": "10-Jul-2022 02:58"
+  },
+  {
+    "name": "08845_Apollo_Specification_for_QIC-36_Tape_Controller_Jan86.pdf",
+    "href": "08845_Apollo_Specification_for_QIC-36_Tape_Controller_Jan86.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/archive/08845_Apollo_Specification_for_QIC-36_Tape_Controller_Jan86.pdf",
+    "is_dir": false,
+    "size": "1.7 MiB",
+    "date": "29-Jul-2017 16:35"
+  },
+  {
+    "name": "20100-001C_Intelligent_Tape_Drive_Theory_of_Operation_Aug82.pdf",
+    "href": "20100-001C_Intelligent_Tape_Drive_Theory_of_Operation_Aug82.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/archive/20100-001C_Intelligent_Tape_Drive_Theory_of_Operation_Aug82.pdf",
+    "is_dir": false,
+    "size": "3.3 MiB",
+    "date": "29-Jul-2017 16:35"
+  },
+  {
+    "name": "Archive_SC-499_Tape_Controller_Information_Guide.pdf",
+    "href": "Archive_SC-499_Tape_Controller_Information_Guide.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/archive/Archive_SC-499_Tape_Controller_Information_Guide.pdf",
+    "is_dir": false,
+    "size": "1.1 MiB",
+    "date": "29-Jul-2017 16:35"
+  },
+  {
+    "name": "QIC-02_Rev_D_Specification_Sep82.pdf",
+    "href": "QIC-02_Rev_D_Specification_Sep82.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/archive/QIC-02_Rev_D_Specification_Sep82.pdf",
+    "is_dir": false,
+    "size": "1.2 MiB",
+    "date": "16-Jul-2013 16:14"
+  },
+  {
+    "name": "Streaming_1982.pdf",
+    "href": "Streaming_1982.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/archive/Streaming_1982.pdf",
+    "is_dir": false,
+    "size": "7.3 MiB",
+    "date": "09-Jul-2015 19:00"
+  }
+]

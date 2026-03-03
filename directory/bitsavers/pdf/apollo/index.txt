@@ -1,0 +1,63 @@
+name	is_dir	size	date
+DN-300	True	-	27-Feb-2026 14:44
+SR10	True	-	14-Nov-2015 02:53
+brochures	True	-	08-Jul-2010 21:59
+patents	True	-	12-Jul-2024 06:21
+release_notes	True	-	16-Nov-2015 19:16
+000792-04_DOMAIN_Pascal_Language_Reference_Jan87.pdf	False	13.5 MiB	25-Aug-2009 15:23
+000792-A01_Domain_Pascal_Language_Reference_Dec90.pdf	False	20.4 MiB	16-Nov-2015 18:52
+000959-10_Writing_Device_Drivers_With_GPIO_Calls_Jun87.pdf	False	8.0 MiB	25-Aug-2009 15:24
+001525-04_DOMAIN_Language_Level_Debugger_Reference_Jan87.pdf	False	5.3 MiB	25-Aug-2009 15:24
+001746-06_Administering_Your_DOMAIN_System_Jun87.pdf	False	9.9 MiB	25-Aug-2009 15:24
+002348-01_Getting_Started_With_Your_Domain_System_Oct83.pdf	False	6.0 MiB	25-Aug-2009 15:25
+002398-01_Domain_Engineering_Handbook_Rev1_Apr83.pdf	False	6.1 MiB	25-Aug-2009 15:25
+002398-03_Domain_Engineering_Handbook_Rev3_Feb85.pdf	False	7.8 MiB	25-Aug-2009 15:26
+002398-04_Domain_Engineering_Handbook_Rev4_Jan87.pdf	False	7.7 MiB	25-Aug-2009 15:27
+002547-04_DOMAIN_System_Command_Reference_Jun87.pdf	False	15.2 MiB	25-Aug-2009 15:29
+002685-07_Technical_Publications_Overview_Jun87.pdf	False	1.4 MiB	25-Aug-2009 15:29
+003245-01_Programmers_Guide_to_Domain_Graphics_Primitives_Apr84.pdf	False	12.2 MiB	09-Aug-2012 22:43
+004977-02_DOMAIN_Binder_and_Librarian_Reference_Jan87.pdf	False	4.2 MiB	25-Aug-2009 15:29
+005097-00_Programming_With_DOMAIN_2D_Graphics_Metafile_Resource_Jul85.pdf	False	11.8 MiB	25-Aug-2009 15:30
+005448-00_Operating_the_DN3xx_Sep85.pdf	False	1.7 MiB	25-Aug-2009 15:30
+005488-02_DOMAIN_System_Users_Guide_Jan87.pdf	False	13.2 MiB	25-Aug-2009 15:32
+005696-00_Programming_With_System_Calls_For_Interprocess_Communications_Jul85.pdf	False	6.6 MiB	25-Aug-2009 15:32
+005801-01_DOMAIN_IX_Programmers_Reference_for_BSD4.2_1987.pdf	False	13.4 MiB	25-Aug-2009 15:33
+005802-00_DOMAIN_IX_Text_Processing_Guide_1985.pdf	False	18.9 MiB	25-Aug-2009 15:35
+005803-01_DOMAIN_IX_Users_Guide_Dec86.pdf	False	6.9 MiB	25-Aug-2009 15:35
+005807-00_Programming_With_DOMAIN_3D_Graphics_Metafile_Resource_Nov85.pdf	False	10.0 MiB	25-Aug-2009 15:37
+005808-00_Programming_With_DOMAIN_Graphics_Primitives_Jan87.pdf	False	5.1 MiB	25-Aug-2009 15:38
+005808-01_Programming_With_Domain_Graphics_Primitives_Feb87.pdf	False	17.5 MiB	25-Aug-2009 15:40
+005812-00_DOMAIN_3D_Graphics_Metafile_Resource_Call_Reference_Dec85.pdf	False	10.4 MiB	25-Aug-2009 15:41
+007194-01_DOMAIN_Graphics_Primitive_Resource_Call_Reference_Jan87.pdf	False	5.3 MiB	25-Aug-2009 15:41
+007194-02_Domain_Graphics_Primitive_Resource_Call_Reference_Jun87.pdf	False	7.0 MiB	25-Aug-2009 15:42
+007196-01_Domain_System_Call_Reference_Jan87.pdf	False	27.1 MiB	25-Aug-2009 15:44
+008542-00_Programming_With_DOMAIN_Advanced_System_Calls_Nov85.pdf	False	6.6 MiB	25-Aug-2009 15:44
+008543-01_Configuring_and_Managing_TCP_IP_Jan87.pdf	False	6.3 MiB	25-Aug-2009 15:45
+008778-03_DOMAIN_Series_3000_4000_Technical_Reference_Aug87.pdf	False	7.9 MiB	25-Aug-2009 15:45
+008788-A01_Getting_Started_With_DSEE_Apr91.pdf	False	7.3 MiB	10-Aug-2012 02:28
+008790-A00_Engineering_in_the_DSEE_Environment_Jul88.pdf	False	19.7 MiB	10-Aug-2012 02:29
+008856-00_DOMAIN_System_Call_Reference_Vol1_Feb86.pdf	False	11.7 MiB	25-Aug-2009 15:46
+008856-00_DOMAIN_System_Call_Reference_Vol2_Feb86.pdf	False	13.1 MiB	25-Aug-2009 15:47
+008858-00_Programming_With_General_System_Calls_Mar86.pdf	False	17.9 MiB	10-Aug-2012 00:10
+008860-A03_Installing_DOMAIN_Software_Mar92.pdf	False	13.0 MiB	25-Aug-2009 15:50
+008862-01_DOMAIN_Assembler_Reference_Jan87.pdf	False	7.3 MiB	25-Aug-2009 15:50
+009355-00_System_Administration_For_DOMAIN_IX_BSD4.2_Dec86.pdf	False	16.3 MiB	25-Aug-2009 15:51
+009413-00_DOMAIN-IX_Support_Tools_Guide_Nov86.pdf	False	15.4 MiB	25-Aug-2009 15:53
+009414-00_DOMAIN_System_Utilities_Sep86.pdf	False	2.6 MiB	25-Aug-2009 15:53
+009492-00_Making_the_Transition_to_SR9.5_Jan87.pdf	False	1.5 MiB	25-Aug-2009 15:53
+009496-00_Update_Package_1_to_the_DOMAIN_System_Command_Reference_Jun87.pdf	False	1.9 MiB	25-Aug-2009 15:53
+009793-00_DOMAIN_2D_Graphics_Metafile_Resource_Call_Reference_Nov86.pdf	False	8.7 MiB	25-Aug-2009 15:54
+010005-00_Apollo_Token_Ring_Media_Access_Control_Layer_and_Physical_Layer_Protocols_Oct87.pdf	False	1.5 MiB	25-Aug-2009 15:54
+010430-a00_Domain_Standard_Graphics_Quick_Reference_GPR_and_CTM_Dec89.pdf	False	2.3 MiB	09-Aug-2012 22:51
+014962-A00_Domain_OS_Design_Principles_Jan89.pdf	False	13.3 MiB	25-Aug-2009 15:55
+015363-A00_Administering_the_Domain_OS_Registry_Sep1990.pdf	False	5.5 MiB	21-Feb-2012 00:08
+019411-A00_Addendum_to_Domain_Personal_Workstations_and_Servers_Hardware_Architecture_Handbook_1991.pdf	False	398.6 KiB	25-Aug-2009 15:55
+5952-2149_Apollo_Quick-Reference_Configuration_Guide_Jul90.pdf	False	5.6 MiB	25-Aug-2009 15:55
+AEGIS_Internals_and_Data_Structures_Jan86.pdf	False	15.8 MiB	25-Aug-2009 15:56
+AEGIS_Overview_1985.pdf	False	14.5 MiB	25-Aug-2009 15:57
+Apollo_DOMAIN_Architecture_Feb81.pdf	False	4.3 MiB	25-Aug-2009 15:57
+Apollo_Documentation_and_Software_Replacement_Media_Catalog_Jun89.pdf	False	1.7 MiB	25-Aug-2009 15:57
+Apollo_Domain_Architecture_Preliminary_Jan81.pdf	False	3.0 MiB	25-Aug-2009 15:57
+Apollo_Price_List_Jul88.pdf	False	4.2 MiB	09-Jul-2010 01:11
+HP-Apollo_Products_Configuration_Guide_Dec89.pdf	False	13.1 MiB	25-Aug-2009 15:58
+HP_Apollo_Documentation_Catalog_Feb91.pdf	False	1.9 MiB	25-Aug-2009 15:58

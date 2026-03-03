@@ -1,0 +1,43 @@
+name	is_dir	size	date
+ALTAIR	True	-	26-Oct-2004 21:25
+AltairZ80	True	-	26-Oct-2004 21:25
+BIN	True	-	28-Jun-2005 07:00
+H316	True	-	26-Oct-2004 21:25
+HP2100	True	-	26-Oct-2004 21:25
+I1401	True	-	26-Oct-2004 21:25
+I1401-supnik	True	-	26-Oct-2004 21:25
+I1620	True	-	26-Oct-2004 20:17
+Ibm1130	True	-	26-Oct-2004 21:25
+Interdata	True	-	26-Oct-2004 20:17
+NOVA	True	-	26-Oct-2004 21:26
+PDP1	True	-	26-Oct-2004 21:26
+PDP10	True	-	26-Oct-2004 21:26
+PDP11	True	-	26-Oct-2004 21:26
+PDP18B	True	-	26-Oct-2004 21:26
+PDP8	True	-	26-Oct-2004 21:26
+S3	True	-	26-Oct-2004 21:26
+SDS	True	-	26-Oct-2004 20:17
+TOOLS	True	-	26-Oct-2004 20:17
+VAX	True	-	26-Oct-2004 21:27
+0readme29.txt	False	1.2 KiB	09-Jun-2002 03:45
+Makefile	False	5.5 KiB	17-Jun-2002 19:04
+build_mingw.bat	False	2.8 KiB	18-May-2002 20:39
+build_vms.com	False	26.1 KiB	22-May-2002 03:21
+dec_dz.h	False	19.9 KiB	28-Apr-2002 17:14
+dec_mscp.h	False	11.7 KiB	04-Jan-2002 04:37
+dec_uqssp.h	False	5.6 KiB	04-Jan-2002 04:37
+scp.c	False	94.0 KiB	18-May-2002 20:26
+scp_tty.c	False	16.8 KiB	18-May-2002 18:19
+sim_defs.h	False	13.9 KiB	03-May-2002 01:23
+sim_rev.h	False	11.0 KiB	08-Jun-2002 20:31
+sim_sock.c	False	6.2 KiB	23-May-2002 04:44
+sim_sock.h	False	2.7 KiB	30-Apr-2002 11:01
+sim_tmxr.c	False	13.2 KiB	31-Jan-2002 04:16
+sim_tmxr.h	False	3.3 KiB	29-Dec-2001 22:11
+sim_vt.c	False	15.7 KiB	18-May-2002 18:01
+sim_vt.h	False	1.6 KiB	25-Apr-2002 00:26
+simh.doc	False	162.7 KiB	02-Oct-2002 02:14
+simh_doc.txt	False	37.6 KiB	23-May-2002 04:47
+simh_swre.txt	False	18.4 KiB	04-Apr-2002 05:00
+simh_vmio.doc	False	50.5 KiB	02-Oct-2002 02:14
+simhv29-10.zip	False	1.1 MiB	17-Jun-2002 18:55

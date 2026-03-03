@@ -1,0 +1,58 @@
+[
+  {
+    "name": "books",
+    "href": "books/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/osborne/books/",
+    "is_dir": true,
+    "size": null,
+    "date": "23-Jun-2017 17:02"
+  },
+  {
+    "name": "executive",
+    "href": "executive/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/osborne/executive/",
+    "is_dir": true,
+    "size": null,
+    "date": "25-Dec-2010 17:04"
+  },
+  {
+    "name": "osborne1",
+    "href": "osborne1/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/osborne/osborne1/",
+    "is_dir": true,
+    "size": null,
+    "date": "29-Dec-2018 22:35"
+  },
+  {
+    "name": "vixen",
+    "href": "vixen/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/osborne/vixen/",
+    "is_dir": true,
+    "size": null,
+    "date": "21-Nov-2018 16:13"
+  },
+  {
+    "name": "2F00040-00_Service2ndEdition_1983.pdf",
+    "href": "2F00040-00_Service2ndEdition_1983.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/osborne/2F00040-00_Service2ndEdition_1983.pdf",
+    "is_dir": false,
+    "size": "11.7 MiB",
+    "date": "26-May-2006 10:14"
+  },
+  {
+    "name": "OCC1_Exectutive_Diagnostic_Procedures_Jan84.pdf",
+    "href": "OCC1_Exectutive_Diagnostic_Procedures_Jan84.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/osborne/OCC1_Exectutive_Diagnostic_Procedures_Jan84.pdf",
+    "is_dir": false,
+    "size": "1.8 MiB",
+    "date": "25-Dec-2010 17:05"
+  },
+  {
+    "name": "UCSD_P-System_for_the_Osborne_1.pdf",
+    "href": "UCSD_P-System_for_the_Osborne_1.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/osborne/UCSD_P-System_for_the_Osborne_1.pdf",
+    "is_dir": false,
+    "size": "2.6 MiB",
+    "date": "07-Mar-2009 04:21"
+  }
+]

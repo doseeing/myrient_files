@@ -1,0 +1,50 @@
+[
+  {
+    "name": "apfix",
+    "href": "apfix/",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/chadmaster/nds_apfix/apfix/",
+    "is_dir": true,
+    "size": null,
+    "date": "06-Sep-2025 20:02"
+  },
+  {
+    "name": "unmodified",
+    "href": "unmodified/",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/chadmaster/nds_apfix/unmodified/",
+    "is_dir": true,
+    "size": null,
+    "date": "06-Sep-2025 20:06"
+  },
+  {
+    "name": "nds_apfix_files.xml",
+    "href": "nds_apfix_files.xml",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/chadmaster/nds_apfix/nds_apfix_files.xml",
+    "is_dir": false,
+    "size": "457.0 KiB",
+    "date": "01-Jan-1970 00:00"
+  },
+  {
+    "name": "nds_apfix_meta.sqlite",
+    "href": "nds_apfix_meta.sqlite",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/chadmaster/nds_apfix/nds_apfix_meta.sqlite",
+    "is_dir": false,
+    "size": "2.9 MiB",
+    "date": "31-Jul-2022 18:56"
+  },
+  {
+    "name": "nds_apfix_meta.xml",
+    "href": "nds_apfix_meta.xml",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/chadmaster/nds_apfix/nds_apfix_meta.xml",
+    "is_dir": false,
+    "size": "2.6 KiB",
+    "date": "23-Apr-2023 02:28"
+  },
+  {
+    "name": "nds_apfix_reviews.xml",
+    "href": "nds_apfix_reviews.xml",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/chadmaster/nds_apfix/nds_apfix_reviews.xml",
+    "is_dir": false,
+    "size": "7.9 KiB",
+    "date": "10-Oct-2024 04:30"
+  }
+]

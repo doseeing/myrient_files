@@ -1,0 +1,58 @@
+[
+  {
+    "name": "firmware",
+    "href": "firmware/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/sphere/firmware/",
+    "is_dir": true,
+    "size": null,
+    "date": "24-May-2022 22:56"
+  },
+  {
+    "name": "newsletter",
+    "href": "newsletter/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/sphere/newsletter/",
+    "is_dir": true,
+    "size": null,
+    "date": "18-Feb-2009 04:34"
+  },
+  {
+    "name": "pictures",
+    "href": "pictures/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/sphere/pictures/",
+    "is_dir": true,
+    "size": null,
+    "date": "24-Aug-2023 23:29"
+  },
+  {
+    "name": "software",
+    "href": "software/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/sphere/software/",
+    "is_dir": true,
+    "size": null,
+    "date": "24-May-2022 19:24"
+  },
+  {
+    "name": "300-76-0001-1_Sphere_Operator_and_Reference_Manual_Oct76.pdf",
+    "href": "300-76-0001-1_Sphere_Operator_and_Reference_Manual_Oct76.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/sphere/300-76-0001-1_Sphere_Operator_and_Reference_Manual_Oct76.pdf",
+    "is_dir": false,
+    "size": "22.9 MiB",
+    "date": "18-Feb-2009 01:52"
+  },
+  {
+    "name": "Sphere_Brochure.pdf",
+    "href": "Sphere_Brochure.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/sphere/Sphere_Brochure.pdf",
+    "is_dir": false,
+    "size": "4.3 MiB",
+    "date": "17-Feb-2009 17:46"
+  },
+  {
+    "name": "Sphere_Schematics.pdf",
+    "href": "Sphere_Schematics.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/sphere/Sphere_Schematics.pdf",
+    "is_dir": false,
+    "size": "29.8 MiB",
+    "date": "18-Feb-2009 05:19"
+  }
+]

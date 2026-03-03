@@ -1,0 +1,69 @@
+name	is_dir	size	date
+!support files	True	-	08-Dec-2025 11:16
+cache	True	-	08-Dec-2025 11:16
+docs	True	-	08-Dec-2025 11:28
+images	True	-	04-Dec-2025 01:41
+pics	True	-	04-Dec-2025 01:41
+ram	True	-	08-Dec-2025 11:16
+roms	True	-	04-Dec-2025 01:41
+sound	True	-	04-Dec-2025 01:41
+vldp	True	-	08-Dec-2025 11:54
+vldp_dl	True	-	08-Dec-2025 11:42
+vldp_dl2	True	-	08-Dec-2025 11:41
+-Cliff Hanger [4x3 Fullscreen 24p Progressive Letterbox].bat	False	254 B	08-Dec-2025 09:33
+-Cliff Hanger [4x3 Fullscreen 24p Progressive].bat	False	244 B	08-Dec-2025 09:33
+-Cliff Hanger [4x3 Fullscreen 30i Interlaced].bat	False	244 B	08-Dec-2025 09:33
+-Dragon's Lair (French mono) [4x3 1920x1080 Fullscreen] (lair, Rev F2).bat	False	303 B	08-Dec-2025 09:33
+-Dragon's Lair (French stereo) [4x3 1920x1080 Fullscreen] (lair, Rev F2).bat	False	305 B	08-Dec-2025 09:33
+-Dragon's Lair II Time Warp [4x3 1920x1080 Fullscreen] (lair2, v3.19).bat	False	242 B	08-Dec-2025 09:33
+-Dragon's Lair II Time Warp [4x3 1920x1080 Fullscreen] (lair2_315, v3.15).bat	False	262 B	08-Dec-2025 09:33
+-Dragon's Lair II Time Warp [4x3 1920x1080 Fullscreen] (lair2_316_euro, v3.16 European).bat	False	267 B	08-Dec-2025 09:33
+-Dragon's Lair II Time Warp [4x3 1920x1080 Fullscreen] (lair2_318, v3.18).bat	False	262 B	08-Dec-2025 09:33
+-Dragon's Lair II Time Warp [4x3 1920x1080 Fullscreen] (lair2_319_euro, v3.19 European).bat	False	267 B	08-Dec-2025 09:33
+-Dragon's Lair [4x3 1920x1080 Fullscreen] (dle11, Enhancement v1.1).bat	False	275 B	08-Dec-2025 09:33
+-Dragon's Lair [4x3 1920x1080 Fullscreen] (dle21, Enhancement v2.1).bat	False	275 B	08-Dec-2025 09:33
+-Dragon's Lair [4x3 1920x1080 Fullscreen] (lair, Rev F2).bat	False	274 B	08-Dec-2025 09:33
+-Dragon's Lair [4x3 1920x1080 Fullscreen] (lair_a, Rev A).bat	False	276 B	08-Dec-2025 09:33
+-Dragon's Lair [4x3 1920x1080 Fullscreen] (lair_b, Rev B).bat	False	276 B	08-Dec-2025 09:33
+-Dragon's Lair [4x3 1920x1080 Fullscreen] (lair_c, Rev C).bat	False	276 B	08-Dec-2025 09:33
+-Dragon's Lair [4x3 1920x1080 Fullscreen] (lair_d, Rev D).bat	False	276 B	08-Dec-2025 09:33
+-Dragon's Lair [4x3 1920x1080 Fullscreen] (lair_e, Rev E).bat	False	276 B	08-Dec-2025 09:33
+-Dragon's Lair [4x3 1920x1080 Fullscreen] (lair_f, Rev F).bat	False	276 B	08-Dec-2025 09:33
+-Dragon's Lair [4x3 1920x1080 Fullscreen] (lair_n1, Beta 2).bat	False	277 B	08-Dec-2025 09:33
+-Dragon's Lair [4x3 1920x1080 Fullscreen] (lair_x, Beta 1 Serial #1).bat	False	276 B	08-Dec-2025 09:33
+-Dragon's Lair [4x3 1920x1080 Fullscreen] (laireuro, European).bat	False	278 B	08-Dec-2025 09:33
+-Goal to Go [4x3 1920x1080 Fullscreen] [game does not really work].bat	False	122 B	08-Dec-2025 09:33
+-Space Ace [4x3 1920x1080 Fullscreen] (ace, Rev A3).bat	False	248 B	08-Dec-2025 09:33
+-Space Ace [4x3 1920x1080 Fullscreen] (ace91, '91 version).bat	False	204 B	08-Dec-2025 09:33
+-Space Ace [4x3 1920x1080 Fullscreen] (ace_a, Rev A).bat	False	250 B	08-Dec-2025 09:33
+-Space Ace [4x3 1920x1080 Fullscreen] (ace_a2, rev A2).bat	False	251 B	08-Dec-2025 09:33
+-Space Ace [4x3 1920x1080 Fullscreen] (aceeuro, European).bat	False	203 B	08-Dec-2025 09:33
+-Space Ace [4x3 1920x1080 Fullscreen] (sae, Enhanced v1.0).bat	False	248 B	08-Dec-2025 09:33
+-Thayer's Quest Keyboard keys.png	False	1.4 MiB	04-Dec-2025 01:41
+-Thayer's Quest [4x3 1920x1080 Fullscreen] [tq, Standard].bat	False	226 B	08-Dec-2025 09:33
+-Thayer's Quest [4x3 1920x1080 Fullscreen] [tq_alt, Alternate].bat	False	230 B	08-Dec-2025 09:33
+-Thayer's Quest [4x3 1920x1080 Fullscreen] [tq_swear, Swearing Hack].bat	False	232 B	08-Dec-2025 09:33
+COPYING	False	17.9 KiB	01-Dec-2025 17:46
+DaphneLoader.exe	False	795.5 KiB	08-Dec-2025 09:33
+DaphneLoaderPrefs - Copy.xml	False	44.5 KiB	08-Dec-2025 09:33
+DaphneLoaderPrefs.xml	False	44.5 KiB	08-Dec-2025 09:33
+SDL.dll	False	252.0 KiB	08-Dec-2025 09:33
+config.xml	False	170.7 KiB	08-Dec-2025 09:33
+daphne-changelog.txt	False	9.3 KiB	08-Dec-2025 09:33
+daphne.exe	False	664.0 KiB	08-Dec-2025 09:33
+daphneloader-changelog.txt	False	11.5 KiB	08-Dec-2025 09:33
+dapinput.ini	False	474 B	08-Dec-2025 09:33
+glew32.dll	False	208.0 KiB	08-Dec-2025 09:33
+inpout32.dll	False	96.0 KiB	01-Dec-2025 17:46
+input_grabber.exe	False	8.0 KiB	08-Dec-2025 09:33
+libexpat.dll	False	148.0 KiB	08-Dec-2025 09:33
+mpolib.dll	False	232.0 KiB	08-Dec-2025 09:33
+msvcp71.dll	False	488.0 KiB	01-Dec-2025 17:46
+msvcr71.dll	False	340.0 KiB	01-Dec-2025 17:46
+ogg.dll	False	48.0 KiB	08-Dec-2025 09:33
+par-io.dll	False	48.5 KiB	08-Dec-2025 09:33
+update.exe	False	72.0 KiB	08-Dec-2025 09:33
+vldp2.dll	False	80.0 KiB	08-Dec-2025 09:34
+vorbis.dll	False	100.0 KiB	08-Dec-2025 09:35
+vorbisfile.dll	False	28.0 KiB	08-Dec-2025 09:35
+zlib.dll	False	52.0 KiB	08-Dec-2025 09:35

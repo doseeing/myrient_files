@@ -1,0 +1,50 @@
+[
+  {
+    "name": "hardware",
+    "href": "hardware/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ridge/hardware/",
+    "is_dir": true,
+    "size": null,
+    "date": "01-Oct-2014 16:58"
+  },
+  {
+    "name": "ridge_32",
+    "href": "ridge_32/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ridge/ridge_32/",
+    "is_dir": true,
+    "size": null,
+    "date": "01-Oct-2014 23:15"
+  },
+  {
+    "name": "ros",
+    "href": "ros/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ridge/ros/",
+    "is_dir": true,
+    "size": null,
+    "date": "02-Oct-2014 13:31"
+  },
+  {
+    "name": "ros_3",
+    "href": "ros_3/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ridge/ros_3/",
+    "is_dir": true,
+    "size": null,
+    "date": "05-Oct-2014 17:52"
+  },
+  {
+    "name": "rx-v",
+    "href": "rx-v/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ridge/rx-v/",
+    "is_dir": true,
+    "size": null,
+    "date": "01-Oct-2014 15:51"
+  },
+  {
+    "name": "readme.txt",
+    "href": "readme.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ridge/readme.txt",
+    "is_dir": false,
+    "size": "472 B",
+    "date": "02-Oct-2014 01:16"
+  }
+]

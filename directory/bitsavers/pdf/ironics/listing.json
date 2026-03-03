@@ -1,0 +1,42 @@
+[
+  {
+    "name": "firmware",
+    "href": "firmware/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ironics/firmware/",
+    "is_dir": true,
+    "size": null,
+    "date": "21-May-2016 17:11"
+  },
+  {
+    "name": "pictures",
+    "href": "pictures/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ironics/pictures/",
+    "is_dir": true,
+    "size": null,
+    "date": "21-May-2016 16:53"
+  },
+  {
+    "name": "IV-1624_8-Port_Intelligent_Serial_Card_198508.pdf",
+    "href": "IV-1624_8-Port_Intelligent_Serial_Card_198508.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ironics/IV-1624_8-Port_Intelligent_Serial_Card_198508.pdf",
+    "is_dir": false,
+    "size": "6.4 MiB",
+    "date": "29-Aug-2023 23:17"
+  },
+  {
+    "name": "IV-1625_Four-Port_Serial_IO_Card_198603.pdf",
+    "href": "IV-1625_Four-Port_Serial_IO_Card_198603.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ironics/IV-1625_Four-Port_Serial_IO_Card_198603.pdf",
+    "is_dir": false,
+    "size": "2.6 MiB",
+    "date": "29-Aug-2023 23:17"
+  },
+  {
+    "name": "IV-1653_VMEBus_CRT_Controller_Card_198505.pdf",
+    "href": "IV-1653_VMEBus_CRT_Controller_Card_198505.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ironics/IV-1653_VMEBus_CRT_Controller_Card_198505.pdf",
+    "is_dir": false,
+    "size": "3.2 MiB",
+    "date": "29-Aug-2023 23:17"
+  }
+]

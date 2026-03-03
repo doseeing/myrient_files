@@ -1,0 +1,50 @@
+[
+  {
+    "name": "apple",
+    "href": "apple/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/UCSD_Pascal/apple/",
+    "is_dir": true,
+    "size": null,
+    "date": "27-Mar-2006 08:01"
+  },
+  {
+    "name": "cpm",
+    "href": "cpm/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/UCSD_Pascal/cpm/",
+    "is_dir": true,
+    "size": null,
+    "date": "07-Sep-2007 02:22"
+  },
+  {
+    "name": "softech",
+    "href": "softech/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/UCSD_Pascal/softech/",
+    "is_dir": true,
+    "size": null,
+    "date": "07-Sep-2007 18:32"
+  },
+  {
+    "name": "ucsd_II.0",
+    "href": "ucsd_II.0/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/UCSD_Pascal/ucsd_II.0/",
+    "is_dir": true,
+    "size": null,
+    "date": "15-May-2006 07:03"
+  },
+  {
+    "name": "ucsd_released_2006",
+    "href": "ucsd_released_2006/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/UCSD_Pascal/ucsd_released_2006/",
+    "is_dir": true,
+    "size": null,
+    "date": "10-Mar-2006 08:24"
+  },
+  {
+    "name": "UCSD_PASCAL_Release_May_2006.html",
+    "href": "UCSD_PASCAL_Release_May_2006.html",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/UCSD_Pascal/UCSD_PASCAL_Release_May_2006.html",
+    "is_dir": false,
+    "size": "9.4 KiB",
+    "date": "27-May-2006 00:09"
+  }
+]

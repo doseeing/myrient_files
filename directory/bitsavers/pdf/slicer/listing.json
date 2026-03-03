@@ -1,0 +1,34 @@
+[
+  {
+    "name": "firmware",
+    "href": "firmware/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/slicer/firmware/",
+    "is_dir": true,
+    "size": null,
+    "date": "18-Jan-2015 00:41"
+  },
+  {
+    "name": "hardware",
+    "href": "hardware/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/slicer/hardware/",
+    "is_dir": true,
+    "size": null,
+    "date": "23-Jan-2015 14:26"
+  },
+  {
+    "name": "misc",
+    "href": "misc/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/slicer/misc/",
+    "is_dir": true,
+    "size": null,
+    "date": "23-Jan-2015 14:27"
+  },
+  {
+    "name": "pictures",
+    "href": "pictures/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/slicer/pictures/",
+    "is_dir": true,
+    "size": null,
+    "date": "23-Jan-2015 14:28"
+  }
+]

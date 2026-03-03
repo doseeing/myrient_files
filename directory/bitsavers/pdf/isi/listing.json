@@ -1,0 +1,34 @@
+[
+  {
+    "name": "brochures",
+    "href": "brochures/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/isi/brochures/",
+    "is_dir": true,
+    "size": null,
+    "date": "08-Apr-2022 02:01"
+  },
+  {
+    "name": "bsd",
+    "href": "bsd/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/isi/bsd/",
+    "is_dir": true,
+    "size": null,
+    "date": "25-Nov-2021 23:57"
+  },
+  {
+    "name": "qbus",
+    "href": "qbus/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/isi/qbus/",
+    "is_dir": true,
+    "size": null,
+    "date": "26-Nov-2021 15:53"
+  },
+  {
+    "name": "vme",
+    "href": "vme/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/isi/vme/",
+    "is_dir": true,
+    "size": null,
+    "date": "08-Apr-2022 02:01"
+  }
+]

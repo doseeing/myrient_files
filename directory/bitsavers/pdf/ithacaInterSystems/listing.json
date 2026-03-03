@@ -1,0 +1,42 @@
+[
+  {
+    "name": "firmware",
+    "href": "firmware/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ithacaInterSystems/firmware/",
+    "is_dir": true,
+    "size": null,
+    "date": "19-Jun-2013 15:20"
+  },
+  {
+    "name": "hardware",
+    "href": "hardware/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ithacaInterSystems/hardware/",
+    "is_dir": true,
+    "size": null,
+    "date": "13-May-2018 18:02"
+  },
+  {
+    "name": "photos",
+    "href": "photos/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ithacaInterSystems/photos/",
+    "is_dir": true,
+    "size": null,
+    "date": "19-Jun-2013 15:21"
+  },
+  {
+    "name": "software",
+    "href": "software/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ithacaInterSystems/software/",
+    "is_dir": true,
+    "size": null,
+    "date": "19-Jun-2013 15:26"
+  },
+  {
+    "name": "InterSystems_Catalog_Winter_1980.pdf",
+    "href": "InterSystems_Catalog_Winter_1980.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ithacaInterSystems/InterSystems_Catalog_Winter_1980.pdf",
+    "is_dir": false,
+    "size": "10.1 MiB",
+    "date": "18-Apr-2013 22:13"
+  }
+]

@@ -1,0 +1,194 @@
+[
+  {
+    "name": "FPGA",
+    "href": "FPGA/",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ti/FPGA/",
+    "is_dir": true,
+    "size": null,
+    "date": "04-May-2024 21:57"
+  },
+  {
+    "name": "MSP430",
+    "href": "MSP430/",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ti/MSP430/",
+    "is_dir": true,
+    "size": null,
+    "date": "01-Jul-2022 03:25"
+  },
+  {
+    "name": "PAL",
+    "href": "PAL/",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ti/PAL/",
+    "is_dir": true,
+    "size": null,
+    "date": "04-Apr-2023 12:50"
+  },
+  {
+    "name": "TI486",
+    "href": "TI486/",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ti/TI486/",
+    "is_dir": true,
+    "size": null,
+    "date": "11-Aug-2023 22:16"
+  },
+  {
+    "name": "TI_Electronics_Series",
+    "href": "TI_Electronics_Series/",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ti/TI_Electronics_Series/",
+    "is_dir": true,
+    "size": null,
+    "date": "26-Jan-2025 23:32"
+  },
+  {
+    "name": "TMS1000",
+    "href": "TMS1000/",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ti/TMS1000/",
+    "is_dir": true,
+    "size": null,
+    "date": "30-Jan-2023 23:22"
+  },
+  {
+    "name": "TMS320xx",
+    "href": "TMS320xx/",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ti/TMS320xx/",
+    "is_dir": true,
+    "size": null,
+    "date": "01-Jul-2022 14:55"
+  },
+  {
+    "name": "TMS340xx",
+    "href": "TMS340xx/",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ti/TMS340xx/",
+    "is_dir": true,
+    "size": null,
+    "date": "01-Jul-2022 17:32"
+  },
+  {
+    "name": "TMS370",
+    "href": "TMS370/",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ti/TMS370/",
+    "is_dir": true,
+    "size": null,
+    "date": "26-Aug-2017 18:33"
+  },
+  {
+    "name": "TMS380",
+    "href": "TMS380/",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ti/TMS380/",
+    "is_dir": true,
+    "size": null,
+    "date": "01-Aug-2021 21:55"
+  },
+  {
+    "name": "TMS7000",
+    "href": "TMS7000/",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ti/TMS7000/",
+    "is_dir": true,
+    "size": null,
+    "date": "24-Mar-2024 13:02"
+  },
+  {
+    "name": "TMS9900",
+    "href": "TMS9900/",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ti/TMS9900/",
+    "is_dir": true,
+    "size": null,
+    "date": "27-Jan-2023 05:58"
+  },
+  {
+    "name": "TVP4010",
+    "href": "TVP4010/",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ti/TVP4010/",
+    "is_dir": true,
+    "size": null,
+    "date": "26-Aug-2017 18:32"
+  },
+  {
+    "name": "TVP4020",
+    "href": "TVP4020/",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ti/TVP4020/",
+    "is_dir": true,
+    "size": null,
+    "date": "26-Aug-2017 18:32"
+  },
+  {
+    "name": "_appNotes",
+    "href": "_appNotes/",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ti/_appNotes/",
+    "is_dir": true,
+    "size": null,
+    "date": "05-Oct-2023 21:11"
+  },
+  {
+    "name": "_dataBooks",
+    "href": "_dataBooks/",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ti/_dataBooks/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Jan-2025 05:24"
+  },
+  {
+    "name": "_dataSheets",
+    "href": "_dataSheets/",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ti/_dataSheets/",
+    "is_dir": true,
+    "size": null,
+    "date": "21-Jul-2024 01:15"
+  },
+  {
+    "name": "cdrom",
+    "href": "cdrom/",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ti/cdrom/",
+    "is_dir": true,
+    "size": null,
+    "date": "03-Mar-2020 17:02"
+  },
+  {
+    "name": "discrete",
+    "href": "discrete/",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ti/discrete/",
+    "is_dir": true,
+    "size": null,
+    "date": "02-Dec-2019 22:28"
+  },
+  {
+    "name": "gate-array",
+    "href": "gate-array/",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ti/gate-array/",
+    "is_dir": true,
+    "size": null,
+    "date": "16-Jul-2022 20:52"
+  },
+  {
+    "name": "patents",
+    "href": "patents/",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ti/patents/",
+    "is_dir": true,
+    "size": null,
+    "date": "17-Nov-2023 15:40"
+  },
+  {
+    "name": "priceLists",
+    "href": "priceLists/",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ti/priceLists/",
+    "is_dir": true,
+    "size": null,
+    "date": "15-Feb-2023 17:14"
+  },
+  {
+    "name": "proLogic",
+    "href": "proLogic/",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ti/proLogic/",
+    "is_dir": true,
+    "size": null,
+    "date": "05-Jul-2018 17:41"
+  },
+  {
+    "name": "scsi",
+    "href": "scsi/",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ti/scsi/",
+    "is_dir": true,
+    "size": null,
+    "date": "16-Aug-2024 20:00"
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "name": "firmware",
+    "href": "firmware/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/industrialMicroSystems/firmware/",
+    "is_dir": true,
+    "size": null,
+    "date": "31-Jul-2019 23:41"
+  },
+  {
+    "name": "pictures",
+    "href": "pictures/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/industrialMicroSystems/pictures/",
+    "is_dir": true,
+    "size": null,
+    "date": "31-Jul-2019 23:41"
+  },
+  {
+    "name": "turboDos",
+    "href": "turboDos/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/industrialMicroSystems/turboDos/",
+    "is_dir": true,
+    "size": null,
+    "date": "31-Jul-2019 23:42"
+  },
+  {
+    "name": "IMS_1021_64K_Schem.pdf",
+    "href": "IMS_1021_64K_Schem.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/industrialMicroSystems/IMS_1021_64K_Schem.pdf",
+    "is_dir": false,
+    "size": "255.7 KiB",
+    "date": "01-Sep-2019 02:54"
+  },
+  {
+    "name": "IMS_451_Z80_Schem.pdf",
+    "href": "IMS_451_Z80_Schem.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/industrialMicroSystems/IMS_451_Z80_Schem.pdf",
+    "is_dir": false,
+    "size": "324.8 KiB",
+    "date": "01-Sep-2019 02:54"
+  },
+  {
+    "name": "IMS_930_Flop_Schem.pdf",
+    "href": "IMS_930_Flop_Schem.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/industrialMicroSystems/IMS_930_Flop_Schem.pdf",
+    "is_dir": false,
+    "size": "385.1 KiB",
+    "date": "01-Sep-2019 02:54"
+  },
+  {
+    "name": "IMS_970_Z80_Schem.pdf",
+    "href": "IMS_970_Z80_Schem.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/industrialMicroSystems/IMS_970_Z80_Schem.pdf",
+    "is_dir": false,
+    "size": "1.8 MiB",
+    "date": "01-Sep-2019 02:54"
+  },
+  {
+    "name": "IMS_Board_Shunting.pdf",
+    "href": "IMS_Board_Shunting.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/industrialMicroSystems/IMS_Board_Shunting.pdf",
+    "is_dir": false,
+    "size": "1.7 MiB",
+    "date": "01-Sep-2019 02:54"
+  },
+  {
+    "name": "IMS_CPM_Impl_Guide.pdf",
+    "href": "IMS_CPM_Impl_Guide.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/industrialMicroSystems/IMS_CPM_Impl_Guide.pdf",
+    "is_dir": false,
+    "size": "1.6 MiB",
+    "date": "01-Sep-2019 02:54"
+  },
+  {
+    "name": "IMS_Series_5000_8000_Brochure.pdf",
+    "href": "IMS_Series_5000_8000_Brochure.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/industrialMicroSystems/IMS_Series_5000_8000_Brochure.pdf",
+    "is_dir": false,
+    "size": "2.7 MiB",
+    "date": "31-Jul-2019 23:43"
+  },
+  {
+    "name": "IMS_Series_5000_8000_User_Manual_Jun1980.pdf",
+    "href": "IMS_Series_5000_8000_User_Manual_Jun1980.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/industrialMicroSystems/IMS_Series_5000_8000_User_Manual_Jun1980.pdf",
+    "is_dir": false,
+    "size": "5.0 MiB",
+    "date": "31-Jul-2019 23:43"
+  },
+  {
+    "name": "S100+_installGde_Mar85.pdf",
+    "href": "S100%2B_installGde_Mar85.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/industrialMicroSystems/S100%2B_installGde_Mar85.pdf",
+    "is_dir": false,
+    "size": "1.5 MiB",
+    "date": "17-Nov-2003 22:46"
+  },
+  {
+    "name": "tapeBackup_May85.pdf",
+    "href": "tapeBackup_May85.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/industrialMicroSystems/tapeBackup_May85.pdf",
+    "is_dir": false,
+    "size": "1006.1 KiB",
+    "date": "17-Nov-2003 22:55"
+  }
+]

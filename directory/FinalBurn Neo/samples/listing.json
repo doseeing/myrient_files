@@ -1,0 +1,418 @@
+[
+  {
+    "name": "blockade.zip",
+    "href": "blockade.zip",
+    "url": "https://myrient.erista.me/files/FinalBurn%20Neo/samples/blockade.zip",
+    "is_dir": false,
+    "size": "11.2 KiB",
+    "date": "28-Sep-2025 01:08"
+  },
+  {
+    "name": "brdrline.zip",
+    "href": "brdrline.zip",
+    "url": "https://myrient.erista.me/files/FinalBurn%20Neo/samples/brdrline.zip",
+    "is_dir": false,
+    "size": "1.5 MiB",
+    "date": "28-Sep-2025 00:34"
+  },
+  {
+    "name": "buckrog.zip",
+    "href": "buckrog.zip",
+    "url": "https://myrient.erista.me/files/FinalBurn%20Neo/samples/buckrog.zip",
+    "is_dir": false,
+    "size": "912.2 KiB",
+    "date": "28-Sep-2025 01:08"
+  },
+  {
+    "name": "carnival.zip",
+    "href": "carnival.zip",
+    "url": "https://myrient.erista.me/files/FinalBurn%20Neo/samples/carnival.zip",
+    "is_dir": false,
+    "size": "500.3 KiB",
+    "date": "28-Sep-2025 01:08"
+  },
+  {
+    "name": "cheekyms.zip",
+    "href": "cheekyms.zip",
+    "url": "https://myrient.erista.me/files/FinalBurn%20Neo/samples/cheekyms.zip",
+    "is_dir": false,
+    "size": "152.2 KiB",
+    "date": "28-Sep-2025 00:40"
+  },
+  {
+    "name": "congo.zip",
+    "href": "congo.zip",
+    "url": "https://myrient.erista.me/files/FinalBurn%20Neo/samples/congo.zip",
+    "is_dir": false,
+    "size": "64.9 KiB",
+    "date": "28-Sep-2025 01:08"
+  },
+  {
+    "name": "depthch.zip",
+    "href": "depthch.zip",
+    "url": "https://myrient.erista.me/files/FinalBurn%20Neo/samples/depthch.zip",
+    "is_dir": false,
+    "size": "742.7 KiB",
+    "date": "28-Sep-2025 01:08"
+  },
+  {
+    "name": "digger.zip",
+    "href": "digger.zip",
+    "url": "https://myrient.erista.me/files/FinalBurn%20Neo/samples/digger.zip",
+    "is_dir": false,
+    "size": "1.2 MiB",
+    "date": "30-Nov-2025 21:05"
+  },
+  {
+    "name": "dkong.zip",
+    "href": "dkong.zip",
+    "url": "https://myrient.erista.me/files/FinalBurn%20Neo/samples/dkong.zip",
+    "is_dir": false,
+    "size": "28.6 KiB",
+    "date": "28-Sep-2025 00:40"
+  },
+  {
+    "name": "dkongjr.zip",
+    "href": "dkongjr.zip",
+    "url": "https://myrient.erista.me/files/FinalBurn%20Neo/samples/dkongjr.zip",
+    "is_dir": false,
+    "size": "293.2 KiB",
+    "date": "28-Sep-2025 00:40"
+  },
+  {
+    "name": "donpachi.zip",
+    "href": "donpachi.zip",
+    "url": "https://myrient.erista.me/files/FinalBurn%20Neo/samples/donpachi.zip",
+    "is_dir": false,
+    "size": "198.9 MiB",
+    "date": "28-Sep-2025 00:41"
+  },
+  {
+    "name": "elim2.zip",
+    "href": "elim2.zip",
+    "url": "https://myrient.erista.me/files/FinalBurn%20Neo/samples/elim2.zip",
+    "is_dir": false,
+    "size": "840.3 KiB",
+    "date": "28-Sep-2025 00:25"
+  },
+  {
+    "name": "fantasy.zip",
+    "href": "fantasy.zip",
+    "url": "https://myrient.erista.me/files/FinalBurn%20Neo/samples/fantasy.zip",
+    "is_dir": false,
+    "size": "1.2 MiB",
+    "date": "28-Sep-2025 01:08"
+  },
+  {
+    "name": "frogs.zip",
+    "href": "frogs.zip",
+    "url": "https://myrient.erista.me/files/FinalBurn%20Neo/samples/frogs.zip",
+    "is_dir": false,
+    "size": "370.3 KiB",
+    "date": "28-Sep-2025 00:25"
+  },
+  {
+    "name": "galaga.zip",
+    "href": "galaga.zip",
+    "url": "https://myrient.erista.me/files/FinalBurn%20Neo/samples/galaga.zip",
+    "is_dir": false,
+    "size": "237.4 KiB",
+    "date": "28-Sep-2025 00:25"
+  },
+  {
+    "name": "gaplus.zip",
+    "href": "gaplus.zip",
+    "url": "https://myrient.erista.me/files/FinalBurn%20Neo/samples/gaplus.zip",
+    "is_dir": false,
+    "size": "107.1 KiB",
+    "date": "28-Sep-2025 01:08"
+  },
+  {
+    "name": "gridlee.zip",
+    "href": "gridlee.zip",
+    "url": "https://myrient.erista.me/files/FinalBurn%20Neo/samples/gridlee.zip",
+    "is_dir": false,
+    "size": "15.9 KiB",
+    "date": "28-Sep-2025 01:07"
+  },
+  {
+    "name": "heiankyo.zip",
+    "href": "heiankyo.zip",
+    "url": "https://myrient.erista.me/files/FinalBurn%20Neo/samples/heiankyo.zip",
+    "is_dir": false,
+    "size": "1.0 MiB",
+    "date": "28-Sep-2025 00:25"
+  },
+  {
+    "name": "invaders.zip",
+    "href": "invaders.zip",
+    "url": "https://myrient.erista.me/files/FinalBurn%20Neo/samples/invaders.zip",
+    "is_dir": false,
+    "size": "164.0 KiB",
+    "date": "28-Sep-2025 00:12"
+  },
+  {
+    "name": "invinco.zip",
+    "href": "invinco.zip",
+    "url": "https://myrient.erista.me/files/FinalBurn%20Neo/samples/invinco.zip",
+    "is_dir": false,
+    "size": "343.4 KiB",
+    "date": "28-Sep-2025 01:07"
+  },
+  {
+    "name": "journey.zip",
+    "href": "journey.zip",
+    "url": "https://myrient.erista.me/files/FinalBurn%20Neo/samples/journey.zip",
+    "is_dir": false,
+    "size": "14.6 MiB",
+    "date": "28-Sep-2025 01:07"
+  },
+  {
+    "name": "mario.zip",
+    "href": "mario.zip",
+    "url": "https://myrient.erista.me/files/FinalBurn%20Neo/samples/mario.zip",
+    "is_dir": false,
+    "size": "61.9 KiB",
+    "date": "28-Sep-2025 00:18"
+  },
+  {
+    "name": "mmagic.zip",
+    "href": "mmagic.zip",
+    "url": "https://myrient.erista.me/files/FinalBurn%20Neo/samples/mmagic.zip",
+    "is_dir": false,
+    "size": "343.1 KiB",
+    "date": "28-Sep-2025 01:07"
+  },
+  {
+    "name": "natodef.zip",
+    "href": "natodef.zip",
+    "url": "https://myrient.erista.me/files/FinalBurn%20Neo/samples/natodef.zip",
+    "is_dir": false,
+    "size": "4.1 MiB",
+    "date": "28-Sep-2025 01:07"
+  },
+  {
+    "name": "nitedrvr.zip",
+    "href": "nitedrvr.zip",
+    "url": "https://myrient.erista.me/files/FinalBurn%20Neo/samples/nitedrvr.zip",
+    "is_dir": false,
+    "size": "727.9 KiB",
+    "date": "28-Sep-2025 00:40"
+  },
+  {
+    "name": "nsub.zip",
+    "href": "nsub.zip",
+    "url": "https://myrient.erista.me/files/FinalBurn%20Neo/samples/nsub.zip",
+    "is_dir": false,
+    "size": "1.3 MiB",
+    "date": "28-Sep-2025 01:07"
+  },
+  {
+    "name": "paprium.zip",
+    "href": "paprium.zip",
+    "url": "https://myrient.erista.me/files/FinalBurn%20Neo/samples/paprium.zip",
+    "is_dir": false,
+    "size": "2.0 GiB",
+    "date": "28-Sep-2025 00:40"
+  },
+  {
+    "name": "pulsar.zip",
+    "href": "pulsar.zip",
+    "url": "https://myrient.erista.me/files/FinalBurn%20Neo/samples/pulsar.zip",
+    "is_dir": false,
+    "size": "625.8 KiB",
+    "date": "28-Sep-2025 01:07"
+  },
+  {
+    "name": "qbert.zip",
+    "href": "qbert.zip",
+    "url": "https://myrient.erista.me/files/FinalBurn%20Neo/samples/qbert.zip",
+    "is_dir": false,
+    "size": "6.3 KiB",
+    "date": "28-Sep-2025 01:07"
+  },
+  {
+    "name": "radarscp.zip",
+    "href": "radarscp.zip",
+    "url": "https://myrient.erista.me/files/FinalBurn%20Neo/samples/radarscp.zip",
+    "is_dir": false,
+    "size": "718.9 KiB",
+    "date": "28-Sep-2025 00:39"
+  },
+  {
+    "name": "rallyx.zip",
+    "href": "rallyx.zip",
+    "url": "https://myrient.erista.me/files/FinalBurn%20Neo/samples/rallyx.zip",
+    "is_dir": false,
+    "size": "70.8 KiB",
+    "date": "28-Sep-2025 01:07"
+  },
+  {
+    "name": "safarir.zip",
+    "href": "safarir.zip",
+    "url": "https://myrient.erista.me/files/FinalBurn%20Neo/samples/safarir.zip",
+    "is_dir": false,
+    "size": "758.4 KiB",
+    "date": "28-Sep-2025 01:07"
+  },
+  {
+    "name": "sasuke.zip",
+    "href": "sasuke.zip",
+    "url": "https://myrient.erista.me/files/FinalBurn%20Neo/samples/sasuke.zip",
+    "is_dir": false,
+    "size": "480.9 KiB",
+    "date": "28-Sep-2025 01:07"
+  },
+  {
+    "name": "seawolf.zip",
+    "href": "seawolf.zip",
+    "url": "https://myrient.erista.me/files/FinalBurn%20Neo/samples/seawolf.zip",
+    "is_dir": false,
+    "size": "1.8 MiB",
+    "date": "28-Sep-2025 01:07"
+  },
+  {
+    "name": "sfz3mix.zip",
+    "href": "sfz3mix.zip",
+    "url": "https://myrient.erista.me/files/FinalBurn%20Neo/samples/sfz3mix.zip",
+    "is_dir": false,
+    "size": "96.3 MiB",
+    "date": "28-Sep-2025 00:39"
+  },
+  {
+    "name": "sharkatt.zip",
+    "href": "sharkatt.zip",
+    "url": "https://myrient.erista.me/files/FinalBurn%20Neo/samples/sharkatt.zip",
+    "is_dir": false,
+    "size": "2.2 MiB",
+    "date": "28-Sep-2025 01:07"
+  },
+  {
+    "name": "sot4w.zip",
+    "href": "sot4w.zip",
+    "url": "https://myrient.erista.me/files/FinalBurn%20Neo/samples/sot4w.zip",
+    "is_dir": false,
+    "size": "836.5 MiB",
+    "date": "28-Sep-2025 00:40"
+  },
+  {
+    "name": "spacefb.zip",
+    "href": "spacefb.zip",
+    "url": "https://myrient.erista.me/files/FinalBurn%20Neo/samples/spacefb.zip",
+    "is_dir": false,
+    "size": "607.1 KiB",
+    "date": "28-Sep-2025 01:07"
+  },
+  {
+    "name": "spacfury.zip",
+    "href": "spacfury.zip",
+    "url": "https://myrient.erista.me/files/FinalBurn%20Neo/samples/spacfury.zip",
+    "is_dir": false,
+    "size": "558.0 KiB",
+    "date": "28-Sep-2025 00:33"
+  },
+  {
+    "name": "stinger.zip",
+    "href": "stinger.zip",
+    "url": "https://myrient.erista.me/files/FinalBurn%20Neo/samples/stinger.zip",
+    "is_dir": false,
+    "size": "488.8 KiB",
+    "date": "28-Sep-2025 00:34"
+  },
+  {
+    "name": "subroc3d.zip",
+    "href": "subroc3d.zip",
+    "url": "https://myrient.erista.me/files/FinalBurn%20Neo/samples/subroc3d.zip",
+    "is_dir": false,
+    "size": "1.3 MiB",
+    "date": "28-Sep-2025 01:07"
+  },
+  {
+    "name": "thehand.zip",
+    "href": "thehand.zip",
+    "url": "https://myrient.erista.me/files/FinalBurn%20Neo/samples/thehand.zip",
+    "is_dir": false,
+    "size": "781.1 KiB",
+    "date": "28-Sep-2025 01:07"
+  },
+  {
+    "name": "thief.zip",
+    "href": "thief.zip",
+    "url": "https://myrient.erista.me/files/FinalBurn%20Neo/samples/thief.zip",
+    "is_dir": false,
+    "size": "2.8 MiB",
+    "date": "28-Sep-2025 01:07"
+  },
+  {
+    "name": "tr606drumkit.zip",
+    "href": "tr606drumkit.zip",
+    "url": "https://myrient.erista.me/files/FinalBurn%20Neo/samples/tr606drumkit.zip",
+    "is_dir": false,
+    "size": "278.2 KiB",
+    "date": "28-Sep-2025 00:39"
+  },
+  {
+    "name": "tranqgun.zip",
+    "href": "tranqgun.zip",
+    "url": "https://myrient.erista.me/files/FinalBurn%20Neo/samples/tranqgun.zip",
+    "is_dir": false,
+    "size": "412.6 KiB",
+    "date": "28-Sep-2025 00:39"
+  },
+  {
+    "name": "turbo.zip",
+    "href": "turbo.zip",
+    "url": "https://myrient.erista.me/files/FinalBurn%20Neo/samples/turbo.zip",
+    "is_dir": false,
+    "size": "538.8 KiB",
+    "date": "28-Sep-2025 01:07"
+  },
+  {
+    "name": "twotiger.zip",
+    "href": "twotiger.zip",
+    "url": "https://myrient.erista.me/files/FinalBurn%20Neo/samples/twotiger.zip",
+    "is_dir": false,
+    "size": "147.8 MiB",
+    "date": "28-Sep-2025 01:07"
+  },
+  {
+    "name": "vanguard.zip",
+    "href": "vanguard.zip",
+    "url": "https://myrient.erista.me/files/FinalBurn%20Neo/samples/vanguard.zip",
+    "is_dir": false,
+    "size": "1.4 MiB",
+    "date": "28-Sep-2025 01:01"
+  },
+  {
+    "name": "xevious.zip",
+    "href": "xevious.zip",
+    "url": "https://myrient.erista.me/files/FinalBurn%20Neo/samples/xevious.zip",
+    "is_dir": false,
+    "size": "334.6 KiB",
+    "date": "28-Sep-2025 00:39"
+  },
+  {
+    "name": "zaxxon.zip",
+    "href": "zaxxon.zip",
+    "url": "https://myrient.erista.me/files/FinalBurn%20Neo/samples/zaxxon.zip",
+    "is_dir": false,
+    "size": "710.1 KiB",
+    "date": "28-Sep-2025 01:01"
+  },
+  {
+    "name": "zektor.zip",
+    "href": "zektor.zip",
+    "url": "https://myrient.erista.me/files/FinalBurn%20Neo/samples/zektor.zip",
+    "is_dir": false,
+    "size": "657.7 KiB",
+    "date": "28-Sep-2025 00:39"
+  },
+  {
+    "name": "zerohour.zip",
+    "href": "zerohour.zip",
+    "url": "https://myrient.erista.me/files/FinalBurn%20Neo/samples/zerohour.zip",
+    "is_dir": false,
+    "size": "4.2 MiB",
+    "date": "28-Sep-2025 00:39"
+  }
+]

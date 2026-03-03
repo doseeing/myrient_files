@@ -1,0 +1,66 @@
+[
+  {
+    "name": "Games",
+    "href": "Games/",
+    "url": "https://myrient.erista.me/files/Hardware%20Target%20Game%20Database/MiSTer/Games/",
+    "is_dir": true,
+    "size": null,
+    "date": "29-Nov-2025 22:36"
+  },
+  {
+    "name": "saves",
+    "href": "saves/",
+    "url": "https://myrient.erista.me/files/Hardware%20Target%20Game%20Database/MiSTer/saves/",
+    "is_dir": true,
+    "size": null,
+    "date": "16-Oct-2025 09:44"
+  },
+  {
+    "name": "Doom.zip",
+    "href": "Doom.zip",
+    "url": "https://myrient.erista.me/files/Hardware%20Target%20Game%20Database/MiSTer/Doom.zip",
+    "is_dir": false,
+    "size": "49.0 MiB",
+    "date": "05-Oct-2025 19:24"
+  },
+  {
+    "name": "Filters.zip",
+    "href": "Filters.zip",
+    "url": "https://myrient.erista.me/files/Hardware%20Target%20Game%20Database/MiSTer/Filters.zip",
+    "is_dir": false,
+    "size": "2.5 KiB",
+    "date": "08-Oct-2025 11:56"
+  },
+  {
+    "name": "Presets.zip",
+    "href": "Presets.zip",
+    "url": "https://myrient.erista.me/files/Hardware%20Target%20Game%20Database/MiSTer/Presets.zip",
+    "is_dir": false,
+    "size": "222 B",
+    "date": "08-Oct-2025 11:56"
+  },
+  {
+    "name": "Shadow_Masks.zip",
+    "href": "Shadow_Masks.zip",
+    "url": "https://myrient.erista.me/files/Hardware%20Target%20Game%20Database/MiSTer/Shadow_Masks.zip",
+    "is_dir": false,
+    "size": "187 B",
+    "date": "08-Oct-2025 11:56"
+  },
+  {
+    "name": "_Computer.zip",
+    "href": "_Computer.zip",
+    "url": "https://myrient.erista.me/files/Hardware%20Target%20Game%20Database/MiSTer/_Computer.zip",
+    "is_dir": false,
+    "size": "393 B",
+    "date": "08-Oct-2025 11:56"
+  },
+  {
+    "name": "config.zip",
+    "href": "config.zip",
+    "url": "https://myrient.erista.me/files/Hardware%20Target%20Game%20Database/MiSTer/config.zip",
+    "is_dir": false,
+    "size": "1.8 KiB",
+    "date": "08-Oct-2025 11:56"
+  }
+]

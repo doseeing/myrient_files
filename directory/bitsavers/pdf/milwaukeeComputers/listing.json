@@ -1,0 +1,66 @@
+[
+  {
+    "name": "firmware",
+    "href": "firmware/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/milwaukeeComputers/firmware/",
+    "is_dir": true,
+    "size": null,
+    "date": "01-Sep-2018 22:29"
+  },
+  {
+    "name": "MC-1000_Brochure_1982.pdf",
+    "href": "MC-1000_Brochure_1982.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/milwaukeeComputers/MC-1000_Brochure_1982.pdf",
+    "is_dir": false,
+    "size": "3.0 MiB",
+    "date": "07-Nov-2016 17:26"
+  },
+  {
+    "name": "MC-1000_UCSD_Pascal_Installation_Guide.pdf",
+    "href": "MC-1000_UCSD_Pascal_Installation_Guide.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/milwaukeeComputers/MC-1000_UCSD_Pascal_Installation_Guide.pdf",
+    "is_dir": false,
+    "size": "2.1 MiB",
+    "date": "07-Nov-2016 17:26"
+  },
+  {
+    "name": "MC-1200_Prom_Disassembly.pdf",
+    "href": "MC-1200_Prom_Disassembly.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/milwaukeeComputers/MC-1200_Prom_Disassembly.pdf",
+    "is_dir": false,
+    "size": "2.8 MiB",
+    "date": "07-Nov-2016 17:26"
+  },
+  {
+    "name": "MC_CPU_B.jpg",
+    "href": "MC_CPU_B.jpg",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/milwaukeeComputers/MC_CPU_B.jpg",
+    "is_dir": false,
+    "size": "871.9 KiB",
+    "date": "01-Sep-2018 15:10"
+  },
+  {
+    "name": "MC_CPU_T.jpg",
+    "href": "MC_CPU_T.jpg",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/milwaukeeComputers/MC_CPU_T.jpg",
+    "is_dir": false,
+    "size": "708.8 KiB",
+    "date": "01-Sep-2018 15:10"
+  },
+  {
+    "name": "mc1000_pcb.jpg",
+    "href": "mc1000_pcb.jpg",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/milwaukeeComputers/mc1000_pcb.jpg",
+    "is_dir": false,
+    "size": "2.5 MiB",
+    "date": "01-Sep-2018 15:31"
+  },
+  {
+    "name": "mc1000_schematic.jpg",
+    "href": "mc1000_schematic.jpg",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/milwaukeeComputers/mc1000_schematic.jpg",
+    "is_dir": false,
+    "size": "1.6 MiB",
+    "date": "01-Sep-2018 15:31"
+  }
+]

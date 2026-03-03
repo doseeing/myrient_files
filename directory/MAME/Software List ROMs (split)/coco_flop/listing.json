@@ -1,0 +1,786 @@
+[
+  {
+    "name": "asmdemo.zip",
+    "href": "asmdemo.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/coco_flop/asmdemo.zip",
+    "is_dir": false,
+    "size": "8.1 KiB",
+    "date": "28-Sep-2025 14:44"
+  },
+  {
+    "name": "c512ktst.zip",
+    "href": "c512ktst.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/coco_flop/c512ktst.zip",
+    "is_dir": false,
+    "size": "5.0 KiB",
+    "date": "28-Sep-2025 14:44"
+  },
+  {
+    "name": "ccmax2.zip",
+    "href": "ccmax2.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/coco_flop/ccmax2.zip",
+    "is_dir": false,
+    "size": "42.3 KiB",
+    "date": "28-Sep-2025 14:44"
+  },
+  {
+    "name": "ccmax2is.zip",
+    "href": "ccmax2is.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/coco_flop/ccmax2is.zip",
+    "is_dir": false,
+    "size": "43.8 KiB",
+    "date": "28-Sep-2025 14:44"
+  },
+  {
+    "name": "ccmax3.zip",
+    "href": "ccmax3.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/coco_flop/ccmax3.zip",
+    "is_dir": false,
+    "size": "495.3 KiB",
+    "date": "28-Sep-2025 14:44"
+  },
+  {
+    "name": "ccmax31.zip",
+    "href": "ccmax31.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/coco_flop/ccmax31.zip",
+    "is_dir": false,
+    "size": "498.5 KiB",
+    "date": "28-Sep-2025 14:44"
+  },
+  {
+    "name": "cnewsrm.zip",
+    "href": "cnewsrm.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/coco_flop/cnewsrm.zip",
+    "is_dir": false,
+    "size": "72.0 KiB",
+    "date": "28-Sep-2025 14:44"
+  },
+  {
+    "name": "deskmate.zip",
+    "href": "deskmate.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/coco_flop/deskmate.zip",
+    "is_dir": false,
+    "size": "93.4 KiB",
+    "date": "28-Sep-2025 14:44"
+  },
+  {
+    "name": "dkong.zip",
+    "href": "dkong.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/coco_flop/dkong.zip",
+    "is_dir": false,
+    "size": "101.7 KiB",
+    "date": "28-Sep-2025 14:44"
+  },
+  {
+    "name": "dkremix.zip",
+    "href": "dkremix.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/coco_flop/dkremix.zip",
+    "is_dir": false,
+    "size": "103.3 KiB",
+    "date": "28-Sep-2025 14:44"
+  },
+  {
+    "name": "dsedtasm.zip",
+    "href": "dsedtasm.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/coco_flop/dsedtasm.zip",
+    "is_dir": false,
+    "size": "22.9 KiB",
+    "date": "28-Sep-2025 14:44"
+  },
+  {
+    "name": "dskmate3.zip",
+    "href": "dskmate3.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/coco_flop/dskmate3.zip",
+    "is_dir": false,
+    "size": "155.4 KiB",
+    "date": "28-Sep-2025 14:44"
+  },
+  {
+    "name": "joust.zip",
+    "href": "joust.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/coco_flop/joust.zip",
+    "is_dir": false,
+    "size": "138.9 KiB",
+    "date": "28-Sep-2025 14:44"
+  },
+  {
+    "name": "mw16lpic.zip",
+    "href": "mw16lpic.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/coco_flop/mw16lpic.zip",
+    "is_dir": false,
+    "size": "11.6 KiB",
+    "date": "28-Sep-2025 14:44"
+  },
+  {
+    "name": "newspapr.zip",
+    "href": "newspapr.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/coco_flop/newspapr.zip",
+    "is_dir": false,
+    "size": "84.2 KiB",
+    "date": "28-Sep-2025 14:44"
+  },
+  {
+    "name": "pacman.zip",
+    "href": "pacman.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/coco_flop/pacman.zip",
+    "is_dir": false,
+    "size": "110.2 KiB",
+    "date": "28-Sep-2025 14:44"
+  },
+  {
+    "name": "pitfall2.zip",
+    "href": "pitfall2.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/coco_flop/pitfall2.zip",
+    "is_dir": false,
+    "size": "22.6 KiB",
+    "date": "28-Sep-2025 14:44"
+  },
+  {
+    "name": "rbwd0187.zip",
+    "href": "rbwd0187.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/coco_flop/rbwd0187.zip",
+    "is_dir": false,
+    "size": "45.1 KiB",
+    "date": "28-Sep-2025 14:44"
+  },
+  {
+    "name": "rbwd0188.zip",
+    "href": "rbwd0188.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/coco_flop/rbwd0188.zip",
+    "is_dir": false,
+    "size": "54.8 KiB",
+    "date": "28-Sep-2025 14:44"
+  },
+  {
+    "name": "rbwd0189.zip",
+    "href": "rbwd0189.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/coco_flop/rbwd0189.zip",
+    "is_dir": false,
+    "size": "31.0 KiB",
+    "date": "28-Sep-2025 14:44"
+  },
+  {
+    "name": "rbwd0190.zip",
+    "href": "rbwd0190.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/coco_flop/rbwd0190.zip",
+    "is_dir": false,
+    "size": "52.6 KiB",
+    "date": "28-Sep-2025 14:44"
+  },
+  {
+    "name": "rbwd0191.zip",
+    "href": "rbwd0191.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/coco_flop/rbwd0191.zip",
+    "is_dir": false,
+    "size": "47.8 KiB",
+    "date": "28-Sep-2025 14:44"
+  },
+  {
+    "name": "rbwd0192.zip",
+    "href": "rbwd0192.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/coco_flop/rbwd0192.zip",
+    "is_dir": false,
+    "size": "43.9 KiB",
+    "date": "28-Sep-2025 14:44"
+  },
+  {
+    "name": "rbwd0193.zip",
+    "href": "rbwd0193.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/coco_flop/rbwd0193.zip",
+    "is_dir": false,
+    "size": "9.5 KiB",
+    "date": "28-Sep-2025 14:44"
+  },
+  {
+    "name": "rbwd0287.zip",
+    "href": "rbwd0287.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/coco_flop/rbwd0287.zip",
+    "is_dir": false,
+    "size": "50.6 KiB",
+    "date": "28-Sep-2025 14:44"
+  },
+  {
+    "name": "rbwd0288.zip",
+    "href": "rbwd0288.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/coco_flop/rbwd0288.zip",
+    "is_dir": false,
+    "size": "73.4 KiB",
+    "date": "28-Sep-2025 14:44"
+  },
+  {
+    "name": "rbwd0289.zip",
+    "href": "rbwd0289.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/coco_flop/rbwd0289.zip",
+    "is_dir": false,
+    "size": "42.8 KiB",
+    "date": "28-Sep-2025 14:44"
+  },
+  {
+    "name": "rbwd0290.zip",
+    "href": "rbwd0290.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/coco_flop/rbwd0290.zip",
+    "is_dir": false,
+    "size": "53.0 KiB",
+    "date": "28-Sep-2025 14:44"
+  },
+  {
+    "name": "rbwd0291.zip",
+    "href": "rbwd0291.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/coco_flop/rbwd0291.zip",
+    "is_dir": false,
+    "size": "60.5 KiB",
+    "date": "28-Sep-2025 14:44"
+  },
+  {
+    "name": "rbwd0292.zip",
+    "href": "rbwd0292.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/coco_flop/rbwd0292.zip",
+    "is_dir": false,
+    "size": "27.6 KiB",
+    "date": "28-Sep-2025 14:44"
+  },
+  {
+    "name": "rbwd0293.zip",
+    "href": "rbwd0293.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/coco_flop/rbwd0293.zip",
+    "is_dir": false,
+    "size": "8.9 KiB",
+    "date": "28-Sep-2025 14:44"
+  },
+  {
+    "name": "rbwd0387.zip",
+    "href": "rbwd0387.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/coco_flop/rbwd0387.zip",
+    "is_dir": false,
+    "size": "67.1 KiB",
+    "date": "28-Sep-2025 14:44"
+  },
+  {
+    "name": "rbwd0388.zip",
+    "href": "rbwd0388.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/coco_flop/rbwd0388.zip",
+    "is_dir": false,
+    "size": "56.1 KiB",
+    "date": "28-Sep-2025 14:44"
+  },
+  {
+    "name": "rbwd0389.zip",
+    "href": "rbwd0389.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/coco_flop/rbwd0389.zip",
+    "is_dir": false,
+    "size": "40.1 KiB",
+    "date": "28-Sep-2025 14:44"
+  },
+  {
+    "name": "rbwd0390.zip",
+    "href": "rbwd0390.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/coco_flop/rbwd0390.zip",
+    "is_dir": false,
+    "size": "33.3 KiB",
+    "date": "28-Sep-2025 14:44"
+  },
+  {
+    "name": "rbwd0391.zip",
+    "href": "rbwd0391.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/coco_flop/rbwd0391.zip",
+    "is_dir": false,
+    "size": "26.2 KiB",
+    "date": "28-Sep-2025 14:44"
+  },
+  {
+    "name": "rbwd0392.zip",
+    "href": "rbwd0392.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/coco_flop/rbwd0392.zip",
+    "is_dir": false,
+    "size": "35.0 KiB",
+    "date": "28-Sep-2025 14:44"
+  },
+  {
+    "name": "rbwd0393.zip",
+    "href": "rbwd0393.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/coco_flop/rbwd0393.zip",
+    "is_dir": false,
+    "size": "10.0 KiB",
+    "date": "28-Sep-2025 14:44"
+  },
+  {
+    "name": "rbwd0487.zip",
+    "href": "rbwd0487.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/coco_flop/rbwd0487.zip",
+    "is_dir": false,
+    "size": "64.9 KiB",
+    "date": "28-Sep-2025 14:44"
+  },
+  {
+    "name": "rbwd0488.zip",
+    "href": "rbwd0488.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/coco_flop/rbwd0488.zip",
+    "is_dir": false,
+    "size": "67.4 KiB",
+    "date": "28-Sep-2025 14:44"
+  },
+  {
+    "name": "rbwd0489.zip",
+    "href": "rbwd0489.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/coco_flop/rbwd0489.zip",
+    "is_dir": false,
+    "size": "30.6 KiB",
+    "date": "28-Sep-2025 14:44"
+  },
+  {
+    "name": "rbwd0490.zip",
+    "href": "rbwd0490.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/coco_flop/rbwd0490.zip",
+    "is_dir": false,
+    "size": "48.8 KiB",
+    "date": "28-Sep-2025 14:44"
+  },
+  {
+    "name": "rbwd0491.zip",
+    "href": "rbwd0491.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/coco_flop/rbwd0491.zip",
+    "is_dir": false,
+    "size": "37.6 KiB",
+    "date": "28-Sep-2025 14:44"
+  },
+  {
+    "name": "rbwd0492.zip",
+    "href": "rbwd0492.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/coco_flop/rbwd0492.zip",
+    "is_dir": false,
+    "size": "37.0 KiB",
+    "date": "28-Sep-2025 14:44"
+  },
+  {
+    "name": "rbwd0493.zip",
+    "href": "rbwd0493.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/coco_flop/rbwd0493.zip",
+    "is_dir": false,
+    "size": "5.2 KiB",
+    "date": "28-Sep-2025 14:44"
+  },
+  {
+    "name": "rbwd0587.zip",
+    "href": "rbwd0587.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/coco_flop/rbwd0587.zip",
+    "is_dir": false,
+    "size": "63.8 KiB",
+    "date": "28-Sep-2025 14:44"
+  },
+  {
+    "name": "rbwd0588.zip",
+    "href": "rbwd0588.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/coco_flop/rbwd0588.zip",
+    "is_dir": false,
+    "size": "43.9 KiB",
+    "date": "28-Sep-2025 14:44"
+  },
+  {
+    "name": "rbwd0589.zip",
+    "href": "rbwd0589.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/coco_flop/rbwd0589.zip",
+    "is_dir": false,
+    "size": "45.7 KiB",
+    "date": "28-Sep-2025 14:44"
+  },
+  {
+    "name": "rbwd0590.zip",
+    "href": "rbwd0590.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/coco_flop/rbwd0590.zip",
+    "is_dir": false,
+    "size": "33.4 KiB",
+    "date": "28-Sep-2025 14:44"
+  },
+  {
+    "name": "rbwd0591.zip",
+    "href": "rbwd0591.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/coco_flop/rbwd0591.zip",
+    "is_dir": false,
+    "size": "28.4 KiB",
+    "date": "28-Sep-2025 14:44"
+  },
+  {
+    "name": "rbwd0592.zip",
+    "href": "rbwd0592.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/coco_flop/rbwd0592.zip",
+    "is_dir": false,
+    "size": "39.1 KiB",
+    "date": "28-Sep-2025 14:44"
+  },
+  {
+    "name": "rbwd0687.zip",
+    "href": "rbwd0687.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/coco_flop/rbwd0687.zip",
+    "is_dir": false,
+    "size": "58.2 KiB",
+    "date": "28-Sep-2025 14:44"
+  },
+  {
+    "name": "rbwd0688.zip",
+    "href": "rbwd0688.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/coco_flop/rbwd0688.zip",
+    "is_dir": false,
+    "size": "74.5 KiB",
+    "date": "28-Sep-2025 14:44"
+  },
+  {
+    "name": "rbwd0689.zip",
+    "href": "rbwd0689.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/coco_flop/rbwd0689.zip",
+    "is_dir": false,
+    "size": "58.9 KiB",
+    "date": "28-Sep-2025 14:44"
+  },
+  {
+    "name": "rbwd0690.zip",
+    "href": "rbwd0690.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/coco_flop/rbwd0690.zip",
+    "is_dir": false,
+    "size": "37.1 KiB",
+    "date": "28-Sep-2025 14:44"
+  },
+  {
+    "name": "rbwd0691.zip",
+    "href": "rbwd0691.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/coco_flop/rbwd0691.zip",
+    "is_dir": false,
+    "size": "51.8 KiB",
+    "date": "28-Sep-2025 14:44"
+  },
+  {
+    "name": "rbwd0692.zip",
+    "href": "rbwd0692.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/coco_flop/rbwd0692.zip",
+    "is_dir": false,
+    "size": "35.3 KiB",
+    "date": "28-Sep-2025 14:44"
+  },
+  {
+    "name": "rbwd0787.zip",
+    "href": "rbwd0787.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/coco_flop/rbwd0787.zip",
+    "is_dir": false,
+    "size": "66.2 KiB",
+    "date": "28-Sep-2025 14:44"
+  },
+  {
+    "name": "rbwd0788.zip",
+    "href": "rbwd0788.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/coco_flop/rbwd0788.zip",
+    "is_dir": false,
+    "size": "60.6 KiB",
+    "date": "28-Sep-2025 14:44"
+  },
+  {
+    "name": "rbwd0789.zip",
+    "href": "rbwd0789.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/coco_flop/rbwd0789.zip",
+    "is_dir": false,
+    "size": "68.7 KiB",
+    "date": "28-Sep-2025 14:44"
+  },
+  {
+    "name": "rbwd0790.zip",
+    "href": "rbwd0790.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/coco_flop/rbwd0790.zip",
+    "is_dir": false,
+    "size": "32.4 KiB",
+    "date": "28-Sep-2025 14:44"
+  },
+  {
+    "name": "rbwd0791.zip",
+    "href": "rbwd0791.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/coco_flop/rbwd0791.zip",
+    "is_dir": false,
+    "size": "31.5 KiB",
+    "date": "28-Sep-2025 14:44"
+  },
+  {
+    "name": "rbwd0792.zip",
+    "href": "rbwd0792.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/coco_flop/rbwd0792.zip",
+    "is_dir": false,
+    "size": "33.2 KiB",
+    "date": "28-Sep-2025 14:44"
+  },
+  {
+    "name": "rbwd0887.zip",
+    "href": "rbwd0887.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/coco_flop/rbwd0887.zip",
+    "is_dir": false,
+    "size": "47.1 KiB",
+    "date": "28-Sep-2025 14:44"
+  },
+  {
+    "name": "rbwd0888.zip",
+    "href": "rbwd0888.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/coco_flop/rbwd0888.zip",
+    "is_dir": false,
+    "size": "58.9 KiB",
+    "date": "28-Sep-2025 14:44"
+  },
+  {
+    "name": "rbwd0889.zip",
+    "href": "rbwd0889.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/coco_flop/rbwd0889.zip",
+    "is_dir": false,
+    "size": "44.9 KiB",
+    "date": "28-Sep-2025 14:44"
+  },
+  {
+    "name": "rbwd0890.zip",
+    "href": "rbwd0890.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/coco_flop/rbwd0890.zip",
+    "is_dir": false,
+    "size": "32.8 KiB",
+    "date": "28-Sep-2025 14:44"
+  },
+  {
+    "name": "rbwd0891.zip",
+    "href": "rbwd0891.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/coco_flop/rbwd0891.zip",
+    "is_dir": false,
+    "size": "81.7 KiB",
+    "date": "28-Sep-2025 14:44"
+  },
+  {
+    "name": "rbwd0892.zip",
+    "href": "rbwd0892.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/coco_flop/rbwd0892.zip",
+    "is_dir": false,
+    "size": "31.1 KiB",
+    "date": "28-Sep-2025 14:44"
+  },
+  {
+    "name": "rbwd0987.zip",
+    "href": "rbwd0987.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/coco_flop/rbwd0987.zip",
+    "is_dir": false,
+    "size": "67.2 KiB",
+    "date": "28-Sep-2025 14:44"
+  },
+  {
+    "name": "rbwd0988.zip",
+    "href": "rbwd0988.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/coco_flop/rbwd0988.zip",
+    "is_dir": false,
+    "size": "41.0 KiB",
+    "date": "28-Sep-2025 14:44"
+  },
+  {
+    "name": "rbwd0989.zip",
+    "href": "rbwd0989.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/coco_flop/rbwd0989.zip",
+    "is_dir": false,
+    "size": "34.4 KiB",
+    "date": "28-Sep-2025 14:44"
+  },
+  {
+    "name": "rbwd0990.zip",
+    "href": "rbwd0990.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/coco_flop/rbwd0990.zip",
+    "is_dir": false,
+    "size": "31.8 KiB",
+    "date": "28-Sep-2025 14:44"
+  },
+  {
+    "name": "rbwd0991.zip",
+    "href": "rbwd0991.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/coco_flop/rbwd0991.zip",
+    "is_dir": false,
+    "size": "11.5 KiB",
+    "date": "28-Sep-2025 14:44"
+  },
+  {
+    "name": "rbwd0992.zip",
+    "href": "rbwd0992.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/coco_flop/rbwd0992.zip",
+    "is_dir": false,
+    "size": "29.4 KiB",
+    "date": "28-Sep-2025 14:44"
+  },
+  {
+    "name": "rbwd1086.zip",
+    "href": "rbwd1086.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/coco_flop/rbwd1086.zip",
+    "is_dir": false,
+    "size": "59.0 KiB",
+    "date": "28-Sep-2025 14:44"
+  },
+  {
+    "name": "rbwd1087.zip",
+    "href": "rbwd1087.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/coco_flop/rbwd1087.zip",
+    "is_dir": false,
+    "size": "67.8 KiB",
+    "date": "28-Sep-2025 14:44"
+  },
+  {
+    "name": "rbwd1088.zip",
+    "href": "rbwd1088.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/coco_flop/rbwd1088.zip",
+    "is_dir": false,
+    "size": "40.7 KiB",
+    "date": "28-Sep-2025 14:44"
+  },
+  {
+    "name": "rbwd1089.zip",
+    "href": "rbwd1089.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/coco_flop/rbwd1089.zip",
+    "is_dir": false,
+    "size": "34.5 KiB",
+    "date": "28-Sep-2025 14:44"
+  },
+  {
+    "name": "rbwd1090.zip",
+    "href": "rbwd1090.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/coco_flop/rbwd1090.zip",
+    "is_dir": false,
+    "size": "32.1 KiB",
+    "date": "28-Sep-2025 14:44"
+  },
+  {
+    "name": "rbwd1091.zip",
+    "href": "rbwd1091.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/coco_flop/rbwd1091.zip",
+    "is_dir": false,
+    "size": "47.8 KiB",
+    "date": "28-Sep-2025 14:44"
+  },
+  {
+    "name": "rbwd1092.zip",
+    "href": "rbwd1092.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/coco_flop/rbwd1092.zip",
+    "is_dir": false,
+    "size": "26.8 KiB",
+    "date": "28-Sep-2025 14:44"
+  },
+  {
+    "name": "rbwd1186.zip",
+    "href": "rbwd1186.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/coco_flop/rbwd1186.zip",
+    "is_dir": false,
+    "size": "46.5 KiB",
+    "date": "28-Sep-2025 14:44"
+  },
+  {
+    "name": "rbwd1187.zip",
+    "href": "rbwd1187.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/coco_flop/rbwd1187.zip",
+    "is_dir": false,
+    "size": "54.1 KiB",
+    "date": "28-Sep-2025 14:44"
+  },
+  {
+    "name": "rbwd1188.zip",
+    "href": "rbwd1188.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/coco_flop/rbwd1188.zip",
+    "is_dir": false,
+    "size": "78.0 KiB",
+    "date": "28-Sep-2025 14:44"
+  },
+  {
+    "name": "rbwd1189.zip",
+    "href": "rbwd1189.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/coco_flop/rbwd1189.zip",
+    "is_dir": false,
+    "size": "37.8 KiB",
+    "date": "28-Sep-2025 14:44"
+  },
+  {
+    "name": "rbwd1190.zip",
+    "href": "rbwd1190.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/coco_flop/rbwd1190.zip",
+    "is_dir": false,
+    "size": "25.4 KiB",
+    "date": "28-Sep-2025 14:44"
+  },
+  {
+    "name": "rbwd1191.zip",
+    "href": "rbwd1191.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/coco_flop/rbwd1191.zip",
+    "is_dir": false,
+    "size": "33.0 KiB",
+    "date": "28-Sep-2025 14:44"
+  },
+  {
+    "name": "rbwd1192.zip",
+    "href": "rbwd1192.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/coco_flop/rbwd1192.zip",
+    "is_dir": false,
+    "size": "29.0 KiB",
+    "date": "28-Sep-2025 14:44"
+  },
+  {
+    "name": "rbwd1286.zip",
+    "href": "rbwd1286.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/coco_flop/rbwd1286.zip",
+    "is_dir": false,
+    "size": "44.2 KiB",
+    "date": "28-Sep-2025 14:44"
+  },
+  {
+    "name": "rbwd1287.zip",
+    "href": "rbwd1287.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/coco_flop/rbwd1287.zip",
+    "is_dir": false,
+    "size": "48.5 KiB",
+    "date": "28-Sep-2025 14:44"
+  },
+  {
+    "name": "rbwd1288.zip",
+    "href": "rbwd1288.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/coco_flop/rbwd1288.zip",
+    "is_dir": false,
+    "size": "74.6 KiB",
+    "date": "28-Sep-2025 14:44"
+  },
+  {
+    "name": "rbwd1289.zip",
+    "href": "rbwd1289.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/coco_flop/rbwd1289.zip",
+    "is_dir": false,
+    "size": "44.5 KiB",
+    "date": "28-Sep-2025 14:44"
+  },
+  {
+    "name": "rbwd1290.zip",
+    "href": "rbwd1290.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/coco_flop/rbwd1290.zip",
+    "is_dir": false,
+    "size": "43.7 KiB",
+    "date": "28-Sep-2025 14:44"
+  },
+  {
+    "name": "rbwd1291.zip",
+    "href": "rbwd1291.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/coco_flop/rbwd1291.zip",
+    "is_dir": false,
+    "size": "19.0 KiB",
+    "date": "28-Sep-2025 14:44"
+  },
+  {
+    "name": "rbwd1292.zip",
+    "href": "rbwd1292.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/coco_flop/rbwd1292.zip",
+    "is_dir": false,
+    "size": "7.7 KiB",
+    "date": "28-Sep-2025 14:44"
+  },
+  {
+    "name": "twritr64.zip",
+    "href": "twritr64.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/coco_flop/twritr64.zip",
+    "is_dir": false,
+    "size": "14.8 KiB",
+    "date": "28-Sep-2025 14:44"
+  },
+  {
+    "name": "zonx.zip",
+    "href": "zonx.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28split%29/coco_flop/zonx.zip",
+    "is_dir": false,
+    "size": "2.1 KiB",
+    "date": "28-Sep-2025 14:44"
+  }
+]

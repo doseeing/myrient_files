@@ -1,0 +1,42 @@
+[
+  {
+    "name": "brochures",
+    "href": "brochures/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/imi/brochures/",
+    "is_dir": true,
+    "size": null,
+    "date": "05-Mar-2008 16:38"
+  },
+  {
+    "name": "firmware",
+    "href": "firmware/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/imi/firmware/",
+    "is_dir": true,
+    "size": null,
+    "date": "19-Jan-2011 03:32"
+  },
+  {
+    "name": "photos",
+    "href": "photos/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/imi/photos/",
+    "is_dir": true,
+    "size": null,
+    "date": "19-Jan-2011 03:28"
+  },
+  {
+    "name": "7710-01-00_7710_Disc_Drive_Product_Specification_Jan79.pdf",
+    "href": "7710-01-00_7710_Disc_Drive_Product_Specification_Jan79.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/imi/7710-01-00_7710_Disc_Drive_Product_Specification_Jan79.pdf",
+    "is_dir": false,
+    "size": "1.4 MiB",
+    "date": "30-Dec-2010 16:08"
+  },
+  {
+    "name": "7710-01-04_IMI_7710_Disc_Drive_Product_Specification_Aug79.pdf",
+    "href": "7710-01-04_IMI_7710_Disc_Drive_Product_Specification_Aug79.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/imi/7710-01-04_IMI_7710_Disc_Drive_Product_Specification_Aug79.pdf",
+    "is_dir": false,
+    "size": "2.0 MiB",
+    "date": "28-Dec-2016 04:08"
+  }
+]

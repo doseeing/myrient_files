@@ -1,0 +1,170 @@
+[
+  {
+    "name": "batch",
+    "href": "batch/",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe/Singe2-ports-gungames/batch/",
+    "is_dir": true,
+    "size": null,
+    "date": "08-Dec-2025 11:16"
+  },
+  {
+    "name": "bezels",
+    "href": "bezels/",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe/Singe2-ports-gungames/bezels/",
+    "is_dir": true,
+    "size": null,
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "fonts",
+    "href": "fonts/",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe/Singe2-ports-gungames/fonts/",
+    "is_dir": true,
+    "size": null,
+    "date": "01-Dec-2025 17:59"
+  },
+  {
+    "name": "midi",
+    "href": "midi/",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe/Singe2-ports-gungames/midi/",
+    "is_dir": true,
+    "size": null,
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "pics",
+    "href": "pics/",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe/Singe2-ports-gungames/pics/",
+    "is_dir": true,
+    "size": null,
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "singe",
+    "href": "singe/",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe/Singe2-ports-gungames/singe/",
+    "is_dir": true,
+    "size": null,
+    "date": "01-Dec-2025 17:59"
+  },
+  {
+    "name": "sound",
+    "href": "sound/",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe/Singe2-ports-gungames/sound/",
+    "is_dir": true,
+    "size": null,
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "LICENSE",
+    "href": "LICENSE",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe/Singe2-ports-gungames/LICENSE",
+    "is_dir": false,
+    "size": "31.7 KiB",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "README.txt",
+    "href": "README.txt",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe/Singe2-ports-gungames/README.txt",
+    "is_dir": false,
+    "size": "3.8 KiB",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "README_BEZELS.txt",
+    "href": "README_BEZELS.txt",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe/Singe2-ports-gungames/README_BEZELS.txt",
+    "is_dir": false,
+    "size": "2.2 KiB",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "gamecontrollerdb.txt",
+    "href": "gamecontrollerdb.txt",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe/Singe2-ports-gungames/gamecontrollerdb.txt",
+    "is_dir": false,
+    "size": "551.7 KiB",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "hypinput.ini",
+    "href": "hypinput.ini",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe/Singe2-ports-gungames/hypinput.ini",
+    "is_dir": false,
+    "size": "1.1 KiB",
+    "date": "08-Dec-2025 09:42"
+  },
+  {
+    "name": "hypjsch.exe",
+    "href": "hypjsch.exe",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe/Singe2-ports-gungames/hypjsch.exe",
+    "is_dir": false,
+    "size": "2.6 MiB",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "hypseus-logo.png",
+    "href": "hypseus-logo.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe/Singe2-ports-gungames/hypseus-logo.png",
+    "is_dir": false,
+    "size": "112.2 KiB",
+    "date": "28-Nov-2025 06:43"
+  },
+  {
+    "name": "hypseus.exe",
+    "href": "hypseus.exe",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe/Singe2-ports-gungames/hypseus.exe",
+    "is_dir": false,
+    "size": "14.6 MiB",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "hypseus_subsystem.exe",
+    "href": "hypseus_subsystem.exe",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe/Singe2-ports-gungames/hypseus_subsystem.exe",
+    "is_dir": false,
+    "size": "14.6 MiB",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "libgcc_s_seh-1.dll",
+    "href": "libgcc_s_seh-1.dll",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe/Singe2-ports-gungames/libgcc_s_seh-1.dll",
+    "is_dir": false,
+    "size": "114.7 KiB",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "libstdc++-6.dll",
+    "href": "libstdc%2B%2B-6.dll",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe/Singe2-ports-gungames/libstdc%2B%2B-6.dll",
+    "is_dir": false,
+    "size": "2.2 MiB",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "libwinpthread-1.dll",
+    "href": "libwinpthread-1.dll",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe/Singe2-ports-gungames/libwinpthread-1.dll",
+    "is_dir": false,
+    "size": "59.3 KiB",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "libzip.dll",
+    "href": "libzip.dll",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe/Singe2-ports-gungames/libzip.dll",
+    "is_dir": false,
+    "size": "164.0 KiB",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "zlib1.dll",
+    "href": "zlib1.dll",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe/Singe2-ports-gungames/zlib1.dll",
+    "is_dir": false,
+    "size": "118.0 KiB",
+    "date": "04-Dec-2025 01:42"
+  }
+]

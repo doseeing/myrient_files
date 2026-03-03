@@ -1,0 +1,338 @@
+[
+  {
+    "name": "ALTAIR",
+    "href": "ALTAIR/",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/simh_v2.9-10/ALTAIR/",
+    "is_dir": true,
+    "size": null,
+    "date": "26-Oct-2004 21:25"
+  },
+  {
+    "name": "AltairZ80",
+    "href": "AltairZ80/",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/simh_v2.9-10/AltairZ80/",
+    "is_dir": true,
+    "size": null,
+    "date": "26-Oct-2004 21:25"
+  },
+  {
+    "name": "BIN",
+    "href": "BIN/",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/simh_v2.9-10/BIN/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Jun-2005 07:00"
+  },
+  {
+    "name": "H316",
+    "href": "H316/",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/simh_v2.9-10/H316/",
+    "is_dir": true,
+    "size": null,
+    "date": "26-Oct-2004 21:25"
+  },
+  {
+    "name": "HP2100",
+    "href": "HP2100/",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/simh_v2.9-10/HP2100/",
+    "is_dir": true,
+    "size": null,
+    "date": "26-Oct-2004 21:25"
+  },
+  {
+    "name": "I1401",
+    "href": "I1401/",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/simh_v2.9-10/I1401/",
+    "is_dir": true,
+    "size": null,
+    "date": "26-Oct-2004 21:25"
+  },
+  {
+    "name": "I1401-supnik",
+    "href": "I1401-supnik/",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/simh_v2.9-10/I1401-supnik/",
+    "is_dir": true,
+    "size": null,
+    "date": "26-Oct-2004 21:25"
+  },
+  {
+    "name": "I1620",
+    "href": "I1620/",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/simh_v2.9-10/I1620/",
+    "is_dir": true,
+    "size": null,
+    "date": "26-Oct-2004 20:17"
+  },
+  {
+    "name": "Ibm1130",
+    "href": "Ibm1130/",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/simh_v2.9-10/Ibm1130/",
+    "is_dir": true,
+    "size": null,
+    "date": "26-Oct-2004 21:25"
+  },
+  {
+    "name": "Interdata",
+    "href": "Interdata/",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/simh_v2.9-10/Interdata/",
+    "is_dir": true,
+    "size": null,
+    "date": "26-Oct-2004 20:17"
+  },
+  {
+    "name": "NOVA",
+    "href": "NOVA/",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/simh_v2.9-10/NOVA/",
+    "is_dir": true,
+    "size": null,
+    "date": "26-Oct-2004 21:26"
+  },
+  {
+    "name": "PDP1",
+    "href": "PDP1/",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/simh_v2.9-10/PDP1/",
+    "is_dir": true,
+    "size": null,
+    "date": "26-Oct-2004 21:26"
+  },
+  {
+    "name": "PDP10",
+    "href": "PDP10/",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/simh_v2.9-10/PDP10/",
+    "is_dir": true,
+    "size": null,
+    "date": "26-Oct-2004 21:26"
+  },
+  {
+    "name": "PDP11",
+    "href": "PDP11/",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/simh_v2.9-10/PDP11/",
+    "is_dir": true,
+    "size": null,
+    "date": "26-Oct-2004 21:26"
+  },
+  {
+    "name": "PDP18B",
+    "href": "PDP18B/",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/simh_v2.9-10/PDP18B/",
+    "is_dir": true,
+    "size": null,
+    "date": "26-Oct-2004 21:26"
+  },
+  {
+    "name": "PDP8",
+    "href": "PDP8/",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/simh_v2.9-10/PDP8/",
+    "is_dir": true,
+    "size": null,
+    "date": "26-Oct-2004 21:26"
+  },
+  {
+    "name": "S3",
+    "href": "S3/",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/simh_v2.9-10/S3/",
+    "is_dir": true,
+    "size": null,
+    "date": "26-Oct-2004 21:26"
+  },
+  {
+    "name": "SDS",
+    "href": "SDS/",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/simh_v2.9-10/SDS/",
+    "is_dir": true,
+    "size": null,
+    "date": "26-Oct-2004 20:17"
+  },
+  {
+    "name": "TOOLS",
+    "href": "TOOLS/",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/simh_v2.9-10/TOOLS/",
+    "is_dir": true,
+    "size": null,
+    "date": "26-Oct-2004 20:17"
+  },
+  {
+    "name": "VAX",
+    "href": "VAX/",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/simh_v2.9-10/VAX/",
+    "is_dir": true,
+    "size": null,
+    "date": "26-Oct-2004 21:27"
+  },
+  {
+    "name": "0readme29.txt",
+    "href": "0readme29.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/simh_v2.9-10/0readme29.txt",
+    "is_dir": false,
+    "size": "1.2 KiB",
+    "date": "09-Jun-2002 03:45"
+  },
+  {
+    "name": "Makefile",
+    "href": "Makefile",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/simh_v2.9-10/Makefile",
+    "is_dir": false,
+    "size": "5.5 KiB",
+    "date": "17-Jun-2002 19:04"
+  },
+  {
+    "name": "build_mingw.bat",
+    "href": "build_mingw.bat",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/simh_v2.9-10/build_mingw.bat",
+    "is_dir": false,
+    "size": "2.8 KiB",
+    "date": "18-May-2002 20:39"
+  },
+  {
+    "name": "build_vms.com",
+    "href": "build_vms.com",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/simh_v2.9-10/build_vms.com",
+    "is_dir": false,
+    "size": "26.1 KiB",
+    "date": "22-May-2002 03:21"
+  },
+  {
+    "name": "dec_dz.h",
+    "href": "dec_dz.h",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/simh_v2.9-10/dec_dz.h",
+    "is_dir": false,
+    "size": "19.9 KiB",
+    "date": "28-Apr-2002 17:14"
+  },
+  {
+    "name": "dec_mscp.h",
+    "href": "dec_mscp.h",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/simh_v2.9-10/dec_mscp.h",
+    "is_dir": false,
+    "size": "11.7 KiB",
+    "date": "04-Jan-2002 04:37"
+  },
+  {
+    "name": "dec_uqssp.h",
+    "href": "dec_uqssp.h",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/simh_v2.9-10/dec_uqssp.h",
+    "is_dir": false,
+    "size": "5.6 KiB",
+    "date": "04-Jan-2002 04:37"
+  },
+  {
+    "name": "scp.c",
+    "href": "scp.c",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/simh_v2.9-10/scp.c",
+    "is_dir": false,
+    "size": "94.0 KiB",
+    "date": "18-May-2002 20:26"
+  },
+  {
+    "name": "scp_tty.c",
+    "href": "scp_tty.c",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/simh_v2.9-10/scp_tty.c",
+    "is_dir": false,
+    "size": "16.8 KiB",
+    "date": "18-May-2002 18:19"
+  },
+  {
+    "name": "sim_defs.h",
+    "href": "sim_defs.h",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/simh_v2.9-10/sim_defs.h",
+    "is_dir": false,
+    "size": "13.9 KiB",
+    "date": "03-May-2002 01:23"
+  },
+  {
+    "name": "sim_rev.h",
+    "href": "sim_rev.h",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/simh_v2.9-10/sim_rev.h",
+    "is_dir": false,
+    "size": "11.0 KiB",
+    "date": "08-Jun-2002 20:31"
+  },
+  {
+    "name": "sim_sock.c",
+    "href": "sim_sock.c",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/simh_v2.9-10/sim_sock.c",
+    "is_dir": false,
+    "size": "6.2 KiB",
+    "date": "23-May-2002 04:44"
+  },
+  {
+    "name": "sim_sock.h",
+    "href": "sim_sock.h",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/simh_v2.9-10/sim_sock.h",
+    "is_dir": false,
+    "size": "2.7 KiB",
+    "date": "30-Apr-2002 11:01"
+  },
+  {
+    "name": "sim_tmxr.c",
+    "href": "sim_tmxr.c",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/simh_v2.9-10/sim_tmxr.c",
+    "is_dir": false,
+    "size": "13.2 KiB",
+    "date": "31-Jan-2002 04:16"
+  },
+  {
+    "name": "sim_tmxr.h",
+    "href": "sim_tmxr.h",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/simh_v2.9-10/sim_tmxr.h",
+    "is_dir": false,
+    "size": "3.3 KiB",
+    "date": "29-Dec-2001 22:11"
+  },
+  {
+    "name": "sim_vt.c",
+    "href": "sim_vt.c",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/simh_v2.9-10/sim_vt.c",
+    "is_dir": false,
+    "size": "15.7 KiB",
+    "date": "18-May-2002 18:01"
+  },
+  {
+    "name": "sim_vt.h",
+    "href": "sim_vt.h",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/simh_v2.9-10/sim_vt.h",
+    "is_dir": false,
+    "size": "1.6 KiB",
+    "date": "25-Apr-2002 00:26"
+  },
+  {
+    "name": "simh.doc",
+    "href": "simh.doc",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/simh_v2.9-10/simh.doc",
+    "is_dir": false,
+    "size": "162.7 KiB",
+    "date": "02-Oct-2002 02:14"
+  },
+  {
+    "name": "simh_doc.txt",
+    "href": "simh_doc.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/simh_v2.9-10/simh_doc.txt",
+    "is_dir": false,
+    "size": "37.6 KiB",
+    "date": "23-May-2002 04:47"
+  },
+  {
+    "name": "simh_swre.txt",
+    "href": "simh_swre.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/simh_v2.9-10/simh_swre.txt",
+    "is_dir": false,
+    "size": "18.4 KiB",
+    "date": "04-Apr-2002 05:00"
+  },
+  {
+    "name": "simh_vmio.doc",
+    "href": "simh_vmio.doc",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/simh_v2.9-10/simh_vmio.doc",
+    "is_dir": false,
+    "size": "50.5 KiB",
+    "date": "02-Oct-2002 02:14"
+  },
+  {
+    "name": "simhv29-10.zip",
+    "href": "simhv29-10.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/simh_v2.9-10/simhv29-10.zip",
+    "is_dir": false,
+    "size": "1.1 MiB",
+    "date": "17-Jun-2002 18:55"
+  }
+]

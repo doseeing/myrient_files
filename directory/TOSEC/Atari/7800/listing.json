@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Applications",
+    "href": "Applications/",
+    "url": "https://myrient.erista.me/files/TOSEC/Atari/7800/Applications/",
+    "is_dir": true,
+    "size": null,
+    "date": "16-Oct-2025 16:55"
+  },
+  {
+    "name": "Demos",
+    "href": "Demos/",
+    "url": "https://myrient.erista.me/files/TOSEC/Atari/7800/Demos/",
+    "is_dir": true,
+    "size": null,
+    "date": "16-Oct-2025 16:55"
+  },
+  {
+    "name": "Firmware",
+    "href": "Firmware/",
+    "url": "https://myrient.erista.me/files/TOSEC/Atari/7800/Firmware/",
+    "is_dir": true,
+    "size": null,
+    "date": "16-Oct-2025 16:55"
+  },
+  {
+    "name": "Games",
+    "href": "Games/",
+    "url": "https://myrient.erista.me/files/TOSEC/Atari/7800/Games/",
+    "is_dir": true,
+    "size": null,
+    "date": "16-Oct-2025 16:55"
+  },
+  {
+    "name": "Homebrew",
+    "href": "Homebrew/",
+    "url": "https://myrient.erista.me/files/TOSEC/Atari/7800/Homebrew/",
+    "is_dir": true,
+    "size": null,
+    "date": "16-Oct-2025 16:55"
+  }
+]

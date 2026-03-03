@@ -1,0 +1,90 @@
+[
+  {
+    "name": "bulletins",
+    "href": "bulletins/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/3M/bulletins/",
+    "is_dir": true,
+    "size": null,
+    "date": "10-Apr-2025 17:04"
+  },
+  {
+    "name": "disk",
+    "href": "disk/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/3M/disk/",
+    "is_dir": true,
+    "size": null,
+    "date": "22-Jul-2023 17:26"
+  },
+  {
+    "name": "history",
+    "href": "history/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/3M/history/",
+    "is_dir": true,
+    "size": null,
+    "date": "13-Apr-2025 23:43"
+  },
+  {
+    "name": "microfiche",
+    "href": "microfiche/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/3M/microfiche/",
+    "is_dir": true,
+    "size": null,
+    "date": "22-Jul-2023 17:27"
+  },
+  {
+    "name": "patents",
+    "href": "patents/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/3M/patents/",
+    "is_dir": true,
+    "size": null,
+    "date": "10-Apr-2025 02:30"
+  },
+  {
+    "name": "photos",
+    "href": "photos/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/3M/photos/",
+    "is_dir": true,
+    "size": null,
+    "date": "03-Aug-2020 21:26"
+  },
+  {
+    "name": "playback",
+    "href": "playback/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/3M/playback/",
+    "is_dir": true,
+    "size": null,
+    "date": "10-Apr-2025 17:48"
+  },
+  {
+    "name": "tape_drives",
+    "href": "tape_drives/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/3M/tape_drives/",
+    "is_dir": true,
+    "size": null,
+    "date": "22-Jul-2023 17:26"
+  },
+  {
+    "name": "tape_media",
+    "href": "tape_media/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/3M/tape_media/",
+    "is_dir": true,
+    "size": null,
+    "date": "13-Apr-2025 21:30"
+  },
+  {
+    "name": "terminal",
+    "href": "terminal/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/3M/terminal/",
+    "is_dir": true,
+    "size": null,
+    "date": "26-Sep-2025 16:42"
+  },
+  {
+    "name": "3M_Diskette_Reference_Manual_May83.pdf",
+    "href": "3M_Diskette_Reference_Manual_May83.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/3M/3M_Diskette_Reference_Manual_May83.pdf",
+    "is_dir": false,
+    "size": "1.6 MiB",
+    "date": "10-Mar-2011 02:18"
+  }
+]

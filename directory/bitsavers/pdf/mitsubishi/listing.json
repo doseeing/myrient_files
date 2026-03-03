@@ -1,0 +1,34 @@
+[
+  {
+    "name": "disk",
+    "href": "disk/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/mitsubishi/disk/",
+    "is_dir": true,
+    "size": null,
+    "date": "14-Aug-2022 00:34"
+  },
+  {
+    "name": "floppy",
+    "href": "floppy/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/mitsubishi/floppy/",
+    "is_dir": true,
+    "size": null,
+    "date": "01-Sep-2022 17:52"
+  },
+  {
+    "name": "monitor",
+    "href": "monitor/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/mitsubishi/monitor/",
+    "is_dir": true,
+    "size": null,
+    "date": "19-Jun-2019 19:33"
+  },
+  {
+    "name": "Mitsubishi_VLSI_MOS_Memory_RAM_ROM_and_Memory_Cards_Jan91.pdf",
+    "href": "Mitsubishi_VLSI_MOS_Memory_RAM_ROM_and_Memory_Cards_Jan91.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/mitsubishi/Mitsubishi_VLSI_MOS_Memory_RAM_ROM_and_Memory_Cards_Jan91.pdf",
+    "is_dir": false,
+    "size": "10.1 MiB",
+    "date": "22-Jun-2016 21:58"
+  }
+]

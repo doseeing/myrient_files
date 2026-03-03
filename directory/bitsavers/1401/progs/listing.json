@@ -1,0 +1,178 @@
+[
+  {
+    "name": "1410-os",
+    "href": "1410-os/",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/progs/1410-os/",
+    "is_dir": true,
+    "size": null,
+    "date": "26-Oct-2004 21:16"
+  },
+  {
+    "name": "2-tape-autocoder",
+    "href": "2-tape-autocoder/",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/progs/2-tape-autocoder/",
+    "is_dir": true,
+    "size": null,
+    "date": "26-Oct-2004 21:16"
+  },
+  {
+    "name": "Fortran",
+    "href": "Fortran/",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/progs/Fortran/",
+    "is_dir": true,
+    "size": null,
+    "date": "17-Apr-2005 07:01"
+  },
+  {
+    "name": "autocoder",
+    "href": "autocoder/",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/progs/autocoder/",
+    "is_dir": true,
+    "size": null,
+    "date": "09-Jan-2009 07:38"
+  },
+  {
+    "name": "boot-loaders",
+    "href": "boot-loaders/",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/progs/boot-loaders/",
+    "is_dir": true,
+    "size": null,
+    "date": "17-Apr-2005 07:01"
+  },
+  {
+    "name": "bresenham",
+    "href": "bresenham/",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/progs/bresenham/",
+    "is_dir": true,
+    "size": null,
+    "date": "26-Oct-2004 21:19"
+  },
+  {
+    "name": "diagtape",
+    "href": "diagtape/",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/progs/diagtape/",
+    "is_dir": true,
+    "size": null,
+    "date": "18-Oct-2005 07:00"
+  },
+  {
+    "name": "dump",
+    "href": "dump/",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/progs/dump/",
+    "is_dir": true,
+    "size": null,
+    "date": "26-Oct-2004 21:20"
+  },
+  {
+    "name": "dump-from-Germany",
+    "href": "dump-from-Germany/",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/progs/dump-from-Germany/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Jun-2005 07:00"
+  },
+  {
+    "name": "sps",
+    "href": "sps/",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/progs/sps/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Jun-2005 07:00"
+  },
+  {
+    "name": "taperr",
+    "href": "taperr/",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/progs/taperr/",
+    "is_dir": true,
+    "size": null,
+    "date": "26-Oct-2004 21:20"
+  },
+  {
+    "name": "aulist",
+    "href": "aulist",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/progs/aulist",
+    "is_dir": false,
+    "size": "94 B",
+    "date": "17-Jun-2002 19:56"
+  },
+  {
+    "name": "foval.cd",
+    "href": "foval.cd",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/progs/foval.cd",
+    "is_dir": false,
+    "size": "10.4 KiB",
+    "date": "18-Jun-2002 17:53"
+  },
+  {
+    "name": "foval.lst",
+    "href": "foval.lst",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/progs/foval.lst",
+    "is_dir": false,
+    "size": "91.2 KiB",
+    "date": "18-Jun-2002 17:53"
+  },
+  {
+    "name": "foval.prn",
+    "href": "foval.prn",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/progs/foval.prn",
+    "is_dir": false,
+    "size": "80.0 KiB",
+    "date": "15-Jun-2002 04:22"
+  },
+  {
+    "name": "foval.ps",
+    "href": "foval.ps",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/progs/foval.ps",
+    "is_dir": false,
+    "size": "121.6 KiB",
+    "date": "18-Jun-2002 17:53"
+  },
+  {
+    "name": "foval.s",
+    "href": "foval.s",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/progs/foval.s",
+    "is_dir": false,
+    "size": "25.3 KiB",
+    "date": "18-Jun-2002 17:50"
+  },
+  {
+    "name": "foval.tgz",
+    "href": "foval.tgz",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/progs/foval.tgz",
+    "is_dir": false,
+    "size": "39.7 KiB",
+    "date": "18-Jun-2002 18:11"
+  },
+  {
+    "name": "linkage.lst",
+    "href": "linkage.lst",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/progs/linkage.lst",
+    "is_dir": false,
+    "size": "1.6 KiB",
+    "date": "24-May-2002 20:37"
+  },
+  {
+    "name": "linkage.s",
+    "href": "linkage.s",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/progs/linkage.s",
+    "is_dir": false,
+    "size": "483 B",
+    "date": "24-May-2002 20:37"
+  },
+  {
+    "name": "tape_print.dck",
+    "href": "tape_print.dck",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/progs/tape_print.dck",
+    "is_dir": false,
+    "size": "238 B",
+    "date": "25-Apr-2002 18:40"
+  },
+  {
+    "name": "zatest.cd",
+    "href": "zatest.cd",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/progs/zatest.cd",
+    "is_dir": false,
+    "size": "102 B",
+    "date": "03-Jul-2002 23:58"
+  }
+]

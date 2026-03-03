@@ -1,0 +1,5378 @@
+[
+  {
+    "name": "128dfs.zip",
+    "href": "128dfs.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/128dfs.zip",
+    "is_dir": false,
+    "size": "1.6 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "2ndserial.zip",
+    "href": "2ndserial.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/2ndserial.zip",
+    "is_dir": false,
+    "size": "3.2 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "6502basic.zip",
+    "href": "6502basic.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/6502basic.zip",
+    "is_dir": false,
+    "size": "909 B",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "65c02asm.zip",
+    "href": "65c02asm.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/65c02asm.zip",
+    "is_dir": false,
+    "size": "12.2 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "65c02dev.zip",
+    "href": "65c02dev.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/65c02dev.zip",
+    "is_dir": false,
+    "size": "27.0 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "abe.zip",
+    "href": "abe.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/abe.zip",
+    "is_dir": false,
+    "size": "21.5 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "abep.zip",
+    "href": "abep.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/abep.zip",
+    "is_dir": false,
+    "size": "21.5 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "accel.zip",
+    "href": "accel.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/accel.zip",
+    "is_dir": false,
+    "size": "84.2 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "acom.zip",
+    "href": "acom.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/acom.zip",
+    "is_dir": false,
+    "size": "11.6 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "acp.zip",
+    "href": "acp.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/acp.zip",
+    "is_dir": false,
+    "size": "58.9 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "addcomm.zip",
+    "href": "addcomm.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/addcomm.zip",
+    "is_dir": false,
+    "size": "24.7 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "adder.zip",
+    "href": "adder.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/adder.zip",
+    "is_dir": false,
+    "size": "8.0 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "adder101.zip",
+    "href": "adder101.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/adder101.zip",
+    "is_dir": false,
+    "size": "7.9 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "ade.zip",
+    "href": "ade.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/ade.zip",
+    "is_dir": false,
+    "size": "49.6 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "adeplus.zip",
+    "href": "adeplus.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/adeplus.zip",
+    "is_dir": false,
+    "size": "56.5 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "adfs130.zip",
+    "href": "adfs130.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/adfs130.zip",
+    "is_dir": false,
+    "size": "23.3 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "adfs150.zip",
+    "href": "adfs150.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/adfs150.zip",
+    "is_dir": false,
+    "size": "71.1 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "adfs32b140.zip",
+    "href": "adfs32b140.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/adfs32b140.zip",
+    "is_dir": false,
+    "size": "10.8 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "adfs32m140.zip",
+    "href": "adfs32m140.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/adfs32m140.zip",
+    "is_dir": false,
+    "size": "11.1 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "adfsutil.zip",
+    "href": "adfsutil.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/adfsutil.zip",
+    "is_dir": false,
+    "size": "23.5 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "adi.zip",
+    "href": "adi.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/adi.zip",
+    "is_dir": false,
+    "size": "71.5 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "adt.zip",
+    "href": "adt.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/adt.zip",
+    "is_dir": false,
+    "size": "160.4 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "advbasic.zip",
+    "href": "advbasic.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/advbasic.zip",
+    "is_dir": false,
+    "size": "24.1 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "advdfsb.zip",
+    "href": "advdfsb.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/advdfsb.zip",
+    "is_dir": false,
+    "size": "25.0 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "advdfsm.zip",
+    "href": "advdfsm.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/advdfsm.zip",
+    "is_dir": false,
+    "size": "33.7 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "advros.zip",
+    "href": "advros.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/advros.zip",
+    "is_dir": false,
+    "size": "11.6 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "aerodrom.zip",
+    "href": "aerodrom.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/aerodrom.zip",
+    "is_dir": false,
+    "size": "9.3 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "afm.zip",
+    "href": "afm.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/afm.zip",
+    "is_dir": false,
+    "size": "34.7 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "aid.zip",
+    "href": "aid.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/aid.zip",
+    "is_dir": false,
+    "size": "5.8 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "aids.zip",
+    "href": "aids.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/aids.zip",
+    "is_dir": false,
+    "size": "3.4 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "aids2.zip",
+    "href": "aids2.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/aids2.zip",
+    "is_dir": false,
+    "size": "6.2 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "alantool.zip",
+    "href": "alantool.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/alantool.zip",
+    "is_dir": false,
+    "size": "10.7 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "amdfsa.zip",
+    "href": "amdfsa.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/amdfsa.zip",
+    "is_dir": false,
+    "size": "29.9 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "amdfsb.zip",
+    "href": "amdfsb.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/amdfsb.zip",
+    "is_dir": false,
+    "size": "18.5 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "amenetb.zip",
+    "href": "amenetb.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/amenetb.zip",
+    "is_dir": false,
+    "size": "25.9 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "amenetm.zip",
+    "href": "amenetm.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/amenetm.zip",
+    "is_dir": false,
+    "size": "7.4 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "amfax.zip",
+    "href": "amfax.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/amfax.zip",
+    "is_dir": false,
+    "size": "11.6 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "ample.zip",
+    "href": "ample.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/ample.zip",
+    "is_dir": false,
+    "size": "64.7 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "amsdutil.zip",
+    "href": "amsdutil.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/amsdutil.zip",
+    "is_dir": false,
+    "size": "5.1 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "amt1.zip",
+    "href": "amt1.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/amt1.zip",
+    "is_dir": false,
+    "size": "5.4 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "amtor2.zip",
+    "href": "amtor2.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/amtor2.zip",
+    "is_dir": false,
+    "size": "10.8 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "amwfsb.zip",
+    "href": "amwfsb.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/amwfsb.zip",
+    "is_dir": false,
+    "size": "47.0 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "amxdesgn.zip",
+    "href": "amxdesgn.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/amxdesgn.zip",
+    "is_dir": false,
+    "size": "19.6 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "amxmax.zip",
+    "href": "amxmax.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/amxmax.zip",
+    "is_dir": false,
+    "size": "11.5 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "amxpagem.zip",
+    "href": "amxpagem.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/amxpagem.zip",
+    "is_dir": false,
+    "size": "55.5 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "amxstpress.zip",
+    "href": "amxstpress.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/amxstpress.zip",
+    "is_dir": false,
+    "size": "19.5 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "amxsup2.zip",
+    "href": "amxsup2.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/amxsup2.zip",
+    "is_dir": false,
+    "size": "9.4 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "amxsup3.zip",
+    "href": "amxsup3.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/amxsup3.zip",
+    "is_dir": false,
+    "size": "34.2 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "amxsupm3.zip",
+    "href": "amxsupm3.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/amxsupm3.zip",
+    "is_dir": false,
+    "size": "22.9 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "anfs408.zip",
+    "href": "anfs408.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/anfs408.zip",
+    "is_dir": false,
+    "size": "12.3 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "anfs418.zip",
+    "href": "anfs418.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/anfs418.zip",
+    "is_dir": false,
+    "size": "12.3 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "anfs421.zip",
+    "href": "anfs421.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/anfs421.zip",
+    "is_dir": false,
+    "size": "12.4 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "anfs424.zip",
+    "href": "anfs424.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/anfs424.zip",
+    "is_dir": false,
+    "size": "12.4 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "anfs425.zip",
+    "href": "anfs425.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/anfs425.zip",
+    "is_dir": false,
+    "size": "12.4 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "apb.zip",
+    "href": "apb.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/apb.zip",
+    "is_dir": false,
+    "size": "1.4 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "arabic.zip",
+    "href": "arabic.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/arabic.zip",
+    "is_dir": false,
+    "size": "7.8 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "arcadian.zip",
+    "href": "arcadian.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/arcadian.zip",
+    "is_dir": false,
+    "size": "13.4 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "archive.zip",
+    "href": "archive.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/archive.zip",
+    "is_dir": false,
+    "size": "6.2 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "ariesb20.zip",
+    "href": "ariesb20.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/ariesb20.zip",
+    "is_dir": false,
+    "size": "2.5 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "ariesb32.zip",
+    "href": "ariesb32.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/ariesb32.zip",
+    "is_dir": false,
+    "size": "8.7 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "arkanoid.zip",
+    "href": "arkanoid.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/arkanoid.zip",
+    "is_dir": false,
+    "size": "7.4 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "arm.zip",
+    "href": "arm.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/arm.zip",
+    "is_dir": false,
+    "size": "24.9 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "artist.zip",
+    "href": "artist.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/artist.zip",
+    "is_dir": false,
+    "size": "45.4 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "artscomm.zip",
+    "href": "artscomm.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/artscomm.zip",
+    "is_dir": false,
+    "size": "3.7 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "asm.zip",
+    "href": "asm.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/asm.zip",
+    "is_dir": false,
+    "size": "5.2 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "asm2.zip",
+    "href": "asm2.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/asm2.zip",
+    "is_dir": false,
+    "size": "5.8 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "asrom.zip",
+    "href": "asrom.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/asrom.zip",
+    "is_dir": false,
+    "size": "3.2 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "ats.zip",
+    "href": "ats.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/ats.zip",
+    "is_dir": false,
+    "size": "82.6 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "atsp.zip",
+    "href": "atsp.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/atsp.zip",
+    "is_dir": false,
+    "size": "21.5 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "autosave.zip",
+    "href": "autosave.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/autosave.zip",
+    "is_dir": false,
+    "size": "4.1 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "axr.zip",
+    "href": "axr.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/axr.zip",
+    "is_dir": false,
+    "size": "10.7 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "b2p.zip",
+    "href": "b2p.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/b2p.zip",
+    "is_dir": false,
+    "size": "6.2 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "barrybox.zip",
+    "href": "barrybox.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/barrybox.zip",
+    "is_dir": false,
+    "size": "7.2 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "basic1.zip",
+    "href": "basic1.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/basic1.zip",
+    "is_dir": false,
+    "size": "12.1 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "basic2.zip",
+    "href": "basic2.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/basic2.zip",
+    "is_dir": false,
+    "size": "12.2 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "basiced.zip",
+    "href": "basiced.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/basiced.zip",
+    "is_dir": false,
+    "size": "11.6 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "basicext.zip",
+    "href": "basicext.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/basicext.zip",
+    "is_dir": false,
+    "size": "5.8 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "bcpl.zip",
+    "href": "bcpl.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/bcpl.zip",
+    "is_dir": false,
+    "size": "12.8 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "beast.zip",
+    "href": "beast.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/beast.zip",
+    "is_dir": false,
+    "size": "3.8 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "beebaid.zip",
+    "href": "beebaid.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/beebaid.zip",
+    "is_dir": false,
+    "size": "21.3 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "beebaid105.zip",
+    "href": "beebaid105.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/beebaid105.zip",
+    "is_dir": false,
+    "size": "10.8 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "beebase.zip",
+    "href": "beebase.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/beebase.zip",
+    "is_dir": false,
+    "size": "15.8 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "beebcalc.zip",
+    "href": "beebcalc.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/beebcalc.zip",
+    "is_dir": false,
+    "size": "22.0 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "beebed.zip",
+    "href": "beebed.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/beebed.zip",
+    "is_dir": false,
+    "size": "6.0 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "beebflex.zip",
+    "href": "beebflex.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/beebflex.zip",
+    "is_dir": false,
+    "size": "2.5 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "beebfont.zip",
+    "href": "beebfont.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/beebfont.zip",
+    "is_dir": false,
+    "size": "12.8 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "beebman.zip",
+    "href": "beebman.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/beebman.zip",
+    "is_dir": false,
+    "size": "3.3 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "beebmon.zip",
+    "href": "beebmon.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/beebmon.zip",
+    "is_dir": false,
+    "size": "5.9 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "beebpen.zip",
+    "href": "beebpen.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/beebpen.zip",
+    "is_dir": false,
+    "size": "11.5 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "beebrom.zip",
+    "href": "beebrom.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/beebrom.zip",
+    "is_dir": false,
+    "size": "1.4 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "beebscan.zip",
+    "href": "beebscan.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/beebscan.zip",
+    "is_dir": false,
+    "size": "19.9 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "beebsupp.zip",
+    "href": "beebsupp.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/beebsupp.zip",
+    "is_dir": false,
+    "size": "9.5 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "beebtel.zip",
+    "href": "beebtel.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/beebtel.zip",
+    "is_dir": false,
+    "size": "8.3 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "beebugc.zip",
+    "href": "beebugc.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/beebugc.zip",
+    "is_dir": false,
+    "size": "44.2 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "bet.zip",
+    "href": "bet.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/bet.zip",
+    "is_dir": false,
+    "size": "21.4 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "bitstik.zip",
+    "href": "bitstik.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/bitstik.zip",
+    "is_dir": false,
+    "size": "11.2 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "bitstik2.zip",
+    "href": "bitstik2.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/bitstik2.zip",
+    "is_dir": false,
+    "size": "5.7 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "booster.zip",
+    "href": "booster.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/booster.zip",
+    "is_dir": false,
+    "size": "6.0 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "brom.zip",
+    "href": "brom.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/brom.zip",
+    "is_dir": false,
+    "size": "18.5 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "bromp.zip",
+    "href": "bromp.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/bromp.zip",
+    "is_dir": false,
+    "size": "12.3 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "bsdos.zip",
+    "href": "bsdos.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/bsdos.zip",
+    "is_dir": false,
+    "size": "24.0 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "bufbckup.zip",
+    "href": "bufbckup.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/bufbckup.zip",
+    "is_dir": false,
+    "size": "5.3 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "caretakr.zip",
+    "href": "caretakr.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/caretakr.zip",
+    "is_dir": false,
+    "size": "23.1 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "castleq.zip",
+    "href": "castleq.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/castleq.zip",
+    "is_dir": false,
+    "size": "9.0 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "centurn.zip",
+    "href": "centurn.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/centurn.zip",
+    "is_dir": false,
+    "size": "25.0 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "chadfs.zip",
+    "href": "chadfs.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/chadfs.zip",
+    "is_dir": false,
+    "size": "23.2 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "chall.zip",
+    "href": "chall.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/chall.zip",
+    "is_dir": false,
+    "size": "36.2 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "chameleon.zip",
+    "href": "chameleon.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/chameleon.zip",
+    "is_dir": false,
+    "size": "662 B",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "charset.zip",
+    "href": "charset.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/charset.zip",
+    "is_dir": false,
+    "size": "16.8 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "chauffeur.zip",
+    "href": "chauffeur.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/chauffeur.zip",
+    "is_dir": false,
+    "size": "3.7 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "chuckie.zip",
+    "href": "chuckie.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/chuckie.zip",
+    "is_dir": false,
+    "size": "6.9 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "cmsflex.zip",
+    "href": "cmsflex.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/cmsflex.zip",
+    "is_dir": false,
+    "size": "6.4 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "cmslink.zip",
+    "href": "cmslink.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/cmslink.zip",
+    "is_dir": false,
+    "size": "2.0 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "cncdfs.zip",
+    "href": "cncdfs.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/cncdfs.zip",
+    "is_dir": false,
+    "size": "12.7 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "coldump.zip",
+    "href": "coldump.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/coldump.zip",
+    "is_dir": false,
+    "size": "5.6 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "colourjet.zip",
+    "href": "colourjet.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/colourjet.zip",
+    "is_dir": false,
+    "size": "2.5 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "comal.zip",
+    "href": "comal.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/comal.zip",
+    "is_dir": false,
+    "size": "13.0 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "command.zip",
+    "href": "command.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/command.zip",
+    "is_dir": false,
+    "size": "36.0 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "commandm.zip",
+    "href": "commandm.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/commandm.zip",
+    "is_dir": false,
+    "size": "12.1 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "commnctr.zip",
+    "href": "commnctr.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/commnctr.zip",
+    "is_dir": false,
+    "size": "38.7 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "commpanion.zip",
+    "href": "commpanion.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/commpanion.zip",
+    "is_dir": false,
+    "size": "11.9 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "commsoft.zip",
+    "href": "commsoft.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/commsoft.zip",
+    "is_dir": false,
+    "size": "47.7 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "commstar.zip",
+    "href": "commstar.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/commstar.zip",
+    "is_dir": false,
+    "size": "93.2 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "commstar2.zip",
+    "href": "commstar2.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/commstar2.zip",
+    "is_dir": false,
+    "size": "44.9 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "compas2d.zip",
+    "href": "compas2d.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/compas2d.zip",
+    "is_dir": false,
+    "size": "2.3 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "compasadv.zip",
+    "href": "compasadv.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/compasadv.zip",
+    "is_dir": false,
+    "size": "2.4 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "conquest.zip",
+    "href": "conquest.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/conquest.zip",
+    "is_dir": false,
+    "size": "19.0 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "control.zip",
+    "href": "control.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/control.zip",
+    "is_dir": false,
+    "size": "9.2 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "cookie.zip",
+    "href": "cookie.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/cookie.zip",
+    "is_dir": false,
+    "size": "10.8 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "cpfs.zip",
+    "href": "cpfs.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/cpfs.zip",
+    "is_dir": false,
+    "size": "10.9 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "cpn071.zip",
+    "href": "cpn071.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/cpn071.zip",
+    "is_dir": false,
+    "size": "11.0 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "cprom.zip",
+    "href": "cprom.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/cprom.zip",
+    "is_dir": false,
+    "size": "9.8 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "ctsplt.zip",
+    "href": "ctsplt.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/ctsplt.zip",
+    "is_dir": false,
+    "size": "1.3 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "database.zip",
+    "href": "database.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/database.zip",
+    "is_dir": false,
+    "size": "18.0 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "databeeb.zip",
+    "href": "databeeb.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/databeeb.zip",
+    "is_dir": false,
+    "size": "12.1 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "datagem.zip",
+    "href": "datagem.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/datagem.zip",
+    "is_dir": false,
+    "size": "29.8 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "datascrib.zip",
+    "href": "datascrib.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/datascrib.zip",
+    "is_dir": false,
+    "size": "35.0 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "datastag.zip",
+    "href": "datastag.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/datastag.zip",
+    "is_dir": false,
+    "size": "5.8 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "dblprecsn.zip",
+    "href": "dblprecsn.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/dblprecsn.zip",
+    "is_dir": false,
+    "size": "1.7 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "dblview.zip",
+    "href": "dblview.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/dblview.zip",
+    "is_dir": false,
+    "size": "23.3 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "ddfs310.zip",
+    "href": "ddfs310.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/ddfs310.zip",
+    "is_dir": false,
+    "size": "43.4 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "ddos202.zip",
+    "href": "ddos202.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/ddos202.zip",
+    "is_dir": false,
+    "size": "10.0 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "ddos305.zip",
+    "href": "ddos305.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/ddos305.zip",
+    "is_dir": false,
+    "size": "22.6 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "ddos316.zip",
+    "href": "ddos316.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/ddos316.zip",
+    "is_dir": false,
+    "size": "82.1 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "ddos336.zip",
+    "href": "ddos336.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/ddos336.zip",
+    "is_dir": false,
+    "size": "48.1 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "ddos346.zip",
+    "href": "ddos346.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/ddos346.zip",
+    "is_dir": false,
+    "size": "72.3 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "ddt.zip",
+    "href": "ddt.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/ddt.zip",
+    "is_dir": false,
+    "size": "3.5 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "debug.zip",
+    "href": "debug.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/debug.zip",
+    "is_dir": false,
+    "size": "11.3 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "decce.zip",
+    "href": "decce.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/decce.zip",
+    "is_dir": false,
+    "size": "5.4 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "demomc.zip",
+    "href": "demomc.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/demomc.zip",
+    "is_dir": false,
+    "size": "15.9 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "demon.zip",
+    "href": "demon.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/demon.zip",
+    "is_dir": false,
+    "size": "12.1 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "desrom.zip",
+    "href": "desrom.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/desrom.zip",
+    "is_dir": false,
+    "size": "9.4 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "detalker.zip",
+    "href": "detalker.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/detalker.zip",
+    "is_dir": false,
+    "size": "7.4 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "dfs226.zip",
+    "href": "dfs226.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/dfs226.zip",
+    "is_dir": false,
+    "size": "71.8 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "dfs245.zip",
+    "href": "dfs245.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/dfs245.zip",
+    "is_dir": false,
+    "size": "12.7 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "dfsaid.zip",
+    "href": "dfsaid.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/dfsaid.zip",
+    "is_dir": false,
+    "size": "5.9 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "diagram.zip",
+    "href": "diagram.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/diagram.zip",
+    "is_dir": false,
+    "size": "28.5 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "diagram1.zip",
+    "href": "diagram1.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/diagram1.zip",
+    "is_dir": false,
+    "size": "10.8 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "diagram2.zip",
+    "href": "diagram2.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/diagram2.zip",
+    "is_dir": false,
+    "size": "10.9 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "diary.zip",
+    "href": "diary.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/diary.zip",
+    "is_dir": false,
+    "size": "5.6 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "digitisr.zip",
+    "href": "digitisr.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/digitisr.zip",
+    "is_dir": false,
+    "size": "4.8 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "digitisra.zip",
+    "href": "digitisra.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/digitisra.zip",
+    "is_dir": false,
+    "size": "4.8 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "digtldrw.zip",
+    "href": "digtldrw.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/digtldrw.zip",
+    "is_dir": false,
+    "size": "17.6 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "disasm.zip",
+    "href": "disasm.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/disasm.zip",
+    "is_dir": false,
+    "size": "5.9 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "discaid.zip",
+    "href": "discaid.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/discaid.zip",
+    "is_dir": false,
+    "size": "9.7 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "discdoc.zip",
+    "href": "discdoc.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/discdoc.zip",
+    "is_dir": false,
+    "size": "39.5 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "discmenu.zip",
+    "href": "discmenu.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/discmenu.zip",
+    "is_dir": false,
+    "size": "7.4 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "discserv.zip",
+    "href": "discserv.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/discserv.zip",
+    "is_dir": false,
+    "size": "4.8 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "disczap.zip",
+    "href": "disczap.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/disczap.zip",
+    "is_dir": false,
+    "size": "5.0 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "disczap2.zip",
+    "href": "disczap2.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/disczap2.zip",
+    "is_dir": false,
+    "size": "4.7 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "dmaster.zip",
+    "href": "dmaster.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/dmaster.zip",
+    "is_dir": false,
+    "size": "9.9 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "dmon.zip",
+    "href": "dmon.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/dmon.zip",
+    "is_dir": false,
+    "size": "14.1 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "dmpmastr.zip",
+    "href": "dmpmastr.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/dmpmastr.zip",
+    "is_dir": false,
+    "size": "32.5 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "dmter54.zip",
+    "href": "dmter54.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/dmter54.zip",
+    "is_dir": false,
+    "size": "4.1 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "dnfs120.zip",
+    "href": "dnfs120.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/dnfs120.zip",
+    "is_dir": false,
+    "size": "69.6 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "dosfsb.zip",
+    "href": "dosfsb.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/dosfsb.zip",
+    "is_dir": false,
+    "size": "4.5 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "dosfsm.zip",
+    "href": "dosfsm.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/dosfsm.zip",
+    "is_dir": false,
+    "size": "4.5 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "dotprintp.zip",
+    "href": "dotprintp.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/dotprintp.zip",
+    "is_dir": false,
+    "size": "7.9 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "drwhomin.zip",
+    "href": "drwhomin.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/drwhomin.zip",
+    "is_dir": false,
+    "size": "6.6 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "dumpout.zip",
+    "href": "dumpout.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/dumpout.zip",
+    "is_dir": false,
+    "size": "4.1 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "dumpout3.zip",
+    "href": "dumpout3.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/dumpout3.zip",
+    "is_dir": false,
+    "size": "27.2 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "dvcats.zip",
+    "href": "dvcats.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/dvcats.zip",
+    "is_dir": false,
+    "size": "3.1 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "dvdem1.zip",
+    "href": "dvdem1.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/dvdem1.zip",
+    "is_dir": false,
+    "size": "4.4 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "dykasay.zip",
+    "href": "dykasay.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/dykasay.zip",
+    "is_dir": false,
+    "size": "6.0 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "easytalk.zip",
+    "href": "easytalk.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/easytalk.zip",
+    "is_dir": false,
+    "size": "13.8 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "ebbs.zip",
+    "href": "ebbs.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/ebbs.zip",
+    "is_dir": false,
+    "size": "3.9 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "econrom.zip",
+    "href": "econrom.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/econrom.zip",
+    "is_dir": false,
+    "size": "4.3 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "edikit.zip",
+    "href": "edikit.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/edikit.zip",
+    "is_dir": false,
+    "size": "9.7 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "edit.zip",
+    "href": "edit.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/edit.zip",
+    "is_dir": false,
+    "size": "10.9 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "edword.zip",
+    "href": "edword.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/edword.zip",
+    "is_dir": false,
+    "size": "21.6 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "edword2.zip",
+    "href": "edword2.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/edword2.zip",
+    "is_dir": false,
+    "size": "23.3 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "enigma.zip",
+    "href": "enigma.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/enigma.zip",
+    "is_dir": false,
+    "size": "69.7 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "envelope.zip",
+    "href": "envelope.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/envelope.zip",
+    "is_dir": false,
+    "size": "2.6 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "epic.zip",
+    "href": "epic.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/epic.zip",
+    "is_dir": false,
+    "size": "8.9 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "eprom.zip",
+    "href": "eprom.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/eprom.zip",
+    "is_dir": false,
+    "size": "18.1 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "epromer2.zip",
+    "href": "epromer2.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/epromer2.zip",
+    "is_dir": false,
+    "size": "12.8 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "epromer3.zip",
+    "href": "epromer3.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/epromer3.zip",
+    "is_dir": false,
+    "size": "16.9 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "epromp.zip",
+    "href": "epromp.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/epromp.zip",
+    "is_dir": false,
+    "size": "7.6 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "epromp103.zip",
+    "href": "epromp103.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/epromp103.zip",
+    "is_dir": false,
+    "size": "7.1 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "epromp2.zip",
+    "href": "epromp2.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/epromp2.zip",
+    "is_dir": false,
+    "size": "26.8 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "epsondmp.zip",
+    "href": "epsondmp.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/epsondmp.zip",
+    "is_dir": false,
+    "size": "5.2 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "epsonfx.zip",
+    "href": "epsonfx.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/epsonfx.zip",
+    "is_dir": false,
+    "size": "3.4 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "epsonnlq.zip",
+    "href": "epsonnlq.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/epsonnlq.zip",
+    "is_dir": false,
+    "size": "3.8 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "etl3800a.zip",
+    "href": "etl3800a.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/etl3800a.zip",
+    "is_dir": false,
+    "size": "17.0 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "eurobeeb4.zip",
+    "href": "eurobeeb4.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/eurobeeb4.zip",
+    "is_dir": false,
+    "size": "4.8 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "everest.zip",
+    "href": "everest.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/everest.zip",
+    "is_dir": false,
+    "size": "8.9 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "exmon.zip",
+    "href": "exmon.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/exmon.zip",
+    "is_dir": false,
+    "size": "9.6 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "exmon2.zip",
+    "href": "exmon2.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/exmon2.zip",
+    "is_dir": false,
+    "size": "27.5 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "expermnt.zip",
+    "href": "expermnt.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/expermnt.zip",
+    "is_dir": false,
+    "size": "5.6 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "exrom.zip",
+    "href": "exrom.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/exrom.zip",
+    "is_dir": false,
+    "size": "21.1 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "extras.zip",
+    "href": "extras.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/extras.zip",
+    "is_dir": false,
+    "size": "5.8 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "fanfare.zip",
+    "href": "fanfare.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/fanfare.zip",
+    "is_dir": false,
+    "size": "8.7 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "fastboot.zip",
+    "href": "fastboot.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/fastboot.zip",
+    "is_dir": false,
+    "size": "3.5 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "fbbs3.zip",
+    "href": "fbbs3.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/fbbs3.zip",
+    "is_dir": false,
+    "size": "7.3 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "fft.zip",
+    "href": "fft.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/fft.zip",
+    "is_dir": false,
+    "size": "2.4 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "fileplus.zip",
+    "href": "fileplus.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/fileplus.zip",
+    "is_dir": false,
+    "size": "11.9 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "firstaid.zip",
+    "href": "firstaid.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/firstaid.zip",
+    "is_dir": false,
+    "size": "7.7 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "fit.zip",
+    "href": "fit.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/fit.zip",
+    "is_dir": false,
+    "size": "10.8 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "flopcopy.zip",
+    "href": "flopcopy.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/flopcopy.zip",
+    "is_dir": false,
+    "size": "2.7 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "flopwise.zip",
+    "href": "flopwise.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/flopwise.zip",
+    "is_dir": false,
+    "size": "10.7 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "flopwisem.zip",
+    "href": "flopwisem.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/flopwisem.zip",
+    "is_dir": false,
+    "size": "11.6 KiB",
+    "date": "28-Sep-2025 02:38"
+  },
+  {
+    "name": "flopwisep.zip",
+    "href": "flopwisep.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/flopwisep.zip",
+    "is_dir": false,
+    "size": "56.8 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "fmon.zip",
+    "href": "fmon.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/fmon.zip",
+    "is_dir": false,
+    "size": "4.7 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "fontaid.zip",
+    "href": "fontaid.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/fontaid.zip",
+    "is_dir": false,
+    "size": "2.5 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "forth.zip",
+    "href": "forth.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/forth.zip",
+    "is_dir": false,
+    "size": "9.5 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "forth79.zip",
+    "href": "forth79.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/forth79.zip",
+    "is_dir": false,
+    "size": "11.5 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "forthjwb.zip",
+    "href": "forthjwb.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/forthjwb.zip",
+    "is_dir": false,
+    "size": "17.8 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "fortran.zip",
+    "href": "fortran.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/fortran.zip",
+    "is_dir": false,
+    "size": "9.1 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "frak.zip",
+    "href": "frak.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/frak.zip",
+    "is_dir": false,
+    "size": "8.4 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "ft2000.zip",
+    "href": "ft2000.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/ft2000.zip",
+    "is_dir": false,
+    "size": "6.8 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "futures.zip",
+    "href": "futures.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/futures.zip",
+    "is_dir": false,
+    "size": "9.5 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "gdump.zip",
+    "href": "gdump.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/gdump.zip",
+    "is_dir": false,
+    "size": "8.9 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "genie.zip",
+    "href": "genie.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/genie.zip",
+    "is_dir": false,
+    "size": "38.9 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "genieclk.zip",
+    "href": "genieclk.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/genieclk.zip",
+    "is_dir": false,
+    "size": "3.8 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "geniejr.zip",
+    "href": "geniejr.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/geniejr.zip",
+    "is_dir": false,
+    "size": "20.0 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "genutils.zip",
+    "href": "genutils.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/genutils.zip",
+    "is_dir": false,
+    "size": "13.9 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "gforth.zip",
+    "href": "gforth.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/gforth.zip",
+    "is_dir": false,
+    "size": "22.4 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "gianttxt.zip",
+    "href": "gianttxt.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/gianttxt.zip",
+    "is_dir": false,
+    "size": "4.4 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "ginn.zip",
+    "href": "ginn.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/ginn.zip",
+    "is_dir": false,
+    "size": "11.3 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "gommctool.zip",
+    "href": "gommctool.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/gommctool.zip",
+    "is_dir": false,
+    "size": "36.0 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "gr_chuckie.zip",
+    "href": "gr_chuckie.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/gr_chuckie.zip",
+    "is_dir": false,
+    "size": "6.9 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "gr_hopper.zip",
+    "href": "gr_hopper.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/gr_hopper.zip",
+    "is_dir": false,
+    "size": "6.4 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "gr_missile.zip",
+    "href": "gr_missile.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/gr_missile.zip",
+    "is_dir": false,
+    "size": "10.3 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "gr_rocketra.zip",
+    "href": "gr_rocketra.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/gr_rocketra.zip",
+    "is_dir": false,
+    "size": "6.8 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "gr_snapper.zip",
+    "href": "gr_snapper.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/gr_snapper.zip",
+    "is_dir": false,
+    "size": "12.2 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "grafpad2.zip",
+    "href": "grafpad2.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/grafpad2.zip",
+    "is_dir": false,
+    "size": "15.7 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "graphics.zip",
+    "href": "graphics.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/graphics.zip",
+    "is_dir": false,
+    "size": "19.6 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "graphsys.zip",
+    "href": "graphsys.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/graphsys.zip",
+    "is_dir": false,
+    "size": "5.8 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "gremlin.zip",
+    "href": "gremlin.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/gremlin.zip",
+    "is_dir": false,
+    "size": "10.4 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "grphterm.zip",
+    "href": "grphterm.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/grphterm.zip",
+    "is_dir": false,
+    "size": "3.0 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "gxrb.zip",
+    "href": "gxrb.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/gxrb.zip",
+    "is_dir": false,
+    "size": "21.6 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "gxrbp.zip",
+    "href": "gxrbp.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/gxrbp.zip",
+    "is_dir": false,
+    "size": "10.9 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "hadfs.zip",
+    "href": "hadfs.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/hadfs.zip",
+    "is_dir": false,
+    "size": "25.2 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "hdfs.zip",
+    "href": "hdfs.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/hdfs.zip",
+    "is_dir": false,
+    "size": "12.0 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "hebrew.zip",
+    "href": "hebrew.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/hebrew.zip",
+    "is_dir": false,
+    "size": "5.2 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "help.zip",
+    "href": "help.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/help.zip",
+    "is_dir": false,
+    "size": "12.7 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "help2.zip",
+    "href": "help2.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/help2.zip",
+    "is_dir": false,
+    "size": "12.1 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "helphand.zip",
+    "href": "helphand.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/helphand.zip",
+    "is_dir": false,
+    "size": "19.1 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "hermes.zip",
+    "href": "hermes.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/hermes.zip",
+    "is_dir": false,
+    "size": "5.9 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "hibasic3.zip",
+    "href": "hibasic3.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/hibasic3.zip",
+    "is_dir": false,
+    "size": "12.2 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "hibasic4.zip",
+    "href": "hibasic4.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/hibasic4.zip",
+    "is_dir": false,
+    "size": "12.7 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "hkrutils.zip",
+    "href": "hkrutils.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/hkrutils.zip",
+    "is_dir": false,
+    "size": "9.4 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "hobbit.zip",
+    "href": "hobbit.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/hobbit.zip",
+    "is_dir": false,
+    "size": "5.8 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "hyperdrv.zip",
+    "href": "hyperdrv.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/hyperdrv.zip",
+    "is_dir": false,
+    "size": "49.9 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "i2c.zip",
+    "href": "i2c.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/i2c.zip",
+    "is_dir": false,
+    "size": "3.8 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "ibase.zip",
+    "href": "ibase.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/ibase.zip",
+    "is_dir": false,
+    "size": "88.2 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "ibos.zip",
+    "href": "ibos.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/ibos.zip",
+    "is_dir": false,
+    "size": "113.7 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "ichart.zip",
+    "href": "ichart.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/ichart.zip",
+    "is_dir": false,
+    "size": "35.5 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "iconmstr.zip",
+    "href": "iconmstr.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/iconmstr.zip",
+    "is_dir": false,
+    "size": "9.2 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "ieee.zip",
+    "href": "ieee.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/ieee.zip",
+    "is_dir": false,
+    "size": "22.3 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "ieeefs.zip",
+    "href": "ieeefs.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/ieeefs.zip",
+    "is_dir": false,
+    "size": "13.3 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "imagep.zip",
+    "href": "imagep.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/imagep.zip",
+    "is_dir": false,
+    "size": "5.3 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "index.zip",
+    "href": "index.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/index.zip",
+    "is_dir": false,
+    "size": "2.5 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "indxutil.zip",
+    "href": "indxutil.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/indxutil.zip",
+    "is_dir": false,
+    "size": "13.9 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "informnt.zip",
+    "href": "informnt.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/informnt.zip",
+    "is_dir": false,
+    "size": "10.2 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "instat.zip",
+    "href": "instat.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/instat.zip",
+    "is_dir": false,
+    "size": "19.2 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "isheet.zip",
+    "href": "isheet.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/isheet.zip",
+    "is_dir": false,
+    "size": "92.2 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "isopascal.zip",
+    "href": "isopascal.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/isopascal.zip",
+    "is_dir": false,
+    "size": "49.0 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "iword.zip",
+    "href": "iword.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/iword.zip",
+    "is_dir": false,
+    "size": "92.6 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "kenda.zip",
+    "href": "kenda.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/kenda.zip",
+    "is_dir": false,
+    "size": "12.5 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "kermit.zip",
+    "href": "kermit.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/kermit.zip",
+    "is_dir": false,
+    "size": "51.3 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "keypad.zip",
+    "href": "keypad.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/keypad.zip",
+    "is_dir": false,
+    "size": "1.8 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "killergo.zip",
+    "href": "killergo.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/killergo.zip",
+    "is_dir": false,
+    "size": "10.6 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "kix.zip",
+    "href": "kix.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/kix.zip",
+    "is_dir": false,
+    "size": "9.1 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "kmon.zip",
+    "href": "kmon.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/kmon.zip",
+    "is_dir": false,
+    "size": "5.7 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "lambda7.zip",
+    "href": "lambda7.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/lambda7.zip",
+    "is_dir": false,
+    "size": "9.2 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "lanman.zip",
+    "href": "lanman.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/lanman.zip",
+    "is_dir": false,
+    "size": "14.5 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "lemodem.zip",
+    "href": "lemodem.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/lemodem.zip",
+    "is_dir": false,
+    "size": "19.6 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "lemon.zip",
+    "href": "lemon.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/lemon.zip",
+    "is_dir": false,
+    "size": "15.3 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "linemstr.zip",
+    "href": "linemstr.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/linemstr.zip",
+    "is_dir": false,
+    "size": "6.6 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "lisp.zip",
+    "href": "lisp.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/lisp.zip",
+    "is_dir": false,
+    "size": "38.9 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "logoa.zip",
+    "href": "logoa.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/logoa.zip",
+    "is_dir": false,
+    "size": "25.5 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "logoc.zip",
+    "href": "logoc.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/logoc.zip",
+    "is_dir": false,
+    "size": "25.0 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "logofrth.zip",
+    "href": "logofrth.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/logofrth.zip",
+    "is_dir": false,
+    "size": "11.0 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "logol.zip",
+    "href": "logol.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/logol.zip",
+    "is_dir": false,
+    "size": "24.3 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "lucifer.zip",
+    "href": "lucifer.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/lucifer.zip",
+    "is_dir": false,
+    "size": "10.0 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "lvldos.zip",
+    "href": "lvldos.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/lvldos.zip",
+    "is_dir": false,
+    "size": "6.3 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "lvlecho.zip",
+    "href": "lvlecho.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/lvlecho.zip",
+    "is_dir": false,
+    "size": "10.6 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "lvlsdos.zip",
+    "href": "lvlsdos.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/lvlsdos.zip",
+    "is_dir": false,
+    "size": "7.4 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "lxtools.zip",
+    "href": "lxtools.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/lxtools.zip",
+    "is_dir": false,
+    "size": "4.8 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "mach1.zip",
+    "href": "mach1.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/mach1.zip",
+    "is_dir": false,
+    "size": "29.0 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "mass.zip",
+    "href": "mass.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/mass.zip",
+    "is_dir": false,
+    "size": "5.6 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "master.zip",
+    "href": "master.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/master.zip",
+    "is_dir": false,
+    "size": "88.9 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "masterem.zip",
+    "href": "masterem.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/masterem.zip",
+    "is_dir": false,
+    "size": "59.4 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "masterom.zip",
+    "href": "masterom.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/masterom.zip",
+    "is_dir": false,
+    "size": "10.7 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "matrix.zip",
+    "href": "matrix.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/matrix.zip",
+    "is_dir": false,
+    "size": "11.0 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "maxim.zip",
+    "href": "maxim.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/maxim.zip",
+    "is_dir": false,
+    "size": "11.9 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "mbcopy.zip",
+    "href": "mbcopy.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/mbcopy.zip",
+    "is_dir": false,
+    "size": "7.0 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "mbinject.zip",
+    "href": "mbinject.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/mbinject.zip",
+    "is_dir": false,
+    "size": "10.6 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "mcl.zip",
+    "href": "mcl.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/mcl.zip",
+    "is_dir": false,
+    "size": "9.7 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "mcp041cbl.zip",
+    "href": "mcp041cbl.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/mcp041cbl.zip",
+    "is_dir": false,
+    "size": "10.5 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "mcp101ab.zip",
+    "href": "mcp101ab.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/mcp101ab.zip",
+    "is_dir": false,
+    "size": "10.9 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "mcp120cbl.zip",
+    "href": "mcp120cbl.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/mcp120cbl.zip",
+    "is_dir": false,
+    "size": "10.8 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "mcp121abl.zip",
+    "href": "mcp121abl.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/mcp121abl.zip",
+    "is_dir": false,
+    "size": "10.9 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "mcp121abw.zip",
+    "href": "mcp121abw.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/mcp121abw.zip",
+    "is_dir": false,
+    "size": "11.0 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "mcp122abm.zip",
+    "href": "mcp122abm.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/mcp122abm.zip",
+    "is_dir": false,
+    "size": "11.0 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "mcp122abw.zip",
+    "href": "mcp122abw.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/mcp122abw.zip",
+    "is_dir": false,
+    "size": "11.0 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "mcp202cbm.zip",
+    "href": "mcp202cbm.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/mcp202cbm.zip",
+    "is_dir": false,
+    "size": "10.9 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "medmon.zip",
+    "href": "medmon.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/medmon.zip",
+    "is_dir": false,
+    "size": "3.4 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "mega3.zip",
+    "href": "mega3.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/mega3.zip",
+    "is_dir": false,
+    "size": "70.4 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "megarom.zip",
+    "href": "megarom.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/megarom.zip",
+    "is_dir": false,
+    "size": "34.2 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "memex256.zip",
+    "href": "memex256.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/memex256.zip",
+    "is_dir": false,
+    "size": "6.7 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "memexb20.zip",
+    "href": "memexb20.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/memexb20.zip",
+    "is_dir": false,
+    "size": "1.3 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "menurom.zip",
+    "href": "menurom.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/menurom.zip",
+    "is_dir": false,
+    "size": "13.0 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "merlin.zip",
+    "href": "merlin.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/merlin.zip",
+    "is_dir": false,
+    "size": "11.6 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "metaasm2.zip",
+    "href": "metaasm2.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/metaasm2.zip",
+    "is_dir": false,
+    "size": "23.9 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "metaasm3.zip",
+    "href": "metaasm3.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/metaasm3.zip",
+    "is_dir": false,
+    "size": "60.3 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "mfontnlq.zip",
+    "href": "mfontnlq.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/mfontnlq.zip",
+    "is_dir": false,
+    "size": "5.1 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "mfontntq.zip",
+    "href": "mfontntq.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/mfontntq.zip",
+    "is_dir": false,
+    "size": "33.2 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "mforth83.zip",
+    "href": "mforth83.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/mforth83.zip",
+    "is_dir": false,
+    "size": "22.3 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "micrn.zip",
+    "href": "micrn.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/micrn.zip",
+    "is_dir": false,
+    "size": "2.7 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "micrnet.zip",
+    "href": "micrnet.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/micrnet.zip",
+    "is_dir": false,
+    "size": "10.8 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "micrnet2k.zip",
+    "href": "micrnet2k.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/micrnet2k.zip",
+    "is_dir": false,
+    "size": "10.8 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "micrnpls.zip",
+    "href": "micrnpls.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/micrnpls.zip",
+    "is_dir": false,
+    "size": "23.6 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "microc.zip",
+    "href": "microc.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/microc.zip",
+    "is_dir": false,
+    "size": "11.2 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "microloop.zip",
+    "href": "microloop.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/microloop.zip",
+    "is_dir": false,
+    "size": "8.9 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "micromon.zip",
+    "href": "micromon.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/micromon.zip",
+    "is_dir": false,
+    "size": "3.9 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "microtxt.zip",
+    "href": "microtxt.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/microtxt.zip",
+    "is_dir": false,
+    "size": "11.8 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "microtxtp.zip",
+    "href": "microtxtp.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/microtxtp.zip",
+    "is_dir": false,
+    "size": "21.3 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "micrprlg.zip",
+    "href": "micrprlg.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/micrprlg.zip",
+    "is_dir": false,
+    "size": "10.1 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "midos.zip",
+    "href": "midos.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/midos.zip",
+    "is_dir": false,
+    "size": "6.4 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "midwdfs.zip",
+    "href": "midwdfs.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/midwdfs.zip",
+    "is_dir": false,
+    "size": "11.8 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "mmfs.zip",
+    "href": "mmfs.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/mmfs.zip",
+    "is_dir": false,
+    "size": "10.8 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "mmfst.zip",
+    "href": "mmfst.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/mmfst.zip",
+    "is_dir": false,
+    "size": "10.9 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "modemc.zip",
+    "href": "modemc.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/modemc.zip",
+    "is_dir": false,
+    "size": "2.9 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "moffice2.zip",
+    "href": "moffice2.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/moffice2.zip",
+    "is_dir": false,
+    "size": "136.4 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "monitor.zip",
+    "href": "monitor.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/monitor.zip",
+    "is_dir": false,
+    "size": "32.6 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "mosdab.zip",
+    "href": "mosdab.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/mosdab.zip",
+    "is_dir": false,
+    "size": "5.8 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "mosplus.zip",
+    "href": "mosplus.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/mosplus.zip",
+    "is_dir": false,
+    "size": "22.4 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "mousepac.zip",
+    "href": "mousepac.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/mousepac.zip",
+    "is_dir": false,
+    "size": "4.4 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "movmaker.zip",
+    "href": "movmaker.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/movmaker.zip",
+    "is_dir": false,
+    "size": "34.5 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "mpc800.zip",
+    "href": "mpc800.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/mpc800.zip",
+    "is_dir": false,
+    "size": "8.8 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "mpc900gx.zip",
+    "href": "mpc900gx.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/mpc900gx.zip",
+    "is_dir": false,
+    "size": "9.0 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "mrme00.zip",
+    "href": "mrme00.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/mrme00.zip",
+    "is_dir": false,
+    "size": "6.3 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "mstrbrd.zip",
+    "href": "mstrbrd.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/mstrbrd.zip",
+    "is_dir": false,
+    "size": "4.9 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "multbas.zip",
+    "href": "multbas.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/multbas.zip",
+    "is_dir": false,
+    "size": "6.6 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "multfont.zip",
+    "href": "multfont.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/multfont.zip",
+    "is_dir": false,
+    "size": "5.3 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "murom.zip",
+    "href": "murom.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/murom.zip",
+    "is_dir": false,
+    "size": "23.1 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "music.zip",
+    "href": "music.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/music.zip",
+    "is_dir": false,
+    "size": "11.7 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "mxr.zip",
+    "href": "mxr.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/mxr.zip",
+    "is_dir": false,
+    "size": "12.8 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "n3270.zip",
+    "href": "n3270.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/n3270.zip",
+    "is_dir": false,
+    "size": "11.3 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "nfs334.zip",
+    "href": "nfs334.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/nfs334.zip",
+    "is_dir": false,
+    "size": "12.8 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "nfs360.zip",
+    "href": "nfs360.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/nfs360.zip",
+    "is_dir": false,
+    "size": "6.4 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "nlqdesgn.zip",
+    "href": "nlqdesgn.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/nlqdesgn.zip",
+    "is_dir": false,
+    "size": "14.5 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "novacad.zip",
+    "href": "novacad.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/novacad.zip",
+    "is_dir": false,
+    "size": "47.6 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "ntqfont1.zip",
+    "href": "ntqfont1.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/ntqfont1.zip",
+    "is_dir": false,
+    "size": "15.0 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "ntqfont2.zip",
+    "href": "ntqfont2.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/ntqfont2.zip",
+    "is_dir": false,
+    "size": "7.2 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "ntqfont3.zip",
+    "href": "ntqfont3.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/ntqfont3.zip",
+    "is_dir": false,
+    "size": "8.1 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "ntqfont4.zip",
+    "href": "ntqfont4.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/ntqfont4.zip",
+    "is_dir": false,
+    "size": "6.5 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "numeratr.zip",
+    "href": "numeratr.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/numeratr.zip",
+    "is_dir": false,
+    "size": "12.0 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "oak.zip",
+    "href": "oak.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/oak.zip",
+    "is_dir": false,
+    "size": "954 B",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "olsutil.zip",
+    "href": "olsutil.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/olsutil.zip",
+    "is_dir": false,
+    "size": "5.1 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "oplogo.zip",
+    "href": "oplogo.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/oplogo.zip",
+    "is_dir": false,
+    "size": "19.3 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "orthocam.zip",
+    "href": "orthocam.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/orthocam.zip",
+    "is_dir": false,
+    "size": "1.4 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "ovbasic.zip",
+    "href": "ovbasic.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/ovbasic.zip",
+    "is_dir": false,
+    "size": "4.2 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "oxpascal.zip",
+    "href": "oxpascal.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/oxpascal.zip",
+    "is_dir": false,
+    "size": "42.9 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "pacman.zip",
+    "href": "pacman.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/pacman.zip",
+    "is_dir": false,
+    "size": "6.0 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "paramax.zip",
+    "href": "paramax.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/paramax.zip",
+    "is_dir": false,
+    "size": "8.8 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "pascalerr.zip",
+    "href": "pascalerr.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/pascalerr.zip",
+    "is_dir": false,
+    "size": "3.2 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "pascalt.zip",
+    "href": "pascalt.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/pascalt.zip",
+    "is_dir": false,
+    "size": "9.8 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "pcb.zip",
+    "href": "pcb.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/pcb.zip",
+    "is_dir": false,
+    "size": "64.8 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "pcbar.zip",
+    "href": "pcbar.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/pcbar.zip",
+    "is_dir": false,
+    "size": "14.6 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "pcbdesign.zip",
+    "href": "pcbdesign.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/pcbdesign.zip",
+    "is_dir": false,
+    "size": "5.7 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "pendown.zip",
+    "href": "pendown.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/pendown.zip",
+    "is_dir": false,
+    "size": "10.7 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "penfriend.zip",
+    "href": "penfriend.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/penfriend.zip",
+    "is_dir": false,
+    "size": "21.4 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "pengo.zip",
+    "href": "pengo.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/pengo.zip",
+    "is_dir": false,
+    "size": "6.4 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "pfontntq.zip",
+    "href": "pfontntq.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/pfontntq.zip",
+    "is_dir": false,
+    "size": "8.4 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "phx.zip",
+    "href": "phx.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/phx.zip",
+    "is_dir": false,
+    "size": "18.3 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "pigrom.zip",
+    "href": "pigrom.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/pigrom.zip",
+    "is_dir": false,
+    "size": "7.8 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "pk232.zip",
+    "href": "pk232.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/pk232.zip",
+    "is_dir": false,
+    "size": "8.0 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "plotmta3.zip",
+    "href": "plotmta3.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/plotmta3.zip",
+    "is_dir": false,
+    "size": "19.3 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "plotmta4.zip",
+    "href": "plotmta4.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/plotmta4.zip",
+    "is_dir": false,
+    "size": "9.7 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "plotter.zip",
+    "href": "plotter.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/plotter.zip",
+    "is_dir": false,
+    "size": "2.6 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "plus.zip",
+    "href": "plus.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/plus.zip",
+    "is_dir": false,
+    "size": "12.6 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "pmsutil.zip",
+    "href": "pmsutil.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/pmsutil.zip",
+    "is_dir": false,
+    "size": "8.2 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "pointer.zip",
+    "href": "pointer.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/pointer.zip",
+    "is_dir": false,
+    "size": "10.9 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "pperform.zip",
+    "href": "pperform.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/pperform.zip",
+    "is_dir": false,
+    "size": "22.2 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "prestel.zip",
+    "href": "prestel.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/prestel.zip",
+    "is_dir": false,
+    "size": "35.6 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "prestelt.zip",
+    "href": "prestelt.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/prestelt.zip",
+    "is_dir": false,
+    "size": "10.1 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "printbox.zip",
+    "href": "printbox.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/printbox.zip",
+    "is_dir": false,
+    "size": "11.8 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "printbuff.zip",
+    "href": "printbuff.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/printbuff.zip",
+    "is_dir": false,
+    "size": "2.0 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "prisma2.zip",
+    "href": "prisma2.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/prisma2.zip",
+    "is_dir": false,
+    "size": "11.3 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "prisma3.zip",
+    "href": "prisma3.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/prisma3.zip",
+    "is_dir": false,
+    "size": "31.0 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "prntctrl.zip",
+    "href": "prntctrl.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/prntctrl.zip",
+    "is_dir": false,
+    "size": "8.5 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "prntmcan.zip",
+    "href": "prntmcan.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/prntmcan.zip",
+    "is_dir": false,
+    "size": "6.3 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "prntmeps.zip",
+    "href": "prntmeps.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/prntmeps.zip",
+    "is_dir": false,
+    "size": "37.7 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "prntmstr.zip",
+    "href": "prntmstr.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/prntmstr.zip",
+    "is_dir": false,
+    "size": "6.3 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "prntsrvr.zip",
+    "href": "prntsrvr.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/prntsrvr.zip",
+    "is_dir": false,
+    "size": "14.4 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "prntutil.zip",
+    "href": "prntutil.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/prntutil.zip",
+    "is_dir": false,
+    "size": "6.6 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "prntware.zip",
+    "href": "prntware.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/prntware.zip",
+    "is_dir": false,
+    "size": "5.3 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "probe2.zip",
+    "href": "probe2.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/probe2.zip",
+    "is_dir": false,
+    "size": "24.6 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "probe6.zip",
+    "href": "probe6.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/probe6.zip",
+    "is_dir": false,
+    "size": "10.8 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "procyon.zip",
+    "href": "procyon.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/procyon.zip",
+    "is_dir": false,
+    "size": "6.6 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "progsmith.zip",
+    "href": "progsmith.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/progsmith.zip",
+    "is_dir": false,
+    "size": "5.5 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "proword.zip",
+    "href": "proword.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/proword.zip",
+    "is_dir": false,
+    "size": "24.4 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "publishr.zip",
+    "href": "publishr.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/publishr.zip",
+    "is_dir": false,
+    "size": "31.4 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "pulldown.zip",
+    "href": "pulldown.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/pulldown.zip",
+    "is_dir": false,
+    "size": "2.2 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "qfs101.zip",
+    "href": "qfs101.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/qfs101.zip",
+    "is_dir": false,
+    "size": "10.8 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "qfs102.zip",
+    "href": "qfs102.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/qfs102.zip",
+    "is_dir": false,
+    "size": "10.0 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "qfs200.zip",
+    "href": "qfs200.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/qfs200.zip",
+    "is_dir": false,
+    "size": "11.0 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "qmc1510.zip",
+    "href": "qmc1510.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/qmc1510.zip",
+    "is_dir": false,
+    "size": "3.9 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "qrom.zip",
+    "href": "qrom.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/qrom.zip",
+    "is_dir": false,
+    "size": "4.0 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "quest.zip",
+    "href": "quest.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/quest.zip",
+    "is_dir": false,
+    "size": "22.1 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "questpnt.zip",
+    "href": "questpnt.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/questpnt.zip",
+    "is_dir": false,
+    "size": "42.6 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "ram32.zip",
+    "href": "ram32.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/ram32.zip",
+    "is_dir": false,
+    "size": "7.7 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "ramagicb.zip",
+    "href": "ramagicb.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/ramagicb.zip",
+    "is_dir": false,
+    "size": "3.0 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "ramagicm.zip",
+    "href": "ramagicm.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/ramagicm.zip",
+    "is_dir": false,
+    "size": "2.7 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "ramdisc.zip",
+    "href": "ramdisc.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/ramdisc.zip",
+    "is_dir": false,
+    "size": "21.5 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "ramfs.zip",
+    "href": "ramfs.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/ramfs.zip",
+    "is_dir": false,
+    "size": "10.2 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "ramfs100.zip",
+    "href": "ramfs100.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/ramfs100.zip",
+    "is_dir": false,
+    "size": "10.0 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "ramrod.zip",
+    "href": "ramrod.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/ramrod.zip",
+    "is_dir": false,
+    "size": "33.4 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "raven20.zip",
+    "href": "raven20.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/raven20.zip",
+    "is_dir": false,
+    "size": "4.4 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "ravideo.zip",
+    "href": "ravideo.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/ravideo.zip",
+    "is_dir": false,
+    "size": "18.4 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "replay1770.zip",
+    "href": "replay1770.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/replay1770.zip",
+    "is_dir": false,
+    "size": "10.6 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "replay1770a.zip",
+    "href": "replay1770a.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/replay1770a.zip",
+    "is_dir": false,
+    "size": "5.3 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "replay1770w.zip",
+    "href": "replay1770w.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/replay1770w.zip",
+    "is_dir": false,
+    "size": "5.1 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "replay2.zip",
+    "href": "replay2.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/replay2.zip",
+    "is_dir": false,
+    "size": "10.1 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "replay8271.zip",
+    "href": "replay8271.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/replay8271.zip",
+    "is_dir": false,
+    "size": "10.5 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "replaym.zip",
+    "href": "replaym.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/replaym.zip",
+    "is_dir": false,
+    "size": "9.5 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "richhd.zip",
+    "href": "richhd.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/richhd.zip",
+    "is_dir": false,
+    "size": "3.7 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "ripoff.zip",
+    "href": "ripoff.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/ripoff.zip",
+    "is_dir": false,
+    "size": "5.7 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "ripper.zip",
+    "href": "ripper.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/ripper.zip",
+    "is_dir": false,
+    "size": "18.5 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "robotron.zip",
+    "href": "robotron.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/robotron.zip",
+    "is_dir": false,
+    "size": "10.1 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "rocketra.zip",
+    "href": "rocketra.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/rocketra.zip",
+    "is_dir": false,
+    "size": "6.7 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "romas.zip",
+    "href": "romas.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/romas.zip",
+    "is_dir": false,
+    "size": "25.2 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "romit.zip",
+    "href": "romit.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/romit.zip",
+    "is_dir": false,
+    "size": "36.6 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "rommastr.zip",
+    "href": "rommastr.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/rommastr.zip",
+    "is_dir": false,
+    "size": "4.6 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "rommastrcv.zip",
+    "href": "rommastrcv.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/rommastrcv.zip",
+    "is_dir": false,
+    "size": "5.0 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "rommngr.zip",
+    "href": "rommngr.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/rommngr.zip",
+    "is_dir": false,
+    "size": "9.6 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "rommngr2.zip",
+    "href": "rommngr2.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/rommngr2.zip",
+    "is_dir": false,
+    "size": "11.3 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "romspell.zip",
+    "href": "romspell.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/romspell.zip",
+    "is_dir": false,
+    "size": "25.0 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "romutils.zip",
+    "href": "romutils.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/romutils.zip",
+    "is_dir": false,
+    "size": "8.6 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "rtty.zip",
+    "href": "rtty.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/rtty.zip",
+    "is_dir": false,
+    "size": "20.4 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "rttygoc.zip",
+    "href": "rttygoc.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/rttygoc.zip",
+    "is_dir": false,
+    "size": "4.8 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "rx8.zip",
+    "href": "rx8.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/rx8.zip",
+    "is_dir": false,
+    "size": "10.9 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "satpic3.zip",
+    "href": "satpic3.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/satpic3.zip",
+    "is_dir": false,
+    "size": "7.5 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "sci.zip",
+    "href": "sci.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/sci.zip",
+    "is_dir": false,
+    "size": "11.1 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "sciways.zip",
+    "href": "sciways.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/sciways.zip",
+    "is_dir": false,
+    "size": "10.1 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "sciways201.zip",
+    "href": "sciways201.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/sciways201.zip",
+    "is_dir": false,
+    "size": "10.0 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "scorpion.zip",
+    "href": "scorpion.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/scorpion.zip",
+    "is_dir": false,
+    "size": "3.9 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "scribchec.zip",
+    "href": "scribchec.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/scribchec.zip",
+    "is_dir": false,
+    "size": "12.2 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "scribe.zip",
+    "href": "scribe.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/scribe.zip",
+    "is_dir": false,
+    "size": "12.0 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "scrnprnt.zip",
+    "href": "scrnprnt.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/scrnprnt.zip",
+    "is_dir": false,
+    "size": "20.8 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "scythe.zip",
+    "href": "scythe.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/scythe.zip",
+    "is_dir": false,
+    "size": "6.5 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "securit.zip",
+    "href": "securit.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/securit.zip",
+    "is_dir": false,
+    "size": "5.0 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "sehk.zip",
+    "href": "sehk.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/sehk.zip",
+    "is_dir": false,
+    "size": "32.5 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "selcopy.zip",
+    "href": "selcopy.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/selcopy.zip",
+    "is_dir": false,
+    "size": "3.3 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "sforth.zip",
+    "href": "sforth.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/sforth.zip",
+    "is_dir": false,
+    "size": "5.7 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "sfs.zip",
+    "href": "sfs.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/sfs.zip",
+    "is_dir": false,
+    "size": "18.6 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "sideaid128.zip",
+    "href": "sideaid128.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/sideaid128.zip",
+    "is_dir": false,
+    "size": "11.0 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "sideaid256.zip",
+    "href": "sideaid256.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/sideaid256.zip",
+    "is_dir": false,
+    "size": "17.3 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "sidewritr.zip",
+    "href": "sidewritr.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/sidewritr.zip",
+    "is_dir": false,
+    "size": "2.6 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "slave.zip",
+    "href": "slave.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/slave.zip",
+    "is_dir": false,
+    "size": "29.1 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "slepsmk2.zip",
+    "href": "slepsmk2.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/slepsmk2.zip",
+    "is_dir": false,
+    "size": "2.9 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "sleuth.zip",
+    "href": "sleuth.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/sleuth.zip",
+    "is_dir": false,
+    "size": "24.5 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "slkeypad.zip",
+    "href": "slkeypad.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/slkeypad.zip",
+    "is_dir": false,
+    "size": "7.5 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "slm.zip",
+    "href": "slm.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/slm.zip",
+    "is_dir": false,
+    "size": "5.0 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "smartspi.zip",
+    "href": "smartspi.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/smartspi.zip",
+    "is_dir": false,
+    "size": "11.5 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "smorset.zip",
+    "href": "smorset.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/smorset.zip",
+    "is_dir": false,
+    "size": "7.9 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "snapper.zip",
+    "href": "snapper.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/snapper.zip",
+    "is_dir": false,
+    "size": "6.1 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "solimon.zip",
+    "href": "solimon.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/solimon.zip",
+    "is_dir": false,
+    "size": "8.5 KiB",
+    "date": "28-Sep-2025 02:40"
+  },
+  {
+    "name": "soundfx.zip",
+    "href": "soundfx.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/soundfx.zip",
+    "is_dir": false,
+    "size": "2.9 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "sparkdmp.zip",
+    "href": "sparkdmp.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/sparkdmp.zip",
+    "is_dir": false,
+    "size": "3.5 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "spchsynth.zip",
+    "href": "spchsynth.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/spchsynth.zip",
+    "is_dir": false,
+    "size": "12.4 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "speech.zip",
+    "href": "speech.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/speech.zip",
+    "is_dir": false,
+    "size": "5.6 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "speechcc.zip",
+    "href": "speechcc.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/speechcc.zip",
+    "is_dir": false,
+    "size": "4.6 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "speechext.zip",
+    "href": "speechext.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/speechext.zip",
+    "is_dir": false,
+    "size": "11.5 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "spellchk2.zip",
+    "href": "spellchk2.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/spellchk2.zip",
+    "is_dir": false,
+    "size": "5.8 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "spellchk3.zip",
+    "href": "spellchk3.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/spellchk3.zip",
+    "is_dir": false,
+    "size": "11.9 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "spellmst.zip",
+    "href": "spellmst.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/spellmst.zip",
+    "is_dir": false,
+    "size": "172.3 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "sprite.zip",
+    "href": "sprite.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/sprite.zip",
+    "is_dir": false,
+    "size": "7.6 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "spx.zip",
+    "href": "spx.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/spx.zip",
+    "is_dir": false,
+    "size": "4.3 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "spy.zip",
+    "href": "spy.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/spy.zip",
+    "is_dir": false,
+    "size": "6.4 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "spy2.zip",
+    "href": "spy2.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/spy2.zip",
+    "is_dir": false,
+    "size": "19.0 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "squeak.zip",
+    "href": "squeak.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/squeak.zip",
+    "is_dir": false,
+    "size": "8.1 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "ssmp.zip",
+    "href": "ssmp.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/ssmp.zip",
+    "is_dir": false,
+    "size": "11.6 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "starbase.zip",
+    "href": "starbase.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/starbase.zip",
+    "is_dir": false,
+    "size": "48.0 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "stargrph.zip",
+    "href": "stargrph.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/stargrph.zip",
+    "is_dir": false,
+    "size": "11.4 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "starmon.zip",
+    "href": "starmon.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/starmon.zip",
+    "is_dir": false,
+    "size": "9.6 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "starnlq.zip",
+    "href": "starnlq.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/starnlq.zip",
+    "is_dir": false,
+    "size": "3.8 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "starstik.zip",
+    "href": "starstik.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/starstik.zip",
+    "is_dir": false,
+    "size": "12.5 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "starstor2.zip",
+    "href": "starstor2.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/starstor2.zip",
+    "is_dir": false,
+    "size": "20.3 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "starword.zip",
+    "href": "starword.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/starword.zip",
+    "is_dir": false,
+    "size": "9.8 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "stladfs202.zip",
+    "href": "stladfs202.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/stladfs202.zip",
+    "is_dir": false,
+    "size": "12.0 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "stladfs21.zip",
+    "href": "stladfs21.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/stladfs21.zip",
+    "is_dir": false,
+    "size": "11.9 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "stladfs21d.zip",
+    "href": "stladfs21d.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/stladfs21d.zip",
+    "is_dir": false,
+    "size": "12.0 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "stladfs21j10.zip",
+    "href": "stladfs21j10.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/stladfs21j10.zip",
+    "is_dir": false,
+    "size": "12.0 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "stladfs21j20m.zip",
+    "href": "stladfs21j20m.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/stladfs21j20m.zip",
+    "is_dir": false,
+    "size": "22.5 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "stladfs21m.zip",
+    "href": "stladfs21m.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/stladfs21m.zip",
+    "is_dir": false,
+    "size": "12.0 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "stladfs21m2.zip",
+    "href": "stladfs21m2.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/stladfs21m2.zip",
+    "is_dir": false,
+    "size": "12.0 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "stladfs21s.zip",
+    "href": "stladfs21s.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/stladfs21s.zip",
+    "is_dir": false,
+    "size": "11.9 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "stlddfs14.zip",
+    "href": "stlddfs14.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/stlddfs14.zip",
+    "is_dir": false,
+    "size": "6.4 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "stlddfs15.zip",
+    "href": "stlddfs15.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/stlddfs15.zip",
+    "is_dir": false,
+    "size": "6.4 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "stlddfs18.zip",
+    "href": "stlddfs18.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/stlddfs18.zip",
+    "is_dir": false,
+    "size": "6.4 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "stlddfs19.zip",
+    "href": "stlddfs19.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/stlddfs19.zip",
+    "is_dir": false,
+    "size": "6.5 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "stldfs20.zip",
+    "href": "stldfs20.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/stldfs20.zip",
+    "is_dir": false,
+    "size": "11.4 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "stldfs201.zip",
+    "href": "stldfs201.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/stldfs201.zip",
+    "is_dir": false,
+    "size": "11.9 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "stldfs202.zip",
+    "href": "stldfs202.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/stldfs202.zip",
+    "is_dir": false,
+    "size": "11.8 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "stldfs20a.zip",
+    "href": "stldfs20a.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/stldfs20a.zip",
+    "is_dir": false,
+    "size": "12.3 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "stldfs20j.zip",
+    "href": "stldfs20j.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/stldfs20j.zip",
+    "is_dir": false,
+    "size": "12.4 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "stldfs20l.zip",
+    "href": "stldfs20l.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/stldfs20l.zip",
+    "is_dir": false,
+    "size": "12.2 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "stldfs20m.zip",
+    "href": "stldfs20m.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/stldfs20m.zip",
+    "is_dir": false,
+    "size": "12.2 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "stldfs21.zip",
+    "href": "stldfs21.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/stldfs21.zip",
+    "is_dir": false,
+    "size": "12.2 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "stldfs21a.zip",
+    "href": "stldfs21a.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/stldfs21a.zip",
+    "is_dir": false,
+    "size": "12.5 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "stldfs21f2.zip",
+    "href": "stldfs21f2.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/stldfs21f2.zip",
+    "is_dir": false,
+    "size": "12.6 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "stldfs21j.zip",
+    "href": "stldfs21j.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/stldfs21j.zip",
+    "is_dir": false,
+    "size": "12.5 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "stldfs21j1.zip",
+    "href": "stldfs21j1.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/stldfs21j1.zip",
+    "is_dir": false,
+    "size": "12.6 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "stldfs21j2.zip",
+    "href": "stldfs21j2.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/stldfs21j2.zip",
+    "is_dir": false,
+    "size": "12.5 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "stldfs21m2.zip",
+    "href": "stldfs21m2.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/stldfs21m2.zip",
+    "is_dir": false,
+    "size": "12.6 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "stldfs221.zip",
+    "href": "stldfs221.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/stldfs221.zip",
+    "is_dir": false,
+    "size": "12.5 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "stldfs22d.zip",
+    "href": "stldfs22d.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/stldfs22d.zip",
+    "is_dir": false,
+    "size": "12.4 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "stldfs22f2.zip",
+    "href": "stldfs22f2.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/stldfs22f2.zip",
+    "is_dir": false,
+    "size": "12.5 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "stldfs22j2.zip",
+    "href": "stldfs22j2.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/stldfs22j2.zip",
+    "is_dir": false,
+    "size": "12.5 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "stldfs22k2.zip",
+    "href": "stldfs22k2.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/stldfs22k2.zip",
+    "is_dir": false,
+    "size": "12.1 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "stldfs22m2.zip",
+    "href": "stldfs22m2.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/stldfs22m2.zip",
+    "is_dir": false,
+    "size": "12.5 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "stldfs22n.zip",
+    "href": "stldfs22n.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/stldfs22n.zip",
+    "is_dir": false,
+    "size": "12.2 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "stlrtc.zip",
+    "href": "stlrtc.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/stlrtc.zip",
+    "is_dir": false,
+    "size": "22.2 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "stltkit12.zip",
+    "href": "stltkit12.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/stltkit12.zip",
+    "is_dir": false,
+    "size": "31.7 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "stltkit13.zip",
+    "href": "stltkit13.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/stltkit13.zip",
+    "is_dir": false,
+    "size": "11.5 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "streamer.zip",
+    "href": "streamer.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/streamer.zip",
+    "is_dir": false,
+    "size": "10.7 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "style.zip",
+    "href": "style.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/style.zip",
+    "is_dir": false,
+    "size": "13.4 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "supastor.zip",
+    "href": "supastor.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/supastor.zip",
+    "is_dir": false,
+    "size": "11.7 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "supastor14.zip",
+    "href": "supastor14.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/supastor14.zip",
+    "is_dir": false,
+    "size": "11.7 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "supastor15.zip",
+    "href": "supastor15.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/supastor15.zip",
+    "is_dir": false,
+    "size": "12.0 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "suprfont.zip",
+    "href": "suprfont.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/suprfont.zip",
+    "is_dir": false,
+    "size": "6.8 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "suprmmc.zip",
+    "href": "suprmmc.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/suprmmc.zip",
+    "is_dir": false,
+    "size": "10.7 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "suprutil.zip",
+    "href": "suprutil.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/suprutil.zip",
+    "is_dir": false,
+    "size": "6.3 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "suprvisr.zip",
+    "href": "suprvisr.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/suprvisr.zip",
+    "is_dir": false,
+    "size": "5.3 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "suprvisr2f.zip",
+    "href": "suprvisr2f.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/suprvisr2f.zip",
+    "is_dir": false,
+    "size": "9.9 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "suprvisr3f.zip",
+    "href": "suprvisr3f.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/suprvisr3f.zip",
+    "is_dir": false,
+    "size": "5.7 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "suprvisr3w.zip",
+    "href": "suprvisr3w.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/suprvisr3w.zip",
+    "is_dir": false,
+    "size": "6.2 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "swift.zip",
+    "href": "swift.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/swift.zip",
+    "is_dir": false,
+    "size": "11.5 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "sysdelta.zip",
+    "href": "sysdelta.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/sysdelta.zip",
+    "is_dir": false,
+    "size": "24.8 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "sysdelta213.zip",
+    "href": "sysdelta213.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/sysdelta213.zip",
+    "is_dir": false,
+    "size": "12.4 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "t2c3.zip",
+    "href": "t2c3.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/t2c3.zip",
+    "is_dir": false,
+    "size": "3.1 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "tcl125_2.zip",
+    "href": "tcl125_2.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/tcl125_2.zip",
+    "is_dir": false,
+    "size": "16.1 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "tcl125_6.zip",
+    "href": "tcl125_6.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/tcl125_6.zip",
+    "is_dir": false,
+    "size": "30.1 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "td.zip",
+    "href": "td.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/td.zip",
+    "is_dir": false,
+    "size": "5.2 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "td1770.zip",
+    "href": "td1770.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/td1770.zip",
+    "is_dir": false,
+    "size": "5.1 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "techfont.zip",
+    "href": "techfont.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/techfont.zip",
+    "is_dir": false,
+    "size": "1.9 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "ted.zip",
+    "href": "ted.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/ted.zip",
+    "is_dir": false,
+    "size": "21.4 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "tek4010.zip",
+    "href": "tek4010.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/tek4010.zip",
+    "is_dir": false,
+    "size": "5.4 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "teledata.zip",
+    "href": "teledata.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/teledata.zip",
+    "is_dir": false,
+    "size": "12.1 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "teletel.zip",
+    "href": "teletel.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/teletel.zip",
+    "is_dir": false,
+    "size": "14.5 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "teletext.zip",
+    "href": "teletext.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/teletext.zip",
+    "is_dir": false,
+    "size": "5.6 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "teletxted.zip",
+    "href": "teletxted.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/teletxted.zip",
+    "is_dir": false,
+    "size": "5.6 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "televid.zip",
+    "href": "televid.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/televid.zip",
+    "is_dir": false,
+    "size": "4.0 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "termi.zip",
+    "href": "termi.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/termi.zip",
+    "is_dir": false,
+    "size": "19.7 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "termi2.zip",
+    "href": "termi2.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/termi2.zip",
+    "is_dir": false,
+    "size": "11.5 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "termultr.zip",
+    "href": "termultr.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/termultr.zip",
+    "is_dir": false,
+    "size": "9.5 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "tfs.zip",
+    "href": "tfs.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/tfs.zip",
+    "is_dir": false,
+    "size": "37.5 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "tictoc.zip",
+    "href": "tictoc.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/tictoc.zip",
+    "is_dir": false,
+    "size": "13.1 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "timefix.zip",
+    "href": "timefix.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/timefix.zip",
+    "is_dir": false,
+    "size": "1.3 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "tlm.zip",
+    "href": "tlm.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/tlm.zip",
+    "is_dir": false,
+    "size": "4.4 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "tnc3.zip",
+    "href": "tnc3.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/tnc3.zip",
+    "is_dir": false,
+    "size": "5.1 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "tncasa.zip",
+    "href": "tncasa.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/tncasa.zip",
+    "is_dir": false,
+    "size": "8.4 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "toolkit.zip",
+    "href": "toolkit.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/toolkit.zip",
+    "is_dir": false,
+    "size": "37.3 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "toolkita.zip",
+    "href": "toolkita.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/toolkita.zip",
+    "is_dir": false,
+    "size": "3.3 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "toolkitp.zip",
+    "href": "toolkitp.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/toolkitp.zip",
+    "is_dir": false,
+    "size": "48.8 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "toolstar.zip",
+    "href": "toolstar.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/toolstar.zip",
+    "is_dir": false,
+    "size": "15.1 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "trace.zip",
+    "href": "trace.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/trace.zip",
+    "is_dir": false,
+    "size": "4.0 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "transfer.zip",
+    "href": "transfer.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/transfer.zip",
+    "is_dir": false,
+    "size": "527 B",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "transrom.zip",
+    "href": "transrom.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/transrom.zip",
+    "is_dir": false,
+    "size": "14.3 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "trckball.zip",
+    "href": "trckball.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/trckball.zip",
+    "is_dir": false,
+    "size": "3.1 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "trek.zip",
+    "href": "trek.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/trek.zip",
+    "is_dir": false,
+    "size": "9.0 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "trx.zip",
+    "href": "trx.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/trx.zip",
+    "is_dir": false,
+    "size": "9.8 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "tts.zip",
+    "href": "tts.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/tts.zip",
+    "is_dir": false,
+    "size": "22.6 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "ttx2000b.zip",
+    "href": "ttx2000b.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/ttx2000b.zip",
+    "is_dir": false,
+    "size": "10.0 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "ttxtsup.zip",
+    "href": "ttxtsup.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/ttxtsup.zip",
+    "is_dir": false,
+    "size": "19.7 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "tubeed.zip",
+    "href": "tubeed.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/tubeed.zip",
+    "is_dir": false,
+    "size": "5.8 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "turbommc.zip",
+    "href": "turbommc.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/turbommc.zip",
+    "is_dir": false,
+    "size": "21.6 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "turbprom.zip",
+    "href": "turbprom.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/turbprom.zip",
+    "is_dir": false,
+    "size": "2.7 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "turtle.zip",
+    "href": "turtle.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/turtle.zip",
+    "is_dir": false,
+    "size": "5.4 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "u2.zip",
+    "href": "u2.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/u2.zip",
+    "is_dir": false,
+    "size": "3.3 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "uclterm.zip",
+    "href": "uclterm.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/uclterm.zip",
+    "is_dir": false,
+    "size": "4.4 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "ulcc.zip",
+    "href": "ulcc.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/ulcc.zip",
+    "is_dir": false,
+    "size": "22.8 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "ultrcalc.zip",
+    "href": "ultrcalc.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/ultrcalc.zip",
+    "is_dir": false,
+    "size": "9.3 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "ultrcalc2.zip",
+    "href": "ultrcalc2.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/ultrcalc2.zip",
+    "is_dir": false,
+    "size": "11.5 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "umi2b.zip",
+    "href": "umi2b.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/umi2b.zip",
+    "is_dir": false,
+    "size": "25.3 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "unicom.zip",
+    "href": "unicom.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/unicom.zip",
+    "is_dir": false,
+    "size": "5.8 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "unicore.zip",
+    "href": "unicore.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/unicore.zip",
+    "is_dir": false,
+    "size": "3.9 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "uniterm.zip",
+    "href": "uniterm.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/uniterm.zip",
+    "is_dir": false,
+    "size": "4.8 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "upgrade.zip",
+    "href": "upgrade.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/upgrade.zip",
+    "is_dir": false,
+    "size": "11.2 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "upurs.zip",
+    "href": "upurs.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/upurs.zip",
+    "is_dir": false,
+    "size": "28.1 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "urom.zip",
+    "href": "urom.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/urom.zip",
+    "is_dir": false,
+    "size": "11.5 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "user2user.zip",
+    "href": "user2user.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/user2user.zip",
+    "is_dir": false,
+    "size": "2.8 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "userdump.zip",
+    "href": "userdump.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/userdump.zip",
+    "is_dir": false,
+    "size": "5.0 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "userramd.zip",
+    "href": "userramd.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/userramd.zip",
+    "is_dir": false,
+    "size": "7.0 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "userrom.zip",
+    "href": "userrom.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/userrom.zip",
+    "is_dir": false,
+    "size": "4.9 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "userutil.zip",
+    "href": "userutil.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/userutil.zip",
+    "is_dir": false,
+    "size": "4.2 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "utilrom.zip",
+    "href": "utilrom.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/utilrom.zip",
+    "is_dir": false,
+    "size": "24.2 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "utools.zip",
+    "href": "utools.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/utools.zip",
+    "is_dir": false,
+    "size": "14.8 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "uviprom.zip",
+    "href": "uviprom.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/uviprom.zip",
+    "is_dir": false,
+    "size": "9.9 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "vasm.zip",
+    "href": "vasm.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/vasm.zip",
+    "is_dir": false,
+    "size": "10.8 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "vax.zip",
+    "href": "vax.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/vax.zip",
+    "is_dir": false,
+    "size": "10.2 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "vaxvt100.zip",
+    "href": "vaxvt100.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/vaxvt100.zip",
+    "is_dir": false,
+    "size": "22.9 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "vdigitsr.zip",
+    "href": "vdigitsr.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/vdigitsr.zip",
+    "is_dir": false,
+    "size": "3.4 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "vdsdfs.zip",
+    "href": "vdsdfs.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/vdsdfs.zip",
+    "is_dir": false,
+    "size": "11.6 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "vdu.zip",
+    "href": "vdu.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/vdu.zip",
+    "is_dir": false,
+    "size": "4.6 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "vdu4.zip",
+    "href": "vdu4.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/vdu4.zip",
+    "is_dir": false,
+    "size": "5.0 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "videorom.zip",
+    "href": "videorom.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/videorom.zip",
+    "is_dir": false,
+    "size": "11.0 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "vidicode.zip",
+    "href": "vidicode.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/vidicode.zip",
+    "is_dir": false,
+    "size": "5.5 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "vidiedit.zip",
+    "href": "vidiedit.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/vidiedit.zip",
+    "is_dir": false,
+    "size": "4.7 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "vidifix.zip",
+    "href": "vidifix.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/vidifix.zip",
+    "is_dir": false,
+    "size": "2.6 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "viditel.zip",
+    "href": "viditel.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/viditel.zip",
+    "is_dir": false,
+    "size": "2.1 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "viewa3.zip",
+    "href": "viewa3.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/viewa3.zip",
+    "is_dir": false,
+    "size": "51.9 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "viewb3.zip",
+    "href": "viewb3.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/viewb3.zip",
+    "is_dir": false,
+    "size": "12.0 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "viewpdmp.zip",
+    "href": "viewpdmp.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/viewpdmp.zip",
+    "is_dir": false,
+    "size": "5.3 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "viewpdpr.zip",
+    "href": "viewpdpr.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/viewpdpr.zip",
+    "is_dir": false,
+    "size": "14.6 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "viewpro.zip",
+    "href": "viewpro.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/viewpro.zip",
+    "is_dir": false,
+    "size": "76.3 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "viewps.zip",
+    "href": "viewps.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/viewps.zip",
+    "is_dir": false,
+    "size": "6.9 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "viewshape.zip",
+    "href": "viewshape.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/viewshape.zip",
+    "is_dir": false,
+    "size": "4.4 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "viewsheet.zip",
+    "href": "viewsheet.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/viewsheet.zip",
+    "is_dir": false,
+    "size": "37.7 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "viewspell.zip",
+    "href": "viewspell.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/viewspell.zip",
+    "is_dir": false,
+    "size": "18.6 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "viewstor.zip",
+    "href": "viewstor.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/viewstor.zip",
+    "is_dir": false,
+    "size": "75.4 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "viewt.zip",
+    "href": "viewt.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/viewt.zip",
+    "is_dir": false,
+    "size": "47.4 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "vmp.zip",
+    "href": "vmp.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/vmp.zip",
+    "is_dir": false,
+    "size": "2.4 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "vnula.zip",
+    "href": "vnula.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/vnula.zip",
+    "is_dir": false,
+    "size": "13.3 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "vt100.zip",
+    "href": "vt100.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/vt100.zip",
+    "is_dir": false,
+    "size": "8.6 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "vtclock.zip",
+    "href": "vtclock.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/vtclock.zip",
+    "is_dir": false,
+    "size": "3.4 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "vtclock134m.zip",
+    "href": "vtclock134m.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/vtclock134m.zip",
+    "is_dir": false,
+    "size": "8.6 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "vtclockm.zip",
+    "href": "vtclockm.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/vtclockm.zip",
+    "is_dir": false,
+    "size": "2.2 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "wapping.zip",
+    "href": "wapping.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/wapping.zip",
+    "is_dir": false,
+    "size": "42.1 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "wappsupp.zip",
+    "href": "wappsupp.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/wappsupp.zip",
+    "is_dir": false,
+    "size": "8.6 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "wddfs153.zip",
+    "href": "wddfs153.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/wddfs153.zip",
+    "is_dir": false,
+    "size": "35.1 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "wddfs154t.zip",
+    "href": "wddfs154t.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/wddfs154t.zip",
+    "is_dir": false,
+    "size": "11.0 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "wddfsp.zip",
+    "href": "wddfsp.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/wddfsp.zip",
+    "is_dir": false,
+    "size": "10.4 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "wdfs144.zip",
+    "href": "wdfs144.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/wdfs144.zip",
+    "is_dir": false,
+    "size": "102.8 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "weram.zip",
+    "href": "weram.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/weram.zip",
+    "is_dir": false,
+    "size": "18.3 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "wildrom.zip",
+    "href": "wildrom.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/wildrom.zip",
+    "is_dir": false,
+    "size": "12.0 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "window.zip",
+    "href": "window.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/window.zip",
+    "is_dir": false,
+    "size": "17.4 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "wizjoy.zip",
+    "href": "wizjoy.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/wizjoy.zip",
+    "is_dir": false,
+    "size": "1.9 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "wordaid.zip",
+    "href": "wordaid.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/wordaid.zip",
+    "is_dir": false,
+    "size": "6.8 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "wordease.zip",
+    "href": "wordease.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/wordease.zip",
+    "is_dir": false,
+    "size": "14.2 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "wordpwr.zip",
+    "href": "wordpwr.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/wordpwr.zip",
+    "is_dir": false,
+    "size": "23.2 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "wordwise.zip",
+    "href": "wordwise.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/wordwise.zip",
+    "is_dir": false,
+    "size": "35.7 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "workstat.zip",
+    "href": "workstat.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/workstat.zip",
+    "is_dir": false,
+    "size": "25.7 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "wprint.zip",
+    "href": "wprint.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/wprint.zip",
+    "is_dir": false,
+    "size": "7.8 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "wslem.zip",
+    "href": "wslem.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/wslem.zip",
+    "is_dir": false,
+    "size": "13.8 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "wwcomp.zip",
+    "href": "wwcomp.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/wwcomp.zip",
+    "is_dir": false,
+    "size": "6.8 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "wwplus.zip",
+    "href": "wwplus.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/wwplus.zip",
+    "is_dir": false,
+    "size": "84.5 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "wwplus2.zip",
+    "href": "wwplus2.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/wwplus2.zip",
+    "is_dir": false,
+    "size": "23.9 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "wysiwygp.zip",
+    "href": "wysiwygp.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/wysiwygp.zip",
+    "is_dir": false,
+    "size": "13.9 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "xbasic.zip",
+    "href": "xbasic.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/xbasic.zip",
+    "is_dir": false,
+    "size": "25.1 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "xcal.zip",
+    "href": "xcal.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/xcal.zip",
+    "is_dir": false,
+    "size": "5.1 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "xobmps.zip",
+    "href": "xobmps.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/xobmps.zip",
+    "is_dir": false,
+    "size": "3.4 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "xr65c02.zip",
+    "href": "xr65c02.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/xr65c02.zip",
+    "is_dir": false,
+    "size": "9.0 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "xr68000.zip",
+    "href": "xr68000.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/xr68000.zip",
+    "is_dir": false,
+    "size": "9.1 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "xrz80.zip",
+    "href": "xrz80.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/xrz80.zip",
+    "is_dir": false,
+    "size": "10.6 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "xtend.zip",
+    "href": "xtend.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/xtend.zip",
+    "is_dir": false,
+    "size": "5.9 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "zalaga.zip",
+    "href": "zalaga.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/zalaga.zip",
+    "is_dir": false,
+    "size": "9.1 KiB",
+    "date": "28-Sep-2025 01:12"
+  },
+  {
+    "name": "znos.zip",
+    "href": "znos.zip",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20ROMs%20%28merged%29/bbc_rom/znos.zip",
+    "is_dir": false,
+    "size": "6.3 KiB",
+    "date": "28-Sep-2025 01:12"
+  }
+]

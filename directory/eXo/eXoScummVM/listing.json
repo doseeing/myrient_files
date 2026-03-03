@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Content",
+    "href": "Content/",
+    "url": "https://myrient.erista.me/files/eXo/eXoScummVM/Content/",
+    "is_dir": true,
+    "size": null,
+    "date": "26-Sep-2025 05:21"
+  },
+  {
+    "name": "eXo",
+    "href": "eXo/",
+    "url": "https://myrient.erista.me/files/eXo/eXoScummVM/eXo/",
+    "is_dir": true,
+    "size": null,
+    "date": "26-Sep-2025 05:19"
+  },
+  {
+    "name": "Don't Readme.txt",
+    "href": "Don%27t%20Readme.txt",
+    "url": "https://myrient.erista.me/files/eXo/eXoScummVM/Don%27t%20Readme.txt",
+    "is_dir": false,
+    "size": "6 B",
+    "date": "26-Sep-2025 07:15"
+  },
+  {
+    "name": "Setup eXoScummVM.bat",
+    "href": "Setup%20eXoScummVM.bat",
+    "url": "https://myrient.erista.me/files/eXo/eXoScummVM/Setup%20eXoScummVM.bat",
+    "is_dir": false,
+    "size": "19.0 KiB",
+    "date": "26-Sep-2025 07:15"
+  },
+  {
+    "name": "_The Complete ScummVM.txt",
+    "href": "_The%20Complete%20ScummVM.txt",
+    "url": "https://myrient.erista.me/files/eXo/eXoScummVM/_The%20Complete%20ScummVM.txt",
+    "is_dir": false,
+    "size": "54.8 KiB",
+    "date": "26-Sep-2025 05:42"
+  }
+]

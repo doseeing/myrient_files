@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Content",
+    "href": "Content/",
+    "url": "https://myrient.erista.me/files/eXo/eXoIF/Content/",
+    "is_dir": true,
+    "size": null,
+    "date": "26-Sep-2025 05:19"
+  },
+  {
+    "name": "eXo",
+    "href": "eXo/",
+    "url": "https://myrient.erista.me/files/eXo/eXoIF/eXo/",
+    "is_dir": true,
+    "size": null,
+    "date": "26-Sep-2025 05:12"
+  },
+  {
+    "name": "Setup eXoIF.bat",
+    "href": "Setup%20eXoIF.bat",
+    "url": "https://myrient.erista.me/files/eXo/eXoIF/Setup%20eXoIF.bat",
+    "is_dir": false,
+    "size": "19.2 KiB",
+    "date": "26-Sep-2025 05:22"
+  },
+  {
+    "name": "eXoIF ReadMe.txt",
+    "href": "eXoIF%20ReadMe.txt",
+    "url": "https://myrient.erista.me/files/eXo/eXoIF/eXoIF%20ReadMe.txt",
+    "is_dir": false,
+    "size": "34.0 KiB",
+    "date": "26-Sep-2025 05:25"
+  },
+  {
+    "name": "eXoMerge.bat",
+    "href": "eXoMerge.bat",
+    "url": "https://myrient.erista.me/files/eXo/eXoIF/eXoMerge.bat",
+    "is_dir": false,
+    "size": "3.2 KiB",
+    "date": "26-Sep-2025 05:22"
+  }
+]

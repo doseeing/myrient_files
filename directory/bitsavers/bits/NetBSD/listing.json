@@ -1,0 +1,26 @@
+[
+  {
+    "name": "NetBSD_CDROMs",
+    "href": "NetBSD_CDROMs/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/NetBSD_CDROMs/",
+    "is_dir": true,
+    "size": null,
+    "date": "11-Sep-2023 19:15"
+  },
+  {
+    "name": "netbsd.org",
+    "href": "netbsd.org/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/",
+    "is_dir": true,
+    "size": null,
+    "date": "01-Oct-2023 22:09"
+  },
+  {
+    "name": "readme_bitsavers.txt",
+    "href": "readme_bitsavers.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/readme_bitsavers.txt",
+    "is_dir": false,
+    "size": "451 B",
+    "date": "02-Oct-2023 12:59"
+  }
+]

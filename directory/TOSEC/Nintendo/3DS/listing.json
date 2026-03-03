@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Applications",
+    "href": "Applications/",
+    "url": "https://myrient.erista.me/files/TOSEC/Nintendo/3DS/Applications/",
+    "is_dir": true,
+    "size": null,
+    "date": "16-Oct-2025 17:45"
+  },
+  {
+    "name": "Demos",
+    "href": "Demos/",
+    "url": "https://myrient.erista.me/files/TOSEC/Nintendo/3DS/Demos/",
+    "is_dir": true,
+    "size": null,
+    "date": "16-Oct-2025 17:45"
+  },
+  {
+    "name": "Homebrew",
+    "href": "Homebrew/",
+    "url": "https://myrient.erista.me/files/TOSEC/Nintendo/3DS/Homebrew/",
+    "is_dir": true,
+    "size": null,
+    "date": "16-Oct-2025 17:45"
+  }
+]

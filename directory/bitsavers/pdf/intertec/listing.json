@@ -1,0 +1,82 @@
+[
+  {
+    "name": "firmware",
+    "href": "firmware/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intertec/firmware/",
+    "is_dir": true,
+    "size": null,
+    "date": "17-Oct-2016 15:50"
+  },
+  {
+    "name": "pcb",
+    "href": "pcb/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intertec/pcb/",
+    "is_dir": true,
+    "size": null,
+    "date": "05-Sep-2011 03:26"
+  },
+  {
+    "name": "pictures",
+    "href": "pictures/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intertec/pictures/",
+    "is_dir": true,
+    "size": null,
+    "date": "02-Jan-2010 19:42"
+  },
+  {
+    "name": "superletter",
+    "href": "superletter/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intertec/superletter/",
+    "is_dir": true,
+    "size": null,
+    "date": "03-May-2013 22:08"
+  },
+  {
+    "name": "Intertec_Compustar_Schematic_1981.pdf",
+    "href": "Intertec_Compustar_Schematic_1981.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intertec/Intertec_Compustar_Schematic_1981.pdf",
+    "is_dir": false,
+    "size": "1.9 MiB",
+    "date": "03-May-2013 21:10"
+  },
+  {
+    "name": "Intertec_Compustar_Users_Manual_Preliminary_May81.pdf",
+    "href": "Intertec_Compustar_Users_Manual_Preliminary_May81.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intertec/Intertec_Compustar_Users_Manual_Preliminary_May81.pdf",
+    "is_dir": false,
+    "size": "16.7 MiB",
+    "date": "03-May-2013 20:30"
+  },
+  {
+    "name": "Superbrain_II_Users_Manual_Jun82.pdf",
+    "href": "Superbrain_II_Users_Manual_Jun82.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intertec/Superbrain_II_Users_Manual_Jun82.pdf",
+    "is_dir": false,
+    "size": "24.4 MiB",
+    "date": "01-Jan-2010 04:59"
+  },
+  {
+    "name": "Superbrain_Users_Manual_Sep80.pdf",
+    "href": "Superbrain_Users_Manual_Sep80.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intertec/Superbrain_Users_Manual_Sep80.pdf",
+    "is_dir": false,
+    "size": "34.1 MiB",
+    "date": "03-Jan-2010 03:53"
+  },
+  {
+    "name": "schematic.pdf",
+    "href": "schematic.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intertec/schematic.pdf",
+    "is_dir": false,
+    "size": "3.5 MiB",
+    "date": "05-Sep-2011 03:30"
+  },
+  {
+    "name": "techinfo.pdf",
+    "href": "techinfo.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intertec/techinfo.pdf",
+    "is_dir": false,
+    "size": "2.6 MiB",
+    "date": "05-Sep-2011 03:30"
+  }
+]

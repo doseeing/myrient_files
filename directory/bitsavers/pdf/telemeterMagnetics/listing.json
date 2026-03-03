@@ -1,0 +1,42 @@
+[
+  {
+    "name": "brochures",
+    "href": "brochures/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/telemeterMagnetics/brochures/",
+    "is_dir": true,
+    "size": null,
+    "date": "24-Nov-2019 19:17"
+  },
+  {
+    "name": "patents",
+    "href": "patents/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/telemeterMagnetics/patents/",
+    "is_dir": true,
+    "size": null,
+    "date": "22-Nov-2019 20:15"
+  },
+  {
+    "name": "144-A_Series_Core_Buffer_Memories_Sep1959.pdf",
+    "href": "144-A_Series_Core_Buffer_Memories_Sep1959.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/telemeterMagnetics/144-A_Series_Core_Buffer_Memories_Sep1959.pdf",
+    "is_dir": false,
+    "size": "12.1 MiB",
+    "date": "22-Nov-2019 20:19"
+  },
+  {
+    "name": "Magnetic_Core_Storage_Nov1959.pdf",
+    "href": "Magnetic_Core_Storage_Nov1959.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/telemeterMagnetics/Magnetic_Core_Storage_Nov1959.pdf",
+    "is_dir": false,
+    "size": "11.9 MiB",
+    "date": "22-Nov-2019 20:15"
+  },
+  {
+    "name": "Type_RB_General_Purpose_Memories_May1960.pdf",
+    "href": "Type_RB_General_Purpose_Memories_May1960.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/telemeterMagnetics/Type_RB_General_Purpose_Memories_May1960.pdf",
+    "is_dir": false,
+    "size": "17.6 MiB",
+    "date": "22-Nov-2019 20:15"
+  }
+]

@@ -1,0 +1,46 @@
+name	is_dir	size	date
+ALTAIR	True	-	26-Oct-2004 21:21
+AltairZ80	True	-	26-Oct-2004 21:21
+BIN	True	-	28-Jun-2005 07:00
+GRI	True	-	26-Oct-2004 20:17
+H316	True	-	26-Oct-2004 21:21
+HP2100	True	-	26-Oct-2004 21:21
+I1401-simh	True	-	26-Oct-2004 21:21
+I1401-van	True	-	26-Oct-2004 21:21
+Ibm1130	True	-	26-Oct-2004 21:22
+Interdata	True	-	26-Oct-2004 20:17
+NOVA	True	-	26-Oct-2004 21:22
+Orig1401	True	-	26-Oct-2004 21:22
+PDP1	True	-	26-Oct-2004 21:22
+PDP10	True	-	26-Oct-2004 21:22
+PDP11	True	-	26-Oct-2004 21:23
+PDP18B	True	-	26-Oct-2004 21:23
+PDP8	True	-	26-Oct-2004 21:23
+S3	True	-	26-Oct-2004 21:23
+SDS	True	-	26-Oct-2004 20:17
+TOOLS	True	-	17-Apr-2005 07:01
+VAX	True	-	26-Oct-2004 21:24
+ceo1401	True	-	26-Oct-2004 21:24
+.log	False	737 B	30-Jan-2002 22:48
+0readme29.txt	False	3.1 KiB	15-Apr-2002 03:57
+Makefile	False	5.6 KiB	06-May-2002 19:43
+Makefile_supnik	False	5.5 KiB	17-Feb-2002 21:50
+build_mingw.bat	False	2.7 KiB	23-Mar-2002 04:01
+build_vms.com	False	25.6 KiB	27-Feb-2002 04:16
+dec_dz.h	False	19.9 KiB	28-Apr-2002 17:14
+dec_mscp.h	False	11.7 KiB	04-Jan-2002 04:37
+dec_uqssp.h	False	5.6 KiB	04-Jan-2002 04:37
+mingw_build.bat	False	2.4 KiB	03-Feb-2002 18:24
+scp.c	False	93.0 KiB	06-May-2002 19:42
+scp_supnik.c	False	92.9 KiB	23-Apr-2002 01:29
+scp_tty.c	False	16.4 KiB	02-Feb-2002 04:45
+sim_defs.h	False	14.0 KiB	23-Apr-2002 01:27
+sim_rev.h	False	9.8 KiB	30-Apr-2002 04:42
+sim_sock.c	False	6.1 KiB	20-Feb-2002 23:36
+sim_sock.h	False	2.6 KiB	07-Feb-2002 01:31
+sim_tmxr.c	False	13.2 KiB	31-Jan-2002 04:16
+sim_tmxr.h	False	3.3 KiB	29-Dec-2001 22:11
+simh.doc	False	131.6 KiB	26-Jan-2002 02:22
+simh_doc.txt	False	36.7 KiB	20-Apr-2002 23:08
+simh_swre.txt	False	18.4 KiB	04-Apr-2002 05:00
+simhv29.zip	False	1.1 MiB	01-May-2002 23:29

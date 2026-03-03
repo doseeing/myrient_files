@@ -1,0 +1,42 @@
+[
+  {
+    "name": "fips",
+    "href": "fips/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/nbs/fips/",
+    "is_dir": true,
+    "size": null,
+    "date": "07-May-2016 16:26"
+  },
+  {
+    "name": "monograph",
+    "href": "monograph/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/nbs/monograph/",
+    "is_dir": true,
+    "size": null,
+    "date": "18-Jun-2021 21:29"
+  },
+  {
+    "name": "publications",
+    "href": "publications/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/nbs/publications/",
+    "is_dir": true,
+    "size": null,
+    "date": "27-Nov-2024 23:24"
+  },
+  {
+    "name": "seac",
+    "href": "seac/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/nbs/seac/",
+    "is_dir": true,
+    "size": null,
+    "date": "01-Dec-2006 21:05"
+  },
+  {
+    "name": "swac",
+    "href": "swac/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/nbs/swac/",
+    "is_dir": true,
+    "size": null,
+    "date": "01-Dec-2006 15:50"
+  }
+]

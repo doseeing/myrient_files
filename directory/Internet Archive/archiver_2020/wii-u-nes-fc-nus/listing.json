@@ -1,0 +1,914 @@
+[
+  {
+    "name": "ADVENTURES OF LOLO [000500001016B500][EUR].7z",
+    "href": "ADVENTURES%20OF%20LOLO%20%5B000500001016B500%5D%5BEUR%5D.7z",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/archiver_2020/wii-u-nes-fc-nus/ADVENTURES%20OF%20LOLO%20%5B000500001016B500%5D%5BEUR%5D.7z",
+    "is_dir": false,
+    "size": "12.5 MiB",
+    "date": "18-Jan-2020 01:33"
+  },
+  {
+    "name": "Adventure Island [0005000010134100][USA].7z",
+    "href": "Adventure%20Island%20%5B0005000010134100%5D%5BUSA%5D.7z",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/archiver_2020/wii-u-nes-fc-nus/Adventure%20Island%20%5B0005000010134100%5D%5BUSA%5D.7z",
+    "is_dir": false,
+    "size": "12.1 MiB",
+    "date": "18-Jan-2020 01:32"
+  },
+  {
+    "name": "BASEBALL [0005000010149A00][EUR].7z",
+    "href": "BASEBALL%20%5B0005000010149A00%5D%5BEUR%5D.7z",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/archiver_2020/wii-u-nes-fc-nus/BASEBALL%20%5B0005000010149A00%5D%5BEUR%5D.7z",
+    "is_dir": false,
+    "size": "12.3 MiB",
+    "date": "18-Jan-2020 01:33"
+  },
+  {
+    "name": "BLASTER MASTER [000500001018BE00][EUR].7z",
+    "href": "BLASTER%20MASTER%20%5B000500001018BE00%5D%5BEUR%5D.7z",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/archiver_2020/wii-u-nes-fc-nus/BLASTER%20MASTER%20%5B000500001018BE00%5D%5BEUR%5D.7z",
+    "is_dir": false,
+    "size": "12.6 MiB",
+    "date": "18-Jan-2020 01:34"
+  },
+  {
+    "name": "Balloon Fight [0005000010108800][USA].7z",
+    "href": "Balloon%20Fight%20%5B0005000010108800%5D%5BUSA%5D.7z",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/archiver_2020/wii-u-nes-fc-nus/Balloon%20Fight%20%5B0005000010108800%5D%5BUSA%5D.7z",
+    "is_dir": false,
+    "size": "12.1 MiB",
+    "date": "18-Jan-2020 01:33"
+  },
+  {
+    "name": "Balloon Fight [0005000010108900][EUR].7z",
+    "href": "Balloon%20Fight%20%5B0005000010108900%5D%5BEUR%5D.7z",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/archiver_2020/wii-u-nes-fc-nus/Balloon%20Fight%20%5B0005000010108900%5D%5BEUR%5D.7z",
+    "is_dir": false,
+    "size": "12.3 MiB",
+    "date": "18-Jan-2020 01:33"
+  },
+  {
+    "name": "Castlevania III Dracula's Curse [000500001015F400][USA].7z",
+    "href": "Castlevania%20III%20Dracula%27s%20Curse%20%5B000500001015F400%5D%5BUSA%5D.7z",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/archiver_2020/wii-u-nes-fc-nus/Castlevania%20III%20Dracula%27s%20Curse%20%5B000500001015F400%5D%5BUSA%5D.7z",
+    "is_dir": false,
+    "size": "12.4 MiB",
+    "date": "18-Jan-2020 01:34"
+  },
+  {
+    "name": "Castlevania [0005000010151400][USA].7z",
+    "href": "Castlevania%20%5B0005000010151400%5D%5BUSA%5D.7z",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/archiver_2020/wii-u-nes-fc-nus/Castlevania%20%5B0005000010151400%5D%5BUSA%5D.7z",
+    "is_dir": false,
+    "size": "12.2 MiB",
+    "date": "18-Jan-2020 01:34"
+  },
+  {
+    "name": "Castlevania â¡ Simon's Quest [0005000010153B00][USA].7z",
+    "href": "Castlevania%20%E2%85%A1%20Simon%27s%20Quest%20%5B0005000010153B00%5D%5BUSA%5D.7z",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/archiver_2020/wii-u-nes-fc-nus/Castlevania%20%E2%85%A1%20Simon%27s%20Quest%20%5B0005000010153B00%5D%5BUSA%5D.7z",
+    "is_dir": false,
+    "size": "12.2 MiB",
+    "date": "18-Jan-2020 01:34"
+  },
+  {
+    "name": "Clu Clu Land [000500001014A600][EUR].7z",
+    "href": "Clu%20Clu%20Land%20%5B000500001014A600%5D%5BEUR%5D.7z",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/archiver_2020/wii-u-nes-fc-nus/Clu%20Clu%20Land%20%5B000500001014A600%5D%5BEUR%5D.7z",
+    "is_dir": false,
+    "size": "12.3 MiB",
+    "date": "18-Jan-2020 01:34"
+  },
+  {
+    "name": "Crash 'n the Boys Street Challenge [000500001017F600][EUR].7z",
+    "href": "Crash%20%27n%20the%20Boys%20Street%20Challenge%20%5B000500001017F600%5D%5BEUR%5D.7z",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/archiver_2020/wii-u-nes-fc-nus/Crash%20%27n%20the%20Boys%20Street%20Challenge%20%5B000500001017F600%5D%5BEUR%5D.7z",
+    "is_dir": false,
+    "size": "12.6 MiB",
+    "date": "18-Jan-2020 01:34"
+  },
+  {
+    "name": "DONKEY KONG 3 [000500001014A800][USA].7z",
+    "href": "DONKEY%20KONG%203%20%5B000500001014A800%5D%5BUSA%5D.7z",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/archiver_2020/wii-u-nes-fc-nus/DONKEY%20KONG%203%20%5B000500001014A800%5D%5BUSA%5D.7z",
+    "is_dir": false,
+    "size": "12.1 MiB",
+    "date": "18-Jan-2020 01:35"
+  },
+  {
+    "name": "DOUBLE DRAGON II The Revenge [0005000010170C00][USA].7z",
+    "href": "DOUBLE%20DRAGON%20II%20The%20Revenge%20%5B0005000010170C00%5D%5BUSA%5D.7z",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/archiver_2020/wii-u-nes-fc-nus/DOUBLE%20DRAGON%20II%20The%20Revenge%20%5B0005000010170C00%5D%5BUSA%5D.7z",
+    "is_dir": false,
+    "size": "12.3 MiB",
+    "date": "18-Jan-2020 01:36"
+  },
+  {
+    "name": "Donkey Kong Jr. [0005000010129800][USA].7z",
+    "href": "Donkey%20Kong%20Jr.%20%5B0005000010129800%5D%5BUSA%5D.7z",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/archiver_2020/wii-u-nes-fc-nus/Donkey%20Kong%20Jr.%20%5B0005000010129800%5D%5BUSA%5D.7z",
+    "is_dir": false,
+    "size": "12.1 MiB",
+    "date": "18-Jan-2020 01:35"
+  },
+  {
+    "name": "Donkey Kong [0005000010107F00][USA].7z",
+    "href": "Donkey%20Kong%20%5B0005000010107F00%5D%5BUSA%5D.7z",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/archiver_2020/wii-u-nes-fc-nus/Donkey%20Kong%20%5B0005000010107F00%5D%5BUSA%5D.7z",
+    "is_dir": false,
+    "size": "12.1 MiB",
+    "date": "18-Jan-2020 01:34"
+  },
+  {
+    "name": "Donkey Kong [0005000010108000][EUR].7z",
+    "href": "Donkey%20Kong%20%5B0005000010108000%5D%5BEUR%5D.7z",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/archiver_2020/wii-u-nes-fc-nus/Donkey%20Kong%20%5B0005000010108000%5D%5BEUR%5D.7z",
+    "is_dir": false,
+    "size": "12.3 MiB",
+    "date": "18-Jan-2020 01:35"
+  },
+  {
+    "name": "Double Dragon III The Sacred Stones [00050000101C2800][USA].7z",
+    "href": "Double%20Dragon%20III%20The%20Sacred%20Stones%20%5B00050000101C2800%5D%5BUSA%5D.7z",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/archiver_2020/wii-u-nes-fc-nus/Double%20Dragon%20III%20The%20Sacred%20Stones%20%5B00050000101C2800%5D%5BUSA%5D.7z",
+    "is_dir": false,
+    "size": "12.7 MiB",
+    "date": "18-Jan-2020 01:36"
+  },
+  {
+    "name": "Double Dragon [0005000010153700][USA].7z",
+    "href": "Double%20Dragon%20%5B0005000010153700%5D%5BUSA%5D.7z",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/archiver_2020/wii-u-nes-fc-nus/Double%20Dragon%20%5B0005000010153700%5D%5BUSA%5D.7z",
+    "is_dir": false,
+    "size": "12.2 MiB",
+    "date": "18-Jan-2020 01:35"
+  },
+  {
+    "name": "Dr. MARIO [0005000010153100][USA].7z",
+    "href": "Dr.%20MARIO%20%5B0005000010153100%5D%5BUSA%5D.7z",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/archiver_2020/wii-u-nes-fc-nus/Dr.%20MARIO%20%5B0005000010153100%5D%5BUSA%5D.7z",
+    "is_dir": false,
+    "size": "12.1 MiB",
+    "date": "18-Jan-2020 01:36"
+  },
+  {
+    "name": "Dr. MARIO [0005000010153200][EUR].7z",
+    "href": "Dr.%20MARIO%20%5B0005000010153200%5D%5BEUR%5D.7z",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/archiver_2020/wii-u-nes-fc-nus/Dr.%20MARIO%20%5B0005000010153200%5D%5BEUR%5D.7z",
+    "is_dir": false,
+    "size": "12.3 MiB",
+    "date": "18-Jan-2020 01:36"
+  },
+  {
+    "name": "Duck Hunt [0005000010192500][USA].7z",
+    "href": "Duck%20Hunt%20%5B0005000010192500%5D%5BUSA%5D.7z",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/archiver_2020/wii-u-nes-fc-nus/Duck%20Hunt%20%5B0005000010192500%5D%5BUSA%5D.7z",
+    "is_dir": false,
+    "size": "12.4 MiB",
+    "date": "18-Jan-2020 01:36"
+  },
+  {
+    "name": "Duck Hunt [0005000010192600][EUR].7z",
+    "href": "Duck%20Hunt%20%5B0005000010192600%5D%5BEUR%5D.7z",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/archiver_2020/wii-u-nes-fc-nus/Duck%20Hunt%20%5B0005000010192600%5D%5BEUR%5D.7z",
+    "is_dir": false,
+    "size": "12.6 MiB",
+    "date": "18-Jan-2020 01:36"
+  },
+  {
+    "name": "EarthBound Beginnings [0005000010133100][USA].7z",
+    "href": "EarthBound%20Beginnings%20%5B0005000010133100%5D%5BUSA%5D.7z",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/archiver_2020/wii-u-nes-fc-nus/EarthBound%20Beginnings%20%5B0005000010133100%5D%5BUSA%5D.7z",
+    "is_dir": false,
+    "size": "12.4 MiB",
+    "date": "18-Jan-2020 01:37"
+  },
+  {
+    "name": "EarthBound Beginnings [0005000010133200][EUR].7z",
+    "href": "EarthBound%20Beginnings%20%5B0005000010133200%5D%5BEUR%5D.7z",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/archiver_2020/wii-u-nes-fc-nus/EarthBound%20Beginnings%20%5B0005000010133200%5D%5BEUR%5D.7z",
+    "is_dir": false,
+    "size": "12.6 MiB",
+    "date": "18-Jan-2020 01:37"
+  },
+  {
+    "name": "Excitebike [0005000010108200][USA].7z",
+    "href": "Excitebike%20%5B0005000010108200%5D%5BUSA%5D.7z",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/archiver_2020/wii-u-nes-fc-nus/Excitebike%20%5B0005000010108200%5D%5BUSA%5D.7z",
+    "is_dir": false,
+    "size": "12.2 MiB",
+    "date": "18-Jan-2020 01:37"
+  },
+  {
+    "name": "Excitebike [0005000010108300][EUR].7z",
+    "href": "Excitebike%20%5B0005000010108300%5D%5BEUR%5D.7z",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/archiver_2020/wii-u-nes-fc-nus/Excitebike%20%5B0005000010108300%5D%5BEUR%5D.7z",
+    "is_dir": false,
+    "size": "12.3 MiB",
+    "date": "18-Jan-2020 01:37"
+  },
+  {
+    "name": "Flying Dragon The Secret Scroll [000500001015FC00][USA].7z",
+    "href": "Flying%20Dragon%20The%20Secret%20Scroll%20%5B000500001015FC00%5D%5BUSA%5D.7z",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/archiver_2020/wii-u-nes-fc-nus/Flying%20Dragon%20The%20Secret%20Scroll%20%5B000500001015FC00%5D%5BUSA%5D.7z",
+    "is_dir": false,
+    "size": "12.2 MiB",
+    "date": "18-Jan-2020 01:38"
+  },
+  {
+    "name": "Galaga [000500001012E300][USA].7z",
+    "href": "Galaga%20%5B000500001012E300%5D%5BUSA%5D.7z",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/archiver_2020/wii-u-nes-fc-nus/Galaga%20%5B000500001012E300%5D%5BUSA%5D.7z",
+    "is_dir": false,
+    "size": "12.1 MiB",
+    "date": "18-Jan-2020 01:38"
+  },
+  {
+    "name": "Gargoyle's Quest II The Demon Darkness [000500001016C200][USA].7z",
+    "href": "Gargoyle%27s%20Quest%20II%20The%20Demon%20Darkness%20%5B000500001016C200%5D%5BUSA%5D.7z",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/archiver_2020/wii-u-nes-fc-nus/Gargoyle%27s%20Quest%20II%20The%20Demon%20Darkness%20%5B000500001016C200%5D%5BUSA%5D.7z",
+    "is_dir": false,
+    "size": "12.4 MiB",
+    "date": "18-Jan-2020 01:38"
+  },
+  {
+    "name": "Gargoyle's Quest II The Demon Darkness [000500001016C300][EUR].7z",
+    "href": "Gargoyle%27s%20Quest%20II%20The%20Demon%20Darkness%20%5B000500001016C300%5D%5BEUR%5D.7z",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/archiver_2020/wii-u-nes-fc-nus/Gargoyle%27s%20Quest%20II%20The%20Demon%20Darkness%20%5B000500001016C300%5D%5BEUR%5D.7z",
+    "is_dir": false,
+    "size": "12.6 MiB",
+    "date": "18-Jan-2020 01:38"
+  },
+  {
+    "name": "Ghosts'n Goblins [0005000010134400][USA].7z",
+    "href": "Ghosts%27n%20Goblins%20%5B0005000010134400%5D%5BUSA%5D.7z",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/archiver_2020/wii-u-nes-fc-nus/Ghosts%27n%20Goblins%20%5B0005000010134400%5D%5BUSA%5D.7z",
+    "is_dir": false,
+    "size": "12.2 MiB",
+    "date": "18-Jan-2020 01:38"
+  },
+  {
+    "name": "Ghosts'n Goblins [0005000010134500][EUR].7z",
+    "href": "Ghosts%27n%20Goblins%20%5B0005000010134500%5D%5BEUR%5D.7z",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/archiver_2020/wii-u-nes-fc-nus/Ghosts%27n%20Goblins%20%5B0005000010134500%5D%5BEUR%5D.7z",
+    "is_dir": false,
+    "size": "12.4 MiB",
+    "date": "18-Jan-2020 01:39"
+  },
+  {
+    "name": "Hogan's Alley [00050000101B5500][USA].7z",
+    "href": "Hogan%27s%20Alley%20%5B00050000101B5500%5D%5BUSA%5D.7z",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/archiver_2020/wii-u-nes-fc-nus/Hogan%27s%20Alley%20%5B00050000101B5500%5D%5BUSA%5D.7z",
+    "is_dir": false,
+    "size": "12.5 MiB",
+    "date": "18-Jan-2020 01:39"
+  },
+  {
+    "name": "Ice Climber [0005000010107500][USA].7z",
+    "href": "Ice%20Climber%20%5B0005000010107500%5D%5BUSA%5D.7z",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/archiver_2020/wii-u-nes-fc-nus/Ice%20Climber%20%5B0005000010107500%5D%5BUSA%5D.7z",
+    "is_dir": false,
+    "size": "12.1 MiB",
+    "date": "18-Jan-2020 01:39"
+  },
+  {
+    "name": "Ice Climber [0005000010107600][EUR].7z",
+    "href": "Ice%20Climber%20%5B0005000010107600%5D%5BEUR%5D.7z",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/archiver_2020/wii-u-nes-fc-nus/Ice%20Climber%20%5B0005000010107600%5D%5BEUR%5D.7z",
+    "is_dir": false,
+    "size": "12.3 MiB",
+    "date": "18-Jan-2020 01:39"
+  },
+  {
+    "name": "Kid Icarus [000500001012FD00][USA].7z",
+    "href": "Kid%20Icarus%20%5B000500001012FD00%5D%5BUSA%5D.7z",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/archiver_2020/wii-u-nes-fc-nus/Kid%20Icarus%20%5B000500001012FD00%5D%5BUSA%5D.7z",
+    "is_dir": false,
+    "size": "12.2 MiB",
+    "date": "18-Jan-2020 01:39"
+  },
+  {
+    "name": "Kid Icarus [000500001012FE00][EUR].7z",
+    "href": "Kid%20Icarus%20%5B000500001012FE00%5D%5BEUR%5D.7z",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/archiver_2020/wii-u-nes-fc-nus/Kid%20Icarus%20%5B000500001012FE00%5D%5BEUR%5D.7z",
+    "is_dir": false,
+    "size": "12.4 MiB",
+    "date": "18-Jan-2020 01:39"
+  },
+  {
+    "name": "Kirby's Adventure [0005000010107800][USA].7z",
+    "href": "Kirby%27s%20Adventure%20%5B0005000010107800%5D%5BUSA%5D.7z",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/archiver_2020/wii-u-nes-fc-nus/Kirby%27s%20Adventure%20%5B0005000010107800%5D%5BUSA%5D.7z",
+    "is_dir": false,
+    "size": "12.7 MiB",
+    "date": "18-Jan-2020 01:40"
+  },
+  {
+    "name": "Kirby's Adventure [0005000010107900][EUR].7z",
+    "href": "Kirby%27s%20Adventure%20%5B0005000010107900%5D%5BEUR%5D.7z",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/archiver_2020/wii-u-nes-fc-nus/Kirby%27s%20Adventure%20%5B0005000010107900%5D%5BEUR%5D.7z",
+    "is_dir": false,
+    "size": "12.9 MiB",
+    "date": "18-Jan-2020 01:40"
+  },
+  {
+    "name": "MEGA MAN 2 [0005000010114800][USA].7z",
+    "href": "MEGA%20MAN%202%20%5B0005000010114800%5D%5BUSA%5D.7z",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/archiver_2020/wii-u-nes-fc-nus/MEGA%20MAN%202%20%5B0005000010114800%5D%5BUSA%5D.7z",
+    "is_dir": false,
+    "size": "12.3 MiB",
+    "date": "18-Jan-2020 01:41"
+  },
+  {
+    "name": "MEGA MAN 2 [0005000010114900][EUR].7z",
+    "href": "MEGA%20MAN%202%20%5B0005000010114900%5D%5BEUR%5D.7z",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/archiver_2020/wii-u-nes-fc-nus/MEGA%20MAN%202%20%5B0005000010114900%5D%5BEUR%5D.7z",
+    "is_dir": false,
+    "size": "12.5 MiB",
+    "date": "18-Jan-2020 01:41"
+  },
+  {
+    "name": "MEGA MAN 3 [0005000010129F00][USA].7z",
+    "href": "MEGA%20MAN%203%20%5B0005000010129F00%5D%5BUSA%5D.7z",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/archiver_2020/wii-u-nes-fc-nus/MEGA%20MAN%203%20%5B0005000010129F00%5D%5BUSA%5D.7z",
+    "is_dir": false,
+    "size": "12.4 MiB",
+    "date": "18-Jan-2020 01:42"
+  },
+  {
+    "name": "MEGA MAN 3 [000500001012A000][EUR].7z",
+    "href": "MEGA%20MAN%203%20%5B000500001012A000%5D%5BEUR%5D.7z",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/archiver_2020/wii-u-nes-fc-nus/MEGA%20MAN%203%20%5B000500001012A000%5D%5BEUR%5D.7z",
+    "is_dir": false,
+    "size": "12.6 MiB",
+    "date": "18-Jan-2020 01:42"
+  },
+  {
+    "name": "MEGA MAN 4 [000500001012E700][USA].7z",
+    "href": "MEGA%20MAN%204%20%5B000500001012E700%5D%5BUSA%5D.7z",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/archiver_2020/wii-u-nes-fc-nus/MEGA%20MAN%204%20%5B000500001012E700%5D%5BUSA%5D.7z",
+    "is_dir": false,
+    "size": "12.5 MiB",
+    "date": "18-Jan-2020 01:42"
+  },
+  {
+    "name": "MEGA MAN 4 [000500001012E800][EUR].7z",
+    "href": "MEGA%20MAN%204%20%5B000500001012E800%5D%5BEUR%5D.7z",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/archiver_2020/wii-u-nes-fc-nus/MEGA%20MAN%204%20%5B000500001012E800%5D%5BEUR%5D.7z",
+    "is_dir": false,
+    "size": "12.7 MiB",
+    "date": "18-Jan-2020 01:42"
+  },
+  {
+    "name": "MEGA MAN 5 [000500001016BF00][USA].7z",
+    "href": "MEGA%20MAN%205%20%5B000500001016BF00%5D%5BUSA%5D.7z",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/archiver_2020/wii-u-nes-fc-nus/MEGA%20MAN%205%20%5B000500001016BF00%5D%5BUSA%5D.7z",
+    "is_dir": false,
+    "size": "12.4 MiB",
+    "date": "18-Jan-2020 01:42"
+  },
+  {
+    "name": "MEGA MAN 5 [000500001016C000][EUR].7z",
+    "href": "MEGA%20MAN%205%20%5B000500001016C000%5D%5BEUR%5D.7z",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/archiver_2020/wii-u-nes-fc-nus/MEGA%20MAN%205%20%5B000500001016C000%5D%5BEUR%5D.7z",
+    "is_dir": false,
+    "size": "12.6 MiB",
+    "date": "18-Jan-2020 01:43"
+  },
+  {
+    "name": "MEGA MAN 6 [0005000010160C00][USA].7z",
+    "href": "MEGA%20MAN%206%20%5B0005000010160C00%5D%5BUSA%5D.7z",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/archiver_2020/wii-u-nes-fc-nus/MEGA%20MAN%206%20%5B0005000010160C00%5D%5BUSA%5D.7z",
+    "is_dir": false,
+    "size": "12.4 MiB",
+    "date": "18-Jan-2020 01:43"
+  },
+  {
+    "name": "MEGA MAN 6 [0005000010160D00][EUR].7z",
+    "href": "MEGA%20MAN%206%20%5B0005000010160D00%5D%5BEUR%5D.7z",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/archiver_2020/wii-u-nes-fc-nus/MEGA%20MAN%206%20%5B0005000010160D00%5D%5BEUR%5D.7z",
+    "is_dir": false,
+    "size": "12.7 MiB",
+    "date": "18-Jan-2020 01:43"
+  },
+  {
+    "name": "MEGA MAN [0005000010114500][USA].7z",
+    "href": "MEGA%20MAN%20%5B0005000010114500%5D%5BUSA%5D.7z",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/archiver_2020/wii-u-nes-fc-nus/MEGA%20MAN%20%5B0005000010114500%5D%5BUSA%5D.7z",
+    "is_dir": false,
+    "size": "12.2 MiB",
+    "date": "18-Jan-2020 01:40"
+  },
+  {
+    "name": "MEGA MAN [0005000010114600][EUR].7z",
+    "href": "MEGA%20MAN%20%5B0005000010114600%5D%5BEUR%5D.7z",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/archiver_2020/wii-u-nes-fc-nus/MEGA%20MAN%20%5B0005000010114600%5D%5BEUR%5D.7z",
+    "is_dir": false,
+    "size": "12.4 MiB",
+    "date": "18-Jan-2020 01:41"
+  },
+  {
+    "name": "MIGHTY BOMB JACK [0005000010158A00][USA].7z",
+    "href": "MIGHTY%20BOMB%20JACK%20%5B0005000010158A00%5D%5BUSA%5D.7z",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/archiver_2020/wii-u-nes-fc-nus/MIGHTY%20BOMB%20JACK%20%5B0005000010158A00%5D%5BUSA%5D.7z",
+    "is_dir": false,
+    "size": "12.2 MiB",
+    "date": "18-Jan-2020 01:44"
+  },
+  {
+    "name": "Mach Rider [0005000010160800][USA].7z",
+    "href": "Mach%20Rider%20%5B0005000010160800%5D%5BUSA%5D.7z",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/archiver_2020/wii-u-nes-fc-nus/Mach%20Rider%20%5B0005000010160800%5D%5BUSA%5D.7z",
+    "is_dir": false,
+    "size": "12.1 MiB",
+    "date": "18-Jan-2020 01:40"
+  },
+  {
+    "name": "Mario & Yoshi [0005000010114300][EUR].7z",
+    "href": "Mario%20%26%20Yoshi%20%5B0005000010114300%5D%5BEUR%5D.7z",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/archiver_2020/wii-u-nes-fc-nus/Mario%20%26%20Yoshi%20%5B0005000010114300%5D%5BEUR%5D.7z",
+    "is_dir": false,
+    "size": "12.4 MiB",
+    "date": "18-Jan-2020 01:40"
+  },
+  {
+    "name": "Mario Bros. [0005000010107C00][USA].7z",
+    "href": "Mario%20Bros.%20%5B0005000010107C00%5D%5BUSA%5D.7z",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/archiver_2020/wii-u-nes-fc-nus/Mario%20Bros.%20%5B0005000010107C00%5D%5BUSA%5D.7z",
+    "is_dir": false,
+    "size": "12.1 MiB",
+    "date": "18-Jan-2020 01:40"
+  },
+  {
+    "name": "Metroid [000500001012F400][USA].7z",
+    "href": "Metroid%20%5B000500001012F400%5D%5BUSA%5D.7z",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/archiver_2020/wii-u-nes-fc-nus/Metroid%20%5B000500001012F400%5D%5BUSA%5D.7z",
+    "is_dir": false,
+    "size": "12.2 MiB",
+    "date": "18-Jan-2020 01:43"
+  },
+  {
+    "name": "Metroid [000500001012F500][EUR].7z",
+    "href": "Metroid%20%5B000500001012F500%5D%5BEUR%5D.7z",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/archiver_2020/wii-u-nes-fc-nus/Metroid%20%5B000500001012F500%5D%5BEUR%5D.7z",
+    "is_dir": false,
+    "size": "12.4 MiB",
+    "date": "18-Jan-2020 01:44"
+  },
+  {
+    "name": "Mighty Final Fight [0005000010177B00][USA].7z",
+    "href": "Mighty%20Final%20Fight%20%5B0005000010177B00%5D%5BUSA%5D.7z",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/archiver_2020/wii-u-nes-fc-nus/Mighty%20Final%20Fight%20%5B0005000010177B00%5D%5BUSA%5D.7z",
+    "is_dir": false,
+    "size": "12.3 MiB",
+    "date": "18-Jan-2020 01:44"
+  },
+  {
+    "name": "NES Open Tournament Golf [0005000010152E00][USA].7z",
+    "href": "NES%20Open%20Tournament%20Golf%20%5B0005000010152E00%5D%5BUSA%5D.7z",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/archiver_2020/wii-u-nes-fc-nus/NES%20Open%20Tournament%20Golf%20%5B0005000010152E00%5D%5BUSA%5D.7z",
+    "is_dir": false,
+    "size": "12.4 MiB",
+    "date": "18-Jan-2020 01:44"
+  },
+  {
+    "name": "NINJA GAIDEN [0005000010158700][USA].7z",
+    "href": "NINJA%20GAIDEN%20%5B0005000010158700%5D%5BUSA%5D.7z",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/archiver_2020/wii-u-nes-fc-nus/NINJA%20GAIDEN%20%5B0005000010158700%5D%5BUSA%5D.7z",
+    "is_dir": false,
+    "size": "12.3 MiB",
+    "date": "18-Jan-2020 01:45"
+  },
+  {
+    "name": "Ninja Gaiden II The Dark Sword of Chaos [00050000101C2200][USA].7z",
+    "href": "Ninja%20Gaiden%20II%20The%20Dark%20Sword%20of%20Chaos%20%5B00050000101C2200%5D%5BUSA%5D.7z",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/archiver_2020/wii-u-nes-fc-nus/Ninja%20Gaiden%20II%20The%20Dark%20Sword%20of%20Chaos%20%5B00050000101C2200%5D%5BUSA%5D.7z",
+    "is_dir": false,
+    "size": "12.8 MiB",
+    "date": "18-Jan-2020 01:45"
+  },
+  {
+    "name": "Ninja Gaiden III The Ancient Ship of Doom [00050000101C2400][USA].7z",
+    "href": "Ninja%20Gaiden%20III%20The%20Ancient%20Ship%20of%20Doom%20%5B00050000101C2400%5D%5BUSA%5D.7z",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/archiver_2020/wii-u-nes-fc-nus/Ninja%20Gaiden%20III%20The%20Ancient%20Ship%20of%20Doom%20%5B00050000101C2400%5D%5BUSA%5D.7z",
+    "is_dir": false,
+    "size": "12.8 MiB",
+    "date": "18-Jan-2020 01:45"
+  },
+  {
+    "name": "PAC-LAND [000500001016B800][USA].7z",
+    "href": "PAC-LAND%20%5B000500001016B800%5D%5BUSA%5D.7z",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/archiver_2020/wii-u-nes-fc-nus/PAC-LAND%20%5B000500001016B800%5D%5BUSA%5D.7z",
+    "is_dir": false,
+    "size": "12.1 MiB",
+    "date": "18-Jan-2020 01:45"
+  },
+  {
+    "name": "PAC-LAND [000500001016B900][EUR].7z",
+    "href": "PAC-LAND%20%5B000500001016B900%5D%5BEUR%5D.7z",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/archiver_2020/wii-u-nes-fc-nus/PAC-LAND%20%5B000500001016B900%5D%5BEUR%5D.7z",
+    "is_dir": false,
+    "size": "12.3 MiB",
+    "date": "18-Jan-2020 01:46"
+  },
+  {
+    "name": "PAC-MAN [0005000010119200][USA].7z",
+    "href": "PAC-MAN%20%5B0005000010119200%5D%5BUSA%5D.7z",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/archiver_2020/wii-u-nes-fc-nus/PAC-MAN%20%5B0005000010119200%5D%5BUSA%5D.7z",
+    "is_dir": false,
+    "size": "12.1 MiB",
+    "date": "18-Jan-2020 01:46"
+  },
+  {
+    "name": "PAC-MAN [0005000010119300][EUR].7z",
+    "href": "PAC-MAN%20%5B0005000010119300%5D%5BEUR%5D.7z",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/archiver_2020/wii-u-nes-fc-nus/PAC-MAN%20%5B0005000010119300%5D%5BEUR%5D.7z",
+    "is_dir": false,
+    "size": "12.3 MiB",
+    "date": "18-Jan-2020 01:46"
+  },
+  {
+    "name": "PINBALL [000500001014A000][EUR].7z",
+    "href": "PINBALL%20%5B000500001014A000%5D%5BEUR%5D.7z",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/archiver_2020/wii-u-nes-fc-nus/PINBALL%20%5B000500001014A000%5D%5BEUR%5D.7z",
+    "is_dir": false,
+    "size": "12.3 MiB",
+    "date": "18-Jan-2020 01:46"
+  },
+  {
+    "name": "Punch-Out!! Featuring Mr. Dream [0005000010108B00][USA].7z",
+    "href": "Punch-Out%21%21%20Featuring%20Mr.%20Dream%20%5B0005000010108B00%5D%5BUSA%5D.7z",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/archiver_2020/wii-u-nes-fc-nus/Punch-Out%21%21%20Featuring%20Mr.%20Dream%20%5B0005000010108B00%5D%5BUSA%5D.7z",
+    "is_dir": false,
+    "size": "12.3 MiB",
+    "date": "18-Jan-2020 01:47"
+  },
+  {
+    "name": "Punch-Out!! [0005000010108C00][EUR].7z",
+    "href": "Punch-Out%21%21%20%5B0005000010108C00%5D%5BEUR%5D.7z",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/archiver_2020/wii-u-nes-fc-nus/Punch-Out%21%21%20%5B0005000010108C00%5D%5BEUR%5D.7z",
+    "is_dir": false,
+    "size": "12.5 MiB",
+    "date": "18-Jan-2020 01:46"
+  },
+  {
+    "name": "River City Ransom [00050000101A0500][USA].7z",
+    "href": "River%20City%20Ransom%20%5B00050000101A0500%5D%5BUSA%5D.7z",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/archiver_2020/wii-u-nes-fc-nus/River%20City%20Ransom%20%5B00050000101A0500%5D%5BUSA%5D.7z",
+    "is_dir": false,
+    "size": "12.7 MiB",
+    "date": "18-Jan-2020 01:47"
+  },
+  {
+    "name": "Solomon's Key [0005000010129C00][USA].7z",
+    "href": "Solomon%27s%20Key%20%5B0005000010129C00%5D%5BUSA%5D.7z",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/archiver_2020/wii-u-nes-fc-nus/Solomon%27s%20Key%20%5B0005000010129C00%5D%5BUSA%5D.7z",
+    "is_dir": false,
+    "size": "12.2 MiB",
+    "date": "18-Jan-2020 01:47"
+  },
+  {
+    "name": "StarTropics [00050000101B5A00][USA].7z",
+    "href": "StarTropics%20%5B00050000101B5A00%5D%5BUSA%5D.7z",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/archiver_2020/wii-u-nes-fc-nus/StarTropics%20%5B00050000101B5A00%5D%5BUSA%5D.7z",
+    "is_dir": false,
+    "size": "13.2 MiB",
+    "date": "18-Jan-2020 01:47"
+  },
+  {
+    "name": "StarTropics [00050000101B5B00][EUR].7z",
+    "href": "StarTropics%20%5B00050000101B5B00%5D%5BEUR%5D.7z",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/archiver_2020/wii-u-nes-fc-nus/StarTropics%20%5B00050000101B5B00%5D%5BEUR%5D.7z",
+    "is_dir": false,
+    "size": "13.4 MiB",
+    "date": "18-Jan-2020 01:48"
+  },
+  {
+    "name": "Street Fighter 2010 The Final Fight [0005000010177F00][EUR].7z",
+    "href": "Street%20Fighter%202010%20The%20Final%20Fight%20%5B0005000010177F00%5D%5BEUR%5D.7z",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/archiver_2020/wii-u-nes-fc-nus/Street%20Fighter%202010%20The%20Final%20Fight%20%5B0005000010177F00%5D%5BEUR%5D.7z",
+    "is_dir": false,
+    "size": "12.6 MiB",
+    "date": "18-Jan-2020 01:48"
+  },
+  {
+    "name": "Super C [0005000010158E00][USA].7z",
+    "href": "Super%20C%20%5B0005000010158E00%5D%5BUSA%5D.7z",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/archiver_2020/wii-u-nes-fc-nus/Super%20C%20%5B0005000010158E00%5D%5BUSA%5D.7z",
+    "is_dir": false,
+    "size": "12.3 MiB",
+    "date": "18-Jan-2020 01:48"
+  },
+  {
+    "name": "Super Dodge Ball [0005000010151100][USA].7z",
+    "href": "Super%20Dodge%20Ball%20%5B0005000010151100%5D%5BUSA%5D.7z",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/archiver_2020/wii-u-nes-fc-nus/Super%20Dodge%20Ball%20%5B0005000010151100%5D%5BUSA%5D.7z",
+    "is_dir": false,
+    "size": "12.2 MiB",
+    "date": "18-Jan-2020 01:48"
+  },
+  {
+    "name": "Super Mario Bros. 2 [0005000010108500][USA].7z",
+    "href": "Super%20Mario%20Bros.%202%20%5B0005000010108500%5D%5BUSA%5D.7z",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/archiver_2020/wii-u-nes-fc-nus/Super%20Mario%20Bros.%202%20%5B0005000010108500%5D%5BUSA%5D.7z",
+    "is_dir": false,
+    "size": "12.2 MiB",
+    "date": "18-Jan-2020 01:49"
+  },
+  {
+    "name": "Super Mario Bros. 2 [0005000010108600][EUR].7z",
+    "href": "Super%20Mario%20Bros.%202%20%5B0005000010108600%5D%5BEUR%5D.7z",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/archiver_2020/wii-u-nes-fc-nus/Super%20Mario%20Bros.%202%20%5B0005000010108600%5D%5BEUR%5D.7z",
+    "is_dir": false,
+    "size": "12.5 MiB",
+    "date": "18-Jan-2020 01:49"
+  },
+  {
+    "name": "Super Mario Bros. 3 [0005000010107000][USA].7z",
+    "href": "Super%20Mario%20Bros.%203%20%5B0005000010107000%5D%5BUSA%5D.7z",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/archiver_2020/wii-u-nes-fc-nus/Super%20Mario%20Bros.%203%20%5B0005000010107000%5D%5BUSA%5D.7z",
+    "is_dir": false,
+    "size": "12.3 MiB",
+    "date": "18-Jan-2020 01:50"
+  },
+  {
+    "name": "Super Mario Bros. 3 [0005000010107100][EUR].7z",
+    "href": "Super%20Mario%20Bros.%203%20%5B0005000010107100%5D%5BEUR%5D.7z",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/archiver_2020/wii-u-nes-fc-nus/Super%20Mario%20Bros.%203%20%5B0005000010107100%5D%5BEUR%5D.7z",
+    "is_dir": false,
+    "size": "12.6 MiB",
+    "date": "18-Jan-2020 01:50"
+  },
+  {
+    "name": "Super Mario Bros. The Lost Levels [000500001012F700][USA].7z",
+    "href": "Super%20Mario%20Bros.%20The%20Lost%20Levels%20%5B000500001012F700%5D%5BUSA%5D.7z",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/archiver_2020/wii-u-nes-fc-nus/Super%20Mario%20Bros.%20The%20Lost%20Levels%20%5B000500001012F700%5D%5BUSA%5D.7z",
+    "is_dir": false,
+    "size": "12.2 MiB",
+    "date": "18-Jan-2020 01:50"
+  },
+  {
+    "name": "Super Mario Bros. The Lost Levels [000500001012F800][EUR].7z",
+    "href": "Super%20Mario%20Bros.%20The%20Lost%20Levels%20%5B000500001012F800%5D%5BEUR%5D.7z",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/archiver_2020/wii-u-nes-fc-nus/Super%20Mario%20Bros.%20The%20Lost%20Levels%20%5B000500001012F800%5D%5BEUR%5D.7z",
+    "is_dir": false,
+    "size": "12.4 MiB",
+    "date": "18-Jan-2020 01:51"
+  },
+  {
+    "name": "Super Mario Bros. [0005000010106D00][USA].7z",
+    "href": "Super%20Mario%20Bros.%20%5B0005000010106D00%5D%5BUSA%5D.7z",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/archiver_2020/wii-u-nes-fc-nus/Super%20Mario%20Bros.%20%5B0005000010106D00%5D%5BUSA%5D.7z",
+    "is_dir": false,
+    "size": "12.2 MiB",
+    "date": "18-Jan-2020 01:48"
+  },
+  {
+    "name": "Super Mario Bros. [0005000010106E00][EUR].7z",
+    "href": "Super%20Mario%20Bros.%20%5B0005000010106E00%5D%5BEUR%5D.7z",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/archiver_2020/wii-u-nes-fc-nus/Super%20Mario%20Bros.%20%5B0005000010106E00%5D%5BEUR%5D.7z",
+    "is_dir": false,
+    "size": "12.4 MiB",
+    "date": "18-Jan-2020 01:49"
+  },
+  {
+    "name": "TENNIS [0005000010149C00][USA].7z",
+    "href": "TENNIS%20%5B0005000010149C00%5D%5BUSA%5D.7z",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/archiver_2020/wii-u-nes-fc-nus/TENNIS%20%5B0005000010149C00%5D%5BUSA%5D.7z",
+    "is_dir": false,
+    "size": "12.1 MiB",
+    "date": "18-Jan-2020 01:51"
+  },
+  {
+    "name": "THE ADVENTURES OF BAYOU BiLLY [0005000010186300][USA].7z",
+    "href": "THE%20ADVENTURES%20OF%20BAYOU%20BiLLY%20%5B0005000010186300%5D%5BUSA%5D.7z",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/archiver_2020/wii-u-nes-fc-nus/THE%20ADVENTURES%20OF%20BAYOU%20BiLLY%20%5B0005000010186300%5D%5BUSA%5D.7z",
+    "is_dir": false,
+    "size": "12.8 MiB",
+    "date": "18-Jan-2020 01:51"
+  },
+  {
+    "name": "The Legend of Zelda [000500001012FA00][USA].7z",
+    "href": "The%20Legend%20of%20Zelda%20%5B000500001012FA00%5D%5BUSA%5D.7z",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/archiver_2020/wii-u-nes-fc-nus/The%20Legend%20of%20Zelda%20%5B000500001012FA00%5D%5BUSA%5D.7z",
+    "is_dir": false,
+    "size": "12.2 MiB",
+    "date": "18-Jan-2020 01:52"
+  },
+  {
+    "name": "The Legend of Zelda [000500001012FB00][EUR].7z",
+    "href": "The%20Legend%20of%20Zelda%20%5B000500001012FB00%5D%5BEUR%5D.7z",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/archiver_2020/wii-u-nes-fc-nus/The%20Legend%20of%20Zelda%20%5B000500001012FB00%5D%5BEUR%5D.7z",
+    "is_dir": false,
+    "size": "12.4 MiB",
+    "date": "18-Jan-2020 01:52"
+  },
+  {
+    "name": "Ufouria The Saga [0005000010171200][USA].7z",
+    "href": "Ufouria%20The%20Saga%20%5B0005000010171200%5D%5BUSA%5D.7z",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/archiver_2020/wii-u-nes-fc-nus/Ufouria%20The%20Saga%20%5B0005000010171200%5D%5BUSA%5D.7z",
+    "is_dir": false,
+    "size": "12.3 MiB",
+    "date": "18-Jan-2020 01:53"
+  },
+  {
+    "name": "Urban Champion [000500001014A200][USA].7z",
+    "href": "Urban%20Champion%20%5B000500001014A200%5D%5BUSA%5D.7z",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/archiver_2020/wii-u-nes-fc-nus/Urban%20Champion%20%5B000500001014A200%5D%5BUSA%5D.7z",
+    "is_dir": false,
+    "size": "12.1 MiB",
+    "date": "18-Jan-2020 01:53"
+  },
+  {
+    "name": "VS. Excitebike [00050000101B5800][USA].7z",
+    "href": "VS.%20Excitebike%20%5B00050000101B5800%5D%5BUSA%5D.7z",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/archiver_2020/wii-u-nes-fc-nus/VS.%20Excitebike%20%5B00050000101B5800%5D%5BUSA%5D.7z",
+    "is_dir": false,
+    "size": "12.8 MiB",
+    "date": "18-Jan-2020 01:53"
+  },
+  {
+    "name": "Wario's Woods [0005000010150800][USA].7z",
+    "href": "Wario%27s%20Woods%20%5B0005000010150800%5D%5BUSA%5D.7z",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/archiver_2020/wii-u-nes-fc-nus/Wario%27s%20Woods%20%5B0005000010150800%5D%5BUSA%5D.7z",
+    "is_dir": false,
+    "size": "12.3 MiB",
+    "date": "18-Jan-2020 01:53"
+  },
+  {
+    "name": "Wario's Woods [0005000010150900][EUR].7z",
+    "href": "Wario%27s%20Woods%20%5B0005000010150900%5D%5BEUR%5D.7z",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/archiver_2020/wii-u-nes-fc-nus/Wario%27s%20Woods%20%5B0005000010150900%5D%5BEUR%5D.7z",
+    "is_dir": false,
+    "size": "12.5 MiB",
+    "date": "18-Jan-2020 01:53"
+  },
+  {
+    "name": "Wild Gunman [00050000101A7200][USA].7z",
+    "href": "Wild%20Gunman%20%5B00050000101A7200%5D%5BUSA%5D.7z",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/archiver_2020/wii-u-nes-fc-nus/Wild%20Gunman%20%5B00050000101A7200%5D%5BUSA%5D.7z",
+    "is_dir": false,
+    "size": "12.5 MiB",
+    "date": "18-Jan-2020 01:54"
+  },
+  {
+    "name": "Wrecking Crew [000500001012DF00][USA].7z",
+    "href": "Wrecking%20Crew%20%5B000500001012DF00%5D%5BUSA%5D.7z",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/archiver_2020/wii-u-nes-fc-nus/Wrecking%20Crew%20%5B000500001012DF00%5D%5BUSA%5D.7z",
+    "is_dir": false,
+    "size": "12.2 MiB",
+    "date": "18-Jan-2020 01:54"
+  },
+  {
+    "name": "Wrecking Crew [000500001012E000][EUR].7z",
+    "href": "Wrecking%20Crew%20%5B000500001012E000%5D%5BEUR%5D.7z",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/archiver_2020/wii-u-nes-fc-nus/Wrecking%20Crew%20%5B000500001012E000%5D%5BEUR%5D.7z",
+    "is_dir": false,
+    "size": "12.4 MiB",
+    "date": "18-Jan-2020 01:54"
+  },
+  {
+    "name": "Xevious [0005000010113F00][USA].7z",
+    "href": "Xevious%20%5B0005000010113F00%5D%5BUSA%5D.7z",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/archiver_2020/wii-u-nes-fc-nus/Xevious%20%5B0005000010113F00%5D%5BUSA%5D.7z",
+    "is_dir": false,
+    "size": "12.1 MiB",
+    "date": "18-Jan-2020 01:54"
+  },
+  {
+    "name": "Yoshi [0005000010114200][USA].7z",
+    "href": "Yoshi%20%5B0005000010114200%5D%5BUSA%5D.7z",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/archiver_2020/wii-u-nes-fc-nus/Yoshi%20%5B0005000010114200%5D%5BUSA%5D.7z",
+    "is_dir": false,
+    "size": "12.2 MiB",
+    "date": "18-Jan-2020 01:54"
+  },
+  {
+    "name": "Zelda II - The Adventure of Link [0005000010130000][USA].7z",
+    "href": "Zelda%20II%20-%20The%20Adventure%20of%20Link%20%5B0005000010130000%5D%5BUSA%5D.7z",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/archiver_2020/wii-u-nes-fc-nus/Zelda%20II%20-%20The%20Adventure%20of%20Link%20%5B0005000010130000%5D%5BUSA%5D.7z",
+    "is_dir": false,
+    "size": "12.3 MiB",
+    "date": "18-Jan-2020 01:54"
+  },
+  {
+    "name": "Zelda II - The Adventure of Link [0005000010130100][EUR].7z",
+    "href": "Zelda%20II%20-%20The%20Adventure%20of%20Link%20%5B0005000010130100%5D%5BEUR%5D.7z",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/archiver_2020/wii-u-nes-fc-nus/Zelda%20II%20-%20The%20Adventure%20of%20Link%20%5B0005000010130100%5D%5BEUR%5D.7z",
+    "is_dir": false,
+    "size": "12.5 MiB",
+    "date": "18-Jan-2020 01:55"
+  },
+  {
+    "name": "Zoda's Revenge Star Tropics II [00050000101B5C00][USA].7z",
+    "href": "Zoda%27s%20Revenge%20Star%20Tropics%20II%20%5B00050000101B5C00%5D%5BUSA%5D.7z",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/archiver_2020/wii-u-nes-fc-nus/Zoda%27s%20Revenge%20Star%20Tropics%20II%20%5B00050000101B5C00%5D%5BUSA%5D.7z",
+    "is_dir": false,
+    "size": "12.9 MiB",
+    "date": "18-Jan-2020 01:55"
+  },
+  {
+    "name": "wii-u-nes-fc-nus_archive.torrent",
+    "href": "wii-u-nes-fc-nus_archive.torrent",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/archiver_2020/wii-u-nes-fc-nus/wii-u-nes-fc-nus_archive.torrent",
+    "is_dir": false,
+    "size": "48.2 KiB",
+    "date": "15-Feb-2021 08:51"
+  },
+  {
+    "name": "wii-u-nes-fc-nus_files.xml",
+    "href": "wii-u-nes-fc-nus_files.xml",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/archiver_2020/wii-u-nes-fc-nus/wii-u-nes-fc-nus_files.xml",
+    "is_dir": false,
+    "size": "40.0 KiB",
+    "date": "01-Jan-1970 00:00"
+  },
+  {
+    "name": "wii-u-nes-fc-nus_meta.sqlite",
+    "href": "wii-u-nes-fc-nus_meta.sqlite",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/archiver_2020/wii-u-nes-fc-nus/wii-u-nes-fc-nus_meta.sqlite",
+    "is_dir": false,
+    "size": "303.0 KiB",
+    "date": "18-Jan-2020 01:56"
+  },
+  {
+    "name": "wii-u-nes-fc-nus_meta.xml",
+    "href": "wii-u-nes-fc-nus_meta.xml",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/archiver_2020/wii-u-nes-fc-nus/wii-u-nes-fc-nus_meta.xml",
+    "is_dir": false,
+    "size": "1.5 KiB",
+    "date": "01-Sep-2024 23:22"
+  },
+  {
+    "name": "wii-u-nes-fc-nus_reviews.xml",
+    "href": "wii-u-nes-fc-nus_reviews.xml",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/archiver_2020/wii-u-nes-fc-nus/wii-u-nes-fc-nus_reviews.xml",
+    "is_dir": false,
+    "size": "1.3 KiB",
+    "date": "01-Oct-2024 05:46"
+  },
+  {
+    "name": "ãããã¯ããã³ãã¨ã¢ã³ï¼ [000500001018B300][JPN].7z",
+    "href": "%E3%81%8B%E3%82%99%E3%82%93%E3%81%AF%E3%82%99%E3%82%8C%E3%82%B3%E3%82%99%E3%82%A8%E3%83%A2%E3%83%B3%EF%BC%92%20%5B000500001018B300%5D%5BJPN%5D.7z",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/archiver_2020/wii-u-nes-fc-nus/%E3%81%8B%E3%82%99%E3%82%93%E3%81%AF%E3%82%99%E3%82%8C%E3%82%B3%E3%82%99%E3%82%A8%E3%83%A2%E3%83%B3%EF%BC%92%20%5B000500001018B300%5D%5BJPN%5D.7z",
+    "is_dir": false,
+    "size": "12.1 MiB",
+    "date": "18-Jan-2020 01:55"
+  },
+  {
+    "name": "ã¹ã¼ããã¼ããªãªããã©ãµãã¼ã¹ã [0005000010106C00][JPN].7z",
+    "href": "%E3%82%B9%E3%83%BC%E3%83%8F%E3%82%9A%E3%83%BC%E3%83%9E%E3%83%AA%E3%82%AA%E3%83%95%E3%82%99%E3%83%A9%E3%82%B5%E3%82%99%E3%83%BC%E3%82%B9%E3%82%99%20%5B0005000010106C00%5D%5BJPN%5D.7z",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/archiver_2020/wii-u-nes-fc-nus/%E3%82%B9%E3%83%BC%E3%83%8F%E3%82%9A%E3%83%BC%E3%83%9E%E3%83%AA%E3%82%AA%E3%83%95%E3%82%99%E3%83%A9%E3%82%B5%E3%82%99%E3%83%BC%E3%82%B9%E3%82%99%20%5B0005000010106C00%5D%5BJPN%5D.7z",
+    "is_dir": false,
+    "size": "11.8 MiB",
+    "date": "18-Jan-2020 01:55"
+  },
+  {
+    "name": "ã¹ã¼ããã¼ããªãªããã©ãµãã¼ã¹ãï¼ [000500001012F600][JPN].7z",
+    "href": "%E3%82%B9%E3%83%BC%E3%83%8F%E3%82%9A%E3%83%BC%E3%83%9E%E3%83%AA%E3%82%AA%E3%83%95%E3%82%99%E3%83%A9%E3%82%B5%E3%82%99%E3%83%BC%E3%82%B9%E3%82%99%EF%BC%92%20%5B000500001012F600%5D%5BJPN%5D.7z",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/archiver_2020/wii-u-nes-fc-nus/%E3%82%B9%E3%83%BC%E3%83%8F%E3%82%9A%E3%83%BC%E3%83%9E%E3%83%AA%E3%82%AA%E3%83%95%E3%82%99%E3%83%A9%E3%82%B5%E3%82%99%E3%83%BC%E3%82%B9%E3%82%99%EF%BC%92%20%5B000500001012F600%5D%5BJPN%5D.7z",
+    "is_dir": false,
+    "size": "11.9 MiB",
+    "date": "18-Jan-2020 01:55"
+  },
+  {
+    "name": "ã¹ã¼ããã¼ããªãªããã©ãµãã¼ã¹ãï¼ [0005000010106F00][JPN].7z",
+    "href": "%E3%82%B9%E3%83%BC%E3%83%8F%E3%82%9A%E3%83%BC%E3%83%9E%E3%83%AA%E3%82%AA%E3%83%95%E3%82%99%E3%83%A9%E3%82%B5%E3%82%99%E3%83%BC%E3%82%B9%E3%82%99%EF%BC%93%20%5B0005000010106F00%5D%5BJPN%5D.7z",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/archiver_2020/wii-u-nes-fc-nus/%E3%82%B9%E3%83%BC%E3%83%8F%E3%82%9A%E3%83%BC%E3%83%9E%E3%83%AA%E3%82%AA%E3%83%95%E3%82%99%E3%83%A9%E3%82%B5%E3%82%99%E3%83%BC%E3%82%B9%E3%82%99%EF%BC%93%20%5B0005000010106F00%5D%5BJPN%5D.7z",
+    "is_dir": false,
+    "size": "12.0 MiB",
+    "date": "18-Jan-2020 01:56"
+  },
+  {
+    "name": "ã¯ã¤ã¯ã¤ã¯ã¼ã«ãã2 SOS!!ããã»ãªå [000500001017F000][JPN].7z",
+    "href": "%E3%83%AF%E3%82%A4%E3%83%AF%E3%82%A4%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%88%E3%82%992%20SOS%21%21%E3%83%8F%E3%82%9A%E3%82%BB%E3%83%AA%E5%9F%8E%20%5B000500001017F000%5D%5BJPN%5D.7z",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/archiver_2020/wii-u-nes-fc-nus/%E3%83%AF%E3%82%A4%E3%83%AF%E3%82%A4%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%88%E3%82%992%20SOS%21%21%E3%83%8F%E3%82%9A%E3%82%BB%E3%83%AA%E5%9F%8E%20%5B000500001017F000%5D%5BJPN%5D.7z",
+    "is_dir": false,
+    "size": "12.2 MiB",
+    "date": "18-Jan-2020 01:56"
+  },
+  {
+    "name": "ã¯ãªãªã®æ£® [0005000010150700][JPN].7z",
+    "href": "%E3%83%AF%E3%83%AA%E3%82%AA%E3%81%AE%E6%A3%AE%20%5B0005000010150700%5D%5BJPN%5D.7z",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/archiver_2020/wii-u-nes-fc-nus/%E3%83%AF%E3%83%AA%E3%82%AA%E3%81%AE%E6%A3%AE%20%5B0005000010150700%5D%5BJPN%5D.7z",
+    "is_dir": false,
+    "size": "11.9 MiB",
+    "date": "18-Jan-2020 01:56"
+  },
+  {
+    "name": "æã®ã«ã¼ããã£ãå¤¢ã®æ³ã®ç©èª [0005000010107700][JPN].7z",
+    "href": "%E6%98%9F%E3%81%AE%E3%82%AB%E3%83%BC%E3%83%92%E3%82%99%E3%82%A3%E3%80%80%E5%A4%A2%E3%81%AE%E6%B3%89%E3%81%AE%E7%89%A9%E8%AA%9E%20%5B0005000010107700%5D%5BJPN%5D.7z",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/archiver_2020/wii-u-nes-fc-nus/%E6%98%9F%E3%81%AE%E3%82%AB%E3%83%BC%E3%83%92%E3%82%99%E3%82%A3%E3%80%80%E5%A4%A2%E3%81%AE%E6%B3%89%E3%81%AE%E7%89%A9%E8%AA%9E%20%5B0005000010107700%5D%5BJPN%5D.7z",
+    "is_dir": false,
+    "size": "12.3 MiB",
+    "date": "18-Jan-2020 01:56"
+  },
+  {
+    "name": "é£é¾ã®æ³â¡ ããã©ã³ãã³ã®ç¿¼ [000500001019FC00][JPN].7z",
+    "href": "%E9%A3%9B%E9%BE%8D%E3%81%AE%E6%8B%B3%E2%85%A1%20%E3%83%88%E3%82%99%E3%83%A9%E3%82%B3%E3%82%99%E3%83%B3%E3%81%AE%E7%BF%BC%20%5B000500001019FC00%5D%5BJPN%5D.7z",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/archiver_2020/wii-u-nes-fc-nus/%E9%A3%9B%E9%BE%8D%E3%81%AE%E6%8B%B3%E2%85%A1%20%E3%83%88%E3%82%99%E3%83%A9%E3%82%B3%E3%82%99%E3%83%B3%E3%81%AE%E7%BF%BC%20%5B000500001019FC00%5D%5BJPN%5D.7z",
+    "is_dir": false,
+    "size": "12.5 MiB",
+    "date": "18-Jan-2020 01:56"
+  }
+]

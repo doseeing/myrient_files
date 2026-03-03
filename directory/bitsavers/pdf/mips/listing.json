@@ -1,0 +1,66 @@
+[
+  {
+    "name": "M20",
+    "href": "M20/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/mips/M20/",
+    "is_dir": true,
+    "size": null,
+    "date": "16-May-2016 18:54"
+  },
+  {
+    "name": "RISCos",
+    "href": "RISCos/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/mips/RISCos/",
+    "is_dir": true,
+    "size": null,
+    "date": "07-Jun-2014 16:45"
+  },
+  {
+    "name": "brochures",
+    "href": "brochures/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/mips/brochures/",
+    "is_dir": true,
+    "size": null,
+    "date": "15-May-2016 18:43"
+  },
+  {
+    "name": "firmware",
+    "href": "firmware/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/mips/firmware/",
+    "is_dir": true,
+    "size": null,
+    "date": "16-May-2016 16:41"
+  },
+  {
+    "name": "3112DOC_M120_TechRef_Sep88.pdf",
+    "href": "3112DOC_M120_TechRef_Sep88.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/mips/3112DOC_M120_TechRef_Sep88.pdf",
+    "is_dir": false,
+    "size": "11.0 MiB",
+    "date": "21-Jun-2004 20:37"
+  },
+  {
+    "name": "ARC_1.2_Specification_1992.pdf",
+    "href": "ARC_1.2_Specification_1992.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/mips/ARC_1.2_Specification_1992.pdf",
+    "is_dir": false,
+    "size": "383.6 KiB",
+    "date": "19-Jul-2008 02:21"
+  },
+  {
+    "name": "PRM-01-DOC_PROM_Monitor_Ref_Jun92.pdf",
+    "href": "PRM-01-DOC_PROM_Monitor_Ref_Jun92.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/mips/PRM-01-DOC_PROM_Monitor_Ref_Jun92.pdf",
+    "is_dir": false,
+    "size": "67.5 KiB",
+    "date": "26-Dec-2006 19:39"
+  },
+  {
+    "name": "R4000_Preliminary_Users_Manual_1992.pdf",
+    "href": "R4000_Preliminary_Users_Manual_1992.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/mips/R4000_Preliminary_Users_Manual_1992.pdf",
+    "is_dir": false,
+    "size": "27.2 MiB",
+    "date": "15-Jun-2009 18:01"
+  }
+]

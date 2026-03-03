@@ -1,0 +1,74 @@
+[
+  {
+    "name": "16bit",
+    "href": "16bit/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/interdata/16bit/",
+    "is_dir": true,
+    "size": null,
+    "date": "21-Jun-2022 15:05"
+  },
+  {
+    "name": "32bit",
+    "href": "32bit/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/interdata/32bit/",
+    "is_dir": true,
+    "size": null,
+    "date": "15-Jun-2022 19:26"
+  },
+  {
+    "name": "catalog",
+    "href": "catalog/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/interdata/catalog/",
+    "is_dir": true,
+    "size": null,
+    "date": "16-Mar-2006 08:02"
+  },
+  {
+    "name": "diag",
+    "href": "diag/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/interdata/diag/",
+    "is_dir": true,
+    "size": null,
+    "date": "24-Jun-2022 00:32"
+  },
+  {
+    "name": "interchange",
+    "href": "interchange/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/interdata/interchange/",
+    "is_dir": true,
+    "size": null,
+    "date": "10-Mar-2006 08:41"
+  },
+  {
+    "name": "lang",
+    "href": "lang/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/interdata/lang/",
+    "is_dir": true,
+    "size": null,
+    "date": "12-Jan-2008 21:48"
+  },
+  {
+    "name": "periph",
+    "href": "periph/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/interdata/periph/",
+    "is_dir": true,
+    "size": null,
+    "date": "21-Jun-2022 14:37"
+  },
+  {
+    "name": "powerSupply",
+    "href": "powerSupply/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/interdata/powerSupply/",
+    "is_dir": true,
+    "size": null,
+    "date": "24-Apr-2010 03:05"
+  },
+  {
+    "name": "terminal",
+    "href": "terminal/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/interdata/terminal/",
+    "is_dir": true,
+    "size": null,
+    "date": "21-Jun-2022 05:07"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "name": "firmware",
+    "href": "firmware/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/codata/firmware/",
+    "is_dir": true,
+    "size": null,
+    "date": "01-Jan-2010 04:58"
+  },
+  {
+    "name": "pictures",
+    "href": "pictures/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/codata/pictures/",
+    "is_dir": true,
+    "size": null,
+    "date": "31-Dec-2009 17:48"
+  },
+  {
+    "name": "03-5020-01_Codata_3.1_File_System_Sep84.pdf",
+    "href": "03-5020-01_Codata_3.1_File_System_Sep84.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/codata/03-5020-01_Codata_3.1_File_System_Sep84.pdf",
+    "is_dir": false,
+    "size": "327.9 KiB",
+    "date": "31-Dec-2009 22:07"
+  },
+  {
+    "name": "05-0003-01_Codata_Winchester_Disk_Controller_Manual_Oct82.pdf",
+    "href": "05-0003-01_Codata_Winchester_Disk_Controller_Manual_Oct82.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/codata/05-0003-01_Codata_Winchester_Disk_Controller_Manual_Oct82.pdf",
+    "is_dir": false,
+    "size": "4.0 MiB",
+    "date": "01-Jan-2010 15:46"
+  },
+  {
+    "name": "05-0004-01_Codata_68000_Central_Processing_Unit_Hardware_Reference_Manual_Rev_A_Jan82.pdf",
+    "href": "05-0004-01_Codata_68000_Central_Processing_Unit_Hardware_Reference_Manual_Rev_A_Jan82.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/codata/05-0004-01_Codata_68000_Central_Processing_Unit_Hardware_Reference_Manual_Rev_A_Jan82.pdf",
+    "is_dir": false,
+    "size": "4.7 MiB",
+    "date": "07-Oct-2014 19:06"
+  },
+  {
+    "name": "05-0004-01_Codata_CPU_Board_Manual_Jul83.pdf",
+    "href": "05-0004-01_Codata_CPU_Board_Manual_Jul83.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/codata/05-0004-01_Codata_CPU_Board_Manual_Jul83.pdf",
+    "is_dir": false,
+    "size": "5.4 MiB",
+    "date": "01-Jan-2010 04:56"
+  },
+  {
+    "name": "Codata_3300_System_Floppy_Restore_Jan86.pdf",
+    "href": "Codata_3300_System_Floppy_Restore_Jan86.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/codata/Codata_3300_System_Floppy_Restore_Jan86.pdf",
+    "is_dir": false,
+    "size": "724.6 KiB",
+    "date": "31-Dec-2009 22:08"
+  },
+  {
+    "name": "Codata_System_Bootstrap_Rev_4.1.pdf",
+    "href": "Codata_System_Bootstrap_Rev_4.1.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/codata/Codata_System_Bootstrap_Rev_4.1.pdf",
+    "is_dir": false,
+    "size": "563.4 KiB",
+    "date": "31-Dec-2009 22:08"
+  },
+  {
+    "name": "Unisoft_UNIX_Vol_1_Aug82.pdf",
+    "href": "Unisoft_UNIX_Vol_1_Aug82.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/codata/Unisoft_UNIX_Vol_1_Aug82.pdf",
+    "is_dir": false,
+    "size": "26.8 MiB",
+    "date": "01-Jan-2010 05:01"
+  },
+  {
+    "name": "Unisoft_UNIX_Vol_2_Aug82.pdf",
+    "href": "Unisoft_UNIX_Vol_2_Aug82.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/codata/Unisoft_UNIX_Vol_2_Aug82.pdf",
+    "is_dir": false,
+    "size": "34.3 MiB",
+    "date": "01-Jan-2010 15:47"
+  },
+  {
+    "name": "Unisoft_UNIX_Vol_3_Aug82.pdf",
+    "href": "Unisoft_UNIX_Vol_3_Aug82.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/codata/Unisoft_UNIX_Vol_3_Aug82.pdf",
+    "is_dir": false,
+    "size": "30.3 MiB",
+    "date": "01-Jan-2010 15:48"
+  }
+]

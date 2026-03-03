@@ -1,0 +1,42 @@
+[
+  {
+    "name": "readme1.txt",
+    "href": "readme1.txt",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/rvt-r/readme_20230428/readme1.txt",
+    "is_dir": false,
+    "size": "673 B",
+    "date": "28-Apr-2023 10:19"
+  },
+  {
+    "name": "readme_20230428_files.xml",
+    "href": "readme_20230428_files.xml",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/rvt-r/readme_20230428/readme_20230428_files.xml",
+    "is_dir": false,
+    "size": "1.4 KiB",
+    "date": "01-Jan-1970 00:00"
+  },
+  {
+    "name": "readme_20230428_meta.sqlite",
+    "href": "readme_20230428_meta.sqlite",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/rvt-r/readme_20230428/readme_20230428_meta.sqlite",
+    "is_dir": false,
+    "size": "20.0 KiB",
+    "date": "28-Apr-2023 10:22"
+  },
+  {
+    "name": "readme_20230428_meta.xml",
+    "href": "readme_20230428_meta.xml",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/rvt-r/readme_20230428/readme_20230428_meta.xml",
+    "is_dir": false,
+    "size": "1.6 KiB",
+    "date": "09-May-2023 18:10"
+  },
+  {
+    "name": "readme_20230428_reviews.xml",
+    "href": "readme_20230428_reviews.xml",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/rvt-r/readme_20230428/readme_20230428_reviews.xml",
+    "is_dir": false,
+    "size": "18.7 KiB",
+    "date": "29-Jun-2024 13:50"
+  }
+]
