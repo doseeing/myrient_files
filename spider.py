@@ -4,7 +4,9 @@ system info into the directory/ folder, mirroring the remote structure.
 """
 
 import json
+import threading
 import time
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
 from urllib.parse import urljoin, unquote
 
@@ -13,7 +15,8 @@ from bs4 import BeautifulSoup
 
 BASE_URL = "https://myrient.erista.me/files/"
 OUTPUT_DIR = Path(__file__).resolve().parent / "directory"
-DELAY_SECONDS = 0.5  # between requests to avoid hammering the server
+DELAY_SECONDS = 0.3  # between requests to avoid hammering the server
+MAX_WORKERS = 8  # concurrent fetches
 
 
 def fetch_page(url: str) -> str:
@@ -111,41 +114,63 @@ def safe_path_component(name: str) -> str:
     return name.replace("/", "_").replace("\\", "_").strip() or "unnamed"
 
 
-def crawl_recursive(url: str, local_path: Path, visited: set[str]) -> None:
-    """Fetch a directory listing (or load from disk if resumable), save it, and recurse into subdirectories."""
+def crawl_one(
+    url: str,
+    local_path: Path,
+    visited: set[str],
+    visited_lock: threading.Lock,
+) -> list[tuple[str, Path]]:
+    """Fetch or load one directory; return list of (url, path) for subdirectories."""
     url_normalized = url.rstrip("/") + "/"
-    if url_normalized in visited:
-        return
-    visited.add(url_normalized)
+    with visited_lock:
+        if url_normalized in visited:
+            return []
+        visited.add(url_normalized)
 
     existing = load_listing(local_path)
     if existing is not None:
         print(f"Skipping (exists) {local_path} ...")
         entries = existing
     else:
-        print(f"Fetching {url_normalized} ...")
         try:
             html = fetch_page(url_normalized)
         except requests.RequestException as e:
-            print(f"  Error: {e}")
-            return
-
+            print(f"  Error {url_normalized}: {e}")
+            return []
         time.sleep(DELAY_SECONDS)
-
         entries = parse_directory_listing(html, url_normalized)
-        print(f"  Parsed {len(entries)} entries -> {local_path}")
         save_listing(entries, local_path)
+        print(f"Fetched {len(entries)} entries -> {local_path}")
 
+    subdirs = []
     for e in entries:
         if e["is_dir"] and e.get("url"):
             sub_path = local_path / safe_path_component(e["name"])
-            crawl_recursive(e["url"], sub_path, visited)
+            subdirs.append((e["url"], sub_path))
+    return subdirs
 
 
 def main() -> None:
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
     visited: set[str] = set()
-    crawl_recursive(BASE_URL, OUTPUT_DIR, visited)
+    visited_lock = threading.Lock()
+
+    with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
+        pending = {
+            executor.submit(crawl_one, BASE_URL, OUTPUT_DIR, visited, visited_lock)
+        }
+        while pending:
+            for future in as_completed(pending):
+                pending.discard(future)
+                try:
+                    subdirs = future.result()
+                    for url, path in subdirs:
+                        pending.add(
+                            executor.submit(crawl_one, url, path, visited, visited_lock)
+                        )
+                except Exception as e:
+                    print(f"Error: {e}")
+
     print(f"Done. Saved under {OUTPUT_DIR}")
 
 
