@@ -2,6 +2,7 @@
 import Layout from '../../layouts/Layout.astro';
 import { loadListing, collectAllPaths, encodePathSegment, decodePathSegment } from '../../lib/directory';
 
+const base = import.meta.env.BASE_URL;
 export function getStaticPaths() {
   const paths = collectAllPaths();
   return paths
@@ -18,7 +19,7 @@ const pathSegments = pathParam
 const listing = loadListing(pathSegments);
 
 const pathForUrl = (segments: string[]) =>
-  '/files/' + segments.map(encodePathSegment).join('/') + '/';
+  base + 'files/' + segments.map(encodePathSegment).join('/') + '/';
 
 const breadcrumbSegments: { name: string; href: string }[] = [];
 for (let i = 0; i < pathSegments.length; i++) {
@@ -31,7 +32,7 @@ for (let i = 0; i < pathSegments.length; i++) {
 
 <Layout title={`Index of /files/${pathSegments.join('/')}`} description="Content listing">
   <nav class="breadcrumb">
-    <a href="/files/">/files/</a>
+    <a href={`${base}files/`}>/files/</a>
     {breadcrumbSegments.map((seg) => (
       <>
         <a href={seg.href}>{seg.name}/</a>
