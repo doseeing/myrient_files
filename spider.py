@@ -8,6 +8,7 @@ import threading
 import time
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
+from typing import Dict, List, Optional, Set, Tuple
 from urllib.parse import urljoin, unquote
 
 import requests
@@ -26,7 +27,7 @@ def fetch_page(url: str) -> str:
     return resp.text
 
 
-def parse_directory_listing(html: str, base_url: str) -> list[dict]:
+def parse_directory_listing(html: str, base_url: str) -> List[Dict]:
     """Parse Apache-style directory listing table into list of entries."""
     soup = BeautifulSoup(html, "html.parser")
     entries = []
@@ -80,7 +81,7 @@ def parse_directory_listing(html: str, base_url: str) -> list[dict]:
     return entries
 
 
-def save_listing(entries: list[dict], path: Path) -> None:
+def save_listing(entries: List[Dict], path: Path) -> None:
     """Write listing to directory as JSON and a readable index."""
     path.mkdir(parents=True, exist_ok=True)
 
@@ -97,7 +98,7 @@ def save_listing(entries: list[dict], path: Path) -> None:
     (path / "index.txt").write_text("".join(lines), encoding="utf-8")
 
 
-def load_listing(path: Path) -> list[dict] | None:
+def load_listing(path: Path) -> Optional[List[Dict]]:
     """Load listing from directory/listing.json if it exists. Returns None if missing or invalid."""
     f = path / "listing.json"
     if not f.exists():
@@ -117,9 +118,9 @@ def safe_path_component(name: str) -> str:
 def crawl_one(
     url: str,
     local_path: Path,
-    visited: set[str],
+    visited: Set[str],
     visited_lock: threading.Lock,
-) -> list[tuple[str, Path]]:
+) -> List[Tuple[str, Path]]:
     """Fetch or load one directory; return list of (url, path) for subdirectories."""
     url_normalized = url.rstrip("/") + "/"
     with visited_lock:
@@ -152,7 +153,7 @@ def crawl_one(
 
 def main() -> None:
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
-    visited: set[str] = set()
+    visited: Set[str] = set()
     visited_lock = threading.Lock()
 
     with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
