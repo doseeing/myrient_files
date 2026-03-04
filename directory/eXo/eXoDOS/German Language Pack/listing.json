@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Content",
+    "href": "Content/",
+    "url": "https://myrient.erista.me/files/eXo/eXoDOS/German%20Language%20Pack/Content/",
+    "is_dir": true,
+    "size": null,
+    "date": "26-Sep-2025 10:48"
+  },
+  {
+    "name": "eXo",
+    "href": "eXo/",
+    "url": "https://myrient.erista.me/files/eXo/eXoDOS/German%20Language%20Pack/eXo/",
+    "is_dir": true,
+    "size": null,
+    "date": "26-Sep-2025 11:08"
+  },
+  {
+    "name": "Setup_eXoDOS-GLP.bat",
+    "href": "Setup_eXoDOS-GLP.bat",
+    "url": "https://myrient.erista.me/files/eXo/eXoDOS/German%20Language%20Pack/Setup_eXoDOS-GLP.bat",
+    "is_dir": false,
+    "size": "10.5 KiB",
+    "date": "26-Sep-2025 11:06"
+  },
+  {
+    "name": "eXoDOS GLP box-front.jpg",
+    "href": "eXoDOS%20GLP%20box-front.jpg",
+    "url": "https://myrient.erista.me/files/eXo/eXoDOS/German%20Language%20Pack/eXoDOS%20GLP%20box-front.jpg",
+    "is_dir": false,
+    "size": "2.9 MiB",
+    "date": "26-Sep-2025 11:06"
+  },
+  {
+    "name": "eXoDOS Handbuch.pdf",
+    "href": "eXoDOS%20Handbuch.pdf",
+    "url": "https://myrient.erista.me/files/eXo/eXoDOS/German%20Language%20Pack/eXoDOS%20Handbuch.pdf",
+    "is_dir": false,
+    "size": "3.1 MiB",
+    "date": "26-Sep-2025 11:06"
+  }
+]

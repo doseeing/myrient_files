@@ -1,0 +1,114 @@
+[
+  {
+    "name": "1 USA",
+    "href": "1%20USA/",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/the_last_collector/htgdb-gamepacks/%40TGFX16-CD%20CHD%201G1R%20for%20MiSTer/1%20USA/",
+    "is_dir": true,
+    "size": null,
+    "date": "07-Sep-2025 14:11"
+  },
+  {
+    "name": "2 Japan - A-M",
+    "href": "2%20Japan%20-%20A-M/",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/the_last_collector/htgdb-gamepacks/%40TGFX16-CD%20CHD%201G1R%20for%20MiSTer/2%20Japan%20-%20A-M/",
+    "is_dir": true,
+    "size": null,
+    "date": "07-Sep-2025 14:49"
+  },
+  {
+    "name": "2 Japan - N-Z",
+    "href": "2%20Japan%20-%20N-Z/",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/the_last_collector/htgdb-gamepacks/%40TGFX16-CD%20CHD%201G1R%20for%20MiSTer/2%20Japan%20-%20N-Z/",
+    "is_dir": true,
+    "size": null,
+    "date": "07-Sep-2025 14:47"
+  },
+  {
+    "name": "3 Arcade Card Enhanced",
+    "href": "3%20Arcade%20Card%20Enhanced/",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/the_last_collector/htgdb-gamepacks/%40TGFX16-CD%20CHD%201G1R%20for%20MiSTer/3%20Arcade%20Card%20Enhanced/",
+    "is_dir": true,
+    "size": null,
+    "date": "07-Sep-2025 06:02"
+  },
+  {
+    "name": "3 Arcade Card Required",
+    "href": "3%20Arcade%20Card%20Required/",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/the_last_collector/htgdb-gamepacks/%40TGFX16-CD%20CHD%201G1R%20for%20MiSTer/3%20Arcade%20Card%20Required/",
+    "is_dir": true,
+    "size": null,
+    "date": "07-Sep-2025 06:43"
+  },
+  {
+    "name": "3 Games Express",
+    "href": "3%20Games%20Express/",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/the_last_collector/htgdb-gamepacks/%40TGFX16-CD%20CHD%201G1R%20for%20MiSTer/3%20Games%20Express/",
+    "is_dir": true,
+    "size": null,
+    "date": "07-Sep-2025 13:26"
+  },
+  {
+    "name": "3 Homebrew",
+    "href": "3%20Homebrew/",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/the_last_collector/htgdb-gamepacks/%40TGFX16-CD%20CHD%201G1R%20for%20MiSTer/3%20Homebrew/",
+    "is_dir": true,
+    "size": null,
+    "date": "07-Sep-2025 13:25"
+  },
+  {
+    "name": "4 Hacks",
+    "href": "4%20Hacks/",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/the_last_collector/htgdb-gamepacks/%40TGFX16-CD%20CHD%201G1R%20for%20MiSTer/4%20Hacks/",
+    "is_dir": true,
+    "size": null,
+    "date": "07-Sep-2025 13:25"
+  },
+  {
+    "name": "4 Prototypes",
+    "href": "4%20Prototypes/",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/the_last_collector/htgdb-gamepacks/%40TGFX16-CD%20CHD%201G1R%20for%20MiSTer/4%20Prototypes/",
+    "is_dir": true,
+    "size": null,
+    "date": "07-Sep-2025 13:04"
+  },
+  {
+    "name": "4 Translations",
+    "href": "4%20Translations/",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/the_last_collector/htgdb-gamepacks/%40TGFX16-CD%20CHD%201G1R%20for%20MiSTer/4%20Translations/",
+    "is_dir": true,
+    "size": null,
+    "date": "07-Sep-2025 13:34"
+  },
+  {
+    "name": "5 Tools",
+    "href": "5%20Tools/",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/the_last_collector/htgdb-gamepacks/%40TGFX16-CD%20CHD%201G1R%20for%20MiSTer/5%20Tools/",
+    "is_dir": true,
+    "size": null,
+    "date": "07-Sep-2025 13:14"
+  },
+  {
+    "name": "README.txt",
+    "href": "README.txt",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/the_last_collector/htgdb-gamepacks/%40TGFX16-CD%20CHD%201G1R%20for%20MiSTer/README.txt",
+    "is_dir": false,
+    "size": "202 B",
+    "date": "18-May-2023 01:42"
+  },
+  {
+    "name": "cd_bios.rom",
+    "href": "cd_bios.rom",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/the_last_collector/htgdb-gamepacks/%40TGFX16-CD%20CHD%201G1R%20for%20MiSTer/cd_bios.rom",
+    "is_dir": false,
+    "size": "256.0 KiB",
+    "date": "18-May-2023 01:42"
+  },
+  {
+    "name": "create_arcade_card_symlinks.sh",
+    "href": "create_arcade_card_symlinks.sh",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/the_last_collector/htgdb-gamepacks/%40TGFX16-CD%20CHD%201G1R%20for%20MiSTer/create_arcade_card_symlinks.sh",
+    "is_dir": false,
+    "size": "3.6 KiB",
+    "date": "18-May-2023 01:42"
+  }
+]

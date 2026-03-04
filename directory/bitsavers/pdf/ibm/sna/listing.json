@@ -1,0 +1,522 @@
+[
+  {
+    "name": "SNA_Perspective",
+    "href": "SNA_Perspective/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/sna/SNA_Perspective/",
+    "is_dir": true,
+    "size": null,
+    "date": "25-Jan-2019 19:49"
+  },
+  {
+    "name": "acf",
+    "href": "acf/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/sna/acf/",
+    "is_dir": true,
+    "size": null,
+    "date": "14-Nov-2023 15:05"
+  },
+  {
+    "name": "analyst_reports",
+    "href": "analyst_reports/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/sna/analyst_reports/",
+    "is_dir": true,
+    "size": null,
+    "date": "07-Feb-2024 04:26"
+  },
+  {
+    "name": "appc",
+    "href": "appc/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/sna/appc/",
+    "is_dir": true,
+    "size": null,
+    "date": "20-Dec-2023 22:46"
+  },
+  {
+    "name": "appn",
+    "href": "appn/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/sna/appn/",
+    "is_dir": true,
+    "size": null,
+    "date": "20-Dec-2023 22:46"
+  },
+  {
+    "name": "dia",
+    "href": "dia/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/sna/dia/",
+    "is_dir": true,
+    "size": null,
+    "date": "29-Jul-2024 15:05"
+  },
+  {
+    "name": "ncp",
+    "href": "ncp/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/sna/ncp/",
+    "is_dir": true,
+    "size": null,
+    "date": "27-Oct-2025 03:12"
+  },
+  {
+    "name": "netview",
+    "href": "netview/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/sna/netview/",
+    "is_dir": true,
+    "size": null,
+    "date": "01-Nov-2023 00:30"
+  },
+  {
+    "name": "training",
+    "href": "training/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/sna/training/",
+    "is_dir": true,
+    "size": null,
+    "date": "30-Aug-2023 04:06"
+  },
+  {
+    "name": "vtam",
+    "href": "vtam/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/sna/vtam/",
+    "is_dir": true,
+    "size": null,
+    "date": "10-Dec-2024 06:28"
+  },
+  {
+    "name": "x25",
+    "href": "x25/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/sna/x25/",
+    "is_dir": true,
+    "size": null,
+    "date": "23-Aug-2024 16:02"
+  },
+  {
+    "name": "CG20-1868-2_SNA_sessions_Apr81.pdf",
+    "href": "CG20-1868-2_SNA_sessions_Apr81.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/sna/CG20-1868-2_SNA_sessions_Apr81.pdf",
+    "is_dir": false,
+    "size": "44.9 MiB",
+    "date": "12-Jul-2005 10:23"
+  },
+  {
+    "name": "G226-3543-0_SNA_Field_Engineering_Handbook_Nov1977.pdf",
+    "href": "G226-3543-0_SNA_Field_Engineering_Handbook_Nov1977.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/sna/G226-3543-0_SNA_Field_Engineering_Handbook_Nov1977.pdf",
+    "is_dir": false,
+    "size": "11.4 MiB",
+    "date": "08-Nov-2018 19:09"
+  },
+  {
+    "name": "G226-3548-0_SNA_Field_Engineering_Handbook_197903.pdf",
+    "href": "G226-3548-0_SNA_Field_Engineering_Handbook_197903.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/sna/G226-3548-0_SNA_Field_Engineering_Handbook_197903.pdf",
+    "is_dir": false,
+    "size": "16.1 MiB",
+    "date": "11-May-2024 17:03"
+  },
+  {
+    "name": "G320-6016-1_SNA_System_Problem_Determination_Guide_Aug1979.pdf",
+    "href": "G320-6016-1_SNA_System_Problem_Determination_Guide_Aug1979.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/sna/G320-6016-1_SNA_System_Problem_Determination_Guide_Aug1979.pdf",
+    "is_dir": false,
+    "size": "19.3 MiB",
+    "date": "20-Nov-2019 02:19"
+  },
+  {
+    "name": "G320-6028-0_SNA_Product_Installation_Guide_197902.pdf",
+    "href": "G320-6028-0_SNA_Product_Installation_Guide_197902.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/sna/G320-6028-0_SNA_Product_Installation_Guide_197902.pdf",
+    "is_dir": false,
+    "size": "12.8 MiB",
+    "date": "01-Mar-2022 00:49"
+  },
+  {
+    "name": "G360-1003-0_Tech_Bulletin_-_Virtual_Machine_-_SNA_Native_Support_198506.pdf",
+    "href": "G360-1003-0_Tech_Bulletin_-_Virtual_Machine_-_SNA_Native_Support_198506.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/sna/G360-1003-0_Tech_Bulletin_-_Virtual_Machine_-_SNA_Native_Support_198506.pdf",
+    "is_dir": false,
+    "size": "4.5 MiB",
+    "date": "19-Apr-2022 13:25"
+  },
+  {
+    "name": "GA27-3099-1_Advanced_Functions_for_Communications_System_Summary_197507.pdf",
+    "href": "GA27-3099-1_Advanced_Functions_for_Communications_System_Summary_197507.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/sna/GA27-3099-1_Advanced_Functions_for_Communications_System_Summary_197507.pdf",
+    "is_dir": false,
+    "size": "7.4 MiB",
+    "date": "10-Dec-2024 06:03"
+  },
+  {
+    "name": "GA27-3102-0_SNA_General_Information_Jan75.pdf",
+    "href": "GA27-3102-0_SNA_General_Information_Jan75.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/sna/GA27-3102-0_SNA_General_Information_Jan75.pdf",
+    "is_dir": false,
+    "size": "2.2 MiB",
+    "date": "08-Jan-2013 18:18"
+  },
+  {
+    "name": "GA27-3136-10_SNA_Formats_Jun89.pdf",
+    "href": "GA27-3136-10_SNA_Formats_Jun89.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/sna/GA27-3136-10_SNA_Formats_Jun89.pdf",
+    "is_dir": false,
+    "size": "19.8 MiB",
+    "date": "19-Mar-2010 21:38"
+  },
+  {
+    "name": "GA27-3136-12_SNA_Formats_199201.pdf",
+    "href": "GA27-3136-12_SNA_Formats_199201.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/sna/GA27-3136-12_SNA_Formats_199201.pdf",
+    "is_dir": false,
+    "size": "55.3 MiB",
+    "date": "20-Aug-2023 01:48"
+  },
+  {
+    "name": "GA27-3136-2_Systems_Network_Architecture_Reference_Summary_197810.pdf",
+    "href": "GA27-3136-2_Systems_Network_Architecture_Reference_Summary_197810.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/sna/GA27-3136-2_Systems_Network_Architecture_Reference_Summary_197810.pdf",
+    "is_dir": false,
+    "size": "4.5 MiB",
+    "date": "30-May-2012 03:28"
+  },
+  {
+    "name": "GA27-3136-3_Systems_Network_Architecture_Reference_Summary_197906.pdf",
+    "href": "GA27-3136-3_Systems_Network_Architecture_Reference_Summary_197906.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/sna/GA27-3136-3_Systems_Network_Architecture_Reference_Summary_197906.pdf",
+    "is_dir": false,
+    "size": "4.7 MiB",
+    "date": "14-Oct-2020 23:23"
+  },
+  {
+    "name": "GA27-3136-4_Systems_Network_Architecture_Reference_Summary_198101.pdf",
+    "href": "GA27-3136-4_Systems_Network_Architecture_Reference_Summary_198101.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/sna/GA27-3136-4_Systems_Network_Architecture_Reference_Summary_198101.pdf",
+    "is_dir": false,
+    "size": "13.6 MiB",
+    "date": "09-Nov-2018 21:36"
+  },
+  {
+    "name": "GA27-3136-5_Systems_Network_Architecture_Reference_Summary_198311.pdf",
+    "href": "GA27-3136-5_Systems_Network_Architecture_Reference_Summary_198311.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/sna/GA27-3136-5_Systems_Network_Architecture_Reference_Summary_198311.pdf",
+    "is_dir": false,
+    "size": "7.9 MiB",
+    "date": "14-Nov-2023 14:37"
+  },
+  {
+    "name": "GA27-3136-8_SNA_Formats_Jun87.pdf",
+    "href": "GA27-3136-8_SNA_Formats_Jun87.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/sna/GA27-3136-8_SNA_Formats_Jun87.pdf",
+    "is_dir": false,
+    "size": "14.7 MiB",
+    "date": "03-Jan-2021 12:05"
+  },
+  {
+    "name": "GA27-3136-9_SNA_Formats_Jun88.pdf",
+    "href": "GA27-3136-9_SNA_Formats_Jun88.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/sna/GA27-3136-9_SNA_Formats_Jun88.pdf",
+    "is_dir": false,
+    "size": "14.5 MiB",
+    "date": "09-Jan-2013 02:57"
+  },
+  {
+    "name": "GC20-1868-2_SNA_Sessions_Between_Logical_Units_Apr81.pdf",
+    "href": "GC20-1868-2_SNA_Sessions_Between_Logical_Units_Apr81.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/sna/GC20-1868-2_SNA_Sessions_Between_Logical_Units_Apr81.pdf",
+    "is_dir": false,
+    "size": "13.3 MiB",
+    "date": "17-Jan-2013 18:57"
+  },
+  {
+    "name": "GC20-1869-2_SNA_Introduction_to_Sessions_Between_Logical_Units_Dec79.pdf",
+    "href": "GC20-1869-2_SNA_Introduction_to_Sessions_Between_Logical_Units_Dec79.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/sna/GC20-1869-2_SNA_Introduction_to_Sessions_Between_Logical_Units_Dec79.pdf",
+    "is_dir": false,
+    "size": "2.8 MiB",
+    "date": "17-Jan-2013 18:06"
+  },
+  {
+    "name": "GC27-0657-1_Network_Program_Products_General_Information_Feb84.pdf",
+    "href": "GC27-0657-1_Network_Program_Products_General_Information_Feb84.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/sna/GC27-0657-1_Network_Program_Products_General_Information_Feb84.pdf",
+    "is_dir": false,
+    "size": "11.0 MiB",
+    "date": "18-Jan-2013 01:03"
+  },
+  {
+    "name": "GC27-0657-2_Network_Program_Products_General_Information_Sep85.pdf",
+    "href": "GC27-0657-2_Network_Program_Products_General_Information_Sep85.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/sna/GC27-0657-2_Network_Program_Products_General_Information_Sep85.pdf",
+    "is_dir": false,
+    "size": "11.1 MiB",
+    "date": "27-Jan-2014 22:59"
+  },
+  {
+    "name": "GC30-3072-0_SNA_Concepts_and_Products_198102.pdf",
+    "href": "GC30-3072-0_SNA_Concepts_and_Products_198102.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/sna/GC30-3072-0_SNA_Concepts_and_Products_198102.pdf",
+    "is_dir": false,
+    "size": "15.2 MiB",
+    "date": "01-Mar-2022 19:49"
+  },
+  {
+    "name": "GC30-3072-0_SNA_Concepts_and_Products_Jan81.pdf",
+    "href": "GC30-3072-0_SNA_Concepts_and_Products_Jan81.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/sna/GC30-3072-0_SNA_Concepts_and_Products_Jan81.pdf",
+    "is_dir": false,
+    "size": "9.6 MiB",
+    "date": "11-Jan-2013 02:09"
+  },
+  {
+    "name": "GC30-3072-1_SNA_Concepts_and_Products_Feb84.pdf",
+    "href": "GC30-3072-1_SNA_Concepts_and_Products_Feb84.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/sna/GC30-3072-1_SNA_Concepts_and_Products_Feb84.pdf",
+    "is_dir": false,
+    "size": "9.0 MiB",
+    "date": "08-Jan-2013 21:20"
+  },
+  {
+    "name": "GC30-3072-3_SNA_Concepts_and_Products_Oct1986.pdf",
+    "href": "GC30-3072-3_SNA_Concepts_and_Products_Oct1986.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/sna/GC30-3072-3_SNA_Concepts_and_Products_Oct1986.pdf",
+    "is_dir": false,
+    "size": "2.9 MiB",
+    "date": "14-Nov-2019 02:43"
+  },
+  {
+    "name": "GC30-3073-04_System_Network_Architecture_Technical_Overview_199401.pdf",
+    "href": "GC30-3073-04_System_Network_Architecture_Technical_Overview_199401.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/sna/GC30-3073-04_System_Network_Architecture_Technical_Overview_199401.pdf",
+    "is_dir": false,
+    "size": "33.6 MiB",
+    "date": "24-Aug-2023 02:08"
+  },
+  {
+    "name": "GC30-3073-0_SNA_Technical_Overview_Mar82.pdf",
+    "href": "GC30-3073-0_SNA_Technical_Overview_Mar82.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/sna/GC30-3073-0_SNA_Technical_Overview_Mar82.pdf",
+    "is_dir": false,
+    "size": "9.8 MiB",
+    "date": "09-Jan-2013 02:57"
+  },
+  {
+    "name": "GC30-3073-1_Systems_Network_Architecture_Technical_Overview_May85.pdf",
+    "href": "GC30-3073-1_Systems_Network_Architecture_Technical_Overview_May85.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/sna/GC30-3073-1_Systems_Network_Architecture_Technical_Overview_May85.pdf",
+    "is_dir": false,
+    "size": "7.2 MiB",
+    "date": "15-Jan-2013 16:36"
+  },
+  {
+    "name": "GC30-3084-2_SNA_Transaction_Programmers_Reference_Manual_for_LU_Type_6.2_Nov1985.pdf",
+    "href": "GC30-3084-2_SNA_Transaction_Programmers_Reference_Manual_for_LU_Type_6.2_Nov1985.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/sna/GC30-3084-2_SNA_Transaction_Programmers_Reference_Manual_for_LU_Type_6.2_Nov1985.pdf",
+    "is_dir": false,
+    "size": "16.1 MiB",
+    "date": "14-Nov-2019 01:16"
+  },
+  {
+    "name": "GC30-3085-3_Distributed_Office_Support_System_General_Information_Oct1984.pdf",
+    "href": "GC30-3085-3_Distributed_Office_Support_System_General_Information_Oct1984.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/sna/GC30-3085-3_Distributed_Office_Support_System_General_Information_Oct1984.pdf",
+    "is_dir": false,
+    "size": "3.9 MiB",
+    "date": "14-Nov-2019 02:43"
+  },
+  {
+    "name": "GC30-3438-01_Guide_to_SNA_Publications_199205.pdf",
+    "href": "GC30-3438-01_Guide_to_SNA_Publications_199205.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/sna/GC30-3438-01_Guide_to_SNA_Publications_199205.pdf",
+    "is_dir": false,
+    "size": "1.4 MiB",
+    "date": "24-Oct-2024 04:45"
+  },
+  {
+    "name": "GC31-8302-01_SNA_Management_Services_Formats_199803.pdf",
+    "href": "GC31-8302-01_SNA_Management_Services_Formats_199803.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/sna/GC31-8302-01_SNA_Management_Services_Formats_199803.pdf",
+    "is_dir": false,
+    "size": "3.7 MiB",
+    "date": "28-Feb-2022 18:32"
+  },
+  {
+    "name": "GG24-1558-0_Communication_Network_Management_Central_Site_Operation_198210.pdf",
+    "href": "GG24-1558-0_Communication_Network_Management_Central_Site_Operation_198210.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/sna/GG24-1558-0_Communication_Network_Management_Central_Site_Operation_198210.pdf",
+    "is_dir": false,
+    "size": "6.5 MiB",
+    "date": "28-Jun-2022 21:30"
+  },
+  {
+    "name": "GG24-1573-0_Small_Communications_Systems_Installation_Primer_-_IBM_4331_ACF_VTAM_Version_2_198305.pdf",
+    "href": "GG24-1573-0_Small_Communications_Systems_Installation_Primer_-_IBM_4331_ACF_VTAM_Version_2_198305.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/sna/GG24-1573-0_Small_Communications_Systems_Installation_Primer_-_IBM_4331_ACF_VTAM_Version_2_198305.pdf",
+    "is_dir": false,
+    "size": "15.6 MiB",
+    "date": "28-Jun-2022 21:30"
+  },
+  {
+    "name": "GG24-1575-0_Communication_Network_Management_Remote_Maintenance_and_Distribution_198303.pdf",
+    "href": "GG24-1575-0_Communication_Network_Management_Remote_Maintenance_and_Distribution_198303.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/sna/GG24-1575-0_Communication_Network_Management_Remote_Maintenance_and_Distribution_198303.pdf",
+    "is_dir": false,
+    "size": "5.6 MiB",
+    "date": "28-Jun-2022 21:30"
+  },
+  {
+    "name": "GG24-1578-0_Office_Systems_Interconnection_-_Guide_to_Network_Management_for_DPCX_DOSF_Systems_198305.pdf",
+    "href": "GG24-1578-0_Office_Systems_Interconnection_-_Guide_to_Network_Management_for_DPCX_DOSF_Systems_198305.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/sna/GG24-1578-0_Office_Systems_Interconnection_-_Guide_to_Network_Management_for_DPCX_DOSF_Systems_198305.pdf",
+    "is_dir": false,
+    "size": "10.9 MiB",
+    "date": "28-Jun-2022 21:30"
+  },
+  {
+    "name": "GG24-1604-0_Office_Systems_Interconnect_-_Guide_to_Connecting_non-DIA_Systems_to_DISOSS_198403.pdf",
+    "href": "GG24-1604-0_Office_Systems_Interconnect_-_Guide_to_Connecting_non-DIA_Systems_to_DISOSS_198403.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/sna/GG24-1604-0_Office_Systems_Interconnect_-_Guide_to_Connecting_non-DIA_Systems_to_DISOSS_198403.pdf",
+    "is_dir": false,
+    "size": "11.1 MiB",
+    "date": "28-Jun-2022 21:30"
+  },
+  {
+    "name": "GG24-1664-0_SNA_ENA_and_Virtual_Storage_Guide_198411.pdf",
+    "href": "GG24-1664-0_SNA_ENA_and_Virtual_Storage_Guide_198411.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/sna/GG24-1664-0_SNA_ENA_and_Virtual_Storage_Guide_198411.pdf",
+    "is_dir": false,
+    "size": "9.3 MiB",
+    "date": "28-Jun-2022 21:42"
+  },
+  {
+    "name": "GG24-3420-0_AS400_S38_and_PS2_as_T2.1_Nodes_in_a_Subarea_Network_Sep89.pdf",
+    "href": "GG24-3420-0_AS400_S38_and_PS2_as_T2.1_Nodes_in_a_Subarea_Network_Sep89.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/sna/GG24-3420-0_AS400_S38_and_PS2_as_T2.1_Nodes_in_a_Subarea_Network_Sep89.pdf",
+    "is_dir": false,
+    "size": "13.8 MiB",
+    "date": "11-Jan-2013 21:36"
+  },
+  {
+    "name": "GG24-3433-0_Enterprise_Networking_with_SNA_Type_2.1_Nodes_Nov89.pdf",
+    "href": "GG24-3433-0_Enterprise_Networking_with_SNA_Type_2.1_Nodes_Nov89.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/sna/GG24-3433-0_Enterprise_Networking_with_SNA_Type_2.1_Nodes_Nov89.pdf",
+    "is_dir": false,
+    "size": "11.6 MiB",
+    "date": "10-Jan-2013 02:24"
+  },
+  {
+    "name": "GG66-0217-00_Demystifying_the_SNA_Bind_198610.pdf",
+    "href": "GG66-0217-00_Demystifying_the_SNA_Bind_198610.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/sna/GG66-0217-00_Demystifying_the_SNA_Bind_198610.pdf",
+    "is_dir": false,
+    "size": "2.4 MiB",
+    "date": "01-Mar-2022 20:17"
+  },
+  {
+    "name": "GH19-6576-0_X.25_SNA_Interconnection_DTE-DCE_Interface_Description_198801.pdf",
+    "href": "GH19-6576-0_X.25_SNA_Interconnection_DTE-DCE_Interface_Description_198801.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/sna/GH19-6576-0_X.25_SNA_Interconnection_DTE-DCE_Interface_Description_198801.pdf",
+    "is_dir": false,
+    "size": "12.2 MiB",
+    "date": "19-Apr-2022 13:31"
+  },
+  {
+    "name": "NCP0000_R1.2_Internal_Structure_and_Dump_Analysis.pdf",
+    "href": "NCP0000_R1.2_Internal_Structure_and_Dump_Analysis.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/sna/NCP0000_R1.2_Internal_Structure_and_Dump_Analysis.pdf",
+    "is_dir": false,
+    "size": "3.8 MiB",
+    "date": "14-Apr-2022 14:28"
+  },
+  {
+    "name": "Questronics_SNA_SDLC_Pocket_Card_1981.pdf",
+    "href": "Questronics_SNA_SDLC_Pocket_Card_1981.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/sna/Questronics_SNA_SDLC_Pocket_Card_1981.pdf",
+    "is_dir": false,
+    "size": "652.8 KiB",
+    "date": "30-Jul-2021 18:39"
+  },
+  {
+    "name": "SC30-3098-3_SNA_Distribution_Services_Reference_198906.pdf",
+    "href": "SC30-3098-3_SNA_Distribution_Services_Reference_198906.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/sna/SC30-3098-3_SNA_Distribution_Services_Reference_198906.pdf",
+    "is_dir": false,
+    "size": "44.0 MiB",
+    "date": "12-Feb-2024 23:03"
+  },
+  {
+    "name": "SC30-3112-2_SNA_Format_and_Protocol_Reference_Manual_-_Architectural_Logic_198011.pdf",
+    "href": "SC30-3112-2_SNA_Format_and_Protocol_Reference_Manual_-_Architectural_Logic_198011.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/sna/SC30-3112-2_SNA_Format_and_Protocol_Reference_Manual_-_Architectural_Logic_198011.pdf",
+    "is_dir": false,
+    "size": "68.1 MiB",
+    "date": "28-Feb-2022 18:24"
+  },
+  {
+    "name": "SC30-3269-02_SNA_Format_and_Protocol_Reference_Manual_Architecture_Logic_for_LU_Type_6.2_198412.pdf",
+    "href": "SC30-3269-02_SNA_Format_and_Protocol_Reference_Manual_Architecture_Logic_for_LU_Type_6.2_198412.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/sna/SC30-3269-02_SNA_Format_and_Protocol_Reference_Manual_Architecture_Logic_for_LU_Type_6.2_198412.pdf",
+    "is_dir": false,
+    "size": "60.2 MiB",
+    "date": "26-Mar-2023 22:03"
+  },
+  {
+    "name": "SC30-3269-3_SNA_Format_and_Protocol_Reference_Manual_Architecture_Logic_for_LU_Type_6.2_198512.pdf",
+    "href": "SC30-3269-3_SNA_Format_and_Protocol_Reference_Manual_Architecture_Logic_for_LU_Type_6.2_198512.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/sna/SC30-3269-3_SNA_Format_and_Protocol_Reference_Manual_Architecture_Logic_for_LU_Type_6.2_198512.pdf",
+    "is_dir": false,
+    "size": "58.9 MiB",
+    "date": "12-Feb-2024 23:03"
+  },
+  {
+    "name": "SC30-3339-0_SNA_Format_and_Protocol_Reference_Manual_SNA_Network_Interconnection_198503.pdf",
+    "href": "SC30-3339-0_SNA_Format_and_Protocol_Reference_Manual_SNA_Network_Interconnection_198503.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/sna/SC30-3339-0_SNA_Format_and_Protocol_Reference_Manual_SNA_Network_Interconnection_198503.pdf",
+    "is_dir": false,
+    "size": "11.3 MiB",
+    "date": "12-Feb-2024 23:03"
+  },
+  {
+    "name": "SC30-3346-2_SNA_Management_Services_Reference_198906.pdf",
+    "href": "SC30-3346-2_SNA_Management_Services_Reference_198906.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/sna/SC30-3346-2_SNA_Management_Services_Reference_198906.pdf",
+    "is_dir": false,
+    "size": "32.0 MiB",
+    "date": "01-Mar-2022 00:49"
+  },
+  {
+    "name": "SC30-3353-0_Network_Program_Products_Bibliography_and_Master_Index_Jun1986.pdf",
+    "href": "SC30-3353-0_Network_Program_Products_Bibliography_and_Master_Index_Jun1986.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/sna/SC30-3353-0_Network_Program_Products_Bibliography_and_Master_Index_Jun1986.pdf",
+    "is_dir": false,
+    "size": "23.1 MiB",
+    "date": "17-Nov-2019 03:49"
+  },
+  {
+    "name": "SC30-3422-0_SNA_Format_and_Protocol_Reference_Manual_-_Architecture_Logic_for_Type_2.1_Nodes_198612.pdf",
+    "href": "SC30-3422-0_SNA_Format_and_Protocol_Reference_Manual_-_Architecture_Logic_for_Type_2.1_Nodes_198612.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/sna/SC30-3422-0_SNA_Format_and_Protocol_Reference_Manual_-_Architecture_Logic_for_Type_2.1_Nodes_198612.pdf",
+    "is_dir": false,
+    "size": "5.4 MiB",
+    "date": "01-Mar-2022 00:50"
+  },
+  {
+    "name": "SC31-6808-0_LU_6.2_Reference_Peer_Protocols_198809.pdf",
+    "href": "SC31-6808-0_LU_6.2_Reference_Peer_Protocols_198809.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/sna/SC31-6808-0_LU_6.2_Reference_Peer_Protocols_198809.pdf",
+    "is_dir": false,
+    "size": "43.3 MiB",
+    "date": "31-Mar-2023 22:48"
+  },
+  {
+    "name": "SY20-3112-2_System_Network_Architecture_Format_and_Protocol_Reference_Manual_Architectural_Logic_Nov1980.pdf",
+    "href": "SY20-3112-2_System_Network_Architecture_Format_and_Protocol_Reference_Manual_Architectural_Logic_Nov1980.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/sna/SY20-3112-2_System_Network_Architecture_Format_and_Protocol_Reference_Manual_Architectural_Logic_Nov1980.pdf",
+    "is_dir": false,
+    "size": "97.9 MiB",
+    "date": "06-Oct-2019 01:03"
+  },
+  {
+    "name": "Z325-6027-0_IBM-Apple_Enterprise_Networking_Guide_for_SNA_Products_199110.pdf",
+    "href": "Z325-6027-0_IBM-Apple_Enterprise_Networking_Guide_for_SNA_Products_199110.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/sna/Z325-6027-0_IBM-Apple_Enterprise_Networking_Guide_for_SNA_Products_199110.pdf",
+    "is_dir": false,
+    "size": "36.4 MiB",
+    "date": "01-Mar-2022 00:50"
+  }
+]

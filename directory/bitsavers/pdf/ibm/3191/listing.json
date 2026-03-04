@@ -1,0 +1,34 @@
+[
+  {
+    "name": "firmware",
+    "href": "firmware/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/3191/firmware/",
+    "is_dir": true,
+    "size": null,
+    "date": "08-May-2025 03:42"
+  },
+  {
+    "name": "pictures",
+    "href": "pictures/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/3191/pictures/",
+    "is_dir": true,
+    "size": null,
+    "date": "08-May-2025 03:41"
+  },
+  {
+    "name": "GA18-2455-1_IBM_3191_Display_Station_Problem_Solving_Guide_1_Jan1987.pdf",
+    "href": "GA18-2455-1_IBM_3191_Display_Station_Problem_Solving_Guide_1_Jan1987.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/3191/GA18-2455-1_IBM_3191_Display_Station_Problem_Solving_Guide_1_Jan1987.pdf",
+    "is_dir": false,
+    "size": "8.0 MiB",
+    "date": "13-Oct-2018 17:05"
+  },
+  {
+    "name": "GA18-2455-1_IBM_3191_Display_Station_Problem_Solving_Guide_2_Jan1987.pdf",
+    "href": "GA18-2455-1_IBM_3191_Display_Station_Problem_Solving_Guide_2_Jan1987.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/3191/GA18-2455-1_IBM_3191_Display_Station_Problem_Solving_Guide_2_Jan1987.pdf",
+    "is_dir": false,
+    "size": "3.2 MiB",
+    "date": "13-Oct-2018 17:05"
+  }
+]

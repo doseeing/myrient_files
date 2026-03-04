@@ -1,0 +1,50 @@
+[
+  {
+    "name": "firmware",
+    "href": "firmware/",
+    "url": "https://myrient.erista.me/files/bitsavers/test_equipment/millenniumSystems/9508S/firmware/",
+    "is_dir": true,
+    "size": null,
+    "date": "06-Feb-2017 01:56"
+  },
+  {
+    "name": "pictures",
+    "href": "pictures/",
+    "url": "https://myrient.erista.me/files/bitsavers/test_equipment/millenniumSystems/9508S/pictures/",
+    "is_dir": true,
+    "size": null,
+    "date": "06-Feb-2017 01:51"
+  },
+  {
+    "name": "87000063_9508_Microsystem_Emulator_Users_Manual_Rel_3.0_198201.pdf",
+    "href": "87000063_9508_Microsystem_Emulator_Users_Manual_Rel_3.0_198201.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/test_equipment/millenniumSystems/9508S/87000063_9508_Microsystem_Emulator_Users_Manual_Rel_3.0_198201.pdf",
+    "is_dir": false,
+    "size": "9.4 MiB",
+    "date": "08-Aug-2025 18:43"
+  },
+  {
+    "name": "87000076_9508_8085_Emulator_Option_Rel_1.0_198209.pdf",
+    "href": "87000076_9508_8085_Emulator_Option_Rel_1.0_198209.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/test_equipment/millenniumSystems/9508S/87000076_9508_8085_Emulator_Option_Rel_1.0_198209.pdf",
+    "is_dir": false,
+    "size": "2.6 MiB",
+    "date": "08-Aug-2025 18:43"
+  },
+  {
+    "name": "87000077_9508_8048_49_21_41A_Emulator_Option_Rel_1.0_198109.pdf",
+    "href": "87000077_9508_8048_49_21_41A_Emulator_Option_Rel_1.0_198109.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/test_equipment/millenniumSystems/9508S/87000077_9508_8048_49_21_41A_Emulator_Option_Rel_1.0_198109.pdf",
+    "is_dir": false,
+    "size": "7.2 MiB",
+    "date": "16-Aug-2025 02:04"
+  },
+  {
+    "name": "9508S_Microsystem_Emulator_Product_Description.pdf",
+    "href": "9508S_Microsystem_Emulator_Product_Description.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/test_equipment/millenniumSystems/9508S/9508S_Microsystem_Emulator_Product_Description.pdf",
+    "is_dir": false,
+    "size": "12.8 MiB",
+    "date": "08-Aug-2025 18:43"
+  }
+]

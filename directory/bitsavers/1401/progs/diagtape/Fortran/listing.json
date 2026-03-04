@@ -1,0 +1,194 @@
+[
+  {
+    "name": "01A6Aobject.txt",
+    "href": "01A6Aobject.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/progs/diagtape/Fortran/01A6Aobject.txt",
+    "is_dir": false,
+    "size": "886 B",
+    "date": "11-Sep-2005 22:48"
+  },
+  {
+    "name": "0300-1object.txt",
+    "href": "0300-1object.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/progs/diagtape/Fortran/0300-1object.txt",
+    "is_dir": false,
+    "size": "4.7 KiB",
+    "date": "10-Sep-2005 00:30"
+  },
+  {
+    "name": "0300.cd",
+    "href": "0300.cd",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/progs/diagtape/Fortran/0300.cd",
+    "is_dir": false,
+    "size": "1.4 KiB",
+    "date": "11-Sep-2005 09:02"
+  },
+  {
+    "name": "0300.dmp",
+    "href": "0300.dmp",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/progs/diagtape/Fortran/0300.dmp",
+    "is_dir": false,
+    "size": "2.2 KiB",
+    "date": "10-Sep-2005 00:30"
+  },
+  {
+    "name": "0300Object.txt",
+    "href": "0300Object.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/progs/diagtape/Fortran/0300Object.txt",
+    "is_dir": false,
+    "size": "2.5 KiB",
+    "date": "10-Sep-2005 02:11"
+  },
+  {
+    "name": "CommandLine_m.f90",
+    "href": "CommandLine_m.f90",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/progs/diagtape/Fortran/CommandLine_m.f90",
+    "is_dir": false,
+    "size": "2.8 KiB",
+    "date": "11-Sep-2005 08:26"
+  },
+  {
+    "name": "DisAsm.f90",
+    "href": "DisAsm.f90",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/progs/diagtape/Fortran/DisAsm.f90",
+    "is_dir": false,
+    "size": "2.0 KiB",
+    "date": "12-Sep-2005 04:22"
+  },
+  {
+    "name": "DisAsmAutocoder.f90",
+    "href": "DisAsmAutocoder.f90",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/progs/diagtape/Fortran/DisAsmAutocoder.f90",
+    "is_dir": false,
+    "size": "620 B",
+    "date": "11-Sep-2005 09:00"
+  },
+  {
+    "name": "DisAsmAutocoder_m.f90",
+    "href": "DisAsmAutocoder_m.f90",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/progs/diagtape/Fortran/DisAsmAutocoder_m.f90",
+    "is_dir": false,
+    "size": "2.6 KiB",
+    "date": "21-Sep-2005 04:45"
+  },
+  {
+    "name": "DisAsmDump.f90",
+    "href": "DisAsmDump.f90",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/progs/diagtape/Fortran/DisAsmDump.f90",
+    "is_dir": false,
+    "size": "590 B",
+    "date": "11-Sep-2005 09:00"
+  },
+  {
+    "name": "DisAsmDump_m.f90",
+    "href": "DisAsmDump_m.f90",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/progs/diagtape/Fortran/DisAsmDump_m.f90",
+    "is_dir": false,
+    "size": "1.5 KiB",
+    "date": "21-Sep-2005 04:46"
+  },
+  {
+    "name": "DisAsmOnePerCard.f90",
+    "href": "DisAsmOnePerCard.f90",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/progs/diagtape/Fortran/DisAsmOnePerCard.f90",
+    "is_dir": false,
+    "size": "634 B",
+    "date": "11-Sep-2005 09:00"
+  },
+  {
+    "name": "DisAsmOnePerCard_m.f90",
+    "href": "DisAsmOnePerCard_m.f90",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/progs/diagtape/Fortran/DisAsmOnePerCard_m.f90",
+    "is_dir": false,
+    "size": "3.4 KiB",
+    "date": "21-Sep-2005 04:47"
+  },
+  {
+    "name": "DisAsmOne_m.f90",
+    "href": "DisAsmOne_m.f90",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/progs/diagtape/Fortran/DisAsmOne_m.f90",
+    "is_dir": false,
+    "size": "4.2 KiB",
+    "date": "04-Oct-2005 08:22"
+  },
+  {
+    "name": "DisAsmSPS.f90",
+    "href": "DisAsmSPS.f90",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/progs/diagtape/Fortran/DisAsmSPS.f90",
+    "is_dir": false,
+    "size": "602 B",
+    "date": "11-Sep-2005 22:35"
+  },
+  {
+    "name": "DisAsmSPS_m.f90",
+    "href": "DisAsmSPS_m.f90",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/progs/diagtape/Fortran/DisAsmSPS_m.f90",
+    "is_dir": false,
+    "size": "2.5 KiB",
+    "date": "21-Sep-2005 04:47"
+  },
+  {
+    "name": "DisAsmSevenPerCard.f90",
+    "href": "DisAsmSevenPerCard.f90",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/progs/diagtape/Fortran/DisAsmSevenPerCard.f90",
+    "is_dir": false,
+    "size": "647 B",
+    "date": "11-Sep-2005 09:00"
+  },
+  {
+    "name": "DisAsmSevenPerCard_m.f90",
+    "href": "DisAsmSevenPerCard_m.f90",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/progs/diagtape/Fortran/DisAsmSevenPerCard_m.f90",
+    "is_dir": false,
+    "size": "2.4 KiB",
+    "date": "21-Sep-2005 04:48"
+  },
+  {
+    "name": "DumpCore_m.f90",
+    "href": "DumpCore_m.f90",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/progs/diagtape/Fortran/DumpCore_m.f90",
+    "is_dir": false,
+    "size": "730 B",
+    "date": "10-Sep-2005 01:08"
+  },
+  {
+    "name": "Get_Addr_m.f90",
+    "href": "Get_Addr_m.f90",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/progs/diagtape/Fortran/Get_Addr_m.f90",
+    "is_dir": false,
+    "size": "941 B",
+    "date": "10-Sep-2005 04:06"
+  },
+  {
+    "name": "Makefile",
+    "href": "Makefile",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/progs/diagtape/Fortran/Makefile",
+    "is_dir": false,
+    "size": "6.0 KiB",
+    "date": "07-Oct-2005 06:01"
+  },
+  {
+    "name": "Manifest",
+    "href": "Manifest",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/progs/diagtape/Fortran/Manifest",
+    "is_dir": false,
+    "size": "2.6 KiB",
+    "date": "11-Sep-2005 08:16"
+  },
+  {
+    "name": "Undump_m.f90",
+    "href": "Undump_m.f90",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/progs/diagtape/Fortran/Undump_m.f90",
+    "is_dir": false,
+    "size": "3.0 KiB",
+    "date": "05-Oct-2005 07:29"
+  },
+  {
+    "name": "op_codes_m.f90",
+    "href": "op_codes_m.f90",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/progs/diagtape/Fortran/op_codes_m.f90",
+    "is_dir": false,
+    "size": "6.7 KiB",
+    "date": "01-Oct-2005 06:53"
+  }
+]

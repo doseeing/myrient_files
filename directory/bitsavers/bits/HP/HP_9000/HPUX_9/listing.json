@@ -1,0 +1,50 @@
+[
+  {
+    "name": "CD",
+    "href": "CD/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_9000/HPUX_9/CD/",
+    "is_dir": true,
+    "size": null,
+    "date": "16-Jul-2018 18:34"
+  },
+  {
+    "name": "Cartridge",
+    "href": "Cartridge/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_9000/HPUX_9/Cartridge/",
+    "is_dir": true,
+    "size": null,
+    "date": "16-Jul-2018 18:35"
+  },
+  {
+    "name": "9.10_S300_Source_Product.cpio.gz",
+    "href": "9.10_S300_Source_Product.cpio.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_9000/HPUX_9/9.10_S300_Source_Product.cpio.gz",
+    "is_dir": false,
+    "size": "32.0 MiB",
+    "date": "17-Oct-2020 00:53"
+  },
+  {
+    "name": "GNU_README.txt",
+    "href": "GNU_README.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_9000/HPUX_9/GNU_README.txt",
+    "is_dir": false,
+    "size": "28.3 KiB",
+    "date": "25-Apr-2020 20:27"
+  },
+  {
+    "name": "HP-UX9.0-Full_300_7959.zip",
+    "href": "HP-UX9.0-Full_300_7959.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_9000/HPUX_9/HP-UX9.0-Full_300_7959.zip",
+    "is_dir": false,
+    "size": "70.6 MiB",
+    "date": "25-Apr-2020 20:15"
+  },
+  {
+    "name": "gnu-hpux9.00-v1.0.zip",
+    "href": "gnu-hpux9.00-v1.0.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_9000/HPUX_9/gnu-hpux9.00-v1.0.zip",
+    "is_dir": false,
+    "size": "78.4 MiB",
+    "date": "03-Oct-2020 03:21"
+  }
+]

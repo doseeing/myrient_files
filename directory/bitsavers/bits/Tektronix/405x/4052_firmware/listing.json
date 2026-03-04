@@ -1,0 +1,58 @@
+[
+  {
+    "name": "4052_Firmware_V5.1",
+    "href": "4052_Firmware_V5.1/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Tektronix/405x/4052_firmware/4052_Firmware_V5.1/",
+    "is_dir": true,
+    "size": null,
+    "date": "22-May-2020 16:52"
+  },
+  {
+    "name": "4052_Microcode_V5",
+    "href": "4052_Microcode_V5/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Tektronix/405x/4052_firmware/4052_Microcode_V5/",
+    "is_dir": true,
+    "size": null,
+    "date": "22-May-2020 16:53"
+  },
+  {
+    "name": "Diagnostic_ROM",
+    "href": "Diagnostic_ROM/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Tektronix/405x/4052_firmware/Diagnostic_ROM/",
+    "is_dir": true,
+    "size": null,
+    "date": "22-May-2020 16:53"
+  },
+  {
+    "name": "070-4524-00-4052_4054_F39_field_upgrade_kit.pdf",
+    "href": "070-4524-00-4052_4054_F39_field_upgrade_kit.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Tektronix/405x/4052_firmware/070-4524-00-4052_4054_F39_field_upgrade_kit.pdf",
+    "is_dir": false,
+    "size": "264.2 KiB",
+    "date": "07-Nov-2017 16:30"
+  },
+  {
+    "name": "Checksum.txt",
+    "href": "Checksum.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Tektronix/405x/4052_firmware/Checksum.txt",
+    "is_dir": false,
+    "size": "2.3 KiB",
+    "date": "07-Nov-2017 16:30"
+  },
+  {
+    "name": "crc16.c",
+    "href": "crc16.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Tektronix/405x/4052_firmware/crc16.c",
+    "is_dir": false,
+    "size": "1.2 KiB",
+    "date": "07-Nov-2017 16:30"
+  },
+  {
+    "name": "readme.txt",
+    "href": "readme.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Tektronix/405x/4052_firmware/readme.txt",
+    "is_dir": false,
+    "size": "1.0 KiB",
+    "date": "07-Nov-2017 16:30"
+  }
+]

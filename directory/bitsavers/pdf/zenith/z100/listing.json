@@ -1,0 +1,90 @@
+[
+  {
+    "name": "firmware",
+    "href": "firmware/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/zenith/z100/firmware/",
+    "is_dir": true,
+    "size": null,
+    "date": "23-Jan-2021 19:57"
+  },
+  {
+    "name": "upgrades",
+    "href": "upgrades/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/zenith/z100/upgrades/",
+    "is_dir": true,
+    "size": null,
+    "date": "20-Sep-2019 18:22"
+  },
+  {
+    "name": "FDC_from_Z100_Service_Manual.pdf",
+    "href": "FDC_from_Z100_Service_Manual.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/zenith/z100/FDC_from_Z100_Service_Manual.pdf",
+    "is_dir": false,
+    "size": "14.7 MiB",
+    "date": "20-Sep-2019 18:22"
+  },
+  {
+    "name": "Z-100_Motherboard.pdf",
+    "href": "Z-100_Motherboard.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/zenith/z100/Z-100_Motherboard.pdf",
+    "is_dir": false,
+    "size": "4.6 MiB",
+    "date": "20-Sep-2019 18:21"
+  },
+  {
+    "name": "Z-100_Motherboard_Schematic.pdf",
+    "href": "Z-100_Motherboard_Schematic.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/zenith/z100/Z-100_Motherboard_Schematic.pdf",
+    "is_dir": false,
+    "size": "3.6 MiB",
+    "date": "20-Sep-2019 18:22"
+  },
+  {
+    "name": "Z-100_ROM_Listing.pdf",
+    "href": "Z-100_ROM_Listing.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/zenith/z100/Z-100_ROM_Listing.pdf",
+    "is_dir": false,
+    "size": "10.8 MiB",
+    "date": "20-Sep-2019 18:21"
+  },
+  {
+    "name": "Z-100_Technical_Manual_Part_1.pdf",
+    "href": "Z-100_Technical_Manual_Part_1.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/zenith/z100/Z-100_Technical_Manual_Part_1.pdf",
+    "is_dir": false,
+    "size": "26.6 MiB",
+    "date": "20-Sep-2019 18:21"
+  },
+  {
+    "name": "Z-100_Technical_Manual_Part_2.pdf",
+    "href": "Z-100_Technical_Manual_Part_2.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/zenith/z100/Z-100_Technical_Manual_Part_2.pdf",
+    "is_dir": false,
+    "size": "19.3 MiB",
+    "date": "20-Sep-2019 18:21"
+  },
+  {
+    "name": "Z-100_Users_Manual_Part1_1985.pdf",
+    "href": "Z-100_Users_Manual_Part1_1985.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/zenith/z100/Z-100_Users_Manual_Part1_1985.pdf",
+    "is_dir": false,
+    "size": "1.4 MiB",
+    "date": "20-Sep-2019 18:26"
+  },
+  {
+    "name": "Z-100_Users_Manual_Part2_1985.pdf",
+    "href": "Z-100_Users_Manual_Part2_1985.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/zenith/z100/Z-100_Users_Manual_Part2_1985.pdf",
+    "is_dir": false,
+    "size": "2.5 MiB",
+    "date": "20-Sep-2019 18:26"
+  },
+  {
+    "name": "Z-100_Users_Manual_Winchester_Supplement_1983.pdf",
+    "href": "Z-100_Users_Manual_Winchester_Supplement_1983.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/zenith/z100/Z-100_Users_Manual_Winchester_Supplement_1983.pdf",
+    "is_dir": false,
+    "size": "612.6 KiB",
+    "date": "20-Sep-2019 18:26"
+  }
+]

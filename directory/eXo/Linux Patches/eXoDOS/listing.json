@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Content",
+    "href": "Content/",
+    "url": "https://myrient.erista.me/files/eXo/Linux%20Patches/eXoDOS/Content/",
+    "is_dir": true,
+    "size": null,
+    "date": "26-Sep-2025 05:28"
+  },
+  {
+    "name": "eXo",
+    "href": "eXo/",
+    "url": "https://myrient.erista.me/files/eXo/Linux%20Patches/eXoDOS/eXo/",
+    "is_dir": true,
+    "size": null,
+    "date": "26-Sep-2025 05:28"
+  },
+  {
+    "name": "Setup eXoDOS.command",
+    "href": "Setup%20eXoDOS.command",
+    "url": "https://myrient.erista.me/files/eXo/Linux%20Patches/eXoDOS/Setup%20eXoDOS.command",
+    "is_dir": false,
+    "size": "45.9 KiB",
+    "date": "26-Sep-2025 05:02"
+  },
+  {
+    "name": "eXoDOS Linux ReadMe.txt",
+    "href": "eXoDOS%20Linux%20ReadMe.txt",
+    "url": "https://myrient.erista.me/files/eXo/Linux%20Patches/eXoDOS/eXoDOS%20Linux%20ReadMe.txt",
+    "is_dir": false,
+    "size": "28.5 KiB",
+    "date": "26-Sep-2025 05:04"
+  },
+  {
+    "name": "eXoMerge.command",
+    "href": "eXoMerge.command",
+    "url": "https://myrient.erista.me/files/eXo/Linux%20Patches/eXoDOS/eXoMerge.command",
+    "is_dir": false,
+    "size": "19.9 KiB",
+    "date": "26-Sep-2025 05:02"
+  },
+  {
+    "name": "install_dependencies.command",
+    "href": "install_dependencies.command",
+    "url": "https://myrient.erista.me/files/eXo/Linux%20Patches/eXoDOS/install_dependencies.command",
+    "is_dir": false,
+    "size": "19.2 KiB",
+    "date": "26-Sep-2025 05:02"
+  }
+]

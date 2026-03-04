@@ -1,0 +1,146 @@
+[
+  {
+    "name": "68000",
+    "href": "68000/",
+    "url": "https://myrient.erista.me/files/bitsavers/components/motorola/68000/68000/",
+    "is_dir": true,
+    "size": null,
+    "date": "23-Aug-2025 15:23"
+  },
+  {
+    "name": "68008",
+    "href": "68008/",
+    "url": "https://myrient.erista.me/files/bitsavers/components/motorola/68000/68008/",
+    "is_dir": true,
+    "size": null,
+    "date": "23-Aug-2025 15:17"
+  },
+  {
+    "name": "68010",
+    "href": "68010/",
+    "url": "https://myrient.erista.me/files/bitsavers/components/motorola/68000/68010/",
+    "is_dir": true,
+    "size": null,
+    "date": "23-Aug-2025 15:19"
+  },
+  {
+    "name": "68020",
+    "href": "68020/",
+    "url": "https://myrient.erista.me/files/bitsavers/components/motorola/68000/68020/",
+    "is_dir": true,
+    "size": null,
+    "date": "23-Aug-2025 15:20"
+  },
+  {
+    "name": "68030",
+    "href": "68030/",
+    "url": "https://myrient.erista.me/files/bitsavers/components/motorola/68000/68030/",
+    "is_dir": true,
+    "size": null,
+    "date": "23-Aug-2025 15:22"
+  },
+  {
+    "name": "68040",
+    "href": "68040/",
+    "url": "https://myrient.erista.me/files/bitsavers/components/motorola/68000/68040/",
+    "is_dir": true,
+    "size": null,
+    "date": "23-Aug-2025 15:22"
+  },
+  {
+    "name": "68060",
+    "href": "68060/",
+    "url": "https://myrient.erista.me/files/bitsavers/components/motorola/68000/68060/",
+    "is_dir": true,
+    "size": null,
+    "date": "23-Aug-2025 15:20"
+  },
+  {
+    "name": "CPU32",
+    "href": "CPU32/",
+    "url": "https://myrient.erista.me/files/bitsavers/components/motorola/68000/CPU32/",
+    "is_dir": true,
+    "size": null,
+    "date": "23-Aug-2025 15:22"
+  },
+  {
+    "name": "FDDI",
+    "href": "FDDI/",
+    "url": "https://myrient.erista.me/files/bitsavers/components/motorola/68000/FDDI/",
+    "is_dir": true,
+    "size": null,
+    "date": "23-Aug-2025 15:22"
+  },
+  {
+    "name": "MEX68KECB",
+    "href": "MEX68KECB/",
+    "url": "https://myrient.erista.me/files/bitsavers/components/motorola/68000/MEX68KECB/",
+    "is_dir": true,
+    "size": null,
+    "date": "07-Oct-2013 01:04"
+  },
+  {
+    "name": "cross-assembler",
+    "href": "cross-assembler/",
+    "url": "https://myrient.erista.me/files/bitsavers/components/motorola/68000/cross-assembler/",
+    "is_dir": true,
+    "size": null,
+    "date": "23-Aug-2025 15:19"
+  },
+  {
+    "name": "M68000_Family_Reference_1988.pdf",
+    "href": "M68000_Family_Reference_1988.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/motorola/68000/M68000_Family_Reference_1988.pdf",
+    "is_dir": false,
+    "size": "22.2 MiB",
+    "date": "14-Aug-2012 16:29"
+  },
+  {
+    "name": "MC68440_Dual_Channel_DMA_Controller_Feb84.pdf",
+    "href": "MC68440_Dual_Channel_DMA_Controller_Feb84.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/motorola/68000/MC68440_Dual_Channel_DMA_Controller_Feb84.pdf",
+    "is_dir": false,
+    "size": "4.1 MiB",
+    "date": "15-Aug-2012 00:51"
+  },
+  {
+    "name": "MC68450_Direct_Memory_Access_Controller_DMAC_Jul89.pdf",
+    "href": "MC68450_Direct_Memory_Access_Controller_DMAC_Jul89.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/motorola/68000/MC68450_Direct_Memory_Access_Controller_DMAC_Jul89.pdf",
+    "is_dir": false,
+    "size": "4.8 MiB",
+    "date": "18-Jul-2015 01:22"
+  },
+  {
+    "name": "MC68605_X.25_Protocol_Controller_Users_Manual.pdf",
+    "href": "MC68605_X.25_Protocol_Controller_Users_Manual.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/motorola/68000/MC68605_X.25_Protocol_Controller_Users_Manual.pdf",
+    "is_dir": false,
+    "size": "7.2 MiB",
+    "date": "14-Aug-2021 11:41"
+  },
+  {
+    "name": "MC68681_Dual_Asynchronous_Receiver_Transmitter_DUART_Sep85.pdf",
+    "href": "MC68681_Dual_Asynchronous_Receiver_Transmitter_DUART_Sep85.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/motorola/68000/MC68681_Dual_Asynchronous_Receiver_Transmitter_DUART_Sep85.pdf",
+    "is_dir": false,
+    "size": "2.8 MiB",
+    "date": "18-Jul-2015 01:24"
+  },
+  {
+    "name": "MC68824_Token_Bus_Controller_1987.pdf",
+    "href": "MC68824_Token_Bus_Controller_1987.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/motorola/68000/MC68824_Token_Bus_Controller_1987.pdf",
+    "is_dir": false,
+    "size": "6.0 MiB",
+    "date": "15-Aug-2012 00:55"
+  },
+  {
+    "name": "MC68901_Multi-Function_Peripheral_Jan84.pdf",
+    "href": "MC68901_Multi-Function_Peripheral_Jan84.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/motorola/68000/MC68901_Multi-Function_Peripheral_Jan84.pdf",
+    "is_dir": false,
+    "size": "1.6 MiB",
+    "date": "15-Aug-2012 00:51"
+  }
+]

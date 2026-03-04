@@ -1,0 +1,66 @@
+[
+  {
+    "name": "nvram",
+    "href": "nvram/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/ptm/nvram/",
+    "is_dir": true,
+    "size": null,
+    "date": "21-Apr-2017 01:39"
+  },
+  {
+    "name": "patch-nvram",
+    "href": "patch-nvram/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/ptm/patch-nvram/",
+    "is_dir": true,
+    "size": null,
+    "date": "21-Apr-2017 01:39"
+  },
+  {
+    "name": "copy-dir.lisp.2",
+    "href": "copy-dir.lisp.2",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/ptm/copy-dir.lisp.2",
+    "is_dir": false,
+    "size": "3.1 KiB",
+    "date": "21-Apr-2017 01:06"
+  },
+  {
+    "name": "disk.lisp.1",
+    "href": "disk.lisp.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/ptm/disk.lisp.1",
+    "is_dir": false,
+    "size": "129.3 KiB",
+    "date": "21-Apr-2017 01:06"
+  },
+  {
+    "name": "dledit.lisp.1",
+    "href": "dledit.lisp.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/ptm/dledit.lisp.1",
+    "is_dir": false,
+    "size": "50.2 KiB",
+    "date": "21-Apr-2017 01:06"
+  },
+  {
+    "name": "exp-dledit.lisp.2",
+    "href": "exp-dledit.lisp.2",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/ptm/exp-dledit.lisp.2",
+    "is_dir": false,
+    "size": "4.0 KiB",
+    "date": "21-Apr-2017 01:06"
+  },
+  {
+    "name": "uc-abort-handler.lisp.3",
+    "href": "uc-abort-handler.lisp.3",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/ptm/uc-abort-handler.lisp.3",
+    "is_dir": false,
+    "size": "1.8 KiB",
+    "date": "21-Apr-2017 01:06"
+  },
+  {
+    "name": "uc-crash-record.lisp.6",
+    "href": "uc-crash-record.lisp.6",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/ptm/uc-crash-record.lisp.6",
+    "is_dir": false,
+    "size": "3.7 KiB",
+    "date": "21-Apr-2017 01:06"
+  }
+]

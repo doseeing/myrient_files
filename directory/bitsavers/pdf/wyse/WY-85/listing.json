@@ -1,0 +1,50 @@
+[
+  {
+    "name": "firmware",
+    "href": "firmware/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/wyse/WY-85/firmware/",
+    "is_dir": true,
+    "size": null,
+    "date": "24-Aug-2016 01:44"
+  },
+  {
+    "name": "pictures",
+    "href": "pictures/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/wyse/WY-85/pictures/",
+    "is_dir": true,
+    "size": null,
+    "date": "04-Feb-2022 20:08"
+  },
+  {
+    "name": "88-060-01B_WY-85_Users_Guide_May85.pdf",
+    "href": "88-060-01B_WY-85_Users_Guide_May85.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/wyse/WY-85/88-060-01B_WY-85_Users_Guide_May85.pdf",
+    "is_dir": false,
+    "size": "3.4 MiB",
+    "date": "04-Dec-2016 17:29"
+  },
+  {
+    "name": "88-081-01A_WY-85_Maintenance_Manual_198508.pdf",
+    "href": "88-081-01A_WY-85_Maintenance_Manual_198508.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/wyse/WY-85/88-081-01A_WY-85_Maintenance_Manual_198508.pdf",
+    "is_dir": false,
+    "size": "6.1 MiB",
+    "date": "04-Jul-2024 19:04"
+  },
+  {
+    "name": "WY85-23-121-r7D.HEX",
+    "href": "WY85-23-121-r7D.HEX",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/wyse/WY-85/WY85-23-121-r7D.HEX",
+    "is_dir": false,
+    "size": "45.0 KiB",
+    "date": "20-Mar-2021 08:57"
+  },
+  {
+    "name": "WY85_pcb.jpg",
+    "href": "WY85_pcb.jpg",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/wyse/WY-85/WY85_pcb.jpg",
+    "is_dir": false,
+    "size": "72.2 KiB",
+    "date": "20-Mar-2021 08:57"
+  }
+]

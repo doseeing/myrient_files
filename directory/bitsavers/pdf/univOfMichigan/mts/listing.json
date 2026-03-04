@@ -1,0 +1,50 @@
+[
+  {
+    "name": "internal",
+    "href": "internal/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/univOfMichigan/mts/internal/",
+    "is_dir": true,
+    "size": null,
+    "date": "23-Jan-2021 19:46"
+  },
+  {
+    "name": "memos",
+    "href": "memos/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/univOfMichigan/mts/memos/",
+    "is_dir": true,
+    "size": null,
+    "date": "23-Jan-2021 19:46"
+  },
+  {
+    "name": "volumes",
+    "href": "volumes/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/univOfMichigan/mts/volumes/",
+    "is_dir": true,
+    "size": null,
+    "date": "20-Nov-2018 18:47"
+  },
+  {
+    "name": "Michigan_Terminal_System_Second_Edition_Vol1_Dec67.pdf",
+    "href": "Michigan_Terminal_System_Second_Edition_Vol1_Dec67.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/univOfMichigan/mts/Michigan_Terminal_System_Second_Edition_Vol1_Dec67.pdf",
+    "is_dir": false,
+    "size": "17.0 MiB",
+    "date": "20-Jan-2008 17:43"
+  },
+  {
+    "name": "Michigan_Terminal_System_Second_Edition_Vol2_Dec67.pdf",
+    "href": "Michigan_Terminal_System_Second_Edition_Vol2_Dec67.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/univOfMichigan/mts/Michigan_Terminal_System_Second_Edition_Vol2_Dec67.pdf",
+    "is_dir": false,
+    "size": "13.2 MiB",
+    "date": "20-Jan-2008 17:44"
+  },
+  {
+    "name": "readme.txt",
+    "href": "readme.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/univOfMichigan/mts/readme.txt",
+    "is_dir": false,
+    "size": "2.1 KiB",
+    "date": "11-Jan-2011 16:31"
+  }
+]

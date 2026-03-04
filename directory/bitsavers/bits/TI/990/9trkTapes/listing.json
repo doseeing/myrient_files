@@ -1,0 +1,50 @@
+[
+  {
+    "name": "orig",
+    "href": "orig/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/TI/990/9trkTapes/orig/",
+    "is_dir": true,
+    "size": null,
+    "date": "10-Mar-2006 08:18"
+  },
+  {
+    "name": "rereads",
+    "href": "rereads/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/TI/990/9trkTapes/rereads/",
+    "is_dir": true,
+    "size": null,
+    "date": "10-Mar-2006 08:21"
+  },
+  {
+    "name": "DX10_3.7patches.tap.gz",
+    "href": "DX10_3.7patches.tap.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/TI/990/9trkTapes/DX10_3.7patches.tap.gz",
+    "is_dir": false,
+    "size": "686.1 KiB",
+    "date": "02-Jul-2004 16:03"
+  },
+  {
+    "name": "DX10_3.7patches_blocking.txt",
+    "href": "DX10_3.7patches_blocking.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/TI/990/9trkTapes/DX10_3.7patches_blocking.txt",
+    "is_dir": false,
+    "size": "10.5 KiB",
+    "date": "02-Jul-2004 16:20"
+  },
+  {
+    "name": "S$DIAG_short_blocking.txt",
+    "href": "S%24DIAG_short_blocking.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/TI/990/9trkTapes/S%24DIAG_short_blocking.txt",
+    "is_dir": false,
+    "size": "1.8 KiB",
+    "date": "02-Jul-2004 16:20"
+  },
+  {
+    "name": "S$UDIAG_short.tap.gz",
+    "href": "S%24UDIAG_short.tap.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/TI/990/9trkTapes/S%24UDIAG_short.tap.gz",
+    "is_dir": false,
+    "size": "2.4 MiB",
+    "date": "02-Jul-2004 16:07"
+  }
+]

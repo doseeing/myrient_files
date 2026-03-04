@@ -1,0 +1,34 @@
+[
+  {
+    "name": "firmware",
+    "href": "firmware/",
+    "url": "https://myrient.erista.me/files/bitsavers/communications/localData/InterLynx_3278/3278_sn15930/firmware/",
+    "is_dir": true,
+    "size": null,
+    "date": "18-Oct-2021 15:46"
+  },
+  {
+    "name": "b.jpg",
+    "href": "b.jpg",
+    "url": "https://myrient.erista.me/files/bitsavers/communications/localData/InterLynx_3278/3278_sn15930/b.jpg",
+    "is_dir": false,
+    "size": "269.7 KiB",
+    "date": "18-Oct-2021 00:55"
+  },
+  {
+    "name": "f.jpg",
+    "href": "f.jpg",
+    "url": "https://myrient.erista.me/files/bitsavers/communications/localData/InterLynx_3278/3278_sn15930/f.jpg",
+    "is_dir": false,
+    "size": "331.5 KiB",
+    "date": "18-Oct-2021 00:55"
+  },
+  {
+    "name": "pcb.jpg",
+    "href": "pcb.jpg",
+    "url": "https://myrient.erista.me/files/bitsavers/communications/localData/InterLynx_3278/3278_sn15930/pcb.jpg",
+    "is_dir": false,
+    "size": "1.0 MiB",
+    "date": "18-Oct-2021 00:55"
+  }
+]

@@ -1,0 +1,594 @@
+[
+  {
+    "name": "firmware",
+    "href": "firmware/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intel/iSBC/firmware/",
+    "is_dir": true,
+    "size": null,
+    "date": "25-Nov-2016 17:51"
+  },
+  {
+    "name": "pictures",
+    "href": "pictures/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intel/iSBC/pictures/",
+    "is_dir": true,
+    "size": null,
+    "date": "14-Dec-2009 21:53"
+  },
+  {
+    "name": "112748-001_iSBC_012B_RAM_Hardware_Reference_Manual_Apr82.pdf",
+    "href": "112748-001_iSBC_012B_RAM_Hardware_Reference_Manual_Apr82.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intel/iSBC/112748-001_iSBC_012B_RAM_Hardware_Reference_Manual_Apr82.pdf",
+    "is_dir": false,
+    "size": "1.7 MiB",
+    "date": "06-Sep-2011 16:41"
+  },
+  {
+    "name": "121593-002_iSBC_215_Winchester_Disk_Controller_Hardware_Reference_Manual_Sep1981.pdf",
+    "href": "121593-002_iSBC_215_Winchester_Disk_Controller_Hardware_Reference_Manual_Sep1981.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intel/iSBC/121593-002_iSBC_215_Winchester_Disk_Controller_Hardware_Reference_Manual_Sep1981.pdf",
+    "is_dir": false,
+    "size": "11.5 MiB",
+    "date": "15-Dec-2018 02:42"
+  },
+  {
+    "name": "121597-001_iSBC_220_SMD_Disk_Controller_Hardware_Reference_1980.pdf",
+    "href": "121597-001_iSBC_220_SMD_Disk_Controller_Hardware_Reference_1980.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intel/iSBC/121597-001_iSBC_220_SMD_Disk_Controller_Hardware_Reference_1980.pdf",
+    "is_dir": false,
+    "size": "10.0 MiB",
+    "date": "11-Jun-2018 01:36"
+  },
+  {
+    "name": "122141-002_iSBC522_Ethernet_Hardware_Ref_Apr85.pdf",
+    "href": "122141-002_iSBC522_Ethernet_Hardware_Ref_Apr85.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intel/iSBC/122141-002_iSBC522_Ethernet_Hardware_Ref_Apr85.pdf",
+    "is_dir": false,
+    "size": "7.1 MiB",
+    "date": "13-Jul-2012 21:27"
+  },
+  {
+    "name": "122193-001_iNA_960_Programmers_Reference_Manual_Mar84.pdf",
+    "href": "122193-001_iNA_960_Programmers_Reference_Manual_Mar84.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intel/iSBC/122193-001_iNA_960_Programmers_Reference_Manual_Mar84.pdf",
+    "is_dir": false,
+    "size": "7.1 MiB",
+    "date": "12-Jan-2010 00:05"
+  },
+  {
+    "name": "122194-001_iNA_960_Architecture_Reference_Manual_1983.pdf",
+    "href": "122194-001_iNA_960_Architecture_Reference_Manual_1983.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intel/iSBC/122194-001_iNA_960_Architecture_Reference_Manual_1983.pdf",
+    "is_dir": false,
+    "size": "9.7 MiB",
+    "date": "12-Jan-2010 00:05"
+  },
+  {
+    "name": "122704-001_iSBC-546-547-548_Feb86.pdf",
+    "href": "122704-001_iSBC-546-547-548_Feb86.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intel/iSBC/122704-001_iSBC-546-547-548_Feb86.pdf",
+    "is_dir": false,
+    "size": "2.1 MiB",
+    "date": "18-Jun-2010 02:07"
+  },
+  {
+    "name": "122704-001_iSBC_546_547_548_NJ7P-A.pdf",
+    "href": "122704-001_iSBC_546_547_548_NJ7P-A.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intel/iSBC/122704-001_iSBC_546_547_548_NJ7P-A.pdf",
+    "is_dir": false,
+    "size": "6.7 MiB",
+    "date": "06-Sep-2011 16:41"
+  },
+  {
+    "name": "133903-002_iSBC-220_Disk_Controller_Installation_Jul1984.pdf",
+    "href": "133903-002_iSBC-220_Disk_Controller_Installation_Jul1984.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intel/iSBC/133903-002_iSBC-220_Disk_Controller_Installation_Jul1984.pdf",
+    "is_dir": false,
+    "size": "449.2 KiB",
+    "date": "11-Jun-2018 01:36"
+  },
+  {
+    "name": "134910-001_iSBC_214_Peripheral_Controller_Subsystem_Hardware_Reference_Manual_Aug_85.pdf",
+    "href": "134910-001_iSBC_214_Peripheral_Controller_Subsystem_Hardware_Reference_Manual_Aug_85.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intel/iSBC/134910-001_iSBC_214_Peripheral_Controller_Subsystem_Hardware_Reference_Manual_Aug_85.pdf",
+    "is_dir": false,
+    "size": "9.0 MiB",
+    "date": "29-May-2018 03:01"
+  },
+  {
+    "name": "136055-001_iSBC_214_Peripheral_Controller_Subsystem_Hardware_Reference_Manual_Aug_85_Large_Schematic.PDF",
+    "href": "136055-001_iSBC_214_Peripheral_Controller_Subsystem_Hardware_Reference_Manual_Aug_85_Large_Schematic.PDF",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intel/iSBC/136055-001_iSBC_214_Peripheral_Controller_Subsystem_Hardware_Reference_Manual_Aug_85_Large_Schematic.PDF",
+    "is_dir": false,
+    "size": "3.1 MiB",
+    "date": "29-May-2018 03:01"
+  },
+  {
+    "name": "136955-001_Release_Notes_for_iSXM8845X_Comm_Cont_Bd_and_iVPM8845_Virt_Proto_Machine_Jul85.pdf",
+    "href": "136955-001_Release_Notes_for_iSXM8845X_Comm_Cont_Bd_and_iVPM8845_Virt_Proto_Machine_Jul85.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intel/iSBC/136955-001_Release_Notes_for_iSXM8845X_Comm_Cont_Bd_and_iVPM8845_Virt_Proto_Machine_Jul85.pdf",
+    "is_dir": false,
+    "size": "254.0 KiB",
+    "date": "18-Jun-2010 02:10"
+  },
+  {
+    "name": "142887-001_iSBC_337_Numeric_Data_Processor_Nov80.pdf",
+    "href": "142887-001_iSBC_337_Numeric_Data_Processor_Nov80.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intel/iSBC/142887-001_iSBC_337_Numeric_Data_Processor_Nov80.pdf",
+    "is_dir": false,
+    "size": "2.5 MiB",
+    "date": "14-Dec-2009 18:38"
+  },
+  {
+    "name": "142978-001_iSBC_88_40_Measurement_and_Control_Computer_Mar81.pdf",
+    "href": "142978-001_iSBC_88_40_Measurement_and_Control_Computer_Mar81.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intel/iSBC/142978-001_iSBC_88_40_Measurement_and_Control_Computer_Mar81.pdf",
+    "is_dir": false,
+    "size": "9.7 MiB",
+    "date": "12-Dec-2009 01:17"
+  },
+  {
+    "name": "143078-001_iSBC_208_Users_Manual_Oct81.pdf",
+    "href": "143078-001_iSBC_208_Users_Manual_Oct81.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intel/iSBC/143078-001_iSBC_208_Users_Manual_Oct81.pdf",
+    "is_dir": false,
+    "size": "7.6 MiB",
+    "date": "11-Jun-2003 22:03"
+  },
+  {
+    "name": "143153-001_iSBC_86_05_Feb81.pdf",
+    "href": "143153-001_iSBC_86_05_Feb81.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intel/iSBC/143153-001_iSBC_86_05_Feb81.pdf",
+    "is_dir": false,
+    "size": "7.9 MiB",
+    "date": "13-Jun-2003 05:03"
+  },
+  {
+    "name": "143153-002_iSBC_86_05_SBC_Hardware_Reference_Manual_May83.pdf",
+    "href": "143153-002_iSBC_86_05_SBC_Hardware_Reference_Manual_May83.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intel/iSBC/143153-002_iSBC_86_05_SBC_Hardware_Reference_Manual_May83.pdf",
+    "is_dir": false,
+    "size": "2.8 MiB",
+    "date": "23-Dec-2012 02:49"
+  },
+  {
+    "name": "143444-001_iSBX_270_Video_Display_Terminal_Controller_Board_198110.pdf",
+    "href": "143444-001_iSBX_270_Video_Display_Terminal_Controller_Board_198110.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intel/iSBC/143444-001_iSBX_270_Video_Display_Terminal_Controller_Board_198110.pdf",
+    "is_dir": false,
+    "size": "5.1 MiB",
+    "date": "30-Sep-2025 22:49"
+  },
+  {
+    "name": "143572-001_iSBC_016A_032A_064A_028A_056A_RAM_Board_Hardware_Reference_Manual_Jul81.pdf",
+    "href": "143572-001_iSBC_016A_032A_064A_028A_056A_RAM_Board_Hardware_Reference_Manual_Jul81.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intel/iSBC/143572-001_iSBC_016A_032A_064A_028A_056A_RAM_Board_Hardware_Reference_Manual_Jul81.pdf",
+    "is_dir": false,
+    "size": "3.5 MiB",
+    "date": "06-Sep-2011 16:41"
+  },
+  {
+    "name": "143825-001_iSBC_88_25_SBC_Hardware_Reference_Manual_Oct81.pdf",
+    "href": "143825-001_iSBC_88_25_SBC_Hardware_Reference_Manual_Oct81.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intel/iSBC/143825-001_iSBC_88_25_SBC_Hardware_Reference_Manual_Oct81.pdf",
+    "is_dir": false,
+    "size": "2.9 MiB",
+    "date": "23-Dec-2012 02:49"
+  },
+  {
+    "name": "144044-001_iSBC_86_14_and_86_30_Hardware_Reference_Manual_Jan82.pdf",
+    "href": "144044-001_iSBC_86_14_and_86_30_Hardware_Reference_Manual_Jan82.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intel/iSBC/144044-001_iSBC_86_14_and_86_30_Hardware_Reference_Manual_Jan82.pdf",
+    "is_dir": false,
+    "size": "8.0 MiB",
+    "date": "23-Dec-2012 02:49"
+  },
+  {
+    "name": "144044-002_iSBC_8614_and_8630_Single_Board_Computer_Hardware_Reference_Jan85.pdf",
+    "href": "144044-002_iSBC_8614_and_8630_Single_Board_Computer_Hardware_Reference_Jan85.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intel/iSBC/144044-002_iSBC_8614_and_8630_Single_Board_Computer_Hardware_Reference_Jan85.pdf",
+    "is_dir": false,
+    "size": "16.0 MiB",
+    "date": "02-Sep-2012 22:33"
+  },
+  {
+    "name": "144779-001_iSBC_80_16_Hardware_Reference_Manual_Aug82l.pdf",
+    "href": "144779-001_iSBC_80_16_Hardware_Reference_Manual_Aug82l.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intel/iSBC/144779-001_iSBC_80_16_Hardware_Reference_Manual_Aug82l.pdf",
+    "is_dir": false,
+    "size": "9.0 MiB",
+    "date": "23-Dec-2012 02:49"
+  },
+  {
+    "name": "144780-002_iSBC_215_Generic_Winchester_Disk_Controller_Hardware_Reference_Manual_Dec84.pdf",
+    "href": "144780-002_iSBC_215_Generic_Winchester_Disk_Controller_Hardware_Reference_Manual_Dec84.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intel/iSBC/144780-002_iSBC_215_Generic_Winchester_Disk_Controller_Hardware_Reference_Manual_Dec84.pdf",
+    "is_dir": false,
+    "size": "11.7 MiB",
+    "date": "01-Sep-2012 22:46"
+  },
+  {
+    "name": "144912-001_iMMX_800_Multibus_Message_Exchage_Reference_Aug82.pdf",
+    "href": "144912-001_iMMX_800_Multibus_Message_Exchage_Reference_Aug82.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intel/iSBC/144912-001_iMMX_800_Multibus_Message_Exchage_Reference_Aug82.pdf",
+    "is_dir": false,
+    "size": "8.4 MiB",
+    "date": "12-Jan-2010 00:33"
+  },
+  {
+    "name": "145158-001_iSBC_028CX_056CX_012CX_RAM_Hardware_Reference_Sep82.pdf",
+    "href": "145158-001_iSBC_028CX_056CX_012CX_RAM_Hardware_Reference_Sep82.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intel/iSBC/145158-001_iSBC_028CX_056CX_012CX_RAM_Hardware_Reference_Sep82.pdf",
+    "is_dir": false,
+    "size": "13.0 MiB",
+    "date": "09-Dec-2009 22:21"
+  },
+  {
+    "name": "145158-003_iSBC_CX-Series_Ram_Boards_Hardware_Reference_198405.pdf",
+    "href": "145158-003_iSBC_CX-Series_Ram_Boards_Hardware_Reference_198405.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intel/iSBC/145158-003_iSBC_CX-Series_Ram_Boards_Hardware_Reference_198405.pdf",
+    "is_dir": false,
+    "size": "5.5 MiB",
+    "date": "26-Dec-2025 01:19"
+  },
+  {
+    "name": "145696-001_iSBC_428_Memory_Expansion_May83.pdf",
+    "href": "145696-001_iSBC_428_Memory_Expansion_May83.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intel/iSBC/145696-001_iSBC_428_Memory_Expansion_May83.pdf",
+    "is_dir": false,
+    "size": "4.2 MiB",
+    "date": "31-Dec-2009 22:09"
+  },
+  {
+    "name": "146245-001_iSBC_86-35_Hardware_Reference_Manual_198406.pdf",
+    "href": "146245-001_iSBC_86-35_Hardware_Reference_Manual_198406.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intel/iSBC/146245-001_iSBC_86-35_Hardware_Reference_Manual_198406.pdf",
+    "is_dir": false,
+    "size": "11.1 MiB",
+    "date": "27-Nov-2021 04:48"
+  },
+  {
+    "name": "146414-001_iSBC_186_03_Sep84.pdf",
+    "href": "146414-001_iSBC_186_03_Sep84.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intel/iSBC/146414-001_iSBC_186_03_Sep84.pdf",
+    "is_dir": false,
+    "size": "15.6 MiB",
+    "date": "23-Jun-2017 01:07"
+  },
+  {
+    "name": "147532-001_iSBC_286_10A_Hardware_Reference_Manual_Oct84.pdf",
+    "href": "147532-001_iSBC_286_10A_Hardware_Reference_Manual_Oct84.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intel/iSBC/147532-001_iSBC_286_10A_Hardware_Reference_Manual_Oct84.pdf",
+    "is_dir": false,
+    "size": "13.1 MiB",
+    "date": "23-Dec-2012 02:50"
+  },
+  {
+    "name": "148171-001_iSBC_214_Peripheral_Controller_Subsystem_Hardware_Reference_Manual_Aug_85_Cover_Letter.PDF",
+    "href": "148171-001_iSBC_214_Peripheral_Controller_Subsystem_Hardware_Reference_Manual_Aug_85_Cover_Letter.PDF",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intel/iSBC/148171-001_iSBC_214_Peripheral_Controller_Subsystem_Hardware_Reference_Manual_Aug_85_Cover_Letter.PDF",
+    "is_dir": false,
+    "size": "308.6 KiB",
+    "date": "29-May-2018 03:01"
+  },
+  {
+    "name": "148437-001_iSBC_80_24A_Hardware_Reference_Manual_Nov85.pdf",
+    "href": "148437-001_iSBC_80_24A_Hardware_Reference_Manual_Nov85.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intel/iSBC/148437-001_iSBC_80_24A_Hardware_Reference_Manual_Nov85.pdf",
+    "is_dir": false,
+    "size": "2.9 MiB",
+    "date": "23-Dec-2012 02:50"
+  },
+  {
+    "name": "148550-001_iSBC_386_20P_Hardware_Reference_Jan86.pdf",
+    "href": "148550-001_iSBC_386_20P_Hardware_Reference_Jan86.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intel/iSBC/148550-001_iSBC_386_20P_Hardware_Reference_Jan86.pdf",
+    "is_dir": false,
+    "size": "8.8 MiB",
+    "date": "09-Dec-2009 17:46"
+  },
+  {
+    "name": "1979_iSBC_Applications_Manual.pdf",
+    "href": "1979_iSBC_Applications_Manual.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intel/iSBC/1979_iSBC_Applications_Manual.pdf",
+    "is_dir": false,
+    "size": "33.3 MiB",
+    "date": "17-Dec-2009 15:36"
+  },
+  {
+    "name": "1981_iSBC_Applications_Handbook.pdf",
+    "href": "1981_iSBC_Applications_Handbook.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intel/iSBC/1981_iSBC_Applications_Handbook.pdf",
+    "is_dir": false,
+    "size": "52.4 MiB",
+    "date": "02-Nov-2023 00:03"
+  },
+  {
+    "name": "200409-001_iSBC_386_2x_Data_Sheet_Nov1986.pdf",
+    "href": "200409-001_iSBC_386_2x_Data_Sheet_Nov1986.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intel/iSBC/200409-001_iSBC_386_2x_Data_Sheet_Nov1986.pdf",
+    "is_dir": false,
+    "size": "1.1 MiB",
+    "date": "05-Jan-2020 21:32"
+  },
+  {
+    "name": "280411-001_iSBC_386_2x_Brochure_Sep1986.pdf",
+    "href": "280411-001_iSBC_386_2x_Brochure_Sep1986.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intel/iSBC/280411-001_iSBC_386_2x_Brochure_Sep1986.pdf",
+    "is_dir": false,
+    "size": "1.4 MiB",
+    "date": "05-Jan-2020 21:32"
+  },
+  {
+    "name": "50791-003_iSBC_486-12_Series_Hardware_Reference_Sep92.pdf",
+    "href": "50791-003_iSBC_486-12_Series_Hardware_Reference_Sep92.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intel/iSBC/50791-003_iSBC_486-12_Series_Hardware_Reference_Sep92.pdf",
+    "is_dir": false,
+    "size": "11.6 MiB",
+    "date": "11-Jun-2013 02:38"
+  },
+  {
+    "name": "98-265A_SBC_416_16K_PROM_ROM_Expansion_Board_Hardware_Reference_Manual_1976.pdf",
+    "href": "98-265A_SBC_416_16K_PROM_ROM_Expansion_Board_Hardware_Reference_Manual_1976.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intel/iSBC/98-265A_SBC_416_16K_PROM_ROM_Expansion_Board_Hardware_Reference_Manual_1976.pdf",
+    "is_dir": false,
+    "size": "2.3 MiB",
+    "date": "23-Nov-2010 22:01"
+  },
+  {
+    "name": "9800230F_iSBC_80-10_SBC_Hardware_Reference_Manual_Aug77.pdf",
+    "href": "9800230F_iSBC_80-10_SBC_Hardware_Reference_Manual_Aug77.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intel/iSBC/9800230F_iSBC_80-10_SBC_Hardware_Reference_Manual_Aug77.pdf",
+    "is_dir": false,
+    "size": "4.5 MiB",
+    "date": "06-Sep-2011 16:42"
+  },
+  {
+    "name": "9800316B_System_80_10_Microcomputer_Hardware_Reference_Manual_77.pdf",
+    "href": "9800316B_System_80_10_Microcomputer_Hardware_Reference_Manual_77.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intel/iSBC/9800316B_System_80_10_Microcomputer_Hardware_Reference_Manual_77.pdf",
+    "is_dir": false,
+    "size": "4.3 MiB",
+    "date": "23-Dec-2012 02:55"
+  },
+  {
+    "name": "9800317D_SBC_80_20_Hardware_Reference_Feb79.pdf",
+    "href": "9800317D_SBC_80_20_Hardware_Reference_Feb79.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intel/iSBC/9800317D_SBC_80_20_Hardware_Reference_Feb79.pdf",
+    "is_dir": false,
+    "size": "9.8 MiB",
+    "date": "12-Dec-2009 02:56"
+  },
+  {
+    "name": "9800385B_SBC_519_Programmable_IO_Expansion_Board_Hardware_Reference_Manual_Feb79.pdf",
+    "href": "9800385B_SBC_519_Programmable_IO_Expansion_Board_Hardware_Reference_Manual_Feb79.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intel/iSBC/9800385B_SBC_519_Programmable_IO_Expansion_Board_Hardware_Reference_Manual_Feb79.pdf",
+    "is_dir": false,
+    "size": "5.8 MiB",
+    "date": "17-Jun-2010 20:46"
+  },
+  {
+    "name": "9800385B_iSBC_519_Programmable_IO_Expansion_Board_Hardware_Reference_Manual_Feb79.pdf",
+    "href": "9800385B_iSBC_519_Programmable_IO_Expansion_Board_Hardware_Reference_Manual_Feb79.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intel/iSBC/9800385B_iSBC_519_Programmable_IO_Expansion_Board_Hardware_Reference_Manual_Feb79.pdf",
+    "is_dir": false,
+    "size": "5.9 MiB",
+    "date": "06-Sep-2011 16:43"
+  },
+  {
+    "name": "9800410A_SBC_310_High-Speed_Mathematics_Unit_Hardware_Reference_Manual_197708.pdf",
+    "href": "9800410A_SBC_310_High-Speed_Mathematics_Unit_Hardware_Reference_Manual_197708.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intel/iSBC/9800410A_SBC_310_High-Speed_Mathematics_Unit_Hardware_Reference_Manual_197708.pdf",
+    "is_dir": false,
+    "size": "22.9 MiB",
+    "date": "19-May-2024 01:20"
+  },
+  {
+    "name": "9800420A_iSBC_202_Hardware_Reference_Sep77.pdf",
+    "href": "9800420A_iSBC_202_Hardware_Reference_Sep77.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intel/iSBC/9800420A_iSBC_202_Hardware_Reference_Sep77.pdf",
+    "is_dir": false,
+    "size": "4.6 MiB",
+    "date": "25-Jul-2004 04:04"
+  },
+  {
+    "name": "9800450B_iSBC-534_Hardware_Reference_Manual_Apr_79_NJ7P-S.pdf",
+    "href": "9800450B_iSBC-534_Hardware_Reference_Manual_Apr_79_NJ7P-S.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intel/iSBC/9800450B_iSBC-534_Hardware_Reference_Manual_Apr_79_NJ7P-S.pdf",
+    "is_dir": false,
+    "size": "2.0 MiB",
+    "date": "06-Sep-2011 16:43"
+  },
+  {
+    "name": "9800483C_iSBC_80_05_Hardware_Reference_Manual_80.pdf",
+    "href": "9800483C_iSBC_80_05_Hardware_Reference_Manual_80.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intel/iSBC/9800483C_iSBC_80_05_Hardware_Reference_Manual_80.pdf",
+    "is_dir": false,
+    "size": "5.7 MiB",
+    "date": "23-Dec-2012 02:50"
+  },
+  {
+    "name": "9800488B_iSBC_032_048_064_RAM_Hardware_Reference_Jan79.pdf",
+    "href": "9800488B_iSBC_032_048_064_RAM_Hardware_Reference_Jan79.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intel/iSBC/9800488B_iSBC_032_048_064_RAM_Hardware_Reference_Jan79.pdf",
+    "is_dir": false,
+    "size": "2.6 MiB",
+    "date": "09-Dec-2009 22:32"
+  },
+  {
+    "name": "9800499B_iSBC_094_4K_Byte_CMOS_RAM_BBU_Hardware_Reference_197812.pdf",
+    "href": "9800499B_iSBC_094_4K_Byte_CMOS_RAM_BBU_Hardware_Reference_197812.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intel/iSBC/9800499B_iSBC_094_4K_Byte_CMOS_RAM_BBU_Hardware_Reference_197812.pdf",
+    "is_dir": false,
+    "size": "2.7 MiB",
+    "date": "08-Oct-2025 17:02"
+  },
+  {
+    "name": "9800568-02_iSBC_204_Users_Manual_Feb80.pdf",
+    "href": "9800568-02_iSBC_204_Users_Manual_Feb80.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intel/iSBC/9800568-02_iSBC_204_Users_Manual_Feb80.pdf",
+    "is_dir": false,
+    "size": "7.4 MiB",
+    "date": "11-Jun-2003 22:00"
+  },
+  {
+    "name": "9800611A_iSBC_80_30_Hardware_Reference_Jun78.pdf",
+    "href": "9800611A_iSBC_80_30_Hardware_Reference_Jun78.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intel/iSBC/9800611A_iSBC_80_30_Hardware_Reference_Jun78.pdf",
+    "is_dir": false,
+    "size": "8.3 MiB",
+    "date": "14-Dec-2009 21:45"
+  },
+  {
+    "name": "9800616-03_iSBC_544_Intelligent_Communications_Controller_Apr84.pdf",
+    "href": "9800616-03_iSBC_544_Intelligent_Communications_Controller_Apr84.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intel/iSBC/9800616-03_iSBC_544_Intelligent_Communications_Controller_Apr84.pdf",
+    "is_dir": false,
+    "size": "9.3 MiB",
+    "date": "09-Dec-2009 23:15"
+  },
+  {
+    "name": "9800616A_iSBC_544_Terminal_Controller_Hardware_Reference_Manual_Aug78.pdf",
+    "href": "9800616A_iSBC_544_Terminal_Controller_Hardware_Reference_Manual_Aug78.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intel/iSBC/9800616A_iSBC_544_Terminal_Controller_Hardware_Reference_Manual_Aug78.pdf",
+    "is_dir": false,
+    "size": "4.9 MiB",
+    "date": "06-Sep-2011 16:44"
+  },
+  {
+    "name": "9800616B_iSBC_544_Terminal_Controller_Hardware_Reference_Manual_Dec78.pdf",
+    "href": "9800616B_iSBC_544_Terminal_Controller_Hardware_Reference_Manual_Dec78.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intel/iSBC/9800616B_iSBC_544_Terminal_Controller_Hardware_Reference_Manual_Dec78.pdf",
+    "is_dir": false,
+    "size": "6.8 MiB",
+    "date": "30-Nov-2016 01:56"
+  },
+  {
+    "name": "9800643B_iSBC_464_PROM_ROM_Board_Hardware_Reference_Manual.pdf",
+    "href": "9800643B_iSBC_464_PROM_ROM_Board_Hardware_Reference_Manual.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intel/iSBC/9800643B_iSBC_464_PROM_ROM_Board_Hardware_Reference_Manual.pdf",
+    "is_dir": false,
+    "size": "830.7 KiB",
+    "date": "23-Dec-2012 02:51"
+  },
+  {
+    "name": "9800645A_iSBC-86_12_Hardware_Reference_Apr79.pdf",
+    "href": "9800645A_iSBC-86_12_Hardware_Reference_Apr79.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intel/iSBC/9800645A_iSBC-86_12_Hardware_Reference_Apr79.pdf",
+    "is_dir": false,
+    "size": "6.6 MiB",
+    "date": "30-Nov-2016 00:18"
+  },
+  {
+    "name": "9800709A_iSBC_655_System_Chassis_Hardware_Reference_Manual_Nov78.pdf",
+    "href": "9800709A_iSBC_655_System_Chassis_Hardware_Reference_Manual_Nov78.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intel/iSBC/9800709A_iSBC_655_System_Chassis_Hardware_Reference_Manual_Nov78.pdf",
+    "is_dir": false,
+    "size": "1008.7 KiB",
+    "date": "23-Dec-2012 02:51"
+  },
+  {
+    "name": "9800710A_iSBC_80_30_Users_Guide_Nov78.pdf",
+    "href": "9800710A_iSBC_80_30_Users_Guide_Nov78.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intel/iSBC/9800710A_iSBC_80_30_Users_Guide_Nov78.pdf",
+    "is_dir": false,
+    "size": "3.8 MiB",
+    "date": "14-Dec-2009 18:13"
+  },
+  {
+    "name": "9800743A_iSBC_957_Intellec-iSBC86-12_Interface_Sep78.pdf",
+    "href": "9800743A_iSBC_957_Intellec-iSBC86-12_Interface_Sep78.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intel/iSBC/9800743A_iSBC_957_Intellec-iSBC86-12_Interface_Sep78.pdf",
+    "is_dir": false,
+    "size": "2.6 MiB",
+    "date": "09-Dec-2009 22:41"
+  },
+  {
+    "name": "9800862A_iSBC_108A_116A_Combo_Memory_and_IO_Boards_Hardware_Reference_Manual_Nov79.pdf",
+    "href": "9800862A_iSBC_108A_116A_Combo_Memory_and_IO_Boards_Hardware_Reference_Manual_Nov79.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intel/iSBC/9800862A_iSBC_108A_116A_Combo_Memory_and_IO_Boards_Hardware_Reference_Manual_Nov79.pdf",
+    "is_dir": false,
+    "size": "2.3 MiB",
+    "date": "23-Dec-2012 02:52"
+  },
+  {
+    "name": "980230B_SBC_80_10_Hardware_Reference.pdf",
+    "href": "980230B_SBC_80_10_Hardware_Reference.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intel/iSBC/980230B_SBC_80_10_Hardware_Reference.pdf",
+    "is_dir": false,
+    "size": "7.3 MiB",
+    "date": "11-Aug-2003 23:38"
+  },
+  {
+    "name": "980277B_SBC_104_Memory_IO_Module_1976.pdf",
+    "href": "980277B_SBC_104_Memory_IO_Module_1976.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intel/iSBC/980277B_SBC_104_Memory_IO_Module_1976.pdf",
+    "is_dir": false,
+    "size": "6.6 MiB",
+    "date": "14-Dec-2009 19:30"
+  },
+  {
+    "name": "9803074-01_iSBC_86_12A_Hardware_Reference_Aug79.pdf",
+    "href": "9803074-01_iSBC_86_12A_Hardware_Reference_Aug79.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intel/iSBC/9803074-01_iSBC_86_12A_Hardware_Reference_Aug79.pdf",
+    "is_dir": false,
+    "size": "7.9 MiB",
+    "date": "30-Nov-2016 00:18"
+  },
+  {
+    "name": "9803074-02_iSBC_86_12A_Hardware_Reference_Mar81.pdf",
+    "href": "9803074-02_iSBC_86_12A_Hardware_Reference_Mar81.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intel/iSBC/9803074-02_iSBC_86_12A_Hardware_Reference_Mar81.pdf",
+    "is_dir": false,
+    "size": "11.0 MiB",
+    "date": "09-Dec-2009 19:09"
+  },
+  {
+    "name": "9803092-01_iSBC_86_12_12A_Differences_Jun79.pdf",
+    "href": "9803092-01_iSBC_86_12_12A_Differences_Jun79.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intel/iSBC/9803092-01_iSBC_86_12_12A_Differences_Jun79.pdf",
+    "is_dir": false,
+    "size": "399.7 KiB",
+    "date": "14-Dec-2009 18:43"
+  },
+  {
+    "name": "9803119B_iSBC_80_10B_SBC_Hardware_Reference_Manual_May81.pdf",
+    "href": "9803119B_iSBC_80_10B_SBC_Hardware_Reference_Manual_May81.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intel/iSBC/9803119B_iSBC_80_10B_SBC_Hardware_Reference_Manual_May81.pdf",
+    "is_dir": false,
+    "size": "3.6 MiB",
+    "date": "23-Dec-2012 02:52"
+  },
+  {
+    "name": "98349B_iSBC_211_212_Diskette_Hardware_Reference_1977.pdf",
+    "href": "98349B_iSBC_211_212_Diskette_Hardware_Reference_1977.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intel/iSBC/98349B_iSBC_211_212_Diskette_Hardware_Reference_1977.pdf",
+    "is_dir": false,
+    "size": "24.5 MiB",
+    "date": "09-Dec-2009 21:44"
+  },
+  {
+    "name": "CPM_for_iSBC_80_24A+iSBX_218_Sep82.pdf",
+    "href": "CPM_for_iSBC_80_24A%2BiSBX_218_Sep82.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intel/iSBC/CPM_for_iSBC_80_24A%2BiSBX_218_Sep82.pdf",
+    "is_dir": false,
+    "size": "1.5 MiB",
+    "date": "23-Dec-2012 02:52"
+  },
+  {
+    "name": "Peripherals_Diagnostic_System_for_Disks_ERS_Jun1980.pdf",
+    "href": "Peripherals_Diagnostic_System_for_Disks_ERS_Jun1980.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intel/iSBC/Peripherals_Diagnostic_System_for_Disks_ERS_Jun1980.pdf",
+    "is_dir": false,
+    "size": "1.8 MiB",
+    "date": "10-Jun-2018 21:57"
+  },
+  {
+    "name": "iSBC-216A_STBL_Test_Instruction_198506.pdf",
+    "href": "iSBC-216A_STBL_Test_Instruction_198506.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intel/iSBC/iSBC-216A_STBL_Test_Instruction_198506.pdf",
+    "is_dir": false,
+    "size": "3.0 MiB",
+    "date": "16-Sep-2020 10:08"
+  }
+]

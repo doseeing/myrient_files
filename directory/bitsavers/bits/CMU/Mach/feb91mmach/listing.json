@@ -1,0 +1,50 @@
+[
+  {
+    "name": "root.tar",
+    "href": "root.tar",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/CMU/Mach/feb91mmach/root.tar",
+    "is_dir": false,
+    "size": "7.3 MiB",
+    "date": "13-Nov-2021 21:08"
+  },
+  {
+    "name": "scsi4bk.dir.Z",
+    "href": "scsi4bk.dir.Z",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/CMU/Mach/feb91mmach/scsi4bk.dir.Z",
+    "is_dir": false,
+    "size": "42.7 KiB",
+    "date": "13-Nov-2021 21:08"
+  },
+  {
+    "name": "scsi4bk.tar.Z",
+    "href": "scsi4bk.tar.Z",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/CMU/Mach/feb91mmach/scsi4bk.tar.Z",
+    "is_dir": false,
+    "size": "35.3 MiB",
+    "date": "13-Nov-2021 21:08"
+  },
+  {
+    "name": "users.tar.Z",
+    "href": "users.tar.Z",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/CMU/Mach/feb91mmach/users.tar.Z",
+    "is_dir": false,
+    "size": "19.1 MiB",
+    "date": "13-Nov-2021 21:08"
+  },
+  {
+    "name": "usr.tar.Z",
+    "href": "usr.tar.Z",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/CMU/Mach/feb91mmach/usr.tar.Z",
+    "is_dir": false,
+    "size": "27.5 MiB",
+    "date": "13-Nov-2021 21:08"
+  },
+  {
+    "name": "usrsrc.tar",
+    "href": "usrsrc.tar",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/CMU/Mach/feb91mmach/usrsrc.tar",
+    "is_dir": false,
+    "size": "113.1 MiB",
+    "date": "13-Nov-2021 21:08"
+  }
+]

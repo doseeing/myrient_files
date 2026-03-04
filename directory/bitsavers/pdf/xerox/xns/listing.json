@@ -1,0 +1,50 @@
+[
+  {
+    "name": "standards",
+    "href": "standards/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/xns/standards/",
+    "is_dir": true,
+    "size": null,
+    "date": "30-Dec-2022 23:00"
+  },
+  {
+    "name": "A_Study_of_the_Xerox_XNS_Filing_Protocol_as_Implemented_on_Several_Heterogenous_Systems_Aug86.pdf",
+    "href": "A_Study_of_the_Xerox_XNS_Filing_Protocol_as_Implemented_on_Several_Heterogenous_Systems_Aug86.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/xns/A_Study_of_the_Xerox_XNS_Filing_Protocol_as_Implemented_on_Several_Heterogenous_Systems_Aug86.pdf",
+    "is_dir": false,
+    "size": "5.2 MiB",
+    "date": "20-Mar-2018 16:29"
+  },
+  {
+    "name": "USENIX_85_Implementing_XNS_Protocols.pdf",
+    "href": "USENIX_85_Implementing_XNS_Protocols.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/xns/USENIX_85_Implementing_XNS_Protocols.pdf",
+    "is_dir": false,
+    "size": "138.5 KiB",
+    "date": "20-Mar-2018 16:29"
+  },
+  {
+    "name": "XNSG_068504_Xerox_System_Network_Architecture_General_Information_Manual_Apr85.pdf",
+    "href": "XNSG_068504_Xerox_System_Network_Architecture_General_Information_Manual_Apr85.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/xns/XNSG_068504_Xerox_System_Network_Architecture_General_Information_Manual_Apr85.pdf",
+    "is_dir": false,
+    "size": "9.6 MiB",
+    "date": "26-Nov-2010 21:10"
+  },
+  {
+    "name": "XNS_Brochure.pdf",
+    "href": "XNS_Brochure.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/xns/XNS_Brochure.pdf",
+    "is_dir": false,
+    "size": "1001.5 KiB",
+    "date": "26-Nov-2010 21:09"
+  },
+  {
+    "name": "XSI_Literature_Catalog.pdf",
+    "href": "XSI_Literature_Catalog.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/xns/XSI_Literature_Catalog.pdf",
+    "is_dir": false,
+    "size": "395.0 KiB",
+    "date": "26-Nov-2010 21:10"
+  }
+]

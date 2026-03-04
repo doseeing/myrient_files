@@ -1,0 +1,218 @@
+[
+  {
+    "name": "BIN",
+    "href": "BIN/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/SeattleComputerProducts/MSDOS2_FILES/BIN/",
+    "is_dir": true,
+    "size": null,
+    "date": "08-Oct-2017 16:15"
+  },
+  {
+    "name": "AUXIO.ASM",
+    "href": "AUXIO.ASM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/SeattleComputerProducts/MSDOS2_FILES/AUXIO.ASM",
+    "is_dir": false,
+    "size": "1.5 KiB",
+    "date": "08-Oct-2017 16:14"
+  },
+  {
+    "name": "AUXIO.OBJ",
+    "href": "AUXIO.OBJ",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/SeattleComputerProducts/MSDOS2_FILES/AUXIO.OBJ",
+    "is_dir": false,
+    "size": "490 B",
+    "date": "08-Oct-2017 16:14"
+  },
+  {
+    "name": "CONIO.ASM",
+    "href": "CONIO.ASM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/SeattleComputerProducts/MSDOS2_FILES/CONIO.ASM",
+    "is_dir": false,
+    "size": "7.1 KiB",
+    "date": "08-Oct-2017 16:14"
+  },
+  {
+    "name": "CONIO.OBJ",
+    "href": "CONIO.OBJ",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/SeattleComputerProducts/MSDOS2_FILES/CONIO.OBJ",
+    "is_dir": false,
+    "size": "1.3 KiB",
+    "date": "08-Oct-2017 16:14"
+  },
+  {
+    "name": "FDISK.ASM",
+    "href": "FDISK.ASM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/SeattleComputerProducts/MSDOS2_FILES/FDISK.ASM",
+    "is_dir": false,
+    "size": "14.5 KiB",
+    "date": "08-Oct-2017 16:14"
+  },
+  {
+    "name": "FDISK.OBJ",
+    "href": "FDISK.OBJ",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/SeattleComputerProducts/MSDOS2_FILES/FDISK.OBJ",
+    "is_dir": false,
+    "size": "1.2 KiB",
+    "date": "08-Oct-2017 16:14"
+  },
+  {
+    "name": "FORMAT.OBJ",
+    "href": "FORMAT.OBJ",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/SeattleComputerProducts/MSDOS2_FILES/FORMAT.OBJ",
+    "is_dir": false,
+    "size": "4.8 KiB",
+    "date": "08-Oct-2017 16:14"
+  },
+  {
+    "name": "FORMES.OBJ",
+    "href": "FORMES.OBJ",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/SeattleComputerProducts/MSDOS2_FILES/FORMES.OBJ",
+    "is_dir": false,
+    "size": "1.1 KiB",
+    "date": "08-Oct-2017 16:14"
+  },
+  {
+    "name": "HDISK.ASM",
+    "href": "HDISK.ASM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/SeattleComputerProducts/MSDOS2_FILES/HDISK.ASM",
+    "is_dir": false,
+    "size": "7.3 KiB",
+    "date": "08-Oct-2017 16:14"
+  },
+  {
+    "name": "HDISK.DEV",
+    "href": "HDISK.DEV",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/SeattleComputerProducts/MSDOS2_FILES/HDISK.DEV",
+    "is_dir": false,
+    "size": "543 B",
+    "date": "08-Oct-2017 16:14"
+  },
+  {
+    "name": "HDISK.OBJ",
+    "href": "HDISK.OBJ",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/SeattleComputerProducts/MSDOS2_FILES/HDISK.OBJ",
+    "is_dir": false,
+    "size": "1.0 KiB",
+    "date": "08-Oct-2017 16:14"
+  },
+  {
+    "name": "INIT.ASM",
+    "href": "INIT.ASM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/SeattleComputerProducts/MSDOS2_FILES/INIT.ASM",
+    "is_dir": false,
+    "size": "29.0 KiB",
+    "date": "08-Oct-2017 16:14"
+  },
+  {
+    "name": "INIT.OBJ",
+    "href": "INIT.OBJ",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/SeattleComputerProducts/MSDOS2_FILES/INIT.OBJ",
+    "is_dir": false,
+    "size": "4.0 KiB",
+    "date": "08-Oct-2017 16:14"
+  },
+  {
+    "name": "IO.ASM",
+    "href": "IO.ASM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/SeattleComputerProducts/MSDOS2_FILES/IO.ASM",
+    "is_dir": false,
+    "size": "4.5 KiB",
+    "date": "08-Oct-2017 16:14"
+  },
+  {
+    "name": "IO.OBJ",
+    "href": "IO.OBJ",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/SeattleComputerProducts/MSDOS2_FILES/IO.OBJ",
+    "is_dir": false,
+    "size": "887 B",
+    "date": "08-Oct-2017 16:14"
+  },
+  {
+    "name": "IODEF.ASM",
+    "href": "IODEF.ASM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/SeattleComputerProducts/MSDOS2_FILES/IODEF.ASM",
+    "is_dir": false,
+    "size": "4.3 KiB",
+    "date": "08-Oct-2017 16:14"
+  },
+  {
+    "name": "IOSEG",
+    "href": "IOSEG",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/SeattleComputerProducts/MSDOS2_FILES/IOSEG",
+    "is_dir": false,
+    "size": "4 B",
+    "date": "08-Oct-2017 16:14"
+  },
+  {
+    "name": "LINKIO.BAT",
+    "href": "LINKIO.BAT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/SeattleComputerProducts/MSDOS2_FILES/LINKIO.BAT",
+    "is_dir": false,
+    "size": "198 B",
+    "date": "08-Oct-2017 16:14"
+  },
+  {
+    "name": "MAKIOSYS.BAT",
+    "href": "MAKIOSYS.BAT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/SeattleComputerProducts/MSDOS2_FILES/MAKIOSYS.BAT",
+    "is_dir": false,
+    "size": "99 B",
+    "date": "08-Oct-2017 16:14"
+  },
+  {
+    "name": "PRNIO.ASM",
+    "href": "PRNIO.ASM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/SeattleComputerProducts/MSDOS2_FILES/PRNIO.ASM",
+    "is_dir": false,
+    "size": "669 B",
+    "date": "08-Oct-2017 16:14"
+  },
+  {
+    "name": "PRNIO.OBJ",
+    "href": "PRNIO.OBJ",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/SeattleComputerProducts/MSDOS2_FILES/PRNIO.OBJ",
+    "is_dir": false,
+    "size": "249 B",
+    "date": "08-Oct-2017 16:14"
+  },
+  {
+    "name": "PUTIO.BAT",
+    "href": "PUTIO.BAT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/SeattleComputerProducts/MSDOS2_FILES/PUTIO.BAT",
+    "is_dir": false,
+    "size": "110 B",
+    "date": "08-Oct-2017 16:14"
+  },
+  {
+    "name": "SYSIMES.OBJ",
+    "href": "SYSIMES.OBJ",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/SeattleComputerProducts/MSDOS2_FILES/SYSIMES.OBJ",
+    "is_dir": false,
+    "size": "384 B",
+    "date": "08-Oct-2017 16:14"
+  },
+  {
+    "name": "SYSINIT.OBJ",
+    "href": "SYSINIT.OBJ",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/SeattleComputerProducts/MSDOS2_FILES/SYSINIT.OBJ",
+    "is_dir": false,
+    "size": "3.3 KiB",
+    "date": "08-Oct-2017 16:14"
+  },
+  {
+    "name": "TIME.ASM",
+    "href": "TIME.ASM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/SeattleComputerProducts/MSDOS2_FILES/TIME.ASM",
+    "is_dir": false,
+    "size": "2.5 KiB",
+    "date": "08-Oct-2017 16:14"
+  },
+  {
+    "name": "TIME.OBJ",
+    "href": "TIME.OBJ",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/SeattleComputerProducts/MSDOS2_FILES/TIME.OBJ",
+    "is_dir": false,
+    "size": "515 B",
+    "date": "08-Oct-2017 16:14"
+  }
+]

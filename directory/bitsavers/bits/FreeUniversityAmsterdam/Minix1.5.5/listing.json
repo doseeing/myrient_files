@@ -1,0 +1,170 @@
+[
+  {
+    "name": "README",
+    "href": "README",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/FreeUniversityAmsterdam/Minix1.5.5/README",
+    "is_dir": false,
+    "size": "3.2 KiB",
+    "date": "13-Nov-2021 21:15"
+  },
+  {
+    "name": "auxx.tar.Z",
+    "href": "auxx.tar.Z",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/FreeUniversityAmsterdam/Minix1.5.5/auxx.tar.Z",
+    "is_dir": false,
+    "size": "603 B",
+    "date": "13-Nov-2021 21:15"
+  },
+  {
+    "name": "bin.tar.Z",
+    "href": "bin.tar.Z",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/FreeUniversityAmsterdam/Minix1.5.5/bin.tar.Z",
+    "is_dir": false,
+    "size": "1.0 MiB",
+    "date": "13-Nov-2021 21:15"
+  },
+  {
+    "name": "bin_lib.tar.Z",
+    "href": "bin_lib.tar.Z",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/FreeUniversityAmsterdam/Minix1.5.5/bin_lib.tar.Z",
+    "is_dir": false,
+    "size": "214.0 KiB",
+    "date": "13-Nov-2021 21:15"
+  },
+  {
+    "name": "command1.tar.Z",
+    "href": "command1.tar.Z",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/FreeUniversityAmsterdam/Minix1.5.5/command1.tar.Z",
+    "is_dir": false,
+    "size": "490.6 KiB",
+    "date": "13-Nov-2021 21:15"
+  },
+  {
+    "name": "command2.tar.Z",
+    "href": "command2.tar.Z",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/FreeUniversityAmsterdam/Minix1.5.5/command2.tar.Z",
+    "is_dir": false,
+    "size": "655.8 KiB",
+    "date": "13-Nov-2021 21:15"
+  },
+  {
+    "name": "crc.c",
+    "href": "crc.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/FreeUniversityAmsterdam/Minix1.5.5/crc.c",
+    "is_dir": false,
+    "size": "3.8 KiB",
+    "date": "13-Nov-2021 21:15"
+  },
+  {
+    "name": "crc.list",
+    "href": "crc.list",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/FreeUniversityAmsterdam/Minix1.5.5/crc.list",
+    "is_dir": false,
+    "size": "823 B",
+    "date": "13-Nov-2021 21:15"
+  },
+  {
+    "name": "doc.tar.Z",
+    "href": "doc.tar.Z",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/FreeUniversityAmsterdam/Minix1.5.5/doc.tar.Z",
+    "is_dir": false,
+    "size": "162.8 KiB",
+    "date": "13-Nov-2021 21:15"
+  },
+  {
+    "name": "etc.tar.Z",
+    "href": "etc.tar.Z",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/FreeUniversityAmsterdam/Minix1.5.5/etc.tar.Z",
+    "is_dir": false,
+    "size": "2.3 KiB",
+    "date": "13-Nov-2021 21:15"
+  },
+  {
+    "name": "fs.tar.Z",
+    "href": "fs.tar.Z",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/FreeUniversityAmsterdam/Minix1.5.5/fs.tar.Z",
+    "is_dir": false,
+    "size": "88.2 KiB",
+    "date": "13-Nov-2021 21:15"
+  },
+  {
+    "name": "include.tar.Z",
+    "href": "include.tar.Z",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/FreeUniversityAmsterdam/Minix1.5.5/include.tar.Z",
+    "is_dir": false,
+    "size": "58.9 KiB",
+    "date": "13-Nov-2021 21:15"
+  },
+  {
+    "name": "kernel.tar.Z",
+    "href": "kernel.tar.Z",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/FreeUniversityAmsterdam/Minix1.5.5/kernel.tar.Z",
+    "is_dir": false,
+    "size": "230.8 KiB",
+    "date": "13-Nov-2021 21:15"
+  },
+  {
+    "name": "lib.tar.Z",
+    "href": "lib.tar.Z",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/FreeUniversityAmsterdam/Minix1.5.5/lib.tar.Z",
+    "is_dir": false,
+    "size": "150.9 KiB",
+    "date": "13-Nov-2021 21:15"
+  },
+  {
+    "name": "local.tar.Z",
+    "href": "local.tar.Z",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/FreeUniversityAmsterdam/Minix1.5.5/local.tar.Z",
+    "is_dir": false,
+    "size": "8.1 KiB",
+    "date": "13-Nov-2021 21:15"
+  },
+  {
+    "name": "man.tar.Z",
+    "href": "man.tar.Z",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/FreeUniversityAmsterdam/Minix1.5.5/man.tar.Z",
+    "is_dir": false,
+    "size": "104.5 KiB",
+    "date": "13-Nov-2021 21:15"
+  },
+  {
+    "name": "min155src.tar",
+    "href": "min155src.tar",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/FreeUniversityAmsterdam/Minix1.5.5/min155src.tar",
+    "is_dir": false,
+    "size": "3.4 MiB",
+    "date": "13-Nov-2021 21:15"
+  },
+  {
+    "name": "mm.tar.Z",
+    "href": "mm.tar.Z",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/FreeUniversityAmsterdam/Minix1.5.5/mm.tar.Z",
+    "is_dir": false,
+    "size": "42.0 KiB",
+    "date": "13-Nov-2021 21:15"
+  },
+  {
+    "name": "rfs.tar.Z",
+    "href": "rfs.tar.Z",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/FreeUniversityAmsterdam/Minix1.5.5/rfs.tar.Z",
+    "is_dir": false,
+    "size": "35.4 KiB",
+    "date": "13-Nov-2021 21:15"
+  },
+  {
+    "name": "test.tar.Z",
+    "href": "test.tar.Z",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/FreeUniversityAmsterdam/Minix1.5.5/test.tar.Z",
+    "is_dir": false,
+    "size": "84.5 KiB",
+    "date": "13-Nov-2021 21:15"
+  },
+  {
+    "name": "tools.tar.Z",
+    "href": "tools.tar.Z",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/FreeUniversityAmsterdam/Minix1.5.5/tools.tar.Z",
+    "is_dir": false,
+    "size": "45.4 KiB",
+    "date": "13-Nov-2021 21:15"
+  }
+]

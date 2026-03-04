@@ -1,0 +1,130 @@
+[
+  {
+    "name": "decnet",
+    "href": "decnet/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp11/magtapes/decnet/",
+    "is_dir": true,
+    "size": null,
+    "date": "22-Aug-2014 00:23"
+  },
+  {
+    "name": "dos11",
+    "href": "dos11/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp11/magtapes/dos11/",
+    "is_dir": true,
+    "size": null,
+    "date": "05-May-2007 16:55"
+  },
+  {
+    "name": "ias",
+    "href": "ias/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp11/magtapes/ias/",
+    "is_dir": true,
+    "size": null,
+    "date": "13-Sep-2012 00:15"
+  },
+  {
+    "name": "rsts_bsc",
+    "href": "rsts_bsc/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp11/magtapes/rsts_bsc/",
+    "is_dir": true,
+    "size": null,
+    "date": "13-Sep-2012 00:25"
+  },
+  {
+    "name": "rsts_e_7.0",
+    "href": "rsts_e_7.0/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp11/magtapes/rsts_e_7.0/",
+    "is_dir": true,
+    "size": null,
+    "date": "05-May-2007 16:53"
+  },
+  {
+    "name": "rsts_e_8.0",
+    "href": "rsts_e_8.0/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp11/magtapes/rsts_e_8.0/",
+    "is_dir": true,
+    "size": null,
+    "date": "05-May-2007 16:54"
+  },
+  {
+    "name": "rsx11m",
+    "href": "rsx11m/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp11/magtapes/rsx11m/",
+    "is_dir": true,
+    "size": null,
+    "date": "13-Sep-2012 02:22"
+  },
+  {
+    "name": "rsx11m_3.0",
+    "href": "rsx11m_3.0/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp11/magtapes/rsx11m_3.0/",
+    "is_dir": true,
+    "size": null,
+    "date": "05-May-2007 16:49"
+  },
+  {
+    "name": "rsx11mplus",
+    "href": "rsx11mplus/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp11/magtapes/rsx11mplus/",
+    "is_dir": true,
+    "size": null,
+    "date": "02-Aug-2014 04:33"
+  },
+  {
+    "name": "rsx11s_4.0",
+    "href": "rsx11s_4.0/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp11/magtapes/rsx11s_4.0/",
+    "is_dir": true,
+    "size": null,
+    "date": "12-Jun-2015 18:18"
+  },
+  {
+    "name": "ultrix-11",
+    "href": "ultrix-11/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp11/magtapes/ultrix-11/",
+    "is_dir": true,
+    "size": null,
+    "date": "16-Aug-2021 20:21"
+  },
+  {
+    "name": "OMSI_PASCAL_RSX1.2.tap.gz",
+    "href": "OMSI_PASCAL_RSX1.2.tap.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp11/magtapes/OMSI_PASCAL_RSX1.2.tap.gz",
+    "is_dir": false,
+    "size": "755.7 KiB",
+    "date": "22-Oct-2004 21:18"
+  },
+  {
+    "name": "Whitesmith_CRSX11_PDP-11_Compiler_for_RSX-11_rev-2.2__1983-Dec.zip",
+    "href": "Whitesmith_CRSX11_PDP-11_Compiler_for_RSX-11_rev-2.2__1983-Dec.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp11/magtapes/Whitesmith_CRSX11_PDP-11_Compiler_for_RSX-11_rev-2.2__1983-Dec.zip",
+    "is_dir": false,
+    "size": "154.7 KiB",
+    "date": "14-Nov-2014 18:32"
+  },
+  {
+    "name": "rsxMWCsrc.tap.gz",
+    "href": "rsxMWCsrc.tap.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp11/magtapes/rsxMWCsrc.tap.gz",
+    "is_dir": false,
+    "size": "586.0 KiB",
+    "date": "01-Nov-2004 01:29"
+  },
+  {
+    "name": "rsxMWCsrc.tap.txt",
+    "href": "rsxMWCsrc.tap.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp11/magtapes/rsxMWCsrc.tap.txt",
+    "is_dir": false,
+    "size": "21.9 KiB",
+    "date": "02-Nov-2004 23:13"
+  },
+  {
+    "name": "whitesmithsCv2.25_052687.tap.gz",
+    "href": "whitesmithsCv2.25_052687.tap.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp11/magtapes/whitesmithsCv2.25_052687.tap.gz",
+    "is_dir": false,
+    "size": "161.7 KiB",
+    "date": "22-Oct-2004 21:10"
+  }
+]

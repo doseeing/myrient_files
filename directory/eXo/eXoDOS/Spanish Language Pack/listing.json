@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Content",
+    "href": "Content/",
+    "url": "https://myrient.erista.me/files/eXo/eXoDOS/Spanish%20Language%20Pack/Content/",
+    "is_dir": true,
+    "size": null,
+    "date": "26-Sep-2025 09:50"
+  },
+  {
+    "name": "eXo",
+    "href": "eXo/",
+    "url": "https://myrient.erista.me/files/eXo/eXoDOS/Spanish%20Language%20Pack/eXo/",
+    "is_dir": true,
+    "size": null,
+    "date": "26-Sep-2025 10:28"
+  },
+  {
+    "name": "Setup_eXoDOS-SLP.bat",
+    "href": "Setup_eXoDOS-SLP.bat",
+    "url": "https://myrient.erista.me/files/eXo/eXoDOS/Spanish%20Language%20Pack/Setup_eXoDOS-SLP.bat",
+    "is_dir": false,
+    "size": "10.5 KiB",
+    "date": "26-Sep-2025 10:29"
+  },
+  {
+    "name": "eXoDOS Manual de Usuario.pdf",
+    "href": "eXoDOS%20Manual%20de%20Usuario.pdf",
+    "url": "https://myrient.erista.me/files/eXo/eXoDOS/Spanish%20Language%20Pack/eXoDOS%20Manual%20de%20Usuario.pdf",
+    "is_dir": false,
+    "size": "5.7 MiB",
+    "date": "26-Sep-2025 10:29"
+  },
+  {
+    "name": "eXoDOS SLP box-front.png",
+    "href": "eXoDOS%20SLP%20box-front.png",
+    "url": "https://myrient.erista.me/files/eXo/eXoDOS/Spanish%20Language%20Pack/eXoDOS%20SLP%20box-front.png",
+    "is_dir": false,
+    "size": "2.7 MiB",
+    "date": "26-Sep-2025 10:29"
+  }
+]

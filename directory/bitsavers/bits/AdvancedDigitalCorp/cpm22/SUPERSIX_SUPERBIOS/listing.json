@@ -1,0 +1,162 @@
+[
+  {
+    "name": "CPMZ.SYS",
+    "href": "CPMZ.SYS",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/AdvancedDigitalCorp/cpm22/SUPERSIX_SUPERBIOS/CPMZ.SYS",
+    "is_dir": false,
+    "size": "10.3 KiB",
+    "date": "07-Nov-2012 19:48"
+  },
+  {
+    "name": "FMT548.CPM",
+    "href": "FMT548.CPM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/AdvancedDigitalCorp/cpm22/SUPERSIX_SUPERBIOS/FMT548.CPM",
+    "is_dir": false,
+    "size": "2.3 KiB",
+    "date": "07-Nov-2012 19:48"
+  },
+  {
+    "name": "FMT596.CPM",
+    "href": "FMT596.CPM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/AdvancedDigitalCorp/cpm22/SUPERSIX_SUPERBIOS/FMT596.CPM",
+    "is_dir": false,
+    "size": "2.3 KiB",
+    "date": "07-Nov-2012 19:48"
+  },
+  {
+    "name": "FMT8.CPM",
+    "href": "FMT8.CPM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/AdvancedDigitalCorp/cpm22/SUPERSIX_SUPERBIOS/FMT8.CPM",
+    "is_dir": false,
+    "size": "2.3 KiB",
+    "date": "07-Nov-2012 19:48"
+  },
+  {
+    "name": "FMTHD.CPM",
+    "href": "FMTHD.CPM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/AdvancedDigitalCorp/cpm22/SUPERSIX_SUPERBIOS/FMTHD.CPM",
+    "is_dir": false,
+    "size": "2.1 KiB",
+    "date": "07-Nov-2012 19:48"
+  },
+  {
+    "name": "FMTHD.MAC",
+    "href": "FMTHD.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/AdvancedDigitalCorp/cpm22/SUPERSIX_SUPERBIOS/FMTHD.MAC",
+    "is_dir": false,
+    "size": "22.3 KiB",
+    "date": "07-Nov-2012 19:48"
+  },
+  {
+    "name": "FORMAT.MAC",
+    "href": "FORMAT.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/AdvancedDigitalCorp/cpm22/SUPERSIX_SUPERBIOS/FORMAT.MAC",
+    "is_dir": false,
+    "size": "17.0 KiB",
+    "date": "07-Nov-2012 19:48"
+  },
+  {
+    "name": "LDRBDOS.MAC",
+    "href": "LDRBDOS.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/AdvancedDigitalCorp/cpm22/SUPERSIX_SUPERBIOS/LDRBDOS.MAC",
+    "is_dir": false,
+    "size": "11.6 KiB",
+    "date": "07-Nov-2012 19:48"
+  },
+  {
+    "name": "LDRDBIOS.MAC",
+    "href": "LDRDBIOS.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/AdvancedDigitalCorp/cpm22/SUPERSIX_SUPERBIOS/LDRDBIOS.MAC",
+    "is_dir": false,
+    "size": "15.3 KiB",
+    "date": "07-Nov-2012 19:48"
+  },
+  {
+    "name": "LDRGEN.CPM",
+    "href": "LDRGEN.CPM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/AdvancedDigitalCorp/cpm22/SUPERSIX_SUPERBIOS/LDRGEN.CPM",
+    "is_dir": false,
+    "size": "1.5 KiB",
+    "date": "07-Nov-2012 19:48"
+  },
+  {
+    "name": "LDRGEN.MAC",
+    "href": "LDRGEN.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/AdvancedDigitalCorp/cpm22/SUPERSIX_SUPERBIOS/LDRGEN.MAC",
+    "is_dir": false,
+    "size": "12.5 KiB",
+    "date": "07-Nov-2012 19:48"
+  },
+  {
+    "name": "LODRBIOS.MAC",
+    "href": "LODRBIOS.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/AdvancedDigitalCorp/cpm22/SUPERSIX_SUPERBIOS/LODRBIOS.MAC",
+    "is_dir": false,
+    "size": "35.1 KiB",
+    "date": "07-Nov-2012 19:48"
+  },
+  {
+    "name": "SBCBOOT.MAC",
+    "href": "SBCBOOT.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/AdvancedDigitalCorp/cpm22/SUPERSIX_SUPERBIOS/SBCBOOT.MAC",
+    "is_dir": false,
+    "size": "2.4 KiB",
+    "date": "07-Nov-2012 19:48"
+  },
+  {
+    "name": "SBCDBOOT.MAC",
+    "href": "SBCDBOOT.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/AdvancedDigitalCorp/cpm22/SUPERSIX_SUPERBIOS/SBCDBOOT.MAC",
+    "is_dir": false,
+    "size": "2.1 KiB",
+    "date": "07-Nov-2012 19:48"
+  },
+  {
+    "name": "SBCHBOOT.MAC",
+    "href": "SBCHBOOT.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/AdvancedDigitalCorp/cpm22/SUPERSIX_SUPERBIOS/SBCHBOOT.MAC",
+    "is_dir": false,
+    "size": "2.1 KiB",
+    "date": "07-Nov-2012 19:48"
+  },
+  {
+    "name": "SUPRBIOS.LIB",
+    "href": "SUPRBIOS.LIB",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/AdvancedDigitalCorp/cpm22/SUPERSIX_SUPERBIOS/SUPRBIOS.LIB",
+    "is_dir": false,
+    "size": "17.1 KiB",
+    "date": "07-Nov-2012 19:48"
+  },
+  {
+    "name": "SUPRBIOS.MAC",
+    "href": "SUPRBIOS.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/AdvancedDigitalCorp/cpm22/SUPERSIX_SUPERBIOS/SUPRBIOS.MAC",
+    "is_dir": false,
+    "size": "55.6 KiB",
+    "date": "07-Nov-2012 19:48"
+  },
+  {
+    "name": "TRK0.LDR",
+    "href": "TRK0.LDR",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/AdvancedDigitalCorp/cpm22/SUPERSIX_SUPERBIOS/TRK0.LDR",
+    "is_dir": false,
+    "size": "2.5 KiB",
+    "date": "07-Nov-2012 19:48"
+  },
+  {
+    "name": "TRK048.LDR",
+    "href": "TRK048.LDR",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/AdvancedDigitalCorp/cpm22/SUPERSIX_SUPERBIOS/TRK048.LDR",
+    "is_dir": false,
+    "size": "3.8 KiB",
+    "date": "07-Nov-2012 19:48"
+  },
+  {
+    "name": "TRK096.LDR",
+    "href": "TRK096.LDR",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/AdvancedDigitalCorp/cpm22/SUPERSIX_SUPERBIOS/TRK096.LDR",
+    "is_dir": false,
+    "size": "2.8 KiB",
+    "date": "07-Nov-2012 19:48"
+  }
+]

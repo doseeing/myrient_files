@@ -1,0 +1,642 @@
+[
+  {
+    "name": "1401.cfg",
+    "href": "1401.cfg",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/Newcomer%2BJaeger/autocode/1401.cfg",
+    "is_dir": false,
+    "size": "2.7 KiB",
+    "date": "18-Jan-2002 21:13"
+  },
+  {
+    "name": "asmops.c",
+    "href": "asmops.c",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/Newcomer%2BJaeger/autocode/asmops.c",
+    "is_dir": false,
+    "size": "5.2 KiB",
+    "date": "18-Jan-2002 21:13"
+  },
+  {
+    "name": "asmops.h",
+    "href": "asmops.h",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/Newcomer%2BJaeger/autocode/asmops.h",
+    "is_dir": false,
+    "size": "261 B",
+    "date": "18-Jan-2002 21:13"
+  },
+  {
+    "name": "autocode.c",
+    "href": "autocode.c",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/Newcomer%2BJaeger/autocode/autocode.c",
+    "is_dir": false,
+    "size": "8.9 KiB",
+    "date": "18-Jan-2002 21:13"
+  },
+  {
+    "name": "autocode.exe",
+    "href": "autocode.exe",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/Newcomer%2BJaeger/autocode/autocode.exe",
+    "is_dir": false,
+    "size": "115.2 KiB",
+    "date": "18-Jan-2002 21:18"
+  },
+  {
+    "name": "autocode.h",
+    "href": "autocode.h",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/Newcomer%2BJaeger/autocode/autocode.h",
+    "is_dir": false,
+    "size": "54 B",
+    "date": "18-Jan-2002 21:13"
+  },
+  {
+    "name": "autocode.lnk",
+    "href": "autocode.lnk",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/Newcomer%2BJaeger/autocode/autocode.lnk",
+    "is_dir": false,
+    "size": "350 B",
+    "date": "18-Jan-2002 21:13"
+  },
+  {
+    "name": "automem.h",
+    "href": "automem.h",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/Newcomer%2BJaeger/autocode/automem.h",
+    "is_dir": false,
+    "size": "71 B",
+    "date": "18-Jan-2002 21:13"
+  },
+  {
+    "name": "bcd.c",
+    "href": "bcd.c",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/Newcomer%2BJaeger/autocode/bcd.c",
+    "is_dir": false,
+    "size": "138 B",
+    "date": "18-Jan-2002 21:13"
+  },
+  {
+    "name": "boot.c",
+    "href": "boot.c",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/Newcomer%2BJaeger/autocode/boot.c",
+    "is_dir": false,
+    "size": "14.8 KiB",
+    "date": "18-Jan-2002 21:13"
+  },
+  {
+    "name": "boot.h",
+    "href": "boot.h",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/Newcomer%2BJaeger/autocode/boot.h",
+    "is_dir": false,
+    "size": "186 B",
+    "date": "18-Jan-2002 21:13"
+  },
+  {
+    "name": "chars.c",
+    "href": "chars.c",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/Newcomer%2BJaeger/autocode/chars.c",
+    "is_dir": false,
+    "size": "23 B",
+    "date": "18-Jan-2002 21:13"
+  },
+  {
+    "name": "da.aut",
+    "href": "da.aut",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/Newcomer%2BJaeger/autocode/da.aut",
+    "is_dir": false,
+    "size": "764 B",
+    "date": "18-Jan-2002 21:13"
+  },
+  {
+    "name": "da.c",
+    "href": "da.c",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/Newcomer%2BJaeger/autocode/da.c",
+    "is_dir": false,
+    "size": "9.3 KiB",
+    "date": "18-Jan-2002 21:14"
+  },
+  {
+    "name": "da.h",
+    "href": "da.h",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/Newcomer%2BJaeger/autocode/da.h",
+    "is_dir": false,
+    "size": "27 B",
+    "date": "18-Jan-2002 21:14"
+  },
+  {
+    "name": "dc.aut",
+    "href": "dc.aut",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/Newcomer%2BJaeger/autocode/dc.aut",
+    "is_dir": false,
+    "size": "309 B",
+    "date": "18-Jan-2002 21:14"
+  },
+  {
+    "name": "dc.c",
+    "href": "dc.c",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/Newcomer%2BJaeger/autocode/dc.c",
+    "is_dir": false,
+    "size": "9.2 KiB",
+    "date": "18-Jan-2002 21:14"
+  },
+  {
+    "name": "dc1.aut",
+    "href": "dc1.aut",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/Newcomer%2BJaeger/autocode/dc1.aut",
+    "is_dir": false,
+    "size": "275 B",
+    "date": "18-Jan-2002 21:14"
+  },
+  {
+    "name": "dc2.aut",
+    "href": "dc2.aut",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/Newcomer%2BJaeger/autocode/dc2.aut",
+    "is_dir": false,
+    "size": "168 B",
+    "date": "18-Jan-2002 21:14"
+  },
+  {
+    "name": "diag.c",
+    "href": "diag.c",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/Newcomer%2BJaeger/autocode/diag.c",
+    "is_dir": false,
+    "size": "877 B",
+    "date": "18-Jan-2002 21:14"
+  },
+  {
+    "name": "ds.aut",
+    "href": "ds.aut",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/Newcomer%2BJaeger/autocode/ds.aut",
+    "is_dir": false,
+    "size": "453 B",
+    "date": "18-Jan-2002 21:14"
+  },
+  {
+    "name": "ds.h",
+    "href": "ds.h",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/Newcomer%2BJaeger/autocode/ds.h",
+    "is_dir": false,
+    "size": "40 B",
+    "date": "18-Jan-2002 21:14"
+  },
+  {
+    "name": "dsa.aut",
+    "href": "dsa.aut",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/Newcomer%2BJaeger/autocode/dsa.aut",
+    "is_dir": false,
+    "size": "235 B",
+    "date": "18-Jan-2002 21:14"
+  },
+  {
+    "name": "dsa.c",
+    "href": "dsa.c",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/Newcomer%2BJaeger/autocode/dsa.c",
+    "is_dir": false,
+    "size": "3.0 KiB",
+    "date": "18-Jan-2002 21:14"
+  },
+  {
+    "name": "end.c",
+    "href": "end.c",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/Newcomer%2BJaeger/autocode/end.c",
+    "is_dir": false,
+    "size": "2.0 KiB",
+    "date": "18-Jan-2002 21:14"
+  },
+  {
+    "name": "equ.c",
+    "href": "equ.c",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/Newcomer%2BJaeger/autocode/equ.c",
+    "is_dir": false,
+    "size": "4.1 KiB",
+    "date": "18-Jan-2002 21:14"
+  },
+  {
+    "name": "err.h",
+    "href": "err.h",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/Newcomer%2BJaeger/autocode/err.h",
+    "is_dir": false,
+    "size": "120 B",
+    "date": "18-Jan-2002 21:14"
+  },
+  {
+    "name": "error.c",
+    "href": "error.c",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/Newcomer%2BJaeger/autocode/error.c",
+    "is_dir": false,
+    "size": "2.0 KiB",
+    "date": "18-Jan-2002 21:14"
+  },
+  {
+    "name": "error.h",
+    "href": "error.h",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/Newcomer%2BJaeger/autocode/error.h",
+    "is_dir": false,
+    "size": "82 B",
+    "date": "18-Jan-2002 21:14"
+  },
+  {
+    "name": "expr.c",
+    "href": "expr.c",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/Newcomer%2BJaeger/autocode/expr.c",
+    "is_dir": false,
+    "size": "31.2 KiB",
+    "date": "18-Jan-2002 21:15"
+  },
+  {
+    "name": "expr.h",
+    "href": "expr.h",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/Newcomer%2BJaeger/autocode/expr.h",
+    "is_dir": false,
+    "size": "836 B",
+    "date": "18-Jan-2002 21:15"
+  },
+  {
+    "name": "files",
+    "href": "files",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/Newcomer%2BJaeger/autocode/files",
+    "is_dir": false,
+    "size": "4.4 KiB",
+    "date": "18-Jan-2002 21:15"
+  },
+  {
+    "name": "font.c",
+    "href": "font.c",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/Newcomer%2BJaeger/autocode/font.c",
+    "is_dir": false,
+    "size": "22 B",
+    "date": "18-Jan-2002 21:15"
+  },
+  {
+    "name": "full.aut",
+    "href": "full.aut",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/Newcomer%2BJaeger/autocode/full.aut",
+    "is_dir": false,
+    "size": "3.1 KiB",
+    "date": "18-Jan-2002 21:15"
+  },
+  {
+    "name": "go.bat",
+    "href": "go.bat",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/Newcomer%2BJaeger/autocode/go.bat",
+    "is_dir": false,
+    "size": "381 B",
+    "date": "18-Jan-2002 21:15"
+  },
+  {
+    "name": "index.h",
+    "href": "index.h",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/Newcomer%2BJaeger/autocode/index.h",
+    "is_dir": false,
+    "size": "183 B",
+    "date": "18-Jan-2002 21:15"
+  },
+  {
+    "name": "job.c",
+    "href": "job.c",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/Newcomer%2BJaeger/autocode/job.c",
+    "is_dir": false,
+    "size": "1.6 KiB",
+    "date": "18-Jan-2002 21:15"
+  },
+  {
+    "name": "line.h",
+    "href": "line.h",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/Newcomer%2BJaeger/autocode/line.h",
+    "is_dir": false,
+    "size": "577 B",
+    "date": "18-Jan-2002 21:15"
+  },
+  {
+    "name": "list.c",
+    "href": "list.c",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/Newcomer%2BJaeger/autocode/list.c",
+    "is_dir": false,
+    "size": "11.1 KiB",
+    "date": "18-Jan-2002 21:15"
+  },
+  {
+    "name": "list.h",
+    "href": "list.h",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/Newcomer%2BJaeger/autocode/list.h",
+    "is_dir": false,
+    "size": "403 B",
+    "date": "18-Jan-2002 21:15"
+  },
+  {
+    "name": "lit.aut",
+    "href": "lit.aut",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/Newcomer%2BJaeger/autocode/lit.aut",
+    "is_dir": false,
+    "size": "235 B",
+    "date": "18-Jan-2002 21:15"
+  },
+  {
+    "name": "lit.c",
+    "href": "lit.c",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/Newcomer%2BJaeger/autocode/lit.c",
+    "is_dir": false,
+    "size": "2.4 KiB",
+    "date": "18-Jan-2002 21:15"
+  },
+  {
+    "name": "lit1.aut",
+    "href": "lit1.aut",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/Newcomer%2BJaeger/autocode/lit1.aut",
+    "is_dir": false,
+    "size": "354 B",
+    "date": "18-Jan-2002 21:15"
+  },
+  {
+    "name": "lit2.aut",
+    "href": "lit2.aut",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/Newcomer%2BJaeger/autocode/lit2.aut",
+    "is_dir": false,
+    "size": "113 B",
+    "date": "18-Jan-2002 21:15"
+  },
+  {
+    "name": "machop.c",
+    "href": "machop.c",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/Newcomer%2BJaeger/autocode/machop.c",
+    "is_dir": false,
+    "size": "2.0 KiB",
+    "date": "18-Jan-2002 21:15"
+  },
+  {
+    "name": "makefile",
+    "href": "makefile",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/Newcomer%2BJaeger/autocode/makefile",
+    "is_dir": false,
+    "size": "6.8 KiB",
+    "date": "18-Jan-2002 21:15"
+  },
+  {
+    "name": "makefile.fil",
+    "href": "makefile.fil",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/Newcomer%2BJaeger/autocode/makefile.fil",
+    "is_dir": false,
+    "size": "554 B",
+    "date": "18-Jan-2002 21:16"
+  },
+  {
+    "name": "memory.c",
+    "href": "memory.c",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/Newcomer%2BJaeger/autocode/memory.c",
+    "is_dir": false,
+    "size": "1.2 KiB",
+    "date": "18-Jan-2002 21:16"
+  },
+  {
+    "name": "minmax.h",
+    "href": "minmax.h",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/Newcomer%2BJaeger/autocode/minmax.h",
+    "is_dir": false,
+    "size": "88 B",
+    "date": "18-Jan-2002 21:16"
+  },
+  {
+    "name": "mtest.c",
+    "href": "mtest.c",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/Newcomer%2BJaeger/autocode/mtest.c",
+    "is_dir": false,
+    "size": "436 B",
+    "date": "18-Jan-2002 21:16"
+  },
+  {
+    "name": "muldef.aut",
+    "href": "muldef.aut",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/Newcomer%2BJaeger/autocode/muldef.aut",
+    "is_dir": false,
+    "size": "302 B",
+    "date": "18-Jan-2002 21:16"
+  },
+  {
+    "name": "operand.c",
+    "href": "operand.c",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/Newcomer%2BJaeger/autocode/operand.c",
+    "is_dir": false,
+    "size": "10.3 KiB",
+    "date": "18-Jan-2002 21:16"
+  },
+  {
+    "name": "operand.h",
+    "href": "operand.h",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/Newcomer%2BJaeger/autocode/operand.h",
+    "is_dir": false,
+    "size": "223 B",
+    "date": "18-Jan-2002 21:16"
+  },
+  {
+    "name": "operands.h",
+    "href": "operands.h",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/Newcomer%2BJaeger/autocode/operands.h",
+    "is_dir": false,
+    "size": "59 B",
+    "date": "18-Jan-2002 21:16"
+  },
+  {
+    "name": "org.aut",
+    "href": "org.aut",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/Newcomer%2BJaeger/autocode/org.aut",
+    "is_dir": false,
+    "size": "218 B",
+    "date": "18-Jan-2002 21:16"
+  },
+  {
+    "name": "org.c",
+    "href": "org.c",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/Newcomer%2BJaeger/autocode/org.c",
+    "is_dir": false,
+    "size": "3.2 KiB",
+    "date": "18-Jan-2002 21:16"
+  },
+  {
+    "name": "pass1.c",
+    "href": "pass1.c",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/Newcomer%2BJaeger/autocode/pass1.c",
+    "is_dir": false,
+    "size": "12.9 KiB",
+    "date": "18-Jan-2002 21:16"
+  },
+  {
+    "name": "pass1.h",
+    "href": "pass1.h",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/Newcomer%2BJaeger/autocode/pass1.h",
+    "is_dir": false,
+    "size": "300 B",
+    "date": "18-Jan-2002 21:16"
+  },
+  {
+    "name": "pass2.c",
+    "href": "pass2.c",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/Newcomer%2BJaeger/autocode/pass2.c",
+    "is_dir": false,
+    "size": "13.2 KiB",
+    "date": "18-Jan-2002 21:16"
+  },
+  {
+    "name": "pass2.h",
+    "href": "pass2.h",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/Newcomer%2BJaeger/autocode/pass2.h",
+    "is_dir": false,
+    "size": "120 B",
+    "date": "18-Jan-2002 21:16"
+  },
+  {
+    "name": "pos.h",
+    "href": "pos.h",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/Newcomer%2BJaeger/autocode/pos.h",
+    "is_dir": false,
+    "size": "107 B",
+    "date": "18-Jan-2002 21:16"
+  },
+  {
+    "name": "pprinter.c",
+    "href": "pprinter.c",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/Newcomer%2BJaeger/autocode/pprinter.c",
+    "is_dir": false,
+    "size": "24 B",
+    "date": "18-Jan-2002 21:16"
+  },
+  {
+    "name": "prdev.c",
+    "href": "prdev.c",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/Newcomer%2BJaeger/autocode/prdev.c",
+    "is_dir": false,
+    "size": "38 B",
+    "date": "18-Jan-2002 21:17"
+  },
+  {
+    "name": "printers.c",
+    "href": "printers.c",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/Newcomer%2BJaeger/autocode/printers.c",
+    "is_dir": false,
+    "size": "1.8 KiB",
+    "date": "18-Jan-2002 21:17"
+  },
+  {
+    "name": "printers.h",
+    "href": "printers.h",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/Newcomer%2BJaeger/autocode/printers.h",
+    "is_dir": false,
+    "size": "193 B",
+    "date": "18-Jan-2002 21:17"
+  },
+  {
+    "name": "rdy.c",
+    "href": "rdy.c",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/Newcomer%2BJaeger/autocode/rdy.c",
+    "is_dir": false,
+    "size": "21 B",
+    "date": "18-Jan-2002 21:17"
+  },
+  {
+    "name": "sample.aut",
+    "href": "sample.aut",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/Newcomer%2BJaeger/autocode/sample.aut",
+    "is_dir": false,
+    "size": "5.3 KiB",
+    "date": "18-Jan-2002 21:17"
+  },
+  {
+    "name": "skipn.c",
+    "href": "skipn.c",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/Newcomer%2BJaeger/autocode/skipn.c",
+    "is_dir": false,
+    "size": "938 B",
+    "date": "18-Jan-2002 21:17"
+  },
+  {
+    "name": "star.aut",
+    "href": "star.aut",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/Newcomer%2BJaeger/autocode/star.aut",
+    "is_dir": false,
+    "size": "78 B",
+    "date": "18-Jan-2002 21:17"
+  },
+  {
+    "name": "startloc.h",
+    "href": "startloc.h",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/Newcomer%2BJaeger/autocode/startloc.h",
+    "is_dir": false,
+    "size": "22 B",
+    "date": "18-Jan-2002 21:17"
+  },
+  {
+    "name": "ste.h",
+    "href": "ste.h",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/Newcomer%2BJaeger/autocode/ste.h",
+    "is_dir": false,
+    "size": "713 B",
+    "date": "18-Jan-2002 21:17"
+  },
+  {
+    "name": "sym.c",
+    "href": "sym.c",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/Newcomer%2BJaeger/autocode/sym.c",
+    "is_dir": false,
+    "size": "23.2 KiB",
+    "date": "18-Jan-2002 21:17"
+  },
+  {
+    "name": "sym.h",
+    "href": "sym.h",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/Newcomer%2BJaeger/autocode/sym.h",
+    "is_dir": false,
+    "size": "373 B",
+    "date": "18-Jan-2002 21:17"
+  },
+  {
+    "name": "t1.aut",
+    "href": "t1.aut",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/Newcomer%2BJaeger/autocode/t1.aut",
+    "is_dir": false,
+    "size": "720 B",
+    "date": "18-Jan-2002 21:17"
+  },
+  {
+    "name": "t2.aut",
+    "href": "t2.aut",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/Newcomer%2BJaeger/autocode/t2.aut",
+    "is_dir": false,
+    "size": "54 B",
+    "date": "18-Jan-2002 21:17"
+  },
+  {
+    "name": "t3.aut",
+    "href": "t3.aut",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/Newcomer%2BJaeger/autocode/t3.aut",
+    "is_dir": false,
+    "size": "492 B",
+    "date": "18-Jan-2002 21:17"
+  },
+  {
+    "name": "t4.aut",
+    "href": "t4.aut",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/Newcomer%2BJaeger/autocode/t4.aut",
+    "is_dir": false,
+    "size": "504 B",
+    "date": "18-Jan-2002 21:17"
+  },
+  {
+    "name": "t5.aut",
+    "href": "t5.aut",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/Newcomer%2BJaeger/autocode/t5.aut",
+    "is_dir": false,
+    "size": "100 B",
+    "date": "18-Jan-2002 21:17"
+  },
+  {
+    "name": "version.c",
+    "href": "version.c",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/Newcomer%2BJaeger/autocode/version.c",
+    "is_dir": false,
+    "size": "29 B",
+    "date": "18-Jan-2002 21:17"
+  },
+  {
+    "name": "version.ver",
+    "href": "version.ver",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/Newcomer%2BJaeger/autocode/version.ver",
+    "is_dir": false,
+    "size": "7 B",
+    "date": "18-Jan-2002 21:17"
+  }
+]

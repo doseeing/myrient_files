@@ -1,0 +1,42 @@
+[
+  {
+    "name": "_text",
+    "href": "_text/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/tx-0/microflit_2S/_text/",
+    "is_dir": true,
+    "size": null,
+    "date": "27-Oct-2004 01:20"
+  },
+  {
+    "name": "bin_microflit2s.bin",
+    "href": "bin_microflit2s.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/tx-0/microflit_2S/bin_microflit2s.bin",
+    "is_dir": false,
+    "size": "1.7 KiB",
+    "date": "22-Sep-2004 03:29"
+  },
+  {
+    "name": "bin_microflit2s_symTblLdr.bin",
+    "href": "bin_microflit2s_symTblLdr.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/tx-0/microflit_2S/bin_microflit2s_symTblLdr.bin",
+    "is_dir": false,
+    "size": "812 B",
+    "date": "22-Sep-2004 03:31"
+  },
+  {
+    "name": "eng_mfstl2_neu.bin",
+    "href": "eng_mfstl2_neu.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/tx-0/microflit_2S/eng_mfstl2_neu.bin",
+    "is_dir": false,
+    "size": "1.6 KiB",
+    "date": "01-Sep-2004 02:01"
+  },
+  {
+    "name": "eng_microflit_2S.bin",
+    "href": "eng_microflit_2S.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/tx-0/microflit_2S/eng_microflit_2S.bin",
+    "is_dir": false,
+    "size": "5.5 KiB",
+    "date": "01-Sep-2004 02:03"
+  }
+]

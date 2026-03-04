@@ -1,0 +1,15 @@
+name	is_dir	size	date
+1 USA	True	-	07-Sep-2025 14:11
+2 Japan - A-M	True	-	07-Sep-2025 14:49
+2 Japan - N-Z	True	-	07-Sep-2025 14:47
+3 Arcade Card Enhanced	True	-	07-Sep-2025 06:02
+3 Arcade Card Required	True	-	07-Sep-2025 06:43
+3 Games Express	True	-	07-Sep-2025 13:26
+3 Homebrew	True	-	07-Sep-2025 13:25
+4 Hacks	True	-	07-Sep-2025 13:25
+4 Prototypes	True	-	07-Sep-2025 13:04
+4 Translations	True	-	07-Sep-2025 13:34
+5 Tools	True	-	07-Sep-2025 13:14
+README.txt	False	202 B	18-May-2023 01:42
+cd_bios.rom	False	256.0 KiB	18-May-2023 01:42
+create_arcade_card_symlinks.sh	False	3.6 KiB	18-May-2023 01:42

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "full",
+    "href": "full/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/backup-logs/full/",
+    "is_dir": true,
+    "size": null,
+    "date": "21-Apr-2017 01:28"
+  },
+  {
+    "name": "incremental",
+    "href": "incremental/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/backup-logs/incremental/",
+    "is_dir": true,
+    "size": null,
+    "date": "21-Apr-2017 01:28"
+  }
+]

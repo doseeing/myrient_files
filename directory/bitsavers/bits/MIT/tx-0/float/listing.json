@@ -1,0 +1,26 @@
+[
+  {
+    "name": "_text",
+    "href": "_text/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/tx-0/float/_text/",
+    "is_dir": true,
+    "size": null,
+    "date": "27-Oct-2004 01:20"
+  },
+  {
+    "name": "eng_float.bin",
+    "href": "eng_float.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/tx-0/float/eng_float.bin",
+    "is_dir": false,
+    "size": "15.5 KiB",
+    "date": "16-Sep-2004 02:21"
+  },
+  {
+    "name": "eng_floatDefinitions.bin",
+    "href": "eng_floatDefinitions.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/tx-0/float/eng_floatDefinitions.bin",
+    "is_dir": false,
+    "size": "3.7 KiB",
+    "date": "16-Sep-2004 02:26"
+  }
+]

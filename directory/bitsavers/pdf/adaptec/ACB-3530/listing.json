@@ -1,0 +1,26 @@
+[
+  {
+    "name": "firmware",
+    "href": "firmware/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/adaptec/ACB-3530/firmware/",
+    "is_dir": true,
+    "size": null,
+    "date": "21-Nov-2025 09:19"
+  },
+  {
+    "name": "400112-00A_ACB-3530A_Streaming_Tape_Controller_Users_Manual_Nov86.pdf",
+    "href": "400112-00A_ACB-3530A_Streaming_Tape_Controller_Users_Manual_Nov86.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/adaptec/ACB-3530/400112-00A_ACB-3530A_Streaming_Tape_Controller_Users_Manual_Nov86.pdf",
+    "is_dir": false,
+    "size": "3.8 MiB",
+    "date": "20-Aug-2012 15:24"
+  },
+  {
+    "name": "400112-00A_ACB-3530_SCSI_to_QIC-36_Users_Manual_Jun85.pdf",
+    "href": "400112-00A_ACB-3530_SCSI_to_QIC-36_Users_Manual_Jun85.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/adaptec/ACB-3530/400112-00A_ACB-3530_SCSI_to_QIC-36_Users_Manual_Jun85.pdf",
+    "is_dir": false,
+    "size": "3.3 MiB",
+    "date": "17-Sep-2014 23:48"
+  }
+]

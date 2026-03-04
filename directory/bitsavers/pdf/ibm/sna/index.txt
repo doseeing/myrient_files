@@ -1,0 +1,66 @@
+name	is_dir	size	date
+SNA_Perspective	True	-	25-Jan-2019 19:49
+acf	True	-	14-Nov-2023 15:05
+analyst_reports	True	-	07-Feb-2024 04:26
+appc	True	-	20-Dec-2023 22:46
+appn	True	-	20-Dec-2023 22:46
+dia	True	-	29-Jul-2024 15:05
+ncp	True	-	27-Oct-2025 03:12
+netview	True	-	01-Nov-2023 00:30
+training	True	-	30-Aug-2023 04:06
+vtam	True	-	10-Dec-2024 06:28
+x25	True	-	23-Aug-2024 16:02
+CG20-1868-2_SNA_sessions_Apr81.pdf	False	44.9 MiB	12-Jul-2005 10:23
+G226-3543-0_SNA_Field_Engineering_Handbook_Nov1977.pdf	False	11.4 MiB	08-Nov-2018 19:09
+G226-3548-0_SNA_Field_Engineering_Handbook_197903.pdf	False	16.1 MiB	11-May-2024 17:03
+G320-6016-1_SNA_System_Problem_Determination_Guide_Aug1979.pdf	False	19.3 MiB	20-Nov-2019 02:19
+G320-6028-0_SNA_Product_Installation_Guide_197902.pdf	False	12.8 MiB	01-Mar-2022 00:49
+G360-1003-0_Tech_Bulletin_-_Virtual_Machine_-_SNA_Native_Support_198506.pdf	False	4.5 MiB	19-Apr-2022 13:25
+GA27-3099-1_Advanced_Functions_for_Communications_System_Summary_197507.pdf	False	7.4 MiB	10-Dec-2024 06:03
+GA27-3102-0_SNA_General_Information_Jan75.pdf	False	2.2 MiB	08-Jan-2013 18:18
+GA27-3136-10_SNA_Formats_Jun89.pdf	False	19.8 MiB	19-Mar-2010 21:38
+GA27-3136-12_SNA_Formats_199201.pdf	False	55.3 MiB	20-Aug-2023 01:48
+GA27-3136-2_Systems_Network_Architecture_Reference_Summary_197810.pdf	False	4.5 MiB	30-May-2012 03:28
+GA27-3136-3_Systems_Network_Architecture_Reference_Summary_197906.pdf	False	4.7 MiB	14-Oct-2020 23:23
+GA27-3136-4_Systems_Network_Architecture_Reference_Summary_198101.pdf	False	13.6 MiB	09-Nov-2018 21:36
+GA27-3136-5_Systems_Network_Architecture_Reference_Summary_198311.pdf	False	7.9 MiB	14-Nov-2023 14:37
+GA27-3136-8_SNA_Formats_Jun87.pdf	False	14.7 MiB	03-Jan-2021 12:05
+GA27-3136-9_SNA_Formats_Jun88.pdf	False	14.5 MiB	09-Jan-2013 02:57
+GC20-1868-2_SNA_Sessions_Between_Logical_Units_Apr81.pdf	False	13.3 MiB	17-Jan-2013 18:57
+GC20-1869-2_SNA_Introduction_to_Sessions_Between_Logical_Units_Dec79.pdf	False	2.8 MiB	17-Jan-2013 18:06
+GC27-0657-1_Network_Program_Products_General_Information_Feb84.pdf	False	11.0 MiB	18-Jan-2013 01:03
+GC27-0657-2_Network_Program_Products_General_Information_Sep85.pdf	False	11.1 MiB	27-Jan-2014 22:59
+GC30-3072-0_SNA_Concepts_and_Products_198102.pdf	False	15.2 MiB	01-Mar-2022 19:49
+GC30-3072-0_SNA_Concepts_and_Products_Jan81.pdf	False	9.6 MiB	11-Jan-2013 02:09
+GC30-3072-1_SNA_Concepts_and_Products_Feb84.pdf	False	9.0 MiB	08-Jan-2013 21:20
+GC30-3072-3_SNA_Concepts_and_Products_Oct1986.pdf	False	2.9 MiB	14-Nov-2019 02:43
+GC30-3073-04_System_Network_Architecture_Technical_Overview_199401.pdf	False	33.6 MiB	24-Aug-2023 02:08
+GC30-3073-0_SNA_Technical_Overview_Mar82.pdf	False	9.8 MiB	09-Jan-2013 02:57
+GC30-3073-1_Systems_Network_Architecture_Technical_Overview_May85.pdf	False	7.2 MiB	15-Jan-2013 16:36
+GC30-3084-2_SNA_Transaction_Programmers_Reference_Manual_for_LU_Type_6.2_Nov1985.pdf	False	16.1 MiB	14-Nov-2019 01:16
+GC30-3085-3_Distributed_Office_Support_System_General_Information_Oct1984.pdf	False	3.9 MiB	14-Nov-2019 02:43
+GC30-3438-01_Guide_to_SNA_Publications_199205.pdf	False	1.4 MiB	24-Oct-2024 04:45
+GC31-8302-01_SNA_Management_Services_Formats_199803.pdf	False	3.7 MiB	28-Feb-2022 18:32
+GG24-1558-0_Communication_Network_Management_Central_Site_Operation_198210.pdf	False	6.5 MiB	28-Jun-2022 21:30
+GG24-1573-0_Small_Communications_Systems_Installation_Primer_-_IBM_4331_ACF_VTAM_Version_2_198305.pdf	False	15.6 MiB	28-Jun-2022 21:30
+GG24-1575-0_Communication_Network_Management_Remote_Maintenance_and_Distribution_198303.pdf	False	5.6 MiB	28-Jun-2022 21:30
+GG24-1578-0_Office_Systems_Interconnection_-_Guide_to_Network_Management_for_DPCX_DOSF_Systems_198305.pdf	False	10.9 MiB	28-Jun-2022 21:30
+GG24-1604-0_Office_Systems_Interconnect_-_Guide_to_Connecting_non-DIA_Systems_to_DISOSS_198403.pdf	False	11.1 MiB	28-Jun-2022 21:30
+GG24-1664-0_SNA_ENA_and_Virtual_Storage_Guide_198411.pdf	False	9.3 MiB	28-Jun-2022 21:42
+GG24-3420-0_AS400_S38_and_PS2_as_T2.1_Nodes_in_a_Subarea_Network_Sep89.pdf	False	13.8 MiB	11-Jan-2013 21:36
+GG24-3433-0_Enterprise_Networking_with_SNA_Type_2.1_Nodes_Nov89.pdf	False	11.6 MiB	10-Jan-2013 02:24
+GG66-0217-00_Demystifying_the_SNA_Bind_198610.pdf	False	2.4 MiB	01-Mar-2022 20:17
+GH19-6576-0_X.25_SNA_Interconnection_DTE-DCE_Interface_Description_198801.pdf	False	12.2 MiB	19-Apr-2022 13:31
+NCP0000_R1.2_Internal_Structure_and_Dump_Analysis.pdf	False	3.8 MiB	14-Apr-2022 14:28
+Questronics_SNA_SDLC_Pocket_Card_1981.pdf	False	652.8 KiB	30-Jul-2021 18:39
+SC30-3098-3_SNA_Distribution_Services_Reference_198906.pdf	False	44.0 MiB	12-Feb-2024 23:03
+SC30-3112-2_SNA_Format_and_Protocol_Reference_Manual_-_Architectural_Logic_198011.pdf	False	68.1 MiB	28-Feb-2022 18:24
+SC30-3269-02_SNA_Format_and_Protocol_Reference_Manual_Architecture_Logic_for_LU_Type_6.2_198412.pdf	False	60.2 MiB	26-Mar-2023 22:03
+SC30-3269-3_SNA_Format_and_Protocol_Reference_Manual_Architecture_Logic_for_LU_Type_6.2_198512.pdf	False	58.9 MiB	12-Feb-2024 23:03
+SC30-3339-0_SNA_Format_and_Protocol_Reference_Manual_SNA_Network_Interconnection_198503.pdf	False	11.3 MiB	12-Feb-2024 23:03
+SC30-3346-2_SNA_Management_Services_Reference_198906.pdf	False	32.0 MiB	01-Mar-2022 00:49
+SC30-3353-0_Network_Program_Products_Bibliography_and_Master_Index_Jun1986.pdf	False	23.1 MiB	17-Nov-2019 03:49
+SC30-3422-0_SNA_Format_and_Protocol_Reference_Manual_-_Architecture_Logic_for_Type_2.1_Nodes_198612.pdf	False	5.4 MiB	01-Mar-2022 00:50
+SC31-6808-0_LU_6.2_Reference_Peer_Protocols_198809.pdf	False	43.3 MiB	31-Mar-2023 22:48
+SY20-3112-2_System_Network_Architecture_Format_and_Protocol_Reference_Manual_Architectural_Logic_Nov1980.pdf	False	97.9 MiB	06-Oct-2019 01:03
+Z325-6027-0_IBM-Apple_Enterprise_Networking_Guide_for_SNA_Products_199110.pdf	False	36.4 MiB	01-Mar-2022 00:50

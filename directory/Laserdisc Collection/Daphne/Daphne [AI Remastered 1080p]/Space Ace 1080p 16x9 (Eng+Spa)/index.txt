@@ -1,0 +1,38 @@
+name	is_dir	size	date
+mpeg2	True	-	08-Dec-2025 11:37
+pics	True	-	04-Dec-2025 01:41
+roms	True	-	04-Dec-2025 01:41
+sound	True	-	04-Dec-2025 01:41
+-Space Ace 1080p 16x9 (ace, Rev A3, English Audio).bat	False	271 B	08-Dec-2025 09:29
+-Space Ace 1080p 16x9 (ace, Rev A3, Spanish Audio).bat	False	286 B	08-Dec-2025 09:29
+-Space Ace 1080p 16x9 (ace_a, Rev A, English Audio).bat	False	273 B	08-Dec-2025 09:29
+-Space Ace 1080p 16x9 (ace_a, Rev A, Spanish Audio).bat	False	288 B	08-Dec-2025 09:29
+-Space Ace 1080p 16x9 (ace_a2, rev A2, English Audio).bat	False	274 B	08-Dec-2025 09:29
+-Space Ace 1080p 16x9 (ace_a2, rev A2, Spanish Audio).bat	False	289 B	08-Dec-2025 09:29
+-Space Ace 1080p 16x9 (sae, Enhanced v1.0, English Audio).bat	False	271 B	08-Dec-2025 09:29
+-Space Ace 1080p 16x9 (sae, Enhanced v1.0, Spanish Audio).bat	False	286 B	08-Dec-2025 09:29
+COPYING	False	17.9 KiB	01-Dec-2025 17:44
+SDL.dll	False	252.0 KiB	08-Dec-2025 09:29
+SDL_mixer.dll	False	252.0 KiB	08-Dec-2025 09:29
+__Instrucciones.txt	False	794 B	08-Dec-2025 09:29
+config.xml	False	170.8 KiB	08-Dec-2025 09:29
+daphne-changelog.txt	False	4.9 KiB	08-Dec-2025 09:29
+daphne.exe	False	664.0 KiB	08-Dec-2025 09:29
+dapinput.ini	False	383 B	08-Dec-2025 09:29
+glew32.dll	False	208.0 KiB	08-Dec-2025 09:29
+hwaccel.txt	False	22 B	08-Dec-2025 09:29
+inpout32.dll	False	96.0 KiB	01-Dec-2025 17:44
+input_grabber.exe	False	8.0 KiB	08-Dec-2025 09:29
+install-ocx.exe	False	673.2 KiB	08-Dec-2025 09:29
+keylist.txt	False	2.0 KiB	08-Dec-2025 09:29
+libexpat.dll	False	148.0 KiB	08-Dec-2025 09:29
+mpolib.dll	False	232.0 KiB	08-Dec-2025 09:29
+msvcp71.dll	False	488.0 KiB	01-Dec-2025 17:44
+msvcr71.dll	False	340.0 KiB	01-Dec-2025 17:44
+ogg.dll	False	48.0 KiB	08-Dec-2025 09:29
+par-io.dll	False	48.5 KiB	08-Dec-2025 09:29
+vldp.dll	False	348.7 KiB	08-Dec-2025 09:29
+vldp2.dll	False	80.0 KiB	08-Dec-2025 09:29
+vorbis.dll	False	100.0 KiB	08-Dec-2025 09:29
+vorbisfile.dll	False	28.0 KiB	08-Dec-2025 09:29
+zlib.dll	False	52.0 KiB	08-Dec-2025 09:29

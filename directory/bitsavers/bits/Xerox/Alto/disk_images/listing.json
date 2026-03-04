@@ -1,0 +1,90 @@
+[
+  {
+    "name": "chm",
+    "href": "chm/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Xerox/Alto/disk_images/chm/",
+    "is_dir": true,
+    "size": null,
+    "date": "05-Jul-2016 23:19"
+  },
+  {
+    "name": "lcm",
+    "href": "lcm/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Xerox/Alto/disk_images/lcm/",
+    "is_dir": true,
+    "size": null,
+    "date": "11-Jul-2017 22:59"
+  },
+  {
+    "name": "allgames.dsk",
+    "href": "allgames.dsk",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Xerox/Alto/disk_images/allgames.dsk",
+    "is_dir": false,
+    "size": "2.5 MiB",
+    "date": "05-Jul-2016 23:20"
+  },
+  {
+    "name": "asprstlk.dsk.Z",
+    "href": "asprstlk.dsk.Z",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Xerox/Alto/disk_images/asprstlk.dsk.Z",
+    "is_dir": false,
+    "size": "1.5 MiB",
+    "date": "11-Jul-2017 23:01"
+  },
+  {
+    "name": "games.dsk.Z",
+    "href": "games.dsk.Z",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Xerox/Alto/disk_images/games.dsk.Z",
+    "is_dir": false,
+    "size": "1.7 MiB",
+    "date": "22-Oct-2014 00:55"
+  },
+  {
+    "name": "gamesb.dsk.Z",
+    "href": "gamesb.dsk.Z",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Xerox/Alto/disk_images/gamesb.dsk.Z",
+    "is_dir": false,
+    "size": "1.5 MiB",
+    "date": "22-Oct-2014 00:55"
+  },
+  {
+    "name": "maststlk.dsk.Z",
+    "href": "maststlk.dsk.Z",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Xerox/Alto/disk_images/maststlk.dsk.Z",
+    "is_dir": false,
+    "size": "1.6 MiB",
+    "date": "11-Jul-2017 23:01"
+  },
+  {
+    "name": "mazeWar.dsk.gz",
+    "href": "mazeWar.dsk.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Xerox/Alto/disk_images/mazeWar.dsk.gz",
+    "is_dir": false,
+    "size": "1.2 MiB",
+    "date": "22-Oct-2014 00:53"
+  },
+  {
+    "name": "mazeWarTry2.dsk.gz",
+    "href": "mazeWarTry2.dsk.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Xerox/Alto/disk_images/mazeWarTry2.dsk.gz",
+    "is_dir": false,
+    "size": "1.2 MiB",
+    "date": "22-Oct-2014 00:53"
+  },
+  {
+    "name": "st80src.dsk.Z",
+    "href": "st80src.dsk.Z",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Xerox/Alto/disk_images/st80src.dsk.Z",
+    "is_dir": false,
+    "size": "1.6 MiB",
+    "date": "11-Jul-2017 23:01"
+  },
+  {
+    "name": "stancsl.dsk.Z",
+    "href": "stancsl.dsk.Z",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Xerox/Alto/disk_images/stancsl.dsk.Z",
+    "is_dir": false,
+    "size": "1.6 MiB",
+    "date": "15-Jan-2023 22:34"
+  }
+]

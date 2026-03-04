@@ -1,0 +1,37 @@
+name	is_dir	size	date
+scheme	True	-	21-Apr-2017 01:29
+#udasm.lisp.72#	False	33.7 KiB	21-Apr-2017 01:04
+atn-current.lisp.2	False	46.1 KiB	21-Apr-2017 01:04
+bench.lisp.4	False	2.7 KiB	21-Apr-2017 01:04
+bit-string.lisp.8	False	2.8 KiB	21-Apr-2017 01:04
+bobhack.lisp.6	False	863 B	21-Apr-2017 01:04
+call-return.text.1	False	714 B	21-Apr-2017 01:04
+chains.lisp.17	False	6.7 KiB	21-Apr-2017 01:04
+cont-hack.lisp.37	False	18.4 KiB	21-Apr-2017 01:04
+cps-y.lisp.2	False	1.4 KiB	21-Apr-2017 01:04
+custom.lisp.56	False	6.2 KiB	21-Apr-2017 01:04
+des-data.lisp.4	False	4.5 KiB	21-Apr-2017 01:04
+dynamic-wind.lisp.6	False	1.6 KiB	21-Apr-2017 01:04
+executor.lisp.2	False	1.6 KiB	21-Apr-2017 01:04
+fdes-microcode.lisp.21	False	25.6 KiB	21-Apr-2017 01:04
+fdes.lisp.15	False	7.6 KiB	21-Apr-2017 01:04
+fefstat.lisp.3	False	7.3 KiB	21-Apr-2017 01:04
+format.lisp.5	False	14.3 KiB	21-Apr-2017 01:04
+gc-debug.lisp.11	False	2.7 KiB	21-Apr-2017 01:04
+interpreter-setup.lisp.5	False	159 B	21-Apr-2017 01:04
+lispm.init.75	False	5.6 KiB	21-Apr-2017 01:04
+m-p.lisp.1	False	10.7 KiB	21-Apr-2017 01:04
+maplist.lisp.1	False	1.1 KiB	21-Apr-2017 01:04
+maps.text.1	False	3.0 KiB	21-Apr-2017 01:04
+micro-trace.lisp.17	False	1022 B	21-Apr-2017 01:04
+numsets.lisp.37	False	7.5 KiB	21-Apr-2017 01:04
+old-micro-trace.lisp.1	False	24.0 KiB	21-Apr-2017 01:04
+query.lisp.7	False	9.0 KiB	21-Apr-2017 01:04
+reg.lisp.9	False	4.6 KiB	21-Apr-2017 01:04
+regular-expressions.lisp.2	False	12.4 KiB	21-Apr-2017 01:04
+storage-defs.text.11	False	8.1 KiB	21-Apr-2017 01:04
+udasm.lisp.72	False	32.8 KiB	21-Apr-2017 01:04
+uregs.lisp.5	False	2.8 KiB	21-Apr-2017 01:04
+utrace.lisp.269	False	23.5 KiB	21-Apr-2017 01:04
+window-hacks.lisp.12	False	14.6 KiB	21-Apr-2017 01:04
+zmail.init.1	False	404 B	21-Apr-2017 01:04

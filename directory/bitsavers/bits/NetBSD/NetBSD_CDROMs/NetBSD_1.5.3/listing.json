@@ -1,0 +1,42 @@
+[
+  {
+    "name": "CDROM_1.iso",
+    "href": "CDROM_1.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/NetBSD_CDROMs/NetBSD_1.5.3/CDROM_1.iso",
+    "is_dir": false,
+    "size": "611.8 MiB",
+    "date": "11-Sep-2023 18:57"
+  },
+  {
+    "name": "CDROM_2.iso",
+    "href": "CDROM_2.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/NetBSD_CDROMs/NetBSD_1.5.3/CDROM_2.iso",
+    "is_dir": false,
+    "size": "514.7 MiB",
+    "date": "11-Sep-2023 19:01"
+  },
+  {
+    "name": "CDROM_3.iso",
+    "href": "CDROM_3.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/NetBSD_CDROMs/NetBSD_1.5.3/CDROM_3.iso",
+    "is_dir": false,
+    "size": "494.3 MiB",
+    "date": "11-Sep-2023 19:05"
+  },
+  {
+    "name": "back.jpg",
+    "href": "back.jpg",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/NetBSD_CDROMs/NetBSD_1.5.3/back.jpg",
+    "is_dir": false,
+    "size": "491.9 KiB",
+    "date": "11-Sep-2023 18:52"
+  },
+  {
+    "name": "front.jpg",
+    "href": "front.jpg",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/NetBSD_CDROMs/NetBSD_1.5.3/front.jpg",
+    "is_dir": false,
+    "size": "385.8 KiB",
+    "date": "11-Sep-2023 19:05"
+  }
+]

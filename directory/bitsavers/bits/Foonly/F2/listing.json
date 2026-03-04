@@ -1,0 +1,26 @@
+[
+  {
+    "name": "files",
+    "href": "files/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Foonly/F2/files/",
+    "is_dir": true,
+    "size": null,
+    "date": "22-Apr-2020 04:08"
+  },
+  {
+    "name": "text",
+    "href": "text/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Foonly/F2/text/",
+    "is_dir": true,
+    "size": null,
+    "date": "27-Oct-2004 01:01"
+  },
+  {
+    "name": "label.txt",
+    "href": "label.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Foonly/F2/label.txt",
+    "is_dir": false,
+    "size": "217 B",
+    "date": "09-Dec-2003 06:59"
+  }
+]

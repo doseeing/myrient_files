@@ -1,0 +1,114 @@
+[
+  {
+    "name": "BS",
+    "href": "BS/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp11/dectape/BS/",
+    "is_dir": true,
+    "size": null,
+    "date": "14-Nov-2014 23:37"
+  },
+  {
+    "name": "GS",
+    "href": "GS/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp11/dectape/GS/",
+    "is_dir": true,
+    "size": null,
+    "date": "14-Nov-2014 23:37"
+  },
+  {
+    "name": "LCM_Early_PDP-11",
+    "href": "LCM_Early_PDP-11/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp11/dectape/LCM_Early_PDP-11/",
+    "is_dir": true,
+    "size": null,
+    "date": "24-Mar-2018 14:55"
+  },
+  {
+    "name": "RG_DECtapes",
+    "href": "RG_DECtapes/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp11/dectape/RG_DECtapes/",
+    "is_dir": true,
+    "size": null,
+    "date": "14-Nov-2014 23:37"
+  },
+  {
+    "name": "TU_DECtapes",
+    "href": "TU_DECtapes/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp11/dectape/TU_DECtapes/",
+    "is_dir": true,
+    "size": null,
+    "date": "14-Nov-2014 23:37"
+  },
+  {
+    "name": "dectapeDiagnosticPackage",
+    "href": "dectapeDiagnosticPackage/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp11/dectape/dectapeDiagnosticPackage/",
+    "is_dir": true,
+    "size": null,
+    "date": "05-Jul-2006 17:28"
+  },
+  {
+    "name": "rsts",
+    "href": "rsts/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp11/dectape/rsts/",
+    "is_dir": true,
+    "size": null,
+    "date": "05-Jul-2006 15:05"
+  },
+  {
+    "name": "tools",
+    "href": "tools/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp11/dectape/tools/",
+    "is_dir": true,
+    "size": null,
+    "date": "12-Jun-2017 15:47"
+  },
+  {
+    "name": "BS_DECtapes.txt",
+    "href": "BS_DECtapes.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp11/dectape/BS_DECtapes.txt",
+    "is_dir": false,
+    "size": "3.6 KiB",
+    "date": "14-Aug-2005 14:24"
+  },
+  {
+    "name": "GS_DECtapes.txt",
+    "href": "GS_DECtapes.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp11/dectape/GS_DECtapes.txt",
+    "is_dir": false,
+    "size": "6.5 KiB",
+    "date": "14-Aug-2005 14:07"
+  },
+  {
+    "name": "RG_DECtapes.txt",
+    "href": "RG_DECtapes.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp11/dectape/RG_DECtapes.txt",
+    "is_dir": false,
+    "size": "3.1 KiB",
+    "date": "14-Aug-2005 14:08"
+  },
+  {
+    "name": "TU_DECtapes.txt",
+    "href": "TU_DECtapes.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp11/dectape/TU_DECtapes.txt",
+    "is_dir": false,
+    "size": "247 B",
+    "date": "14-Aug-2005 13:51"
+  },
+  {
+    "name": "rtv1-15.tap",
+    "href": "rtv1-15.tap",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp11/dectape/rtv1-15.tap",
+    "is_dir": false,
+    "size": "289.0 KiB",
+    "date": "13-Apr-2023 19:01"
+  },
+  {
+    "name": "rtv1.txt",
+    "href": "rtv1.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp11/dectape/rtv1.txt",
+    "is_dir": false,
+    "size": "17 B",
+    "date": "13-Apr-2023 19:01"
+  }
+]

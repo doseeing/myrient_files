@@ -1,0 +1,49 @@
+name	is_dir	size	date
+5203	True	-	07-Feb-2021 21:37
+5213	True	-	09-Feb-2021 02:22
+5421	True	-	09-Feb-2021 02:19
+5424	True	-	09-Feb-2021 02:33
+5444	True	-	09-Feb-2021 14:31
+5445	True	-	03-Jan-2021 12:15
+5475	True	-	03-Jan-2021 12:18
+applications	True	-	05-Jul-2021 11:08
+assembler	True	-	26-Apr-2022 17:48
+basic	True	-	23-Mar-2024 17:49
+brochure	True	-	26-Aug-2022 15:04
+communications	True	-	03-Jan-2021 12:14
+fe	True	-	19-Apr-2022 13:29
+fortran	True	-	03-Jan-2021 12:48
+microfiche	True	-	02-May-2022 14:35
+model10	True	-	16-May-2022 21:33
+model12	True	-	19-Apr-2022 13:28
+model15	True	-	11-Feb-2021 04:40
+model6	True	-	10-Feb-2021 01:06
+model8	True	-	03-Jan-2021 12:09
+plm	True	-	08-Jun-2015 20:44
+rpg_II	True	-	05-Jul-2021 11:44
+sort	True	-	05-Jul-2021 11:39
+tape	True	-	03-Jan-2021 12:48
+GA21-9084-9_IBM_System3_InstallationManual_PhysicalPlanning_Jul77.pdf	False	19.7 MiB	24-Sep-2010 16:32
+GA21-9103-1_System3_ComponentsRef_Nov70.pdf	False	17.9 MiB	08-Apr-2004 18:50
+GA21-9236-1_IBM_System-3_Model_8_10_12_15_Components_Reference_Manual_Nov77.pdf	False	24.6 MiB	24-Sep-2010 16:37
+GA24-3488-11_Form_Design_Reference_Guide_For_Printers_197707.pdf	False	1.9 MiB	11-Feb-2021 04:49
+GA26-1619-4_ReferenceManual_for_IBM3340_3344_DiskStorage_May76.pdf	False	3.0 MiB	24-Sep-2010 16:37
+GA27-2787-5_IBM3270_InformationDisplaySystem_InstallationManual_PhysicalPlanning_Dec80.pdf	False	12.0 MiB	24-Sep-2010 16:37
+GC20-1792-1_System3toDOS_VSE_ConversionGuide_nov79.pdf	False	15.0 MiB	24-Sep-2010 16:38
+GC20-8080-6_System3_Bibliography_Sep71.pdf	False	3.1 MiB	29-Dec-2004 00:53
+GC21-5113-2_IBM_System3_3741_ReferenceManual_Sep78.pdf	False	6.3 MiB	24-Sep-2010 16:41
+GC21-7503-0_System3_Disk_System_Concepts_and_Programing_Programmers_Guide_1970.pdf	False	10.5 MiB	24-Jul-2019 19:17
+GC21-7508-1_System3_DiskSystemOperatorsGuide_Jun71.pdf	False	33.0 MiB	07-Apr-2004 16:20
+GC21-7510-0_System3_Disk_System_Introduction_1969.pdf	False	3.8 MiB	16-Apr-2022 14:10
+GC21-7540-1_System3_DiskSystemHaltProcedure_Mar71.pdf	False	7.5 MiB	08-Apr-2004 17:30
+GC21-7561-5_System3_Overlay_Linkage_Editor_Reference_Manual_197504.pdf	False	7.8 MiB	16-Apr-2022 14:10
+GC21-7562-5_System3_SCP_Macros_Reference_Manual_197806.pdf	False	6.2 MiB	16-Apr-2022 14:10
+GC21-7571-0_Disk_Concepts_and_Planning_Guide_197109.pdf	False	3.4 MiB	05-Jul-2021 14:10
+GC21-7571-3_System3_Disk_Concepts_Planning_Guide_197512.pdf	False	4.6 MiB	04-Jan-2021 19:47
+GC21-7661-5_IBM_System3_OverlayLinkageEditorReferenceManual_Sep78.pdf	False	2.8 MiB	24-Sep-2010 16:50
+S229-8032-1_IBM_System3_Reference_Summary_197807.pdf	False	10.1 MiB	16-May-2022 21:33
+SC21-7521-4_System3_Disk_System_Utility_Program_for_the_IBM_1255_Magnetic_Character_Reader_Sep1972.pdf	False	5.9 MiB	24-Jul-2019 19:17
+SR20-6032-0_System_3_Operation_-_Disk_Learner_-_Paced_Format_1970.pdf	False	3.7 MiB	05-Jul-2021 11:02
+SY21-0045-3_IBM_System3_System_Data_Areas_and_Diagnostic_Aids_197803.pdf	False	8.4 MiB	19-Apr-2022 13:29
+SY21-0048-1_IBM_System3_Comm_Control_Program_Data_Areas_and_Diagnostic_Aids_197806.pdf	False	6.0 MiB	19-Apr-2022 13:29
+SY21-0530-1_IBM_System3_Overlay_LE_Checkpoint_Restart_PLM_197209.pdf	False	4.2 MiB	26-Apr-2022 17:50

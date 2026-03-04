@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Content",
+    "href": "Content/",
+    "url": "https://myrient.erista.me/files/eXo/eXoDOS/Lite%20Release/Content/",
+    "is_dir": true,
+    "size": null,
+    "date": "26-Sep-2025 05:06"
+  },
+  {
+    "name": "eXo",
+    "href": "eXo/",
+    "url": "https://myrient.erista.me/files/eXo/eXoDOS/Lite%20Release/eXo/",
+    "is_dir": true,
+    "size": null,
+    "date": "26-Sep-2025 05:06"
+  },
+  {
+    "name": "Setup eXoDOS.bat",
+    "href": "Setup%20eXoDOS.bat",
+    "url": "https://myrient.erista.me/files/eXo/eXoDOS/Lite%20Release/Setup%20eXoDOS.bat",
+    "is_dir": false,
+    "size": "21.2 KiB",
+    "date": "26-Sep-2025 05:00"
+  },
+  {
+    "name": "eXoDOS Catalog.pdf",
+    "href": "eXoDOS%20Catalog.pdf",
+    "url": "https://myrient.erista.me/files/eXo/eXoDOS/Lite%20Release/eXoDOS%20Catalog.pdf",
+    "is_dir": false,
+    "size": "2.1 MiB",
+    "date": "26-Sep-2025 05:01"
+  },
+  {
+    "name": "eXoDOS Manual.pdf",
+    "href": "eXoDOS%20Manual.pdf",
+    "url": "https://myrient.erista.me/files/eXo/eXoDOS/Lite%20Release/eXoDOS%20Manual.pdf",
+    "is_dir": false,
+    "size": "5.5 MiB",
+    "date": "26-Sep-2025 05:00"
+  },
+  {
+    "name": "eXoDOS ReadMe.txt",
+    "href": "eXoDOS%20ReadMe.txt",
+    "url": "https://myrient.erista.me/files/eXo/eXoDOS/Lite%20Release/eXoDOS%20ReadMe.txt",
+    "is_dir": false,
+    "size": "26.1 KiB",
+    "date": "26-Sep-2025 05:00"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "name": "150mu_cpu",
+    "href": "150mu_cpu/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/wicat/firmware/150mu_cpu/",
+    "is_dir": true,
+    "size": null,
+    "date": "23-Jan-2021 19:13"
+  },
+  {
+    "name": "1981_cpu",
+    "href": "1981_cpu/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/wicat/firmware/1981_cpu/",
+    "is_dir": true,
+    "size": null,
+    "date": "23-Jan-2021 19:13"
+  },
+  {
+    "name": "graphics",
+    "href": "graphics/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/wicat/firmware/graphics/",
+    "is_dir": true,
+    "size": null,
+    "date": "23-Jan-2021 19:13"
+  },
+  {
+    "name": "graphics_8-2-82",
+    "href": "graphics_8-2-82/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/wicat/firmware/graphics_8-2-82/",
+    "is_dir": true,
+    "size": null,
+    "date": "23-Jan-2021 19:13"
+  },
+  {
+    "name": "wd3",
+    "href": "wd3/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/wicat/firmware/wd3/",
+    "is_dir": true,
+    "size": null,
+    "date": "31-Jul-2011 03:31"
+  },
+  {
+    "name": "WICAT_CPU_ROMS.zip",
+    "href": "WICAT_CPU_ROMS.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/wicat/firmware/WICAT_CPU_ROMS.zip",
+    "is_dir": false,
+    "size": "75.9 KiB",
+    "date": "20-Aug-2023 23:57"
+  },
+  {
+    "name": "Wicat_150MU_sn935_Atasi_3046.zip",
+    "href": "Wicat_150MU_sn935_Atasi_3046.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/wicat/firmware/Wicat_150MU_sn935_Atasi_3046.zip",
+    "is_dir": false,
+    "size": "14.4 KiB",
+    "date": "30-Oct-2016 16:16"
+  },
+  {
+    "name": "Wicat_40MB_CMS.zip",
+    "href": "Wicat_40MB_CMS.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/wicat/firmware/Wicat_40MB_CMS.zip",
+    "is_dir": false,
+    "size": "60.7 KiB",
+    "date": "12-Jul-2014 18:17"
+  }
+]

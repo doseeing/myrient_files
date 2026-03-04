@@ -1,0 +1,50 @@
+[
+  {
+    "name": "DISK1",
+    "href": "DISK1/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Go/NCR/DISK1/",
+    "is_dir": true,
+    "size": null,
+    "date": "23-Jan-2021 19:59"
+  },
+  {
+    "name": "DISK2",
+    "href": "DISK2/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Go/NCR/DISK2/",
+    "is_dir": true,
+    "size": null,
+    "date": "20-Jan-2017 04:05"
+  },
+  {
+    "name": "DISK3",
+    "href": "DISK3/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Go/NCR/DISK3/",
+    "is_dir": true,
+    "size": null,
+    "date": "20-Jan-2017 04:05"
+  },
+  {
+    "name": "DISK4",
+    "href": "DISK4/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Go/NCR/DISK4/",
+    "is_dir": true,
+    "size": null,
+    "date": "20-Jan-2017 04:05"
+  },
+  {
+    "name": "_IMD",
+    "href": "_IMD/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Go/NCR/_IMD/",
+    "is_dir": true,
+    "size": null,
+    "date": "20-Jan-2017 04:05"
+  },
+  {
+    "name": "_ZIP",
+    "href": "_ZIP/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Go/NCR/_ZIP/",
+    "is_dir": true,
+    "size": null,
+    "date": "20-Jan-2017 04:05"
+  }
+]

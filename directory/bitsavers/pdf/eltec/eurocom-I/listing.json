@@ -1,0 +1,58 @@
+[
+  {
+    "name": "firmware",
+    "href": "firmware/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/eltec/eurocom-I/firmware/",
+    "is_dir": true,
+    "size": null,
+    "date": "27-Nov-2016 18:30"
+  },
+  {
+    "name": "ascii-monitor.pdf",
+    "href": "ascii-monitor.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/eltec/eurocom-I/ascii-monitor.pdf",
+    "is_dir": false,
+    "size": "1.8 MiB",
+    "date": "27-Nov-2016 18:29"
+  },
+  {
+    "name": "ascii_keyboard.pdf",
+    "href": "ascii_keyboard.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/eltec/eurocom-I/ascii_keyboard.pdf",
+    "is_dir": false,
+    "size": "248.5 KiB",
+    "date": "27-Nov-2016 18:29"
+  },
+  {
+    "name": "eurocom1-schematic.pdf",
+    "href": "eurocom1-schematic.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/eltec/eurocom-I/eurocom1-schematic.pdf",
+    "is_dir": false,
+    "size": "105.5 KiB",
+    "date": "27-Nov-2016 18:29"
+  },
+  {
+    "name": "eurocom1-users_manual.pdf",
+    "href": "eurocom1-users_manual.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/eltec/eurocom-I/eurocom1-users_manual.pdf",
+    "is_dir": false,
+    "size": "7.5 MiB",
+    "date": "27-Nov-2016 18:30"
+  },
+  {
+    "name": "modification6809_chip-1193_(german).pdf",
+    "href": "modification6809_chip-1193_%28german%29.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/eltec/eurocom-I/modification6809_chip-1193_%28german%29.pdf",
+    "is_dir": false,
+    "size": "11.9 MiB",
+    "date": "27-Nov-2016 18:30"
+  },
+  {
+    "name": "video_interface_vic1_vic2.pdf",
+    "href": "video_interface_vic1_vic2.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/eltec/eurocom-I/video_interface_vic1_vic2.pdf",
+    "is_dir": false,
+    "size": "3.5 MiB",
+    "date": "27-Nov-2016 18:30"
+  }
+]

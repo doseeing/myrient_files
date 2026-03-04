@@ -1,0 +1,754 @@
+[
+  {
+    "name": "DX7 Voicing Program YRM-13 (1984)(Yamaha)(JP).zip",
+    "href": "DX7%20Voicing%20Program%20YRM-13%20%281984%29%28Yamaha%29%28JP%29.zip",
+    "url": "https://myrient.erista.me/files/TOSEC/MSX/MSX/Firmware/DX7%20Voicing%20Program%20YRM-13%20%281984%29%28Yamaha%29%28JP%29.zip",
+    "is_dir": false,
+    "size": "12.8 KiB",
+    "date": "18-Feb-2025 10:38"
+  },
+  {
+    "name": "Datagame Videotext Modem (19xx)(-)[DATAGAME.ROM].zip",
+    "href": "Datagame%20Videotext%20Modem%20%2819xx%29%28-%29%5BDATAGAME.ROM%5D.zip",
+    "url": "https://myrient.erista.me/files/TOSEC/MSX/MSX/Firmware/Datagame%20Videotext%20Modem%20%2819xx%29%28-%29%5BDATAGAME.ROM%5D.zip",
+    "is_dir": false,
+    "size": "7.5 KiB",
+    "date": "18-Feb-2025 10:38"
+  },
+  {
+    "name": "Digital Design Eletronica Brazilian-Expert (19xx)(Digital Design Eletronica)(BR)[DISK.ROM].zip",
+    "href": "Digital%20Design%20Eletronica%20Brazilian-Expert%20%2819xx%29%28Digital%20Design%20Eletronica%29%28BR%29%5BDISK.ROM%5D.zip",
+    "url": "https://myrient.erista.me/files/TOSEC/MSX/MSX/Firmware/Digital%20Design%20Eletronica%20Brazilian-Expert%20%2819xx%29%28Digital%20Design%20Eletronica%29%28BR%29%5BDISK.ROM%5D.zip",
+    "is_dir": false,
+    "size": "12.4 KiB",
+    "date": "18-Feb-2025 10:38"
+  },
+  {
+    "name": "Digital Design Eletronica DDX v1.0 - Port Based (19xx)(Digital Design Eletronica)(BR)[DDX10.ROM].zip",
+    "href": "Digital%20Design%20Eletronica%20DDX%20v1.0%20-%20Port%20Based%20%2819xx%29%28Digital%20Design%20Eletronica%29%28BR%29%5BDDX10.ROM%5D.zip",
+    "url": "https://myrient.erista.me/files/TOSEC/MSX/MSX/Firmware/Digital%20Design%20Eletronica%20DDX%20v1.0%20-%20Port%20Based%20%2819xx%29%28Digital%20Design%20Eletronica%29%28BR%29%5BDDX10.ROM%5D.zip",
+    "is_dir": false,
+    "size": "12.4 KiB",
+    "date": "18-Feb-2025 10:38"
+  },
+  {
+    "name": "Digital Design Eletronica DDX v3.0 - Mixed Port + Memory Based (19xx)(Digital Design Eletronica)(BR)[DDX30.ROM].zip",
+    "href": "Digital%20Design%20Eletronica%20DDX%20v3.0%20-%20Mixed%20Port%20%2B%20Memory%20Based%20%2819xx%29%28Digital%20Design%20Eletronica%29%28BR%29%5BDDX30.ROM%5D.zip",
+    "url": "https://myrient.erista.me/files/TOSEC/MSX/MSX/Firmware/Digital%20Design%20Eletronica%20DDX%20v3.0%20-%20Mixed%20Port%20%2B%20Memory%20Based%20%2819xx%29%28Digital%20Design%20Eletronica%29%28BR%29%5BDDX30.ROM%5D.zip",
+    "is_dir": false,
+    "size": "12.4 KiB",
+    "date": "18-Feb-2025 10:38"
+  },
+  {
+    "name": "Digital Design Eletronica DDX v3.0c - Mixed Port + Memory Based (19xx)(Digital Design Eletronica)(BR)[DDX30C.ROM].zip",
+    "href": "Digital%20Design%20Eletronica%20DDX%20v3.0c%20-%20Mixed%20Port%20%2B%20Memory%20Based%20%2819xx%29%28Digital%20Design%20Eletronica%29%28BR%29%5BDDX30C.ROM%5D.zip",
+    "url": "https://myrient.erista.me/files/TOSEC/MSX/MSX/Firmware/Digital%20Design%20Eletronica%20DDX%20v3.0c%20-%20Mixed%20Port%20%2B%20Memory%20Based%20%2819xx%29%28Digital%20Design%20Eletronica%29%28BR%29%5BDDX30C.ROM%5D.zip",
+    "is_dir": false,
+    "size": "12.4 KiB",
+    "date": "18-Feb-2025 10:38"
+  },
+  {
+    "name": "Digital Design Eletronica DDX v3.0d - Mixed Port + Memory Based (19xx)(Digital Design Eletronica)(BR)[DDX30D.ROM].zip",
+    "href": "Digital%20Design%20Eletronica%20DDX%20v3.0d%20-%20Mixed%20Port%20%2B%20Memory%20Based%20%2819xx%29%28Digital%20Design%20Eletronica%29%28BR%29%5BDDX30D.ROM%5D.zip",
+    "url": "https://myrient.erista.me/files/TOSEC/MSX/MSX/Firmware/Digital%20Design%20Eletronica%20DDX%20v3.0d%20-%20Mixed%20Port%20%2B%20Memory%20Based%20%2819xx%29%28Digital%20Design%20Eletronica%29%28BR%29%5BDDX30D.ROM%5D.zip",
+    "is_dir": false,
+    "size": "12.4 KiB",
+    "date": "18-Feb-2025 10:38"
+  },
+  {
+    "name": "Digital Design Eletronica DDX v3.0f - Mixed Port + Memory Based (19xx)(Digital Design Eletronica)(BR)[DDX30F.ROM].zip",
+    "href": "Digital%20Design%20Eletronica%20DDX%20v3.0f%20-%20Mixed%20Port%20%2B%20Memory%20Based%20%2819xx%29%28Digital%20Design%20Eletronica%29%28BR%29%5BDDX30F.ROM%5D.zip",
+    "url": "https://myrient.erista.me/files/TOSEC/MSX/MSX/Firmware/Digital%20Design%20Eletronica%20DDX%20v3.0f%20-%20Mixed%20Port%20%2B%20Memory%20Based%20%2819xx%29%28Digital%20Design%20Eletronica%29%28BR%29%5BDDX30F.ROM%5D.zip",
+    "is_dir": false,
+    "size": "12.4 KiB",
+    "date": "18-Feb-2025 10:38"
+  },
+  {
+    "name": "Digital Design Eletronica LiftRom Informatica 1989 (1989)(Digital Design Eletronica)(BR)[LIFTROM.ROM].zip",
+    "href": "Digital%20Design%20Eletronica%20LiftRom%20Informatica%201989%20%281989%29%28Digital%20Design%20Eletronica%29%28BR%29%5BLIFTROM.ROM%5D.zip",
+    "url": "https://myrient.erista.me/files/TOSEC/MSX/MSX/Firmware/Digital%20Design%20Eletronica%20LiftRom%20Informatica%201989%20%281989%29%28Digital%20Design%20Eletronica%29%28BR%29%5BLIFTROM.ROM%5D.zip",
+    "is_dir": false,
+    "size": "12.4 KiB",
+    "date": "18-Feb-2025 10:38"
+  },
+  {
+    "name": "Disk BASIC v1.0 for FS-FD1 (1987)(Matsushita Electric Industrial)(JP).zip",
+    "href": "Disk%20BASIC%20v1.0%20for%20FS-FD1%20%281987%29%28Matsushita%20Electric%20Industrial%29%28JP%29.zip",
+    "url": "https://myrient.erista.me/files/TOSEC/MSX/MSX/Firmware/Disk%20BASIC%20v1.0%20for%20FS-FD1%20%281987%29%28Matsushita%20Electric%20Industrial%29%28JP%29.zip",
+    "is_dir": false,
+    "size": "12.0 KiB",
+    "date": "18-Feb-2025 10:38"
+  },
+  {
+    "name": "Disk BASIC v1.0 for FS-FD1A (1987)(Matsushita Electric Industrial)(JP).zip",
+    "href": "Disk%20BASIC%20v1.0%20for%20FS-FD1A%20%281987%29%28Matsushita%20Electric%20Industrial%29%28JP%29.zip",
+    "url": "https://myrient.erista.me/files/TOSEC/MSX/MSX/Firmware/Disk%20BASIC%20v1.0%20for%20FS-FD1A%20%281987%29%28Matsushita%20Electric%20Industrial%29%28JP%29.zip",
+    "is_dir": false,
+    "size": "12.5 KiB",
+    "date": "18-Feb-2025 10:38"
+  },
+  {
+    "name": "Disk BASIC v1.0 for FS-FD351 (1985)(National).zip",
+    "href": "Disk%20BASIC%20v1.0%20for%20FS-FD351%20%281985%29%28National%29.zip",
+    "url": "https://myrient.erista.me/files/TOSEC/MSX/MSX/Firmware/Disk%20BASIC%20v1.0%20for%20FS-FD351%20%281985%29%28National%29.zip",
+    "is_dir": false,
+    "size": "12.3 KiB",
+    "date": "18-Feb-2025 10:38"
+  },
+  {
+    "name": "Disk BASIC v1.1 for Epcom Sharp HB-3600 - Memory Based (1987)(Sharp)[SHARP.ROM].zip",
+    "href": "Disk%20BASIC%20v1.1%20for%20Epcom%20Sharp%20HB-3600%20-%20Memory%20Based%20%281987%29%28Sharp%29%5BSHARP.ROM%5D.zip",
+    "url": "https://myrient.erista.me/files/TOSEC/MSX/MSX/Firmware/Disk%20BASIC%20v1.1%20for%20Epcom%20Sharp%20HB-3600%20-%20Memory%20Based%20%281987%29%28Sharp%29%5BSHARP.ROM%5D.zip",
+    "is_dir": false,
+    "size": "12.1 KiB",
+    "date": "18-Feb-2025 10:38"
+  },
+  {
+    "name": "FB-01 Voicing Program YRM-56 (1985)(Yamaha)(JP).zip",
+    "href": "FB-01%20Voicing%20Program%20YRM-56%20%281985%29%28Yamaha%29%28JP%29.zip",
+    "url": "https://myrient.erista.me/files/TOSEC/MSX/MSX/Firmware/FB-01%20Voicing%20Program%20YRM-56%20%281985%29%28Yamaha%29%28JP%29.zip",
+    "is_dir": false,
+    "size": "20.8 KiB",
+    "date": "18-Feb-2025 10:38"
+  },
+  {
+    "name": "FM Music Composer II YRM-55 (1985)(Yamaha)(JP).zip",
+    "href": "FM%20Music%20Composer%20II%20YRM-55%20%281985%29%28Yamaha%29%28JP%29.zip",
+    "url": "https://myrient.erista.me/files/TOSEC/MSX/MSX/Firmware/FM%20Music%20Composer%20II%20YRM-55%20%281985%29%28Yamaha%29%28JP%29.zip",
+    "is_dir": false,
+    "size": "18.2 KiB",
+    "date": "18-Feb-2025 10:38"
+  },
+  {
+    "name": "FM Music Composer YRM-15 (1984)(Yamaha)(JP).zip",
+    "href": "FM%20Music%20Composer%20YRM-15%20%281984%29%28Yamaha%29%28JP%29.zip",
+    "url": "https://myrient.erista.me/files/TOSEC/MSX/MSX/Firmware/FM%20Music%20Composer%20YRM-15%20%281984%29%28Yamaha%29%28JP%29.zip",
+    "is_dir": false,
+    "size": "10.5 KiB",
+    "date": "18-Feb-2025 10:38"
+  },
+  {
+    "name": "FM Music Macro YRM-11 (1984)(Yamaha)(JP).zip",
+    "href": "FM%20Music%20Macro%20YRM-11%20%281984%29%28Yamaha%29%28JP%29.zip",
+    "url": "https://myrient.erista.me/files/TOSEC/MSX/MSX/Firmware/FM%20Music%20Macro%20YRM-11%20%281984%29%28Yamaha%29%28JP%29.zip",
+    "is_dir": false,
+    "size": "21.9 KiB",
+    "date": "18-Feb-2025 10:38"
+  },
+  {
+    "name": "FM Pana Amusement Cartridge 16k v1.3 (1988)(Matsushita Electric Industrial)(JP)[FMPAC.ROM].zip",
+    "href": "FM%20Pana%20Amusement%20Cartridge%2016k%20v1.3%20%281988%29%28Matsushita%20Electric%20Industrial%29%28JP%29%5BFMPAC.ROM%5D.zip",
+    "url": "https://myrient.erista.me/files/TOSEC/MSX/MSX/Firmware/FM%20Pana%20Amusement%20Cartridge%2016k%20v1.3%20%281988%29%28Matsushita%20Electric%20Industrial%29%28JP%29%5BFMPAC.ROM%5D.zip",
+    "is_dir": false,
+    "size": "9.4 KiB",
+    "date": "18-Feb-2025 10:38"
+  },
+  {
+    "name": "FM Pana Amusement Cartridge 64k v1.3 (1988)(Matsushita Electric Industrial)(JP)[FMPAC.ROM].zip",
+    "href": "FM%20Pana%20Amusement%20Cartridge%2064k%20v1.3%20%281988%29%28Matsushita%20Electric%20Industrial%29%28JP%29%5BFMPAC.ROM%5D.zip",
+    "url": "https://myrient.erista.me/files/TOSEC/MSX/MSX/Firmware/FM%20Pana%20Amusement%20Cartridge%2064k%20v1.3%20%281988%29%28Matsushita%20Electric%20Industrial%29%28JP%29%5BFMPAC.ROM%5D.zip",
+    "is_dir": false,
+    "size": "24.7 KiB",
+    "date": "18-Feb-2025 10:38"
+  },
+  {
+    "name": "FM Voicing Program YRM-12 (1985)(Yamaha)(JP)[no disk support].zip",
+    "href": "FM%20Voicing%20Program%20YRM-12%20%281985%29%28Yamaha%29%28JP%29%5Bno%20disk%20support%5D.zip",
+    "url": "https://myrient.erista.me/files/TOSEC/MSX/MSX/Firmware/FM%20Voicing%20Program%20YRM-12%20%281985%29%28Yamaha%29%28JP%29%5Bno%20disk%20support%5D.zip",
+    "is_dir": false,
+    "size": "8.5 KiB",
+    "date": "18-Feb-2025 10:38"
+  },
+  {
+    "name": "Goldstar FC-200 MSX Disk BASIC (19xx)(Goldstar).zip",
+    "href": "Goldstar%20FC-200%20MSX%20Disk%20BASIC%20%2819xx%29%28Goldstar%29.zip",
+    "url": "https://myrient.erista.me/files/TOSEC/MSX/MSX/Firmware/Goldstar%20FC-200%20MSX%20Disk%20BASIC%20%2819xx%29%28Goldstar%29.zip",
+    "is_dir": false,
+    "size": "25.5 KiB",
+    "date": "18-Feb-2025 10:38"
+  },
+  {
+    "name": "Kanji ROM - JIS 1st Class for MSX-Write (1986)(ASCII)(JP).zip",
+    "href": "Kanji%20ROM%20-%20JIS%201st%20Class%20for%20MSX-Write%20%281986%29%28ASCII%29%28JP%29.zip",
+    "url": "https://myrient.erista.me/files/TOSEC/MSX/MSX/Firmware/Kanji%20ROM%20-%20JIS%201st%20Class%20for%20MSX-Write%20%281986%29%28ASCII%29%28JP%29.zip",
+    "is_dir": false,
+    "size": "67.3 KiB",
+    "date": "18-Feb-2025 10:38"
+  },
+  {
+    "name": "MIDI Macro YRM-33 (1986)(Yamaha)(JP).zip",
+    "href": "MIDI%20Macro%20YRM-33%20%281986%29%28Yamaha%29%28JP%29.zip",
+    "url": "https://myrient.erista.me/files/TOSEC/MSX/MSX/Firmware/MIDI%20Macro%20YRM-33%20%281986%29%28Yamaha%29%28JP%29.zip",
+    "is_dir": false,
+    "size": "20.3 KiB",
+    "date": "18-Feb-2025 10:38"
+  },
+  {
+    "name": "MSX Acao Expert (19xx)(-)(BR).zip",
+    "href": "MSX%20Acao%20Expert%20%2819xx%29%28-%29%28BR%29.zip",
+    "url": "https://myrient.erista.me/files/TOSEC/MSX/MSX/Firmware/MSX%20Acao%20Expert%20%2819xx%29%28-%29%28BR%29.zip",
+    "is_dir": false,
+    "size": "8.5 KiB",
+    "date": "18-Feb-2025 10:38"
+  },
+  {
+    "name": "MSX Audio FS-CA1 (1988)(Matsushita Electric Industrial)(JP).zip",
+    "href": "MSX%20Audio%20FS-CA1%20%281988%29%28Matsushita%20Electric%20Industrial%29%28JP%29.zip",
+    "url": "https://myrient.erista.me/files/TOSEC/MSX/MSX/Firmware/MSX%20Audio%20FS-CA1%20%281988%29%28Matsushita%20Electric%20Industrial%29%28JP%29.zip",
+    "is_dir": false,
+    "size": "96.6 KiB",
+    "date": "18-Feb-2025 10:38"
+  },
+  {
+    "name": "MSX BASIC Cassette (19xx)(Elf)(JP)[CASSETTE A].zip",
+    "href": "MSX%20BASIC%20Cassette%20%2819xx%29%28Elf%29%28JP%29%5BCASSETTE%20A%5D.zip",
+    "url": "https://myrient.erista.me/files/TOSEC/MSX/MSX/Firmware/MSX%20BASIC%20Cassette%20%2819xx%29%28Elf%29%28JP%29%5BCASSETTE%20A%5D.zip",
+    "is_dir": false,
+    "size": "12.7 KiB",
+    "date": "18-Feb-2025 10:38"
+  },
+  {
+    "name": "MSX BASIC Cassette (19xx)(Elf)(JP)[CASSETTE B].zip",
+    "href": "MSX%20BASIC%20Cassette%20%2819xx%29%28Elf%29%28JP%29%5BCASSETTE%20B%5D.zip",
+    "url": "https://myrient.erista.me/files/TOSEC/MSX/MSX/Firmware/MSX%20BASIC%20Cassette%20%2819xx%29%28Elf%29%28JP%29%5BCASSETTE%20B%5D.zip",
+    "is_dir": false,
+    "size": "13.1 KiB",
+    "date": "18-Feb-2025 10:38"
+  },
+  {
+    "name": "MSX BASIC Kun (1986)(ASCII)(JP)[XBASIC.ROM].zip",
+    "href": "MSX%20BASIC%20Kun%20%281986%29%28ASCII%29%28JP%29%5BXBASIC.ROM%5D.zip",
+    "url": "https://myrient.erista.me/files/TOSEC/MSX/MSX/Firmware/MSX%20BASIC%20Kun%20%281986%29%28ASCII%29%28JP%29%5BXBASIC.ROM%5D.zip",
+    "is_dir": false,
+    "size": "10.6 KiB",
+    "date": "18-Feb-2025 10:38"
+  },
+  {
+    "name": "MSX BASIC Kun (1986)(ASCII)(JP)[a][XBASIC.ROM].zip",
+    "href": "MSX%20BASIC%20Kun%20%281986%29%28ASCII%29%28JP%29%5Ba%5D%5BXBASIC.ROM%5D.zip",
+    "url": "https://myrient.erista.me/files/TOSEC/MSX/MSX/Firmware/MSX%20BASIC%20Kun%20%281986%29%28ASCII%29%28JP%29%5Ba%5D%5BXBASIC.ROM%5D.zip",
+    "is_dir": false,
+    "size": "10.6 KiB",
+    "date": "18-Feb-2025 10:38"
+  },
+  {
+    "name": "MSX BASIC Kun Plus v2.0 (1988)(ASCII)(JP)[XBASIC2.ROM].zip",
+    "href": "MSX%20BASIC%20Kun%20Plus%20v2.0%20%281988%29%28ASCII%29%28JP%29%5BXBASIC2.ROM%5D.zip",
+    "url": "https://myrient.erista.me/files/TOSEC/MSX/MSX/Firmware/MSX%20BASIC%20Kun%20Plus%20v2.0%20%281988%29%28ASCII%29%28JP%29%5BXBASIC2.ROM%5D.zip",
+    "is_dir": false,
+    "size": "11.1 KiB",
+    "date": "18-Feb-2025 10:38"
+  },
+  {
+    "name": "MSX BASIC Kun Plus v2.0 (1988)(ASCII)(JP)[a][XBASIC2.ROM].zip",
+    "href": "MSX%20BASIC%20Kun%20Plus%20v2.0%20%281988%29%28ASCII%29%28JP%29%5Ba%5D%5BXBASIC2.ROM%5D.zip",
+    "url": "https://myrient.erista.me/files/TOSEC/MSX/MSX/Firmware/MSX%20BASIC%20Kun%20Plus%20v2.0%20%281988%29%28ASCII%29%28JP%29%5Ba%5D%5BXBASIC2.ROM%5D.zip",
+    "is_dir": false,
+    "size": "10.9 KiB",
+    "date": "18-Feb-2025 10:38"
+  },
+  {
+    "name": "MSX BASIC Kun Plus v2.1 (1992)(ASCII)(JP)[XBASIC2.ROM].zip",
+    "href": "MSX%20BASIC%20Kun%20Plus%20v2.1%20%281992%29%28ASCII%29%28JP%29%5BXBASIC2.ROM%5D.zip",
+    "url": "https://myrient.erista.me/files/TOSEC/MSX/MSX/Firmware/MSX%20BASIC%20Kun%20Plus%20v2.1%20%281992%29%28ASCII%29%28JP%29%5BXBASIC2.ROM%5D.zip",
+    "is_dir": false,
+    "size": "11.0 KiB",
+    "date": "18-Feb-2025 10:38"
+  },
+  {
+    "name": "MSX BIOS ROM Image (19xx)(-).zip",
+    "href": "MSX%20BIOS%20ROM%20Image%20%2819xx%29%28-%29.zip",
+    "url": "https://myrient.erista.me/files/TOSEC/MSX/MSX/Firmware/MSX%20BIOS%20ROM%20Image%20%2819xx%29%28-%29.zip",
+    "is_dir": false,
+    "size": "12.7 KiB",
+    "date": "18-Feb-2025 10:38"
+  },
+  {
+    "name": "MSX BIOS ROM Image (19xx)(-)[a].zip",
+    "href": "MSX%20BIOS%20ROM%20Image%20%2819xx%29%28-%29%5Ba%5D.zip",
+    "url": "https://myrient.erista.me/files/TOSEC/MSX/MSX/Firmware/MSX%20BIOS%20ROM%20Image%20%2819xx%29%28-%29%5Ba%5D.zip",
+    "is_dir": false,
+    "size": "12.7 KiB",
+    "date": "18-Feb-2025 10:38"
+  },
+  {
+    "name": "MSX BIOS ROM Image Japanese (19xx)(-).zip",
+    "href": "MSX%20BIOS%20ROM%20Image%20Japanese%20%2819xx%29%28-%29.zip",
+    "url": "https://myrient.erista.me/files/TOSEC/MSX/MSX/Firmware/MSX%20BIOS%20ROM%20Image%20Japanese%20%2819xx%29%28-%29.zip",
+    "is_dir": false,
+    "size": "12.9 KiB",
+    "date": "18-Feb-2025 10:38"
+  },
+  {
+    "name": "MSX BIOS ROM Image Korean (19xx)(-).zip",
+    "href": "MSX%20BIOS%20ROM%20Image%20Korean%20%2819xx%29%28-%29.zip",
+    "url": "https://myrient.erista.me/files/TOSEC/MSX/MSX/Firmware/MSX%20BIOS%20ROM%20Image%20Korean%20%2819xx%29%28-%29.zip",
+    "is_dir": false,
+    "size": "12.6 KiB",
+    "date": "18-Feb-2025 10:38"
+  },
+  {
+    "name": "MSX BIOS ROM Image Russian (19xx)(-).zip",
+    "href": "MSX%20BIOS%20ROM%20Image%20Russian%20%2819xx%29%28-%29.zip",
+    "url": "https://myrient.erista.me/files/TOSEC/MSX/MSX/Firmware/MSX%20BIOS%20ROM%20Image%20Russian%20%2819xx%29%28-%29.zip",
+    "is_dir": false,
+    "size": "12.7 KiB",
+    "date": "18-Feb-2025 10:38"
+  },
+  {
+    "name": "MSX BIOS ROM Image UK (19xx)(-).zip",
+    "href": "MSX%20BIOS%20ROM%20Image%20UK%20%2819xx%29%28-%29.zip",
+    "url": "https://myrient.erista.me/files/TOSEC/MSX/MSX/Firmware/MSX%20BIOS%20ROM%20Image%20UK%20%2819xx%29%28-%29.zip",
+    "is_dir": false,
+    "size": "12.7 KiB",
+    "date": "18-Feb-2025 10:38"
+  },
+  {
+    "name": "MSX Hangul Input Software v2.0 - Daewoo IQ-1000 DPC-100 (1984)(Qnix).zip",
+    "href": "MSX%20Hangul%20Input%20Software%20v2.0%20-%20Daewoo%20IQ-1000%20DPC-100%20%281984%29%28Qnix%29.zip",
+    "url": "https://myrient.erista.me/files/TOSEC/MSX/MSX/Firmware/MSX%20Hangul%20Input%20Software%20v2.0%20-%20Daewoo%20IQ-1000%20DPC-100%20%281984%29%28Qnix%29.zip",
+    "is_dir": false,
+    "size": "4.7 KiB",
+    "date": "18-Feb-2025 10:38"
+  },
+  {
+    "name": "MSX ROM Image HotBit v1.1 (19xx)(Sharp)[HOTBIT11.ROM].zip",
+    "href": "MSX%20ROM%20Image%20HotBit%20v1.1%20%2819xx%29%28Sharp%29%5BHOTBIT11.ROM%5D.zip",
+    "url": "https://myrient.erista.me/files/TOSEC/MSX/MSX/Firmware/MSX%20ROM%20Image%20HotBit%20v1.1%20%2819xx%29%28Sharp%29%5BHOTBIT11.ROM%5D.zip",
+    "is_dir": false,
+    "size": "25.6 KiB",
+    "date": "18-Feb-2025 10:38"
+  },
+  {
+    "name": "MSX System v1.0 + MSX BASIC (1983)(Microsoft)(US)[MSX.ROM].zip",
+    "href": "MSX%20System%20v1.0%20%2B%20MSX%20BASIC%20%281983%29%28Microsoft%29%28US%29%5BMSX.ROM%5D.zip",
+    "url": "https://myrient.erista.me/files/TOSEC/MSX/MSX/Firmware/MSX%20System%20v1.0%20%2B%20MSX%20BASIC%20%281983%29%28Microsoft%29%28US%29%5BMSX.ROM%5D.zip",
+    "is_dir": false,
+    "size": "25.7 KiB",
+    "date": "18-Feb-2025 10:38"
+  },
+  {
+    "name": "MSX System v1.0 + MSX BASIC (1983)(Microsoft)(US)[a][MSX.ROM].zip",
+    "href": "MSX%20System%20v1.0%20%2B%20MSX%20BASIC%20%281983%29%28Microsoft%29%28US%29%5Ba%5D%5BMSX.ROM%5D.zip",
+    "url": "https://myrient.erista.me/files/TOSEC/MSX/MSX/Firmware/MSX%20System%20v1.0%20%2B%20MSX%20BASIC%20%281983%29%28Microsoft%29%28US%29%5Ba%5D%5BMSX.ROM%5D.zip",
+    "is_dir": false,
+    "size": "25.6 KiB",
+    "date": "18-Feb-2025 10:38"
+  },
+  {
+    "name": "MSX System v1.0 + MSX BASIC Japanese (1983)(Microsoft)(US)[JAPMSX1.ROM].zip",
+    "href": "MSX%20System%20v1.0%20%2B%20MSX%20BASIC%20Japanese%20%281983%29%28Microsoft%29%28US%29%5BJAPMSX1.ROM%5D.zip",
+    "url": "https://myrient.erista.me/files/TOSEC/MSX/MSX/Firmware/MSX%20System%20v1.0%20%2B%20MSX%20BASIC%20Japanese%20%281983%29%28Microsoft%29%28US%29%5BJAPMSX1.ROM%5D.zip",
+    "is_dir": false,
+    "size": "25.7 KiB",
+    "date": "18-Feb-2025 10:38"
+  },
+  {
+    "name": "MSX System v1.0 + MSX BASIC Korean (1983)(Microsoft)(US)[KORMSX1.ROM].zip",
+    "href": "MSX%20System%20v1.0%20%2B%20MSX%20BASIC%20Korean%20%281983%29%28Microsoft%29%28US%29%5BKORMSX1.ROM%5D.zip",
+    "url": "https://myrient.erista.me/files/TOSEC/MSX/MSX/Firmware/MSX%20System%20v1.0%20%2B%20MSX%20BASIC%20Korean%20%281983%29%28Microsoft%29%28US%29%5BKORMSX1.ROM%5D.zip",
+    "is_dir": false,
+    "size": "25.3 KiB",
+    "date": "18-Feb-2025 10:38"
+  },
+  {
+    "name": "MSX System v1.0 + MSX BASIC UK (1983)(Microsoft)(US)[MSXUK.ROM].zip",
+    "href": "MSX%20System%20v1.0%20%2B%20MSX%20BASIC%20UK%20%281983%29%28Microsoft%29%28US%29%5BMSXUK.ROM%5D.zip",
+    "url": "https://myrient.erista.me/files/TOSEC/MSX/MSX/Firmware/MSX%20System%20v1.0%20%2B%20MSX%20BASIC%20UK%20%281983%29%28Microsoft%29%28US%29%5BMSXUK.ROM%5D.zip",
+    "is_dir": false,
+    "size": "25.6 KiB",
+    "date": "18-Feb-2025 10:38"
+  },
+  {
+    "name": "MSX v2.0 Korean Han (1984)(Qnix)[MSXHAN.ROM].zip",
+    "href": "MSX%20v2.0%20Korean%20Han%20%281984%29%28Qnix%29%5BMSXHAN.ROM%5D.zip",
+    "url": "https://myrient.erista.me/files/TOSEC/MSX/MSX/Firmware/MSX%20v2.0%20Korean%20Han%20%281984%29%28Qnix%29%5BMSXHAN.ROM%5D.zip",
+    "is_dir": false,
+    "size": "4.7 KiB",
+    "date": "18-Feb-2025 10:38"
+  },
+  {
+    "name": "MSX-DOS v1.0 (1986)(Technoahead)[TECHNOAH.ROM].zip",
+    "href": "MSX-DOS%20v1.0%20%281986%29%28Technoahead%29%5BTECHNOAH.ROM%5D.zip",
+    "url": "https://myrient.erista.me/files/TOSEC/MSX/MSX/Firmware/MSX-DOS%20v1.0%20%281986%29%28Technoahead%29%5BTECHNOAH.ROM%5D.zip",
+    "is_dir": false,
+    "size": "12.4 KiB",
+    "date": "18-Feb-2025 10:38"
+  },
+  {
+    "name": "MSX-DOS v2.2 (1984)(Microsoft)(US)(Disk 1 of 8)[f][0].zip",
+    "href": "MSX-DOS%20v2.2%20%281984%29%28Microsoft%29%28US%29%28Disk%201%20of%208%29%5Bf%5D%5B0%5D.zip",
+    "url": "https://myrient.erista.me/files/TOSEC/MSX/MSX/Firmware/MSX-DOS%20v2.2%20%281984%29%28Microsoft%29%28US%29%28Disk%201%20of%208%29%5Bf%5D%5B0%5D.zip",
+    "is_dir": false,
+    "size": "12.4 KiB",
+    "date": "18-Feb-2025 10:38"
+  },
+  {
+    "name": "MSX-DOS v2.2 (1984)(Microsoft)(US)(Disk 2 of 8)[1].zip",
+    "href": "MSX-DOS%20v2.2%20%281984%29%28Microsoft%29%28US%29%28Disk%202%20of%208%29%5B1%5D.zip",
+    "url": "https://myrient.erista.me/files/TOSEC/MSX/MSX/Firmware/MSX-DOS%20v2.2%20%281984%29%28Microsoft%29%28US%29%28Disk%202%20of%208%29%5B1%5D.zip",
+    "is_dir": false,
+    "size": "12.4 KiB",
+    "date": "18-Feb-2025 10:38"
+  },
+  {
+    "name": "MSX-DOS v2.2 (1984)(Microsoft)(US)(Disk 3 of 8)[2].zip",
+    "href": "MSX-DOS%20v2.2%20%281984%29%28Microsoft%29%28US%29%28Disk%203%20of%208%29%5B2%5D.zip",
+    "url": "https://myrient.erista.me/files/TOSEC/MSX/MSX/Firmware/MSX-DOS%20v2.2%20%281984%29%28Microsoft%29%28US%29%28Disk%203%20of%208%29%5B2%5D.zip",
+    "is_dir": false,
+    "size": "12.0 KiB",
+    "date": "18-Feb-2025 10:38"
+  },
+  {
+    "name": "MSX-DOS v2.2 (1984)(Microsoft)(US)(Disk 5 of 8)[4].zip",
+    "href": "MSX-DOS%20v2.2%20%281984%29%28Microsoft%29%28US%29%28Disk%205%20of%208%29%5B4%5D.zip",
+    "url": "https://myrient.erista.me/files/TOSEC/MSX/MSX/Firmware/MSX-DOS%20v2.2%20%281984%29%28Microsoft%29%28US%29%28Disk%205%20of%208%29%5B4%5D.zip",
+    "is_dir": false,
+    "size": "12.4 KiB",
+    "date": "18-Feb-2025 10:38"
+  },
+  {
+    "name": "MSX-DOS v2.2 (1984)(Microsoft)(US)[DISK.ROM].zip",
+    "href": "MSX-DOS%20v2.2%20%281984%29%28Microsoft%29%28US%29%5BDISK.ROM%5D.zip",
+    "url": "https://myrient.erista.me/files/TOSEC/MSX/MSX/Firmware/MSX-DOS%20v2.2%20%281984%29%28Microsoft%29%28US%29%5BDISK.ROM%5D.zip",
+    "is_dir": false,
+    "size": "12.2 KiB",
+    "date": "18-Feb-2025 10:38"
+  },
+  {
+    "name": "MSX-DOS v2.2 (1984)(Microsoft)(US)[a2][DISK.ROM].zip",
+    "href": "MSX-DOS%20v2.2%20%281984%29%28Microsoft%29%28US%29%5Ba2%5D%5BDISK.ROM%5D.zip",
+    "url": "https://myrient.erista.me/files/TOSEC/MSX/MSX/Firmware/MSX-DOS%20v2.2%20%281984%29%28Microsoft%29%28US%29%5Ba2%5D%5BDISK.ROM%5D.zip",
+    "is_dir": false,
+    "size": "12.4 KiB",
+    "date": "18-Feb-2025 10:38"
+  },
+  {
+    "name": "MSX-DOS v2.2 (1984)(Microsoft)(US)[a][DISK.ROM].zip",
+    "href": "MSX-DOS%20v2.2%20%281984%29%28Microsoft%29%28US%29%5Ba%5D%5BDISK.ROM%5D.zip",
+    "url": "https://myrient.erista.me/files/TOSEC/MSX/MSX/Firmware/MSX-DOS%20v2.2%20%281984%29%28Microsoft%29%28US%29%5Ba%5D%5BDISK.ROM%5D.zip",
+    "is_dir": false,
+    "size": "12.4 KiB",
+    "date": "18-Feb-2025 10:38"
+  },
+  {
+    "name": "MSX-Write (1986)(ASCII)(JP).zip",
+    "href": "MSX-Write%20%281986%29%28ASCII%29%28JP%29.zip",
+    "url": "https://myrient.erista.me/files/TOSEC/MSX/MSX/Firmware/MSX-Write%20%281986%29%28ASCII%29%28JP%29.zip",
+    "is_dir": false,
+    "size": "290.6 KiB",
+    "date": "18-Feb-2025 10:38"
+  },
+  {
+    "name": "MegaRAM Disk DDX v1.1 (1989)(Digital Design Eletronica)(BR).zip",
+    "href": "MegaRAM%20Disk%20DDX%20v1.1%20%281989%29%28Digital%20Design%20Eletronica%29%28BR%29.zip",
+    "url": "https://myrient.erista.me/files/TOSEC/MSX/MSX/Firmware/MegaRAM%20Disk%20DDX%20v1.1%20%281989%29%28Digital%20Design%20Eletronica%29%28BR%29.zip",
+    "is_dir": false,
+    "size": "11.1 KiB",
+    "date": "18-Feb-2025 10:38"
+  },
+  {
+    "name": "Microsol Tecnologia CDX2 1986 - Port Based (19xx)(-)[CDX-2.ROM].zip",
+    "href": "Microsol%20Tecnologia%20CDX2%201986%20-%20Port%20Based%20%2819xx%29%28-%29%5BCDX-2.ROM%5D.zip",
+    "url": "https://myrient.erista.me/files/TOSEC/MSX/MSX/Firmware/Microsol%20Tecnologia%20CDX2%201986%20-%20Port%20Based%20%2819xx%29%28-%29%5BCDX-2.ROM%5D.zip",
+    "is_dir": false,
+    "size": "12.2 KiB",
+    "date": "18-Feb-2025 10:38"
+  },
+  {
+    "name": "Mitsubishi MLFX1 BASIC BIOS (1983)(Mitsubishi Electronics)(JP).zip",
+    "href": "Mitsubishi%20MLFX1%20BASIC%20BIOS%20%281983%29%28Mitsubishi%20Electronics%29%28JP%29.zip",
+    "url": "https://myrient.erista.me/files/TOSEC/MSX/MSX/Firmware/Mitsubishi%20MLFX1%20BASIC%20BIOS%20%281983%29%28Mitsubishi%20Electronics%29%28JP%29.zip",
+    "is_dir": false,
+    "size": "25.6 KiB",
+    "date": "18-Feb-2025 10:38"
+  },
+  {
+    "name": "Music Module MSX-Audio (19xx)(-)[MODULE.ROM].zip",
+    "href": "Music%20Module%20MSX-Audio%20%2819xx%29%28-%29%5BMODULE.ROM%5D.zip",
+    "url": "https://myrient.erista.me/files/TOSEC/MSX/MSX/Firmware/Music%20Module%20MSX-Audio%20%2819xx%29%28-%29%5BMODULE.ROM%5D.zip",
+    "is_dir": false,
+    "size": "20.4 KiB",
+    "date": "18-Feb-2025 10:38"
+  },
+  {
+    "name": "National FS-SR022 MSX Bunsetsu Henkan Jisho (1985)(National).zip",
+    "href": "National%20FS-SR022%20MSX%20Bunsetsu%20Henkan%20Jisho%20%281985%29%28National%29.zip",
+    "url": "https://myrient.erista.me/files/TOSEC/MSX/MSX/Firmware/National%20FS-SR022%20MSX%20Bunsetsu%20Henkan%20Jisho%20%281985%29%28National%29.zip",
+    "is_dir": false,
+    "size": "16.1 KiB",
+    "date": "18-Feb-2025 10:38"
+  },
+  {
+    "name": "National FS-SR022 MSX Jisho Data (1985)(National).zip",
+    "href": "National%20FS-SR022%20MSX%20Jisho%20Data%20%281985%29%28National%29.zip",
+    "url": "https://myrient.erista.me/files/TOSEC/MSX/MSX/Firmware/National%20FS-SR022%20MSX%20Jisho%20Data%20%281985%29%28National%29.zip",
+    "is_dir": false,
+    "size": "103.4 KiB",
+    "date": "18-Feb-2025 10:38"
+  },
+  {
+    "name": "National Matsushita CF-3300 MSX BIOS + BASIC v1.0 (1984)(Matsushita Electric Industrial)(JP)[MSX1.ROM].zip",
+    "href": "National%20Matsushita%20CF-3300%20MSX%20BIOS%20%2B%20BASIC%20v1.0%20%281984%29%28Matsushita%20Electric%20Industrial%29%28JP%29%5BMSX1.ROM%5D.zip",
+    "url": "https://myrient.erista.me/files/TOSEC/MSX/MSX/Firmware/National%20Matsushita%20CF-3300%20MSX%20BIOS%20%2B%20BASIC%20v1.0%20%281984%29%28Matsushita%20Electric%20Industrial%29%28JP%29%5BMSX1.ROM%5D.zip",
+    "is_dir": false,
+    "size": "25.8 KiB",
+    "date": "18-Feb-2025 10:38"
+  },
+  {
+    "name": "National Matsushita CF-3300 MSX Disk BASIC v1.0 (1984)(Matsushita Electric Industrial)(JP)[DISK.ROM].zip",
+    "href": "National%20Matsushita%20CF-3300%20MSX%20Disk%20BASIC%20v1.0%20%281984%29%28Matsushita%20Electric%20Industrial%29%28JP%29%5BDISK.ROM%5D.zip",
+    "url": "https://myrient.erista.me/files/TOSEC/MSX/MSX/Firmware/National%20Matsushita%20CF-3300%20MSX%20Disk%20BASIC%20v1.0%20%281984%29%28Matsushita%20Electric%20Industrial%29%28JP%29%5BDISK.ROM%5D.zip",
+    "is_dir": false,
+    "size": "12.4 KiB",
+    "date": "18-Feb-2025 10:38"
+  },
+  {
+    "name": "National Matsushita FS-4000 MSX BIOS + BASIC v1.0 (1985)(Matsushita Electric Industrial)(JP)[MSX1.ROM].zip",
+    "href": "National%20Matsushita%20FS-4000%20MSX%20BIOS%20%2B%20BASIC%20v1.0%20%281985%29%28Matsushita%20Electric%20Industrial%29%28JP%29%5BMSX1.ROM%5D.zip",
+    "url": "https://myrient.erista.me/files/TOSEC/MSX/MSX/Firmware/National%20Matsushita%20FS-4000%20MSX%20BIOS%20%2B%20BASIC%20v1.0%20%281985%29%28Matsushita%20Electric%20Industrial%29%28JP%29%5BMSX1.ROM%5D.zip",
+    "is_dir": false,
+    "size": "25.8 KiB",
+    "date": "18-Feb-2025 10:38"
+  },
+  {
+    "name": "National Matsushita FS-4000 MSX Standard Kanji Driver (1985)(Matsushita Electric Industrial)(JP)[MSXKANJI.ROM].zip",
+    "href": "National%20Matsushita%20FS-4000%20MSX%20Standard%20Kanji%20Driver%20%281985%29%28Matsushita%20Electric%20Industrial%29%28JP%29%5BMSXKANJI.ROM%5D.zip",
+    "url": "https://myrient.erista.me/files/TOSEC/MSX/MSX/Firmware/National%20Matsushita%20FS-4000%20MSX%20Standard%20Kanji%20Driver%20%281985%29%28Matsushita%20Electric%20Industrial%29%28JP%29%5BMSXKANJI.ROM%5D.zip",
+    "is_dir": false,
+    "size": "24.0 KiB",
+    "date": "18-Feb-2025 10:38"
+  },
+  {
+    "name": "National Matsushita FS-4000 MSX Standard Kanji Font (1985)(Matsushita Electric Industrial)(JP)[KANJI.ROM].zip",
+    "href": "National%20Matsushita%20FS-4000%20MSX%20Standard%20Kanji%20Font%20%281985%29%28Matsushita%20Electric%20Industrial%29%28JP%29%5BKANJI.ROM%5D.zip",
+    "url": "https://myrient.erista.me/files/TOSEC/MSX/MSX/Firmware/National%20Matsushita%20FS-4000%20MSX%20Standard%20Kanji%20Font%20%281985%29%28Matsushita%20Electric%20Industrial%29%28JP%29%5BKANJI.ROM%5D.zip",
+    "is_dir": false,
+    "size": "68.1 KiB",
+    "date": "18-Feb-2025 10:38"
+  },
+  {
+    "name": "National Matsushita FS-4000 MSX Word Processor (1985)(Matsushita Electric Industrial)(JP)[MSXWORD.ROM].zip",
+    "href": "National%20Matsushita%20FS-4000%20MSX%20Word%20Processor%20%281985%29%28Matsushita%20Electric%20Industrial%29%28JP%29%5BMSXWORD.ROM%5D.zip",
+    "url": "https://myrient.erista.me/files/TOSEC/MSX/MSX/Firmware/National%20Matsushita%20FS-4000%20MSX%20Word%20Processor%20%281985%29%28Matsushita%20Electric%20Industrial%29%28JP%29%5BMSXWORD.ROM%5D.zip",
+    "is_dir": false,
+    "size": "19.5 KiB",
+    "date": "18-Feb-2025 10:38"
+  },
+  {
+    "name": "Philips NMS-1205 Music Module ROM MSX1 (19xx)(Philips).zip",
+    "href": "Philips%20NMS-1205%20Music%20Module%20ROM%20MSX1%20%2819xx%29%28Philips%29.zip",
+    "url": "https://myrient.erista.me/files/TOSEC/MSX/MSX/Firmware/Philips%20NMS-1205%20Music%20Module%20ROM%20MSX1%20%2819xx%29%28Philips%29.zip",
+    "is_dir": false,
+    "size": "20.5 KiB",
+    "date": "18-Feb-2025 10:38"
+  },
+  {
+    "name": "Philips NMS-1431 Printer #1 (19xx)(Philips)[1431.BI1].zip",
+    "href": "Philips%20NMS-1431%20Printer%20%231%20%2819xx%29%28Philips%29%5B1431.BI1%5D.zip",
+    "url": "https://myrient.erista.me/files/TOSEC/MSX/MSX/Firmware/Philips%20NMS-1431%20Printer%20%231%20%2819xx%29%28Philips%29%5B1431.BI1%5D.zip",
+    "is_dir": false,
+    "size": "10.2 KiB",
+    "date": "18-Feb-2025 10:38"
+  },
+  {
+    "name": "Philips NMS-1431 Printer #2 (19xx)(Philips)[1431.BI2].zip",
+    "href": "Philips%20NMS-1431%20Printer%20%232%20%2819xx%29%28Philips%29%5B1431.BI2%5D.zip",
+    "url": "https://myrient.erista.me/files/TOSEC/MSX/MSX/Firmware/Philips%20NMS-1431%20Printer%20%232%20%2819xx%29%28Philips%29%5B1431.BI2%5D.zip",
+    "is_dir": false,
+    "size": "3.7 KiB",
+    "date": "18-Feb-2025 10:38"
+  },
+  {
+    "name": "Philips VG-8020 MSX BIOS + BASIC v1.0 (1985)(Philips).zip",
+    "href": "Philips%20VG-8020%20MSX%20BIOS%20%2B%20BASIC%20v1.0%20%281985%29%28Philips%29.zip",
+    "url": "https://myrient.erista.me/files/TOSEC/MSX/MSX/Firmware/Philips%20VG-8020%20MSX%20BIOS%20%2B%20BASIC%20v1.0%20%281985%29%28Philips%29.zip",
+    "is_dir": false,
+    "size": "25.6 KiB",
+    "date": "18-Feb-2025 10:38"
+  },
+  {
+    "name": "Philips VY-0010 DiskDrive (19xx)(Philips).zip",
+    "href": "Philips%20VY-0010%20DiskDrive%20%2819xx%29%28Philips%29.zip",
+    "url": "https://myrient.erista.me/files/TOSEC/MSX/MSX/Firmware/Philips%20VY-0010%20DiskDrive%20%2819xx%29%28Philips%29.zip",
+    "is_dir": false,
+    "size": "12.4 KiB",
+    "date": "18-Feb-2025 10:38"
+  },
+  {
+    "name": "Play Card System UPA-01 (1985)(Yamaha)(JP).zip",
+    "href": "Play%20Card%20System%20UPA-01%20%281985%29%28Yamaha%29%28JP%29.zip",
+    "url": "https://myrient.erista.me/files/TOSEC/MSX/MSX/Firmware/Play%20Card%20System%20UPA-01%20%281985%29%28Yamaha%29%28JP%29.zip",
+    "is_dir": false,
+    "size": "10.3 KiB",
+    "date": "18-Feb-2025 10:38"
+  },
+  {
+    "name": "RS232 BIOS and BASIC Extensions Terminal Cibertron (19xx)(-)[CIBERTRO.ROM].zip",
+    "href": "RS232%20BIOS%20and%20BASIC%20Extensions%20Terminal%20Cibertron%20%2819xx%29%28-%29%5BCIBERTRO.ROM%5D.zip",
+    "url": "https://myrient.erista.me/files/TOSEC/MSX/MSX/Firmware/RS232%20BIOS%20and%20BASIC%20Extensions%20Terminal%20Cibertron%20%2819xx%29%28-%29%5BCIBERTRO.ROM%5D.zip",
+    "is_dir": false,
+    "size": "9.5 KiB",
+    "date": "18-Feb-2025 10:38"
+  },
+  {
+    "name": "RS232 BIOS and BASIC extensions (19xx)(-)[RS232.ROM].zip",
+    "href": "RS232%20BIOS%20and%20BASIC%20extensions%20%2819xx%29%28-%29%5BRS232.ROM%5D.zip",
+    "url": "https://myrient.erista.me/files/TOSEC/MSX/MSX/Firmware/RS232%20BIOS%20and%20BASIC%20extensions%20%2819xx%29%28-%29%5BRS232.ROM%5D.zip",
+    "is_dir": false,
+    "size": "3.8 KiB",
+    "date": "18-Feb-2025 10:38"
+  },
+  {
+    "name": "RS232 BIOS and BASIC extensions Gradiente - 80 Column (19xx)(-)[CT80NET.ROM].zip",
+    "href": "RS232%20BIOS%20and%20BASIC%20extensions%20Gradiente%20-%2080%20Column%20%2819xx%29%28-%29%5BCT80NET.ROM%5D.zip",
+    "url": "https://myrient.erista.me/files/TOSEC/MSX/MSX/Firmware/RS232%20BIOS%20and%20BASIC%20extensions%20Gradiente%20-%2080%20Column%20%2819xx%29%28-%29%5BCT80NET.ROM%5D.zip",
+    "is_dir": false,
+    "size": "6.7 KiB",
+    "date": "18-Feb-2025 10:38"
+  },
+  {
+    "name": "RS232 BIOS and BASIC extensions Gradiente - 80 Column, Astex Word Processor (19xx)(-)[CT80E.ROM].zip",
+    "href": "RS232%20BIOS%20and%20BASIC%20extensions%20Gradiente%20-%2080%20Column%2C%20Astex%20Word%20Processor%20%2819xx%29%28-%29%5BCT80E.ROM%5D.zip",
+    "url": "https://myrient.erista.me/files/TOSEC/MSX/MSX/Firmware/RS232%20BIOS%20and%20BASIC%20extensions%20Gradiente%20-%2080%20Column%2C%20Astex%20Word%20Processor%20%2819xx%29%28-%29%5BCT80E.ROM%5D.zip",
+    "is_dir": false,
+    "size": "24.3 KiB",
+    "date": "18-Feb-2025 10:38"
+  },
+  {
+    "name": "RS232 Modem Cartridge (19xx)(-)[RS232.ROM].zip",
+    "href": "RS232%20Modem%20Cartridge%20%2819xx%29%28-%29%5BRS232.ROM%5D.zip",
+    "url": "https://myrient.erista.me/files/TOSEC/MSX/MSX/Firmware/RS232%20Modem%20Cartridge%20%2819xx%29%28-%29%5BRS232.ROM%5D.zip",
+    "is_dir": false,
+    "size": "3.8 KiB",
+    "date": "18-Feb-2025 10:38"
+  },
+  {
+    "name": "Sanyo Lightpen (19xx)(-)[MLP001.ROM].zip",
+    "href": "Sanyo%20Lightpen%20%2819xx%29%28-%29%5BMLP001.ROM%5D.zip",
+    "url": "https://myrient.erista.me/files/TOSEC/MSX/MSX/Firmware/Sanyo%20Lightpen%20%2819xx%29%28-%29%5BMLP001.ROM%5D.zip",
+    "is_dir": false,
+    "size": "6.2 KiB",
+    "date": "18-Feb-2025 10:38"
+  },
+  {
+    "name": "Sistema MSX v1.0 Br + MSX BASIC Gradiente (19xx)(-)[MSX.ROM].zip",
+    "href": "Sistema%20MSX%20v1.0%20Br%20%2B%20MSX%20BASIC%20Gradiente%20%2819xx%29%28-%29%5BMSX.ROM%5D.zip",
+    "url": "https://myrient.erista.me/files/TOSEC/MSX/MSX/Firmware/Sistema%20MSX%20v1.0%20Br%20%2B%20MSX%20BASIC%20Gradiente%20%2819xx%29%28-%29%5BMSX.ROM%5D.zip",
+    "is_dir": false,
+    "size": "25.8 KiB",
+    "date": "18-Feb-2025 10:38"
+  },
+  {
+    "name": "Sistema MSX v1.1 Br + MSX BASIC Expert Gradiente (19xx)(-)[EXPERT11.ROM].zip",
+    "href": "Sistema%20MSX%20v1.1%20Br%20%2B%20MSX%20BASIC%20Expert%20Gradiente%20%2819xx%29%28-%29%5BEXPERT11.ROM%5D.zip",
+    "url": "https://myrient.erista.me/files/TOSEC/MSX/MSX/Firmware/Sistema%20MSX%20v1.1%20Br%20%2B%20MSX%20BASIC%20Expert%20Gradiente%20%2819xx%29%28-%29%5BEXPERT11.ROM%5D.zip",
+    "is_dir": false,
+    "size": "25.7 KiB",
+    "date": "18-Feb-2025 10:38"
+  },
+  {
+    "name": "Sony HB-201P BASIC BIOS (1984)(Sony)(JP).zip",
+    "href": "Sony%20HB-201P%20BASIC%20BIOS%20%281984%29%28Sony%29%28JP%29.zip",
+    "url": "https://myrient.erista.me/files/TOSEC/MSX/MSX/Firmware/Sony%20HB-201P%20BASIC%20BIOS%20%281984%29%28Sony%29%28JP%29.zip",
+    "is_dir": false,
+    "size": "25.6 KiB",
+    "date": "18-Feb-2025 10:38"
+  },
+  {
+    "name": "Sony HB-201P Firmware (1984)(Sony)(JP).zip",
+    "href": "Sony%20HB-201P%20Firmware%20%281984%29%28Sony%29%28JP%29.zip",
+    "url": "https://myrient.erista.me/files/TOSEC/MSX/MSX/Firmware/Sony%20HB-201P%20Firmware%20%281984%29%28Sony%29%28JP%29.zip",
+    "is_dir": false,
+    "size": "9.9 KiB",
+    "date": "18-Feb-2025 10:38"
+  },
+  {
+    "name": "Sony HB-75D Internal software (1984)(Sony)(DE)[INTERNAL.ROM].zip",
+    "href": "Sony%20HB-75D%20Internal%20software%20%281984%29%28Sony%29%28DE%29%5BINTERNAL.ROM%5D.zip",
+    "url": "https://myrient.erista.me/files/TOSEC/MSX/MSX/Firmware/Sony%20HB-75D%20Internal%20software%20%281984%29%28Sony%29%28DE%29%5BINTERNAL.ROM%5D.zip",
+    "is_dir": false,
+    "size": "9.5 KiB",
+    "date": "18-Feb-2025 10:38"
+  },
+  {
+    "name": "Sony HB-75D MSX BIOS + BASIC v1.0 (1984)(Sony)(DE)[MSX1.ROM].zip",
+    "href": "Sony%20HB-75D%20MSX%20BIOS%20%2B%20BASIC%20v1.0%20%281984%29%28Sony%29%28DE%29%5BMSX1.ROM%5D.zip",
+    "url": "https://myrient.erista.me/files/TOSEC/MSX/MSX/Firmware/Sony%20HB-75D%20MSX%20BIOS%20%2B%20BASIC%20v1.0%20%281984%29%28Sony%29%28DE%29%5BMSX1.ROM%5D.zip",
+    "is_dir": false,
+    "size": "25.6 KiB",
+    "date": "18-Feb-2025 10:38"
+  },
+  {
+    "name": "Sony HB75P Firmware (19xx)(Sony)(JP).zip",
+    "href": "Sony%20HB75P%20Firmware%20%2819xx%29%28Sony%29%28JP%29.zip",
+    "url": "https://myrient.erista.me/files/TOSEC/MSX/MSX/Firmware/Sony%20HB75P%20Firmware%20%2819xx%29%28Sony%29%28JP%29.zip",
+    "is_dir": false,
+    "size": "9.4 KiB",
+    "date": "18-Feb-2025 10:38"
+  },
+  {
+    "name": "Sony HBD-50 BASIC BIOS (19xx)(Sony)(JP).zip",
+    "href": "Sony%20HBD-50%20BASIC%20BIOS%20%2819xx%29%28Sony%29%28JP%29.zip",
+    "url": "https://myrient.erista.me/files/TOSEC/MSX/MSX/Firmware/Sony%20HBD-50%20BASIC%20BIOS%20%2819xx%29%28Sony%29%28JP%29.zip",
+    "is_dir": false,
+    "size": "12.1 KiB",
+    "date": "18-Feb-2025 10:38"
+  },
+  {
+    "name": "Sony HBD-F1 BASIC BIOS (19xx)(Sony)(JP).zip",
+    "href": "Sony%20HBD-F1%20BASIC%20BIOS%20%2819xx%29%28Sony%29%28JP%29.zip",
+    "url": "https://myrient.erista.me/files/TOSEC/MSX/MSX/Firmware/Sony%20HBD-F1%20BASIC%20BIOS%20%2819xx%29%28Sony%29%28JP%29.zip",
+    "is_dir": false,
+    "size": "12.0 KiB",
+    "date": "18-Feb-2025 10:38"
+  },
+  {
+    "name": "Sony HBK-30 BASIC BIOS (19xx)(Sony)(JP).zip",
+    "href": "Sony%20HBK-30%20BASIC%20BIOS%20%2819xx%29%28Sony%29%28JP%29.zip",
+    "url": "https://myrient.erista.me/files/TOSEC/MSX/MSX/Firmware/Sony%20HBK-30%20BASIC%20BIOS%20%2819xx%29%28Sony%29%28JP%29.zip",
+    "is_dir": false,
+    "size": "12.1 KiB",
+    "date": "18-Feb-2025 10:38"
+  },
+  {
+    "name": "Spectravideo SVI-738 MSX BIOS + BASIC v1.0 (1983)(Spectravideo)(GB)[MSX1.ROM].zip",
+    "href": "Spectravideo%20SVI-738%20MSX%20BIOS%20%2B%20BASIC%20v1.0%20%281983%29%28Spectravideo%29%28GB%29%5BMSX1.ROM%5D.zip",
+    "url": "https://myrient.erista.me/files/TOSEC/MSX/MSX/Firmware/Spectravideo%20SVI-738%20MSX%20BIOS%20%2B%20BASIC%20v1.0%20%281983%29%28Spectravideo%29%28GB%29%5BMSX1.ROM%5D.zip",
+    "is_dir": false,
+    "size": "25.6 KiB",
+    "date": "18-Feb-2025 10:38"
+  },
+  {
+    "name": "Spectravideo SVI-738 MSX Disk BASIC v1.0 (1983)(Spectravideo)(GB)[DISKO.ROM].zip",
+    "href": "Spectravideo%20SVI-738%20MSX%20Disk%20BASIC%20v1.0%20%281983%29%28Spectravideo%29%28GB%29%5BDISKO.ROM%5D.zip",
+    "url": "https://myrient.erista.me/files/TOSEC/MSX/MSX/Firmware/Spectravideo%20SVI-738%20MSX%20Disk%20BASIC%20v1.0%20%281983%29%28Spectravideo%29%28GB%29%5BDISKO.ROM%5D.zip",
+    "is_dir": false,
+    "size": "12.4 KiB",
+    "date": "18-Feb-2025 10:38"
+  },
+  {
+    "name": "TMG 2 Gradiente Modem (19xx)(-)[TM2GRAD.ROM].zip",
+    "href": "TMG%202%20Gradiente%20Modem%20%2819xx%29%28-%29%5BTM2GRAD.ROM%5D.zip",
+    "url": "https://myrient.erista.me/files/TOSEC/MSX/MSX/Firmware/TMG%202%20Gradiente%20Modem%20%2819xx%29%28-%29%5BTM2GRAD.ROM%5D.zip",
+    "is_dir": false,
+    "size": "15.2 KiB",
+    "date": "18-Feb-2025 10:38"
+  },
+  {
+    "name": "Toshiba HX-MU900 MSX-Audio (1985)(Toshiba)(JP)[MMOD1.ROM].zip",
+    "href": "Toshiba%20HX-MU900%20MSX-Audio%20%281985%29%28Toshiba%29%28JP%29%5BMMOD1.ROM%5D.zip",
+    "url": "https://myrient.erista.me/files/TOSEC/MSX/MSX/Firmware/Toshiba%20HX-MU900%20MSX-Audio%20%281985%29%28Toshiba%29%28JP%29%5BMMOD1.ROM%5D.zip",
+    "is_dir": false,
+    "size": "20.6 KiB",
+    "date": "18-Feb-2025 10:38"
+  },
+  {
+    "name": "Yamaha SFG-05 System (1984)(Yamaha)(JP)[SFG05.ROM].zip",
+    "href": "Yamaha%20SFG-05%20System%20%281984%29%28Yamaha%29%28JP%29%5BSFG05.ROM%5D.zip",
+    "url": "https://myrient.erista.me/files/TOSEC/MSX/MSX/Firmware/Yamaha%20SFG-05%20System%20%281984%29%28Yamaha%29%28JP%29%5BSFG05.ROM%5D.zip",
+    "is_dir": false,
+    "size": "44.5 KiB",
+    "date": "18-Feb-2025 10:38"
+  }
+]

@@ -1,0 +1,14 @@
+name	is_dir	size	date
+bad-instruction-fetches.text.1	False	2.3 KiB	21-Apr-2017 01:03
+clock-distribution-tree.text.3	False	3.8 KiB	21-Apr-2017 01:03
+clock-distribution-tree.text.4	False	3.9 KiB	21-Apr-2017 01:03
+clock-ringing-eco.text.1	False	1.5 KiB	21-Apr-2017 01:03
+critical-path-eco.text.3	False	5.4 KiB	21-Apr-2017 01:03
+invert.lisp.6	False	4.1 KiB	21-Apr-2017 01:03
+k-loose-ends.text.1	False	1.4 KiB	21-Apr-2017 01:03
+map-misread-eco.text.1	False	2.3 KiB	21-Apr-2017 01:03
+new-spy-utilities.lisp.1	False	40.7 KiB	21-Apr-2017 01:03
+new-spy-utilities.lisp.2	False	40.8 KiB	21-Apr-2017 01:03
+new-spy-utilities.lisp.3	False	40.8 KiB	21-Apr-2017 01:03
+write-pulse-width-eco.text.1	False	1.5 KiB	21-Apr-2017 01:03
+zmail.init.1	False	436 B	21-Apr-2017 01:03

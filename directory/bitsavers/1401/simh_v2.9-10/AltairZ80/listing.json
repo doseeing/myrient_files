@@ -1,0 +1,50 @@
+[
+  {
+    "name": "altairZ80.txt",
+    "href": "altairZ80.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/simh_v2.9-10/AltairZ80/altairZ80.txt",
+    "is_dir": false,
+    "size": "31.8 KiB",
+    "date": "06-May-2002 04:03"
+  },
+  {
+    "name": "altairz80_cpu.c",
+    "href": "altairz80_cpu.c",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/simh_v2.9-10/AltairZ80/altairz80_cpu.c",
+    "is_dir": false,
+    "size": "118.9 KiB",
+    "date": "09-May-2002 18:08"
+  },
+  {
+    "name": "altairz80_defs.h",
+    "href": "altairz80_defs.h",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/simh_v2.9-10/AltairZ80/altairz80_defs.h",
+    "is_dir": false,
+    "size": "2.0 KiB",
+    "date": "12-May-2002 15:35"
+  },
+  {
+    "name": "altairz80_dsk.c",
+    "href": "altairz80_dsk.c",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/simh_v2.9-10/AltairZ80/altairz80_dsk.c",
+    "is_dir": false,
+    "size": "18.9 KiB",
+    "date": "09-May-2002 17:47"
+  },
+  {
+    "name": "altairz80_sio.c",
+    "href": "altairz80_sio.c",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/simh_v2.9-10/AltairZ80/altairz80_sio.c",
+    "is_dir": false,
+    "size": "33.1 KiB",
+    "date": "09-May-2002 17:47"
+  },
+  {
+    "name": "altairz80_sys.c",
+    "href": "altairz80_sys.c",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/simh_v2.9-10/AltairZ80/altairz80_sys.c",
+    "is_dir": false,
+    "size": "35.9 KiB",
+    "date": "27-Apr-2002 14:09"
+  }
+]

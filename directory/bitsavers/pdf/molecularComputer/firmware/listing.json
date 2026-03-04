@@ -1,0 +1,42 @@
+[
+  {
+    "name": "sys1_firmware",
+    "href": "sys1_firmware/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/molecularComputer/firmware/sys1_firmware/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Oct-2013 01:24"
+  },
+  {
+    "name": "sys2_firmware",
+    "href": "sys2_firmware/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/molecularComputer/firmware/sys2_firmware/",
+    "is_dir": true,
+    "size": null,
+    "date": "07-Jan-2024 21:11"
+  },
+  {
+    "name": "14A_PROMS.zip",
+    "href": "14A_PROMS.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/molecularComputer/firmware/14A_PROMS.zip",
+    "is_dir": false,
+    "size": "13.9 KiB",
+    "date": "07-Jan-2024 21:09"
+  },
+  {
+    "name": "Checksums.txt",
+    "href": "Checksums.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/molecularComputer/firmware/Checksums.txt",
+    "is_dir": false,
+    "size": "236 B",
+    "date": "28-Oct-2013 01:23"
+  },
+  {
+    "name": "file_processor_roms.zip",
+    "href": "file_processor_roms.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/molecularComputer/firmware/file_processor_roms.zip",
+    "is_dir": false,
+    "size": "4.7 KiB",
+    "date": "07-Jan-2024 21:09"
+  }
+]

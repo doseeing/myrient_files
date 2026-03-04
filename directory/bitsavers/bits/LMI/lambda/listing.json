@@ -1,0 +1,66 @@
+[
+  {
+    "name": "00_install.tap",
+    "href": "00_install.tap",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/lambda/00_install.tap",
+    "is_dir": false,
+    "size": "24.4 MiB",
+    "date": "21-Apr-2017 21:46"
+  },
+  {
+    "name": "02_system.tap",
+    "href": "02_system.tap",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/lambda/02_system.tap",
+    "is_dir": false,
+    "size": "77.6 MiB",
+    "date": "21-Apr-2017 15:54"
+  },
+  {
+    "name": "0x_tap.txt",
+    "href": "0x_tap.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/lambda/0x_tap.txt",
+    "is_dir": false,
+    "size": "601 B",
+    "date": "21-Apr-2017 21:48"
+  },
+  {
+    "name": "LAMBDA_PICON-CLASS_1600.tap",
+    "href": "LAMBDA_PICON-CLASS_1600.tap",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/lambda/LAMBDA_PICON-CLASS_1600.tap",
+    "is_dir": false,
+    "size": "1.0 MiB",
+    "date": "06-Oct-2007 03:34"
+  },
+  {
+    "name": "LAMBDA_SYSV_usr_3.12.tap",
+    "href": "LAMBDA_SYSV_usr_3.12.tap",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/lambda/LAMBDA_SYSV_usr_3.12.tap",
+    "is_dir": false,
+    "size": "12.7 MiB",
+    "date": "06-Oct-2007 03:35"
+  },
+  {
+    "name": "LAMBDA_UNLABELED_1600.tap",
+    "href": "LAMBDA_UNLABELED_1600.tap",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/lambda/LAMBDA_UNLABELED_1600.tap",
+    "is_dir": false,
+    "size": "681.4 KiB",
+    "date": "06-Oct-2007 03:35"
+  },
+  {
+    "name": "LAMBDA_boot_sdu3.14_sysv3.19.tap",
+    "href": "LAMBDA_boot_sdu3.14_sysv3.19.tap",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/lambda/LAMBDA_boot_sdu3.14_sysv3.19.tap",
+    "is_dir": false,
+    "size": "13.6 MiB",
+    "date": "06-Oct-2007 03:36"
+  },
+  {
+    "name": "LAMBDA_boot_with_V7.tap",
+    "href": "LAMBDA_boot_with_V7.tap",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/lambda/LAMBDA_boot_with_V7.tap",
+    "is_dir": false,
+    "size": "13.7 MiB",
+    "date": "06-Oct-2007 03:38"
+  }
+]

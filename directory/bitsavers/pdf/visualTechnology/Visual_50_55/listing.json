@@ -1,0 +1,74 @@
+[
+  {
+    "name": "keyboard",
+    "href": "keyboard/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/visualTechnology/Visual_50_55/keyboard/",
+    "is_dir": true,
+    "size": null,
+    "date": "17-Mar-2024 19:32"
+  },
+  {
+    "name": "set_2",
+    "href": "set_2/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/visualTechnology/Visual_50_55/set_2/",
+    "is_dir": true,
+    "size": null,
+    "date": "18-Mar-2024 06:23"
+  },
+  {
+    "name": "UM-055-001-0A_Visual_50_55_Reference_Manual_Apr1983.pdf",
+    "href": "UM-055-001-0A_Visual_50_55_Reference_Manual_Apr1983.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/visualTechnology/Visual_50_55/UM-055-001-0A_Visual_50_55_Reference_Manual_Apr1983.pdf",
+    "is_dir": false,
+    "size": "15.0 MiB",
+    "date": "02-Feb-2019 02:08"
+  },
+  {
+    "name": "disassmbly.txt",
+    "href": "disassmbly.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/visualTechnology/Visual_50_55/disassmbly.txt",
+    "is_dir": false,
+    "size": "449.6 KiB",
+    "date": "05-Mar-2024 23:30"
+  },
+  {
+    "name": "hexdump.txt",
+    "href": "hexdump.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/visualTechnology/Visual_50_55/hexdump.txt",
+    "is_dir": false,
+    "size": "50.2 KiB",
+    "date": "05-Mar-2024 23:30"
+  },
+  {
+    "name": "pcb.jpg",
+    "href": "pcb.jpg",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/visualTechnology/Visual_50_55/pcb.jpg",
+    "is_dir": false,
+    "size": "1.4 MiB",
+    "date": "05-Mar-2024 23:14"
+  },
+  {
+    "name": "v50.jpg",
+    "href": "v50.jpg",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/visualTechnology/Visual_50_55/v50.jpg",
+    "is_dir": false,
+    "size": "178.1 KiB",
+    "date": "20-Mar-2024 05:10"
+  },
+  {
+    "name": "visual_50_2732.hex",
+    "href": "visual_50_2732.hex",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/visualTechnology/Visual_50_55/visual_50_2732.hex",
+    "is_dir": false,
+    "size": "11.3 KiB",
+    "date": "05-Mar-2024 23:14"
+  },
+  {
+    "name": "visual_50_2764.hex",
+    "href": "visual_50_2764.hex",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/visualTechnology/Visual_50_55/visual_50_2764.hex",
+    "is_dir": false,
+    "size": "22.5 KiB",
+    "date": "05-Mar-2024 23:14"
+  }
+]

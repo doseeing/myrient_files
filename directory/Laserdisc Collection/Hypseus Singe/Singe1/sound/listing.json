@@ -1,0 +1,610 @@
+[
+  {
+    "name": "ab_alarm1.wav",
+    "href": "ab_alarm1.wav",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe/Singe1/sound/ab_alarm1.wav",
+    "is_dir": false,
+    "size": "8.1 KiB",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "ab_alarm2.wav",
+    "href": "ab_alarm2.wav",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe/Singe1/sound/ab_alarm2.wav",
+    "is_dir": false,
+    "size": "8.1 KiB",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "ab_alarm3.wav",
+    "href": "ab_alarm3.wav",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe/Singe1/sound/ab_alarm3.wav",
+    "is_dir": false,
+    "size": "8.4 KiB",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "ab_alarm4.wav",
+    "href": "ab_alarm4.wav",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe/Singe1/sound/ab_alarm4.wav",
+    "is_dir": false,
+    "size": "8.0 KiB",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "ab_enemy.wav",
+    "href": "ab_enemy.wav",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe/Singe1/sound/ab_enemy.wav",
+    "is_dir": false,
+    "size": "23.3 KiB",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "ab_fire.wav",
+    "href": "ab_fire.wav",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe/Singe1/sound/ab_fire.wav",
+    "is_dir": false,
+    "size": "71.8 KiB",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "ab_ship.wav",
+    "href": "ab_ship.wav",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe/Singe1/sound/ab_ship.wav",
+    "is_dir": false,
+    "size": "78.3 KiB",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "bl_shot.wav",
+    "href": "bl_shot.wav",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe/Singe1/sound/bl_shot.wav",
+    "is_dir": false,
+    "size": "62.3 KiB",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "cliff_correct.wav",
+    "href": "cliff_correct.wav",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe/Singe1/sound/cliff_correct.wav",
+    "is_dir": false,
+    "size": "8.7 KiB",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "cliff_startup.wav",
+    "href": "cliff_startup.wav",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe/Singe1/sound/cliff_startup.wav",
+    "is_dir": false,
+    "size": "21.7 KiB",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "cliff_wrong.wav",
+    "href": "cliff_wrong.wav",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe/Singe1/sound/cliff_wrong.wav",
+    "is_dir": false,
+    "size": "13.1 KiB",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "dl2_bad.wav",
+    "href": "dl2_bad.wav",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe/Singe1/sound/dl2_bad.wav",
+    "is_dir": false,
+    "size": "18.3 KiB",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "dl2_coin1.wav",
+    "href": "dl2_coin1.wav",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe/Singe1/sound/dl2_coin1.wav",
+    "is_dir": false,
+    "size": "34.6 KiB",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "dl2_coin2.wav",
+    "href": "dl2_coin2.wav",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe/Singe1/sound/dl2_coin2.wav",
+    "is_dir": false,
+    "size": "34.6 KiB",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "dl2_coin3.wav",
+    "href": "dl2_coin3.wav",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe/Singe1/sound/dl2_coin3.wav",
+    "is_dir": false,
+    "size": "34.6 KiB",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "dl2_coin4.wav",
+    "href": "dl2_coin4.wav",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe/Singe1/sound/dl2_coin4.wav",
+    "is_dir": false,
+    "size": "34.6 KiB",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "dl2_error.wav",
+    "href": "dl2_error.wav",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe/Singe1/sound/dl2_error.wav",
+    "is_dir": false,
+    "size": "8.7 KiB",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "dl2_good.wav",
+    "href": "dl2_good.wav",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe/Singe1/sound/dl2_good.wav",
+    "is_dir": false,
+    "size": "12.8 KiB",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "dl2_tic.wav",
+    "href": "dl2_tic.wav",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe/Singe1/sound/dl2_tic.wav",
+    "is_dir": false,
+    "size": "21.7 KiB",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "dl2_toc.wav",
+    "href": "dl2_toc.wav",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe/Singe1/sound/dl2_toc.wav",
+    "is_dir": false,
+    "size": "21.7 KiB",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "dl2_warble.wav",
+    "href": "dl2_warble.wav",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe/Singe1/sound/dl2_warble.wav",
+    "is_dir": false,
+    "size": "3.4 KiB",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "dl2_warn.wav",
+    "href": "dl2_warn.wav",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe/Singe1/sound/dl2_warn.wav",
+    "is_dir": false,
+    "size": "13.1 KiB",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "dl_accept.wav",
+    "href": "dl_accept.wav",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe/Singe1/sound/dl_accept.wav",
+    "is_dir": false,
+    "size": "12.6 KiB",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "dl_buzz.wav",
+    "href": "dl_buzz.wav",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe/Singe1/sound/dl_buzz.wav",
+    "is_dir": false,
+    "size": "17.3 KiB",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "dl_credit.wav",
+    "href": "dl_credit.wav",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe/Singe1/sound/dl_credit.wav",
+    "is_dir": false,
+    "size": "34.8 KiB",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "esh_beep.wav",
+    "href": "esh_beep.wav",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe/Singe1/sound/esh_beep.wav",
+    "is_dir": false,
+    "size": "86.2 KiB",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "gp_count.wav",
+    "href": "gp_count.wav",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe/Singe1/sound/gp_count.wav",
+    "is_dir": false,
+    "size": "47.4 KiB",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "gp_crash.wav",
+    "href": "gp_crash.wav",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe/Singe1/sound/gp_crash.wav",
+    "is_dir": false,
+    "size": "86.2 KiB",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "gp_engine1.wav",
+    "href": "gp_engine1.wav",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe/Singe1/sound/gp_engine1.wav",
+    "is_dir": false,
+    "size": "69.1 KiB",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "gp_engine2.wav",
+    "href": "gp_engine2.wav",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe/Singe1/sound/gp_engine2.wav",
+    "is_dir": false,
+    "size": "69.1 KiB",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "gp_roar.wav",
+    "href": "gp_roar.wav",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe/Singe1/sound/gp_roar.wav",
+    "is_dir": false,
+    "size": "69.0 KiB",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "gp_signal.wav",
+    "href": "gp_signal.wav",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe/Singe1/sound/gp_signal.wav",
+    "is_dir": false,
+    "size": "38.8 KiB",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "gp_tires.wav",
+    "href": "gp_tires.wav",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe/Singe1/sound/gp_tires.wav",
+    "is_dir": false,
+    "size": "71.9 KiB",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "gr_alarm1.wav",
+    "href": "gr_alarm1.wav",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe/Singe1/sound/gr_alarm1.wav",
+    "is_dir": false,
+    "size": "9.0 KiB",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "gr_alarm2.wav",
+    "href": "gr_alarm2.wav",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe/Singe1/sound/gr_alarm2.wav",
+    "is_dir": false,
+    "size": "8.9 KiB",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "gr_alarm3.wav",
+    "href": "gr_alarm3.wav",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe/Singe1/sound/gr_alarm3.wav",
+    "is_dir": false,
+    "size": "8.8 KiB",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "gr_alarm4.wav",
+    "href": "gr_alarm4.wav",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe/Singe1/sound/gr_alarm4.wav",
+    "is_dir": false,
+    "size": "8.9 KiB",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "gr_attack.wav",
+    "href": "gr_attack.wav",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe/Singe1/sound/gr_attack.wav",
+    "is_dir": false,
+    "size": "23.3 KiB",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "gr_cannon.wav",
+    "href": "gr_cannon.wav",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe/Singe1/sound/gr_cannon.wav",
+    "is_dir": false,
+    "size": "114.7 KiB",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "gr_fire.wav",
+    "href": "gr_fire.wav",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe/Singe1/sound/gr_fire.wav",
+    "is_dir": false,
+    "size": "47.4 KiB",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "gr_mineon.wav",
+    "href": "gr_mineon.wav",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe/Singe1/sound/gr_mineon.wav",
+    "is_dir": false,
+    "size": "266.5 KiB",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "grumble.wav",
+    "href": "grumble.wav",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe/Singe1/sound/grumble.wav",
+    "is_dir": false,
+    "size": "238.0 KiB",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "mach3-01.ogg",
+    "href": "mach3-01.ogg",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe/Singe1/sound/mach3-01.ogg",
+    "is_dir": false,
+    "size": "5.7 KiB",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "mach3-02.ogg",
+    "href": "mach3-02.ogg",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe/Singe1/sound/mach3-02.ogg",
+    "is_dir": false,
+    "size": "13.4 KiB",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "mach3-03.ogg",
+    "href": "mach3-03.ogg",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe/Singe1/sound/mach3-03.ogg",
+    "is_dir": false,
+    "size": "4.5 KiB",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "mach3-04.ogg",
+    "href": "mach3-04.ogg",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe/Singe1/sound/mach3-04.ogg",
+    "is_dir": false,
+    "size": "41.4 KiB",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "mach3-05.ogg",
+    "href": "mach3-05.ogg",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe/Singe1/sound/mach3-05.ogg",
+    "is_dir": false,
+    "size": "13.4 KiB",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "mach3-06.ogg",
+    "href": "mach3-06.ogg",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe/Singe1/sound/mach3-06.ogg",
+    "is_dir": false,
+    "size": "19.4 KiB",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "mach3-07.ogg",
+    "href": "mach3-07.ogg",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe/Singe1/sound/mach3-07.ogg",
+    "is_dir": false,
+    "size": "20.1 KiB",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "mach3-08.ogg",
+    "href": "mach3-08.ogg",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe/Singe1/sound/mach3-08.ogg",
+    "is_dir": false,
+    "size": "14.8 KiB",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "mach3-09.ogg",
+    "href": "mach3-09.ogg",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe/Singe1/sound/mach3-09.ogg",
+    "is_dir": false,
+    "size": "8.7 KiB",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "mach3-11.ogg",
+    "href": "mach3-11.ogg",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe/Singe1/sound/mach3-11.ogg",
+    "is_dir": false,
+    "size": "6.6 KiB",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "mach3-13.ogg",
+    "href": "mach3-13.ogg",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe/Singe1/sound/mach3-13.ogg",
+    "is_dir": false,
+    "size": "24.2 KiB",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "mach3-15.ogg",
+    "href": "mach3-15.ogg",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe/Singe1/sound/mach3-15.ogg",
+    "is_dir": false,
+    "size": "17.6 KiB",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "mach3-19.ogg",
+    "href": "mach3-19.ogg",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe/Singe1/sound/mach3-19.ogg",
+    "is_dir": false,
+    "size": "25.2 KiB",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "mach3-20.ogg",
+    "href": "mach3-20.ogg",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe/Singe1/sound/mach3-20.ogg",
+    "is_dir": false,
+    "size": "23.5 KiB",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "mach3-22.ogg",
+    "href": "mach3-22.ogg",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe/Singe1/sound/mach3-22.ogg",
+    "is_dir": false,
+    "size": "37.4 KiB",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "mach3-33.ogg",
+    "href": "mach3-33.ogg",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe/Singe1/sound/mach3-33.ogg",
+    "is_dir": false,
+    "size": "21.5 KiB",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "mach3-34.ogg",
+    "href": "mach3-34.ogg",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe/Singe1/sound/mach3-34.ogg",
+    "is_dir": false,
+    "size": "5.5 KiB",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "mach3-35.ogg",
+    "href": "mach3-35.ogg",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe/Singe1/sound/mach3-35.ogg",
+    "is_dir": false,
+    "size": "8.0 KiB",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "mach3-36.ogg",
+    "href": "mach3-36.ogg",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe/Singe1/sound/mach3-36.ogg",
+    "is_dir": false,
+    "size": "32.0 KiB",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "mach3-37.ogg",
+    "href": "mach3-37.ogg",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe/Singe1/sound/mach3-37.ogg",
+    "is_dir": false,
+    "size": "32.4 KiB",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "mach3-39.ogg",
+    "href": "mach3-39.ogg",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe/Singe1/sound/mach3-39.ogg",
+    "is_dir": false,
+    "size": "30.0 KiB",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "mach3-40.ogg",
+    "href": "mach3-40.ogg",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe/Singe1/sound/mach3-40.ogg",
+    "is_dir": false,
+    "size": "20.2 KiB",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "mach3-41.ogg",
+    "href": "mach3-41.ogg",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe/Singe1/sound/mach3-41.ogg",
+    "is_dir": false,
+    "size": "24.5 KiB",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "mach3-42.ogg",
+    "href": "mach3-42.ogg",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe/Singe1/sound/mach3-42.ogg",
+    "is_dir": false,
+    "size": "20.8 KiB",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "mach3-43.ogg",
+    "href": "mach3-43.ogg",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe/Singe1/sound/mach3-43.ogg",
+    "is_dir": false,
+    "size": "7.2 KiB",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "mach3-45.ogg",
+    "href": "mach3-45.ogg",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe/Singe1/sound/mach3-45.ogg",
+    "is_dir": false,
+    "size": "29.3 KiB",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "mach3-49.ogg",
+    "href": "mach3-49.ogg",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe/Singe1/sound/mach3-49.ogg",
+    "is_dir": false,
+    "size": "17.5 KiB",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "mach3-null.ogg",
+    "href": "mach3-null.ogg",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe/Singe1/sound/mach3-null.ogg",
+    "is_dir": false,
+    "size": "3.7 KiB",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "saveme.wav",
+    "href": "saveme.wav",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe/Singe1/sound/saveme.wav",
+    "is_dir": false,
+    "size": "158.5 KiB",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "sd_coin.wav",
+    "href": "sd_coin.wav",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe/Singe1/sound/sd_coin.wav",
+    "is_dir": false,
+    "size": "94.8 KiB",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "sd_fail.wav",
+    "href": "sd_fail.wav",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe/Singe1/sound/sd_fail.wav",
+    "is_dir": false,
+    "size": "14.9 KiB",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "sd_succeed.wav",
+    "href": "sd_succeed.wav",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe/Singe1/sound/sd_succeed.wav",
+    "is_dir": false,
+    "size": "11.5 KiB",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "sda_success_hi.wav",
+    "href": "sda_success_hi.wav",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe/Singe1/sound/sda_success_hi.wav",
+    "is_dir": false,
+    "size": "11.5 KiB",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "sda_success_lo.wav",
+    "href": "sda_success_lo.wav",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe/Singe1/sound/sda_success_lo.wav",
+    "is_dir": false,
+    "size": "11.5 KiB",
+    "date": "04-Dec-2025 01:42"
+  }
+]

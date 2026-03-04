@@ -1,0 +1,954 @@
+[
+  {
+    "name": "ASSOC.BAS",
+    "href": "ASSOC.BAS",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-118/ASSOC.BAS",
+    "is_dir": false,
+    "size": "18.2 KiB",
+    "date": "12-Feb-2000 13:24"
+  },
+  {
+    "name": "ASSOC.V1",
+    "href": "ASSOC.V1",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-118/ASSOC.V1",
+    "is_dir": false,
+    "size": "10.9 KiB",
+    "date": "12-Feb-2000 13:24"
+  },
+  {
+    "name": "BEGIN.BAS",
+    "href": "BEGIN.BAS",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-118/BEGIN.BAS",
+    "is_dir": false,
+    "size": "24.1 KiB",
+    "date": "12-Feb-2000 13:24"
+  },
+  {
+    "name": "BEGIN.V18",
+    "href": "BEGIN.V18",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-118/BEGIN.V18",
+    "is_dir": false,
+    "size": "13.9 KiB",
+    "date": "12-Feb-2000 13:24"
+  },
+  {
+    "name": "BKP.V3",
+    "href": "BKP.V3",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-118/BKP.V3",
+    "is_dir": false,
+    "size": "2.6 KiB",
+    "date": "12-Feb-2000 13:24"
+  },
+  {
+    "name": "COMOUT.BAS",
+    "href": "COMOUT.BAS",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-118/COMOUT.BAS",
+    "is_dir": false,
+    "size": "2.0 KiB",
+    "date": "12-Feb-2000 13:24"
+  },
+  {
+    "name": "COMOUT.V7",
+    "href": "COMOUT.V7",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-118/COMOUT.V7",
+    "is_dir": false,
+    "size": "2.0 KiB",
+    "date": "12-Feb-2000 13:24"
+  },
+  {
+    "name": "DATAB.LTX",
+    "href": "DATAB.LTX",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-118/DATAB.LTX",
+    "is_dir": false,
+    "size": "75 B",
+    "date": "12-Feb-2000 13:24"
+  },
+  {
+    "name": "ERR.LTX",
+    "href": "ERR.LTX",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-118/ERR.LTX",
+    "is_dir": false,
+    "size": "457 B",
+    "date": "12-Feb-2000 13:24"
+  },
+  {
+    "name": "FIELDS.BAS",
+    "href": "FIELDS.BAS",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-118/FIELDS.BAS",
+    "is_dir": false,
+    "size": "24.0 KiB",
+    "date": "12-Feb-2000 13:24"
+  },
+  {
+    "name": "FIELDS.LTX",
+    "href": "FIELDS.LTX",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-118/FIELDS.LTX",
+    "is_dir": false,
+    "size": "463 B",
+    "date": "12-Feb-2000 13:24"
+  },
+  {
+    "name": "FIELDS.V12",
+    "href": "FIELDS.V12",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-118/FIELDS.V12",
+    "is_dir": false,
+    "size": "14.3 KiB",
+    "date": "12-Feb-2000 13:24"
+  },
+  {
+    "name": "FILDAT.LTX",
+    "href": "FILDAT.LTX",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-118/FILDAT.LTX",
+    "is_dir": false,
+    "size": "1.8 KiB",
+    "date": "12-Feb-2000 13:24"
+  },
+  {
+    "name": "FILES.BAS",
+    "href": "FILES.BAS",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-118/FILES.BAS",
+    "is_dir": false,
+    "size": "22.6 KiB",
+    "date": "12-Feb-2000 13:24"
+  },
+  {
+    "name": "FILES.V21",
+    "href": "FILES.V21",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-118/FILES.V21",
+    "is_dir": false,
+    "size": "20.0 KiB",
+    "date": "12-Feb-2000 13:24"
+  },
+  {
+    "name": "FN.BAS",
+    "href": "FN.BAS",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-118/FN.BAS",
+    "is_dir": false,
+    "size": "4.4 KiB",
+    "date": "12-Feb-2000 13:24"
+  },
+  {
+    "name": "FN2.BAS",
+    "href": "FN2.BAS",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-118/FN2.BAS",
+    "is_dir": false,
+    "size": "341 B",
+    "date": "12-Feb-2000 13:24"
+  },
+  {
+    "name": "FN3.BAS",
+    "href": "FN3.BAS",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-118/FN3.BAS",
+    "is_dir": false,
+    "size": "1.3 KiB",
+    "date": "12-Feb-2000 13:24"
+  },
+  {
+    "name": "FN4.BAS",
+    "href": "FN4.BAS",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-118/FN4.BAS",
+    "is_dir": false,
+    "size": "168 B",
+    "date": "12-Feb-2000 13:24"
+  },
+  {
+    "name": "FN5.BAS",
+    "href": "FN5.BAS",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-118/FN5.BAS",
+    "is_dir": false,
+    "size": "190 B",
+    "date": "12-Feb-2000 13:24"
+  },
+  {
+    "name": "FN6.BAS",
+    "href": "FN6.BAS",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-118/FN6.BAS",
+    "is_dir": false,
+    "size": "592 B",
+    "date": "12-Feb-2000 13:24"
+  },
+  {
+    "name": "FN7.BAS",
+    "href": "FN7.BAS",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-118/FN7.BAS",
+    "is_dir": false,
+    "size": "176 B",
+    "date": "12-Feb-2000 13:24"
+  },
+  {
+    "name": "FN8.BAS",
+    "href": "FN8.BAS",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-118/FN8.BAS",
+    "is_dir": false,
+    "size": "1.1 KiB",
+    "date": "12-Feb-2000 13:24"
+  },
+  {
+    "name": "FNA.BAS",
+    "href": "FNA.BAS",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-118/FNA.BAS",
+    "is_dir": false,
+    "size": "13.2 KiB",
+    "date": "12-Feb-2000 13:24"
+  },
+  {
+    "name": "FNA.V45",
+    "href": "FNA.V45",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-118/FNA.V45",
+    "is_dir": false,
+    "size": "36.1 KiB",
+    "date": "12-Feb-2000 13:24"
+  },
+  {
+    "name": "FNA1.BAS",
+    "href": "FNA1.BAS",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-118/FNA1.BAS",
+    "is_dir": false,
+    "size": "794 B",
+    "date": "12-Feb-2000 13:24"
+  },
+  {
+    "name": "FNA2.BAS",
+    "href": "FNA2.BAS",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-118/FNA2.BAS",
+    "is_dir": false,
+    "size": "292 B",
+    "date": "12-Feb-2000 13:24"
+  },
+  {
+    "name": "FNAA.BAS",
+    "href": "FNAA.BAS",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-118/FNAA.BAS",
+    "is_dir": false,
+    "size": "766 B",
+    "date": "12-Feb-2000 13:24"
+  },
+  {
+    "name": "FNB.BAS",
+    "href": "FNB.BAS",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-118/FNB.BAS",
+    "is_dir": false,
+    "size": "1.5 KiB",
+    "date": "12-Feb-2000 13:24"
+  },
+  {
+    "name": "FNB.V8",
+    "href": "FNB.V8",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-118/FNB.V8",
+    "is_dir": false,
+    "size": "5.0 KiB",
+    "date": "12-Feb-2000 13:24"
+  },
+  {
+    "name": "FNC.BAS",
+    "href": "FNC.BAS",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-118/FNC.BAS",
+    "is_dir": false,
+    "size": "2.3 KiB",
+    "date": "12-Feb-2000 13:24"
+  },
+  {
+    "name": "FNC.V13",
+    "href": "FNC.V13",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-118/FNC.V13",
+    "is_dir": false,
+    "size": "6.4 KiB",
+    "date": "12-Feb-2000 13:24"
+  },
+  {
+    "name": "FND.BAS",
+    "href": "FND.BAS",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-118/FND.BAS",
+    "is_dir": false,
+    "size": "2.1 KiB",
+    "date": "12-Feb-2000 13:24"
+  },
+  {
+    "name": "FND.V10",
+    "href": "FND.V10",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-118/FND.V10",
+    "is_dir": false,
+    "size": "6.4 KiB",
+    "date": "12-Feb-2000 13:24"
+  },
+  {
+    "name": "FND1.BAS",
+    "href": "FND1.BAS",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-118/FND1.BAS",
+    "is_dir": false,
+    "size": "332 B",
+    "date": "12-Feb-2000 13:24"
+  },
+  {
+    "name": "FND2.BAS",
+    "href": "FND2.BAS",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-118/FND2.BAS",
+    "is_dir": false,
+    "size": "455 B",
+    "date": "12-Feb-2000 13:24"
+  },
+  {
+    "name": "FNE1.BAS",
+    "href": "FNE1.BAS",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-118/FNE1.BAS",
+    "is_dir": false,
+    "size": "617 B",
+    "date": "12-Feb-2000 13:24"
+  },
+  {
+    "name": "FNI1.BAS",
+    "href": "FNI1.BAS",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-118/FNI1.BAS",
+    "is_dir": false,
+    "size": "761 B",
+    "date": "12-Feb-2000 13:24"
+  },
+  {
+    "name": "FNO1.BAS",
+    "href": "FNO1.BAS",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-118/FNO1.BAS",
+    "is_dir": false,
+    "size": "3.4 KiB",
+    "date": "12-Feb-2000 13:24"
+  },
+  {
+    "name": "FNO2.BAS",
+    "href": "FNO2.BAS",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-118/FNO2.BAS",
+    "is_dir": false,
+    "size": "2.0 KiB",
+    "date": "12-Feb-2000 13:24"
+  },
+  {
+    "name": "FNO3.BAS",
+    "href": "FNO3.BAS",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-118/FNO3.BAS",
+    "is_dir": false,
+    "size": "964 B",
+    "date": "12-Feb-2000 13:24"
+  },
+  {
+    "name": "FNP.BAS",
+    "href": "FNP.BAS",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-118/FNP.BAS",
+    "is_dir": false,
+    "size": "305 B",
+    "date": "12-Feb-2000 13:24"
+  },
+  {
+    "name": "FNP2.BAS",
+    "href": "FNP2.BAS",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-118/FNP2.BAS",
+    "is_dir": false,
+    "size": "241 B",
+    "date": "12-Feb-2000 13:24"
+  },
+  {
+    "name": "FNS0.BAS",
+    "href": "FNS0.BAS",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-118/FNS0.BAS",
+    "is_dir": false,
+    "size": "169 B",
+    "date": "12-Feb-2000 13:24"
+  },
+  {
+    "name": "FNT1.BAS",
+    "href": "FNT1.BAS",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-118/FNT1.BAS",
+    "is_dir": false,
+    "size": "145 B",
+    "date": "12-Feb-2000 13:24"
+  },
+  {
+    "name": "FNT2.BAS",
+    "href": "FNT2.BAS",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-118/FNT2.BAS",
+    "is_dir": false,
+    "size": "357 B",
+    "date": "12-Feb-2000 13:24"
+  },
+  {
+    "name": "FORMAT.LTX",
+    "href": "FORMAT.LTX",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-118/FORMAT.LTX",
+    "is_dir": false,
+    "size": "531 B",
+    "date": "12-Feb-2000 13:24"
+  },
+  {
+    "name": "FUNCT.DOC",
+    "href": "FUNCT.DOC",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-118/FUNCT.DOC",
+    "is_dir": false,
+    "size": "135.1 KiB",
+    "date": "12-Feb-2000 13:24"
+  },
+  {
+    "name": "GCOLL1.BAS",
+    "href": "GCOLL1.BAS",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-118/GCOLL1.BAS",
+    "is_dir": false,
+    "size": "18.0 KiB",
+    "date": "12-Feb-2000 13:24"
+  },
+  {
+    "name": "GCOLL1.V10",
+    "href": "GCOLL1.V10",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-118/GCOLL1.V10",
+    "is_dir": false,
+    "size": "7.5 KiB",
+    "date": "12-Feb-2000 13:24"
+  },
+  {
+    "name": "GCOLL2.BAS",
+    "href": "GCOLL2.BAS",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-118/GCOLL2.BAS",
+    "is_dir": false,
+    "size": "11.1 KiB",
+    "date": "12-Feb-2000 13:24"
+  },
+  {
+    "name": "GCOLL2.V4",
+    "href": "GCOLL2.V4",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-118/GCOLL2.V4",
+    "is_dir": false,
+    "size": "2.0 KiB",
+    "date": "12-Feb-2000 13:24"
+  },
+  {
+    "name": "GCOLL3.BAS",
+    "href": "GCOLL3.BAS",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-118/GCOLL3.BAS",
+    "is_dir": false,
+    "size": "14.6 KiB",
+    "date": "12-Feb-2000 13:24"
+  },
+  {
+    "name": "GCOLL3.V4",
+    "href": "GCOLL3.V4",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-118/GCOLL3.V4",
+    "is_dir": false,
+    "size": "6.3 KiB",
+    "date": "12-Feb-2000 13:24"
+  },
+  {
+    "name": "GCOLL4.BAS",
+    "href": "GCOLL4.BAS",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-118/GCOLL4.BAS",
+    "is_dir": false,
+    "size": "1.6 KiB",
+    "date": "12-Feb-2000 13:24"
+  },
+  {
+    "name": "GCOLL4.V3",
+    "href": "GCOLL4.V3",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-118/GCOLL4.V3",
+    "is_dir": false,
+    "size": "2.4 KiB",
+    "date": "12-Feb-2000 13:24"
+  },
+  {
+    "name": "GCOLL5.BAS",
+    "href": "GCOLL5.BAS",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-118/GCOLL5.BAS",
+    "is_dir": false,
+    "size": "17.0 KiB",
+    "date": "12-Feb-2000 13:24"
+  },
+  {
+    "name": "GCOLL5.V9",
+    "href": "GCOLL5.V9",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-118/GCOLL5.V9",
+    "is_dir": false,
+    "size": "9.5 KiB",
+    "date": "12-Feb-2000 13:24"
+  },
+  {
+    "name": "GCOLL6.BAS",
+    "href": "GCOLL6.BAS",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-118/GCOLL6.BAS",
+    "is_dir": false,
+    "size": "14.1 KiB",
+    "date": "12-Feb-2000 13:24"
+  },
+  {
+    "name": "GCOLL6.V6",
+    "href": "GCOLL6.V6",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-118/GCOLL6.V6",
+    "is_dir": false,
+    "size": "2.6 KiB",
+    "date": "12-Feb-2000 13:24"
+  },
+  {
+    "name": "GUPP.BAS",
+    "href": "GUPP.BAS",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-118/GUPP.BAS",
+    "is_dir": false,
+    "size": "27.1 KiB",
+    "date": "12-Feb-2000 13:24"
+  },
+  {
+    "name": "GUPP.V8",
+    "href": "GUPP.V8",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-118/GUPP.V8",
+    "is_dir": false,
+    "size": "13.7 KiB",
+    "date": "12-Feb-2000 13:24"
+  },
+  {
+    "name": "INSTR.TXT",
+    "href": "INSTR.TXT",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-118/INSTR.TXT",
+    "is_dir": false,
+    "size": "3.8 KiB",
+    "date": "12-Feb-2000 13:24"
+  },
+  {
+    "name": "ISAM.BAS",
+    "href": "ISAM.BAS",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-118/ISAM.BAS",
+    "is_dir": false,
+    "size": "19.1 KiB",
+    "date": "12-Feb-2000 13:24"
+  },
+  {
+    "name": "ISAM.V20",
+    "href": "ISAM.V20",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-118/ISAM.V20",
+    "is_dir": false,
+    "size": "13.4 KiB",
+    "date": "12-Feb-2000 13:24"
+  },
+  {
+    "name": "LDSADD.BAS",
+    "href": "LDSADD.BAS",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-118/LDSADD.BAS",
+    "is_dir": false,
+    "size": "576 B",
+    "date": "12-Feb-2000 13:24"
+  },
+  {
+    "name": "LIST.BAS",
+    "href": "LIST.BAS",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-118/LIST.BAS",
+    "is_dir": false,
+    "size": "18.2 KiB",
+    "date": "12-Feb-2000 13:24"
+  },
+  {
+    "name": "LIST.V6",
+    "href": "LIST.V6",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-118/LIST.V6",
+    "is_dir": false,
+    "size": "9.0 KiB",
+    "date": "12-Feb-2000 13:24"
+  },
+  {
+    "name": "LMANGR.DOC",
+    "href": "LMANGR.DOC",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-118/LMANGR.DOC",
+    "is_dir": false,
+    "size": "392.4 KiB",
+    "date": "12-Feb-2000 13:24"
+  },
+  {
+    "name": "LOGDMP.BAS",
+    "href": "LOGDMP.BAS",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-118/LOGDMP.BAS",
+    "is_dir": false,
+    "size": "1.7 KiB",
+    "date": "12-Feb-2000 13:24"
+  },
+  {
+    "name": "LOGDMP.V3",
+    "href": "LOGDMP.V3",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-118/LOGDMP.V3",
+    "is_dir": false,
+    "size": "1.9 KiB",
+    "date": "12-Feb-2000 13:24"
+  },
+  {
+    "name": "LOGGER.BAS",
+    "href": "LOGGER.BAS",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-118/LOGGER.BAS",
+    "is_dir": false,
+    "size": "5.5 KiB",
+    "date": "12-Feb-2000 13:24"
+  },
+  {
+    "name": "LOGGER.V9",
+    "href": "LOGGER.V9",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-118/LOGGER.V9",
+    "is_dir": false,
+    "size": "5.5 KiB",
+    "date": "12-Feb-2000 13:24"
+  },
+  {
+    "name": "LOGIN.BAS",
+    "href": "LOGIN.BAS",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-118/LOGIN.BAS",
+    "is_dir": false,
+    "size": "13.0 KiB",
+    "date": "12-Feb-2000 13:24"
+  },
+  {
+    "name": "LOGIN.V29",
+    "href": "LOGIN.V29",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-118/LOGIN.V29",
+    "is_dir": false,
+    "size": "15.4 KiB",
+    "date": "12-Feb-2000 13:24"
+  },
+  {
+    "name": "LOGOUT.BAS",
+    "href": "LOGOUT.BAS",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-118/LOGOUT.BAS",
+    "is_dir": false,
+    "size": "5.3 KiB",
+    "date": "12-Feb-2000 13:24"
+  },
+  {
+    "name": "LOGOUT.V18",
+    "href": "LOGOUT.V18",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-118/LOGOUT.V18",
+    "is_dir": false,
+    "size": "11.2 KiB",
+    "date": "12-Feb-2000 13:24"
+  },
+  {
+    "name": "LSLOW.BAS",
+    "href": "LSLOW.BAS",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-118/LSLOW.BAS",
+    "is_dir": false,
+    "size": "19.9 KiB",
+    "date": "12-Feb-2000 13:24"
+  },
+  {
+    "name": "LSLOW.V7",
+    "href": "LSLOW.V7",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-118/LSLOW.V7",
+    "is_dir": false,
+    "size": "6.1 KiB",
+    "date": "12-Feb-2000 13:24"
+  },
+  {
+    "name": "MSLOW.BAS",
+    "href": "MSLOW.BAS",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-118/MSLOW.BAS",
+    "is_dir": false,
+    "size": "2.2 KiB",
+    "date": "12-Feb-2000 13:24"
+  },
+  {
+    "name": "MSLOW.V7",
+    "href": "MSLOW.V7",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-118/MSLOW.V7",
+    "is_dir": false,
+    "size": "3.3 KiB",
+    "date": "12-Feb-2000 13:24"
+  },
+  {
+    "name": "NEWLOG.BAS",
+    "href": "NEWLOG.BAS",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-118/NEWLOG.BAS",
+    "is_dir": false,
+    "size": "304 B",
+    "date": "12-Feb-2000 13:24"
+  },
+  {
+    "name": "NEWLOG.V1",
+    "href": "NEWLOG.V1",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-118/NEWLOG.V1",
+    "is_dir": false,
+    "size": "304 B",
+    "date": "12-Feb-2000 13:24"
+  },
+  {
+    "name": "NSLOW.BAS",
+    "href": "NSLOW.BAS",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-118/NSLOW.BAS",
+    "is_dir": false,
+    "size": "2.4 KiB",
+    "date": "12-Feb-2000 13:24"
+  },
+  {
+    "name": "NSLOW.V5",
+    "href": "NSLOW.V5",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-118/NSLOW.V5",
+    "is_dir": false,
+    "size": "4.0 KiB",
+    "date": "12-Feb-2000 13:24"
+  },
+  {
+    "name": "OPHELP.LTX",
+    "href": "OPHELP.LTX",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-118/OPHELP.LTX",
+    "is_dir": false,
+    "size": "153 B",
+    "date": "12-Feb-2000 13:24"
+  },
+  {
+    "name": "OPTION.BAS",
+    "href": "OPTION.BAS",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-118/OPTION.BAS",
+    "is_dir": false,
+    "size": "4.1 KiB",
+    "date": "12-Feb-2000 13:24"
+  },
+  {
+    "name": "OPTION.LTX",
+    "href": "OPTION.LTX",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-118/OPTION.LTX",
+    "is_dir": false,
+    "size": "458 B",
+    "date": "12-Feb-2000 13:24"
+  },
+  {
+    "name": "OPTION.V14",
+    "href": "OPTION.V14",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-118/OPTION.V14",
+    "is_dir": false,
+    "size": "4.3 KiB",
+    "date": "12-Feb-2000 13:24"
+  },
+  {
+    "name": "PACK.CAT",
+    "href": "PACK.CAT",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-118/PACK.CAT",
+    "is_dir": false,
+    "size": "7.5 KiB",
+    "date": "12-Feb-2000 13:24"
+  },
+  {
+    "name": "PASWRD.BAS",
+    "href": "PASWRD.BAS",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-118/PASWRD.BAS",
+    "is_dir": false,
+    "size": "25.9 KiB",
+    "date": "12-Feb-2000 13:24"
+  },
+  {
+    "name": "PASWRD.V8",
+    "href": "PASWRD.V8",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-118/PASWRD.V8",
+    "is_dir": false,
+    "size": "21.4 KiB",
+    "date": "12-Feb-2000 13:24"
+  },
+  {
+    "name": "QCOPY.BAS",
+    "href": "QCOPY.BAS",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-118/QCOPY.BAS",
+    "is_dir": false,
+    "size": "14.3 KiB",
+    "date": "12-Feb-2000 13:24"
+  },
+  {
+    "name": "QCOPY.V1",
+    "href": "QCOPY.V1",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-118/QCOPY.V1",
+    "is_dir": false,
+    "size": "6.5 KiB",
+    "date": "12-Feb-2000 13:24"
+  },
+  {
+    "name": "QUERY.BAS",
+    "href": "QUERY.BAS",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-118/QUERY.BAS",
+    "is_dir": false,
+    "size": "22.3 KiB",
+    "date": "12-Feb-2000 13:24"
+  },
+  {
+    "name": "QUERY.DOC",
+    "href": "QUERY.DOC",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-118/QUERY.DOC",
+    "is_dir": false,
+    "size": "309.2 KiB",
+    "date": "12-Feb-2000 13:24"
+  },
+  {
+    "name": "QUERY.V31",
+    "href": "QUERY.V31",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-118/QUERY.V31",
+    "is_dir": false,
+    "size": "14.2 KiB",
+    "date": "12-Feb-2000 13:24"
+  },
+  {
+    "name": "QXEQ.BAS",
+    "href": "QXEQ.BAS",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-118/QXEQ.BAS",
+    "is_dir": false,
+    "size": "21.0 KiB",
+    "date": "12-Feb-2000 13:24"
+  },
+  {
+    "name": "QXEQ.V29",
+    "href": "QXEQ.V29",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-118/QXEQ.V29",
+    "is_dir": false,
+    "size": "9.6 KiB",
+    "date": "12-Feb-2000 13:24"
+  },
+  {
+    "name": "REPORT.BAS",
+    "href": "REPORT.BAS",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-118/REPORT.BAS",
+    "is_dir": false,
+    "size": "20.5 KiB",
+    "date": "12-Feb-2000 13:24"
+  },
+  {
+    "name": "REPORT.V9",
+    "href": "REPORT.V9",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-118/REPORT.V9",
+    "is_dir": false,
+    "size": "13.8 KiB",
+    "date": "12-Feb-2000 13:24"
+  },
+  {
+    "name": "SPHELP.LTX",
+    "href": "SPHELP.LTX",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-118/SPHELP.LTX",
+    "is_dir": false,
+    "size": "60 B",
+    "date": "12-Feb-2000 13:24"
+  },
+  {
+    "name": "SSLOW.BAS",
+    "href": "SSLOW.BAS",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-118/SSLOW.BAS",
+    "is_dir": false,
+    "size": "2.9 KiB",
+    "date": "12-Feb-2000 13:24"
+  },
+  {
+    "name": "SSLOW.V6",
+    "href": "SSLOW.V6",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-118/SSLOW.V6",
+    "is_dir": false,
+    "size": "5.0 KiB",
+    "date": "12-Feb-2000 13:24"
+  },
+  {
+    "name": "UMOUNT.BAS",
+    "href": "UMOUNT.BAS",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-118/UMOUNT.BAS",
+    "is_dir": false,
+    "size": "12.5 KiB",
+    "date": "12-Feb-2000 13:24"
+  },
+  {
+    "name": "UMOUNT.V3",
+    "href": "UMOUNT.V3",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-118/UMOUNT.V3",
+    "is_dir": false,
+    "size": "25.7 KiB",
+    "date": "12-Feb-2000 13:24"
+  },
+  {
+    "name": "UPDATE.BAS",
+    "href": "UPDATE.BAS",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-118/UPDATE.BAS",
+    "is_dir": false,
+    "size": "21.1 KiB",
+    "date": "12-Feb-2000 13:24"
+  },
+  {
+    "name": "UPDATE.V13",
+    "href": "UPDATE.V13",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-118/UPDATE.V13",
+    "is_dir": false,
+    "size": "11.9 KiB",
+    "date": "12-Feb-2000 13:24"
+  },
+  {
+    "name": "UPDCVT.BAS",
+    "href": "UPDCVT.BAS",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-118/UPDCVT.BAS",
+    "is_dir": false,
+    "size": "14.3 KiB",
+    "date": "12-Feb-2000 13:24"
+  },
+  {
+    "name": "UPDCVT.V2",
+    "href": "UPDCVT.V2",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-118/UPDCVT.V2",
+    "is_dir": false,
+    "size": "4.6 KiB",
+    "date": "12-Feb-2000 13:24"
+  },
+  {
+    "name": "WRITE1.BAS",
+    "href": "WRITE1.BAS",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-118/WRITE1.BAS",
+    "is_dir": false,
+    "size": "16.7 KiB",
+    "date": "12-Feb-2000 13:24"
+  },
+  {
+    "name": "WRITE1.V7",
+    "href": "WRITE1.V7",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-118/WRITE1.V7",
+    "is_dir": false,
+    "size": "7.0 KiB",
+    "date": "12-Feb-2000 13:24"
+  },
+  {
+    "name": "WRITE2.BAS",
+    "href": "WRITE2.BAS",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-118/WRITE2.BAS",
+    "is_dir": false,
+    "size": "11.5 KiB",
+    "date": "12-Feb-2000 13:24"
+  },
+  {
+    "name": "WRITE2.V11",
+    "href": "WRITE2.V11",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-118/WRITE2.V11",
+    "is_dir": false,
+    "size": "17.7 KiB",
+    "date": "12-Feb-2000 13:24"
+  },
+  {
+    "name": "WRITE3.BAS",
+    "href": "WRITE3.BAS",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-118/WRITE3.BAS",
+    "is_dir": false,
+    "size": "16.4 KiB",
+    "date": "12-Feb-2000 13:24"
+  },
+  {
+    "name": "WRITE3.V8",
+    "href": "WRITE3.V8",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-118/WRITE3.V8",
+    "is_dir": false,
+    "size": "7.1 KiB",
+    "date": "12-Feb-2000 13:24"
+  },
+  {
+    "name": "WRITE4.BAS",
+    "href": "WRITE4.BAS",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-118/WRITE4.BAS",
+    "is_dir": false,
+    "size": "3.7 KiB",
+    "date": "12-Feb-2000 13:24"
+  },
+  {
+    "name": "WRITE4.V7",
+    "href": "WRITE4.V7",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-118/WRITE4.V7",
+    "is_dir": false,
+    "size": "7.4 KiB",
+    "date": "12-Feb-2000 13:24"
+  },
+  {
+    "name": "index.html",
+    "href": "index.html",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-118/index.html",
+    "is_dir": false,
+    "size": "14.0 KiB",
+    "date": "13-Feb-2000 03:15"
+  }
+]

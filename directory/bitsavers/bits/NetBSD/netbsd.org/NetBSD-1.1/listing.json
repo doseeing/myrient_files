@@ -1,0 +1,146 @@
+[
+  {
+    "name": "amiga",
+    "href": "amiga/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/amiga/",
+    "is_dir": true,
+    "size": null,
+    "date": "30-Sep-2023 17:23"
+  },
+  {
+    "name": "atari",
+    "href": "atari/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/atari/",
+    "is_dir": true,
+    "size": null,
+    "date": "30-Sep-2023 17:23"
+  },
+  {
+    "name": "hp300",
+    "href": "hp300/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/hp300/",
+    "is_dir": true,
+    "size": null,
+    "date": "30-Sep-2023 17:23"
+  },
+  {
+    "name": "i386",
+    "href": "i386/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/i386/",
+    "is_dir": true,
+    "size": null,
+    "date": "30-Sep-2023 17:23"
+  },
+  {
+    "name": "mac68k",
+    "href": "mac68k/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/mac68k/",
+    "is_dir": true,
+    "size": null,
+    "date": "30-Sep-2023 17:23"
+  },
+  {
+    "name": "mvme68k",
+    "href": "mvme68k/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/mvme68k/",
+    "is_dir": true,
+    "size": null,
+    "date": "30-Sep-2023 17:20"
+  },
+  {
+    "name": "patches",
+    "href": "patches/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/patches/",
+    "is_dir": true,
+    "size": null,
+    "date": "30-Sep-2023 17:20"
+  },
+  {
+    "name": "pc532",
+    "href": "pc532/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/pc532/",
+    "is_dir": true,
+    "size": null,
+    "date": "30-Sep-2023 17:20"
+  },
+  {
+    "name": "pmax",
+    "href": "pmax/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/pmax/",
+    "is_dir": true,
+    "size": null,
+    "date": "30-Sep-2023 17:23"
+  },
+  {
+    "name": "source",
+    "href": "source/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/source/",
+    "is_dir": true,
+    "size": null,
+    "date": "30-Sep-2023 17:23"
+  },
+  {
+    "name": "sparc",
+    "href": "sparc/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/sparc/",
+    "is_dir": true,
+    "size": null,
+    "date": "30-Sep-2023 17:23"
+  },
+  {
+    "name": "sun3",
+    "href": "sun3/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/sun3/",
+    "is_dir": true,
+    "size": null,
+    "date": "30-Sep-2023 17:23"
+  },
+  {
+    "name": "BUGS",
+    "href": "BUGS",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/BUGS",
+    "is_dir": false,
+    "size": "2.1 KiB",
+    "date": "26-Nov-1995 05:54"
+  },
+  {
+    "name": "CHANGES",
+    "href": "CHANGES",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/CHANGES",
+    "is_dir": false,
+    "size": "37.6 KiB",
+    "date": "26-Nov-1995 05:54"
+  },
+  {
+    "name": "CHANGES.prev",
+    "href": "CHANGES.prev",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/CHANGES.prev",
+    "is_dir": false,
+    "size": "78.3 KiB",
+    "date": "26-Nov-1995 05:54"
+  },
+  {
+    "name": "LAST_MINUTE",
+    "href": "LAST_MINUTE",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/LAST_MINUTE",
+    "is_dir": false,
+    "size": "66 B",
+    "date": "26-Nov-1995 21:49"
+  },
+  {
+    "name": "MIRRORS",
+    "href": "MIRRORS",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/MIRRORS",
+    "is_dir": false,
+    "size": "1.8 KiB",
+    "date": "22-Sep-1997 06:13"
+  },
+  {
+    "name": "TODO",
+    "href": "TODO",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/TODO",
+    "is_dir": false,
+    "size": "4.8 KiB",
+    "date": "26-Nov-1995 05:54"
+  }
+]

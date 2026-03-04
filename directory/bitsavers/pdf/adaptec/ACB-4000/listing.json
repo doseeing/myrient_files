@@ -1,0 +1,50 @@
+[
+  {
+    "name": "firmware",
+    "href": "firmware/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/adaptec/ACB-4000/firmware/",
+    "is_dir": true,
+    "size": null,
+    "date": "21-Nov-2025 09:17"
+  },
+  {
+    "name": "pictures",
+    "href": "pictures/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/adaptec/ACB-4000/pictures/",
+    "is_dir": true,
+    "size": null,
+    "date": "21-Nov-2025 09:18"
+  },
+  {
+    "name": "400003-00A_ACB-4000A_Users_Manual_Oct85.pdf",
+    "href": "400003-00A_ACB-4000A_Users_Manual_Oct85.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/adaptec/ACB-4000/400003-00A_ACB-4000A_Users_Manual_Oct85.pdf",
+    "is_dir": false,
+    "size": "6.8 MiB",
+    "date": "24-May-2003 03:05"
+  },
+  {
+    "name": "500504-00_ACB-4000_OEM_Manual_Mar84.pdf",
+    "href": "500504-00_ACB-4000_OEM_Manual_Mar84.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/adaptec/ACB-4000/500504-00_ACB-4000_OEM_Manual_Mar84.pdf",
+    "is_dir": false,
+    "size": "9.4 MiB",
+    "date": "31-May-2016 23:35"
+  },
+  {
+    "name": "ACB4000A_Schematic_ARD_2025.pdf",
+    "href": "ACB4000A_Schematic_ARD_2025.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/adaptec/ACB-4000/ACB4000A_Schematic_ARD_2025.pdf",
+    "is_dir": false,
+    "size": "2.3 MiB",
+    "date": "03-Dec-2025 12:11"
+  },
+  {
+    "name": "ACB_4000_and_5000_Disk_Controllers_OEM_Manual_Preliminary_May83.pdf",
+    "href": "ACB_4000_and_5000_Disk_Controllers_OEM_Manual_Preliminary_May83.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/adaptec/ACB-4000/ACB_4000_and_5000_Disk_Controllers_OEM_Manual_Preliminary_May83.pdf",
+    "is_dir": false,
+    "size": "2.5 MiB",
+    "date": "31-May-2016 18:29"
+  }
+]

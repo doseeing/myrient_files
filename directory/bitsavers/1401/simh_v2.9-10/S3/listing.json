@@ -1,0 +1,82 @@
+[
+  {
+    "name": "haltguide.txt",
+    "href": "haltguide.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/simh_v2.9-10/S3/haltguide.txt",
+    "is_dir": false,
+    "size": "29.6 KiB",
+    "date": "17-Nov-2001 16:33"
+  },
+  {
+    "name": "readme_s3.txt",
+    "href": "readme_s3.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/simh_v2.9-10/S3/readme_s3.txt",
+    "is_dir": false,
+    "size": "2.7 KiB",
+    "date": "20-Nov-2001 05:43"
+  },
+  {
+    "name": "s3_cd.c",
+    "href": "s3_cd.c",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/simh_v2.9-10/S3/s3_cd.c",
+    "is_dir": false,
+    "size": "11.7 KiB",
+    "date": "31-May-2002 04:42"
+  },
+  {
+    "name": "s3_cpu.c",
+    "href": "s3_cpu.c",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/simh_v2.9-10/S3/s3_cpu.c",
+    "is_dir": false,
+    "size": "58.0 KiB",
+    "date": "08-Mar-2002 06:14"
+  },
+  {
+    "name": "s3_defs.h",
+    "href": "s3_defs.h",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/simh_v2.9-10/S3/s3_defs.h",
+    "is_dir": false,
+    "size": "3.5 KiB",
+    "date": "30-May-2000 20:38"
+  },
+  {
+    "name": "s3_disk.c",
+    "href": "s3_disk.c",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/simh_v2.9-10/S3/s3_disk.c",
+    "is_dir": false,
+    "size": "20.0 KiB",
+    "date": "31-May-2002 04:44"
+  },
+  {
+    "name": "s3_lp.c",
+    "href": "s3_lp.c",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/simh_v2.9-10/S3/s3_lp.c",
+    "is_dir": false,
+    "size": "9.7 KiB",
+    "date": "31-May-2002 04:42"
+  },
+  {
+    "name": "s3_pkb.c",
+    "href": "s3_pkb.c",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/simh_v2.9-10/S3/s3_pkb.c",
+    "is_dir": false,
+    "size": "10.0 KiB",
+    "date": "31-May-2002 04:42"
+  },
+  {
+    "name": "s3_sys.c",
+    "href": "s3_sys.c",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/simh_v2.9-10/S3/s3_sys.c",
+    "is_dir": false,
+    "size": "24.2 KiB",
+    "date": "08-Mar-2002 06:10"
+  },
+  {
+    "name": "system3.txt",
+    "href": "system3.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/simh_v2.9-10/S3/system3.txt",
+    "is_dir": false,
+    "size": "16.0 KiB",
+    "date": "15-Jun-2001 17:52"
+  }
+]

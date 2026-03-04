@@ -1,0 +1,402 @@
+[
+  {
+    "name": "03-031R01A13_Rel_Boot_Loader_197306.pdf",
+    "href": "03-031R01A13_Rel_Boot_Loader_197306.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/interdata/diag/03-031R01A13_Rel_Boot_Loader_197306.pdf",
+    "is_dir": false,
+    "size": "9.7 MiB",
+    "date": "21-Jun-2022 15:16"
+  },
+  {
+    "name": "06-159R09_32bitSystemExerciser_May82.pdf",
+    "href": "06-159R09_32bitSystemExerciser_May82.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/interdata/diag/06-159R09_32bitSystemExerciser_May82.pdf",
+    "is_dir": false,
+    "size": "14.6 MiB",
+    "date": "14-Mar-2006 23:00"
+  },
+  {
+    "name": "06-176_MMD_Loader_Mar82.pdf",
+    "href": "06-176_MMD_Loader_Mar82.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/interdata/diag/06-176_MMD_Loader_Mar82.pdf",
+    "is_dir": false,
+    "size": "2.9 MiB",
+    "date": "14-Dec-2001 02:12"
+  },
+  {
+    "name": "06-211_8-16_CPU_Part1.pdf",
+    "href": "06-211_8-16_CPU_Part1.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/interdata/diag/06-211_8-16_CPU_Part1.pdf",
+    "is_dir": false,
+    "size": "5.6 MiB",
+    "date": "17-Dec-2001 14:59"
+  },
+  {
+    "name": "06-212_8-16_CPU_Part2.pdf",
+    "href": "06-212_8-16_CPU_Part2.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/interdata/diag/06-212_8-16_CPU_Part2.pdf",
+    "is_dir": false,
+    "size": "2.9 MiB",
+    "date": "17-Dec-2001 15:43"
+  },
+  {
+    "name": "06-221_8-16E_ExtMemTst.pdf",
+    "href": "06-221_8-16E_ExtMemTst.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/interdata/diag/06-221_8-16E_ExtMemTst.pdf",
+    "is_dir": false,
+    "size": "4.4 MiB",
+    "date": "17-Dec-2001 19:20"
+  },
+  {
+    "name": "06-238_CIS_Test_Jun79.pdf",
+    "href": "06-238_CIS_Test_Jun79.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/interdata/diag/06-238_CIS_Test_Jun79.pdf",
+    "is_dir": false,
+    "size": "8.8 MiB",
+    "date": "15-Mar-2006 03:40"
+  },
+  {
+    "name": "06-252R04_MMD_CrossGenerator_Mar82.pdf",
+    "href": "06-252R04_MMD_CrossGenerator_Mar82.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/interdata/diag/06-252R04_MMD_CrossGenerator_Mar82.pdf",
+    "is_dir": false,
+    "size": "6.9 MiB",
+    "date": "13-Mar-2006 23:10"
+  },
+  {
+    "name": "06-263R02_HPMTS_Diag_1984.pdf",
+    "href": "06-263R02_HPMTS_Diag_1984.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/interdata/diag/06-263R02_HPMTS_Diag_1984.pdf",
+    "is_dir": false,
+    "size": "17.0 MiB",
+    "date": "15-Mar-2006 16:42"
+  },
+  {
+    "name": "06-268R02_IDC_Formatter_1984.pdf",
+    "href": "06-268R02_IDC_Formatter_1984.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/interdata/diag/06-268R02_IDC_Formatter_1984.pdf",
+    "is_dir": false,
+    "size": "1.0 MiB",
+    "date": "15-Mar-2006 07:11"
+  },
+  {
+    "name": "B06-106R11_Processor_Test_Program_197809.pdf",
+    "href": "B06-106R11_Processor_Test_Program_197809.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/interdata/diag/B06-106R11_Processor_Test_Program_197809.pdf",
+    "is_dir": false,
+    "size": "9.0 MiB",
+    "date": "23-Jun-2022 23:05"
+  },
+  {
+    "name": "B06-127R11_Common_RS-232_Interface_Offline_Test_Program_198012.pdf",
+    "href": "B06-127R11_Common_RS-232_Interface_Offline_Test_Program_198012.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/interdata/diag/B06-127R11_Common_RS-232_Interface_Offline_Test_Program_198012.pdf",
+    "is_dir": false,
+    "size": "7.4 MiB",
+    "date": "23-Jun-2022 23:05"
+  },
+  {
+    "name": "B06-129R09_Common_Universal_Logic_Interface_Test_197812.pdf",
+    "href": "B06-129R09_Common_Universal_Logic_Interface_Test_197812.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/interdata/diag/B06-129R09_Common_Universal_Logic_Interface_Test_197812.pdf",
+    "is_dir": false,
+    "size": "1.3 MiB",
+    "date": "23-Jun-2022 23:05"
+  },
+  {
+    "name": "B06-133R09_Common_Universal_Clock_Module_Test_198008.pdf",
+    "href": "B06-133R09_Common_Universal_Clock_Module_Test_198008.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/interdata/diag/B06-133R09_Common_Universal_Clock_Module_Test_198008.pdf",
+    "is_dir": false,
+    "size": "4.0 MiB",
+    "date": "23-Jun-2022 23:06"
+  },
+  {
+    "name": "B06-134R05_Common_Eight_Line_Interrupt_Module_Test_197712.pdf",
+    "href": "B06-134R05_Common_Eight_Line_Interrupt_Module_Test_197712.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/interdata/diag/B06-134R05_Common_Eight_Line_Interrupt_Module_Test_197712.pdf",
+    "is_dir": false,
+    "size": "4.0 MiB",
+    "date": "23-Jun-2022 23:06"
+  },
+  {
+    "name": "B06-136R04_Series_16_System_Exerciser_197806.pdf",
+    "href": "B06-136R04_Series_16_System_Exerciser_197806.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/interdata/diag/B06-136R04_Series_16_System_Exerciser_197806.pdf",
+    "is_dir": false,
+    "size": "9.9 MiB",
+    "date": "23-Jun-2022 23:06"
+  },
+  {
+    "name": "B06-154R03_Series32_ProcessorTest_Part1_Apr78.pdf",
+    "href": "B06-154R03_Series32_ProcessorTest_Part1_Apr78.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/interdata/diag/B06-154R03_Series32_ProcessorTest_Part1_Apr78.pdf",
+    "is_dir": false,
+    "size": "8.5 MiB",
+    "date": "15-Mar-2006 04:54"
+  },
+  {
+    "name": "B06-155R03_Series32_ProcessorTest_Part2_Mar76.pdf",
+    "href": "B06-155R03_Series32_ProcessorTest_Part2_Mar76.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/interdata/diag/B06-155R03_Series32_ProcessorTest_Part2_Mar76.pdf",
+    "is_dir": false,
+    "size": "7.8 MiB",
+    "date": "15-Mar-2006 06:59"
+  },
+  {
+    "name": "B06-156R04_32-Bit_Memory_Test_Program_198008.pdf",
+    "href": "B06-156R04_32-Bit_Memory_Test_Program_198008.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/interdata/diag/B06-156R04_32-Bit_Memory_Test_Program_198008.pdf",
+    "is_dir": false,
+    "size": "8.3 MiB",
+    "date": "23-Jun-2022 23:06"
+  },
+  {
+    "name": "B06-157R02_32-BitSeries6A_MemTest_Nov77.pdf",
+    "href": "B06-157R02_32-BitSeries6A_MemTest_Nov77.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/interdata/diag/B06-157R02_32-BitSeries6A_MemTest_Nov77.pdf",
+    "is_dir": false,
+    "size": "5.5 MiB",
+    "date": "15-Mar-2006 18:44"
+  },
+  {
+    "name": "B06-157R02_32_Bit_Series_6A_Memory_Test_197808.pdf",
+    "href": "B06-157R02_32_Bit_Series_6A_Memory_Test_197808.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/interdata/diag/B06-157R02_32_Bit_Series_6A_Memory_Test_197808.pdf",
+    "is_dir": false,
+    "size": "4.8 MiB",
+    "date": "23-Jun-2022 23:06"
+  },
+  {
+    "name": "B06-160R07_Memory_Access_Controller_Test_197911.pdf",
+    "href": "B06-160R07_Memory_Access_Controller_Test_197911.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/interdata/diag/B06-160R07_Memory_Access_Controller_Test_197911.pdf",
+    "is_dir": false,
+    "size": "8.8 MiB",
+    "date": "23-Jun-2022 23:06"
+  },
+  {
+    "name": "B06-161R09_32-Bit_Selector_Channel_Test_Program_198501.pdf",
+    "href": "B06-161R09_32-Bit_Selector_Channel_Test_Program_198501.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/interdata/diag/B06-161R09_32-Bit_Selector_Channel_Test_Program_198501.pdf",
+    "is_dir": false,
+    "size": "8.8 MiB",
+    "date": "23-Jun-2022 23:06"
+  },
+  {
+    "name": "B06-162R01_02-340_Memory_Test_Program_197808.pdf",
+    "href": "B06-162R01_02-340_Memory_Test_Program_197808.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/interdata/diag/B06-162R01_02-340_Memory_Test_Program_197808.pdf",
+    "is_dir": false,
+    "size": "1.6 MiB",
+    "date": "23-Jun-2022 23:06"
+  },
+  {
+    "name": "B06-170R03_Common_Line_Printer_Test_Program_197804.pdf",
+    "href": "B06-170R03_Common_Line_Printer_Test_Program_197804.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/interdata/diag/B06-170R03_Common_Line_Printer_Test_Program_197804.pdf",
+    "is_dir": false,
+    "size": "4.0 MiB",
+    "date": "23-Jun-2022 23:06"
+  },
+  {
+    "name": "B06-171R02_Common_Cassette_Test_Program_197510.pdf",
+    "href": "B06-171R02_Common_Cassette_Test_Program_197510.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/interdata/diag/B06-171R02_Common_Cassette_Test_Program_197510.pdf",
+    "is_dir": false,
+    "size": "7.2 MiB",
+    "date": "23-Jun-2022 23:06"
+  },
+  {
+    "name": "B06-172R05_Common_Magnetic_Tape_Test_Program_197812.pdf",
+    "href": "B06-172R05_Common_Magnetic_Tape_Test_Program_197812.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/interdata/diag/B06-172R05_Common_Magnetic_Tape_Test_Program_197812.pdf",
+    "is_dir": false,
+    "size": "8.0 MiB",
+    "date": "23-Jun-2022 23:07"
+  },
+  {
+    "name": "B06-172R07_Common_Magtape_Test_Jun79.pdf",
+    "href": "B06-172R07_Common_Magtape_Test_Jun79.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/interdata/diag/B06-172R07_Common_Magtape_Test_Jun79.pdf",
+    "is_dir": false,
+    "size": "7.0 MiB",
+    "date": "15-Mar-2006 19:33"
+  },
+  {
+    "name": "B06-173R03_Common_Disc_Test_-_Formatter_Program_197804.pdf",
+    "href": "B06-173R03_Common_Disc_Test_-_Formatter_Program_197804.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/interdata/diag/B06-173R03_Common_Disc_Test_-_Formatter_Program_197804.pdf",
+    "is_dir": false,
+    "size": "12.1 MiB",
+    "date": "23-Jun-2022 23:07"
+  },
+  {
+    "name": "B06-173R06_Common_Disc_Test_-_Formatter_Program_198002.pdf",
+    "href": "B06-173R06_Common_Disc_Test_-_Formatter_Program_198002.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/interdata/diag/B06-173R06_Common_Disc_Test_-_Formatter_Program_198002.pdf",
+    "is_dir": false,
+    "size": "8.4 MiB",
+    "date": "23-Jun-2022 23:07"
+  },
+  {
+    "name": "B06-176F02M99R02_MMD_Loader_Jun79.pdf",
+    "href": "B06-176F02M99R02_MMD_Loader_Jun79.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/interdata/diag/B06-176F02M99R02_MMD_Loader_Jun79.pdf",
+    "is_dir": false,
+    "size": "2.9 MiB",
+    "date": "13-Mar-2006 19:11"
+  },
+  {
+    "name": "B06-177F02M99R04_MMD_Generator_Feb82.pdf",
+    "href": "B06-177F02M99R04_MMD_Generator_Feb82.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/interdata/diag/B06-177F02M99R04_MMD_Generator_Feb82.pdf",
+    "is_dir": false,
+    "size": "6.4 MiB",
+    "date": "15-Mar-2006 17:39"
+  },
+  {
+    "name": "B06-177F02M99R04_Multi-Media_Diagnostic_Generator_32-Bit_198202.pdf",
+    "href": "B06-177F02M99R04_Multi-Media_Diagnostic_Generator_32-Bit_198202.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/interdata/diag/B06-177F02M99R04_Multi-Media_Diagnostic_Generator_32-Bit_198202.pdf",
+    "is_dir": false,
+    "size": "5.8 MiB",
+    "date": "23-Jun-2022 23:07"
+  },
+  {
+    "name": "B06-178R05_Series32_ProcessorTest_Part3_Jun78.pdf",
+    "href": "B06-178R05_Series32_ProcessorTest_Part3_Jun78.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/interdata/diag/B06-178R05_Series32_ProcessorTest_Part3_Jun78.pdf",
+    "is_dir": false,
+    "size": "3.3 MiB",
+    "date": "15-Mar-2006 07:01"
+  },
+  {
+    "name": "B06-194R01_6-16_Auto_Load_Option_Support_Program_197708.pdf",
+    "href": "B06-194R01_6-16_Auto_Load_Option_Support_Program_197708.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/interdata/diag/B06-194R01_6-16_Auto_Load_Option_Support_Program_197708.pdf",
+    "is_dir": false,
+    "size": "48.1 MiB",
+    "date": "23-Jun-2022 23:14"
+  },
+  {
+    "name": "B06-198R02_Common_Floppy_Disc_Test_Program_197806.pdf",
+    "href": "B06-198R02_Common_Floppy_Disc_Test_Program_197806.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/interdata/diag/B06-198R02_Common_Floppy_Disc_Test_Program_197806.pdf",
+    "is_dir": false,
+    "size": "8.2 MiB",
+    "date": "23-Jun-2022 23:20"
+  },
+  {
+    "name": "B06-200R02_MSM_Disc_Test_16_and_32_Bit_197804.pdf",
+    "href": "B06-200R02_MSM_Disc_Test_16_and_32_Bit_197804.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/interdata/diag/B06-200R02_MSM_Disc_Test_16_and_32_Bit_197804.pdf",
+    "is_dir": false,
+    "size": "18.7 MiB",
+    "date": "24-Jun-2022 00:07"
+  },
+  {
+    "name": "B06-202R01_Series_16_19-197_MOS_Memory_Test_Part_1_197805.pdf",
+    "href": "B06-202R01_Series_16_19-197_MOS_Memory_Test_Part_1_197805.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/interdata/diag/B06-202R01_Series_16_19-197_MOS_Memory_Test_Part_1_197805.pdf",
+    "is_dir": false,
+    "size": "10.1 MiB",
+    "date": "24-Jun-2022 00:08"
+  },
+  {
+    "name": "B06-204R01_Series_16_19-197_MOS_Memory_Test_Part_2_197805.pdf",
+    "href": "B06-204R01_Series_16_19-197_MOS_Memory_Test_Part_2_197805.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/interdata/diag/B06-204R01_Series_16_19-197_MOS_Memory_Test_Part_2_197805.pdf",
+    "is_dir": false,
+    "size": "7.5 MiB",
+    "date": "24-Jun-2022 00:08"
+  },
+  {
+    "name": "B06-208R00_Common_40Mb_Disc_Formatter_197707.pdf",
+    "href": "B06-208R00_Common_40Mb_Disc_Formatter_197707.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/interdata/diag/B06-208R00_Common_40Mb_Disc_Formatter_197707.pdf",
+    "is_dir": false,
+    "size": "4.8 MiB",
+    "date": "24-Jun-2022 00:08"
+  },
+  {
+    "name": "B06-211R00A15_Model_8-16E_Processor_Test_Part_1_197708.pdf",
+    "href": "B06-211R00A15_Model_8-16E_Processor_Test_Part_1_197708.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/interdata/diag/B06-211R00A15_Model_8-16E_Processor_Test_Part_1_197708.pdf",
+    "is_dir": false,
+    "size": "5.1 MiB",
+    "date": "24-Jun-2022 00:08"
+  },
+  {
+    "name": "B06-214R00_Series_16_19-221_MOS_Memory_Test_Part_2_197808.pdf",
+    "href": "B06-214R00_Series_16_19-221_MOS_Memory_Test_Part_2_197808.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/interdata/diag/B06-214R00_Series_16_19-221_MOS_Memory_Test_Part_2_197808.pdf",
+    "is_dir": false,
+    "size": "10.4 MiB",
+    "date": "24-Jun-2022 00:08"
+  },
+  {
+    "name": "B06-217R01_Model_1100_Terminal_Test_Program_16_and_32_Bit_197710.pdf",
+    "href": "B06-217R01_Model_1100_Terminal_Test_Program_16_and_32_Bit_197710.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/interdata/diag/B06-217R01_Model_1100_Terminal_Test_Program_16_and_32_Bit_197710.pdf",
+    "is_dir": false,
+    "size": "11.1 MiB",
+    "date": "24-Jun-2022 00:08"
+  },
+  {
+    "name": "B06-221R00_Model_8-16E_Extended_Memory_Test_197707.pdf",
+    "href": "B06-221R00_Model_8-16E_Extended_Memory_Test_197707.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/interdata/diag/B06-221R00_Model_8-16E_Extended_Memory_Test_197707.pdf",
+    "is_dir": false,
+    "size": "3.8 MiB",
+    "date": "24-Jun-2022 00:10"
+  },
+  {
+    "name": "B06-222R01_S16_SELCH_Test_Program_197905.pdf",
+    "href": "B06-222R01_S16_SELCH_Test_Program_197905.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/interdata/diag/B06-222R01_S16_SELCH_Test_Program_197905.pdf",
+    "is_dir": false,
+    "size": "5.7 MiB",
+    "date": "24-Jun-2022 00:15"
+  },
+  {
+    "name": "B06-223R01_8-16E_Memory_Protect_Test_197906.pdf",
+    "href": "B06-223R01_8-16E_Memory_Protect_Test_197906.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/interdata/diag/B06-223R01_8-16E_Memory_Protect_Test_197906.pdf",
+    "is_dir": false,
+    "size": "4.6 MiB",
+    "date": "24-Jun-2022 00:16"
+  },
+  {
+    "name": "B06-225R01_Floppy_Diagnostic_Loader-Generator_Test_Program_16_and_32_Bit_197907.pdf",
+    "href": "B06-225R01_Floppy_Diagnostic_Loader-Generator_Test_Program_16_and_32_Bit_197907.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/interdata/diag/B06-225R01_Floppy_Diagnostic_Loader-Generator_Test_Program_16_and_32_Bit_197907.pdf",
+    "is_dir": false,
+    "size": "7.1 MiB",
+    "date": "24-Jun-2022 00:24"
+  },
+  {
+    "name": "B06-232R01_Model_3220_Writable_Control_Store_Test_Program_198205.pdf",
+    "href": "B06-232R01_Model_3220_Writable_Control_Store_Test_Program_198205.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/interdata/diag/B06-232R01_Model_3220_Writable_Control_Store_Test_Program_198205.pdf",
+    "is_dir": false,
+    "size": "4.8 MiB",
+    "date": "24-Jun-2022 00:23"
+  },
+  {
+    "name": "B06-242R00_Series_16_Processor_Test_197906.pdf",
+    "href": "B06-242R00_Series_16_Processor_Test_197906.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/interdata/diag/B06-242R00_Series_16_Processor_Test_197906.pdf",
+    "is_dir": false,
+    "size": "7.2 MiB",
+    "date": "24-Jun-2022 00:32"
+  },
+  {
+    "name": "B06-251R00_Common_2.5_and_10_Megabyte_Disc_Formatter_Test_Program_197911.pdf",
+    "href": "B06-251R00_Common_2.5_and_10_Megabyte_Disc_Formatter_Test_Program_197911.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/interdata/diag/B06-251R00_Common_2.5_and_10_Megabyte_Disc_Formatter_Test_Program_197911.pdf",
+    "is_dir": false,
+    "size": "5.2 MiB",
+    "date": "24-Jun-2022 00:33"
+  }
+]

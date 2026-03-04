@@ -1,0 +1,34 @@
+[
+  {
+    "name": "firmware",
+    "href": "firmware/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/systel/system100/firmware/",
+    "is_dir": true,
+    "size": null,
+    "date": "30-May-2019 23:49"
+  },
+  {
+    "name": "pictures",
+    "href": "pictures/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/systel/system100/pictures/",
+    "is_dir": true,
+    "size": null,
+    "date": "30-May-2019 23:49"
+  },
+  {
+    "name": "system100_1.png",
+    "href": "system100_1.png",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/systel/system100/system100_1.png",
+    "is_dir": false,
+    "size": "278.5 KiB",
+    "date": "30-May-2019 23:49"
+  },
+  {
+    "name": "system100_2.png",
+    "href": "system100_2.png",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/systel/system100/system100_2.png",
+    "is_dir": false,
+    "size": "132.3 KiB",
+    "date": "30-May-2019 23:49"
+  }
+]

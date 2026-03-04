@@ -1,0 +1,66 @@
+[
+  {
+    "name": "firmware",
+    "href": "firmware/",
+    "url": "https://myrient.erista.me/files/bitsavers/components/intel/MCS8/firmware/",
+    "is_dir": true,
+    "size": null,
+    "date": "11-Jan-2013 15:49"
+  },
+  {
+    "name": "Intel_8008_8-Bit_Parallel_Central_Processing_Unit_Rev1_Apr72.pdf",
+    "href": "Intel_8008_8-Bit_Parallel_Central_Processing_Unit_Rev1_Apr72.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/intel/MCS8/Intel_8008_8-Bit_Parallel_Central_Processing_Unit_Rev1_Apr72.pdf",
+    "is_dir": false,
+    "size": "4.7 MiB",
+    "date": "05-Apr-2018 22:31"
+  },
+  {
+    "name": "Intel_8008_8-Bit_Parallel_Central_Processing_Unit_Rev2_Nov72.pdf",
+    "href": "Intel_8008_8-Bit_Parallel_Central_Processing_Unit_Rev2_Nov72.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/intel/MCS8/Intel_8008_8-Bit_Parallel_Central_Processing_Unit_Rev2_Nov72.pdf",
+    "is_dir": false,
+    "size": "5.9 MiB",
+    "date": "25-Dec-2002 03:50"
+  },
+  {
+    "name": "Intel_8008_8-Bit_Parallel_Central_Processing_Unit_Rev4_Nov73.pdf",
+    "href": "Intel_8008_8-Bit_Parallel_Central_Processing_Unit_Rev4_Nov73.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/intel/MCS8/Intel_8008_8-Bit_Parallel_Central_Processing_Unit_Rev4_Nov73.pdf",
+    "is_dir": false,
+    "size": "12.1 MiB",
+    "date": "15-Sep-2004 23:25"
+  },
+  {
+    "name": "Intel_Intellec_8_Intellec_4_Brochure.pdf",
+    "href": "Intel_Intellec_8_Intellec_4_Brochure.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/intel/MCS8/Intel_Intellec_8_Intellec_4_Brochure.pdf",
+    "is_dir": false,
+    "size": "6.7 MiB",
+    "date": "27-Aug-2013 01:04"
+  },
+  {
+    "name": "Intel_Intellec_8_Reference_Manual_Rev_1_Jun74.pdf",
+    "href": "Intel_Intellec_8_Reference_Manual_Rev_1_Jun74.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/intel/MCS8/Intel_Intellec_8_Reference_Manual_Rev_1_Jun74.pdf",
+    "is_dir": false,
+    "size": "13.4 MiB",
+    "date": "15-Jan-2015 05:57"
+  },
+  {
+    "name": "MCS-8_A_Guide_to_PLM_Programming_Sep73.pdf",
+    "href": "MCS-8_A_Guide_to_PLM_Programming_Sep73.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/intel/MCS8/MCS-8_A_Guide_to_PLM_Programming_Sep73.pdf",
+    "is_dir": false,
+    "size": "7.3 MiB",
+    "date": "15-Jan-2015 01:30"
+  },
+  {
+    "name": "MCS_8_Assembly_Language_Programming_Manual_Preliminary_Edition_Nov73.pdf",
+    "href": "MCS_8_Assembly_Language_Programming_Manual_Preliminary_Edition_Nov73.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/intel/MCS8/MCS_8_Assembly_Language_Programming_Manual_Preliminary_Edition_Nov73.pdf",
+    "is_dir": false,
+    "size": "10.6 MiB",
+    "date": "15-Jan-2015 01:29"
+  }
+]

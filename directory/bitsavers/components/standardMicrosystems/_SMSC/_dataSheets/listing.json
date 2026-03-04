@@ -1,0 +1,402 @@
+[
+  {
+    "name": "SMC_8031_CRT9028",
+    "href": "SMC_8031_CRT9028/",
+    "url": "https://myrient.erista.me/files/bitsavers/components/standardMicrosystems/_SMSC/_dataSheets/SMC_8031_CRT9028/",
+    "is_dir": true,
+    "size": null,
+    "date": "13-Jul-2018 17:15"
+  },
+  {
+    "name": "83C694.pdf",
+    "href": "83C694.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/standardMicrosystems/_SMSC/_dataSheets/83C694.pdf",
+    "is_dir": false,
+    "size": "199.0 KiB",
+    "date": "24-Jun-2022 14:53"
+  },
+  {
+    "name": "CAM35C44_199801.pdf",
+    "href": "CAM35C44_199801.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/standardMicrosystems/_SMSC/_dataSheets/CAM35C44_199801.pdf",
+    "is_dir": false,
+    "size": "811.5 KiB",
+    "date": "16-Nov-2025 17:21"
+  },
+  {
+    "name": "COM81C17.pdf",
+    "href": "COM81C17.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/standardMicrosystems/_SMSC/_dataSheets/COM81C17.pdf",
+    "is_dir": false,
+    "size": "292.2 KiB",
+    "date": "16-Nov-2025 17:20"
+  },
+  {
+    "name": "CRT92C07.pdf",
+    "href": "CRT92C07.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/standardMicrosystems/_SMSC/_dataSheets/CRT92C07.pdf",
+    "is_dir": false,
+    "size": "1.8 MiB",
+    "date": "16-Nov-2025 17:20"
+  },
+  {
+    "name": "DAC97S01_199804.pdf",
+    "href": "DAC97S01_199804.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/standardMicrosystems/_SMSC/_dataSheets/DAC97S01_199804.pdf",
+    "is_dir": false,
+    "size": "691.2 KiB",
+    "date": "16-Nov-2025 17:20"
+  },
+  {
+    "name": "FDC37B72x.pdf",
+    "href": "FDC37B72x.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/standardMicrosystems/_SMSC/_dataSheets/FDC37B72x.pdf",
+    "is_dir": false,
+    "size": "744.5 KiB",
+    "date": "24-Jun-2022 15:14"
+  },
+  {
+    "name": "FDC37B77x.pdf",
+    "href": "FDC37B77x.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/standardMicrosystems/_SMSC/_dataSheets/FDC37B77x.pdf",
+    "is_dir": false,
+    "size": "600.0 KiB",
+    "date": "24-Jun-2022 15:14"
+  },
+  {
+    "name": "FDC37C665GT_SuperIO.pdf",
+    "href": "FDC37C665GT_SuperIO.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/standardMicrosystems/_SMSC/_dataSheets/FDC37C665GT_SuperIO.pdf",
+    "is_dir": false,
+    "size": "916.4 KiB",
+    "date": "24-Jun-2022 14:53"
+  },
+  {
+    "name": "FDC37C665LV_1994.pdf",
+    "href": "FDC37C665LV_1994.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/standardMicrosystems/_SMSC/_dataSheets/FDC37C665LV_1994.pdf",
+    "is_dir": false,
+    "size": "4.0 MiB",
+    "date": "16-Nov-2025 17:20"
+  },
+  {
+    "name": "FDC37C667.pdf",
+    "href": "FDC37C667.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/standardMicrosystems/_SMSC/_dataSheets/FDC37C667.pdf",
+    "is_dir": false,
+    "size": "4.2 MiB",
+    "date": "16-Nov-2025 17:20"
+  },
+  {
+    "name": "FDC37C669FR.pdf",
+    "href": "FDC37C669FR.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/standardMicrosystems/_SMSC/_dataSheets/FDC37C669FR.pdf",
+    "is_dir": false,
+    "size": "4.3 MiB",
+    "date": "16-Nov-2025 17:20"
+  },
+  {
+    "name": "FDC37C67x_199706.pdf",
+    "href": "FDC37C67x_199706.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/standardMicrosystems/_SMSC/_dataSheets/FDC37C67x_199706.pdf",
+    "is_dir": false,
+    "size": "3.2 MiB",
+    "date": "16-Nov-2025 17:55"
+  },
+  {
+    "name": "FDC37C68x_199612.pdf",
+    "href": "FDC37C68x_199612.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/standardMicrosystems/_SMSC/_dataSheets/FDC37C68x_199612.pdf",
+    "is_dir": false,
+    "size": "3.4 MiB",
+    "date": "16-Nov-2025 17:48"
+  },
+  {
+    "name": "FDC37C78.pdf",
+    "href": "FDC37C78.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/standardMicrosystems/_SMSC/_dataSheets/FDC37C78.pdf",
+    "is_dir": false,
+    "size": "357.9 KiB",
+    "date": "24-Jun-2022 14:53"
+  },
+  {
+    "name": "FDC37C78_199604.pdf",
+    "href": "FDC37C78_199604.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/standardMicrosystems/_SMSC/_dataSheets/FDC37C78_199604.pdf",
+    "is_dir": false,
+    "size": "1.2 MiB",
+    "date": "16-Nov-2025 17:43"
+  },
+  {
+    "name": "FDC37C922.pdf",
+    "href": "FDC37C922.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/standardMicrosystems/_SMSC/_dataSheets/FDC37C922.pdf",
+    "is_dir": false,
+    "size": "110.4 KiB",
+    "date": "16-Nov-2025 17:20"
+  },
+  {
+    "name": "FDC37C93xAPM_199609.pdf",
+    "href": "FDC37C93xAPM_199609.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/standardMicrosystems/_SMSC/_dataSheets/FDC37C93xAPM_199609.pdf",
+    "is_dir": false,
+    "size": "4.7 MiB",
+    "date": "16-Nov-2025 17:43"
+  },
+  {
+    "name": "FDC37M60x_199706.pdf",
+    "href": "FDC37M60x_199706.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/standardMicrosystems/_SMSC/_dataSheets/FDC37M60x_199706.pdf",
+    "is_dir": false,
+    "size": "3.0 MiB",
+    "date": "16-Nov-2025 17:20"
+  },
+  {
+    "name": "FDC37M61x_199706.pdf",
+    "href": "FDC37M61x_199706.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/standardMicrosystems/_SMSC/_dataSheets/FDC37M61x_199706.pdf",
+    "is_dir": false,
+    "size": "3.0 MiB",
+    "date": "16-Nov-2025 17:20"
+  },
+  {
+    "name": "FDC37M70x_199801.pdf",
+    "href": "FDC37M70x_199801.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/standardMicrosystems/_SMSC/_dataSheets/FDC37M70x_199801.pdf",
+    "is_dir": false,
+    "size": "3.5 MiB",
+    "date": "16-Nov-2025 17:20"
+  },
+  {
+    "name": "FDC37N769_199706.pdf",
+    "href": "FDC37N769_199706.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/standardMicrosystems/_SMSC/_dataSheets/FDC37N769_199706.pdf",
+    "is_dir": false,
+    "size": "3.3 MiB",
+    "date": "16-Nov-2025 17:20"
+  },
+  {
+    "name": "KBD42W11.pdf",
+    "href": "KBD42W11.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/standardMicrosystems/_SMSC/_dataSheets/KBD42W11.pdf",
+    "is_dir": false,
+    "size": "103.6 KiB",
+    "date": "24-Jun-2022 14:53"
+  },
+  {
+    "name": "LAN83C171.pdf",
+    "href": "LAN83C171.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/standardMicrosystems/_SMSC/_dataSheets/LAN83C171.pdf",
+    "is_dir": false,
+    "size": "339.5 KiB",
+    "date": "24-Jun-2022 15:14"
+  },
+  {
+    "name": "LAN83C171_199708.pdf",
+    "href": "LAN83C171_199708.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/standardMicrosystems/_SMSC/_dataSheets/LAN83C171_199708.pdf",
+    "is_dir": false,
+    "size": "2.0 MiB",
+    "date": "16-Nov-2025 17:20"
+  },
+  {
+    "name": "LAN83C175.pdf",
+    "href": "LAN83C175.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/standardMicrosystems/_SMSC/_dataSheets/LAN83C175.pdf",
+    "is_dir": false,
+    "size": "309.5 KiB",
+    "date": "24-Jun-2022 15:14"
+  },
+  {
+    "name": "LAN83C175_199707.pdf",
+    "href": "LAN83C175_199707.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/standardMicrosystems/_SMSC/_dataSheets/LAN83C175_199707.pdf",
+    "is_dir": false,
+    "size": "1.9 MiB",
+    "date": "16-Nov-2025 17:20"
+  },
+  {
+    "name": "LAN83C180_199804.pdf",
+    "href": "LAN83C180_199804.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/standardMicrosystems/_SMSC/_dataSheets/LAN83C180_199804.pdf",
+    "is_dir": false,
+    "size": "515.5 KiB",
+    "date": "16-Nov-2025 17:20"
+  },
+  {
+    "name": "LAN83C180_200003.pdf",
+    "href": "LAN83C180_200003.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/standardMicrosystems/_SMSC/_dataSheets/LAN83C180_200003.pdf",
+    "is_dir": false,
+    "size": "161.1 KiB",
+    "date": "24-Jun-2022 14:53"
+  },
+  {
+    "name": "LAN83C183.pdf",
+    "href": "LAN83C183.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/standardMicrosystems/_SMSC/_dataSheets/LAN83C183.pdf",
+    "is_dir": false,
+    "size": "285.9 KiB",
+    "date": "24-Jun-2022 14:53"
+  },
+  {
+    "name": "LAN91C111_201106.pdf",
+    "href": "LAN91C111_201106.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/standardMicrosystems/_SMSC/_dataSheets/LAN91C111_201106.pdf",
+    "is_dir": false,
+    "size": "1.6 MiB",
+    "date": "24-Jun-2022 15:00"
+  },
+  {
+    "name": "LAN91C95_199707.pdf",
+    "href": "LAN91C95_199707.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/standardMicrosystems/_SMSC/_dataSheets/LAN91C95_199707.pdf",
+    "is_dir": false,
+    "size": "3.5 MiB",
+    "date": "16-Nov-2025 17:20"
+  },
+  {
+    "name": "LAN91C96.pdf",
+    "href": "LAN91C96.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/standardMicrosystems/_SMSC/_dataSheets/LAN91C96.pdf",
+    "is_dir": false,
+    "size": "452.8 KiB",
+    "date": "24-Jun-2022 15:34"
+  },
+  {
+    "name": "LAN91C96_Data_Brief.pdf",
+    "href": "LAN91C96_Data_Brief.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/standardMicrosystems/_SMSC/_dataSheets/LAN91C96_Data_Brief.pdf",
+    "is_dir": false,
+    "size": "113.7 KiB",
+    "date": "24-Jun-2022 15:33"
+  },
+  {
+    "name": "LPC47B27x.pdf",
+    "href": "LPC47B27x.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/standardMicrosystems/_SMSC/_dataSheets/LPC47B27x.pdf",
+    "is_dir": false,
+    "size": "765.4 KiB",
+    "date": "24-Jun-2022 15:13"
+  },
+  {
+    "name": "LPC47M10x.pdf",
+    "href": "LPC47M10x.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/standardMicrosystems/_SMSC/_dataSheets/LPC47M10x.pdf",
+    "is_dir": false,
+    "size": "1.4 MiB",
+    "date": "24-Jun-2022 15:13"
+  },
+  {
+    "name": "LPC47N217_200702.pdf",
+    "href": "LPC47N217_200702.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/standardMicrosystems/_SMSC/_dataSheets/LPC47N217_200702.pdf",
+    "is_dir": false,
+    "size": "93.8 KiB",
+    "date": "24-Jun-2022 14:53"
+  },
+  {
+    "name": "LPC47S42x.pdf",
+    "href": "LPC47S42x.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/standardMicrosystems/_SMSC/_dataSheets/LPC47S42x.pdf",
+    "is_dir": false,
+    "size": "894.6 KiB",
+    "date": "24-Jun-2022 15:13"
+  },
+  {
+    "name": "PPC34C60_199411.pdf",
+    "href": "PPC34C60_199411.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/standardMicrosystems/_SMSC/_dataSheets/PPC34C60_199411.pdf",
+    "is_dir": false,
+    "size": "1.2 MiB",
+    "date": "16-Nov-2025 17:20"
+  },
+  {
+    "name": "SCH3112_3114_3116_200706.pdf",
+    "href": "SCH3112_3114_3116_200706.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/standardMicrosystems/_SMSC/_dataSheets/SCH3112_3114_3116_200706.pdf",
+    "is_dir": false,
+    "size": "287.0 KiB",
+    "date": "24-Jun-2022 14:53"
+  },
+  {
+    "name": "SCH311X_200611.pdf",
+    "href": "SCH311X_200611.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/standardMicrosystems/_SMSC/_dataSheets/SCH311X_200611.pdf",
+    "is_dir": false,
+    "size": "2.9 MiB",
+    "date": "24-Jun-2022 14:53"
+  },
+  {
+    "name": "SIO1000_200703.pdf",
+    "href": "SIO1000_200703.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/standardMicrosystems/_SMSC/_dataSheets/SIO1000_200703.pdf",
+    "is_dir": false,
+    "size": "159.6 KiB",
+    "date": "24-Jun-2022 14:53"
+  },
+  {
+    "name": "SLC88B17_PCI-ISA_Bridge.pdf",
+    "href": "SLC88B17_PCI-ISA_Bridge.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/standardMicrosystems/_SMSC/_dataSheets/SLC88B17_PCI-ISA_Bridge.pdf",
+    "is_dir": false,
+    "size": "156.4 KiB",
+    "date": "24-Jun-2022 14:53"
+  },
+  {
+    "name": "SLC90E46_199805.pdf",
+    "href": "SLC90E46_199805.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/standardMicrosystems/_SMSC/_dataSheets/SLC90E46_199805.pdf",
+    "is_dir": false,
+    "size": "8.4 MiB",
+    "date": "16-Nov-2025 17:21"
+  },
+  {
+    "name": "SMC91C100FD.pdf",
+    "href": "SMC91C100FD.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/standardMicrosystems/_SMSC/_dataSheets/SMC91C100FD.pdf",
+    "is_dir": false,
+    "size": "3.3 MiB",
+    "date": "24-Jun-2022 15:34"
+  },
+  {
+    "name": "USB97C100.pdf",
+    "href": "USB97C100.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/standardMicrosystems/_SMSC/_dataSheets/USB97C100.pdf",
+    "is_dir": false,
+    "size": "274.0 KiB",
+    "date": "24-Jun-2022 15:14"
+  },
+  {
+    "name": "USB97C100_199806.pdf",
+    "href": "USB97C100_199806.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/standardMicrosystems/_SMSC/_dataSheets/USB97C100_199806.pdf",
+    "is_dir": false,
+    "size": "1.3 MiB",
+    "date": "16-Nov-2025 17:20"
+  },
+  {
+    "name": "USB97C102.pdf",
+    "href": "USB97C102.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/standardMicrosystems/_SMSC/_dataSheets/USB97C102.pdf",
+    "is_dir": false,
+    "size": "575.4 KiB",
+    "date": "24-Jun-2022 15:13"
+  },
+  {
+    "name": "USB97C196.pdf",
+    "href": "USB97C196.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/standardMicrosystems/_SMSC/_dataSheets/USB97C196.pdf",
+    "is_dir": false,
+    "size": "465.8 KiB",
+    "date": "24-Jun-2022 14:53"
+  },
+  {
+    "name": "USB97CFDC_200003.pdf",
+    "href": "USB97CFDC_200003.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/standardMicrosystems/_SMSC/_dataSheets/USB97CFDC_200003.pdf",
+    "is_dir": false,
+    "size": "171.5 KiB",
+    "date": "24-Jun-2022 14:53"
+  }
+]

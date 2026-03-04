@@ -1,0 +1,1010 @@
+[
+  {
+    "name": "ADD1.MAC",
+    "href": "ADD1.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-147/ADD1.MAC",
+    "is_dir": false,
+    "size": "1023 B",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "ADDR.MAC",
+    "href": "ADDR.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-147/ADDR.MAC",
+    "is_dir": false,
+    "size": "268 B",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "ADR.MAC",
+    "href": "ADR.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-147/ADR.MAC",
+    "is_dir": false,
+    "size": "3.3 KiB",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "ADVANC.MAC",
+    "href": "ADVANC.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-147/ADVANC.MAC",
+    "is_dir": false,
+    "size": "3.9 KiB",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "ALIST.MAC",
+    "href": "ALIST.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-147/ALIST.MAC",
+    "is_dir": false,
+    "size": "212 B",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "ALLOCA.MAC",
+    "href": "ALLOCA.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-147/ALLOCA.MAC",
+    "is_dir": false,
+    "size": "2.3 KiB",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "ALPHAP.MAC",
+    "href": "ALPHAP.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-147/ALPHAP.MAC",
+    "is_dir": false,
+    "size": "746 B",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "AND.MAC",
+    "href": "AND.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-147/AND.MAC",
+    "is_dir": false,
+    "size": "508 B",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "APPEND.MAC",
+    "href": "APPEND.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-147/APPEND.MAC",
+    "is_dir": false,
+    "size": "535 B",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "APPLY.MAC",
+    "href": "APPLY.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-147/APPLY.MAC",
+    "is_dir": false,
+    "size": "2.6 KiB",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "ARRAY.MAC",
+    "href": "ARRAY.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-147/ARRAY.MAC",
+    "is_dir": false,
+    "size": "5.1 KiB",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "ATM2N.MAC",
+    "href": "ATM2N.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-147/ATM2N.MAC",
+    "is_dir": false,
+    "size": "778 B",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "ATOM.MAC",
+    "href": "ATOM.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-147/ATOM.MAC",
+    "is_dir": false,
+    "size": "1.8 KiB",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "BLDLIB.CTL",
+    "href": "BLDLIB.CTL",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-147/BLDLIB.CTL",
+    "is_dir": false,
+    "size": "3.4 KiB",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "CAR.MAC",
+    "href": "CAR.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-147/CAR.MAC",
+    "is_dir": false,
+    "size": "1.0 KiB",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "CARCDR.MAC",
+    "href": "CARCDR.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-147/CARCDR.MAC",
+    "is_dir": false,
+    "size": "873 B",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "CDR.MAC",
+    "href": "CDR.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-147/CDR.MAC",
+    "is_dir": false,
+    "size": "926 B",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "CHLEX.MAC",
+    "href": "CHLEX.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-147/CHLEX.MAC",
+    "is_dir": false,
+    "size": "1.6 KiB",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "CMR.MAC",
+    "href": "CMR.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-147/CMR.MAC",
+    "is_dir": false,
+    "size": "777 B",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "CONC.MAC",
+    "href": "CONC.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-147/CONC.MAC",
+    "is_dir": false,
+    "size": "573 B",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "COND.MAC",
+    "href": "COND.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-147/COND.MAC",
+    "is_dir": false,
+    "size": "925 B",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "CONS.MAC",
+    "href": "CONS.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-147/CONS.MAC",
+    "is_dir": false,
+    "size": "416 B",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "COPY.MAC",
+    "href": "COPY.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-147/COPY.MAC",
+    "is_dir": false,
+    "size": "1.2 KiB",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "CTRLC.MAC",
+    "href": "CTRLC.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-147/CTRLC.MAC",
+    "is_dir": false,
+    "size": "848 B",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "DEFINE.MAC",
+    "href": "DEFINE.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-147/DEFINE.MAC",
+    "is_dir": false,
+    "size": "338 B",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "DEFLIS.MAC",
+    "href": "DEFLIS.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-147/DEFLIS.MAC",
+    "is_dir": false,
+    "size": "885 B",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "DIFFER.MAC",
+    "href": "DIFFER.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-147/DIFFER.MAC",
+    "is_dir": false,
+    "size": "1.8 KiB",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "DIVIDE.MAC",
+    "href": "DIVIDE.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-147/DIVIDE.MAC",
+    "is_dir": false,
+    "size": "4.8 KiB",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "DVI.MAC",
+    "href": "DVI.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-147/DVI.MAC",
+    "is_dir": false,
+    "size": "1.3 KiB",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "DVR.MAC",
+    "href": "DVR.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-147/DVR.MAC",
+    "is_dir": false,
+    "size": "3.3 KiB",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "EFFACE.MAC",
+    "href": "EFFACE.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-147/EFFACE.MAC",
+    "is_dir": false,
+    "size": "872 B",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "EQN.MAC",
+    "href": "EQN.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-147/EQN.MAC",
+    "is_dir": false,
+    "size": "2.0 KiB",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "EQUAL.MAC",
+    "href": "EQUAL.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-147/EQUAL.MAC",
+    "is_dir": false,
+    "size": "779 B",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "ERROR.MAC",
+    "href": "ERROR.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-147/ERROR.MAC",
+    "is_dir": false,
+    "size": "6.9 KiB",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "ERRSET.MAC",
+    "href": "ERRSET.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-147/ERRSET.MAC",
+    "is_dir": false,
+    "size": "613 B",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "EVAL.MAC",
+    "href": "EVAL.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-147/EVAL.MAC",
+    "is_dir": false,
+    "size": "6.7 KiB",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "EVALQU.MAC",
+    "href": "EVALQU.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-147/EVALQU.MAC",
+    "is_dir": false,
+    "size": "766 B",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "EVLIS.MAC",
+    "href": "EVLIS.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-147/EVLIS.MAC",
+    "is_dir": false,
+    "size": "1.1 KiB",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "FIX.MAC",
+    "href": "FIX.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-147/FIX.MAC",
+    "is_dir": false,
+    "size": "335 B",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "FLOAT.MAC",
+    "href": "FLOAT.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-147/FLOAT.MAC",
+    "is_dir": false,
+    "size": "325 B",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "FLOP.CMD",
+    "href": "FLOP.CMD",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-147/FLOP.CMD",
+    "is_dir": false,
+    "size": "2.6 KiB",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "FPMP.MAC",
+    "href": "FPMP.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-147/FPMP.MAC",
+    "is_dir": false,
+    "size": "81.9 KiB",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "FREE.MAC",
+    "href": "FREE.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-147/FREE.MAC",
+    "is_dir": false,
+    "size": "280 B",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "GENSYM.MAC",
+    "href": "GENSYM.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-147/GENSYM.MAC",
+    "is_dir": false,
+    "size": "1.1 KiB",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "GET.MAC",
+    "href": "GET.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-147/GET.MAC",
+    "is_dir": false,
+    "size": "444 B",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "GETC.MAC",
+    "href": "GETC.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-147/GETC.MAC",
+    "is_dir": false,
+    "size": "681 B",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "GO.MAC",
+    "href": "GO.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-147/GO.MAC",
+    "is_dir": false,
+    "size": "1.3 KiB",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "GRADP.MAC",
+    "href": "GRADP.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-147/GRADP.MAC",
+    "is_dir": false,
+    "size": "359 B",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "GREATE.MAC",
+    "href": "GREATE.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-147/GREATE.MAC",
+    "is_dir": false,
+    "size": "2.1 KiB",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "HASH.MAC",
+    "href": "HASH.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-147/HASH.MAC",
+    "is_dir": false,
+    "size": "581 B",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "I2ATM.MAC",
+    "href": "I2ATM.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-147/I2ATM.MAC",
+    "is_dir": false,
+    "size": "393 B",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "ICO.MAC",
+    "href": "ICO.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-147/ICO.MAC",
+    "is_dir": false,
+    "size": "1.5 KiB",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "INTERN.MAC",
+    "href": "INTERN.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-147/INTERN.MAC",
+    "is_dir": false,
+    "size": "2.2 KiB",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "IR.MAC",
+    "href": "IR.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-147/IR.MAC",
+    "is_dir": false,
+    "size": "1.7 KiB",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "LENGTH.MAC",
+    "href": "LENGTH.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-147/LENGTH.MAC",
+    "is_dir": false,
+    "size": "421 B",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "LISP.DOC",
+    "href": "LISP.DOC",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-147/LISP.DOC",
+    "is_dir": false,
+    "size": "6.6 KiB",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "LISP.MAC",
+    "href": "LISP.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-147/LISP.MAC",
+    "is_dir": false,
+    "size": "26.8 KiB",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "LISP.MAP",
+    "href": "LISP.MAP",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-147/LISP.MAP",
+    "is_dir": false,
+    "size": "11.8 KiB",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "LISP.RNO",
+    "href": "LISP.RNO",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-147/LISP.RNO",
+    "is_dir": false,
+    "size": "5.4 KiB",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "LOAD.MAC",
+    "href": "LOAD.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-147/LOAD.MAC",
+    "is_dir": false,
+    "size": "307 B",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "LOGAND.MAC",
+    "href": "LOGAND.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-147/LOGAND.MAC",
+    "is_dir": false,
+    "size": "472 B",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "LOGOR.MAC",
+    "href": "LOGOR.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-147/LOGOR.MAC",
+    "is_dir": false,
+    "size": "452 B",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "LOGXOR.MAC",
+    "href": "LOGXOR.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-147/LOGXOR.MAC",
+    "is_dir": false,
+    "size": "508 B",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "LOOK.MAC",
+    "href": "LOOK.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-147/LOOK.MAC",
+    "is_dir": false,
+    "size": "605 B",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "LSHIFT.MAC",
+    "href": "LSHIFT.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-147/LSHIFT.MAC",
+    "is_dir": false,
+    "size": "533 B",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "LSPMAC.MAC",
+    "href": "LSPMAC.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-147/LSPMAC.MAC",
+    "is_dir": false,
+    "size": "1.7 KiB",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "MAINLO.MAC",
+    "href": "MAINLO.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-147/MAINLO.MAC",
+    "is_dir": false,
+    "size": "2.1 KiB",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "MAP.MAC",
+    "href": "MAP.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-147/MAP.MAC",
+    "is_dir": false,
+    "size": "1.7 KiB",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "MAX.MAC",
+    "href": "MAX.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-147/MAX.MAC",
+    "is_dir": false,
+    "size": "2.1 KiB",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "MEMBER.MAC",
+    "href": "MEMBER.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-147/MEMBER.MAC",
+    "is_dir": false,
+    "size": "526 B",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "MEMQ.MAC",
+    "href": "MEMQ.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-147/MEMQ.MAC",
+    "is_dir": false,
+    "size": "433 B",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "MIN.MAC",
+    "href": "MIN.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-147/MIN.MAC",
+    "is_dir": false,
+    "size": "2.1 KiB",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "MINUS.MAC",
+    "href": "MINUS.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-147/MINUS.MAC",
+    "is_dir": false,
+    "size": "699 B",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "MLI.MAC",
+    "href": "MLI.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-147/MLI.MAC",
+    "is_dir": false,
+    "size": "1.4 KiB",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "MLR.MAC",
+    "href": "MLR.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-147/MLR.MAC",
+    "is_dir": false,
+    "size": "4.1 KiB",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "NCONC.MAC",
+    "href": "NCONC.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-147/NCONC.MAC",
+    "is_dir": false,
+    "size": "568 B",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "OCI.MAC",
+    "href": "OCI.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-147/OCI.MAC",
+    "is_dir": false,
+    "size": "837 B",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "OR.MAC",
+    "href": "OR.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-147/OR.MAC",
+    "is_dir": false,
+    "size": "495 B",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "PAIR.MAC",
+    "href": "PAIR.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-147/PAIR.MAC",
+    "is_dir": false,
+    "size": "992 B",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "PLUS.MAC",
+    "href": "PLUS.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-147/PLUS.MAC",
+    "is_dir": false,
+    "size": "2.5 KiB",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "PNAME.MAC",
+    "href": "PNAME.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-147/PNAME.MAC",
+    "is_dir": false,
+    "size": "4.8 KiB",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "PNBUFI.MAC",
+    "href": "PNBUFI.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-147/PNBUFI.MAC",
+    "is_dir": false,
+    "size": "666 B",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "PNMBLD.MAC",
+    "href": "PNMBLD.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-147/PNMBLD.MAC",
+    "is_dir": false,
+    "size": "445 B",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "PRINT.MAC",
+    "href": "PRINT.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-147/PRINT.MAC",
+    "is_dir": false,
+    "size": "2.5 KiB",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "PRNT.MAC",
+    "href": "PRNT.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-147/PRNT.MAC",
+    "is_dir": false,
+    "size": "2.6 KiB",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "PROG.MAC",
+    "href": "PROG.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-147/PROG.MAC",
+    "is_dir": false,
+    "size": "1.4 KiB",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "PROGN.MAC",
+    "href": "PROGN.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-147/PROGN.MAC",
+    "is_dir": false,
+    "size": "588 B",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "PROP.MAC",
+    "href": "PROP.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-147/PROP.MAC",
+    "is_dir": false,
+    "size": "459 B",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "PUT.MAC",
+    "href": "PUT.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-147/PUT.MAC",
+    "is_dir": false,
+    "size": "1.1 KiB",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "R2ATM.MAC",
+    "href": "R2ATM.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-147/R2ATM.MAC",
+    "is_dir": false,
+    "size": "433 B",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "RANDOM.MAC",
+    "href": "RANDOM.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-147/RANDOM.MAC",
+    "is_dir": false,
+    "size": "829 B",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "RCI.MAC",
+    "href": "RCI.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-147/RCI.MAC",
+    "is_dir": false,
+    "size": "3.9 KiB",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "RCO.MAC",
+    "href": "RCO.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-147/RCO.MAC",
+    "is_dir": false,
+    "size": "5.1 KiB",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "READ.MAC",
+    "href": "READ.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-147/READ.MAC",
+    "is_dir": false,
+    "size": "9.6 KiB",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "RECLAI.MAC",
+    "href": "RECLAI.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-147/RECLAI.MAC",
+    "is_dir": false,
+    "size": "9.6 KiB",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "REMOB.MAC",
+    "href": "REMOB.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-147/REMOB.MAC",
+    "is_dir": false,
+    "size": "641 B",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "REMPRO.MAC",
+    "href": "REMPRO.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-147/REMPRO.MAC",
+    "is_dir": false,
+    "size": "446 B",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "RETURN.MAC",
+    "href": "RETURN.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-147/RETURN.MAC",
+    "is_dir": false,
+    "size": "887 B",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "REVERS.MAC",
+    "href": "REVERS.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-147/REVERS.MAC",
+    "is_dir": false,
+    "size": "423 B",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "REVIP.MAC",
+    "href": "REVIP.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-147/REVIP.MAC",
+    "is_dir": false,
+    "size": "329 B",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "RI.MAC",
+    "href": "RI.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-147/RI.MAC",
+    "is_dir": false,
+    "size": "1.3 KiB",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "RPLACA.MAC",
+    "href": "RPLACA.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-147/RPLACA.MAC",
+    "is_dir": false,
+    "size": "589 B",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "SASSOC.MAC",
+    "href": "SASSOC.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-147/SASSOC.MAC",
+    "is_dir": false,
+    "size": "764 B",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "SEARCH.MAC",
+    "href": "SEARCH.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-147/SEARCH.MAC",
+    "is_dir": false,
+    "size": "719 B",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "SELECT.MAC",
+    "href": "SELECT.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-147/SELECT.MAC",
+    "is_dir": false,
+    "size": "1.1 KiB",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "SET.MAC",
+    "href": "SET.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-147/SET.MAC",
+    "is_dir": false,
+    "size": "2.0 KiB",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "SIZE.MAC",
+    "href": "SIZE.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-147/SIZE.MAC",
+    "is_dir": false,
+    "size": "1.4 KiB",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "SPL.MAC",
+    "href": "SPL.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-147/SPL.MAC",
+    "is_dir": false,
+    "size": "1.1 KiB",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "STRBLD.MAC",
+    "href": "STRBLD.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-147/STRBLD.MAC",
+    "is_dir": false,
+    "size": "994 B",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "STRING.MAC",
+    "href": "STRING.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-147/STRING.MAC",
+    "is_dir": false,
+    "size": "6.6 KiB",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "SUB1.MAC",
+    "href": "SUB1.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-147/SUB1.MAC",
+    "is_dir": false,
+    "size": "1.0 KiB",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "SUBLIS.MAC",
+    "href": "SUBLIS.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-147/SUBLIS.MAC",
+    "is_dir": false,
+    "size": "621 B",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "SUBST.MAC",
+    "href": "SUBST.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-147/SUBST.MAC",
+    "is_dir": false,
+    "size": "1.1 KiB",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "SYSIN.MAC",
+    "href": "SYSIN.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-147/SYSIN.MAC",
+    "is_dir": false,
+    "size": "9.3 KiB",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "SYSMAC.MAC",
+    "href": "SYSMAC.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-147/SYSMAC.MAC",
+    "is_dir": false,
+    "size": "10.8 KiB",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "TAPE.CMD",
+    "href": "TAPE.CMD",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-147/TAPE.CMD",
+    "is_dir": false,
+    "size": "2.6 KiB",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "TEMPUS.MAC",
+    "href": "TEMPUS.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-147/TEMPUS.MAC",
+    "is_dir": false,
+    "size": "312 B",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "TIMER.MAC",
+    "href": "TIMER.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-147/TIMER.MAC",
+    "is_dir": false,
+    "size": "681 B",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "TIMES.MAC",
+    "href": "TIMES.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-147/TIMES.MAC",
+    "is_dir": false,
+    "size": "2.7 KiB",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "TRACE.MAC",
+    "href": "TRACE.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-147/TRACE.MAC",
+    "is_dir": false,
+    "size": "515 B",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "TRSET.MAC",
+    "href": "TRSET.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-147/TRSET.MAC",
+    "is_dir": false,
+    "size": "512 B",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "TSTJAB.LSP",
+    "href": "TSTJAB.LSP",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-147/TSTJAB.LSP",
+    "is_dir": false,
+    "size": "2.6 KiB",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "UNDEF.MAC",
+    "href": "UNDEF.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-147/UNDEF.MAC",
+    "is_dir": false,
+    "size": "711 B",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "UNTRAC.MAC",
+    "href": "UNTRAC.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-147/UNTRAC.MAC",
+    "is_dir": false,
+    "size": "409 B",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "UNTRSE.MAC",
+    "href": "UNTRSE.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-147/UNTRSE.MAC",
+    "is_dir": false,
+    "size": "445 B",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "index.html",
+    "href": "index.html",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-147/index.html",
+    "is_dir": false,
+    "size": "12.6 KiB",
+    "date": "13-Feb-2000 03:15"
+  }
+]

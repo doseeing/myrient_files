@@ -1,0 +1,386 @@
+[
+  {
+    "name": "XVM",
+    "href": "XVM/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp15/XVM/",
+    "is_dir": true,
+    "size": null,
+    "date": "05-Aug-2021 00:26"
+  },
+  {
+    "name": "diag",
+    "href": "diag/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp15/diag/",
+    "is_dir": true,
+    "size": null,
+    "date": "26-Sep-2016 18:45"
+  },
+  {
+    "name": "hardware",
+    "href": "hardware/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp15/hardware/",
+    "is_dir": true,
+    "size": null,
+    "date": "23-Apr-2025 20:22"
+  },
+  {
+    "name": "memos",
+    "href": "memos/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp15/memos/",
+    "is_dir": true,
+    "size": null,
+    "date": "23-Apr-2025 20:22"
+  },
+  {
+    "name": "1970_PDP15PriceList.pdf",
+    "href": "1970_PDP15PriceList.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp15/1970_PDP15PriceList.pdf",
+    "is_dir": false,
+    "size": "3.6 MiB",
+    "date": "03-May-2016 00:10"
+  },
+  {
+    "name": "DEC-15-AMZA-D_PDP-15-MACRO-15_Assembler_Programmers_Reference_Manual_196910.pdf",
+    "href": "DEC-15-AMZA-D_PDP-15-MACRO-15_Assembler_Programmers_Reference_Manual_196910.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp15/DEC-15-AMZA-D_PDP-15-MACRO-15_Assembler_Programmers_Reference_Manual_196910.pdf",
+    "is_dir": false,
+    "size": "3.7 MiB",
+    "date": "23-Apr-2025 20:53"
+  },
+  {
+    "name": "DEC-15-AMZB-D_PDP-15_MACRO-15_Assembler_Programmers_Reference_Manual_197206.pdf",
+    "href": "DEC-15-AMZB-D_PDP-15_MACRO-15_Assembler_Programmers_Reference_Manual_197206.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp15/DEC-15-AMZB-D_PDP-15_MACRO-15_Assembler_Programmers_Reference_Manual_197206.pdf",
+    "is_dir": false,
+    "size": "4.3 MiB",
+    "date": "24-Apr-2025 04:24"
+  },
+  {
+    "name": "DEC-15-BRZA-D_PDP-15_Systems_Reference_Manual_196908.pdf",
+    "href": "DEC-15-BRZA-D_PDP-15_Systems_Reference_Manual_196908.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp15/DEC-15-BRZA-D_PDP-15_Systems_Reference_Manual_196908.pdf",
+    "is_dir": false,
+    "size": "4.1 MiB",
+    "date": "03-May-2016 00:32"
+  },
+  {
+    "name": "DEC-15-ENZA-D_8TRAN.pdf",
+    "href": "DEC-15-ENZA-D_8TRAN.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp15/DEC-15-ENZA-D_8TRAN.pdf",
+    "is_dir": false,
+    "size": "16.0 MiB",
+    "date": "03-May-2016 00:15"
+  },
+  {
+    "name": "DEC-15-GRQA-D_RSX15_1971.pdf",
+    "href": "DEC-15-GRQA-D_RSX15_1971.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp15/DEC-15-GRQA-D_RSX15_1971.pdf",
+    "is_dir": false,
+    "size": "6.4 MiB",
+    "date": "03-May-2016 00:16"
+  },
+  {
+    "name": "DEC-15-GVTPA-A-D_VT15_Graphics_Software_System_Programming_Manual_197408.pdf",
+    "href": "DEC-15-GVTPA-A-D_VT15_Graphics_Software_System_Programming_Manual_197408.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp15/DEC-15-GVTPA-A-D_VT15_Graphics_Software_System_Programming_Manual_197408.pdf",
+    "is_dir": false,
+    "size": "4.1 MiB",
+    "date": "23-Apr-2025 20:20"
+  },
+  {
+    "name": "DEC-15-GXZC-D_MUMPS_Apr72.pdf",
+    "href": "DEC-15-GXZC-D_MUMPS_Apr72.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp15/DEC-15-GXZC-D_MUMPS_Apr72.pdf",
+    "is_dir": false,
+    "size": "4.2 MiB",
+    "date": "03-May-2016 00:17"
+  },
+  {
+    "name": "DEC-15-H2CB-D_PDP-15_Operators_Guide_197009.pdf",
+    "href": "DEC-15-H2CB-D_PDP-15_Operators_Guide_197009.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp15/DEC-15-H2CB-D_PDP-15_Operators_Guide_197009.pdf",
+    "is_dir": false,
+    "size": "13.8 MiB",
+    "date": "23-Apr-2025 16:11"
+  },
+  {
+    "name": "DEC-15-H2DC-B_UsersHbkVol1.pdf",
+    "href": "DEC-15-H2DC-B_UsersHbkVol1.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp15/DEC-15-H2DC-B_UsersHbkVol1.pdf",
+    "is_dir": false,
+    "size": "5.5 MiB",
+    "date": "03-May-2016 00:17"
+  },
+  {
+    "name": "DEC-15-H2DC-D_UsersHbkVol2.pdf",
+    "href": "DEC-15-H2DC-D_UsersHbkVol2.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp15/DEC-15-H2DC-D_UsersHbkVol2.pdf",
+    "is_dir": false,
+    "size": "5.1 MiB",
+    "date": "03-May-2016 00:18"
+  },
+  {
+    "name": "DEC-15-H2DC-D_usersVol2.pdf",
+    "href": "DEC-15-H2DC-D_usersVol2.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp15/DEC-15-H2DC-D_usersVol2.pdf",
+    "is_dir": false,
+    "size": "7.7 MiB",
+    "date": "03-May-2016 00:19"
+  },
+  {
+    "name": "DEC-15-KFZB-D_FORTRANIV.pdf",
+    "href": "DEC-15-KFZB-D_FORTRANIV.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp15/DEC-15-KFZB-D_FORTRANIV.pdf",
+    "is_dir": false,
+    "size": "3.4 MiB",
+    "date": "03-May-2016 00:19"
+  },
+  {
+    "name": "DEC-15-KJZB-D_FOCAL_Oct70.pdf",
+    "href": "DEC-15-KJZB-D_FOCAL_Oct70.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp15/DEC-15-KJZB-D_FOCAL_Oct70.pdf",
+    "is_dir": false,
+    "size": "2.6 MiB",
+    "date": "03-May-2016 00:19"
+  },
+  {
+    "name": "DEC-15-LMACA-B-D_PDP-15_MACRO-15_Macro-Assembler_Program_Reference_Manual_197408.pdf",
+    "href": "DEC-15-LMACA-B-D_PDP-15_MACRO-15_Macro-Assembler_Program_Reference_Manual_197408.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp15/DEC-15-LMACA-B-D_PDP-15_MACRO-15_Macro-Assembler_Program_Reference_Manual_197408.pdf",
+    "is_dir": false,
+    "size": "6.0 MiB",
+    "date": "24-Apr-2025 04:25"
+  },
+  {
+    "name": "DEC-15-LMCMA-A-D_MAC11_Programming_Language_197408.pdf",
+    "href": "DEC-15-LMCMA-A-D_MAC11_Programming_Language_197408.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp15/DEC-15-LMCMA-A-D_MAC11_Programming_Language_197408.pdf",
+    "is_dir": false,
+    "size": "7.2 MiB",
+    "date": "24-Apr-2025 21:34"
+  },
+  {
+    "name": "DEC-15-MR2B-D_AdvMonPgmRef.pdf",
+    "href": "DEC-15-MR2B-D_AdvMonPgmRef.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp15/DEC-15-MR2B-D_AdvMonPgmRef.pdf",
+    "is_dir": false,
+    "size": "8.2 MiB",
+    "date": "03-May-2016 00:20"
+  },
+  {
+    "name": "DEC-15-MR3A-DW2.pdf",
+    "href": "DEC-15-MR3A-DW2.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp15/DEC-15-MR3A-DW2.pdf",
+    "is_dir": false,
+    "size": "9.3 MiB",
+    "date": "03-May-2016 00:20"
+  },
+  {
+    "name": "DEC-15-ODAPA-A-D.pdf",
+    "href": "DEC-15-ODAPA-A-D.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp15/DEC-15-ODAPA-A-D.pdf",
+    "is_dir": false,
+    "size": "712.1 KiB",
+    "date": "03-May-2016 00:20"
+  },
+  {
+    "name": "DEC-15-ODFFA-A_DOS15_SysMan.pdf",
+    "href": "DEC-15-ODFFA-A_DOS15_SysMan.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp15/DEC-15-ODFFA-A_DOS15_SysMan.pdf",
+    "is_dir": false,
+    "size": "5.5 MiB",
+    "date": "03-May-2016 00:21"
+  },
+  {
+    "name": "DEC-15-ODFFA-B-D_DOS-15_System_Manual_197408.pdf",
+    "href": "DEC-15-ODFFA-B-D_DOS-15_System_Manual_197408.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp15/DEC-15-ODFFA-B-D_DOS-15_System_Manual_197408.pdf",
+    "is_dir": false,
+    "size": "8.5 MiB",
+    "date": "23-Apr-2025 20:20"
+  },
+  {
+    "name": "DEC-15-ODUMA-A_DOS-15_Users_Manual_197212.pdf",
+    "href": "DEC-15-ODUMA-A_DOS-15_Users_Manual_197212.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp15/DEC-15-ODUMA-A_DOS-15_Users_Manual_197212.pdf",
+    "is_dir": false,
+    "size": "10.5 MiB",
+    "date": "24-Apr-2025 21:33"
+  },
+  {
+    "name": "DEC-15-ODUMA-B-D_DOS-15_Users_Manual_197408.pdf",
+    "href": "DEC-15-ODUMA-B-D_DOS-15_Users_Manual_197408.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp15/DEC-15-ODUMA-B-D_DOS-15_Users_Manual_197408.pdf",
+    "is_dir": false,
+    "size": "14.1 MiB",
+    "date": "23-Apr-2025 20:20"
+  },
+  {
+    "name": "DEC-15-UFZA-D_STATPAC_Jun69.pdf",
+    "href": "DEC-15-UFZA-D_STATPAC_Jun69.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp15/DEC-15-UFZA-D_STATPAC_Jun69.pdf",
+    "is_dir": false,
+    "size": "2.2 MiB",
+    "date": "03-May-2016 00:21"
+  },
+  {
+    "name": "DEC-15-UPATA-A-D_PDP-15_PATCH_Utility_Program_Programmers_Reference_Manual_197408.pdf",
+    "href": "DEC-15-UPATA-A-D_PDP-15_PATCH_Utility_Program_Programmers_Reference_Manual_197408.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp15/DEC-15-UPATA-A-D_PDP-15_PATCH_Utility_Program_Programmers_Reference_Manual_197408.pdf",
+    "is_dir": false,
+    "size": "2.9 MiB",
+    "date": "24-Apr-2025 04:25"
+  },
+  {
+    "name": "DEC-15-UPIPA-A-D_PIP_DOS_Monitor_Utility_Program_197408.pdf",
+    "href": "DEC-15-UPIPA-A-D_PIP_DOS_Monitor_Utility_Program_197408.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp15/DEC-15-UPIPA-A-D_PIP_DOS_Monitor_Utility_Program_197408.pdf",
+    "is_dir": false,
+    "size": "5.2 MiB",
+    "date": "24-Apr-2025 04:25"
+  },
+  {
+    "name": "DEC-15-USGNA-A-D_SGEN_DOS_Utility_Program_197408.pdf",
+    "href": "DEC-15-USGNA-A-D_SGEN_DOS_Utility_Program_197408.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp15/DEC-15-USGNA-A-D_SGEN_DOS_Utility_Program_197408.pdf",
+    "is_dir": false,
+    "size": "4.8 MiB",
+    "date": "24-Apr-2025 21:33"
+  },
+  {
+    "name": "DEC-15-UXSB-D_VP15A_Graphics_Software_197107.pdf",
+    "href": "DEC-15-UXSB-D_VP15A_Graphics_Software_197107.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp15/DEC-15-UXSB-D_VP15A_Graphics_Software_197107.pdf",
+    "is_dir": false,
+    "size": "1.9 MiB",
+    "date": "03-Jul-2021 20:34"
+  },
+  {
+    "name": "DEC-15-XSDIA-E-D-DEC-15-XSDAA-E-D-THE_SOFTWARE_DISPATCH_PDP-9_AND_PDP-15_JUNE_1975.pdf",
+    "href": "DEC-15-XSDIA-E-D-DEC-15-XSDAA-E-D-THE_SOFTWARE_DISPATCH_PDP-9_AND_PDP-15_JUNE_1975.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp15/DEC-15-XSDIA-E-D-DEC-15-XSDAA-E-D-THE_SOFTWARE_DISPATCH_PDP-9_AND_PDP-15_JUNE_1975.pdf",
+    "is_dir": false,
+    "size": "3.7 MiB",
+    "date": "04-Nov-2018 00:04"
+  },
+  {
+    "name": "DEC-15-XSPLA-J-D_PDP-15_Software_Components_Catalog_197697.pdf",
+    "href": "DEC-15-XSPLA-J-D_PDP-15_Software_Components_Catalog_197697.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp15/DEC-15-XSPLA-J-D_PDP-15_Software_Components_Catalog_197697.pdf",
+    "is_dir": false,
+    "size": "4.1 MiB",
+    "date": "03-May-2016 00:22"
+  },
+  {
+    "name": "DEC-15-XSPLA-L-D_PDP-15_Software_Components_Catalog_197704.pdf",
+    "href": "DEC-15-XSPLA-L-D_PDP-15_Software_Components_Catalog_197704.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp15/DEC-15-XSPLA-L-D_PDP-15_Software_Components_Catalog_197704.pdf",
+    "is_dir": false,
+    "size": "2.4 MiB",
+    "date": "03-May-2016 00:22"
+  },
+  {
+    "name": "DEC-15-YWXB-DN8_Linking_Loader_Utility_Program_197202.pdf",
+    "href": "DEC-15-YWXB-DN8_Linking_Loader_Utility_Program_197202.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp15/DEC-15-YWXB-DN8_Linking_Loader_Utility_Program_197202.pdf",
+    "is_dir": false,
+    "size": "1.8 MiB",
+    "date": "23-Apr-2025 20:55"
+  },
+  {
+    "name": "DEC-15-YWZA-DN1_DDT_Apr70.pdf",
+    "href": "DEC-15-YWZA-DN1_DDT_Apr70.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp15/DEC-15-YWZA-DN1_DDT_Apr70.pdf",
+    "is_dir": false,
+    "size": "2.4 MiB",
+    "date": "03-May-2016 00:22"
+  },
+  {
+    "name": "DEC-15-YWZA-DN3.pdf",
+    "href": "DEC-15-YWZA-DN3.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp15/DEC-15-YWZA-DN3.pdf",
+    "is_dir": false,
+    "size": "2.7 MiB",
+    "date": "03-May-2016 00:23"
+  },
+  {
+    "name": "DEC-15-YWZA-D_PDP-15_Utility_Programs_196910.pdf",
+    "href": "DEC-15-YWZA-D_PDP-15_Utility_Programs_196910.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp15/DEC-15-YWZA-D_PDP-15_Utility_Programs_196910.pdf",
+    "is_dir": false,
+    "size": "6.8 MiB",
+    "date": "24-Apr-2025 21:33"
+  },
+  {
+    "name": "DEC-15-YWZB-DN12_SGEN-DOS.pdf",
+    "href": "DEC-15-YWZB-DN12_SGEN-DOS.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp15/DEC-15-YWZB-DN12_SGEN-DOS.pdf",
+    "is_dir": false,
+    "size": "2.2 MiB",
+    "date": "03-May-2016 00:31"
+  },
+  {
+    "name": "DEC-15-YWZB-DN2_CHAIN_and_EXECUTE_Utility_Program_197110.pdf",
+    "href": "DEC-15-YWZB-DN2_CHAIN_and_EXECUTE_Utility_Program_197110.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp15/DEC-15-YWZB-DN2_CHAIN_and_EXECUTE_Utility_Program_197110.pdf",
+    "is_dir": false,
+    "size": "2.3 MiB",
+    "date": "24-Apr-2025 04:25"
+  },
+  {
+    "name": "DEC-15-YWZB-DN5_PATCH_Oct71.pdf",
+    "href": "DEC-15-YWZB-DN5_PATCH_Oct71.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp15/DEC-15-YWZB-DN5_PATCH_Oct71.pdf",
+    "is_dir": false,
+    "size": "1.7 MiB",
+    "date": "03-May-2016 00:31"
+  },
+  {
+    "name": "DEC-15-YWZB-DN6_PDP-15_Text_Editor_Utility_Program_197110.pdf",
+    "href": "DEC-15-YWZB-DN6_PDP-15_Text_Editor_Utility_Program_197110.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp15/DEC-15-YWZB-DN6_PDP-15_Text_Editor_Utility_Program_197110.pdf",
+    "is_dir": false,
+    "size": "3.3 MiB",
+    "date": "24-Apr-2025 04:25"
+  },
+  {
+    "name": "DEC-15-YWZB-DN7_Update_Utility_Program_197202.pdf",
+    "href": "DEC-15-YWZB-DN7_Update_Utility_Program_197202.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp15/DEC-15-YWZB-DN7_Update_Utility_Program_197202.pdf",
+    "is_dir": false,
+    "size": "1.2 MiB",
+    "date": "24-Apr-2025 04:25"
+  },
+  {
+    "name": "DEC-15-ZFSB-D_VT-15_Graphic_Software_Programming_Manual_197110.pdf",
+    "href": "DEC-15-ZFSB-D_VT-15_Graphic_Software_Programming_Manual_197110.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp15/DEC-15-ZFSB-D_VT-15_Graphic_Software_Programming_Manual_197110.pdf",
+    "is_dir": false,
+    "size": "2.8 MiB",
+    "date": "23-Apr-2025 20:36"
+  },
+  {
+    "name": "PDP-15_10_Software_System.pdf",
+    "href": "PDP-15_10_Software_System.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp15/PDP-15_10_Software_System.pdf",
+    "is_dir": false,
+    "size": "10.5 MiB",
+    "date": "24-Apr-2025 21:33"
+  },
+  {
+    "name": "PDP-15_System_Software_Handouts_1975.pdf",
+    "href": "PDP-15_System_Software_Handouts_1975.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp15/PDP-15_System_Software_Handouts_1975.pdf",
+    "is_dir": false,
+    "size": "14.1 MiB",
+    "date": "23-Apr-2025 02:45"
+  },
+  {
+    "name": "PDP-15_System_Software_Program_Solutions_1975.pdf",
+    "href": "PDP-15_System_Software_Program_Solutions_1975.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp15/PDP-15_System_Software_Program_Solutions_1975.pdf",
+    "is_dir": false,
+    "size": "5.0 MiB",
+    "date": "23-Apr-2025 16:11"
+  }
+]

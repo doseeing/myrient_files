@@ -1,0 +1,226 @@
+[
+  {
+    "name": "OS32_6.1",
+    "href": "OS32_6.1/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/os32/OS32_6.1/",
+    "is_dir": true,
+    "size": null,
+    "date": "10-Mar-2006 08:02"
+  },
+  {
+    "name": "OS32_6.2",
+    "href": "OS32_6.2/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/os32/OS32_6.2/",
+    "is_dir": true,
+    "size": null,
+    "date": "10-Mar-2006 08:02"
+  },
+  {
+    "name": "OS32_7.2",
+    "href": "OS32_7.2/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/os32/OS32_7.2/",
+    "is_dir": true,
+    "size": null,
+    "date": "10-Mar-2006 08:03"
+  },
+  {
+    "name": "OS32_8.1",
+    "href": "OS32_8.1/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/os32/OS32_8.1/",
+    "is_dir": true,
+    "size": null,
+    "date": "10-Mar-2006 08:03"
+  },
+  {
+    "name": "driver",
+    "href": "driver/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/os32/driver/",
+    "is_dir": true,
+    "size": null,
+    "date": "12-Mar-2006 08:01"
+  },
+  {
+    "name": "04-061M39R07_CALsrc.tap.gz",
+    "href": "04-061M39R07_CALsrc.tap.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/os32/04-061M39R07_CALsrc.tap.gz",
+    "is_dir": false,
+    "size": "200.4 KiB",
+    "date": "15-May-2002 02:08"
+  },
+  {
+    "name": "04-081M71R00_sort-merge.tap.gz",
+    "href": "04-081M71R00_sort-merge.tap.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/os32/04-081M71R00_sort-merge.tap.gz",
+    "is_dir": false,
+    "size": "73.7 KiB",
+    "date": "15-May-2002 02:08"
+  },
+  {
+    "name": "04-081M71R02_sortMergeII.tap.gz",
+    "href": "04-081M71R02_sortMergeII.tap.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/os32/04-081M71R02_sortMergeII.tap.gz",
+    "is_dir": false,
+    "size": "51.4 KiB",
+    "date": "15-May-2002 18:38"
+  },
+  {
+    "name": "04-083M71R06_MTMR06-01.tap.gz",
+    "href": "04-083M71R06_MTMR06-01.tap.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/os32/04-083M71R06_MTMR06-01.tap.gz",
+    "is_dir": false,
+    "size": "112.2 KiB",
+    "date": "15-May-2002 02:08"
+  },
+  {
+    "name": "04-101M31R09_FortranVII.tap.gz",
+    "href": "04-101M31R09_FortranVII.tap.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/os32/04-101M31R09_FortranVII.tap.gz",
+    "is_dir": false,
+    "size": "1.6 MiB",
+    "date": "15-May-2002 18:35"
+  },
+  {
+    "name": "04-106M71R04_DevelFortr.tap.gz",
+    "href": "04-106M71R04_DevelFortr.tap.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/os32/04-106M71R04_DevelFortr.tap.gz",
+    "is_dir": false,
+    "size": "326.4 KiB",
+    "date": "15-May-2002 02:07"
+  },
+  {
+    "name": "04-108M31R05_DMS32.tap.gz",
+    "href": "04-108M31R05_DMS32.tap.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/os32/04-108M31R05_DMS32.tap.gz",
+    "is_dir": false,
+    "size": "174.0 KiB",
+    "date": "15-May-2002 18:35"
+  },
+  {
+    "name": "04-117M71R01_2780RJE.tap.gz",
+    "href": "04-117M71R01_2780RJE.tap.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/os32/04-117M71R01_2780RJE.tap.gz",
+    "is_dir": false,
+    "size": "26.4 KiB",
+    "date": "15-May-2002 02:08"
+  },
+  {
+    "name": "04-148M71R01_COBOLupgrd.tap.gz",
+    "href": "04-148M71R01_COBOLupgrd.tap.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/os32/04-148M71R01_COBOLupgrd.tap.gz",
+    "is_dir": false,
+    "size": "252.2 KiB",
+    "date": "15-May-2002 02:07"
+  },
+  {
+    "name": "04-149M31R01_UnvFortSwPgk.tap.gz",
+    "href": "04-149M31R01_UnvFortSwPgk.tap.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/os32/04-149M31R01_UnvFortSwPgk.tap.gz",
+    "is_dir": false,
+    "size": "2.8 MiB",
+    "date": "15-May-2002 18:39"
+  },
+  {
+    "name": "04-174M31R01_3200wcsSup.tap.gz",
+    "href": "04-174M31R01_3200wcsSup.tap.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/os32/04-174M31R01_3200wcsSup.tap.gz",
+    "is_dir": false,
+    "size": "65.0 KiB",
+    "date": "15-May-2002 18:36"
+  },
+  {
+    "name": "04-174M71R01_3200WCS.tap.gz",
+    "href": "04-174M71R01_3200WCS.tap.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/os32/04-174M71R01_3200WCS.tap.gz",
+    "is_dir": false,
+    "size": "65.0 KiB",
+    "date": "15-May-2002 18:39"
+  },
+  {
+    "name": "04-174M71R02_3200WCSsupp.tap.gz",
+    "href": "04-174M71R02_3200WCSsupp.tap.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/os32/04-174M71R02_3200WCSsupp.tap.gz",
+    "is_dir": false,
+    "size": "37.7 KiB",
+    "date": "15-May-2002 18:39"
+  },
+  {
+    "name": "04-175M31R00_3200FEP.tap.gz",
+    "href": "04-175M31R00_3200FEP.tap.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/os32/04-175M31R00_3200FEP.tap.gz",
+    "is_dir": false,
+    "size": "56.5 KiB",
+    "date": "15-May-2002 18:39"
+  },
+  {
+    "name": "04-199M71R01_OS32Medit.tap.gz",
+    "href": "04-199M71R01_OS32Medit.tap.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/os32/04-199M71R01_OS32Medit.tap.gz",
+    "is_dir": false,
+    "size": "14.3 KiB",
+    "date": "15-May-2002 18:39"
+  },
+  {
+    "name": "06-285M71R03_onLineDiag.tap.gz",
+    "href": "06-285M71R03_onLineDiag.tap.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/os32/06-285M71R03_onLineDiag.tap.gz",
+    "is_dir": false,
+    "size": "238.5 KiB",
+    "date": "15-May-2002 18:39"
+  },
+  {
+    "name": "06-285M71R03_onlineDiag_cpy2.tap.gz",
+    "href": "06-285M71R03_onlineDiag_cpy2.tap.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/os32/06-285M71R03_onlineDiag_cpy2.tap.gz",
+    "is_dir": false,
+    "size": "238.5 KiB",
+    "date": "15-May-2002 02:07"
+  },
+  {
+    "name": "91-720M79R01_MPCSbusSwDrv.tap.gz",
+    "href": "91-720M79R01_MPCSbusSwDrv.tap.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/os32/91-720M79R01_MPCSbusSwDrv.tap.gz",
+    "is_dir": false,
+    "size": "2.4 KiB",
+    "date": "15-May-2002 18:39"
+  },
+  {
+    "name": "C_Deb_Bas_Pas.tap.gz",
+    "href": "C_Deb_Bas_Pas.tap.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/os32/C_Deb_Bas_Pas.tap.gz",
+    "is_dir": false,
+    "size": "1016.4 KiB",
+    "date": "15-May-2002 18:36"
+  },
+  {
+    "name": "OS32_04-032_src.tap.gz",
+    "href": "OS32_04-032_src.tap.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/os32/OS32_04-032_src.tap.gz",
+    "is_dir": false,
+    "size": "1.6 MiB",
+    "date": "15-May-2002 18:13"
+  },
+  {
+    "name": "OS32_pascal.tap.gz",
+    "href": "OS32_pascal.tap.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/os32/OS32_pascal.tap.gz",
+    "is_dir": false,
+    "size": "434.5 KiB",
+    "date": "15-May-2002 18:36"
+  },
+  {
+    "name": "fortranVIIv5.1.tap.gz",
+    "href": "fortranVIIv5.1.tap.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/os32/fortranVIIv5.1.tap.gz",
+    "is_dir": false,
+    "size": "1.6 MiB",
+    "date": "15-May-2002 18:36"
+  },
+  {
+    "name": "getting_started_with_os32.zip",
+    "href": "getting_started_with_os32.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/os32/getting_started_with_os32.zip",
+    "is_dir": false,
+    "size": "85.6 KiB",
+    "date": "28-Mar-2016 18:08"
+  }
+]

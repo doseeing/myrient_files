@@ -1,0 +1,602 @@
+[
+  {
+    "name": "1973_MemoryDesignHandbook_Aug73.pdf",
+    "href": "1973_MemoryDesignHandbook_Aug73.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/intel/_dataBooks/1973_MemoryDesignHandbook_Aug73.pdf",
+    "is_dir": false,
+    "size": "14.7 MiB",
+    "date": "26-Dec-2004 01:20"
+  },
+  {
+    "name": "1975_Intel_Data_Catalog.pdf",
+    "href": "1975_Intel_Data_Catalog.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/intel/_dataBooks/1975_Intel_Data_Catalog.pdf",
+    "is_dir": false,
+    "size": "30.5 MiB",
+    "date": "28-Jul-2013 04:56"
+  },
+  {
+    "name": "1976_Intel_Data_Catalog.pdf",
+    "href": "1976_Intel_Data_Catalog.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/intel/_dataBooks/1976_Intel_Data_Catalog.pdf",
+    "is_dir": false,
+    "size": "44.6 MiB",
+    "date": "28-Jul-2013 04:56"
+  },
+  {
+    "name": "1977_C-160_memDesignHb_May77.pdf",
+    "href": "1977_C-160_memDesignHb_May77.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/intel/_dataBooks/1977_C-160_memDesignHb_May77.pdf",
+    "is_dir": false,
+    "size": "20.3 MiB",
+    "date": "25-Jul-2004 02:34"
+  },
+  {
+    "name": "1977_Intel_Data_Catalog_1977.pdf",
+    "href": "1977_Intel_Data_Catalog_1977.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/intel/_dataBooks/1977_Intel_Data_Catalog_1977.pdf",
+    "is_dir": false,
+    "size": "112.9 MiB",
+    "date": "26-Jan-2023 06:17"
+  },
+  {
+    "name": "1978_Intel_Component_Data_Catalog.pdf",
+    "href": "1978_Intel_Component_Data_Catalog.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/intel/_dataBooks/1978_Intel_Component_Data_Catalog.pdf",
+    "is_dir": false,
+    "size": "58.0 MiB",
+    "date": "30-Jul-2013 03:26"
+  },
+  {
+    "name": "1979_Intel_Component_Data_Catalog.pdf",
+    "href": "1979_Intel_Component_Data_Catalog.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/intel/_dataBooks/1979_Intel_Component_Data_Catalog.pdf",
+    "is_dir": false,
+    "size": "77.7 MiB",
+    "date": "31-Jul-2013 03:25"
+  },
+  {
+    "name": "1979_Intel_Peripheral_Design_Handbook.pdf",
+    "href": "1979_Intel_Peripheral_Design_Handbook.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/intel/_dataBooks/1979_Intel_Peripheral_Design_Handbook.pdf",
+    "is_dir": false,
+    "size": "38.7 MiB",
+    "date": "23-Dec-2019 01:18"
+  },
+  {
+    "name": "1981_210273-001_E2Prom_Family_Applications_Handbook_Book_2.pdf",
+    "href": "1981_210273-001_E2Prom_Family_Applications_Handbook_Book_2.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/intel/_dataBooks/1981_210273-001_E2Prom_Family_Applications_Handbook_Book_2.pdf",
+    "is_dir": false,
+    "size": "16.0 MiB",
+    "date": "04-Apr-2016 17:57"
+  },
+  {
+    "name": "1981_Intel_Component_Data_Catalog.pdf",
+    "href": "1981_Intel_Component_Data_Catalog.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/intel/_dataBooks/1981_Intel_Component_Data_Catalog.pdf",
+    "is_dir": false,
+    "size": "82.9 MiB",
+    "date": "31-Jul-2013 03:26"
+  },
+  {
+    "name": "1981_Intel_Peripheral_Design_Handbook.pdf",
+    "href": "1981_Intel_Peripheral_Design_Handbook.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/intel/_dataBooks/1981_Intel_Peripheral_Design_Handbook.pdf",
+    "is_dir": false,
+    "size": "62.1 MiB",
+    "date": "23-Dec-2019 02:52"
+  },
+  {
+    "name": "1981_Systems_Data_Catalog.pdf",
+    "href": "1981_Systems_Data_Catalog.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/intel/_dataBooks/1981_Systems_Data_Catalog.pdf",
+    "is_dir": false,
+    "size": "63.3 MiB",
+    "date": "18-Dec-2009 05:55"
+  },
+  {
+    "name": "1982_Intel_Component_Data_Catalog.pdf",
+    "href": "1982_Intel_Component_Data_Catalog.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/intel/_dataBooks/1982_Intel_Component_Data_Catalog.pdf",
+    "is_dir": false,
+    "size": "91.9 MiB",
+    "date": "04-Aug-2013 16:30"
+  },
+  {
+    "name": "1982_Systems_Data_Catalog.pdf",
+    "href": "1982_Systems_Data_Catalog.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/intel/_dataBooks/1982_Systems_Data_Catalog.pdf",
+    "is_dir": false,
+    "size": "72.3 MiB",
+    "date": "18-Dec-2009 15:27"
+  },
+  {
+    "name": "1983_230685-001_82720_GDC_Application_Manual_Jul83.pdf",
+    "href": "1983_230685-001_82720_GDC_Application_Manual_Jul83.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/intel/_dataBooks/1983_230685-001_82720_GDC_Application_Manual_Jul83.pdf",
+    "is_dir": false,
+    "size": "7.1 MiB",
+    "date": "23-Oct-2013 01:43"
+  },
+  {
+    "name": "1983_Intel_Microprocessors_and_Peripherals_Handbook.pdf",
+    "href": "1983_Intel_Microprocessors_and_Peripherals_Handbook.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/intel/_dataBooks/1983_Intel_Microprocessors_and_Peripherals_Handbook.pdf",
+    "is_dir": false,
+    "size": "70.9 MiB",
+    "date": "17-Jul-2014 17:10"
+  },
+  {
+    "name": "1983_Memory_Component_Handbook.pdf",
+    "href": "1983_Memory_Component_Handbook.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/intel/_dataBooks/1983_Memory_Component_Handbook.pdf",
+    "is_dir": false,
+    "size": "54.7 MiB",
+    "date": "17-Jul-2014 22:16"
+  },
+  {
+    "name": "1984_230786-001_Intel_Software_Handbook.pdf",
+    "href": "1984_230786-001_Intel_Software_Handbook.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/intel/_dataBooks/1984_230786-001_Intel_Software_Handbook.pdf",
+    "is_dir": false,
+    "size": "33.2 MiB",
+    "date": "04-Apr-2016 17:59"
+  },
+  {
+    "name": "1984_Intel_Memory_Components_Handbook.pdf",
+    "href": "1984_Intel_Memory_Components_Handbook.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/intel/_dataBooks/1984_Intel_Memory_Components_Handbook.pdf",
+    "is_dir": false,
+    "size": "58.3 MiB",
+    "date": "06-Aug-2013 13:48"
+  },
+  {
+    "name": "1984_Intel_Microsystem_Components_Handbook_Volume_1.pdf",
+    "href": "1984_Intel_Microsystem_Components_Handbook_Volume_1.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/intel/_dataBooks/1984_Intel_Microsystem_Components_Handbook_Volume_1.pdf",
+    "is_dir": false,
+    "size": "89.4 MiB",
+    "date": "17-Jul-2014 18:38"
+  },
+  {
+    "name": "1984_Intel_Microsystem_Components_Handbook_Volume_2.pdf",
+    "href": "1984_Intel_Microsystem_Components_Handbook_Volume_2.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/intel/_dataBooks/1984_Intel_Microsystem_Components_Handbook_Volume_2.pdf",
+    "is_dir": false,
+    "size": "100.7 MiB",
+    "date": "17-Jul-2014 18:37"
+  },
+  {
+    "name": "1984_Microcontroller_Handbook.pdf",
+    "href": "1984_Microcontroller_Handbook.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/intel/_dataBooks/1984_Microcontroller_Handbook.pdf",
+    "is_dir": false,
+    "size": "32.2 MiB",
+    "date": "28-Jun-2016 01:13"
+  },
+  {
+    "name": "1985_Development_Systems_Handbook.pdf",
+    "href": "1985_Development_Systems_Handbook.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/intel/_dataBooks/1985_Development_Systems_Handbook.pdf",
+    "is_dir": false,
+    "size": "26.2 MiB",
+    "date": "22-Jan-2010 21:31"
+  },
+  {
+    "name": "1985_Intel_CHMOS_Components_Handbook.pdf",
+    "href": "1985_Intel_CHMOS_Components_Handbook.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/intel/_dataBooks/1985_Intel_CHMOS_Components_Handbook.pdf",
+    "is_dir": false,
+    "size": "26.0 MiB",
+    "date": "15-Sep-2023 01:38"
+  },
+  {
+    "name": "1985_Intel_Microcontroller_Handbook.pdf",
+    "href": "1985_Intel_Microcontroller_Handbook.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/intel/_dataBooks/1985_Intel_Microcontroller_Handbook.pdf",
+    "is_dir": false,
+    "size": "53.6 MiB",
+    "date": "16-Sep-2014 01:28"
+  },
+  {
+    "name": "1985_Intel_Microsystem_Components_Handbook_Volume_1.pdf",
+    "href": "1985_Intel_Microsystem_Components_Handbook_Volume_1.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/intel/_dataBooks/1985_Intel_Microsystem_Components_Handbook_Volume_1.pdf",
+    "is_dir": false,
+    "size": "64.9 MiB",
+    "date": "26-Jul-2016 18:10"
+  },
+  {
+    "name": "1985_Intel_Microsystem_Components_Handbook_Volume_2.pdf",
+    "href": "1985_Intel_Microsystem_Components_Handbook_Volume_2.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/intel/_dataBooks/1985_Intel_Microsystem_Components_Handbook_Volume_2.pdf",
+    "is_dir": false,
+    "size": "118.0 MiB",
+    "date": "26-Jul-2016 22:27"
+  },
+  {
+    "name": "1985_Intel_Software_Handbook.pdf",
+    "href": "1985_Intel_Software_Handbook.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/intel/_dataBooks/1985_Intel_Software_Handbook.pdf",
+    "is_dir": false,
+    "size": "42.0 MiB",
+    "date": "26-Jul-2016 17:21"
+  },
+  {
+    "name": "1985_OEM_Systems_Handbook.pdf",
+    "href": "1985_OEM_Systems_Handbook.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/intel/_dataBooks/1985_OEM_Systems_Handbook.pdf",
+    "is_dir": false,
+    "size": "86.4 MiB",
+    "date": "17-Dec-2009 15:39"
+  },
+  {
+    "name": "1986_Intel_Microsystem_Components_Handbook_Microprocessors_Volume_I.pdf",
+    "href": "1986_Intel_Microsystem_Components_Handbook_Microprocessors_Volume_I.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/intel/_dataBooks/1986_Intel_Microsystem_Components_Handbook_Microprocessors_Volume_I.pdf",
+    "is_dir": false,
+    "size": "71.9 MiB",
+    "date": "05-Jan-2019 05:34"
+  },
+  {
+    "name": "1986_Microcommunications_Handbook.pdf",
+    "href": "1986_Microcommunications_Handbook.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/intel/_dataBooks/1986_Microcommunications_Handbook.pdf",
+    "is_dir": false,
+    "size": "89.2 MiB",
+    "date": "18-Dec-2009 15:30"
+  },
+  {
+    "name": "1986_Microsystem_Components_Handbook_Peripherals_Volume_2.pdf",
+    "href": "1986_Microsystem_Components_Handbook_Peripherals_Volume_2.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/intel/_dataBooks/1986_Microsystem_Components_Handbook_Peripherals_Volume_2.pdf",
+    "is_dir": false,
+    "size": "77.9 MiB",
+    "date": "28-Jun-2016 01:18"
+  },
+  {
+    "name": "1987_Development_Tools_Handbook.pdf",
+    "href": "1987_Development_Tools_Handbook.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/intel/_dataBooks/1987_Development_Tools_Handbook.pdf",
+    "is_dir": false,
+    "size": "65.1 MiB",
+    "date": "17-Dec-2009 15:42"
+  },
+  {
+    "name": "1987_Intel_Microprocessor_and_Peripheral_Handbook_Volume_2.pdf",
+    "href": "1987_Intel_Microprocessor_and_Peripheral_Handbook_Volume_2.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/intel/_dataBooks/1987_Intel_Microprocessor_and_Peripheral_Handbook_Volume_2.pdf",
+    "is_dir": false,
+    "size": "94.3 MiB",
+    "date": "09-Jan-2014 22:43"
+  },
+  {
+    "name": "1987_Intel_OEM_Boards_and_Systems_Handbook_280407-001.pdf",
+    "href": "1987_Intel_OEM_Boards_and_Systems_Handbook_280407-001.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/intel/_dataBooks/1987_Intel_OEM_Boards_and_Systems_Handbook_280407-001.pdf",
+    "is_dir": false,
+    "size": "72.9 MiB",
+    "date": "25-Oct-2024 05:42"
+  },
+  {
+    "name": "1988_Embedded_Controller_Handbook_16-Bit_Volume_2.pdf",
+    "href": "1988_Embedded_Controller_Handbook_16-Bit_Volume_2.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/intel/_dataBooks/1988_Embedded_Controller_Handbook_16-Bit_Volume_2.pdf",
+    "is_dir": false,
+    "size": "59.3 MiB",
+    "date": "28-Jun-2016 18:31"
+  },
+  {
+    "name": "1988_Intel_Development_Tools_Catalog.pdf",
+    "href": "1988_Intel_Development_Tools_Catalog.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/intel/_dataBooks/1988_Intel_Development_Tools_Catalog.pdf",
+    "is_dir": false,
+    "size": "4.6 MiB",
+    "date": "05-Aug-2017 14:50"
+  },
+  {
+    "name": "1988_Intel_Embedded_Controller_Handbook_Volume_I_8-Bit.pdf",
+    "href": "1988_Intel_Embedded_Controller_Handbook_Volume_I_8-Bit.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/intel/_dataBooks/1988_Intel_Embedded_Controller_Handbook_Volume_I_8-Bit.pdf",
+    "is_dir": false,
+    "size": "58.3 MiB",
+    "date": "05-Aug-2017 14:50"
+  },
+  {
+    "name": "1988_Intel_Microcomputer_Programmable_Logic_Handbook.pdf",
+    "href": "1988_Intel_Microcomputer_Programmable_Logic_Handbook.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/intel/_dataBooks/1988_Intel_Microcomputer_Programmable_Logic_Handbook.pdf",
+    "is_dir": false,
+    "size": "26.3 MiB",
+    "date": "09-Aug-2016 14:21"
+  },
+  {
+    "name": "1988_Intel_Microprocessors_and_Peripheral_Handbook_Volume_1.pdf",
+    "href": "1988_Intel_Microprocessors_and_Peripheral_Handbook_Volume_1.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/intel/_dataBooks/1988_Intel_Microprocessors_and_Peripheral_Handbook_Volume_1.pdf",
+    "is_dir": false,
+    "size": "75.8 MiB",
+    "date": "09-Jan-2014 14:49"
+  },
+  {
+    "name": "1988_Intel_Programmable_Logic_Handbook.pdf",
+    "href": "1988_Intel_Programmable_Logic_Handbook.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/intel/_dataBooks/1988_Intel_Programmable_Logic_Handbook.pdf",
+    "is_dir": false,
+    "size": "28.7 MiB",
+    "date": "24-Jan-2025 09:15"
+  },
+  {
+    "name": "1988_Introduction_to_Intel_Cell-Based_Design.pdf",
+    "href": "1988_Introduction_to_Intel_Cell-Based_Design.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/intel/_dataBooks/1988_Introduction_to_Intel_Cell-Based_Design.pdf",
+    "is_dir": false,
+    "size": "8.8 MiB",
+    "date": "14-Jul-2011 14:50"
+  },
+  {
+    "name": "1988_OEM_Boards_and_Systems_Handbook.pdf",
+    "href": "1988_OEM_Boards_and_Systems_Handbook.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/intel/_dataBooks/1988_OEM_Boards_and_Systems_Handbook.pdf",
+    "is_dir": false,
+    "size": "66.2 MiB",
+    "date": "17-Dec-2009 15:44"
+  },
+  {
+    "name": "1989_231658_Intel_Microcommunications_Handbook.pdf",
+    "href": "1989_231658_Intel_Microcommunications_Handbook.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/intel/_dataBooks/1989_231658_Intel_Microcommunications_Handbook.pdf",
+    "is_dir": false,
+    "size": "89.9 MiB",
+    "date": "24-Jul-2014 02:54"
+  },
+  {
+    "name": "1989_32-Bit_Embedded_Controller_Handbook.pdf",
+    "href": "1989_32-Bit_Embedded_Controller_Handbook.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/intel/_dataBooks/1989_32-Bit_Embedded_Controller_Handbook.pdf",
+    "is_dir": false,
+    "size": "40.1 MiB",
+    "date": "31-Jul-2013 21:28"
+  },
+  {
+    "name": "1989_8-Bit_Embedded_Controller_Handbook.pdf",
+    "href": "1989_8-Bit_Embedded_Controller_Handbook.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/intel/_dataBooks/1989_8-Bit_Embedded_Controller_Handbook.pdf",
+    "is_dir": false,
+    "size": "61.1 MiB",
+    "date": "28-Jun-2016 02:10"
+  },
+  {
+    "name": "1989_Intel_Microcomputer_Programmable_Logic_Handbook.pdf",
+    "href": "1989_Intel_Microcomputer_Programmable_Logic_Handbook.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/intel/_dataBooks/1989_Intel_Microcomputer_Programmable_Logic_Handbook.pdf",
+    "is_dir": false,
+    "size": "27.3 MiB",
+    "date": "09-Aug-2016 14:21"
+  },
+  {
+    "name": "1989_Intel_Microprocessor_and_Peripheral_Handbook_Vol_1.pdf",
+    "href": "1989_Intel_Microprocessor_and_Peripheral_Handbook_Vol_1.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/intel/_dataBooks/1989_Intel_Microprocessor_and_Peripheral_Handbook_Vol_1.pdf",
+    "is_dir": false,
+    "size": "109.7 MiB",
+    "date": "13-Dec-2012 04:28"
+  },
+  {
+    "name": "1989_Microcomputer_Programmable_Logic_Handbook.pdf",
+    "href": "1989_Microcomputer_Programmable_Logic_Handbook.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/intel/_dataBooks/1989_Microcomputer_Programmable_Logic_Handbook.pdf",
+    "is_dir": false,
+    "size": "25.2 MiB",
+    "date": "04-Aug-2013 00:05"
+  },
+  {
+    "name": "1989_Microprocessor_and_Peripheral_Handbook_Volume_2.pdf",
+    "href": "1989_Microprocessor_and_Peripheral_Handbook_Volume_2.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/intel/_dataBooks/1989_Microprocessor_and_Peripheral_Handbook_Volume_2.pdf",
+    "is_dir": false,
+    "size": "67.2 MiB",
+    "date": "28-Jun-2016 18:32"
+  },
+  {
+    "name": "1989_OEM_Boards_and_Systems_Hanbook.pdf",
+    "href": "1989_OEM_Boards_and_Systems_Hanbook.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/intel/_dataBooks/1989_OEM_Boards_and_Systems_Hanbook.pdf",
+    "is_dir": false,
+    "size": "59.5 MiB",
+    "date": "17-Dec-2009 15:46"
+  },
+  {
+    "name": "1990_Intel_16-Bit_Embedded_Controllers.pdf",
+    "href": "1990_Intel_16-Bit_Embedded_Controllers.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/intel/_dataBooks/1990_Intel_16-Bit_Embedded_Controllers.pdf",
+    "is_dir": false,
+    "size": "39.6 MiB",
+    "date": "15-Sep-2023 01:39"
+  },
+  {
+    "name": "1990_Intel_Embedded_Applications_Handbook.pdf",
+    "href": "1990_Intel_Embedded_Applications_Handbook.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/intel/_dataBooks/1990_Intel_Embedded_Applications_Handbook.pdf",
+    "is_dir": false,
+    "size": "75.2 MiB",
+    "date": "28-Jun-2017 22:06"
+  },
+  {
+    "name": "1990_Intel_Microcommunications_Volume_II_Applications.pdf",
+    "href": "1990_Intel_Microcommunications_Volume_II_Applications.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/intel/_dataBooks/1990_Intel_Microcommunications_Volume_II_Applications.pdf",
+    "is_dir": false,
+    "size": "48.5 MiB",
+    "date": "05-Aug-2017 14:49"
+  },
+  {
+    "name": "1990_Intel_Microcomputer_Boards_and_Systems.pdf",
+    "href": "1990_Intel_Microcomputer_Boards_and_Systems.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/intel/_dataBooks/1990_Intel_Microcomputer_Boards_and_Systems.pdf",
+    "is_dir": false,
+    "size": "65.4 MiB",
+    "date": "09-Jul-2017 15:34"
+  },
+  {
+    "name": "1990_Intel_Microprocessors.pdf",
+    "href": "1990_Intel_Microprocessors.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/intel/_dataBooks/1990_Intel_Microprocessors.pdf",
+    "is_dir": false,
+    "size": "96.2 MiB",
+    "date": "05-Aug-2017 14:49"
+  },
+  {
+    "name": "1991_230843-008_Intel_Microprocessors_Volume_2.pdf",
+    "href": "1991_230843-008_Intel_Microprocessors_Volume_2.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/intel/_dataBooks/1991_230843-008_Intel_Microprocessors_Volume_2.pdf",
+    "is_dir": false,
+    "size": "118.7 MiB",
+    "date": "01-Oct-2023 20:15"
+  },
+  {
+    "name": "1991_Intel_16-Bit_Embedded_Controller_Handbook.pdf",
+    "href": "1991_Intel_16-Bit_Embedded_Controller_Handbook.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/intel/_dataBooks/1991_Intel_16-Bit_Embedded_Controller_Handbook.pdf",
+    "is_dir": false,
+    "size": "42.5 MiB",
+    "date": "16-Sep-2014 01:49"
+  },
+  {
+    "name": "1991_Intel_8-Bit_Embedded_Controller_Handbook.pdf",
+    "href": "1991_Intel_8-Bit_Embedded_Controller_Handbook.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/intel/_dataBooks/1991_Intel_8-Bit_Embedded_Controller_Handbook.pdf",
+    "is_dir": false,
+    "size": "64.5 MiB",
+    "date": "05-Jun-2016 19:50"
+  },
+  {
+    "name": "1991_Intel_Memory_Products.pdf",
+    "href": "1991_Intel_Memory_Products.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/intel/_dataBooks/1991_Intel_Memory_Products.pdf",
+    "is_dir": false,
+    "size": "57.4 MiB",
+    "date": "05-Aug-2017 14:49"
+  },
+  {
+    "name": "1991_Microcommunications.pdf",
+    "href": "1991_Microcommunications.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/intel/_dataBooks/1991_Microcommunications.pdf",
+    "is_dir": false,
+    "size": "75.4 MiB",
+    "date": "27-Jun-2016 21:05"
+  },
+  {
+    "name": "1992_Intel_Multimedia_and_Supercomputing_Processors.pdf",
+    "href": "1992_Intel_Multimedia_and_Supercomputing_Processors.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/intel/_dataBooks/1992_Intel_Multimedia_and_Supercomputing_Processors.pdf",
+    "is_dir": false,
+    "size": "74.7 MiB",
+    "date": "09-Jul-2017 15:34"
+  },
+  {
+    "name": "1992_Intel_Multimedia_and_Supercomputing_Processors_Jan92.pdf",
+    "href": "1992_Intel_Multimedia_and_Supercomputing_Processors_Jan92.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/intel/_dataBooks/1992_Intel_Multimedia_and_Supercomputing_Processors_Jan92.pdf",
+    "is_dir": false,
+    "size": "79.3 MiB",
+    "date": "23-Jun-2011 18:23"
+  },
+  {
+    "name": "1993_Intel_Embedded_Microcontrollers_and_Processors_Volume_1.pdf",
+    "href": "1993_Intel_Embedded_Microcontrollers_and_Processors_Volume_1.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/intel/_dataBooks/1993_Intel_Embedded_Microcontrollers_and_Processors_Volume_1.pdf",
+    "is_dir": false,
+    "size": "89.5 MiB",
+    "date": "06-Jun-2016 15:17"
+  },
+  {
+    "name": "1993_Intel_Embedded_Microcontrollers_and_Processors_Volume_2.pdf",
+    "href": "1993_Intel_Embedded_Microcontrollers_and_Processors_Volume_2.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/intel/_dataBooks/1993_Intel_Embedded_Microcontrollers_and_Processors_Volume_2.pdf",
+    "is_dir": false,
+    "size": "68.1 MiB",
+    "date": "23-Sep-2023 00:11"
+  },
+  {
+    "name": "1993_Intel_Memory_Products.pdf",
+    "href": "1993_Intel_Memory_Products.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/intel/_dataBooks/1993_Intel_Memory_Products.pdf",
+    "is_dir": false,
+    "size": "80.6 MiB",
+    "date": "07-Aug-2013 02:33"
+  },
+  {
+    "name": "1994_210830-013_Flash_Memory_Vol_2.pdf",
+    "href": "1994_210830-013_Flash_Memory_Vol_2.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/intel/_dataBooks/1994_210830-013_Flash_Memory_Vol_2.pdf",
+    "is_dir": false,
+    "size": "39.0 MiB",
+    "date": "04-Apr-2016 18:36"
+  },
+  {
+    "name": "1994_Intel_Peripheral_Components.pdf",
+    "href": "1994_Intel_Peripheral_Components.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/intel/_dataBooks/1994_Intel_Peripheral_Components.pdf",
+    "is_dir": false,
+    "size": "88.6 MiB",
+    "date": "10-Dec-2012 15:40"
+  },
+  {
+    "name": "1995_296467-006_Intel_Peripheral_Components.pdf",
+    "href": "1995_296467-006_Intel_Peripheral_Components.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/intel/_dataBooks/1995_296467-006_Intel_Peripheral_Components.pdf",
+    "is_dir": false,
+    "size": "109.4 MiB",
+    "date": "27-Nov-2023 03:51"
+  },
+  {
+    "name": "1995_Intel_Flash_Memory_Update.pdf",
+    "href": "1995_Intel_Flash_Memory_Update.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/intel/_dataBooks/1995_Intel_Flash_Memory_Update.pdf",
+    "is_dir": false,
+    "size": "17.8 MiB",
+    "date": "06-Aug-2016 01:49"
+  },
+  {
+    "name": "1995_Intel_Flash_Memory_Volume_1.pdf",
+    "href": "1995_Intel_Flash_Memory_Volume_1.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/intel/_dataBooks/1995_Intel_Flash_Memory_Volume_1.pdf",
+    "is_dir": false,
+    "size": "84.3 MiB",
+    "date": "06-Aug-2016 00:24"
+  },
+  {
+    "name": "1995_Intel_Flash_Memory_Volume_2.pdf",
+    "href": "1995_Intel_Flash_Memory_Volume_2.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/intel/_dataBooks/1995_Intel_Flash_Memory_Volume_2.pdf",
+    "is_dir": false,
+    "size": "39.5 MiB",
+    "date": "06-Aug-2016 00:22"
+  },
+  {
+    "name": "1996_Intel_Embedded_Microprocessors.pdf",
+    "href": "1996_Intel_Embedded_Microprocessors.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/intel/_dataBooks/1996_Intel_Embedded_Microprocessors.pdf",
+    "is_dir": false,
+    "size": "84.8 MiB",
+    "date": "05-Aug-2017 14:49"
+  },
+  {
+    "name": "1996_Intel_Peripheral_Components.pdf",
+    "href": "1996_Intel_Peripheral_Components.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/intel/_dataBooks/1996_Intel_Peripheral_Components.pdf",
+    "is_dir": false,
+    "size": "87.5 MiB",
+    "date": "29-Jun-2017 01:21"
+  },
+  {
+    "name": "1996_Networking.pdf",
+    "href": "1996_Networking.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/intel/_dataBooks/1996_Networking.pdf",
+    "is_dir": false,
+    "size": "21.8 MiB",
+    "date": "17-Dec-2009 15:47"
+  }
+]

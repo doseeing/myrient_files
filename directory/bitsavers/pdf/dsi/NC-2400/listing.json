@@ -1,0 +1,42 @@
+[
+  {
+    "name": "firmware",
+    "href": "firmware/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dsi/NC-2400/firmware/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Jan-2025 20:31"
+  },
+  {
+    "name": "pictures",
+    "href": "pictures/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dsi/NC-2400/pictures/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Jan-2025 20:01"
+  },
+  {
+    "name": "3401L_NC-2400_Operation_Aug83.pdf",
+    "href": "3401L_NC-2400_Operation_Aug83.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dsi/NC-2400/3401L_NC-2400_Operation_Aug83.pdf",
+    "is_dir": false,
+    "size": "2.3 MiB",
+    "date": "21-Aug-2005 16:24"
+  },
+  {
+    "name": "3401L_NC-2400_Operation_Feb83.pdf",
+    "href": "3401L_NC-2400_Operation_Feb83.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dsi/NC-2400/3401L_NC-2400_Operation_Feb83.pdf",
+    "is_dir": false,
+    "size": "2.1 MiB",
+    "date": "21-Aug-2005 16:08"
+  },
+  {
+    "name": "3412L_NC-2400_tapePrep_May83.pdf",
+    "href": "3412L_NC-2400_tapePrep_May83.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dsi/NC-2400/3412L_NC-2400_tapePrep_May83.pdf",
+    "is_dir": false,
+    "size": "3.7 MiB",
+    "date": "21-Aug-2005 16:47"
+  }
+]

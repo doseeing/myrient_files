@@ -1,0 +1,202 @@
+[
+  {
+    "name": "TMS320C30_EVM",
+    "href": "TMS320C30_EVM/",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ti/TMS320xx/320C3x/TMS320C30_EVM/",
+    "is_dir": true,
+    "size": null,
+    "date": "01-Jul-2022 18:03"
+  },
+  {
+    "name": "TMS320C31_DSK",
+    "href": "TMS320C31_DSK/",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ti/TMS320xx/320C3x/TMS320C31_DSK/",
+    "is_dir": true,
+    "size": null,
+    "date": "30-Jun-2022 18:01"
+  },
+  {
+    "name": "2558539-9721_TMS320C3x_UG_1994.pdf",
+    "href": "2558539-9721_TMS320C3x_UG_1994.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ti/TMS320xx/320C3x/2558539-9721_TMS320C3x_UG_1994.pdf",
+    "is_dir": false,
+    "size": "3.2 MiB",
+    "date": "27-Jun-2022 19:26"
+  },
+  {
+    "name": "AR_Parameter_Estimation_Using_TMS320C30_Digital_Signal_Processor_Chip_1995.pdf",
+    "href": "AR_Parameter_Estimation_Using_TMS320C30_Digital_Signal_Processor_Chip_1995.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ti/TMS320xx/320C3x/AR_Parameter_Estimation_Using_TMS320C30_Digital_Signal_Processor_Chip_1995.pdf",
+    "is_dir": false,
+    "size": "3.9 MiB",
+    "date": "30-Jun-2022 17:14"
+  },
+  {
+    "name": "C30_to_C67_Course_Upgrade.pdf",
+    "href": "C30_to_C67_Course_Upgrade.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ti/TMS320xx/320C3x/C30_to_C67_Course_Upgrade.pdf",
+    "is_dir": false,
+    "size": "37.0 KiB",
+    "date": "27-Jun-2022 19:09"
+  },
+  {
+    "name": "C30_vs_486_Performance_1998.pdf",
+    "href": "C30_vs_486_Performance_1998.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ti/TMS320xx/320C3x/C30_vs_486_Performance_1998.pdf",
+    "is_dir": false,
+    "size": "137.1 KiB",
+    "date": "30-Jun-2022 17:20"
+  },
+  {
+    "name": "Datel_PC-430_Brochure.pdf",
+    "href": "Datel_PC-430_Brochure.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ti/TMS320xx/320C3x/Datel_PC-430_Brochure.pdf",
+    "is_dir": false,
+    "size": "101.4 KiB",
+    "date": "30-Jun-2022 17:17"
+  },
+  {
+    "name": "Developing_TMS320C30-based_VXI_Instruments.pdf",
+    "href": "Developing_TMS320C30-based_VXI_Instruments.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ti/TMS320xx/320C3x/Developing_TMS320C30-based_VXI_Instruments.pdf",
+    "is_dir": false,
+    "size": "190.5 KiB",
+    "date": "30-Jun-2022 17:15"
+  },
+  {
+    "name": "IDT_AN68_Dual-Port_SRAM_Simplifies_PC-TO-TMS320_Interface_199903.pdf",
+    "href": "IDT_AN68_Dual-Port_SRAM_Simplifies_PC-TO-TMS320_Interface_199903.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ti/TMS320xx/320C3x/IDT_AN68_Dual-Port_SRAM_Simplifies_PC-TO-TMS320_Interface_199903.pdf",
+    "is_dir": false,
+    "size": "109.1 KiB",
+    "date": "30-Jun-2022 17:16"
+  },
+  {
+    "name": "Real_Time_System_Identification_Using_the_TMS320C30_Digital_Signal_Processor.pdf",
+    "href": "Real_Time_System_Identification_Using_the_TMS320C30_Digital_Signal_Processor.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ti/TMS320xx/320C3x/Real_Time_System_Identification_Using_the_TMS320C30_Digital_Signal_Processor.pdf",
+    "is_dir": false,
+    "size": "254.2 KiB",
+    "date": "30-Jun-2022 17:20"
+  },
+  {
+    "name": "SLYT136_Building_a_Simple_Data_Acquisition_System_Using_the_TMS320C31.pdf",
+    "href": "SLYT136_Building_a_Simple_Data_Acquisition_System_Using_the_TMS320C31.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ti/TMS320xx/320C3x/SLYT136_Building_a_Simple_Data_Acquisition_System_Using_the_TMS320C31.pdf",
+    "is_dir": false,
+    "size": "366.1 KiB",
+    "date": "27-Jun-2022 20:52"
+  },
+  {
+    "name": "SPRS032_320C30_Data_Sheet_1996.pdf",
+    "href": "SPRS032_320C30_Data_Sheet_1996.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ti/TMS320xx/320C3x/SPRS032_320C30_Data_Sheet_1996.pdf",
+    "is_dir": false,
+    "size": "849.7 KiB",
+    "date": "30-Jun-2022 17:21"
+  },
+  {
+    "name": "SPRT036_TMS320C30_DSP_Preview_Bulletin_1988.pdf",
+    "href": "SPRT036_TMS320C30_DSP_Preview_Bulletin_1988.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ti/TMS320xx/320C3x/SPRT036_TMS320C30_DSP_Preview_Bulletin_1988.pdf",
+    "is_dir": false,
+    "size": "4.9 MiB",
+    "date": "30-Jun-2022 17:21"
+  },
+  {
+    "name": "SPRU031F_TMS320C3x_Users_Guide_200403.pdf",
+    "href": "SPRU031F_TMS320C3x_Users_Guide_200403.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ti/TMS320xx/320C3x/SPRU031F_TMS320C3x_Users_Guide_200403.pdf",
+    "is_dir": false,
+    "size": "2.4 MiB",
+    "date": "30-Jun-2022 17:21"
+  },
+  {
+    "name": "SPRU083_TMS320C31_Embedded_Control_199802.pdf",
+    "href": "SPRU083_TMS320C31_Embedded_Control_199802.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ti/TMS320xx/320C3x/SPRU083_TMS320C31_Embedded_Control_199802.pdf",
+    "is_dir": false,
+    "size": "502.3 KiB",
+    "date": "27-Jun-2022 20:50"
+  },
+  {
+    "name": "SPRU086_TMS320C3x_Peripheral_Control_Library_Users_Guide_Sep1992.pdf",
+    "href": "SPRU086_TMS320C3x_Peripheral_Control_Library_Users_Guide_Sep1992.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ti/TMS320xx/320C3x/SPRU086_TMS320C3x_Peripheral_Control_Library_Users_Guide_Sep1992.pdf",
+    "is_dir": false,
+    "size": "130.6 KiB",
+    "date": "04-Mar-2020 01:16"
+  },
+  {
+    "name": "SPRU120_TMS320C3x_Evaluation_Module_Installation_Guide_1993.pdf",
+    "href": "SPRU120_TMS320C3x_Evaluation_Module_Installation_Guide_1993.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ti/TMS320xx/320C3x/SPRU120_TMS320C3x_Evaluation_Module_Installation_Guide_1993.pdf",
+    "is_dir": false,
+    "size": "111.7 KiB",
+    "date": "04-Mar-2020 01:20"
+  },
+  {
+    "name": "SPRU194_TMS320C3x_General-Purpose_Applications_Users_Guide_Jan1998.pdf",
+    "href": "SPRU194_TMS320C3x_General-Purpose_Applications_Users_Guide_Jan1998.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ti/TMS320xx/320C3x/SPRU194_TMS320C3x_General-Purpose_Applications_Users_Guide_Jan1998.pdf",
+    "is_dir": false,
+    "size": "1.9 MiB",
+    "date": "04-Mar-2020 01:15"
+  },
+  {
+    "name": "SPRV0009B_TMS320C31_TMS320C30-27_DSP_Product_Preview_199004.pdf",
+    "href": "SPRV0009B_TMS320C31_TMS320C30-27_DSP_Product_Preview_199004.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ti/TMS320xx/320C3x/SPRV0009B_TMS320C31_TMS320C30-27_DSP_Product_Preview_199004.pdf",
+    "is_dir": false,
+    "size": "1.9 MiB",
+    "date": "30-Jun-2022 17:21"
+  },
+  {
+    "name": "Sydney_Realtime_DSP_Course_1994.pdf",
+    "href": "Sydney_Realtime_DSP_Course_1994.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ti/TMS320xx/320C3x/Sydney_Realtime_DSP_Course_1994.pdf",
+    "is_dir": false,
+    "size": "171.0 KiB",
+    "date": "27-Jun-2022 18:49"
+  },
+  {
+    "name": "TMS320C3x_DSP_Starter_Kit_Users_Guide_1996.pdf",
+    "href": "TMS320C3x_DSP_Starter_Kit_Users_Guide_1996.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ti/TMS320xx/320C3x/TMS320C3x_DSP_Starter_Kit_Users_Guide_1996.pdf",
+    "is_dir": false,
+    "size": "727.6 KiB",
+    "date": "04-Mar-2020 01:14"
+  },
+  {
+    "name": "TMS320C3x_Users_Guide_1991.pdf",
+    "href": "TMS320C3x_Users_Guide_1991.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ti/TMS320xx/320C3x/TMS320C3x_Users_Guide_1991.pdf",
+    "is_dir": false,
+    "size": "28.8 MiB",
+    "date": "05-Sep-2013 17:41"
+  },
+  {
+    "name": "TMS320C3x_Users_Guide_1994.pdf",
+    "href": "TMS320C3x_Users_Guide_1994.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ti/TMS320xx/320C3x/TMS320C3x_Users_Guide_1994.pdf",
+    "is_dir": false,
+    "size": "45.8 MiB",
+    "date": "09-Aug-2014 14:57"
+  },
+  {
+    "name": "US5375196_Calcomp.pdf",
+    "href": "US5375196_Calcomp.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ti/TMS320xx/320C3x/US5375196_Calcomp.pdf",
+    "is_dir": false,
+    "size": "713.7 KiB",
+    "date": "27-Jun-2022 19:26"
+  },
+  {
+    "name": "johnloomis.org_dsk.zip",
+    "href": "johnloomis.org_dsk.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ti/TMS320xx/320C3x/johnloomis.org_dsk.zip",
+    "is_dir": false,
+    "size": "2.5 MiB",
+    "date": "27-Jun-2022 20:50"
+  }
+]

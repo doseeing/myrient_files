@@ -1,0 +1,34 @@
+[
+  {
+    "name": "PCB",
+    "href": "PCB/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/priam/dataTower/PCB/",
+    "is_dir": true,
+    "size": null,
+    "date": "11-Jul-2011 17:02"
+  },
+  {
+    "name": "chassis",
+    "href": "chassis/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/priam/dataTower/chassis/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-May-2024 18:56"
+  },
+  {
+    "name": "priam_interface",
+    "href": "priam_interface/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/priam/dataTower/priam_interface/",
+    "is_dir": true,
+    "size": null,
+    "date": "24-Aug-2023 23:31"
+  },
+  {
+    "name": "DataTowerFirmware.zip",
+    "href": "DataTowerFirmware.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/priam/dataTower/DataTowerFirmware.zip",
+    "is_dir": false,
+    "size": "74.0 KiB",
+    "date": "11-Jul-2011 17:11"
+  }
+]

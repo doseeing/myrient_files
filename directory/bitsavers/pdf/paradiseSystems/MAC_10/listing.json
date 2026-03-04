@@ -1,0 +1,50 @@
+[
+  {
+    "name": "firmware",
+    "href": "firmware/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/paradiseSystems/MAC_10/firmware/",
+    "is_dir": true,
+    "size": null,
+    "date": "22-Nov-2025 20:27"
+  },
+  {
+    "name": "Paradise_Boot_Disk.sit",
+    "href": "Paradise_Boot_Disk.sit",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/paradiseSystems/MAC_10/Paradise_Boot_Disk.sit",
+    "is_dir": false,
+    "size": "617.8 KiB",
+    "date": "17-Nov-2025 00:11"
+  },
+  {
+    "name": "ad_198510.jpg",
+    "href": "ad_198510.jpg",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/paradiseSystems/MAC_10/ad_198510.jpg",
+    "is_dir": false,
+    "size": "1.1 MiB",
+    "date": "17-Nov-2025 00:11"
+  },
+  {
+    "name": "mac10_1.jpg",
+    "href": "mac10_1.jpg",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/paradiseSystems/MAC_10/mac10_1.jpg",
+    "is_dir": false,
+    "size": "66.0 KiB",
+    "date": "17-Nov-2025 00:11"
+  },
+  {
+    "name": "mac10_2.jpg",
+    "href": "mac10_2.jpg",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/paradiseSystems/MAC_10/mac10_2.jpg",
+    "is_dir": false,
+    "size": "93.0 KiB",
+    "date": "17-Nov-2025 00:11"
+  },
+  {
+    "name": "pcb.jpg",
+    "href": "pcb.jpg",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/paradiseSystems/MAC_10/pcb.jpg",
+    "is_dir": false,
+    "size": "268.5 KiB",
+    "date": "17-Nov-2025 00:11"
+  }
+]

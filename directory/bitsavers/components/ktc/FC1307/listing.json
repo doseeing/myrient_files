@@ -1,0 +1,34 @@
+[
+  {
+    "name": "firmware",
+    "href": "firmware/",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ktc/FC1307/firmware/",
+    "is_dir": true,
+    "size": null,
+    "date": "07-Aug-2024 22:07"
+  },
+  {
+    "name": "FC1307A.pdf",
+    "href": "FC1307A.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ktc/FC1307/FC1307A.pdf",
+    "is_dir": false,
+    "size": "715.6 KiB",
+    "date": "07-Aug-2024 20:12"
+  },
+  {
+    "name": "FC1307_TFx2_TO_CF_V1.0_schematic.pdf",
+    "href": "FC1307_TFx2_TO_CF_V1.0_schematic.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ktc/FC1307/FC1307_TFx2_TO_CF_V1.0_schematic.pdf",
+    "is_dir": false,
+    "size": "131.6 KiB",
+    "date": "07-Aug-2024 20:12"
+  },
+  {
+    "name": "sd_adapter.jpg",
+    "href": "sd_adapter.jpg",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ktc/FC1307/sd_adapter.jpg",
+    "is_dir": false,
+    "size": "144.2 KiB",
+    "date": "07-Aug-2024 20:13"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "name": "altair.txt",
+    "href": "altair.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/simh_v2.9-10/ALTAIR/altair.txt",
+    "is_dir": false,
+    "size": "7.5 KiB",
+    "date": "13-Mar-1997 00:48"
+  },
+  {
+    "name": "altair_cpu.c",
+    "href": "altair_cpu.c",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/simh_v2.9-10/ALTAIR/altair_cpu.c",
+    "is_dir": false,
+    "size": "30.6 KiB",
+    "date": "08-Dec-2001 05:31"
+  },
+  {
+    "name": "altair_defs.h",
+    "href": "altair_defs.h",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/simh_v2.9-10/ALTAIR/altair_defs.h",
+    "is_dir": false,
+    "size": "595 B",
+    "date": "14-Apr-1999 21:09"
+  },
+  {
+    "name": "altair_dsk.c",
+    "href": "altair_dsk.c",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/simh_v2.9-10/ALTAIR/altair_dsk.c",
+    "is_dir": false,
+    "size": "10.6 KiB",
+    "date": "24-Feb-2001 21:43"
+  },
+  {
+    "name": "altair_sio.c",
+    "href": "altair_sio.c",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/simh_v2.9-10/ALTAIR/altair_sio.c",
+    "is_dir": false,
+    "size": "5.8 KiB",
+    "date": "31-May-2002 04:40"
+  },
+  {
+    "name": "altair_sys.c",
+    "href": "altair_sys.c",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/simh_v2.9-10/ALTAIR/altair_sys.c",
+    "is_dir": false,
+    "size": "9.2 KiB",
+    "date": "19-Sep-2001 03:00"
+  }
+]

@@ -1,0 +1,666 @@
+[
+  {
+    "name": "CE_Instruction_Reference_Maintenance",
+    "href": "CE_Instruction_Reference_Maintenance/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/1410/CE_Instruction_Reference_Maintenance/",
+    "is_dir": true,
+    "size": null,
+    "date": "12-Dec-2023 19:17"
+  },
+  {
+    "name": "diagnostics",
+    "href": "diagnostics/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/1410/diagnostics/",
+    "is_dir": true,
+    "size": null,
+    "date": "14-Jun-2012 18:56"
+  },
+  {
+    "name": "drawings",
+    "href": "drawings/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/1410/drawings/",
+    "is_dir": true,
+    "size": null,
+    "date": "14-Jun-2012 18:54"
+  },
+  {
+    "name": "1410_CE_Manual_Oct61.pdf",
+    "href": "1410_CE_Manual_Oct61.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/1410/1410_CE_Manual_Oct61.pdf",
+    "is_dir": false,
+    "size": "18.3 MiB",
+    "date": "24-Sep-2005 14:38"
+  },
+  {
+    "name": "223-2589_Instruction_Reference_1410_System_Fundamentals_Nov63.pdf",
+    "href": "223-2589_Instruction_Reference_1410_System_Fundamentals_Nov63.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/1410/223-2589_Instruction_Reference_1410_System_Fundamentals_Nov63.pdf",
+    "is_dir": false,
+    "size": "10.2 MiB",
+    "date": "16-Feb-2013 04:31"
+  },
+  {
+    "name": "A22-0526-2_1410_PrincOps.pdf",
+    "href": "A22-0526-2_1410_PrincOps.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/1410/A22-0526-2_1410_PrincOps.pdf",
+    "is_dir": false,
+    "size": "12.8 MiB",
+    "date": "10-Jun-2002 22:38"
+  },
+  {
+    "name": "A22-0526-3_1410_princOps.pdf",
+    "href": "A22-0526-3_1410_princOps.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/1410/A22-0526-3_1410_princOps.pdf",
+    "is_dir": false,
+    "size": "13.8 MiB",
+    "date": "23-Aug-2003 01:42"
+  },
+  {
+    "name": "A22-0526_1410_princOps.pdf",
+    "href": "A22-0526_1410_princOps.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/1410/A22-0526_1410_princOps.pdf",
+    "is_dir": false,
+    "size": "21.8 MiB",
+    "date": "14-Jun-2012 18:31"
+  },
+  {
+    "name": "A22-0526_1410_princOpsMay63.pdf",
+    "href": "A22-0526_1410_princOpsMay63.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/1410/A22-0526_1410_princOpsMay63.pdf",
+    "is_dir": false,
+    "size": "13.8 MiB",
+    "date": "03-Aug-2002 02:51"
+  },
+  {
+    "name": "A22-0530-1_1410_priorityFea.pdf",
+    "href": "A22-0530-1_1410_priorityFea.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/1410/A22-0530-1_1410_priorityFea.pdf",
+    "is_dir": false,
+    "size": "794.8 KiB",
+    "date": "23-Aug-2003 01:42"
+  },
+  {
+    "name": "A22-1407-2_1410ref_Nov61.pdf",
+    "href": "A22-1407-2_1410ref_Nov61.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/1410/A22-1407-2_1410ref_Nov61.pdf",
+    "is_dir": false,
+    "size": "17.0 MiB",
+    "date": "25-Mar-2002 03:26"
+  },
+  {
+    "name": "A22-6670_1410_1301disk.pdf",
+    "href": "A22-6670_1410_1301disk.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/1410/A22-6670_1410_1301disk.pdf",
+    "is_dir": false,
+    "size": "2.2 MiB",
+    "date": "23-Aug-2003 01:42"
+  },
+  {
+    "name": "A22-6701_GN22-0180-0_TNL_OEM_Information_1414_IO_Synchronizer.pdf",
+    "href": "A22-6701_GN22-0180-0_TNL_OEM_Information_1414_IO_Synchronizer.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/1410/A22-6701_GN22-0180-0_TNL_OEM_Information_1414_IO_Synchronizer.pdf",
+    "is_dir": false,
+    "size": "599.3 KiB",
+    "date": "14-Jun-2012 18:31"
+  },
+  {
+    "name": "A22-6701_OEM_Information_1414_IO_Synchronizer.pdf",
+    "href": "A22-6701_OEM_Information_1414_IO_Synchronizer.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/1410/A22-6701_OEM_Information_1414_IO_Synchronizer.pdf",
+    "is_dir": false,
+    "size": "22.3 MiB",
+    "date": "14-Jun-2012 18:32"
+  },
+  {
+    "name": "A22-6704_1311_Disk_for_1410_7010.pdf",
+    "href": "A22-6704_1311_Disk_for_1410_7010.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/1410/A22-6704_1311_Disk_for_1410_7010.pdf",
+    "is_dir": false,
+    "size": "4.1 MiB",
+    "date": "14-Jun-2012 18:32"
+  },
+  {
+    "name": "A22-6704_N22-0074_TNL_1311_Disk_for_1410_7010.pdf",
+    "href": "A22-6704_N22-0074_TNL_1311_Disk_for_1410_7010.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/1410/A22-6704_N22-0074_TNL_1311_Disk_for_1410_7010.pdf",
+    "is_dir": false,
+    "size": "25.3 KiB",
+    "date": "14-Jun-2012 18:32"
+  },
+  {
+    "name": "A22-6704_N22-0077_TNL_1311_Disk_for_1410_7010.pdf",
+    "href": "A22-6704_N22-0077_TNL_1311_Disk_for_1410_7010.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/1410/A22-6704_N22-0077_TNL_1311_Disk_for_1410_7010.pdf",
+    "is_dir": false,
+    "size": "38.5 KiB",
+    "date": "14-Jun-2012 18:32"
+  },
+  {
+    "name": "A22-6704_N22-0154_TNL_1311_Disk_for_1410_7010.pdf",
+    "href": "A22-6704_N22-0154_TNL_1311_Disk_for_1410_7010.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/1410/A22-6704_N22-0154_TNL_1311_Disk_for_1410_7010.pdf",
+    "is_dir": false,
+    "size": "230.4 KiB",
+    "date": "14-Jun-2012 18:32"
+  },
+  {
+    "name": "A22-6724_7010_System_Summary.pdf",
+    "href": "A22-6724_7010_System_Summary.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/1410/A22-6724_7010_System_Summary.pdf",
+    "is_dir": false,
+    "size": "5.9 MiB",
+    "date": "14-Jun-2012 18:32"
+  },
+  {
+    "name": "A22-6726_7010_PrincOps.pdf",
+    "href": "A22-6726_7010_PrincOps.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/1410/A22-6726_7010_PrincOps.pdf",
+    "is_dir": false,
+    "size": "11.3 MiB",
+    "date": "01-Jul-2007 06:45"
+  },
+  {
+    "name": "A22-6788_1301_1302_Disk_with_1410_7010.pdf",
+    "href": "A22-6788_1301_1302_Disk_with_1410_7010.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/1410/A22-6788_1301_1302_Disk_with_1410_7010.pdf",
+    "is_dir": false,
+    "size": "3.6 MiB",
+    "date": "14-Jun-2012 18:32"
+  },
+  {
+    "name": "A22-6826-4_1410_biblio.pdf",
+    "href": "A22-6826-4_1410_biblio.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/1410/A22-6826-4_1410_biblio.pdf",
+    "is_dir": false,
+    "size": "1.8 MiB",
+    "date": "23-Aug-2003 01:42"
+  },
+  {
+    "name": "A24-3070-1_1410_Disk_Storage_IO_Instructions.pdf",
+    "href": "A24-3070-1_1410_Disk_Storage_IO_Instructions.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/1410/A24-3070-1_1410_Disk_Storage_IO_Instructions.pdf",
+    "is_dir": false,
+    "size": "6.1 MiB",
+    "date": "14-Jun-2012 18:32"
+  },
+  {
+    "name": "C20-1602-8_1410_pgmCatJun68.pdf",
+    "href": "C20-1602-8_1410_pgmCatJun68.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/1410/C20-1602-8_1410_pgmCatJun68.pdf",
+    "is_dir": false,
+    "size": "4.3 MiB",
+    "date": "21-Aug-2003 01:51"
+  },
+  {
+    "name": "C28-0251_1410_IOCS_for_1301_Disk.pdf",
+    "href": "C28-0251_1410_IOCS_for_1301_Disk.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/1410/C28-0251_1410_IOCS_for_1301_Disk.pdf",
+    "is_dir": false,
+    "size": "7.5 MiB",
+    "date": "14-Jun-2012 18:32"
+  },
+  {
+    "name": "C28-0278-1_1410_IOCSoper.pdf",
+    "href": "C28-0278-1_1410_IOCSoper.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/1410/C28-0278-1_1410_IOCSoper.pdf",
+    "is_dir": false,
+    "size": "549.2 KiB",
+    "date": "20-Aug-2003 04:50"
+  },
+  {
+    "name": "C28-0278-1_1410iocsOper.pdf",
+    "href": "C28-0278-1_1410iocsOper.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/1410/C28-0278-1_1410iocsOper.pdf",
+    "is_dir": false,
+    "size": "482.7 KiB",
+    "date": "03-Aug-2002 02:51"
+  },
+  {
+    "name": "C28-0286_1410_iocsIndepAsm.pdf",
+    "href": "C28-0286_1410_iocsIndepAsm.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/1410/C28-0286_1410_iocsIndepAsm.pdf",
+    "is_dir": false,
+    "size": "657.8 KiB",
+    "date": "20-Aug-2003 04:50"
+  },
+  {
+    "name": "C28-0287-1_1410_osWith1301.pdf",
+    "href": "C28-0287-1_1410_osWith1301.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/1410/C28-0287-1_1410_osWith1301.pdf",
+    "is_dir": false,
+    "size": "4.6 MiB",
+    "date": "20-Aug-2003 04:50"
+  },
+  {
+    "name": "C28-0304_1410_Generalized_Sorting_Program_Using_1301_Disk.pdf",
+    "href": "C28-0304_1410_Generalized_Sorting_Program_Using_1301_Disk.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/1410/C28-0304_1410_Generalized_Sorting_Program_Using_1301_Disk.pdf",
+    "is_dir": false,
+    "size": "9.5 MiB",
+    "date": "14-Jun-2012 18:32"
+  },
+  {
+    "name": "C28-0304_N28-2005_TNL_1410_Generalized_Sorting_Program_Using_1301_Disk.pdf",
+    "href": "C28-0304_N28-2005_TNL_1410_Generalized_Sorting_Program_Using_1301_Disk.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/1410/C28-0304_N28-2005_TNL_1410_Generalized_Sorting_Program_Using_1301_Disk.pdf",
+    "is_dir": false,
+    "size": "996.2 KiB",
+    "date": "14-Jun-2012 18:32"
+  },
+  {
+    "name": "C28-0309-1_1410_autocoder.pdf",
+    "href": "C28-0309-1_1410_autocoder.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/1410/C28-0309-1_1410_autocoder.pdf",
+    "is_dir": false,
+    "size": "4.6 MiB",
+    "date": "19-Aug-2003 02:12"
+  },
+  {
+    "name": "C28-0309_1410_autocoder.pdf",
+    "href": "C28-0309_1410_autocoder.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/1410/C28-0309_1410_autocoder.pdf",
+    "is_dir": false,
+    "size": "5.8 MiB",
+    "date": "14-Jun-2012 18:32"
+  },
+  {
+    "name": "C28-0318-1_1410_OSconcepts.pdf",
+    "href": "C28-0318-1_1410_OSconcepts.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/1410/C28-0318-1_1410_OSconcepts.pdf",
+    "is_dir": false,
+    "size": "1.2 MiB",
+    "date": "03-Aug-2002 02:51"
+  },
+  {
+    "name": "C28-0318-3_1410_basicConcep.pdf",
+    "href": "C28-0318-3_1410_basicConcep.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/1410/C28-0318-3_1410_basicConcep.pdf",
+    "is_dir": false,
+    "size": "1.9 MiB",
+    "date": "18-Aug-2003 23:40"
+  },
+  {
+    "name": "C28-0319-1_1410systMonitor.pdf",
+    "href": "C28-0319-1_1410systMonitor.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/1410/C28-0319-1_1410systMonitor.pdf",
+    "is_dir": false,
+    "size": "5.9 MiB",
+    "date": "03-Aug-2002 02:51"
+  },
+  {
+    "name": "C28-0319-4_1410_sysMonitor.pdf",
+    "href": "C28-0319-4_1410_sysMonitor.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/1410/C28-0319-4_1410_sysMonitor.pdf",
+    "is_dir": false,
+    "size": "7.3 MiB",
+    "date": "18-Aug-2003 23:40"
+  },
+  {
+    "name": "C28-0321-1_1410teleProc.pdf",
+    "href": "C28-0321-1_1410teleProc.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/1410/C28-0321-1_1410teleProc.pdf",
+    "is_dir": false,
+    "size": "2.6 MiB",
+    "date": "03-Aug-2002 02:51"
+  },
+  {
+    "name": "C28-0321-5_1410_OS_TeleProcessing_Supervisor.pdf",
+    "href": "C28-0321-5_1410_OS_TeleProcessing_Supervisor.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/1410/C28-0321-5_1410_OS_TeleProcessing_Supervisor.pdf",
+    "is_dir": false,
+    "size": "20.1 MiB",
+    "date": "14-Jun-2012 18:32"
+  },
+  {
+    "name": "C28-0322-1_1410iocs.pdf",
+    "href": "C28-0322-1_1410iocs.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/1410/C28-0322-1_1410iocs.pdf",
+    "is_dir": false,
+    "size": "5.9 MiB",
+    "date": "03-Aug-2002 02:51"
+  },
+  {
+    "name": "C28-0322-4_1410_basic_IOCS.pdf",
+    "href": "C28-0322-4_1410_basic_IOCS.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/1410/C28-0322-4_1410_basic_IOCS.pdf",
+    "is_dir": false,
+    "size": "6.2 MiB",
+    "date": "18-Aug-2003 23:40"
+  },
+  {
+    "name": "C28-0323-1_1410randomSched.pdf",
+    "href": "C28-0323-1_1410randomSched.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/1410/C28-0323-1_1410randomSched.pdf",
+    "is_dir": false,
+    "size": "2.3 MiB",
+    "date": "03-Aug-2002 02:51"
+  },
+  {
+    "name": "C28-0325-1_1410utilPgms.pdf",
+    "href": "C28-0325-1_1410utilPgms.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/1410/C28-0325-1_1410utilPgms.pdf",
+    "is_dir": false,
+    "size": "208.0 KiB",
+    "date": "03-Aug-2002 02:51"
+  },
+  {
+    "name": "C28-0326-1_1410_OS_Autocoder.pdf",
+    "href": "C28-0326-1_1410_OS_Autocoder.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/1410/C28-0326-1_1410_OS_Autocoder.pdf",
+    "is_dir": false,
+    "size": "7.0 MiB",
+    "date": "14-Jun-2012 18:32"
+  },
+  {
+    "name": "C28-0326-2_1410_OS_Autocoder.pdf",
+    "href": "C28-0326-2_1410_OS_Autocoder.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/1410/C28-0326-2_1410_OS_Autocoder.pdf",
+    "is_dir": false,
+    "size": "6.9 MiB",
+    "date": "14-Jun-2012 18:32"
+  },
+  {
+    "name": "C28-0326-2_N27-1223_TNL_1410_OS_Autocoder.pdf",
+    "href": "C28-0326-2_N27-1223_TNL_1410_OS_Autocoder.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/1410/C28-0326-2_N27-1223_TNL_1410_OS_Autocoder.pdf",
+    "is_dir": false,
+    "size": "1013.0 KiB",
+    "date": "14-Jun-2012 18:32"
+  },
+  {
+    "name": "C28-0326-2_N27-1267_TNL_1410_OS_Autocoder.pdf",
+    "href": "C28-0326-2_N27-1267_TNL_1410_OS_Autocoder.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/1410/C28-0326-2_N27-1267_TNL_1410_OS_Autocoder.pdf",
+    "is_dir": false,
+    "size": "1.0 MiB",
+    "date": "14-Jun-2012 18:33"
+  },
+  {
+    "name": "C28-0327-1_1410_Cobol.pdf",
+    "href": "C28-0327-1_1410_Cobol.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/1410/C28-0327-1_1410_Cobol.pdf",
+    "is_dir": false,
+    "size": "3.6 MiB",
+    "date": "03-Aug-2002 02:51"
+  },
+  {
+    "name": "C28-0327-5_1410_Cobol.pdf",
+    "href": "C28-0327-5_1410_Cobol.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/1410/C28-0327-5_1410_Cobol.pdf",
+    "is_dir": false,
+    "size": "4.5 MiB",
+    "date": "18-Aug-2003 23:40"
+  },
+  {
+    "name": "C28-0328-1_1410_Fortran.pdf",
+    "href": "C28-0328-1_1410_Fortran.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/1410/C28-0328-1_1410_Fortran.pdf",
+    "is_dir": false,
+    "size": "3.7 MiB",
+    "date": "03-Aug-2002 02:51"
+  },
+  {
+    "name": "C28-0328-3_1410_Fortran.pdf",
+    "href": "C28-0328-3_1410_Fortran.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/1410/C28-0328-3_1410_Fortran.pdf",
+    "is_dir": false,
+    "size": "4.5 MiB",
+    "date": "18-Aug-2003 23:40"
+  },
+  {
+    "name": "C28-0334-1_1410_IOCS.pdf",
+    "href": "C28-0334-1_1410_IOCS.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/1410/C28-0334-1_1410_IOCS.pdf",
+    "is_dir": false,
+    "size": "4.4 MiB",
+    "date": "18-Aug-2003 23:40"
+  },
+  {
+    "name": "C28-0343_1410_Sort_Merge_12.pdf",
+    "href": "C28-0343_1410_Sort_Merge_12.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/1410/C28-0343_1410_Sort_Merge_12.pdf",
+    "is_dir": false,
+    "size": "10.8 MiB",
+    "date": "14-Jun-2012 18:33"
+  },
+  {
+    "name": "C28-0343_N28-2006_TNL_1410_Sort_Merge_12.pdf",
+    "href": "C28-0343_N28-2006_TNL_1410_Sort_Merge_12.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/1410/C28-0343_N28-2006_TNL_1410_Sort_Merge_12.pdf",
+    "is_dir": false,
+    "size": "1.3 MiB",
+    "date": "14-Jun-2012 18:33"
+  },
+  {
+    "name": "C28-0351-5_1410_operGuide.pdf",
+    "href": "C28-0351-5_1410_operGuide.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/1410/C28-0351-5_1410_operGuide.pdf",
+    "is_dir": false,
+    "size": "8.5 MiB",
+    "date": "18-Aug-2003 02:29"
+  },
+  {
+    "name": "C28-0352-5_1410_OS_System_Generation.pdf",
+    "href": "C28-0352-5_1410_OS_System_Generation.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/1410/C28-0352-5_1410_OS_System_Generation.pdf",
+    "is_dir": false,
+    "size": "10.2 MiB",
+    "date": "14-Jun-2012 18:33"
+  },
+  {
+    "name": "C28-0352-5_N27-1270_TNL_1410_Sysgen.pdf",
+    "href": "C28-0352-5_N27-1270_TNL_1410_Sysgen.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/1410/C28-0352-5_N27-1270_TNL_1410_Sysgen.pdf",
+    "is_dir": false,
+    "size": "874.8 KiB",
+    "date": "14-Jun-2012 18:33"
+  },
+  {
+    "name": "C28-0352_1410sysgen.pdf",
+    "href": "C28-0352_1410sysgen.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/1410/C28-0352_1410sysgen.pdf",
+    "is_dir": false,
+    "size": "5.8 MiB",
+    "date": "03-Aug-2002 02:51"
+  },
+  {
+    "name": "C28-0353-3_1410_utilPgms.pdf",
+    "href": "C28-0353-3_1410_utilPgms.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/1410/C28-0353-3_1410_utilPgms.pdf",
+    "is_dir": false,
+    "size": "2.9 MiB",
+    "date": "18-Aug-2003 02:29"
+  },
+  {
+    "name": "C28-0353-5_1410_sysgen.pdf",
+    "href": "C28-0353-5_1410_sysgen.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/1410/C28-0353-5_1410_sysgen.pdf",
+    "is_dir": false,
+    "size": "8.1 MiB",
+    "date": "18-Aug-2003 02:29"
+  },
+  {
+    "name": "C28-0354-2_1410_OS_Sort.pdf",
+    "href": "C28-0354-2_1410_OS_Sort.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/1410/C28-0354-2_1410_OS_Sort.pdf",
+    "is_dir": false,
+    "size": "16.5 MiB",
+    "date": "14-Jun-2012 18:33"
+  },
+  {
+    "name": "C28-0354-2_N27-1271_TNL_1410_OS_Sort.pdf",
+    "href": "C28-0354-2_N27-1271_TNL_1410_OS_Sort.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/1410/C28-0354-2_N27-1271_TNL_1410_OS_Sort.pdf",
+    "is_dir": false,
+    "size": "2.2 MiB",
+    "date": "14-Jun-2012 18:33"
+  },
+  {
+    "name": "C28-0404-1_1410_sort1301.pdf",
+    "href": "C28-0404-1_1410_sort1301.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/1410/C28-0404-1_1410_sort1301.pdf",
+    "is_dir": false,
+    "size": "13.0 MiB",
+    "date": "18-Aug-2003 02:29"
+  },
+  {
+    "name": "C28-0405-2_1410_diskFileSys.pdf",
+    "href": "C28-0405-2_1410_diskFileSys.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/1410/C28-0405-2_1410_diskFileSys.pdf",
+    "is_dir": false,
+    "size": "4.5 MiB",
+    "date": "18-Aug-2003 02:29"
+  },
+  {
+    "name": "C28-0541-1_1410_IOCS_PSAG.pdf",
+    "href": "C28-0541-1_1410_IOCS_PSAG.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/1410/C28-0541-1_1410_IOCS_PSAG.pdf",
+    "is_dir": false,
+    "size": "9.7 MiB",
+    "date": "14-Jun-2012 18:33"
+  },
+  {
+    "name": "E20-0225_1410_Tape_System_for_Demand_Deposit_Accounting.pdf",
+    "href": "E20-0225_1410_Tape_System_for_Demand_Deposit_Accounting.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/1410/E20-0225_1410_Tape_System_for_Demand_Deposit_Accounting.pdf",
+    "is_dir": false,
+    "size": "5.4 MiB",
+    "date": "14-Jun-2012 18:33"
+  },
+  {
+    "name": "G22-6654_1410_pgmAdrClock.pdf",
+    "href": "G22-6654_1410_pgmAdrClock.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/1410/G22-6654_1410_pgmAdrClock.pdf",
+    "is_dir": false,
+    "size": "130.2 KiB",
+    "date": "17-Aug-2003 04:08"
+  },
+  {
+    "name": "G24-1444-1_1014_Remote_Inquiry_Unit.pdf",
+    "href": "G24-1444-1_1014_Remote_Inquiry_Unit.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/1410/G24-1444-1_1014_Remote_Inquiry_Unit.pdf",
+    "is_dir": false,
+    "size": "1.2 MiB",
+    "date": "14-Jun-2012 18:33"
+  },
+  {
+    "name": "GC22-6681-4_1410_7000_Series_IO_Components_Physical_Planning.pdf",
+    "href": "GC22-6681-4_1410_7000_Series_IO_Components_Physical_Planning.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/1410/GC22-6681-4_1410_7000_Series_IO_Components_Physical_Planning.pdf",
+    "is_dir": false,
+    "size": "44.9 MiB",
+    "date": "14-Jun-2012 18:34"
+  },
+  {
+    "name": "GC28-0278-3_1410_IOCS_Card_Tape_Operators_Guide.pdf",
+    "href": "GC28-0278-3_1410_IOCS_Card_Tape_Operators_Guide.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/1410/GC28-0278-3_1410_IOCS_Card_Tape_Operators_Guide.pdf",
+    "is_dir": false,
+    "size": "6.5 MiB",
+    "date": "14-Jun-2012 18:34"
+  },
+  {
+    "name": "GC28-0327-5_1410_OS_Cobol.pdf",
+    "href": "GC28-0327-5_1410_OS_Cobol.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/1410/GC28-0327-5_1410_OS_Cobol.pdf",
+    "is_dir": false,
+    "size": "6.0 MiB",
+    "date": "14-Jun-2012 18:34"
+  },
+  {
+    "name": "GC28-0334-2_1410_IOCS_for_Card_Tape.pdf",
+    "href": "GC28-0334-2_1410_IOCS_for_Card_Tape.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/1410/GC28-0334-2_1410_IOCS_for_Card_Tape.pdf",
+    "is_dir": false,
+    "size": "16.3 MiB",
+    "date": "14-Jun-2012 18:34"
+  },
+  {
+    "name": "GC28-0354-3_1410_OS_Sort.pdf",
+    "href": "GC28-0354-3_1410_OS_Sort.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/1410/GC28-0354-3_1410_OS_Sort.pdf",
+    "is_dir": false,
+    "size": "48.7 MiB",
+    "date": "14-Jun-2012 18:34"
+  },
+  {
+    "name": "J24-1433-2_1410_Autocoder_Preliminary_Specifications_1961.pdf",
+    "href": "J24-1433-2_1410_Autocoder_Preliminary_Specifications_1961.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/1410/J24-1433-2_1410_Autocoder_Preliminary_Specifications_1961.pdf",
+    "is_dir": false,
+    "size": "3.1 MiB",
+    "date": "28-May-2013 23:43"
+  },
+  {
+    "name": "J24-1468-1_1410fortran.pdf",
+    "href": "J24-1468-1_1410fortran.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/1410/J24-1468-1_1410fortran.pdf",
+    "is_dir": false,
+    "size": "2.1 MiB",
+    "date": "03-Aug-2002 02:51"
+  },
+  {
+    "name": "J28-0243_1410_Operating_System_Using_Magnetic_Tape_and_1301_Disk_Storage_1962.pdf",
+    "href": "J28-0243_1410_Operating_System_Using_Magnetic_Tape_and_1301_Disk_Storage_1962.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/1410/J28-0243_1410_Operating_System_Using_Magnetic_Tape_and_1301_Disk_Storage_1962.pdf",
+    "is_dir": false,
+    "size": "756.6 KiB",
+    "date": "08-May-2021 01:24"
+  },
+  {
+    "name": "J28-0249_1410_Utility_Programs_Part_III_1962.pdf",
+    "href": "J28-0249_1410_Utility_Programs_Part_III_1962.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/1410/J28-0249_1410_Utility_Programs_Part_III_1962.pdf",
+    "is_dir": false,
+    "size": "2.3 MiB",
+    "date": "08-May-2021 01:25"
+  },
+  {
+    "name": "J28-1432-2_1410_IOCS_for_Card_Tape_Preliminary_Specifications.pdf",
+    "href": "J28-1432-2_1410_IOCS_for_Card_Tape_Preliminary_Specifications.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/1410/J28-1432-2_1410_IOCS_for_Card_Tape_Preliminary_Specifications.pdf",
+    "is_dir": false,
+    "size": "6.9 MiB",
+    "date": "14-Jun-2012 18:34"
+  },
+  {
+    "name": "J28-1432-3_1410_IOCS_for_Card_Tape_Preliminary_Specifications.pdf",
+    "href": "J28-1432-3_1410_IOCS_for_Card_Tape_Preliminary_Specifications.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/1410/J28-1432-3_1410_IOCS_for_Card_Tape_Preliminary_Specifications.pdf",
+    "is_dir": false,
+    "size": "5.5 MiB",
+    "date": "14-Jun-2012 18:34"
+  },
+  {
+    "name": "N20-1410-27_pubIndex_Aug68.pdf",
+    "href": "N20-1410-27_pubIndex_Aug68.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/1410/N20-1410-27_pubIndex_Aug68.pdf",
+    "is_dir": false,
+    "size": "665.1 KiB",
+    "date": "16-Aug-2003 04:17"
+  },
+  {
+    "name": "N28-1069_1410autocoderJul63.pdf",
+    "href": "N28-1069_1410autocoderJul63.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/1410/N28-1069_1410autocoderJul63.pdf",
+    "is_dir": false,
+    "size": "558.3 KiB",
+    "date": "03-Aug-2002 02:51"
+  },
+  {
+    "name": "N28-1077_1410monitorAug63.pdf",
+    "href": "N28-1077_1410monitorAug63.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/1410/N28-1077_1410monitorAug63.pdf",
+    "is_dir": false,
+    "size": "2.6 MiB",
+    "date": "03-Aug-2002 02:51"
+  },
+  {
+    "name": "N28-1078_1410sysgenAug63.pdf",
+    "href": "N28-1078_1410sysgenAug63.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/1410/N28-1078_1410sysgenAug63.pdf",
+    "is_dir": false,
+    "size": "406.4 KiB",
+    "date": "03-Aug-2002 02:51"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "name": "firmware",
+    "href": "firmware/",
+    "url": "https://myrient.erista.me/files/bitsavers/communications/cmc/ENP-100/firmware/",
+    "is_dir": true,
+    "size": null,
+    "date": "13-Jun-2025 16:55"
+  },
+  {
+    "name": "CMC100_files.tgz",
+    "href": "CMC100_files.tgz",
+    "url": "https://myrient.erista.me/files/bitsavers/communications/cmc/ENP-100/CMC100_files.tgz",
+    "is_dir": false,
+    "size": "393.0 KiB",
+    "date": "13-Jun-2025 18:24"
+  },
+  {
+    "name": "ENP-100_1988.jpg",
+    "href": "ENP-100_1988.jpg",
+    "url": "https://myrient.erista.me/files/bitsavers/communications/cmc/ENP-100/ENP-100_1988.jpg",
+    "is_dir": false,
+    "size": "129.6 KiB",
+    "date": "13-Jun-2025 16:55"
+  }
+]

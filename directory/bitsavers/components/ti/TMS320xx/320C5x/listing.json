@@ -1,0 +1,194 @@
+[
+  {
+    "name": "TMS320C54x_EVM",
+    "href": "TMS320C54x_EVM/",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ti/TMS320xx/320C5x/TMS320C54x_EVM/",
+    "is_dir": true,
+    "size": null,
+    "date": "01-Jul-2022 14:46"
+  },
+  {
+    "name": "UCB_Viterbi_Decoder",
+    "href": "UCB_Viterbi_Decoder/",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ti/TMS320xx/320C5x/UCB_Viterbi_Decoder/",
+    "is_dir": true,
+    "size": null,
+    "date": "30-Jun-2022 17:30"
+  },
+  {
+    "name": "SLAA040_Interfacing_the_TLV1562_Parallel_ADC_to_the_TMS320C54x_DSP_199907.pdf",
+    "href": "SLAA040_Interfacing_the_TLV1562_Parallel_ADC_to_the_TMS320C54x_DSP_199907.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ti/TMS320xx/320C5x/SLAA040_Interfacing_the_TLV1562_Parallel_ADC_to_the_TMS320C54x_DSP_199907.pdf",
+    "is_dir": false,
+    "size": "305.6 KiB",
+    "date": "30-Jun-2022 17:33"
+  },
+  {
+    "name": "SLAA201_Interfacing_the_MSOP8_EVM_to_TMS320C5x_Processors_200405.pdf",
+    "href": "SLAA201_Interfacing_the_MSOP8_EVM_to_TMS320C5x_Processors_200405.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ti/TMS320xx/320C5x/SLAA201_Interfacing_the_MSOP8_EVM_to_TMS320C5x_Processors_200405.pdf",
+    "is_dir": false,
+    "size": "214.6 KiB",
+    "date": "30-Jun-2022 17:34"
+  },
+  {
+    "name": "SPRS030A_TMS320C5x_TMS320LC5x_Data_Sheet_199604.pdf",
+    "href": "SPRS030A_TMS320C5x_TMS320LC5x_Data_Sheet_199604.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ti/TMS320xx/320C5x/SPRS030A_TMS320C5x_TMS320LC5x_Data_Sheet_199604.pdf",
+    "is_dir": false,
+    "size": "1.5 MiB",
+    "date": "30-Jun-2022 17:34"
+  },
+  {
+    "name": "SPRS039C_TMS320C54x_TMS320LC54x_TMS320VC54x_Data_Sheet_199912.pdf",
+    "href": "SPRS039C_TMS320C54x_TMS320LC54x_TMS320VC54x_Data_Sheet_199912.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ti/TMS320xx/320C5x/SPRS039C_TMS320C54x_TMS320LC54x_TMS320VC54x_Data_Sheet_199912.pdf",
+    "is_dir": false,
+    "size": "1.7 MiB",
+    "date": "30-Jun-2022 17:34"
+  },
+  {
+    "name": "SPRU056B_TMS320C5x_Users_Guide_1993.pdf",
+    "href": "SPRU056B_TMS320C5x_Users_Guide_1993.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ti/TMS320xx/320C5x/SPRU056B_TMS320C5x_Users_Guide_1993.pdf",
+    "is_dir": false,
+    "size": "35.5 MiB",
+    "date": "01-Aug-2021 01:58"
+  },
+  {
+    "name": "SPRU056D_TMS320C5x_Users_Guide_199806.pdf",
+    "href": "SPRU056D_TMS320C5x_Users_Guide_199806.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ti/TMS320xx/320C5x/SPRU056D_TMS320C5x_Users_Guide_199806.pdf",
+    "is_dir": false,
+    "size": "2.9 MiB",
+    "date": "30-Jun-2022 17:34"
+  },
+  {
+    "name": "SPRU101A_320C5x_DSP_Starter_Kit_Users_Guide_199606.pdf",
+    "href": "SPRU101A_320C5x_DSP_Starter_Kit_Users_Guide_199606.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ti/TMS320xx/320C5x/SPRU101A_320C5x_DSP_Starter_Kit_Users_Guide_199606.pdf",
+    "is_dir": false,
+    "size": "434.7 KiB",
+    "date": "30-Jun-2022 17:56"
+  },
+  {
+    "name": "SPRU102F_TMS320C54x_Assembly_Language_Tools_Users_Guide_200210.pdf",
+    "href": "SPRU102F_TMS320C54x_Assembly_Language_Tools_Users_Guide_200210.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ti/TMS320xx/320C5x/SPRU102F_TMS320C54x_Assembly_Language_Tools_Users_Guide_200210.pdf",
+    "is_dir": false,
+    "size": "2.1 MiB",
+    "date": "30-Jun-2022 17:36"
+  },
+  {
+    "name": "SPRU131F_TMS320C54x_DSP_Reference_Set_Volume_1_199904.pdf",
+    "href": "SPRU131F_TMS320C54x_DSP_Reference_Set_Volume_1_199904.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ti/TMS320xx/320C5x/SPRU131F_TMS320C54x_DSP_Reference_Set_Volume_1_199904.pdf",
+    "is_dir": false,
+    "size": "2.1 MiB",
+    "date": "30-Jun-2022 17:30"
+  },
+  {
+    "name": "SPRU164_TMS320C54x_General_Purpose_Applications_Users_Guide_199707.pdf",
+    "href": "SPRU164_TMS320C54x_General_Purpose_Applications_Users_Guide_199707.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ti/TMS320xx/320C5x/SPRU164_TMS320C54x_General_Purpose_Applications_Users_Guide_199707.pdf",
+    "is_dir": false,
+    "size": "531.2 KiB",
+    "date": "30-Jun-2022 17:36"
+  },
+  {
+    "name": "SPRU172C_TMS320C54x_DSP_Reference_Set_Mnemonic_Instruction_Set_Volume_2_200103.pdf",
+    "href": "SPRU172C_TMS320C54x_DSP_Reference_Set_Mnemonic_Instruction_Set_Volume_2_200103.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ti/TMS320xx/320C5x/SPRU172C_TMS320C54x_DSP_Reference_Set_Mnemonic_Instruction_Set_Volume_2_200103.pdf",
+    "is_dir": false,
+    "size": "1.1 MiB",
+    "date": "01-Jul-2022 03:31"
+  },
+  {
+    "name": "SPRU173_TMS320C54x_DSP_Reference_Set_Volume_4_199610.pdf",
+    "href": "SPRU173_TMS320C54x_DSP_Reference_Set_Volume_4_199610.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ti/TMS320xx/320C5x/SPRU173_TMS320C54x_DSP_Reference_Set_Volume_4_199610.pdf",
+    "is_dir": false,
+    "size": "1.2 MiB",
+    "date": "30-Jun-2022 17:30"
+  },
+  {
+    "name": "SPRU179C_TMS320C54x_DSP_Reference_Set_Algebraic_Instruction_Set_Volume_3.pdf",
+    "href": "SPRU179C_TMS320C54x_DSP_Reference_Set_Algebraic_Instruction_Set_Volume_3.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ti/TMS320xx/320C5x/SPRU179C_TMS320C54x_DSP_Reference_Set_Algebraic_Instruction_Set_Volume_3.pdf",
+    "is_dir": false,
+    "size": "1.0 MiB",
+    "date": "01-Jul-2022 03:31"
+  },
+  {
+    "name": "SPRU191_TMS320C54x_DSKplus_Users_Guide_199610.pdf",
+    "href": "SPRU191_TMS320C54x_DSKplus_Users_Guide_199610.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ti/TMS320xx/320C5x/SPRU191_TMS320C54x_DSKplus_Users_Guide_199610.pdf",
+    "is_dir": false,
+    "size": "737.5 KiB",
+    "date": "30-Jun-2022 17:30"
+  },
+  {
+    "name": "SPRU237C_TMS320C54x_Code_Composer_Studio_Tutorial_2002.pdf",
+    "href": "SPRU237C_TMS320C54x_Code_Composer_Studio_Tutorial_2002.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ti/TMS320xx/320C5x/SPRU237C_TMS320C54x_Code_Composer_Studio_Tutorial_2002.pdf",
+    "is_dir": false,
+    "size": "861.5 KiB",
+    "date": "30-Jun-2022 17:36"
+  },
+  {
+    "name": "SPRU302B_TMS320C54x_DSP_Reference_Set_Enhanced_Peripherals_Volume_5_200703.pdf",
+    "href": "SPRU302B_TMS320C54x_DSP_Reference_Set_Enhanced_Peripherals_Volume_5_200703.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ti/TMS320xx/320C5x/SPRU302B_TMS320C54x_DSP_Reference_Set_Enhanced_Peripherals_Volume_5_200703.pdf",
+    "is_dir": false,
+    "size": "1.2 MiB",
+    "date": "01-Jul-2022 03:31"
+  },
+  {
+    "name": "SPRU327A_TMS320C54x_Code_Composer_Studio_Tutorial_199908.pdf",
+    "href": "SPRU327A_TMS320C54x_Code_Composer_Studio_Tutorial_199908.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ti/TMS320xx/320C5x/SPRU327A_TMS320C54x_Code_Composer_Studio_Tutorial_199908.pdf",
+    "is_dir": false,
+    "size": "998.8 KiB",
+    "date": "01-Jul-2022 03:31"
+  },
+  {
+    "name": "SPRU404A_TMS320C54x_DSP_BIOS_API_200005.pdf",
+    "href": "SPRU404A_TMS320C54x_DSP_BIOS_API_200005.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ti/TMS320xx/320C5x/SPRU404A_TMS320C54x_DSP_BIOS_API_200005.pdf",
+    "is_dir": false,
+    "size": "1.1 MiB",
+    "date": "01-Jul-2022 03:31"
+  },
+  {
+    "name": "SPRU574_TMS320DSC24_Digital_Multimedia_Processor_Technical_Reference_200211.pdf",
+    "href": "SPRU574_TMS320DSC24_Digital_Multimedia_Processor_Technical_Reference_200211.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ti/TMS320xx/320C5x/SPRU574_TMS320DSC24_Digital_Multimedia_Processor_Technical_Reference_200211.pdf",
+    "is_dir": false,
+    "size": "3.3 MiB",
+    "date": "01-Jul-2022 03:31"
+  },
+  {
+    "name": "SPRUI326A_TMS320C54x_DSP_BIOS_Users_Guide_199909.pdf",
+    "href": "SPRUI326A_TMS320C54x_DSP_BIOS_Users_Guide_199909.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ti/TMS320xx/320C5x/SPRUI326A_TMS320C54x_DSP_BIOS_Users_Guide_199909.pdf",
+    "is_dir": false,
+    "size": "1.3 MiB",
+    "date": "01-Jul-2022 03:31"
+  },
+  {
+    "name": "SPRUI326C_TMS320C54x_DSP_BIOS_Users_Guide_200005.pdf",
+    "href": "SPRUI326C_TMS320C54x_DSP_BIOS_Users_Guide_200005.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ti/TMS320xx/320C5x/SPRUI326C_TMS320C54x_DSP_BIOS_Users_Guide_200005.pdf",
+    "is_dir": false,
+    "size": "1.2 MiB",
+    "date": "01-Jul-2022 03:30"
+  },
+  {
+    "name": "TMS320C5x_Users_Guide_1991.pdf",
+    "href": "TMS320C5x_Users_Guide_1991.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ti/TMS320xx/320C5x/TMS320C5x_Users_Guide_1991.pdf",
+    "is_dir": false,
+    "size": "9.5 MiB",
+    "date": "05-Sep-2013 18:55"
+  }
+]

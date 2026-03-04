@@ -1,0 +1,50 @@
+[
+  {
+    "name": "applications.chd",
+    "href": "applications.chd",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20CHDs%20%28merged%29/sgi_mips/irix_6_5_30/applications.chd",
+    "is_dir": false,
+    "size": "522.4 MiB",
+    "date": "29-Sep-2025 06:11"
+  },
+  {
+    "name": "complementary_applications.chd",
+    "href": "complementary_applications.chd",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20CHDs%20%28merged%29/sgi_mips/irix_6_5_30/complementary_applications.chd",
+    "is_dir": false,
+    "size": "344.4 MiB",
+    "date": "29-Sep-2025 06:21"
+  },
+  {
+    "name": "instalation_tools_and_overlays_1.chd",
+    "href": "instalation_tools_and_overlays_1.chd",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20CHDs%20%28merged%29/sgi_mips/irix_6_5_30/instalation_tools_and_overlays_1.chd",
+    "is_dir": false,
+    "size": "355.0 MiB",
+    "date": "29-Sep-2025 06:10"
+  },
+  {
+    "name": "irix_6_5_30_doc.chd",
+    "href": "irix_6_5_30_doc.chd",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20CHDs%20%28merged%29/sgi_mips/irix_6_5_30/irix_6_5_30_doc.chd",
+    "is_dir": false,
+    "size": "195.1 MiB",
+    "date": "29-Sep-2025 05:05"
+  },
+  {
+    "name": "overlays_2.chd",
+    "href": "overlays_2.chd",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20CHDs%20%28merged%29/sgi_mips/irix_6_5_30/overlays_2.chd",
+    "is_dir": false,
+    "size": "368.8 MiB",
+    "date": "29-Sep-2025 06:10"
+  },
+  {
+    "name": "overlays_3.chd",
+    "href": "overlays_3.chd",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20CHDs%20%28merged%29/sgi_mips/irix_6_5_30/overlays_3.chd",
+    "is_dir": false,
+    "size": "535.7 MiB",
+    "date": "29-Sep-2025 06:15"
+  }
+]

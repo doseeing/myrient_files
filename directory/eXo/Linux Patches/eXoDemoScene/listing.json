@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Content",
+    "href": "Content/",
+    "url": "https://myrient.erista.me/files/eXo/Linux%20Patches/eXoDemoScene/Content/",
+    "is_dir": true,
+    "size": null,
+    "date": "26-Sep-2025 05:27"
+  },
+  {
+    "name": "eXo",
+    "href": "eXo/",
+    "url": "https://myrient.erista.me/files/eXo/Linux%20Patches/eXoDemoScene/eXo/",
+    "is_dir": true,
+    "size": null,
+    "date": "26-Sep-2025 05:27"
+  },
+  {
+    "name": "Setup eXoDemoScene.command",
+    "href": "Setup%20eXoDemoScene.command",
+    "url": "https://myrient.erista.me/files/eXo/Linux%20Patches/eXoDemoScene/Setup%20eXoDemoScene.command",
+    "is_dir": false,
+    "size": "46.0 KiB",
+    "date": "26-Sep-2025 06:24"
+  },
+  {
+    "name": "eXoDemoScene Linux ReadMe.txt",
+    "href": "eXoDemoScene%20Linux%20ReadMe.txt",
+    "url": "https://myrient.erista.me/files/eXo/Linux%20Patches/eXoDemoScene/eXoDemoScene%20Linux%20ReadMe.txt",
+    "is_dir": false,
+    "size": "26.4 KiB",
+    "date": "26-Sep-2025 06:25"
+  },
+  {
+    "name": "install_dependencies.command",
+    "href": "install_dependencies.command",
+    "url": "https://myrient.erista.me/files/eXo/Linux%20Patches/eXoDemoScene/install_dependencies.command",
+    "is_dir": false,
+    "size": "19.2 KiB",
+    "date": "26-Sep-2025 06:24"
+  }
+]

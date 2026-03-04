@@ -1,0 +1,83 @@
+name	is_dir	size	date
+auscom	True	-	21-Apr-2017 01:47
+cl	True	-	21-Apr-2017 01:29
+dvi	True	-	21-Apr-2017 01:29
+pascal	True	-	21-Apr-2017 01:29
+pkg	True	-	21-Apr-2017 01:29
+steve	True	-	21-Apr-2017 01:29
+todo	True	-	21-Apr-2017 01:29
+ts	True	-	21-Apr-2017 01:29
+16fix.lisp.1	False	566 B	21-Apr-2017 01:04
+amap.lisp.3	False	47.7 KiB	21-Apr-2017 01:04
+amessage.text.1	False	173 B	21-Apr-2017 01:04
+b.impress.1	False	18.1 KiB	21-Apr-2017 01:04
+b.lisp.1	False	975 B	21-Apr-2017 01:04
+bn.lisp.4	False	3.1 KiB	21-Apr-2017 01:04
+configuration-compatibility.lisp.4	False	10.7 KiB	21-Apr-2017 01:04
+copyright.lisp.2	False	1.4 KiB	21-Apr-2017 01:04
+d-info.lisp.2	False	404 B	21-Apr-2017 01:04
+db.lisp.2	False	1.1 KiB	21-Apr-2017 01:04
+decm.lisp.1	False	993 B	21-Apr-2017 01:04
+diag-frame-1.bits.1	False	100.0 KiB	21-Apr-2017 01:04
+diag-frame-1.defaults.5	False	118 B	21-Apr-2017 01:04
+diag.mail.1	False	1017 B	21-Apr-2017 01:04
+distribution.text.2	False	1.9 KiB	21-Apr-2017 01:04
+dj.screen.1	False	100.0 KiB	21-Apr-2017 01:04
+drib.out.1	False	4.3 KiB	21-Apr-2017 01:04
+emap.lisp.1	False	465 B	21-Apr-2017 01:04
+environment-sharing.text.1	False	2.2 KiB	21-Apr-2017 01:04
+eval.lisp.6	False	3.1 KiB	21-Apr-2017 01:04
+fedp.lisp.3	False	1.3 KiB	21-Apr-2017 01:04
+fef-sizes-again.lisp.1	False	561 B	21-Apr-2017 01:04
+find-files.lisp.1	False	599 B	21-Apr-2017 01:04
+foo-ops.lisp.1	False	620 B	21-Apr-2017 01:04
+foo.bar.2	False	1.8 KiB	21-Apr-2017 01:04
+foo.l.1	False	1.6 KiB	21-Apr-2017 01:04
+foo.plot.1	False	1.2 KiB	21-Apr-2017 01:04
+fptst.lisp.2	False	2.3 KiB	21-Apr-2017 01:04
+garbage.text.1	False	9.1 KiB	21-Apr-2017 01:04
+gc-dribble.text.2	False	8.1 KiB	21-Apr-2017 01:04
+gc.paint.1	False	59.2 KiB	21-Apr-2017 01:04
+hash.lisp.8	False	10.2 KiB	21-Apr-2017 01:04
+i-mem.lisp.1	False	960 B	21-Apr-2017 01:04
+inet.lisp.2	False	1.2 KiB	21-Apr-2017 01:04
+its-dump.lisp.1	False	2.9 KiB	21-Apr-2017 01:04
+lam.init.3	False	475 B	21-Apr-2017 01:04
+lambda-e-vs-fan24.text.1	False	49.9 KiB	21-Apr-2017 01:04
+lambda-e.data.1	False	15.0 KiB	21-Apr-2017 01:04
+leval.lisp.4	False	3.5 KiB	21-Apr-2017 01:04
+lstats.text.2	False	568 B	21-Apr-2017 01:04
+macro-depend.lisp.1	False	486 B	21-Apr-2017 01:04
+macsyma-tape.lisp.2	False	3.9 KiB	21-Apr-2017 01:04
+mc.lisp.1	False	469 B	21-Apr-2017 01:04
+mdiag.lisp.1	False	12.6 KiB	21-Apr-2017 01:04
+mg.lisp.4	False	3.7 KiB	21-Apr-2017 01:04
+mit2.pdir.1	False	1.3 KiB	21-Apr-2017 01:04
+mite.lisp.3	False	1.1 KiB	21-Apr-2017 01:04
+mpatch.lisp.5	False	1.1 KiB	21-Apr-2017 01:04
+net.text.2	False	1.9 KiB	21-Apr-2017 01:04
+netspy.lisp.11	False	3.9 KiB	21-Apr-2017 01:04
+num.lisp.1	False	2.5 KiB	21-Apr-2017 01:04
+phone.nums.9	False	1.3 KiB	21-Apr-2017 01:04
+print-screen.lisp.1	False	3.2 KiB	21-Apr-2017 01:04
+ramdisk.lisp.15	False	11.0 KiB	21-Apr-2017 01:04
+rdisk.text.2	False	3.9 KiB	21-Apr-2017 01:04
+rtape.botex.5	False	3.9 KiB	21-Apr-2017 01:04
+ssup.lisp.1	False	119 B	21-Apr-2017 01:04
+sun.text.1	False	5.0 KiB	21-Apr-2017 01:04
+system-sharp-dots.text.1	False	30.6 KiB	21-Apr-2017 01:04
+tcp-crypt.lisp.2	False	1.1 KiB	21-Apr-2017 01:04
+tcp-enable.lisp.1	False	367 B	21-Apr-2017 01:04
+tcp-rel3.text.1	False	1.8 KiB	21-Apr-2017 01:04
+test-file.lisp.1	False	109 B	21-Apr-2017 01:04
+test.ill.3	False	8.4 KiB	21-Apr-2017 01:04
+test.impress.1	False	23.4 KiB	21-Apr-2017 01:04
+ti-cruft.lisp.1	False	957 B	21-Apr-2017 01:04
+tirestore.lisp.7	False	4.3 KiB	21-Apr-2017 01:04
+tty.lisp.4	False	2.3 KiB	21-Apr-2017 01:04
+unmake.lisp.6	False	6.9 KiB	21-Apr-2017 01:04
+unmake.text.1	False	106.7 KiB	21-Apr-2017 01:04
+utags-data.lisp.3	False	55.3 KiB	21-Apr-2017 01:04
+utags.lisp.3	False	2.0 KiB	21-Apr-2017 01:04
+wipm.lisp.1	False	151 B	21-Apr-2017 01:04
+zmail.init.1	False	173 B	21-Apr-2017 01:04

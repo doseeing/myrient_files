@@ -1,0 +1,74 @@
+[
+  {
+    "name": "i1401_cd.c",
+    "href": "i1401_cd.c",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/simh_v2.9-10/I1401/i1401_cd.c",
+    "is_dir": false,
+    "size": "8.8 KiB",
+    "date": "04-May-2002 02:25"
+  },
+  {
+    "name": "i1401_cpu.c",
+    "href": "i1401_cpu.c",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/simh_v2.9-10/I1401/i1401_cpu.c",
+    "is_dir": false,
+    "size": "37.7 KiB",
+    "date": "08-Jul-2003 05:00"
+  },
+  {
+    "name": "i1401_dat.h",
+    "href": "i1401_dat.h",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/simh_v2.9-10/I1401/i1401_dat.h",
+    "is_dir": false,
+    "size": "3.1 KiB",
+    "date": "18-Jun-2002 07:01"
+  },
+  {
+    "name": "i1401_defs.h",
+    "href": "i1401_defs.h",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/simh_v2.9-10/I1401/i1401_defs.h",
+    "is_dir": false,
+    "size": "12.8 KiB",
+    "date": "04-May-2002 06:11"
+  },
+  {
+    "name": "i1401_doc.txt",
+    "href": "i1401_doc.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/simh_v2.9-10/I1401/i1401_doc.txt",
+    "is_dir": false,
+    "size": "12.7 KiB",
+    "date": "04-May-2002 02:29"
+  },
+  {
+    "name": "i1401_iq.c",
+    "href": "i1401_iq.c",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/simh_v2.9-10/I1401/i1401_iq.c",
+    "is_dir": false,
+    "size": "4.8 KiB",
+    "date": "04-May-2002 02:25"
+  },
+  {
+    "name": "i1401_lp.c",
+    "href": "i1401_lp.c",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/simh_v2.9-10/I1401/i1401_lp.c",
+    "is_dir": false,
+    "size": "7.7 KiB",
+    "date": "04-May-2002 02:25"
+  },
+  {
+    "name": "i1401_mt.c",
+    "href": "i1401_mt.c",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/simh_v2.9-10/I1401/i1401_mt.c",
+    "is_dir": false,
+    "size": "9.8 KiB",
+    "date": "10-Jul-2003 00:38"
+  },
+  {
+    "name": "i1401_sys.c",
+    "href": "i1401_sys.c",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/simh_v2.9-10/I1401/i1401_sys.c",
+    "is_dir": false,
+    "size": "11.1 KiB",
+    "date": "05-Jul-2003 04:03"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "name": "reports",
+    "href": "reports/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/release/reports/",
+    "is_dir": true,
+    "size": null,
+    "date": "21-Apr-2017 01:39"
+  },
+  {
+    "name": "alpha-bands.text.2",
+    "href": "alpha-bands.text.2",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/release/alpha-bands.text.2",
+    "is_dir": false,
+    "size": "609 B",
+    "date": "21-Apr-2017 01:07"
+  },
+  {
+    "name": "mail-routing-analysis.lisp.6",
+    "href": "mail-routing-analysis.lisp.6",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/release/mail-routing-analysis.lisp.6",
+    "is_dir": false,
+    "size": "11.8 KiB",
+    "date": "21-Apr-2017 01:07"
+  },
+  {
+    "name": "patch-util.lisp.1",
+    "href": "patch-util.lisp.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/release/patch-util.lisp.1",
+    "is_dir": false,
+    "size": "15.9 KiB",
+    "date": "21-Apr-2017 01:07"
+  },
+  {
+    "name": "patch-util.lisp.6",
+    "href": "patch-util.lisp.6",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/release/patch-util.lisp.6",
+    "is_dir": false,
+    "size": "17.2 KiB",
+    "date": "21-Apr-2017 01:07"
+  },
+  {
+    "name": "source-release-iii.text.1",
+    "href": "source-release-iii.text.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/release/source-release-iii.text.1",
+    "is_dir": false,
+    "size": "42.3 KiB",
+    "date": "21-Apr-2017 01:07"
+  },
+  {
+    "name": "source-release.lisp.27",
+    "href": "source-release.lisp.27",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/release/source-release.lisp.27",
+    "is_dir": false,
+    "size": "18.3 KiB",
+    "date": "21-Apr-2017 01:07"
+  },
+  {
+    "name": "source-release.lisp.6",
+    "href": "source-release.lisp.6",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/release/source-release.lisp.6",
+    "is_dir": false,
+    "size": "9.1 KiB",
+    "date": "21-Apr-2017 01:07"
+  },
+  {
+    "name": "tape-util.lisp.1",
+    "href": "tape-util.lisp.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/release/tape-util.lisp.1",
+    "is_dir": false,
+    "size": "6.2 KiB",
+    "date": "21-Apr-2017 01:07"
+  },
+  {
+    "name": "utility.lisp.2",
+    "href": "utility.lisp.2",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/release/utility.lisp.2",
+    "is_dir": false,
+    "size": "1.6 KiB",
+    "date": "21-Apr-2017 01:07"
+  },
+  {
+    "name": "zmail-filter-generator.lisp.1",
+    "href": "zmail-filter-generator.lisp.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/release/zmail-filter-generator.lisp.1",
+    "is_dir": false,
+    "size": "2.1 KiB",
+    "date": "21-Apr-2017 01:07"
+  }
+]

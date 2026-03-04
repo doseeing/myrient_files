@@ -1,0 +1,506 @@
+[
+  {
+    "name": "1620_11.0.0.41_block_letters.crd",
+    "href": "1620_11.0.0.41_block_letters.crd",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/IBM/1620/games/1620_11.0.0.41_block_letters.crd",
+    "is_dir": false,
+    "size": "33.9 KiB",
+    "date": "26-Sep-2013 14:23"
+  },
+  {
+    "name": "1620_11.0.013_tic_tac_toe.crd",
+    "href": "1620_11.0.013_tic_tac_toe.crd",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/IBM/1620/games/1620_11.0.013_tic_tac_toe.crd",
+    "is_dir": false,
+    "size": "10.5 KiB",
+    "date": "26-Sep-2013 14:23"
+  },
+  {
+    "name": "1620_11.0.014_3dttt_rev.crd",
+    "href": "1620_11.0.014_3dttt_rev.crd",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/IBM/1620/games/1620_11.0.014_3dttt_rev.crd",
+    "is_dir": false,
+    "size": "104.2 KiB",
+    "date": "26-Sep-2013 14:24"
+  },
+  {
+    "name": "1620_11.0.014_3dttt_rev_2.crd",
+    "href": "1620_11.0.014_3dttt_rev_2.crd",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/IBM/1620/games/1620_11.0.014_3dttt_rev_2.crd",
+    "is_dir": false,
+    "size": "27.8 KiB",
+    "date": "26-Sep-2013 14:24"
+  },
+  {
+    "name": "1620_11.0.014_3dttt_rev_3.crd",
+    "href": "1620_11.0.014_3dttt_rev_3.crd",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/IBM/1620/games/1620_11.0.014_3dttt_rev_3.crd",
+    "is_dir": false,
+    "size": "21.9 KiB",
+    "date": "26-Sep-2013 14:24"
+  },
+  {
+    "name": "1620_11.0.014_3dttt_source.crd",
+    "href": "1620_11.0.014_3dttt_source.crd",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/IBM/1620/games/1620_11.0.014_3dttt_source.crd",
+    "is_dir": false,
+    "size": "88.9 KiB",
+    "date": "26-Sep-2013 14:24"
+  },
+  {
+    "name": "1620_11.0.014_3dttt_source.txt",
+    "href": "1620_11.0.014_3dttt_source.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/IBM/1620/games/1620_11.0.014_3dttt_source.txt",
+    "is_dir": false,
+    "size": "45.5 KiB",
+    "date": "26-Sep-2013 14:24"
+  },
+  {
+    "name": "1620_11.0.032_baseball_simulator.crd",
+    "href": "1620_11.0.032_baseball_simulator.crd",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/IBM/1620/games/1620_11.0.032_baseball_simulator.crd",
+    "is_dir": false,
+    "size": "44.4 KiB",
+    "date": "26-Sep-2013 14:23"
+  },
+  {
+    "name": "1620_11.0.032_bbc_baseball.crd",
+    "href": "1620_11.0.032_bbc_baseball.crd",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/IBM/1620/games/1620_11.0.032_bbc_baseball.crd",
+    "is_dir": false,
+    "size": "44.2 KiB",
+    "date": "26-Sep-2013 14:24"
+  },
+  {
+    "name": "1620_11.0.033_40k_object.crd",
+    "href": "1620_11.0.033_40k_object.crd",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/IBM/1620/games/1620_11.0.033_40k_object.crd",
+    "is_dir": false,
+    "size": "11.6 KiB",
+    "date": "26-Sep-2013 14:23"
+  },
+  {
+    "name": "1620_11.0.033_55k_object.crd",
+    "href": "1620_11.0.033_55k_object.crd",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/IBM/1620/games/1620_11.0.033_55k_object.crd",
+    "is_dir": false,
+    "size": "12.0 KiB",
+    "date": "26-Sep-2013 14:23"
+  },
+  {
+    "name": "1620_11.0.033_bach_20k_music_object.crd",
+    "href": "1620_11.0.033_bach_20k_music_object.crd",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/IBM/1620/games/1620_11.0.033_bach_20k_music_object.crd",
+    "is_dir": false,
+    "size": "19.4 KiB",
+    "date": "26-Sep-2013 14:24"
+  },
+  {
+    "name": "1620_11.0.033_fast_source_deck.crd",
+    "href": "1620_11.0.033_fast_source_deck.crd",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/IBM/1620/games/1620_11.0.033_fast_source_deck.crd",
+    "is_dir": false,
+    "size": "64.1 KiB",
+    "date": "26-Sep-2013 14:23"
+  },
+  {
+    "name": "1620_11.0.033_fast_source_deck.txt",
+    "href": "1620_11.0.033_fast_source_deck.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/IBM/1620/games/1620_11.0.033_fast_source_deck.txt",
+    "is_dir": false,
+    "size": "10.8 KiB",
+    "date": "26-Sep-2013 14:23"
+  },
+  {
+    "name": "1620_11.0.038.crd",
+    "href": "1620_11.0.038.crd",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/IBM/1620/games/1620_11.0.038.crd",
+    "is_dir": false,
+    "size": "40.8 KiB",
+    "date": "26-Sep-2013 14:23"
+  },
+  {
+    "name": "1620_11.0.042_nim.crd",
+    "href": "1620_11.0.042_nim.crd",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/IBM/1620/games/1620_11.0.042_nim.crd",
+    "is_dir": false,
+    "size": "43.8 KiB",
+    "date": "26-Sep-2013 14:23"
+  },
+  {
+    "name": "1620_11.0.044_gregorian_callendar_obj.crd",
+    "href": "1620_11.0.044_gregorian_callendar_obj.crd",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/IBM/1620/games/1620_11.0.044_gregorian_callendar_obj.crd",
+    "is_dir": false,
+    "size": "44.4 KiB",
+    "date": "26-Sep-2013 14:23"
+  },
+  {
+    "name": "1620_11.0.044_gregorian_callendar_source.crd",
+    "href": "1620_11.0.044_gregorian_callendar_source.crd",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/IBM/1620/games/1620_11.0.044_gregorian_callendar_source.crd",
+    "is_dir": false,
+    "size": "33.0 KiB",
+    "date": "26-Sep-2013 14:23"
+  },
+  {
+    "name": "1620_11.0.044_gregorian_callendar_source.txt",
+    "href": "1620_11.0.044_gregorian_callendar_source.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/IBM/1620/games/1620_11.0.044_gregorian_callendar_source.txt",
+    "is_dir": false,
+    "size": "16.9 KiB",
+    "date": "26-Sep-2013 14:24"
+  },
+  {
+    "name": "1620_11.0.044_sample_data.crd",
+    "href": "1620_11.0.044_sample_data.crd",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/IBM/1620/games/1620_11.0.044_sample_data.crd",
+    "is_dir": false,
+    "size": "3.1 KiB",
+    "date": "26-Sep-2013 14:24"
+  },
+  {
+    "name": "1620_13.0.015_141_SIM.crd",
+    "href": "1620_13.0.015_141_SIM.crd",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/IBM/1620/games/1620_13.0.015_141_SIM.crd",
+    "is_dir": false,
+    "size": "55.8 KiB",
+    "date": "26-Sep-2013 14:23"
+  },
+  {
+    "name": "1620_3d_ttt.crd",
+    "href": "1620_3d_ttt.crd",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/IBM/1620/games/1620_3d_ttt.crd",
+    "is_dir": false,
+    "size": "153.4 KiB",
+    "date": "26-Sep-2013 14:24"
+  },
+  {
+    "name": "1620_3d_ttt_data_rev_0.crd",
+    "href": "1620_3d_ttt_data_rev_0.crd",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/IBM/1620/games/1620_3d_ttt_data_rev_0.crd",
+    "is_dir": false,
+    "size": "8.8 KiB",
+    "date": "26-Sep-2013 14:24"
+  },
+  {
+    "name": "1620_3d_ttt_data_rev_1.crd",
+    "href": "1620_3d_ttt_data_rev_1.crd",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/IBM/1620/games/1620_3d_ttt_data_rev_1.crd",
+    "is_dir": false,
+    "size": "58.8 KiB",
+    "date": "26-Sep-2013 14:24"
+  },
+  {
+    "name": "1620_add_mult_tables_self_loading.crd",
+    "href": "1620_add_mult_tables_self_loading.crd",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/IBM/1620/games/1620_add_mult_tables_self_loading.crd",
+    "is_dir": false,
+    "size": "1.4 KiB",
+    "date": "26-Sep-2013 14:24"
+  },
+  {
+    "name": "1620_add_multipy_table_loader.crd",
+    "href": "1620_add_multipy_table_loader.crd",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/IBM/1620/games/1620_add_multipy_table_loader.crd",
+    "is_dir": false,
+    "size": "2.3 KiB",
+    "date": "26-Sep-2013 14:24"
+  },
+  {
+    "name": "1620_blackjack.crd",
+    "href": "1620_blackjack.crd",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/IBM/1620/games/1620_blackjack.crd",
+    "is_dir": false,
+    "size": "25.3 KiB",
+    "date": "26-Sep-2013 14:23"
+  },
+  {
+    "name": "1620_blackjack_rev.crd",
+    "href": "1620_blackjack_rev.crd",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/IBM/1620/games/1620_blackjack_rev.crd",
+    "is_dir": false,
+    "size": "25.2 KiB",
+    "date": "26-Sep-2013 14:24"
+  },
+  {
+    "name": "1620_card_search_cs3.crd",
+    "href": "1620_card_search_cs3.crd",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/IBM/1620/games/1620_card_search_cs3.crd",
+    "is_dir": false,
+    "size": "11.9 KiB",
+    "date": "26-Sep-2013 14:23"
+  },
+  {
+    "name": "1620_cs3_card_search.crd",
+    "href": "1620_cs3_card_search.crd",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/IBM/1620/games/1620_cs3_card_search.crd",
+    "is_dir": false,
+    "size": "12.0 KiB",
+    "date": "26-Sep-2013 14:23"
+  },
+  {
+    "name": "1620_demo.crd",
+    "href": "1620_demo.crd",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/IBM/1620/games/1620_demo.crd",
+    "is_dir": false,
+    "size": "28.1 KiB",
+    "date": "26-Sep-2013 14:23"
+  },
+  {
+    "name": "1620_demo_game_sw2.crd",
+    "href": "1620_demo_game_sw2.crd",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/IBM/1620/games/1620_demo_game_sw2.crd",
+    "is_dir": false,
+    "size": "19.5 KiB",
+    "date": "26-Sep-2013 14:23"
+  },
+  {
+    "name": "1620_game_demo_sw2.crd",
+    "href": "1620_game_demo_sw2.crd",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/IBM/1620/games/1620_game_demo_sw2.crd",
+    "is_dir": false,
+    "size": "19.7 KiB",
+    "date": "26-Sep-2013 14:23"
+  },
+  {
+    "name": "1620_gotran.crd",
+    "href": "1620_gotran.crd",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/IBM/1620/games/1620_gotran.crd",
+    "is_dir": false,
+    "size": "65.3 KiB",
+    "date": "26-Sep-2013 14:24"
+  },
+  {
+    "name": "1620_list_sps.crd",
+    "href": "1620_list_sps.crd",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/IBM/1620/games/1620_list_sps.crd",
+    "is_dir": false,
+    "size": "6.1 KiB",
+    "date": "26-Sep-2013 14:24"
+  },
+  {
+    "name": "1620_music_#1.crd",
+    "href": "1620_music_%231.crd",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/IBM/1620/games/1620_music_%231.crd",
+    "is_dir": false,
+    "size": "33.6 KiB",
+    "date": "26-Sep-2013 14:24"
+  },
+  {
+    "name": "1620_music_#2_rev.crd",
+    "href": "1620_music_%232_rev.crd",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/IBM/1620/games/1620_music_%232_rev.crd",
+    "is_dir": false,
+    "size": "18.4 KiB",
+    "date": "26-Sep-2013 14:24"
+  },
+  {
+    "name": "1620_one_arm_bandit.crd",
+    "href": "1620_one_arm_bandit.crd",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/IBM/1620/games/1620_one_arm_bandit.crd",
+    "is_dir": false,
+    "size": "21.7 KiB",
+    "date": "26-Sep-2013 14:23"
+  },
+  {
+    "name": "1620_renumb_sps_only.crd",
+    "href": "1620_renumb_sps_only.crd",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/IBM/1620/games/1620_renumb_sps_only.crd",
+    "is_dir": false,
+    "size": "4.4 KiB",
+    "date": "26-Sep-2013 14:24"
+  },
+  {
+    "name": "1620_slot_machine_1_rev.crd",
+    "href": "1620_slot_machine_1_rev.crd",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/IBM/1620/games/1620_slot_machine_1_rev.crd",
+    "is_dir": false,
+    "size": "21.4 KiB",
+    "date": "26-Sep-2013 14:23"
+  },
+  {
+    "name": "1620_slot_machine_2.crd",
+    "href": "1620_slot_machine_2.crd",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/IBM/1620/games/1620_slot_machine_2.crd",
+    "is_dir": false,
+    "size": "160 B",
+    "date": "26-Sep-2013 14:23"
+  },
+  {
+    "name": "1620_slot_machine_demo.crd",
+    "href": "1620_slot_machine_demo.crd",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/IBM/1620/games/1620_slot_machine_demo.crd",
+    "is_dir": false,
+    "size": "19.2 KiB",
+    "date": "26-Sep-2013 14:24"
+  },
+  {
+    "name": "1620_slot_machine_rev.crd",
+    "href": "1620_slot_machine_rev.crd",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/IBM/1620/games/1620_slot_machine_rev.crd",
+    "is_dir": false,
+    "size": "21.9 KiB",
+    "date": "26-Sep-2013 14:24"
+  },
+  {
+    "name": "1620_sps_I.crd",
+    "href": "1620_sps_I.crd",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/IBM/1620/games/1620_sps_I.crd",
+    "is_dir": false,
+    "size": "46.9 KiB",
+    "date": "26-Sep-2013 14:24"
+  },
+  {
+    "name": "1620_sps_renumb.crd",
+    "href": "1620_sps_renumb.crd",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/IBM/1620/games/1620_sps_renumb.crd",
+    "is_dir": false,
+    "size": "4.4 KiB",
+    "date": "26-Sep-2013 14:24"
+  },
+  {
+    "name": "1620_tic_tac_toe.crd",
+    "href": "1620_tic_tac_toe.crd",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/IBM/1620/games/1620_tic_tac_toe.crd",
+    "is_dir": false,
+    "size": "10.3 KiB",
+    "date": "26-Sep-2013 14:24"
+  },
+  {
+    "name": "1620_tic_tac_toe_2.crd",
+    "href": "1620_tic_tac_toe_2.crd",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/IBM/1620/games/1620_tic_tac_toe_2.crd",
+    "is_dir": false,
+    "size": "2.0 KiB",
+    "date": "26-Sep-2013 14:24"
+  },
+  {
+    "name": "1620_tic_tac_toe_object_rev.crd",
+    "href": "1620_tic_tac_toe_object_rev.crd",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/IBM/1620/games/1620_tic_tac_toe_object_rev.crd",
+    "is_dir": false,
+    "size": "10.5 KiB",
+    "date": "26-Sep-2013 14:24"
+  },
+  {
+    "name": "1620_tic_tac_toe_rev_1.crd",
+    "href": "1620_tic_tac_toe_rev_1.crd",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/IBM/1620/games/1620_tic_tac_toe_rev_1.crd",
+    "is_dir": false,
+    "size": "1.3 KiB",
+    "date": "26-Sep-2013 14:24"
+  },
+  {
+    "name": "1620_tic_tac_toe_rev_3.crd",
+    "href": "1620_tic_tac_toe_rev_3.crd",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/IBM/1620/games/1620_tic_tac_toe_rev_3.crd",
+    "is_dir": false,
+    "size": "15.2 KiB",
+    "date": "26-Sep-2013 14:24"
+  },
+  {
+    "name": "1620_tune_II_tune_I.crd",
+    "href": "1620_tune_II_tune_I.crd",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/IBM/1620/games/1620_tune_II_tune_I.crd",
+    "is_dir": false,
+    "size": "52.5 KiB",
+    "date": "26-Sep-2013 14:24"
+  },
+  {
+    "name": "3d_ttt_fortran.crd",
+    "href": "3d_ttt_fortran.crd",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/IBM/1620/games/3d_ttt_fortran.crd",
+    "is_dir": false,
+    "size": "21.7 KiB",
+    "date": "26-Sep-2013 14:23"
+  },
+  {
+    "name": "3d_ttt_tables1_rev.crd",
+    "href": "3d_ttt_tables1_rev.crd",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/IBM/1620/games/3d_ttt_tables1_rev.crd",
+    "is_dir": false,
+    "size": "60.9 KiB",
+    "date": "26-Sep-2013 14:23"
+  },
+  {
+    "name": "3d_ttt_tables2_rev.crd",
+    "href": "3d_ttt_tables2_rev.crd",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/IBM/1620/games/3d_ttt_tables2_rev.crd",
+    "is_dir": false,
+    "size": "5.3 KiB",
+    "date": "26-Sep-2013 14:23"
+  },
+  {
+    "name": "3d_ttt_tables3.crd",
+    "href": "3d_ttt_tables3.crd",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/IBM/1620/games/3d_ttt_tables3.crd",
+    "is_dir": false,
+    "size": "1.1 KiB",
+    "date": "26-Sep-2013 14:23"
+  },
+  {
+    "name": "happy_easter_407_rev.txt",
+    "href": "happy_easter_407_rev.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/IBM/1620/games/happy_easter_407_rev.txt",
+    "is_dir": false,
+    "size": "3.7 KiB",
+    "date": "26-Sep-2013 14:24"
+  },
+  {
+    "name": "madonna_407.txt",
+    "href": "madonna_407.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/IBM/1620/games/madonna_407.txt",
+    "is_dir": false,
+    "size": "7.3 KiB",
+    "date": "26-Sep-2013 14:24"
+  },
+  {
+    "name": "merry_xmas_407.txt",
+    "href": "merry_xmas_407.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/IBM/1620/games/merry_xmas_407.txt",
+    "is_dir": false,
+    "size": "4.8 KiB",
+    "date": "26-Sep-2013 14:24"
+  },
+  {
+    "name": "santa_and_reindeer_rev_1.txt",
+    "href": "santa_and_reindeer_rev_1.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/IBM/1620/games/santa_and_reindeer_rev_1.txt",
+    "is_dir": false,
+    "size": "5.6 KiB",
+    "date": "26-Sep-2013 14:24"
+  },
+  {
+    "name": "santa_and_reindeer_rev_2.txt",
+    "href": "santa_and_reindeer_rev_2.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/IBM/1620/games/santa_and_reindeer_rev_2.txt",
+    "is_dir": false,
+    "size": "16.9 KiB",
+    "date": "26-Sep-2013 14:24"
+  },
+  {
+    "name": "santa_and_xmas_407_rev.txt",
+    "href": "santa_and_xmas_407_rev.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/IBM/1620/games/santa_and_xmas_407_rev.txt",
+    "is_dir": false,
+    "size": "9.9 KiB",
+    "date": "26-Sep-2013 14:24"
+  },
+  {
+    "name": "three_pronged_blivit_407_rev.txt",
+    "href": "three_pronged_blivit_407_rev.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/IBM/1620/games/three_pronged_blivit_407_rev.txt",
+    "is_dir": false,
+    "size": "5.7 KiB",
+    "date": "26-Sep-2013 14:24"
+  },
+  {
+    "name": "unlabeled_1_fortran.crd",
+    "href": "unlabeled_1_fortran.crd",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/IBM/1620/games/unlabeled_1_fortran.crd",
+    "is_dir": false,
+    "size": "16.6 KiB",
+    "date": "26-Sep-2013 14:24"
+  }
+]

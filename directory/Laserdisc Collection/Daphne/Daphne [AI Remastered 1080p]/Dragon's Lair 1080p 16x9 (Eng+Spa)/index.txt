@@ -1,0 +1,54 @@
+name	is_dir	size	date
+mpeg2	True	-	08-Dec-2025 11:20
+pics	True	-	04-Dec-2025 01:41
+roms	True	-	04-Dec-2025 01:41
+sound	True	-	04-Dec-2025 01:41
+-Dragon's Lair 1080p 16x9 (dle11, Enhancement v1.1, English).bat	False	328 B	08-Dec-2025 09:26
+-Dragon's Lair 1080p 16x9 (dle11, Enhancement v1.1, Spanish).bat	False	343 B	08-Dec-2025 09:26
+-Dragon's Lair 1080p 16x9 (dle21, Enhancement v2.1, English).bat	False	328 B	08-Dec-2025 09:26
+-Dragon's Lair 1080p 16x9 (dle21, Enhancement v2.1, Spanish).bat	False	343 B	08-Dec-2025 09:26
+-Dragon's Lair 1080p 16x9 (lair, Rev F2, English).bat	False	327 B	08-Dec-2025 09:26
+-Dragon's Lair 1080p 16x9 (lair, Rev F2, Spanish).bat	False	342 B	08-Dec-2025 09:26
+-Dragon's Lair 1080p 16x9 (lair_a, Rev A, English).bat	False	329 B	08-Dec-2025 09:26
+-Dragon's Lair 1080p 16x9 (lair_a, Rev A, Spanish).bat	False	344 B	08-Dec-2025 09:26
+-Dragon's Lair 1080p 16x9 (lair_b, Rev B, English).bat	False	329 B	08-Dec-2025 09:26
+-Dragon's Lair 1080p 16x9 (lair_b, Rev B, Spanish).bat	False	344 B	08-Dec-2025 09:26
+-Dragon's Lair 1080p 16x9 (lair_c, Rev C, English).bat	False	329 B	08-Dec-2025 09:26
+-Dragon's Lair 1080p 16x9 (lair_c, Rev C, Spanish).bat	False	344 B	08-Dec-2025 09:26
+-Dragon's Lair 1080p 16x9 (lair_d, Rev D, English).bat	False	329 B	08-Dec-2025 09:26
+-Dragon's Lair 1080p 16x9 (lair_d, Rev D, Spanish).bat	False	344 B	08-Dec-2025 09:26
+-Dragon's Lair 1080p 16x9 (lair_e, Rev E, English).bat	False	329 B	08-Dec-2025 09:26
+-Dragon's Lair 1080p 16x9 (lair_e, Rev E, Spanish).bat	False	344 B	08-Dec-2025 09:26
+-Dragon's Lair 1080p 16x9 (lair_f, Rev F, English).bat	False	329 B	08-Dec-2025 09:26
+-Dragon's Lair 1080p 16x9 (lair_f, Rev F, Spanish).bat	False	344 B	08-Dec-2025 09:26
+-Dragon's Lair 1080p 16x9 (lair_n1, Beta 2, English).bat	False	330 B	08-Dec-2025 09:26
+-Dragon's Lair 1080p 16x9 (lair_n1, Beta 2, Spanish).bat	False	345 B	08-Dec-2025 09:26
+-Dragon's Lair 1080p 16x9 (lair_x, Beta 1 Serial #1, English).bat	False	329 B	08-Dec-2025 09:26
+-Dragon's Lair 1080p 16x9 (lair_x, Beta 1 Serial #1, Spanish).bat	False	344 B	08-Dec-2025 09:26
+COPYING	False	17.9 KiB	01-Dec-2025 17:44
+SDL.dll	False	252.0 KiB	08-Dec-2025 09:27
+SDL_mixer.dll	False	252.0 KiB	08-Dec-2025 09:10
+__Instrucciones.txt	False	579 B	08-Dec-2025 09:26
+config.xml	False	170.8 KiB	08-Dec-2025 09:26
+daphne-changelog.txt	False	4.9 KiB	08-Dec-2025 09:26
+daphne.exe	False	664.0 KiB	08-Dec-2025 09:26
+dapinput.ini	False	383 B	08-Dec-2025 09:26
+glew32.dll	False	208.0 KiB	08-Dec-2025 09:26
+hwaccel.txt	False	22 B	08-Dec-2025 09:26
+iconoDL1080.ico	False	124.0 KiB	08-Dec-2025 09:26
+inpout32.dll	False	96.0 KiB	01-Dec-2025 17:44
+input_grabber.exe	False	8.0 KiB	08-Dec-2025 09:26
+install-ocx.exe	False	673.2 KiB	08-Dec-2025 09:26
+libexpat.dll	False	148.0 KiB	08-Dec-2025 09:26
+mpolib.dll	False	232.0 KiB	08-Dec-2025 09:27
+msvcp71.dll	False	488.0 KiB	01-Dec-2025 17:44
+msvcr71.dll	False	340.0 KiB	01-Dec-2025 17:44
+ogg.dll	False	48.0 KiB	08-Dec-2025 09:27
+par-io.dll	False	48.5 KiB	08-Dec-2025 09:27
+prog1.bin	False	113 B	08-Dec-2025 09:05
+prog2.bin	False	113 B	08-Dec-2025 09:05
+vldp.dll	False	348.7 KiB	08-Dec-2025 09:27
+vldp2.dll	False	80.0 KiB	08-Dec-2025 09:27
+vorbis.dll	False	100.0 KiB	08-Dec-2025 09:27
+vorbisfile.dll	False	28.0 KiB	08-Dec-2025 09:27
+zlib.dll	False	52.0 KiB	08-Dec-2025 09:27

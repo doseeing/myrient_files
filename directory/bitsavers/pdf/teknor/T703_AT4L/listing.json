@@ -1,0 +1,42 @@
+[
+  {
+    "name": "firmware",
+    "href": "firmware/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/teknor/T703_AT4L/firmware/",
+    "is_dir": true,
+    "size": null,
+    "date": "02-Jun-2022 04:30"
+  },
+  {
+    "name": "pictures",
+    "href": "pictures/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/teknor/T703_AT4L/pictures/",
+    "is_dir": true,
+    "size": null,
+    "date": "02-Jun-2022 04:29"
+  },
+  {
+    "name": "M703_3-0_TEK-AT4_V3.0_199703.pdf",
+    "href": "M703_3-0_TEK-AT4_V3.0_199703.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/teknor/T703_AT4L/M703_3-0_TEK-AT4_V3.0_199703.pdf",
+    "is_dir": false,
+    "size": "2.4 MiB",
+    "date": "02-Jun-2022 04:29"
+  },
+  {
+    "name": "TEK-AT4-Quick_Ref.pdf",
+    "href": "TEK-AT4-Quick_Ref.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/teknor/T703_AT4L/TEK-AT4-Quick_Ref.pdf",
+    "is_dir": false,
+    "size": "121.4 KiB",
+    "date": "02-Jun-2022 04:30"
+  },
+  {
+    "name": "TEK-AT4L_486DX2_V1.3_199307.pdf",
+    "href": "TEK-AT4L_486DX2_V1.3_199307.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/teknor/T703_AT4L/TEK-AT4L_486DX2_V1.3_199307.pdf",
+    "is_dir": false,
+    "size": "76.5 KiB",
+    "date": "02-Jun-2022 02:02"
+  }
+]

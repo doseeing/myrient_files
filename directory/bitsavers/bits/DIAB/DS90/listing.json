@@ -1,0 +1,26 @@
+[
+  {
+    "name": "documentation",
+    "href": "documentation/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DIAB/DS90/documentation/",
+    "is_dir": true,
+    "size": null,
+    "date": "23-Jan-2021 19:59"
+  },
+  {
+    "name": "floppy",
+    "href": "floppy/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DIAB/DS90/floppy/",
+    "is_dir": true,
+    "size": null,
+    "date": "02-Nov-2019 00:44"
+  },
+  {
+    "name": "dnix-imd.tar.bz2",
+    "href": "dnix-imd.tar.bz2",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DIAB/DS90/dnix-imd.tar.bz2",
+    "is_dir": false,
+    "size": "4.4 MiB",
+    "date": "17-Nov-2016 18:56"
+  }
+]

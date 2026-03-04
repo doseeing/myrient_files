@@ -1,0 +1,34 @@
+[
+  {
+    "name": "fbr.txt",
+    "href": "fbr.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Tektronix/8562/tools/fbr.txt",
+    "is_dir": false,
+    "size": "4.0 KiB",
+    "date": "04-Sep-2012 14:20"
+  },
+  {
+    "name": "fbr2tar.c",
+    "href": "fbr2tar.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Tektronix/8562/tools/fbr2tar.c",
+    "is_dir": false,
+    "size": "12.4 KiB",
+    "date": "04-Sep-2012 14:20"
+  },
+  {
+    "name": "imd2raw.c",
+    "href": "imd2raw.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Tektronix/8562/tools/imd2raw.c",
+    "is_dir": false,
+    "size": "3.2 KiB",
+    "date": "04-Sep-2012 14:19"
+  },
+  {
+    "name": "makeimd.c",
+    "href": "makeimd.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Tektronix/8562/tools/makeimd.c",
+    "is_dir": false,
+    "size": "2.5 KiB",
+    "date": "04-Sep-2012 14:19"
+  }
+]

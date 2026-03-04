@@ -1,0 +1,74 @@
+[
+  {
+    "name": "dev",
+    "href": "dev/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/trix/sys/dev/",
+    "is_dir": true,
+    "size": null,
+    "date": "27-Oct-2004 01:18"
+  },
+  {
+    "name": "filesys",
+    "href": "filesys/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/trix/sys/filesys/",
+    "is_dir": true,
+    "size": null,
+    "date": "27-Oct-2004 01:18"
+  },
+  {
+    "name": "h",
+    "href": "h/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/trix/sys/h/",
+    "is_dir": true,
+    "size": null,
+    "date": "27-Oct-2004 01:18"
+  },
+  {
+    "name": "kdev",
+    "href": "kdev/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/trix/sys/kdev/",
+    "is_dir": true,
+    "size": null,
+    "date": "27-Oct-2004 01:18"
+  },
+  {
+    "name": "kernel",
+    "href": "kernel/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/trix/sys/kernel/",
+    "is_dir": true,
+    "size": null,
+    "date": "27-Oct-2004 01:19"
+  },
+  {
+    "name": "lib",
+    "href": "lib/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/trix/sys/lib/",
+    "is_dir": true,
+    "size": null,
+    "date": "27-Oct-2004 01:19"
+  },
+  {
+    "name": "low",
+    "href": "low/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/trix/sys/low/",
+    "is_dir": true,
+    "size": null,
+    "date": "27-Oct-2004 01:19"
+  },
+  {
+    "name": "sdu",
+    "href": "sdu/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/trix/sys/sdu/",
+    "is_dir": true,
+    "size": null,
+    "date": "27-Oct-2004 01:19"
+  },
+  {
+    "name": "Makefile",
+    "href": "Makefile",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/trix/sys/Makefile",
+    "is_dir": false,
+    "size": "481 B",
+    "date": "11-Oct-1986 22:50"
+  }
+]

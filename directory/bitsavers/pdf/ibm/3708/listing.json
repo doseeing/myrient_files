@@ -1,0 +1,74 @@
+[
+  {
+    "name": "firmware",
+    "href": "firmware/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/3708/firmware/",
+    "is_dir": true,
+    "size": null,
+    "date": "10-Nov-2018 17:59"
+  },
+  {
+    "name": "pictures",
+    "href": "pictures/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/3708/pictures/",
+    "is_dir": true,
+    "size": null,
+    "date": "07-Nov-2018 19:12"
+  },
+  {
+    "name": "3708-001_Description.txt",
+    "href": "3708-001_Description.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/3708/3708-001_Description.txt",
+    "is_dir": false,
+    "size": "3.5 KiB",
+    "date": "07-Nov-2018 19:12"
+  },
+  {
+    "name": "GA27-3611-01_3708_Network_Conversion_Unit_Setup_Jan1987.pdf",
+    "href": "GA27-3611-01_3708_Network_Conversion_Unit_Setup_Jan1987.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/3708/GA27-3611-01_3708_Network_Conversion_Unit_Setup_Jan1987.pdf",
+    "is_dir": false,
+    "size": "3.1 MiB",
+    "date": "08-Nov-2018 18:41"
+  },
+  {
+    "name": "GA27-3611-1_3708_Network_Conversion_Unit_Setup_198701.pdf",
+    "href": "GA27-3611-1_3708_Network_Conversion_Unit_Setup_198701.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/3708/GA27-3611-1_3708_Network_Conversion_Unit_Setup_198701.pdf",
+    "is_dir": false,
+    "size": "1.1 MiB",
+    "date": "03-Jan-2021 11:52"
+  },
+  {
+    "name": "GA27-3765-01_3708_Network_Conversion_Unit_End-User_Reference_Feb1988.pdf",
+    "href": "GA27-3765-01_3708_Network_Conversion_Unit_End-User_Reference_Feb1988.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/3708/GA27-3765-01_3708_Network_Conversion_Unit_End-User_Reference_Feb1988.pdf",
+    "is_dir": false,
+    "size": "12.7 MiB",
+    "date": "09-Nov-2018 16:57"
+  },
+  {
+    "name": "GA27-3766-03_3708_Network_Conversion_Unit_Planning_and_Installation_Feb1988.pdf",
+    "href": "GA27-3766-03_3708_Network_Conversion_Unit_Planning_and_Installation_Feb1988.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/3708/GA27-3766-03_3708_Network_Conversion_Unit_Planning_and_Installation_Feb1988.pdf",
+    "is_dir": false,
+    "size": "44.4 MiB",
+    "date": "08-Nov-2018 18:41"
+  },
+  {
+    "name": "GA27-3767-01_3708_Network_Conversion_Unit_Problem_Determination_Feb1988.pdf",
+    "href": "GA27-3767-01_3708_Network_Conversion_Unit_Problem_Determination_Feb1988.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/3708/GA27-3767-01_3708_Network_Conversion_Unit_Problem_Determination_Feb1988.pdf",
+    "is_dir": false,
+    "size": "15.2 MiB",
+    "date": "09-Nov-2018 16:57"
+  },
+  {
+    "name": "GA27-3768-01_3708_Network_Conversion_Unit_Description_Feb1988.pdf",
+    "href": "GA27-3768-01_3708_Network_Conversion_Unit_Description_Feb1988.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/3708/GA27-3768-01_3708_Network_Conversion_Unit_Description_Feb1988.pdf",
+    "is_dir": false,
+    "size": "34.8 MiB",
+    "date": "08-Nov-2018 19:01"
+  }
+]

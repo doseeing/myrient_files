@@ -1,0 +1,314 @@
+[
+  {
+    "name": "ANVAR1.BAS",
+    "href": "ANVAR1.BAS",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-010/ANVAR1.BAS",
+    "is_dir": false,
+    "size": "1.9 KiB",
+    "date": "10-Feb-2000 16:00"
+  },
+  {
+    "name": "ANVAR2.BAS",
+    "href": "ANVAR2.BAS",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-010/ANVAR2.BAS",
+    "is_dir": false,
+    "size": "1.8 KiB",
+    "date": "10-Feb-2000 16:00"
+  },
+  {
+    "name": "BESSEL.BAS",
+    "href": "BESSEL.BAS",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-010/BESSEL.BAS",
+    "is_dir": false,
+    "size": "2.0 KiB",
+    "date": "10-Feb-2000 16:00"
+  },
+  {
+    "name": "BINOPO.BAS",
+    "href": "BINOPO.BAS",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-010/BINOPO.BAS",
+    "is_dir": false,
+    "size": "1.3 KiB",
+    "date": "10-Feb-2000 16:00"
+  },
+  {
+    "name": "CALC2.BAS",
+    "href": "CALC2.BAS",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-010/CALC2.BAS",
+    "is_dir": false,
+    "size": "7.1 KiB",
+    "date": "10-Feb-2000 16:00"
+  },
+  {
+    "name": "CDETER.BAS",
+    "href": "CDETER.BAS",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-010/CDETER.BAS",
+    "is_dir": false,
+    "size": "1.9 KiB",
+    "date": "10-Feb-2000 16:00"
+  },
+  {
+    "name": "CHISQ.BAS",
+    "href": "CHISQ.BAS",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-010/CHISQ.BAS",
+    "is_dir": false,
+    "size": "1.0 KiB",
+    "date": "10-Feb-2000 16:00"
+  },
+  {
+    "name": "CHISQS.BAS",
+    "href": "CHISQS.BAS",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-010/CHISQS.BAS",
+    "is_dir": false,
+    "size": "967 B",
+    "date": "10-Feb-2000 16:00"
+  },
+  {
+    "name": "CORMAT.BAS",
+    "href": "CORMAT.BAS",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-010/CORMAT.BAS",
+    "is_dir": false,
+    "size": "1.3 KiB",
+    "date": "10-Feb-2000 16:00"
+  },
+  {
+    "name": "CROUT1.BAS",
+    "href": "CROUT1.BAS",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-010/CROUT1.BAS",
+    "is_dir": false,
+    "size": "2.1 KiB",
+    "date": "10-Feb-2000 16:00"
+  },
+  {
+    "name": "CURFIT.BAS",
+    "href": "CURFIT.BAS",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-010/CURFIT.BAS",
+    "is_dir": false,
+    "size": "4.1 KiB",
+    "date": "10-Feb-2000 16:00"
+  },
+  {
+    "name": "DEQFO.BAS",
+    "href": "DEQFO.BAS",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-010/DEQFO.BAS",
+    "is_dir": false,
+    "size": "1.1 KiB",
+    "date": "10-Feb-2000 16:00"
+  },
+  {
+    "name": "DERIV.BAS",
+    "href": "DERIV.BAS",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-010/DERIV.BAS",
+    "is_dir": false,
+    "size": "867 B",
+    "date": "10-Feb-2000 16:00"
+  },
+  {
+    "name": "DQEOF2.BAS",
+    "href": "DQEOF2.BAS",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-010/DQEOF2.BAS",
+    "is_dir": false,
+    "size": "1.0 KiB",
+    "date": "10-Feb-2000 16:00"
+  },
+  {
+    "name": "EUCLID.BAS",
+    "href": "EUCLID.BAS",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-010/EUCLID.BAS",
+    "is_dir": false,
+    "size": "616 B",
+    "date": "10-Feb-2000 16:00"
+  },
+  {
+    "name": "FACTOR.BAS",
+    "href": "FACTOR.BAS",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-010/FACTOR.BAS",
+    "is_dir": false,
+    "size": "1.2 KiB",
+    "date": "10-Feb-2000 16:00"
+  },
+  {
+    "name": "FNCTS.BAS",
+    "href": "FNCTS.BAS",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-010/FNCTS.BAS",
+    "is_dir": false,
+    "size": "1.6 KiB",
+    "date": "10-Feb-2000 16:00"
+  },
+  {
+    "name": "GEOMEN.BAS",
+    "href": "GEOMEN.BAS",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-010/GEOMEN.BAS",
+    "is_dir": false,
+    "size": "514 B",
+    "date": "10-Feb-2000 16:00"
+  },
+  {
+    "name": "GFFT.BAS",
+    "href": "GFFT.BAS",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-010/GFFT.BAS",
+    "is_dir": false,
+    "size": "1.1 KiB",
+    "date": "10-Feb-2000 16:00"
+  },
+  {
+    "name": "HISTOG.BAS",
+    "href": "HISTOG.BAS",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-010/HISTOG.BAS",
+    "is_dir": false,
+    "size": "2.3 KiB",
+    "date": "10-Feb-2000 16:00"
+  },
+  {
+    "name": "INTGRT.BAS",
+    "href": "INTGRT.BAS",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-010/INTGRT.BAS",
+    "is_dir": false,
+    "size": "961 B",
+    "date": "10-Feb-2000 16:00"
+  },
+  {
+    "name": "LINFIT.BAS",
+    "href": "LINFIT.BAS",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-010/LINFIT.BAS",
+    "is_dir": false,
+    "size": "1.3 KiB",
+    "date": "10-Feb-2000 16:00"
+  },
+  {
+    "name": "LNREG1.BAS",
+    "href": "LNREG1.BAS",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-010/LNREG1.BAS",
+    "is_dir": false,
+    "size": "1.2 KiB",
+    "date": "10-Feb-2000 16:00"
+  },
+  {
+    "name": "LNREG2.BAS",
+    "href": "LNREG2.BAS",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-010/LNREG2.BAS",
+    "is_dir": false,
+    "size": "1.3 KiB",
+    "date": "10-Feb-2000 16:00"
+  },
+  {
+    "name": "LRGNUM.BAS",
+    "href": "LRGNUM.BAS",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-010/LRGNUM.BAS",
+    "is_dir": false,
+    "size": "3.3 KiB",
+    "date": "10-Feb-2000 16:00"
+  },
+  {
+    "name": "PHICOE.BAS",
+    "href": "PHICOE.BAS",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-010/PHICOE.BAS",
+    "is_dir": false,
+    "size": "913 B",
+    "date": "10-Feb-2000 16:00"
+  },
+  {
+    "name": "PLOT.BAS",
+    "href": "PLOT.BAS",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-010/PLOT.BAS",
+    "is_dir": false,
+    "size": "3.1 KiB",
+    "date": "10-Feb-2000 16:00"
+  },
+  {
+    "name": "RANDEV.BAS",
+    "href": "RANDEV.BAS",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-010/RANDEV.BAS",
+    "is_dir": false,
+    "size": "367 B",
+    "date": "10-Feb-2000 16:00"
+  },
+  {
+    "name": "REGCOR.BAS",
+    "href": "REGCOR.BAS",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-010/REGCOR.BAS",
+    "is_dir": false,
+    "size": "3.5 KiB",
+    "date": "10-Feb-2000 16:00"
+  },
+  {
+    "name": "ROMINT.BAS",
+    "href": "ROMINT.BAS",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-010/ROMINT.BAS",
+    "is_dir": false,
+    "size": "1.2 KiB",
+    "date": "10-Feb-2000 16:00"
+  },
+  {
+    "name": "ROOTER.BAS",
+    "href": "ROOTER.BAS",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-010/ROOTER.BAS",
+    "is_dir": false,
+    "size": "3.1 KiB",
+    "date": "10-Feb-2000 16:00"
+  },
+  {
+    "name": "SIMEQN.BAS",
+    "href": "SIMEQN.BAS",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-010/SIMEQN.BAS",
+    "is_dir": false,
+    "size": "2.3 KiB",
+    "date": "10-Feb-2000 16:00"
+  },
+  {
+    "name": "SPHERE.BAS",
+    "href": "SPHERE.BAS",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-010/SPHERE.BAS",
+    "is_dir": false,
+    "size": "4.4 KiB",
+    "date": "10-Feb-2000 16:00"
+  },
+  {
+    "name": "SQRS.BAS",
+    "href": "SQRS.BAS",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-010/SQRS.BAS",
+    "is_dir": false,
+    "size": "757 B",
+    "date": "10-Feb-2000 16:00"
+  },
+  {
+    "name": "SQUARZ.BAS",
+    "href": "SQUARZ.BAS",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-010/SQUARZ.BAS",
+    "is_dir": false,
+    "size": "745 B",
+    "date": "10-Feb-2000 16:00"
+  },
+  {
+    "name": "STAT1.BAS",
+    "href": "STAT1.BAS",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-010/STAT1.BAS",
+    "is_dir": false,
+    "size": "1.1 KiB",
+    "date": "10-Feb-2000 16:00"
+  },
+  {
+    "name": "STAT2.BAS",
+    "href": "STAT2.BAS",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-010/STAT2.BAS",
+    "is_dir": false,
+    "size": "829 B",
+    "date": "10-Feb-2000 16:00"
+  },
+  {
+    "name": "STAT3.BAS",
+    "href": "STAT3.BAS",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-010/STAT3.BAS",
+    "is_dir": false,
+    "size": "1.5 KiB",
+    "date": "10-Feb-2000 16:00"
+  },
+  {
+    "name": "index.html",
+    "href": "index.html",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-010/index.html",
+    "is_dir": false,
+    "size": "5.5 KiB",
+    "date": "13-Feb-2000 03:13"
+  }
+]

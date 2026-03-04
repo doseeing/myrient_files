@@ -1,0 +1,178 @@
+[
+  {
+    "name": "CPMBOOT.raw.gz",
+    "href": "CPMBOOT.raw.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/UCSD_Pascal/ucsd_II.0/CPMBOOT.raw.gz",
+    "is_dir": false,
+    "size": "5.0 KiB",
+    "date": "26-Mar-2006 16:43"
+  },
+  {
+    "name": "DIAG.raw.gz",
+    "href": "DIAG.raw.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/UCSD_Pascal/ucsd_II.0/DIAG.raw.gz",
+    "is_dir": false,
+    "size": "50.8 KiB",
+    "date": "26-Mar-2006 16:43"
+  },
+  {
+    "name": "U002A.5_Z80_SYS1.raw.gz",
+    "href": "U002A.5_Z80_SYS1.raw.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/UCSD_Pascal/ucsd_II.0/U002A.5_Z80_SYS1.raw.gz",
+    "is_dir": false,
+    "size": "87.0 KiB",
+    "date": "26-Mar-2006 16:43"
+  },
+  {
+    "name": "U002B_Z80_SYS1_CPM.raw.gz",
+    "href": "U002B_Z80_SYS1_CPM.raw.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/UCSD_Pascal/ucsd_II.0/U002B_Z80_SYS1_CPM.raw.gz",
+    "is_dir": false,
+    "size": "20.7 KiB",
+    "date": "26-Mar-2006 16:43"
+  },
+  {
+    "name": "U006.5_LSI-11_SYS1.raw.gz",
+    "href": "U006.5_LSI-11_SYS1.raw.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/UCSD_Pascal/ucsd_II.0/U006.5_LSI-11_SYS1.raw.gz",
+    "is_dir": false,
+    "size": "85.0 KiB",
+    "date": "26-Mar-2006 16:43"
+  },
+  {
+    "name": "U012.1_SYS_2.raw.gz",
+    "href": "U012.1_SYS_2.raw.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/UCSD_Pascal/ucsd_II.0/U012.1_SYS_2.raw.gz",
+    "is_dir": false,
+    "size": "45.4 KiB",
+    "date": "26-Mar-2006 16:43"
+  },
+  {
+    "name": "U014.1_ASSEM.raw.gz",
+    "href": "U014.1_ASSEM.raw.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/UCSD_Pascal/ucsd_II.0/U014.1_ASSEM.raw.gz",
+    "is_dir": false,
+    "size": "104.2 KiB",
+    "date": "26-Mar-2006 16:43"
+  },
+  {
+    "name": "U120_Z80_P-CODE_SOURCE.raw.gz",
+    "href": "U120_Z80_P-CODE_SOURCE.raw.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/UCSD_Pascal/ucsd_II.0/U120_Z80_P-CODE_SOURCE.raw.gz",
+    "is_dir": false,
+    "size": "69.6 KiB",
+    "date": "26-Mar-2006 16:43"
+  },
+  {
+    "name": "U121.2_LSI-11_P-CODE_SOURCE.raw.gz",
+    "href": "U121.2_LSI-11_P-CODE_SOURCE.raw.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/UCSD_Pascal/ucsd_II.0/U121.2_LSI-11_P-CODE_SOURCE.raw.gz",
+    "is_dir": false,
+    "size": "77.8 KiB",
+    "date": "26-Mar-2006 16:43"
+  },
+  {
+    "name": "U123.1_Z80_ASSEM_SOURCE.raw.gz",
+    "href": "U123.1_Z80_ASSEM_SOURCE.raw.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/UCSD_Pascal/ucsd_II.0/U123.1_Z80_ASSEM_SOURCE.raw.gz",
+    "is_dir": false,
+    "size": "32.2 KiB",
+    "date": "26-Mar-2006 16:43"
+  },
+  {
+    "name": "U124.1_LSI-11_ASSEM_SOURCE.raw.gz",
+    "href": "U124.1_LSI-11_ASSEM_SOURCE.raw.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/UCSD_Pascal/ucsd_II.0/U124.1_LSI-11_ASSEM_SOURCE.raw.gz",
+    "is_dir": false,
+    "size": "92.2 KiB",
+    "date": "26-Mar-2006 16:43"
+  },
+  {
+    "name": "U126_EDITOR_SOURCE.raw.gz",
+    "href": "U126_EDITOR_SOURCE.raw.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/UCSD_Pascal/ucsd_II.0/U126_EDITOR_SOURCE.raw.gz",
+    "is_dir": false,
+    "size": "65.5 KiB",
+    "date": "26-Mar-2006 16:43"
+  },
+  {
+    "name": "U128_L2_YALOE_SOURCE.raw.gz",
+    "href": "U128_L2_YALOE_SOURCE.raw.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/UCSD_Pascal/ucsd_II.0/U128_L2_YALOE_SOURCE.raw.gz",
+    "is_dir": false,
+    "size": "38.2 KiB",
+    "date": "26-Mar-2006 16:43"
+  },
+  {
+    "name": "U130.1_BASIC_SOURCE.raw.gz",
+    "href": "U130.1_BASIC_SOURCE.raw.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/UCSD_Pascal/ucsd_II.0/U130.1_BASIC_SOURCE.raw.gz",
+    "is_dir": false,
+    "size": "24.8 KiB",
+    "date": "26-Mar-2006 16:43"
+  },
+  {
+    "name": "U132.A_PASCAL_COMPILER_SOURCE.raw.gz",
+    "href": "U132.A_PASCAL_COMPILER_SOURCE.raw.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/UCSD_Pascal/ucsd_II.0/U132.A_PASCAL_COMPILER_SOURCE.raw.gz",
+    "is_dir": false,
+    "size": "50.4 KiB",
+    "date": "26-Mar-2006 16:43"
+  },
+  {
+    "name": "U132B.2_PASCAL_LINKER_SOURCE.raw.gz",
+    "href": "U132B.2_PASCAL_LINKER_SOURCE.raw.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/UCSD_Pascal/ucsd_II.0/U132B.2_PASCAL_LINKER_SOURCE.raw.gz",
+    "is_dir": false,
+    "size": "31.6 KiB",
+    "date": "26-Mar-2006 16:43"
+  },
+  {
+    "name": "U134.4_OS_SOURCE.raw.gz",
+    "href": "U134.4_OS_SOURCE.raw.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/UCSD_Pascal/ucsd_II.0/U134.4_OS_SOURCE.raw.gz",
+    "is_dir": false,
+    "size": "43.5 KiB",
+    "date": "26-Mar-2006 16:43"
+  },
+  {
+    "name": "U136.3_LONG_INTEGER_SOURCE.raw.gz",
+    "href": "U136.3_LONG_INTEGER_SOURCE.raw.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/UCSD_Pascal/ucsd_II.0/U136.3_LONG_INTEGER_SOURCE.raw.gz",
+    "is_dir": false,
+    "size": "22.1 KiB",
+    "date": "26-Mar-2006 16:43"
+  },
+  {
+    "name": "U138.3_UTILITY_SOURCE.raw.gz",
+    "href": "U138.3_UTILITY_SOURCE.raw.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/UCSD_Pascal/ucsd_II.0/U138.3_UTILITY_SOURCE.raw.gz",
+    "is_dir": false,
+    "size": "62.5 KiB",
+    "date": "26-Mar-2006 16:43"
+  },
+  {
+    "name": "UCSD_II.0_content.tar.gz",
+    "href": "UCSD_II.0_content.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/UCSD_Pascal/ucsd_II.0/UCSD_II.0_content.tar.gz",
+    "is_dir": false,
+    "size": "664.9 KiB",
+    "date": "14-May-2006 13:25"
+  },
+  {
+    "name": "UCSD_SYS1_Z80.raw.gz",
+    "href": "UCSD_SYS1_Z80.raw.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/UCSD_Pascal/ucsd_II.0/UCSD_SYS1_Z80.raw.gz",
+    "is_dir": false,
+    "size": "87.0 KiB",
+    "date": "26-Mar-2006 16:43"
+  },
+  {
+    "name": "UCSD_SYS2_Z80.raw.gz",
+    "href": "UCSD_SYS2_Z80.raw.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/UCSD_Pascal/ucsd_II.0/UCSD_SYS2_Z80.raw.gz",
+    "is_dir": false,
+    "size": "45.4 KiB",
+    "date": "26-Mar-2006 16:43"
+  }
+]

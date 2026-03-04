@@ -1,0 +1,42 @@
+[
+  {
+    "name": "install_1.chd",
+    "href": "install_1.chd",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20CHDs%20%28merged%29/sgi_mips/irix_6_5_23/install_1.chd",
+    "is_dir": false,
+    "size": "352.2 MiB",
+    "date": "29-Sep-2025 06:19"
+  },
+  {
+    "name": "install_2.chd",
+    "href": "install_2.chd",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20CHDs%20%28merged%29/sgi_mips/irix_6_5_23/install_2.chd",
+    "is_dir": false,
+    "size": "343.4 MiB",
+    "date": "29-Sep-2025 06:08"
+  },
+  {
+    "name": "install_3.chd",
+    "href": "install_3.chd",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20CHDs%20%28merged%29/sgi_mips/irix_6_5_23/install_3.chd",
+    "is_dir": false,
+    "size": "370.3 MiB",
+    "date": "29-Sep-2025 06:28"
+  },
+  {
+    "name": "irix_6_5_23_apps.chd",
+    "href": "irix_6_5_23_apps.chd",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20CHDs%20%28merged%29/sgi_mips/irix_6_5_23/irix_6_5_23_apps.chd",
+    "is_dir": false,
+    "size": "502.4 MiB",
+    "date": "29-Sep-2025 05:29"
+  },
+  {
+    "name": "irix_6_5_23_capps.chd",
+    "href": "irix_6_5_23_capps.chd",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20CHDs%20%28merged%29/sgi_mips/irix_6_5_23/irix_6_5_23_capps.chd",
+    "is_dir": false,
+    "size": "369.3 MiB",
+    "date": "29-Sep-2025 06:14"
+  }
+]

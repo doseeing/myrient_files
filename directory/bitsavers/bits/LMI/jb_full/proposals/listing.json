@@ -1,0 +1,146 @@
+[
+  {
+    "name": "accepted",
+    "href": "accepted/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/proposals/accepted/",
+    "is_dir": true,
+    "size": null,
+    "date": "21-Apr-2017 01:27"
+  },
+  {
+    "name": "archive",
+    "href": "archive/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/proposals/archive/",
+    "is_dir": true,
+    "size": null,
+    "date": "21-Apr-2017 01:27"
+  },
+  {
+    "name": "background",
+    "href": "background/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/proposals/background/",
+    "is_dir": true,
+    "size": null,
+    "date": "21-Apr-2017 01:27"
+  },
+  {
+    "name": "drafts",
+    "href": "drafts/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/proposals/drafts/",
+    "is_dir": true,
+    "size": null,
+    "date": "21-Apr-2017 01:27"
+  },
+  {
+    "name": "argument-descriptors.text.1",
+    "href": "argument-descriptors.text.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/proposals/argument-descriptors.text.1",
+    "is_dir": false,
+    "size": "6.0 KiB",
+    "date": "21-Apr-2017 01:02"
+  },
+  {
+    "name": "argument-descriptors.text.2",
+    "href": "argument-descriptors.text.2",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/proposals/argument-descriptors.text.2",
+    "is_dir": false,
+    "size": "6.3 KiB",
+    "date": "21-Apr-2017 01:02"
+  },
+  {
+    "name": "argument-descriptors.text.3",
+    "href": "argument-descriptors.text.3",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/proposals/argument-descriptors.text.3",
+    "is_dir": false,
+    "size": "6.3 KiB",
+    "date": "21-Apr-2017 01:02"
+  },
+  {
+    "name": "generating-internal-releases.text.1",
+    "href": "generating-internal-releases.text.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/proposals/generating-internal-releases.text.1",
+    "is_dir": false,
+    "size": "3.0 KiB",
+    "date": "21-Apr-2017 01:02"
+  },
+  {
+    "name": "generating-internal-releases.text.10",
+    "href": "generating-internal-releases.text.10",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/proposals/generating-internal-releases.text.10",
+    "is_dir": false,
+    "size": "11.3 KiB",
+    "date": "21-Apr-2017 01:02"
+  },
+  {
+    "name": "generating-internal-releases.text.2",
+    "href": "generating-internal-releases.text.2",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/proposals/generating-internal-releases.text.2",
+    "is_dir": false,
+    "size": "3.1 KiB",
+    "date": "21-Apr-2017 01:02"
+  },
+  {
+    "name": "generating-internal-releases.text.3",
+    "href": "generating-internal-releases.text.3",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/proposals/generating-internal-releases.text.3",
+    "is_dir": false,
+    "size": "3.1 KiB",
+    "date": "21-Apr-2017 01:02"
+  },
+  {
+    "name": "generating-internal-releases.text.4",
+    "href": "generating-internal-releases.text.4",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/proposals/generating-internal-releases.text.4",
+    "is_dir": false,
+    "size": "2.9 KiB",
+    "date": "21-Apr-2017 01:02"
+  },
+  {
+    "name": "generating-internal-releases.text.5",
+    "href": "generating-internal-releases.text.5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/proposals/generating-internal-releases.text.5",
+    "is_dir": false,
+    "size": "8.2 KiB",
+    "date": "21-Apr-2017 01:02"
+  },
+  {
+    "name": "generating-internal-releases.text.6",
+    "href": "generating-internal-releases.text.6",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/proposals/generating-internal-releases.text.6",
+    "is_dir": false,
+    "size": "8.2 KiB",
+    "date": "21-Apr-2017 01:02"
+  },
+  {
+    "name": "generating-internal-releases.text.8",
+    "href": "generating-internal-releases.text.8",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/proposals/generating-internal-releases.text.8",
+    "is_dir": false,
+    "size": "8.2 KiB",
+    "date": "21-Apr-2017 01:02"
+  },
+  {
+    "name": "generating-internal-releases.text.9",
+    "href": "generating-internal-releases.text.9",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/proposals/generating-internal-releases.text.9",
+    "is_dir": false,
+    "size": "10.9 KiB",
+    "date": "21-Apr-2017 01:02"
+  },
+  {
+    "name": "regression-test-suite.text.1",
+    "href": "regression-test-suite.text.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/proposals/regression-test-suite.text.1",
+    "is_dir": false,
+    "size": "8.1 KiB",
+    "date": "21-Apr-2017 01:02"
+  },
+  {
+    "name": "table-of-contents.text.7",
+    "href": "table-of-contents.text.7",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/proposals/table-of-contents.text.7",
+    "is_dir": false,
+    "size": "4.6 KiB",
+    "date": "21-Apr-2017 01:02"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "name": "firmware",
+    "href": "firmware/",
+    "url": "https://myrient.erista.me/files/bitsavers/communications/decisionData/STK_3494/firmware/",
+    "is_dir": true,
+    "size": null,
+    "date": "08-Dec-2020 20:40"
+  },
+  {
+    "name": "pictures",
+    "href": "pictures/",
+    "url": "https://myrient.erista.me/files/bitsavers/communications/decisionData/STK_3494/pictures/",
+    "is_dir": true,
+    "size": null,
+    "date": "08-Dec-2020 20:41"
+  },
+  {
+    "name": "3494-STK_SVC.pdf",
+    "href": "3494-STK_SVC.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/communications/decisionData/STK_3494/3494-STK_SVC.pdf",
+    "is_dir": false,
+    "size": "3.3 MiB",
+    "date": "08-Dec-2020 20:40"
+  },
+  {
+    "name": "3494.IMD",
+    "href": "3494.IMD",
+    "url": "https://myrient.erista.me/files/bitsavers/communications/decisionData/STK_3494/3494.IMD",
+    "is_dir": false,
+    "size": "914.0 KiB",
+    "date": "08-Dec-2020 22:39"
+  },
+  {
+    "name": "3494.ZIP",
+    "href": "3494.ZIP",
+    "url": "https://myrient.erista.me/files/bitsavers/communications/decisionData/STK_3494/3494.ZIP",
+    "is_dir": false,
+    "size": "730.2 KiB",
+    "date": "08-Dec-2020 22:39"
+  },
+  {
+    "name": "User_Manual.pdf",
+    "href": "User_Manual.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/communications/decisionData/STK_3494/User_Manual.pdf",
+    "is_dir": false,
+    "size": "2.1 MiB",
+    "date": "08-Dec-2020 20:40"
+  }
+]

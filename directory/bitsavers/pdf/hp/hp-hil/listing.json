@@ -1,0 +1,66 @@
+[
+  {
+    "name": "firmware",
+    "href": "firmware/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/hp/hp-hil/firmware/",
+    "is_dir": true,
+    "size": null,
+    "date": "30-Dec-2014 08:35"
+  },
+  {
+    "name": "photos",
+    "href": "photos/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/hp/hp-hil/photos/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Dec-2014 08:06"
+  },
+  {
+    "name": "45918A-90001_HP-HIL_Technical_Reference_Manual_Jan86.pdf",
+    "href": "45918A-90001_HP-HIL_Technical_Reference_Manual_Jan86.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/hp/hp-hil/45918A-90001_HP-HIL_Technical_Reference_Manual_Jan86.pdf",
+    "is_dir": false,
+    "size": "7.5 MiB",
+    "date": "22-Oct-2013 23:20"
+  },
+  {
+    "name": "46020-90001_HP-HIL_Keyboard_Users_Guide_May84.pdf",
+    "href": "46020-90001_HP-HIL_Keyboard_Users_Guide_May84.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/hp/hp-hil/46020-90001_HP-HIL_Keyboard_Users_Guide_May84.pdf",
+    "is_dir": false,
+    "size": "613.3 KiB",
+    "date": "15-Aug-2014 00:10"
+  },
+  {
+    "name": "46040-90016_HP_Mouse_Owners_Guide_Sep89.pdf",
+    "href": "46040-90016_HP_Mouse_Owners_Guide_Sep89.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/hp/hp-hil/46040-90016_HP_Mouse_Owners_Guide_Sep89.pdf",
+    "is_dir": false,
+    "size": "1018.1 KiB",
+    "date": "13-Aug-2014 23:11"
+  },
+  {
+    "name": "COP402_datasheet.pdf",
+    "href": "COP402_datasheet.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/hp/hp-hil/COP402_datasheet.pdf",
+    "is_dir": false,
+    "size": "788.6 KiB",
+    "date": "29-Dec-2014 23:38"
+  },
+  {
+    "name": "COP422_datasheet.pdf",
+    "href": "COP422_datasheet.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/hp/hp-hil/COP422_datasheet.pdf",
+    "is_dir": false,
+    "size": "1020.1 KiB",
+    "date": "29-Dec-2014 23:38"
+  },
+  {
+    "name": "HP-HIL_ASICS.txt",
+    "href": "HP-HIL_ASICS.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/hp/hp-hil/HP-HIL_ASICS.txt",
+    "is_dir": false,
+    "size": "2.0 KiB",
+    "date": "29-Dec-2014 23:38"
+  }
+]

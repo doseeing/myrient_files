@@ -1,0 +1,42 @@
+[
+  {
+    "name": "disk_images",
+    "href": "disk_images/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Xerox/Alto/disk_images/",
+    "is_dir": true,
+    "size": null,
+    "date": "15-Jan-2023 22:34"
+  },
+  {
+    "name": "firmware",
+    "href": "firmware/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Xerox/Alto/firmware/",
+    "is_dir": true,
+    "size": null,
+    "date": "21-Jul-2016 17:45"
+  },
+  {
+    "name": "simulator",
+    "href": "simulator/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Xerox/Alto/simulator/",
+    "is_dir": true,
+    "size": null,
+    "date": "05-Mar-2009 17:53"
+  },
+  {
+    "name": "tools",
+    "href": "tools/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Xerox/Alto/tools/",
+    "is_dir": true,
+    "size": null,
+    "date": "17-Jun-2010 16:24"
+  },
+  {
+    "name": "Alto_Netboot_Files.zip",
+    "href": "Alto_Netboot_Files.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Xerox/Alto/Alto_Netboot_Files.zip",
+    "is_dir": false,
+    "size": "284.9 KiB",
+    "date": "22-Oct-2014 00:47"
+  }
+]

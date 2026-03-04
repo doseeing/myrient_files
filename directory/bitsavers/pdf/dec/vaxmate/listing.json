@@ -1,0 +1,178 @@
+[
+  {
+    "name": "firmware",
+    "href": "firmware/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vaxmate/firmware/",
+    "is_dir": true,
+    "size": null,
+    "date": "05-Jan-2020 17:36"
+  },
+  {
+    "name": "AA-GV34A-TH_DECnet-VAXmate_Programmers_Reference_Manual_Sep1986.pdf",
+    "href": "AA-GV34A-TH_DECnet-VAXmate_Programmers_Reference_Manual_Sep1986.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vaxmate/AA-GV34A-TH_DECnet-VAXmate_Programmers_Reference_Manual_Sep1986.pdf",
+    "is_dir": false,
+    "size": "11.9 MiB",
+    "date": "01-Jan-2020 02:07"
+  },
+  {
+    "name": "AA-HD91A-TK_VAXmate_Users_Guide_Volume_1_Sep1986.pdf",
+    "href": "AA-HD91A-TK_VAXmate_Users_Guide_Volume_1_Sep1986.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vaxmate/AA-HD91A-TK_VAXmate_Users_Guide_Volume_1_Sep1986.pdf",
+    "is_dir": false,
+    "size": "18.0 MiB",
+    "date": "31-Dec-2019 23:08"
+  },
+  {
+    "name": "AA-HD92A-TK_VAXmate_Technical_Reference_Manual_Volume_1_Feb1987.pdf",
+    "href": "AA-HD92A-TK_VAXmate_Technical_Reference_Manual_Volume_1_Feb1987.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vaxmate/AA-HD92A-TK_VAXmate_Technical_Reference_Manual_Volume_1_Feb1987.pdf",
+    "is_dir": false,
+    "size": "21.6 MiB",
+    "date": "31-Dec-2019 19:34"
+  },
+  {
+    "name": "AA-HD95A-TK_VAXmate_Technical_Reference_Manual_Volume_2_Feb1987.pdf",
+    "href": "AA-HD95A-TK_VAXmate_Technical_Reference_Manual_Volume_2_Feb1987.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vaxmate/AA-HD95A-TK_VAXmate_Technical_Reference_Manual_Volume_2_Feb1987.pdf",
+    "is_dir": false,
+    "size": "22.9 MiB",
+    "date": "31-Dec-2019 19:34"
+  },
+  {
+    "name": "AA-HD97A-TK_VAXmate_Users_Guide_Volume_2_Sep1986.pdf",
+    "href": "AA-HD97A-TK_VAXmate_Users_Guide_Volume_2_Sep1986.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vaxmate/AA-HD97A-TK_VAXmate_Users_Guide_Volume_2_Sep1986.pdf",
+    "is_dir": false,
+    "size": "16.2 MiB",
+    "date": "31-Dec-2019 23:08"
+  },
+  {
+    "name": "AA-HD99B-TK_VAXmate_Operating_Environment_Release_Notes_V1.1_Jan1987.pdf",
+    "href": "AA-HD99B-TK_VAXmate_Operating_Environment_Release_Notes_V1.1_Jan1987.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vaxmate/AA-HD99B-TK_VAXmate_Operating_Environment_Release_Notes_V1.1_Jan1987.pdf",
+    "is_dir": false,
+    "size": "1.4 MiB",
+    "date": "31-Dec-2019 23:08"
+  },
+  {
+    "name": "AA-JP76A-TH_VAXmate_Technical_Reference_Manual_Volume_1_198702.pdf",
+    "href": "AA-JP76A-TH_VAXmate_Technical_Reference_Manual_Volume_1_198702.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vaxmate/AA-JP76A-TH_VAXmate_Technical_Reference_Manual_Volume_1_198702.pdf",
+    "is_dir": false,
+    "size": "45.3 MiB",
+    "date": "16-Jul-2024 15:59"
+  },
+  {
+    "name": "AA-JU51A-TE_VAXmate_VAX_VMS_Server_Guide_Jan1987.pdf",
+    "href": "AA-JU51A-TE_VAXmate_VAX_VMS_Server_Guide_Jan1987.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vaxmate/AA-JU51A-TE_VAXmate_VAX_VMS_Server_Guide_Jan1987.pdf",
+    "is_dir": false,
+    "size": "6.1 MiB",
+    "date": "01-Jan-2020 02:07"
+  },
+  {
+    "name": "AA-JU52C-TH_VAXmate_Services_for_MS-DOS_Administration_Guide_Apr1989.pdf",
+    "href": "AA-JU52C-TH_VAXmate_Services_for_MS-DOS_Administration_Guide_Apr1989.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vaxmate/AA-JU52C-TH_VAXmate_Services_for_MS-DOS_Administration_Guide_Apr1989.pdf",
+    "is_dir": false,
+    "size": "4.8 MiB",
+    "date": "01-Jan-2020 03:40"
+  },
+  {
+    "name": "AA-LB56B-TH_PCSA_Overview_Oct1988.pdf",
+    "href": "AA-LB56B-TH_PCSA_Overview_Oct1988.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vaxmate/AA-LB56B-TH_PCSA_Overview_Oct1988.pdf",
+    "is_dir": false,
+    "size": "4.9 MiB",
+    "date": "01-Jan-2020 03:36"
+  },
+  {
+    "name": "AA-LB61A-TH_DECnet_PCSA_Client_Release_Notes_Version_2.0_May1988.pdf",
+    "href": "AA-LB61A-TH_DECnet_PCSA_Client_Release_Notes_Version_2.0_May1988.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vaxmate/AA-LB61A-TH_DECnet_PCSA_Client_Release_Notes_Version_2.0_May1988.pdf",
+    "is_dir": false,
+    "size": "1.4 MiB",
+    "date": "01-Jan-2020 02:07"
+  },
+  {
+    "name": "AA-LB65A-TH_Installing_DECnet_PCSA_VAXmate_Client_with_DOS_Diskettes_May1988.pdf",
+    "href": "AA-LB65A-TH_Installing_DECnet_PCSA_VAXmate_Client_with_DOS_Diskettes_May1988.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vaxmate/AA-LB65A-TH_Installing_DECnet_PCSA_VAXmate_Client_with_DOS_Diskettes_May1988.pdf",
+    "is_dir": false,
+    "size": "2.4 MiB",
+    "date": "01-Jan-2020 02:07"
+  },
+  {
+    "name": "AA-LB67A-TH_VAXmate_Standalone_Guide_May1988.pdf",
+    "href": "AA-LB67A-TH_VAXmate_Standalone_Guide_May1988.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vaxmate/AA-LB67A-TH_VAXmate_Standalone_Guide_May1988.pdf",
+    "is_dir": false,
+    "size": "7.0 MiB",
+    "date": "01-Jan-2020 03:32"
+  },
+  {
+    "name": "AA-LB68B-TH_PCSA_VAXmate_Standalone_Release_Notes_Version_2.1_Oct1988.pdf",
+    "href": "AA-LB68B-TH_PCSA_VAXmate_Standalone_Release_Notes_Version_2.1_Oct1988.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vaxmate/AA-LB68B-TH_PCSA_VAXmate_Standalone_Release_Notes_Version_2.1_Oct1988.pdf",
+    "is_dir": false,
+    "size": "1.5 MiB",
+    "date": "01-Jan-2020 03:27"
+  },
+  {
+    "name": "AA-MF84A-TH_PCSA_Printing_Guide_Oct1988.pdf",
+    "href": "AA-MF84A-TH_PCSA_Printing_Guide_Oct1988.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vaxmate/AA-MF84A-TH_PCSA_Printing_Guide_Oct1988.pdf",
+    "is_dir": false,
+    "size": "3.4 MiB",
+    "date": "01-Jan-2020 03:25"
+  },
+  {
+    "name": "AA-MG67A-TH_PCSA_International_Features_Guide_Oct1988.pdf",
+    "href": "AA-MG67A-TH_PCSA_International_Features_Guide_Oct1988.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vaxmate/AA-MG67A-TH_PCSA_International_Features_Guide_Oct1988.pdf",
+    "is_dir": false,
+    "size": "2.6 MiB",
+    "date": "01-Jan-2020 03:24"
+  },
+  {
+    "name": "AD-HD91A-T1_VAXMate_Users_Guide_Volume_1_Change_Pages_Jan1987.pdf",
+    "href": "AD-HD91A-T1_VAXMate_Users_Guide_Volume_1_Change_Pages_Jan1987.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vaxmate/AD-HD91A-T1_VAXMate_Users_Guide_Volume_1_Change_Pages_Jan1987.pdf",
+    "is_dir": false,
+    "size": "3.1 MiB",
+    "date": "01-Jan-2020 03:24"
+  },
+  {
+    "name": "AD-HD97A-T1_VAXMate_Users_Guide_Volume_2_Change_Pages_Jan1987.pdf",
+    "href": "AD-HD97A-T1_VAXMate_Users_Guide_Volume_2_Change_Pages_Jan1987.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vaxmate/AD-HD97A-T1_VAXMate_Users_Guide_Volume_2_Change_Pages_Jan1987.pdf",
+    "is_dir": false,
+    "size": "5.6 MiB",
+    "date": "01-Jan-2020 03:24"
+  },
+  {
+    "name": "EK-P500B-SV-002_VAXmate_Service_Guide_May1987.pdf",
+    "href": "EK-P500B-SV-002_VAXmate_Service_Guide_May1987.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vaxmate/EK-P500B-SV-002_VAXmate_Service_Guide_May1987.pdf",
+    "is_dir": false,
+    "size": "9.5 MiB",
+    "date": "31-Dec-2019 20:07"
+  },
+  {
+    "name": "EK-PC500-TD_VAXmate_Technical_Description_1987.pdf",
+    "href": "EK-PC500-TD_VAXmate_Technical_Description_1987.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vaxmate/EK-PC500-TD_VAXmate_Technical_Description_1987.pdf",
+    "is_dir": false,
+    "size": "30.2 MiB",
+    "date": "31-Dec-2019 20:04"
+  },
+  {
+    "name": "EK-RCD31-OM-002_VAXmate_Expansion_Box_Installation_Guide_and_Owners_Manual_Jan1987.pdf",
+    "href": "EK-RCD31-OM-002_VAXmate_Expansion_Box_Installation_Guide_and_Owners_Manual_Jan1987.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vaxmate/EK-RCD31-OM-002_VAXmate_Expansion_Box_Installation_Guide_and_Owners_Manual_Jan1987.pdf",
+    "is_dir": false,
+    "size": "3.1 MiB",
+    "date": "31-Dec-2019 22:05"
+  }
+]

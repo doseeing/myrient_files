@@ -1,0 +1,81 @@
+name	is_dir	size	date
+1401_emulation	True	-	10-Jan-2015 06:36
+9370	True	-	07-Jun-2025 18:29
+ACP	True	-	23-Sep-2025 16:33
+ACP_TPF	True	-	04-Mar-2013 18:11
+CICS	True	-	10-Aug-2022 00:38
+CICS_MVS	True	-	29-Oct-2025 17:30
+CICS_VS	True	-	28-Apr-2025 03:08
+CMS	True	-	26-Sep-2025 16:44
+CTCA	True	-	20-Mar-2019 16:16
+DB2	True	-	05-Aug-2021 20:58
+DCF	True	-	31-Aug-2025 16:37
+DL1	True	-	26-Apr-2022 17:47
+DOS_VS	True	-	18-Nov-2021 17:36
+DOS_VSE	True	-	18-Aug-2023 01:59
+DSF	True	-	18-Aug-2023 17:26
+Dallas_Systems_Center	True	-	26-Feb-2022 16:37
+Data_Base_Design_Aid	True	-	02-Sep-2021 12:50
+GDDM	True	-	14-Nov-2019 02:48
+IMS_VS	True	-	30-Aug-2023 03:37
+INTERCOMM	True	-	16-Apr-2022 14:49
+IPF_VSE	True	-	28-Jun-2021 18:37
+ISPF	True	-	03-Jul-2024 13:41
+MVS	True	-	31-Aug-2025 16:37
+MVS_ESA	True	-	24-Jun-2022 22:00
+MVS_XA	True	-	25-Aug-2025 01:35
+NJE	True	-	21-Apr-2024 02:47
+OS_VS	True	-	18-Dec-2024 21:48
+OS_VS1	True	-	09-May-2025 19:42
+OS_VS2	True	-	20-Jul-2024 19:41
+RACF	True	-	12-Jun-2012 14:04
+SMP-E	True	-	11-Nov-2021 12:57
+SPF	True	-	11-Dec-2024 17:26
+SQL-DS	True	-	06-Jul-2024 00:07
+SRTOS	True	-	08-Feb-2024 21:28
+TCP	True	-	03-Jul-2021 01:05
+TSO_Extensions	True	-	18-Nov-2019 21:58
+VM	True	-	26-Oct-2025 00:24
+VSE	True	-	24-Sep-2025 15:49
+VS_APL	True	-	07-Feb-2024 17:00
+Washington_Systems_Center	True	-	10-Dec-2024 06:01
+Whitesmiths_C	True	-	27-Oct-2025 03:02
+asm	True	-	08-Feb-2024 21:30
+basic	True	-	03-Oct-2020 16:05
+bibliography	True	-	12-Aug-2021 05:27
+btam	True	-	11-Sep-2009 22:01
+channel	True	-	03-Nov-2019 01:13
+compatibility_feature	True	-	24-Feb-2011 21:42
+cross_system	True	-	28-May-2024 23:34
+facts_folder	True	-	27-Aug-2022 00:22
+fe	True	-	13-Jun-2022 19:12
+fortran	True	-	21-Jul-2024 02:17
+funcChar	True	-	24-Jul-2021 18:56
+hasp	True	-	04-Aug-2021 20:22
+model115	True	-	01-Jun-2012 18:52
+model125	True	-	20-Nov-2023 22:09
+model145	True	-	02-Mar-2013 22:41
+model158	True	-	04-Aug-2021 04:50
+model168	True	-	08-Jun-2012 20:26
+national_language	True	-	28-May-2024 23:36
+pascal	True	-	22-Mar-2024 02:46
+pli	True	-	24-Mar-2023 11:42
+princOps	True	-	27-Oct-2021 12:09
+referenceCard	True	-	14-May-2015 19:28
+systemGuide	True	-	11-Sep-2009 22:33
+systemSummary	True	-	01-Jul-2022 20:41
+training	True	-	26-Apr-2022 17:52
+vectorFacility	True	-	03-Nov-2015 19:06
+vs_pascal	True	-	22-Mar-2024 02:46
+Adesse_VM_Course_May85.pdf	False	11.4 MiB	11-Sep-2009 21:44
+AlanTaylorAssoc_370Papers_1973.pdf	False	6.7 MiB	11-Sep-2009 21:45
+GA22-7002-27_IBM_System_370_Input_Output_Configurator_Apr88.pdf	False	2.2 MiB	08-Jun-2012 18:37
+GA32-0039-1_IBM_Input_Output_Device_Summary_Jul80.pdf	False	33.6 MiB	19-Mar-2010 21:41
+GA32-0039-2_Input_Output_Device_Summary_Jul84.pdf	False	11.8 MiB	06-Oct-2011 19:19
+GC28-1378-02_Environmental_Record_Editing_and_Printing_Program_EREP_Users_Guide_and_Reference_Release_3.3_3rd_ed._198707.pdf	False	12.0 MiB	02-Aug-2021 08:44
+GF20-0385-0_An_Introduction_to_Microprogramming_Dec71.pdf	False	1.1 MiB	20-Jan-2013 02:34
+GR20-4260-1_Introduction_to_Virtual_Storage_in_System370_Feb73.pdf	False	6.9 MiB	02-Oct-2020 04:12
+GY26-3741-3_DOS_Emulator_Logic_197207.pdf	False	21.3 MiB	11-May-2024 03:22
+SR20-4460-0_System_370_Operators_Reference_Guide_Jul74.pdf	False	5.6 MiB	28-Mar-2013 17:21
+SR20-4460-2_System_370_Operators_Reference_Guide_Dec76.pdf	False	12.6 MiB	29-May-2012 20:14
+ZZ20-2861_Intermediate_Systems_-_Systems_Performance_197901.pdf	False	5.0 MiB	07-Nov-2024 01:51

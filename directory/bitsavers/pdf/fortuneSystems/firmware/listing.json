@@ -1,0 +1,74 @@
+[
+  {
+    "name": "COMM_A",
+    "href": "COMM_A/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/fortuneSystems/firmware/COMM_A/",
+    "is_dir": true,
+    "size": null,
+    "date": "19-Nov-2016 16:21"
+  },
+  {
+    "name": "COMM_B",
+    "href": "COMM_B/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/fortuneSystems/firmware/COMM_B/",
+    "is_dir": true,
+    "size": null,
+    "date": "19-Nov-2016 16:20"
+  },
+  {
+    "name": "VIDEO",
+    "href": "VIDEO/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/fortuneSystems/firmware/VIDEO/",
+    "is_dir": true,
+    "size": null,
+    "date": "04-Aug-2024 15:14"
+  },
+  {
+    "name": "WD1001-CLB_Fortune",
+    "href": "WD1001-CLB_Fortune/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/fortuneSystems/firmware/WD1001-CLB_Fortune/",
+    "is_dir": true,
+    "size": null,
+    "date": "18-Nov-2016 17:01"
+  },
+  {
+    "name": "12J_74S288.BIN",
+    "href": "12J_74S288.BIN",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/fortuneSystems/firmware/12J_74S288.BIN",
+    "is_dir": false,
+    "size": "32 B",
+    "date": "11-Jan-2019 01:30"
+  },
+  {
+    "name": "15K_1260-01_L.BIN",
+    "href": "15K_1260-01_L.BIN",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/fortuneSystems/firmware/15K_1260-01_L.BIN",
+    "is_dir": false,
+    "size": "8.0 KiB",
+    "date": "18-Nov-2016 17:45"
+  },
+  {
+    "name": "17K_1260-02_H.BIN",
+    "href": "17K_1260-02_H.BIN",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/fortuneSystems/firmware/17K_1260-02_H.BIN",
+    "is_dir": false,
+    "size": "8.0 KiB",
+    "date": "18-Nov-2016 17:45"
+  },
+  {
+    "name": "9F_10L8.JED",
+    "href": "9F_10L8.JED",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/fortuneSystems/firmware/9F_10L8.JED",
+    "is_dir": false,
+    "size": "48.6 KiB",
+    "date": "10-Jan-2019 01:21"
+  },
+  {
+    "name": "merged.bin",
+    "href": "merged.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/fortuneSystems/firmware/merged.bin",
+    "is_dir": false,
+    "size": "16.0 KiB",
+    "date": "18-Nov-2016 17:45"
+  }
+]

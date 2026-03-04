@@ -1,0 +1,42 @@
+[
+  {
+    "name": "dirs",
+    "href": "dirs/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/tapes/tape_programs/dirs/",
+    "is_dir": true,
+    "size": null,
+    "date": "24-May-2011 17:35"
+  },
+  {
+    "name": "dirit.c",
+    "href": "dirit.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/tapes/tape_programs/dirit.c",
+    "is_dir": false,
+    "size": "6.3 KiB",
+    "date": "24-May-2011 17:35"
+  },
+  {
+    "name": "dirit.desc",
+    "href": "dirit.desc",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/tapes/tape_programs/dirit.desc",
+    "is_dir": false,
+    "size": "1.1 KiB",
+    "date": "24-May-2011 17:35"
+  },
+  {
+    "name": "dumpit.c",
+    "href": "dumpit.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/tapes/tape_programs/dumpit.c",
+    "is_dir": false,
+    "size": "2.9 KiB",
+    "date": "24-May-2011 17:35"
+  },
+  {
+    "name": "saveit.c",
+    "href": "saveit.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/tapes/tape_programs/saveit.c",
+    "is_dir": false,
+    "size": "8.1 KiB",
+    "date": "24-May-2011 17:35"
+  }
+]

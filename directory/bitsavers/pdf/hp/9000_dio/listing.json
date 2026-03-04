@@ -1,0 +1,274 @@
+[
+  {
+    "name": "firmware",
+    "href": "firmware/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/hp/9000_dio/firmware/",
+    "is_dir": true,
+    "size": null,
+    "date": "22-Nov-2018 15:19"
+  },
+  {
+    "name": "photos",
+    "href": "photos/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/hp/9000_dio/photos/",
+    "is_dir": true,
+    "size": null,
+    "date": "06-Jul-2018 21:30"
+  },
+  {
+    "name": "1LY4-0302_Burnni_ERS_Feb90.pdf",
+    "href": "1LY4-0302_Burnni_ERS_Feb90.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/hp/9000_dio/1LY4-0302_Burnni_ERS_Feb90.pdf",
+    "is_dir": false,
+    "size": "2.6 MiB",
+    "date": "07-Apr-2010 23:21"
+  },
+  {
+    "name": "1LY5-0301_Nikki_ERS_Apr90.pdf",
+    "href": "1LY5-0301_Nikki_ERS_Apr90.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/hp/9000_dio/1LY5-0301_Nikki_ERS_Apr90.pdf",
+    "is_dir": false,
+    "size": "5.8 MiB",
+    "date": "07-Apr-2010 23:21"
+  },
+  {
+    "name": "5955-6582_98628_98629_Hardware_ERS_Jul82.pdf",
+    "href": "5955-6582_98628_98629_Hardware_ERS_Jul82.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/hp/9000_dio/5955-6582_98628_98629_Hardware_ERS_Jul82.pdf",
+    "is_dir": false,
+    "size": "3.3 MiB",
+    "date": "08-Apr-2010 01:25"
+  },
+  {
+    "name": "5955-7669_DIO_Bus_Specification_Apr84.pdf",
+    "href": "5955-7669_DIO_Bus_Specification_Apr84.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/hp/9000_dio/5955-7669_DIO_Bus_Specification_Apr84.pdf",
+    "is_dir": false,
+    "size": "4.0 MiB",
+    "date": "07-Apr-2010 23:22"
+  },
+  {
+    "name": "98265-90010_SCSI_Technical_Reference_May88.pdf",
+    "href": "98265-90010_SCSI_Technical_Reference_May88.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/hp/9000_dio/98265-90010_SCSI_Technical_Reference_May88.pdf",
+    "is_dir": false,
+    "size": "2.4 MiB",
+    "date": "12-Apr-2010 23:03"
+  },
+  {
+    "name": "98531-90001_9000_300_DOS_Coprocessor_Installation_Reference_198610.pdf",
+    "href": "98531-90001_9000_300_DOS_Coprocessor_Installation_Reference_198610.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/hp/9000_dio/98531-90001_9000_300_DOS_Coprocessor_Installation_Reference_198610.pdf",
+    "is_dir": false,
+    "size": "3.9 MiB",
+    "date": "04-Jul-2023 19:54"
+  },
+  {
+    "name": "98562-90010_DIO_II_Accessory_Development_Guide_Feb87.pdf",
+    "href": "98562-90010_DIO_II_Accessory_Development_Guide_Feb87.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/hp/9000_dio/98562-90010_DIO_II_Accessory_Development_Guide_Feb87.pdf",
+    "is_dir": false,
+    "size": "5.5 MiB",
+    "date": "07-Apr-2010 23:22"
+  },
+  {
+    "name": "98622-90000_GPIOintf_Nov83.pdf",
+    "href": "98622-90000_GPIOintf_Nov83.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/hp/9000_dio/98622-90000_GPIOintf_Nov83.pdf",
+    "is_dir": false,
+    "size": "1.5 MiB",
+    "date": "08-Aug-2005 21:37"
+  },
+  {
+    "name": "98623-90000_98623A_BCD_Interface_Installation_Oct84.pdf",
+    "href": "98623-90000_98623A_BCD_Interface_Installation_Oct84.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/hp/9000_dio/98623-90000_98623A_BCD_Interface_Installation_Oct84.pdf",
+    "is_dir": false,
+    "size": "540.8 KiB",
+    "date": "08-Apr-2010 14:16"
+  },
+  {
+    "name": "98624-90000_98624A_HP-IB_Interface_Installation_Jun85.pdf",
+    "href": "98624-90000_98624A_HP-IB_Interface_Installation_Jun85.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/hp/9000_dio/98624-90000_98624A_HP-IB_Interface_Installation_Jun85.pdf",
+    "is_dir": false,
+    "size": "241.8 KiB",
+    "date": "08-Apr-2010 14:16"
+  },
+  {
+    "name": "98625-90000_98625A_Disc_Interface_Installation_Sep83.pdf",
+    "href": "98625-90000_98625A_Disc_Interface_Installation_Sep83.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/hp/9000_dio/98625-90000_98625A_Disc_Interface_Installation_Sep83.pdf",
+    "is_dir": false,
+    "size": "747.0 KiB",
+    "date": "08-Apr-2010 14:15"
+  },
+  {
+    "name": "98625-90001_HS_HPIB_Dec85.pdf",
+    "href": "98625-90001_HS_HPIB_Dec85.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/hp/9000_dio/98625-90001_HS_HPIB_Dec85.pdf",
+    "is_dir": false,
+    "size": "2.1 MiB",
+    "date": "08-Aug-2005 22:12"
+  },
+  {
+    "name": "98626-66501_98626_Test_Procedure_Mar85.pdf",
+    "href": "98626-66501_98626_Test_Procedure_Mar85.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/hp/9000_dio/98626-66501_98626_Test_Procedure_Mar85.pdf",
+    "is_dir": false,
+    "size": "1.2 MiB",
+    "date": "08-Apr-2010 01:25"
+  },
+  {
+    "name": "98626-90000_RS232_May82.pdf",
+    "href": "98626-90000_RS232_May82.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/hp/9000_dio/98626-90000_RS232_May82.pdf",
+    "is_dir": false,
+    "size": "1.3 MiB",
+    "date": "08-Aug-2005 22:33"
+  },
+  {
+    "name": "98628-90001_98628A_98691A_Datacomm_Interface_Feb85.pdf",
+    "href": "98628-90001_98628A_98691A_Datacomm_Interface_Feb85.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/hp/9000_dio/98628-90001_98628A_98691A_Datacomm_Interface_Feb85.pdf",
+    "is_dir": false,
+    "size": "1.9 MiB",
+    "date": "08-Apr-2010 14:16"
+  },
+  {
+    "name": "98629A_SRM_Firmware_ERS_Feb83.pdf",
+    "href": "98629A_SRM_Firmware_ERS_Feb83.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/hp/9000_dio/98629A_SRM_Firmware_ERS_Feb83.pdf",
+    "is_dir": false,
+    "size": "1.6 MiB",
+    "date": "08-Apr-2010 01:25"
+  },
+  {
+    "name": "98629A_SRM_Firmware_IRS_Aug82.pdf",
+    "href": "98629A_SRM_Firmware_IRS_Aug82.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/hp/9000_dio/98629A_SRM_Firmware_IRS_Aug82.pdf",
+    "is_dir": false,
+    "size": "1.3 MiB",
+    "date": "08-Apr-2010 01:26"
+  },
+  {
+    "name": "98630-90000_98630_Breadboard_Interface_Mar83.pdf",
+    "href": "98630-90000_98630_Breadboard_Interface_Mar83.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/hp/9000_dio/98630-90000_98630_Breadboard_Interface_Mar83.pdf",
+    "is_dir": false,
+    "size": "3.1 MiB",
+    "date": "08-Apr-2010 01:26"
+  },
+  {
+    "name": "98638-90001_98638A_8-Port_Async_Mux_Reference_Mar90.pdf",
+    "href": "98638-90001_98638A_8-Port_Async_Mux_Reference_Mar90.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/hp/9000_dio/98638-90001_98638A_8-Port_Async_Mux_Reference_Mar90.pdf",
+    "is_dir": false,
+    "size": "1.7 MiB",
+    "date": "08-Apr-2010 01:26"
+  },
+  {
+    "name": "98638A_DIO_8_Port_Async_Mux_ERS_Feb90.pdf",
+    "href": "98638A_DIO_8_Port_Async_Mux_ERS_Feb90.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/hp/9000_dio/98638A_DIO_8_Port_Async_Mux_ERS_Feb90.pdf",
+    "is_dir": false,
+    "size": "1.5 MiB",
+    "date": "08-Apr-2010 01:27"
+  },
+  {
+    "name": "98638A_DIO_8_Port_Async_Mux_IMS_Feb90.pdf",
+    "href": "98638A_DIO_8_Port_Async_Mux_IMS_Feb90.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/hp/9000_dio/98638A_DIO_8_Port_Async_Mux_IMS_Feb90.pdf",
+    "is_dir": false,
+    "size": "2.4 MiB",
+    "date": "08-Apr-2010 01:27"
+  },
+  {
+    "name": "98640-90001_7-Channel_Analog_Input_Interface_Jul84.pdf",
+    "href": "98640-90001_7-Channel_Analog_Input_Interface_Jul84.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/hp/9000_dio/98640-90001_7-Channel_Analog_Input_Interface_Jul84.pdf",
+    "is_dir": false,
+    "size": "4.0 MiB",
+    "date": "08-Apr-2010 19:33"
+  },
+  {
+    "name": "98641-90005_98641A_HP-DIO_Prog_Datacomm_Intf_RJE_Reference_Nov87.pdf",
+    "href": "98641-90005_98641A_HP-DIO_Prog_Datacomm_Intf_RJE_Reference_Nov87.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/hp/9000_dio/98641-90005_98641A_HP-DIO_Prog_Datacomm_Intf_RJE_Reference_Nov87.pdf",
+    "is_dir": false,
+    "size": "2.9 MiB",
+    "date": "08-Apr-2010 01:27"
+  },
+  {
+    "name": "98641A_RJE_Interface_Project_Support_Plan_Jul84.pdf",
+    "href": "98641A_RJE_Interface_Project_Support_Plan_Jul84.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/hp/9000_dio/98641A_RJE_Interface_Project_Support_Plan_Jul84.pdf",
+    "is_dir": false,
+    "size": "760.2 KiB",
+    "date": "08-Apr-2010 02:34"
+  },
+  {
+    "name": "98642-90001_98642A_Four_Channel_Async_Mux_Installation_Apr88.pdf",
+    "href": "98642-90001_98642A_Four_Channel_Async_Mux_Installation_Apr88.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/hp/9000_dio/98642-90001_98642A_Four_Channel_Async_Mux_Installation_Apr88.pdf",
+    "is_dir": false,
+    "size": "3.0 MiB",
+    "date": "08-Apr-2010 02:34"
+  },
+  {
+    "name": "98642_HP-DIO_Four_Channel_Mux_ERD_Sep84.pdf",
+    "href": "98642_HP-DIO_Four_Channel_Mux_ERD_Sep84.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/hp/9000_dio/98642_HP-DIO_Four_Channel_Mux_ERD_Sep84.pdf",
+    "is_dir": false,
+    "size": "1.4 MiB",
+    "date": "08-Apr-2010 02:34"
+  },
+  {
+    "name": "98642_HP-DIO_Four_Channel_Mux_Firmware_ERS_Aug84.pdf",
+    "href": "98642_HP-DIO_Four_Channel_Mux_Firmware_ERS_Aug84.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/hp/9000_dio/98642_HP-DIO_Four_Channel_Mux_Firmware_ERS_Aug84.pdf",
+    "is_dir": false,
+    "size": "1.6 MiB",
+    "date": "08-Apr-2010 02:34"
+  },
+  {
+    "name": "98642_HP-DIO_Four_Channel_Mux_Firmware_IMS_May86.pdf",
+    "href": "98642_HP-DIO_Four_Channel_Mux_Firmware_IMS_May86.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/hp/9000_dio/98642_HP-DIO_Four_Channel_Mux_Firmware_IMS_May86.pdf",
+    "is_dir": false,
+    "size": "5.5 MiB",
+    "date": "08-Apr-2010 02:35"
+  },
+  {
+    "name": "98643-90001_enetInst_Aug85.pdf",
+    "href": "98643-90001_enetInst_Aug85.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/hp/9000_dio/98643-90001_enetInst_Aug85.pdf",
+    "is_dir": false,
+    "size": "1.6 MiB",
+    "date": "05-Aug-2005 21:31"
+  },
+  {
+    "name": "98644-66502_Async_Mar85.pdf",
+    "href": "98644-66502_Async_Mar85.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/hp/9000_dio/98644-66502_Async_Mar85.pdf",
+    "is_dir": false,
+    "size": "1.5 MiB",
+    "date": "08-Aug-2005 22:51"
+  },
+  {
+    "name": "98645-90001_98645A_Measurement_Library_Users_Manual_Jul88.pdf",
+    "href": "98645-90001_98645A_Measurement_Library_Users_Manual_Jul88.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/hp/9000_dio/98645-90001_98645A_Measurement_Library_Users_Manual_Jul88.pdf",
+    "is_dir": false,
+    "size": "3.7 MiB",
+    "date": "12-Apr-2010 23:03"
+  },
+  {
+    "name": "DIO_Cardlist.txt",
+    "href": "DIO_Cardlist.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/hp/9000_dio/DIO_Cardlist.txt",
+    "is_dir": false,
+    "size": "1.6 KiB",
+    "date": "14-Aug-2005 16:31"
+  }
+]

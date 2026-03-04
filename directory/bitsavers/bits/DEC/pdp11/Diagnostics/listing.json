@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Hard_Disk",
+    "href": "Hard_Disk/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp11/Diagnostics/Hard_Disk/",
+    "is_dir": true,
+    "size": null,
+    "date": "02-Jan-2026 13:17"
+  },
+  {
+    "name": "Magtape",
+    "href": "Magtape/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp11/Diagnostics/Magtape/",
+    "is_dir": true,
+    "size": null,
+    "date": "24-Aug-2014 00:49"
+  },
+  {
+    "name": "RX01",
+    "href": "RX01/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp11/Diagnostics/RX01/",
+    "is_dir": true,
+    "size": null,
+    "date": "02-Jan-2026 13:20"
+  },
+  {
+    "name": "RX02",
+    "href": "RX02/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp11/Diagnostics/RX02/",
+    "is_dir": true,
+    "size": null,
+    "date": "02-Jan-2026 13:20"
+  }
+]

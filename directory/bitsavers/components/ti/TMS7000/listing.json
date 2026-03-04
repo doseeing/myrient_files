@@ -1,0 +1,106 @@
+[
+  {
+    "name": "brochure",
+    "href": "brochure/",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ti/TMS7000/brochure/",
+    "is_dir": true,
+    "size": null,
+    "date": "24-Mar-2024 12:29"
+  },
+  {
+    "name": "datasheet",
+    "href": "datasheet/",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ti/TMS7000/datasheet/",
+    "is_dir": true,
+    "size": null,
+    "date": "24-Mar-2024 12:47"
+  },
+  {
+    "name": "evm",
+    "href": "evm/",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ti/TMS7000/evm/",
+    "is_dir": true,
+    "size": null,
+    "date": "24-Mar-2024 12:33"
+  },
+  {
+    "name": "xds22",
+    "href": "xds22/",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ti/TMS7000/xds22/",
+    "is_dir": true,
+    "size": null,
+    "date": "24-Mar-2024 12:29"
+  },
+  {
+    "name": "SPND001A_TMS7000_Family_Data_Manual_1983.pdf",
+    "href": "SPND001A_TMS7000_Family_Data_Manual_1983.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ti/TMS7000/SPND001A_TMS7000_Family_Data_Manual_1983.pdf",
+    "is_dir": false,
+    "size": "10.3 MiB",
+    "date": "31-Jul-2021 20:30"
+  },
+  {
+    "name": "SPND001B_TMS7000_Family_Data_Manual_1986.pdf",
+    "href": "SPND001B_TMS7000_Family_Data_Manual_1986.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ti/TMS7000/SPND001B_TMS7000_Family_Data_Manual_1986.pdf",
+    "is_dir": false,
+    "size": "16.8 MiB",
+    "date": "24-Mar-2024 13:02"
+  },
+  {
+    "name": "SPND001C_TMS7000_Family_Data_Manual_1989.pdf",
+    "href": "SPND001C_TMS7000_Family_Data_Manual_1989.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ti/TMS7000/SPND001C_TMS7000_Family_Data_Manual_1989.pdf",
+    "is_dir": false,
+    "size": "32.2 MiB",
+    "date": "04-Aug-2017 18:50"
+  },
+  {
+    "name": "SPNF002A_TMS7000_Pocket_Reference_198402.pdf",
+    "href": "SPNF002A_TMS7000_Pocket_Reference_198402.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ti/TMS7000/SPNF002A_TMS7000_Pocket_Reference_198402.pdf",
+    "is_dir": false,
+    "size": "658.3 KiB",
+    "date": "24-Mar-2024 12:48"
+  },
+  {
+    "name": "SPNU002B_TMS7000_Assembly_Language_Programmers_Guide_198407.pdf",
+    "href": "SPNU002B_TMS7000_Assembly_Language_Programmers_Guide_198407.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ti/TMS7000/SPNU002B_TMS7000_Assembly_Language_Programmers_Guide_198407.pdf",
+    "is_dir": false,
+    "size": "11.1 MiB",
+    "date": "24-Mar-2024 12:28"
+  },
+  {
+    "name": "TMS7000_Family_Microarchitecture_-_Nov_1982.pdf",
+    "href": "TMS7000_Family_Microarchitecture_-_Nov_1982.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ti/TMS7000/TMS7000_Family_Microarchitecture_-_Nov_1982.pdf",
+    "is_dir": false,
+    "size": "4.8 MiB",
+    "date": "16-Jul-2009 21:49"
+  },
+  {
+    "name": "TMS7742_to_TMS77C82_Conversion.pdf",
+    "href": "TMS7742_to_TMS77C82_Conversion.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ti/TMS7000/TMS7742_to_TMS77C82_Conversion.pdf",
+    "is_dir": false,
+    "size": "413.6 KiB",
+    "date": "24-Mar-2024 12:48"
+  },
+  {
+    "name": "TMS77C01_PIT_Users_Manual_198408.pdf",
+    "href": "TMS77C01_PIT_Users_Manual_198408.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ti/TMS7000/TMS77C01_PIT_Users_Manual_198408.pdf",
+    "is_dir": false,
+    "size": "1.5 MiB",
+    "date": "24-Mar-2024 12:28"
+  },
+  {
+    "name": "TMS77C82_EPROM_Erratum.pdf",
+    "href": "TMS77C82_EPROM_Erratum.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ti/TMS7000/TMS77C82_EPROM_Erratum.pdf",
+    "is_dir": false,
+    "size": "169.5 KiB",
+    "date": "24-Mar-2024 12:28"
+  }
+]

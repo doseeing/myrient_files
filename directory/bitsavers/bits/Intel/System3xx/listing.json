@@ -1,0 +1,66 @@
+[
+  {
+    "name": "SYP286_diag",
+    "href": "SYP286_diag/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Intel/System3xx/SYP286_diag/",
+    "is_dir": true,
+    "size": null,
+    "date": "23-Jan-2021 19:59"
+  },
+  {
+    "name": "xenix286r3.0_extdSys",
+    "href": "xenix286r3.0_extdSys/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Intel/System3xx/xenix286r3.0_extdSys/",
+    "is_dir": true,
+    "size": null,
+    "date": "22-Nov-2016 17:07"
+  },
+  {
+    "name": "ina960.tar.gz",
+    "href": "ina960.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Intel/System3xx/ina960.tar.gz",
+    "is_dir": false,
+    "size": "398.2 KiB",
+    "date": "09-Dec-2009 22:05"
+  },
+  {
+    "name": "syp286_diag.tar.gz",
+    "href": "syp286_diag.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Intel/System3xx/syp286_diag.tar.gz",
+    "is_dir": false,
+    "size": "591.3 KiB",
+    "date": "09-Dec-2009 22:05"
+  },
+  {
+    "name": "syp86_diag.tar.gz",
+    "href": "syp86_diag.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Intel/System3xx/syp86_diag.tar.gz",
+    "is_dir": false,
+    "size": "776.0 KiB",
+    "date": "09-Dec-2009 22:05"
+  },
+  {
+    "name": "xenix286r3.0_basicSys.tar.gz",
+    "href": "xenix286r3.0_basicSys.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Intel/System3xx/xenix286r3.0_basicSys.tar.gz",
+    "is_dir": false,
+    "size": "5.8 MiB",
+    "date": "09-Dec-2009 22:05"
+  },
+  {
+    "name": "xenix286r3.0_extdSys.tar.gz",
+    "href": "xenix286r3.0_extdSys.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Intel/System3xx/xenix286r3.0_extdSys.tar.gz",
+    "is_dir": false,
+    "size": "4.1 MiB",
+    "date": "09-Dec-2009 22:06"
+  },
+  {
+    "name": "xenix286r3.0_upd3.tar.gz",
+    "href": "xenix286r3.0_upd3.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Intel/System3xx/xenix286r3.0_upd3.tar.gz",
+    "is_dir": false,
+    "size": "5.1 MiB",
+    "date": "09-Dec-2009 22:06"
+  }
+]

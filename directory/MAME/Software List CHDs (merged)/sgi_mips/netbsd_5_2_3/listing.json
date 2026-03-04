@@ -1,0 +1,66 @@
+[
+  {
+    "name": "netbsd_5_2_3_sgimips.chd",
+    "href": "netbsd_5_2_3_sgimips.chd",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20CHDs%20%28merged%29/sgi_mips/netbsd_5_2_3/netbsd_5_2_3_sgimips.chd",
+    "is_dir": false,
+    "size": "182.4 MiB",
+    "date": "29-Sep-2025 05:43"
+  },
+  {
+    "name": "netbsd_5_2_3_source.chd",
+    "href": "netbsd_5_2_3_source.chd",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20CHDs%20%28merged%29/sgi_mips/netbsd_5_2_3/netbsd_5_2_3_source.chd",
+    "is_dir": false,
+    "size": "309.0 MiB",
+    "date": "29-Sep-2025 04:33"
+  },
+  {
+    "name": "sgimipscd_5_2.chd",
+    "href": "sgimipscd_5_2.chd",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20CHDs%20%28merged%29/sgi_mips/netbsd_5_2_3/sgimipscd_5_2.chd",
+    "is_dir": false,
+    "size": "184.9 MiB",
+    "date": "29-Sep-2025 05:17"
+  },
+  {
+    "name": "sgimipscd_5_2_1.chd",
+    "href": "sgimipscd_5_2_1.chd",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20CHDs%20%28merged%29/sgi_mips/netbsd_5_2_3/sgimipscd_5_2_1.chd",
+    "is_dir": false,
+    "size": "184.9 MiB",
+    "date": "29-Sep-2025 06:10"
+  },
+  {
+    "name": "sgimipscd_5_2_2.chd",
+    "href": "sgimipscd_5_2_2.chd",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20CHDs%20%28merged%29/sgi_mips/netbsd_5_2_3/sgimipscd_5_2_2.chd",
+    "is_dir": false,
+    "size": "184.9 MiB",
+    "date": "29-Sep-2025 06:12"
+  },
+  {
+    "name": "sourcecd_5_2.chd",
+    "href": "sourcecd_5_2.chd",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20CHDs%20%28merged%29/sgi_mips/netbsd_5_2_3/sourcecd_5_2.chd",
+    "is_dir": false,
+    "size": "308.9 MiB",
+    "date": "29-Sep-2025 06:08"
+  },
+  {
+    "name": "sourcecd_5_2_1.chd",
+    "href": "sourcecd_5_2_1.chd",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20CHDs%20%28merged%29/sgi_mips/netbsd_5_2_3/sourcecd_5_2_1.chd",
+    "is_dir": false,
+    "size": "308.9 MiB",
+    "date": "29-Sep-2025 05:16"
+  },
+  {
+    "name": "sourcecd_5_2_2.chd",
+    "href": "sourcecd_5_2_2.chd",
+    "url": "https://myrient.erista.me/files/MAME/Software%20List%20CHDs%20%28merged%29/sgi_mips/netbsd_5_2_3/sourcecd_5_2_2.chd",
+    "is_dir": false,
+    "size": "308.9 MiB",
+    "date": "29-Sep-2025 05:19"
+  }
+]

@@ -1,0 +1,194 @@
+[
+  {
+    "name": "firmware",
+    "href": "firmware/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/eth/lilith/firmware/",
+    "is_dir": true,
+    "size": null,
+    "date": "14-Nov-2021 20:59"
+  },
+  {
+    "name": "pictures",
+    "href": "pictures/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/eth/lilith/pictures/",
+    "is_dir": true,
+    "size": null,
+    "date": "25-Jul-2024 16:37"
+  },
+  {
+    "name": "D100_Mididisk_controller.pdf",
+    "href": "D100_Mididisk_controller.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/eth/lilith/D100_Mididisk_controller.pdf",
+    "is_dir": false,
+    "size": "4.6 MiB",
+    "date": "17-Jan-2008 18:48"
+  },
+  {
+    "name": "D120_product_manual.pdf",
+    "href": "D120_product_manual.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/eth/lilith/D120_product_manual.pdf",
+    "is_dir": false,
+    "size": "4.1 MiB",
+    "date": "17-Jan-2008 18:48"
+  },
+  {
+    "name": "D120_product_spec.pdf",
+    "href": "D120_product_spec.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/eth/lilith/D120_product_spec.pdf",
+    "is_dir": false,
+    "size": "6.4 MiB",
+    "date": "17-Jan-2008 18:49"
+  },
+  {
+    "name": "D140_product_spec.pdf",
+    "href": "D140_product_spec.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/eth/lilith/D140_product_spec.pdf",
+    "is_dir": false,
+    "size": "7.8 MiB",
+    "date": "17-Jan-2008 18:49"
+  },
+  {
+    "name": "DPU_monitor.pdf",
+    "href": "DPU_monitor.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/eth/lilith/DPU_monitor.pdf",
+    "is_dir": false,
+    "size": "3.1 MiB",
+    "date": "17-Jan-2008 18:49"
+  },
+  {
+    "name": "ETH7346_Medos-2_1983.pdf",
+    "href": "ETH7346_Medos-2_1983.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/eth/lilith/ETH7346_Medos-2_1983.pdf",
+    "is_dir": false,
+    "size": "7.0 MiB",
+    "date": "06-Jan-2007 19:00"
+  },
+  {
+    "name": "ETH7646_Lilith_A_Workstation_Computer_For_Modula-2_1984.pdf",
+    "href": "ETH7646_Lilith_A_Workstation_Computer_For_Modula-2_1984.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/eth/lilith/ETH7646_Lilith_A_Workstation_Computer_For_Modula-2_1984.pdf",
+    "is_dir": false,
+    "size": "9.6 MiB",
+    "date": "06-Jun-2009 15:27"
+  },
+  {
+    "name": "Hardwaretest2_list.pdf",
+    "href": "Hardwaretest2_list.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/eth/lilith/Hardwaretest2_list.pdf",
+    "is_dir": false,
+    "size": "6.2 MiB",
+    "date": "17-Jan-2008 18:50"
+  },
+  {
+    "name": "Hardwaretest_list.pdf",
+    "href": "Hardwaretest_list.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/eth/lilith/Hardwaretest_list.pdf",
+    "is_dir": false,
+    "size": "4.6 MiB",
+    "date": "17-Jan-2008 18:50"
+  },
+  {
+    "name": "LilithHandbook_Aug82.pdf",
+    "href": "LilithHandbook_Aug82.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/eth/lilith/LilithHandbook_Aug82.pdf",
+    "is_dir": false,
+    "size": "7.1 MiB",
+    "date": "06-Jan-2007 19:00"
+  },
+  {
+    "name": "Lilith_Apr81.pdf",
+    "href": "Lilith_Apr81.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/eth/lilith/Lilith_Apr81.pdf",
+    "is_dir": false,
+    "size": "1.5 MiB",
+    "date": "06-Jan-2007 19:02"
+  },
+  {
+    "name": "Lilith_hardware_manual.pdf",
+    "href": "Lilith_hardware_manual.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/eth/lilith/Lilith_hardware_manual.pdf",
+    "is_dir": false,
+    "size": "20.6 MiB",
+    "date": "17-Jan-2008 18:52"
+  },
+  {
+    "name": "Lilith_install.pdf",
+    "href": "Lilith_install.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/eth/lilith/Lilith_install.pdf",
+    "is_dir": false,
+    "size": "716.9 KiB",
+    "date": "17-Jan-2008 18:52"
+  },
+  {
+    "name": "Lilith_mcode_interpreter.pdf",
+    "href": "Lilith_mcode_interpreter.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/eth/lilith/Lilith_mcode_interpreter.pdf",
+    "is_dir": false,
+    "size": "1.5 MiB",
+    "date": "17-Jan-2008 18:52"
+  },
+  {
+    "name": "Lilith_microcode_listing.pdf",
+    "href": "Lilith_microcode_listing.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/eth/lilith/Lilith_microcode_listing.pdf",
+    "is_dir": false,
+    "size": "8.8 MiB",
+    "date": "17-Jan-2008 18:53"
+  },
+  {
+    "name": "Lilith_schematics.pdf",
+    "href": "Lilith_schematics.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/eth/lilith/Lilith_schematics.pdf",
+    "is_dir": false,
+    "size": "20.6 MiB",
+    "date": "17-Jan-2008 18:54"
+  },
+  {
+    "name": "Modula_Corp_Ad_Dec85.jpg",
+    "href": "Modula_Corp_Ad_Dec85.jpg",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/eth/lilith/Modula_Corp_Ad_Dec85.jpg",
+    "is_dir": false,
+    "size": "727.5 KiB",
+    "date": "08-Sep-2011 15:23"
+  },
+  {
+    "name": "Panel_list.pdf",
+    "href": "Panel_list.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/eth/lilith/Panel_list.pdf",
+    "is_dir": false,
+    "size": "3.9 MiB",
+    "date": "17-Jan-2008 18:54"
+  },
+  {
+    "name": "Read.me",
+    "href": "Read.me",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/eth/lilith/Read.me",
+    "is_dir": false,
+    "size": "677 B",
+    "date": "17-Jan-2008 18:54"
+  },
+  {
+    "name": "Submon_list.pdf",
+    "href": "Submon_list.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/eth/lilith/Submon_list.pdf",
+    "is_dir": false,
+    "size": "4.0 MiB",
+    "date": "17-Jan-2008 18:55"
+  },
+  {
+    "name": "ThePersonalComputerLilith_1981.pdf",
+    "href": "ThePersonalComputerLilith_1981.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/eth/lilith/ThePersonalComputerLilith_1981.pdf",
+    "is_dir": false,
+    "size": "3.0 MiB",
+    "date": "27-Mar-2007 02:10"
+  },
+  {
+    "name": "wd1001.pdf",
+    "href": "wd1001.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/eth/lilith/wd1001.pdf",
+    "is_dir": false,
+    "size": "9.3 MiB",
+    "date": "17-Jan-2008 18:55"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "name": "CHRP",
+    "href": "CHRP/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/powerpc/CHRP/",
+    "is_dir": true,
+    "size": null,
+    "date": "08-May-2013 23:01"
+  },
+  {
+    "name": "ESP",
+    "href": "ESP/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/powerpc/ESP/",
+    "is_dir": true,
+    "size": null,
+    "date": "11-Sep-2020 16:54"
+  },
+  {
+    "name": "PREP",
+    "href": "PREP/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/powerpc/PREP/",
+    "is_dir": true,
+    "size": null,
+    "date": "11-May-2013 16:56"
+  },
+  {
+    "name": "RISCWatch",
+    "href": "RISCWatch/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/powerpc/RISCWatch/",
+    "is_dir": true,
+    "size": null,
+    "date": "11-Sep-2020 16:35"
+  },
+  {
+    "name": "SG24-4299-00_PowerPC_An_Inside_View_199509.pdf",
+    "href": "SG24-4299-00_PowerPC_An_Inside_View_199509.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/powerpc/SG24-4299-00_PowerPC_An_Inside_View_199509.pdf",
+    "is_dir": false,
+    "size": "944.9 KiB",
+    "date": "24-Dec-2022 22:26"
+  },
+  {
+    "name": "SR28-5124-01_The_PowerPC_Architecture_May94.pdf",
+    "href": "SR28-5124-01_The_PowerPC_Architecture_May94.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/powerpc/SR28-5124-01_The_PowerPC_Architecture_May94.pdf",
+    "is_dir": false,
+    "size": "23.8 MiB",
+    "date": "15-May-2015 19:56"
+  }
+]

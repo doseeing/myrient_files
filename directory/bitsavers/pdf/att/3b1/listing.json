@@ -1,0 +1,226 @@
+[
+  {
+    "name": "firmware",
+    "href": "firmware/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/att/3b1/firmware/",
+    "is_dir": true,
+    "size": null,
+    "date": "02-Dec-2010 17:51"
+  },
+  {
+    "name": "hardware",
+    "href": "hardware/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/att/3b1/hardware/",
+    "is_dir": true,
+    "size": null,
+    "date": "04-Dec-2010 23:50"
+  },
+  {
+    "name": "photos",
+    "href": "photos/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/att/3b1/photos/",
+    "is_dir": true,
+    "size": null,
+    "date": "03-Aug-2020 21:33"
+  },
+  {
+    "name": "reference_manual",
+    "href": "reference_manual/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/att/3b1/reference_manual/",
+    "is_dir": true,
+    "size": null,
+    "date": "03-Dec-2010 22:44"
+  },
+  {
+    "name": "999-300-193IS_EIA_RAM_Combo_Card_Installation_1985.pdf",
+    "href": "999-300-193IS_EIA_RAM_Combo_Card_Installation_1985.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/att/3b1/999-300-193IS_EIA_RAM_Combo_Card_Installation_1985.pdf",
+    "is_dir": false,
+    "size": "1.0 MiB",
+    "date": "03-Dec-2010 22:41"
+  },
+  {
+    "name": "999-300-215IS_Tape_Backup_Unix_Supplement_Nov85.pdf",
+    "href": "999-300-215IS_Tape_Backup_Unix_Supplement_Nov85.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/att/3b1/999-300-215IS_Tape_Backup_Unix_Supplement_Nov85.pdf",
+    "is_dir": false,
+    "size": "967.1 KiB",
+    "date": "03-Dec-2010 22:41"
+  },
+  {
+    "name": "999-300-216IS_Tape_Backup_Users_Guide_1985.pdf",
+    "href": "999-300-216IS_Tape_Backup_Users_Guide_1985.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/att/3b1/999-300-216IS_Tape_Backup_Users_Guide_1985.pdf",
+    "is_dir": false,
+    "size": "2.3 MiB",
+    "date": "03-Dec-2010 23:48"
+  },
+  {
+    "name": "999-750-402IS_ATT_UNIX_PC_Service_and_Parts_Ordering_Information.pdf",
+    "href": "999-750-402IS_ATT_UNIX_PC_Service_and_Parts_Ordering_Information.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/att/3b1/999-750-402IS_ATT_UNIX_PC_Service_and_Parts_Ordering_Information.pdf",
+    "is_dir": false,
+    "size": "709.2 KiB",
+    "date": "03-Dec-2010 15:35"
+  },
+  {
+    "name": "999-801-025IS_ATT_UNIX_PC_System_Software_Installation_Guide_1987.pdf",
+    "href": "999-801-025IS_ATT_UNIX_PC_System_Software_Installation_Guide_1987.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/att/3b1/999-801-025IS_ATT_UNIX_PC_System_Software_Installation_Guide_1987.pdf",
+    "is_dir": false,
+    "size": "2.1 MiB",
+    "date": "03-Dec-2010 19:45"
+  },
+  {
+    "name": "999-801-305IS_ATT_UNIX_PC_Virtual_Device_Interface_Programmers_Guide_1985.pdf",
+    "href": "999-801-305IS_ATT_UNIX_PC_Virtual_Device_Interface_Programmers_Guide_1985.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/att/3b1/999-801-305IS_ATT_UNIX_PC_Virtual_Device_Interface_Programmers_Guide_1985.pdf",
+    "is_dir": false,
+    "size": "8.3 MiB",
+    "date": "03-Dec-2010 19:45"
+  },
+  {
+    "name": "999-801-306IS_ATT_UNIX_PC_GSS-Drivers_1986.pdf",
+    "href": "999-801-306IS_ATT_UNIX_PC_GSS-Drivers_1986.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/att/3b1/999-801-306IS_ATT_UNIX_PC_GSS-Drivers_1986.pdf",
+    "is_dir": false,
+    "size": "1.3 MiB",
+    "date": "03-Dec-2010 19:45"
+  },
+  {
+    "name": "999-801-310IS_ATT_UNIX_PC_Getting_Started_1986.pdf",
+    "href": "999-801-310IS_ATT_UNIX_PC_Getting_Started_1986.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/att/3b1/999-801-310IS_ATT_UNIX_PC_Getting_Started_1986.pdf",
+    "is_dir": false,
+    "size": "2.7 MiB",
+    "date": "03-Dec-2010 19:46"
+  },
+  {
+    "name": "999-801-311IS_ATT_UNIX_PC_Owners_Manual_1986.pdf",
+    "href": "999-801-311IS_ATT_UNIX_PC_Owners_Manual_1986.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/att/3b1/999-801-311IS_ATT_UNIX_PC_Owners_Manual_1986.pdf",
+    "is_dir": false,
+    "size": "9.0 MiB",
+    "date": "03-Dec-2010 23:49"
+  },
+  {
+    "name": "999-801-312IS_ATT_UNIX_PC_System_V_Users_Manual_Volume_1.pdf",
+    "href": "999-801-312IS_ATT_UNIX_PC_System_V_Users_Manual_Volume_1.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/att/3b1/999-801-312IS_ATT_UNIX_PC_System_V_Users_Manual_Volume_1.pdf",
+    "is_dir": false,
+    "size": "23.8 MiB",
+    "date": "05-Dec-2010 05:19"
+  },
+  {
+    "name": "999-801-312IS_ATT_UNIX_PC_System_V_Users_Manual_Volume_2.pdf",
+    "href": "999-801-312IS_ATT_UNIX_PC_System_V_Users_Manual_Volume_2.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/att/3b1/999-801-312IS_ATT_UNIX_PC_System_V_Users_Manual_Volume_2.pdf",
+    "is_dir": false,
+    "size": "9.5 MiB",
+    "date": "05-Dec-2010 01:28"
+  },
+  {
+    "name": "999-801-313IS_ATT_UNIX_PC_System_V_Programmers_Guide_1986.pdf",
+    "href": "999-801-313IS_ATT_UNIX_PC_System_V_Programmers_Guide_1986.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/att/3b1/999-801-313IS_ATT_UNIX_PC_System_V_Programmers_Guide_1986.pdf",
+    "is_dir": false,
+    "size": "18.3 MiB",
+    "date": "04-Dec-2010 22:23"
+  },
+  {
+    "name": "999-801-314IS_ATT_UNIX_PC_Interface_Specification_1986.pdf",
+    "href": "999-801-314IS_ATT_UNIX_PC_Interface_Specification_1986.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/att/3b1/999-801-314IS_ATT_UNIX_PC_Interface_Specification_1986.pdf",
+    "is_dir": false,
+    "size": "5.2 MiB",
+    "date": "03-Dec-2010 19:46"
+  },
+  {
+    "name": "999-805-106IS_ATT_UNIX_PC_Word_Processor_Users_Guide_1985.pdf",
+    "href": "999-805-106IS_ATT_UNIX_PC_Word_Processor_Users_Guide_1985.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/att/3b1/999-805-106IS_ATT_UNIX_PC_Word_Processor_Users_Guide_1985.pdf",
+    "is_dir": false,
+    "size": "5.2 MiB",
+    "date": "04-Dec-2010 00:13"
+  },
+  {
+    "name": "999-809-006IS_UNIX_PC_Electronic_Mail_Users_Guide_Jun85.pdf",
+    "href": "999-809-006IS_UNIX_PC_Electronic_Mail_Users_Guide_Jun85.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/att/3b1/999-809-006IS_UNIX_PC_Electronic_Mail_Users_Guide_Jun85.pdf",
+    "is_dir": false,
+    "size": "2.2 MiB",
+    "date": "04-Dec-2010 01:33"
+  },
+  {
+    "name": "999-809-007IS_UNIX_PC_Terminal_Emulaton_1986.pdf",
+    "href": "999-809-007IS_UNIX_PC_Terminal_Emulaton_1986.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/att/3b1/999-809-007IS_UNIX_PC_Terminal_Emulaton_1986.pdf",
+    "is_dir": false,
+    "size": "3.0 MiB",
+    "date": "04-Dec-2010 01:33"
+  },
+  {
+    "name": "999-809-008IS_UNIX_PC_Telephone_Manager_1986.pdf",
+    "href": "999-809-008IS_UNIX_PC_Telephone_Manager_1986.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/att/3b1/999-809-008IS_UNIX_PC_Telephone_Manager_1986.pdf",
+    "is_dir": false,
+    "size": "3.9 MiB",
+    "date": "04-Dec-2010 01:34"
+  },
+  {
+    "name": "999-809-010IS_UNIX_PC_Remote_Access_1986.pdf",
+    "href": "999-809-010IS_UNIX_PC_Remote_Access_1986.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/att/3b1/999-809-010IS_UNIX_PC_Remote_Access_1986.pdf",
+    "is_dir": false,
+    "size": "2.3 MiB",
+    "date": "04-Dec-2010 01:34"
+  },
+  {
+    "name": "ATT_UNIX-DOS-73.pdf",
+    "href": "ATT_UNIX-DOS-73.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/att/3b1/ATT_UNIX-DOS-73.pdf",
+    "is_dir": false,
+    "size": "57.1 MiB",
+    "date": "28-Oct-2021 03:01"
+  },
+  {
+    "name": "ATT_UNIX_PC_Hardware_Installation_Guide_Jun85.pdf",
+    "href": "ATT_UNIX_PC_Hardware_Installation_Guide_Jun85.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/att/3b1/ATT_UNIX_PC_Hardware_Installation_Guide_Jun85.pdf",
+    "is_dir": false,
+    "size": "837.7 KiB",
+    "date": "03-Dec-2010 15:36"
+  },
+  {
+    "name": "L-243630-106_ATT_UNIX_PC_Personal_Calendar_1985.pdf",
+    "href": "L-243630-106_ATT_UNIX_PC_Personal_Calendar_1985.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/att/3b1/L-243630-106_ATT_UNIX_PC_Personal_Calendar_1985.pdf",
+    "is_dir": false,
+    "size": "1.8 MiB",
+    "date": "03-Dec-2010 19:46"
+  },
+  {
+    "name": "L-244484_Unix_PC_Documentation.pdf",
+    "href": "L-244484_Unix_PC_Documentation.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/att/3b1/L-244484_Unix_PC_Documentation.pdf",
+    "is_dir": false,
+    "size": "36.8 KiB",
+    "date": "03-Dec-2010 15:37"
+  },
+  {
+    "name": "L-244658-1_Managing_the_UNIX_PC_Quick_Reference_1986.pdf",
+    "href": "L-244658-1_Managing_the_UNIX_PC_Quick_Reference_1986.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/att/3b1/L-244658-1_Managing_the_UNIX_PC_Quick_Reference_1986.pdf",
+    "is_dir": false,
+    "size": "2.5 MiB",
+    "date": "04-Dec-2010 22:37"
+  },
+  {
+    "name": "Version_3.51_UNIX_Utilities.pdf",
+    "href": "Version_3.51_UNIX_Utilities.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/att/3b1/Version_3.51_UNIX_Utilities.pdf",
+    "is_dir": false,
+    "size": "2.5 MiB",
+    "date": "03-Dec-2010 19:47"
+  }
+]

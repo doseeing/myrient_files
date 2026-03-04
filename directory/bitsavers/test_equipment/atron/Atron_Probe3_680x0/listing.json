@@ -1,0 +1,50 @@
+[
+  {
+    "name": "68030_probe",
+    "href": "68030_probe/",
+    "url": "https://myrient.erista.me/files/bitsavers/test_equipment/atron/Atron_Probe3_680x0/68030_probe/",
+    "is_dir": true,
+    "size": null,
+    "date": "10-Aug-2023 19:18"
+  },
+  {
+    "name": "firmware",
+    "href": "firmware/",
+    "url": "https://myrient.erista.me/files/bitsavers/test_equipment/atron/Atron_Probe3_680x0/firmware/",
+    "is_dir": true,
+    "size": null,
+    "date": "10-Aug-2023 12:22"
+  },
+  {
+    "name": "master_break_trace_pwb024",
+    "href": "master_break_trace_pwb024/",
+    "url": "https://myrient.erista.me/files/bitsavers/test_equipment/atron/Atron_Probe3_680x0/master_break_trace_pwb024/",
+    "is_dir": true,
+    "size": null,
+    "date": "10-Aug-2023 19:18"
+  },
+  {
+    "name": "slave_break_trace_pwa025",
+    "href": "slave_break_trace_pwa025/",
+    "url": "https://myrient.erista.me/files/bitsavers/test_equipment/atron/Atron_Probe3_680x0/slave_break_trace_pwa025/",
+    "is_dir": true,
+    "size": null,
+    "date": "10-Aug-2023 19:18"
+  },
+  {
+    "name": "software",
+    "href": "software/",
+    "url": "https://myrient.erista.me/files/bitsavers/test_equipment/atron/Atron_Probe3_680x0/software/",
+    "is_dir": true,
+    "size": null,
+    "date": "10-Aug-2023 12:24"
+  },
+  {
+    "name": "Atron_68020_PROBE3_198705.pdf",
+    "href": "Atron_68020_PROBE3_198705.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/test_equipment/atron/Atron_Probe3_680x0/Atron_68020_PROBE3_198705.pdf",
+    "is_dir": false,
+    "size": "8.2 MiB",
+    "date": "26-May-2022 22:45"
+  }
+]

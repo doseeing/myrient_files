@@ -1,0 +1,82 @@
+[
+  {
+    "name": "1000_proms",
+    "href": "1000_proms/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/SGI/iris/1000_proms/",
+    "is_dir": true,
+    "size": null,
+    "date": "02-Dec-2009 18:59"
+  },
+  {
+    "name": "1400",
+    "href": "1400/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/SGI/iris/1400/",
+    "is_dir": true,
+    "size": null,
+    "date": "11-Feb-2019 00:50"
+  },
+  {
+    "name": "floppy",
+    "href": "floppy/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/SGI/iris/floppy/",
+    "is_dir": true,
+    "size": null,
+    "date": "17-Dec-2025 15:21"
+  },
+  {
+    "name": "3.7_src.tar.Z",
+    "href": "3.7_src.tar.Z",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/SGI/iris/3.7_src.tar.Z",
+    "is_dir": false,
+    "size": "19.2 MiB",
+    "date": "24-Nov-2009 00:16"
+  },
+  {
+    "name": "IP2_boot_prom.tar.gz",
+    "href": "IP2_boot_prom.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/SGI/iris/IP2_boot_prom.tar.gz",
+    "is_dir": false,
+    "size": "38.0 KiB",
+    "date": "30-Nov-2009 17:16"
+  },
+  {
+    "name": "diag.tar.Z",
+    "href": "diag.tar.Z",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/SGI/iris/diag.tar.Z",
+    "is_dir": false,
+    "size": "1.3 MiB",
+    "date": "01-Dec-2009 17:01"
+  },
+  {
+    "name": "gcc_2.1_SGI3k.tar",
+    "href": "gcc_2.1_SGI3k.tar",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/SGI/iris/gcc_2.1_SGI3k.tar",
+    "is_dir": false,
+    "size": "23.6 MiB",
+    "date": "02-Aug-2023 20:25"
+  },
+  {
+    "name": "gl2-w3.6+options.tar.gz",
+    "href": "gl2-w3.6%2Boptions.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/SGI/iris/gl2-w3.6%2Boptions.tar.gz",
+    "is_dir": false,
+    "size": "14.9 MiB",
+    "date": "23-Jul-2023 01:43"
+  },
+  {
+    "name": "sgidemos.tar.Z",
+    "href": "sgidemos.tar.Z",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/SGI/iris/sgidemos.tar.Z",
+    "is_dir": false,
+    "size": "20.0 MiB",
+    "date": "02-Dec-2009 02:48"
+  },
+  {
+    "name": "sgidiag.tar.Z",
+    "href": "sgidiag.tar.Z",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/SGI/iris/sgidiag.tar.Z",
+    "is_dir": false,
+    "size": "14.2 MiB",
+    "date": "02-Dec-2009 02:49"
+  }
+]

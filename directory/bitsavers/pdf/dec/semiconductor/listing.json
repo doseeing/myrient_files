@@ -1,0 +1,58 @@
+[
+  {
+    "name": "arm",
+    "href": "arm/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/semiconductor/arm/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Jun-2021 16:05"
+  },
+  {
+    "name": "ethernet",
+    "href": "ethernet/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/semiconductor/ethernet/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Jun-2021 16:26"
+  },
+  {
+    "name": "pci",
+    "href": "pci/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/semiconductor/pci/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Jun-2021 16:26"
+  },
+  {
+    "name": "1986_Digital_Semiconductor_Databook.pdf",
+    "href": "1986_Digital_Semiconductor_Databook.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/semiconductor/1986_Digital_Semiconductor_Databook.pdf",
+    "is_dir": false,
+    "size": "50.5 MiB",
+    "date": "27-Jun-2021 18:49"
+  },
+  {
+    "name": "1987_Digital_Semiconductor_Databook_Vol_1.pdf",
+    "href": "1987_Digital_Semiconductor_Databook_Vol_1.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/semiconductor/1987_Digital_Semiconductor_Databook_Vol_1.pdf",
+    "is_dir": false,
+    "size": "165.4 MiB",
+    "date": "28-Jun-2021 06:33"
+  },
+  {
+    "name": "1987_Digital_Semiconductor_Databook_Vol_1_Errata.pdf",
+    "href": "1987_Digital_Semiconductor_Databook_Vol_1_Errata.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/semiconductor/1987_Digital_Semiconductor_Databook_Vol_1_Errata.pdf",
+    "is_dir": false,
+    "size": "8.7 MiB",
+    "date": "28-Jun-2021 05:57"
+  },
+  {
+    "name": "1987_Digital_Semiconductor_Databook_Vol_2.pdf",
+    "href": "1987_Digital_Semiconductor_Databook_Vol_2.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/semiconductor/1987_Digital_Semiconductor_Databook_Vol_2.pdf",
+    "is_dir": false,
+    "size": "58.9 MiB",
+    "date": "28-Jun-2021 05:55"
+  }
+]

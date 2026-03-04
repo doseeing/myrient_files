@@ -1,0 +1,34 @@
+[
+  {
+    "name": "firmware",
+    "href": "firmware/",
+    "url": "https://myrient.erista.me/files/bitsavers/communications/localData/InterLynx_3287E/firmware/",
+    "is_dir": true,
+    "size": null,
+    "date": "20-Oct-2021 04:07"
+  },
+  {
+    "name": "pictures",
+    "href": "pictures/",
+    "url": "https://myrient.erista.me/files/bitsavers/communications/localData/InterLynx_3287E/pictures/",
+    "is_dir": true,
+    "size": null,
+    "date": "20-Oct-2021 04:07"
+  },
+  {
+    "name": "InterLinx-3287-NPP-configuration.txt",
+    "href": "InterLinx-3287-NPP-configuration.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/communications/localData/InterLynx_3287E/InterLinx-3287-NPP-configuration.txt",
+    "is_dir": false,
+    "size": "759 B",
+    "date": "23-Jun-2024 16:54"
+  },
+  {
+    "name": "InterLynx-3287-NPP-v4.08U3.hex",
+    "href": "InterLynx-3287-NPP-v4.08U3.hex",
+    "url": "https://myrient.erista.me/files/bitsavers/communications/localData/InterLynx_3287E/InterLynx-3287-NPP-v4.08U3.hex",
+    "is_dir": false,
+    "size": "76.0 KiB",
+    "date": "23-Jun-2024 16:54"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "name": "firmware",
+    "href": "firmware/",
+    "url": "https://myrient.erista.me/files/bitsavers/components/mosTechnology/kim-1/firmware/",
+    "is_dir": true,
+    "size": null,
+    "date": "27-Feb-2023 19:09"
+  },
+  {
+    "name": "revA",
+    "href": "revA/",
+    "url": "https://myrient.erista.me/files/bitsavers/components/mosTechnology/kim-1/revA/",
+    "is_dir": true,
+    "size": null,
+    "date": "27-Feb-2023 18:10"
+  },
+  {
+    "name": "revF",
+    "href": "revF/",
+    "url": "https://myrient.erista.me/files/bitsavers/components/mosTechnology/kim-1/revF/",
+    "is_dir": true,
+    "size": null,
+    "date": "27-Feb-2023 22:36"
+  },
+  {
+    "name": "revG",
+    "href": "revG/",
+    "url": "https://myrient.erista.me/files/bitsavers/components/mosTechnology/kim-1/revG/",
+    "is_dir": true,
+    "size": null,
+    "date": "27-Feb-2023 17:36"
+  },
+  {
+    "name": "6500-15B_KIM-1_Users_Manual_197608.pdf",
+    "href": "6500-15B_KIM-1_Users_Manual_197608.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/mosTechnology/kim-1/6500-15B_KIM-1_Users_Manual_197608.pdf",
+    "is_dir": false,
+    "size": "7.0 MiB",
+    "date": "05-Mar-2023 18:19"
+  },
+  {
+    "name": "KIM-1_errata_1976.pdf",
+    "href": "KIM-1_errata_1976.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/mosTechnology/kim-1/KIM-1_errata_1976.pdf",
+    "is_dir": false,
+    "size": "208.3 KiB",
+    "date": "27-Feb-2023 19:16"
+  },
+  {
+    "name": "KIM_Hints.pdf",
+    "href": "KIM_Hints.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/mosTechnology/kim-1/KIM_Hints.pdf",
+    "is_dir": false,
+    "size": "1021.6 KiB",
+    "date": "27-Feb-2023 20:38"
+  },
+  {
+    "name": "kimmon.asm",
+    "href": "kimmon.asm",
+    "url": "https://myrient.erista.me/files/bitsavers/components/mosTechnology/kim-1/kimmon.asm",
+    "is_dir": false,
+    "size": "33.6 KiB",
+    "date": "27-Feb-2023 20:31"
+  }
+]

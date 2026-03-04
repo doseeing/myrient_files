@@ -1,0 +1,34 @@
+[
+  {
+    "name": "pictures",
+    "href": "pictures/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/raytheon/rds-500/pictures/",
+    "is_dir": true,
+    "size": null,
+    "date": "02-May-2025 15:03"
+  },
+  {
+    "name": "rds-500_ann_197311.jpg",
+    "href": "rds-500_ann_197311.jpg",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/raytheon/rds-500/rds-500_ann_197311.jpg",
+    "is_dir": false,
+    "size": "185.3 KiB",
+    "date": "25-Apr-2025 20:02"
+  },
+  {
+    "name": "rds-500_specs.jpg",
+    "href": "rds-500_specs.jpg",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/raytheon/rds-500/rds-500_specs.jpg",
+    "is_dir": false,
+    "size": "389.4 KiB",
+    "date": "25-Apr-2025 20:07"
+  },
+  {
+    "name": "rds-500_sys.jpg",
+    "href": "rds-500_sys.jpg",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/raytheon/rds-500/rds-500_sys.jpg",
+    "is_dir": false,
+    "size": "148.0 KiB",
+    "date": "25-Apr-2025 20:02"
+  }
+]

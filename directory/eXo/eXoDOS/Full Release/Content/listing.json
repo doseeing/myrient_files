@@ -1,0 +1,34 @@
+[
+  {
+    "name": "GameData",
+    "href": "GameData/",
+    "url": "https://myrient.erista.me/files/eXo/eXoDOS/Full%20Release/Content/GameData/",
+    "is_dir": true,
+    "size": null,
+    "date": "26-Sep-2025 05:06"
+  },
+  {
+    "name": "!DOSmetadata.zip",
+    "href": "%21DOSmetadata.zip",
+    "url": "https://myrient.erista.me/files/eXo/eXoDOS/Full%20Release/Content/%21DOSmetadata.zip",
+    "is_dir": false,
+    "size": "15.0 MiB",
+    "date": "26-Sep-2025 10:36"
+  },
+  {
+    "name": "LaunchBox.zip",
+    "href": "LaunchBox.zip",
+    "url": "https://myrient.erista.me/files/eXo/eXoDOS/Full%20Release/Content/LaunchBox.zip",
+    "is_dir": false,
+    "size": "587.9 MiB",
+    "date": "26-Sep-2025 10:32"
+  },
+  {
+    "name": "XODOSMetadata.zip",
+    "href": "XODOSMetadata.zip",
+    "url": "https://myrient.erista.me/files/eXo/eXoDOS/Full%20Release/Content/XODOSMetadata.zip",
+    "is_dir": false,
+    "size": "4.9 GiB",
+    "date": "26-Sep-2025 11:03"
+  }
+]

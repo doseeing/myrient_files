@@ -1,0 +1,410 @@
+[
+  {
+    "name": "datacomm",
+    "href": "datacomm/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp9/datacomm/",
+    "is_dir": true,
+    "size": null,
+    "date": "17-Nov-2006 04:11"
+  },
+  {
+    "name": "maindec",
+    "href": "maindec/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp9/maindec/",
+    "is_dir": true,
+    "size": null,
+    "date": "18-Apr-2013 19:11"
+  },
+  {
+    "name": "pdp9l",
+    "href": "pdp9l/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp9/pdp9l/",
+    "is_dir": true,
+    "size": null,
+    "date": "10-Feb-2010 19:16"
+  },
+  {
+    "name": ".pdf",
+    "href": ".pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp9/.pdf",
+    "is_dir": false,
+    "size": "5.5 MiB",
+    "date": "10-Feb-2010 19:07"
+  },
+  {
+    "name": "DEC-09-H7AA-D_InterfaceMan.pdf",
+    "href": "DEC-09-H7AA-D_InterfaceMan.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp9/DEC-09-H7AA-D_InterfaceMan.pdf",
+    "is_dir": false,
+    "size": "10.8 MiB",
+    "date": "25-Nov-2000 06:46"
+  },
+  {
+    "name": "DEC-09-H9ZA-D_RF09_Jul70.pdf",
+    "href": "DEC-09-H9ZA-D_RF09_Jul70.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp9/DEC-09-H9ZA-D_RF09_Jul70.pdf",
+    "is_dir": false,
+    "size": "9.8 MiB",
+    "date": "10-Feb-2010 19:06"
+  },
+  {
+    "name": "DEC-09-I1AA-D_KG09B_Apr72.pdf",
+    "href": "DEC-09-I1AA-D_KG09B_Apr72.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp9/DEC-09-I1AA-D_KG09B_Apr72.pdf",
+    "is_dir": false,
+    "size": "1.9 MiB",
+    "date": "10-Feb-2010 19:06"
+  },
+  {
+    "name": "DEC-09-I1BA-D_KX09A_Feb69.pdf",
+    "href": "DEC-09-I1BA-D_KX09A_Feb69.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp9/DEC-09-I1BA-D_KX09A_Feb69.pdf",
+    "is_dir": false,
+    "size": "1.3 MiB",
+    "date": "10-Feb-2010 19:06"
+  },
+  {
+    "name": "DEC-09-I2AA-D_KE09A_Feb69.pdf",
+    "href": "DEC-09-I2AA-D_KE09A_Feb69.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp9/DEC-09-I2AA-D_KE09A_Feb69.pdf",
+    "is_dir": false,
+    "size": "3.6 MiB",
+    "date": "10-Feb-2010 19:06"
+  },
+  {
+    "name": "DEC-09-I2AA-D_KE09A_Jul68.pdf",
+    "href": "DEC-09-I2AA-D_KE09A_Jul68.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp9/DEC-09-I2AA-D_KE09A_Jul68.pdf",
+    "is_dir": false,
+    "size": "2.9 MiB",
+    "date": "10-Feb-2010 19:06"
+  },
+  {
+    "name": "DEC-09-I3CA-D-68.pdf",
+    "href": "DEC-09-I3CA-D-68.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp9/DEC-09-I3CA-D-68.pdf",
+    "is_dir": false,
+    "size": "6.6 MiB",
+    "date": "10-Feb-2010 19:07"
+  },
+  {
+    "name": "DEC-09-I3CA-D-69.pdf",
+    "href": "DEC-09-I3CA-D-69.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp9/DEC-09-I3CA-D-69.pdf",
+    "is_dir": false,
+    "size": "7.2 MiB",
+    "date": "29-Dec-2000 21:58"
+  },
+  {
+    "name": "DEC-09-I5AA-D_KF09A_Apr72.pdf",
+    "href": "DEC-09-I5AA-D_KF09A_Apr72.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp9/DEC-09-I5AA-D_KF09A_Apr72.pdf",
+    "is_dir": false,
+    "size": "1.8 MiB",
+    "date": "10-Feb-2010 19:07"
+  },
+  {
+    "name": "DEC-09-I5AA-D_KF09A_Jun68.pdf",
+    "href": "DEC-09-I5AA-D_KF09A_Jun68.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp9/DEC-09-I5AA-D_KF09A_Jun68.pdf",
+    "is_dir": false,
+    "size": "7.1 MiB",
+    "date": "22-May-2001 06:13"
+  },
+  {
+    "name": "DEC-09-I6AA-D_34H_Osilloscope_Display_July_1968.pdf",
+    "href": "DEC-09-I6AA-D_34H_Osilloscope_Display_July_1968.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp9/DEC-09-I6AA-D_34H_Osilloscope_Display_July_1968.pdf",
+    "is_dir": false,
+    "size": "1.4 MiB",
+    "date": "21-Aug-2019 17:24"
+  },
+  {
+    "name": "DEC-09-I9AA-D_DM09A_Oct68.pdf",
+    "href": "DEC-09-I9AA-D_DM09A_Oct68.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp9/DEC-09-I9AA-D_DM09A_Oct68.pdf",
+    "is_dir": false,
+    "size": "1.2 MiB",
+    "date": "10-Feb-2010 19:07"
+  },
+  {
+    "name": "DEC-09-I9AB-D_DM09A_Apr72.pdf",
+    "href": "DEC-09-I9AB-D_DM09A_Apr72.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp9/DEC-09-I9AB-D_DM09A_Apr72.pdf",
+    "is_dir": false,
+    "size": "1.2 MiB",
+    "date": "10-Feb-2010 19:07"
+  },
+  {
+    "name": "DEC-9A-AF40-D.pdf",
+    "href": "DEC-9A-AF40-D.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp9/DEC-9A-AF40-D.pdf",
+    "is_dir": false,
+    "size": "1.6 MiB",
+    "date": "10-Feb-2010 19:08"
+  },
+  {
+    "name": "DEC-9A-AF4B-D_FORTRANIV_1968.pdf",
+    "href": "DEC-9A-AF4B-D_FORTRANIV_1968.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp9/DEC-9A-AF4B-D_FORTRANIV_1968.pdf",
+    "is_dir": false,
+    "size": "2.9 MiB",
+    "date": "10-Feb-2010 19:08"
+  },
+  {
+    "name": "DEC-9A-AMZA-D_MACRO9.pdf",
+    "href": "DEC-9A-AMZA-D_MACRO9.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp9/DEC-9A-AMZA-D_MACRO9.pdf",
+    "is_dir": false,
+    "size": "2.2 MiB",
+    "date": "10-Feb-2010 19:08"
+  },
+  {
+    "name": "DEC-9A-GUAB-D_UTILITIES.pdf",
+    "href": "DEC-9A-GUAB-D_UTILITIES.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp9/DEC-9A-GUAB-D_UTILITIES.pdf",
+    "is_dir": false,
+    "size": "3.5 MiB",
+    "date": "10-Feb-2010 19:08"
+  },
+  {
+    "name": "DEC-9A-GUAB-D_utilPgm_Nov68.pdf",
+    "href": "DEC-9A-GUAB-D_utilPgm_Nov68.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp9/DEC-9A-GUAB-D_utilPgm_Nov68.pdf",
+    "is_dir": false,
+    "size": "3.4 MiB",
+    "date": "10-Feb-2010 19:09"
+  },
+  {
+    "name": "DEC-9A-I3BA-D_TC-59_Nov67.pdf",
+    "href": "DEC-9A-I3BA-D_TC-59_Nov67.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp9/DEC-9A-I3BA-D_TC-59_Nov67.pdf",
+    "is_dir": false,
+    "size": "3.5 MiB",
+    "date": "10-Feb-2010 19:09"
+  },
+  {
+    "name": "DEC-9A-I3BC-D_TC59_Magnetic_Tape_Transport_Control_Maintenance_Manual_Volume_1_Feb71.pdf",
+    "href": "DEC-9A-I3BC-D_TC59_Magnetic_Tape_Transport_Control_Maintenance_Manual_Volume_1_Feb71.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp9/DEC-9A-I3BC-D_TC59_Magnetic_Tape_Transport_Control_Maintenance_Manual_Volume_1_Feb71.pdf",
+    "is_dir": false,
+    "size": "11.9 MiB",
+    "date": "29-Jul-2019 15:32"
+  },
+  {
+    "name": "DEC-9A-I3BC-D_TC59sch_Nov72.pdf",
+    "href": "DEC-9A-I3BC-D_TC59sch_Nov72.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp9/DEC-9A-I3BC-D_TC59sch_Nov72.pdf",
+    "is_dir": false,
+    "size": "4.5 MiB",
+    "date": "10-Feb-2010 19:09"
+  },
+  {
+    "name": "DEC-9A-KFZA-D.pdf",
+    "href": "DEC-9A-KFZA-D.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp9/DEC-9A-KFZA-D.pdf",
+    "is_dir": false,
+    "size": "3.9 MiB",
+    "date": "10-Feb-2010 19:09"
+  },
+  {
+    "name": "DEC-9A-KFZA-D_FORTRANIV.pdf",
+    "href": "DEC-9A-KFZA-D_FORTRANIV.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp9/DEC-9A-KFZA-D_FORTRANIV.pdf",
+    "is_dir": false,
+    "size": "2.8 MiB",
+    "date": "10-Feb-2010 19:09"
+  },
+  {
+    "name": "DEC-9A-MAB0-D.pdf",
+    "href": "DEC-9A-MAB0-D.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp9/DEC-9A-MAB0-D.pdf",
+    "is_dir": false,
+    "size": "4.2 MiB",
+    "date": "10-Feb-2010 19:09"
+  },
+  {
+    "name": "DEC-9A-MAD0-D.pdf",
+    "href": "DEC-9A-MAD0-D.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp9/DEC-9A-MAD0-D.pdf",
+    "is_dir": false,
+    "size": "9.8 MiB",
+    "date": "10-Feb-2010 19:10"
+  },
+  {
+    "name": "DEC-9A-MIPA-D_ptIOmon_Sep68.pdf",
+    "href": "DEC-9A-MIPA-D_ptIOmon_Sep68.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp9/DEC-9A-MIPA-D_ptIOmon_Sep68.pdf",
+    "is_dir": false,
+    "size": "1.1 MiB",
+    "date": "10-Feb-2010 19:10"
+  },
+  {
+    "name": "DEC-9A-MRZA-D_FBmonProgRef.pdf",
+    "href": "DEC-9A-MRZA-D_FBmonProgRef.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp9/DEC-9A-MRZA-D_FBmonProgRef.pdf",
+    "is_dir": false,
+    "size": "4.2 MiB",
+    "date": "10-Feb-2010 19:10"
+  },
+  {
+    "name": "DEC-9A-NGBA-D.pdf",
+    "href": "DEC-9A-NGBA-D.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp9/DEC-9A-NGBA-D.pdf",
+    "is_dir": false,
+    "size": "2.7 MiB",
+    "date": "10-Feb-2010 19:10"
+  },
+  {
+    "name": "DEC-9B-AFT0-D_FORTRANII.pdf",
+    "href": "DEC-9B-AFT0-D_FORTRANII.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp9/DEC-9B-AFT0-D_FORTRANII.pdf",
+    "is_dir": false,
+    "size": "2.7 MiB",
+    "date": "10-Feb-2010 19:11"
+  },
+  {
+    "name": "DEC-9U-SR3A-LA_FOCAL.pdf",
+    "href": "DEC-9U-SR3A-LA_FOCAL.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp9/DEC-9U-SR3A-LA_FOCAL.pdf",
+    "is_dir": false,
+    "size": "38.1 MiB",
+    "date": "10-Feb-2010 19:12"
+  },
+  {
+    "name": "EAE-1_maindec-9a-d0ga-d.pdf",
+    "href": "EAE-1_maindec-9a-d0ga-d.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp9/EAE-1_maindec-9a-d0ga-d.pdf",
+    "is_dir": false,
+    "size": "947.8 KiB",
+    "date": "10-Feb-2010 19:12"
+  },
+  {
+    "name": "EAE-2_maindec-9a-d0hc-d.pdf",
+    "href": "EAE-2_maindec-9a-d0hc-d.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp9/EAE-2_maindec-9a-d0hc-d.pdf",
+    "is_dir": false,
+    "size": "381.6 KiB",
+    "date": "10-Feb-2010 19:12"
+  },
+  {
+    "name": "F-97_PDP-9_MaintMan_Apr72.pdf",
+    "href": "F-97_PDP-9_MaintMan_Apr72.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp9/F-97_PDP-9_MaintMan_Apr72.pdf",
+    "is_dir": false,
+    "size": "15.8 MiB",
+    "date": "05-Dec-2000 07:11"
+  },
+  {
+    "name": "MAINDEC-9A-D1BB-D_ExtdMemCkbd_Dec68.pdf",
+    "href": "MAINDEC-9A-D1BB-D_ExtdMemCkbd_Dec68.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp9/MAINDEC-9A-D1BB-D_ExtdMemCkbd_Dec68.pdf",
+    "is_dir": false,
+    "size": "2.0 MiB",
+    "date": "10-Feb-2010 19:13"
+  },
+  {
+    "name": "MAINDEC-9A-D7AB-D_Exerciser_Nov67.pdf",
+    "href": "MAINDEC-9A-D7AB-D_Exerciser_Nov67.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp9/MAINDEC-9A-D7AB-D_Exerciser_Nov67.pdf",
+    "is_dir": false,
+    "size": "4.5 MiB",
+    "date": "10-Feb-2010 19:13"
+  },
+  {
+    "name": "Ontario_Institute_for_Studies_in_Education_TSS9_Pocket_Card.pdf",
+    "href": "Ontario_Institute_for_Studies_in_Education_TSS9_Pocket_Card.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp9/Ontario_Institute_for_Studies_in_Education_TSS9_Pocket_Card.pdf",
+    "is_dir": false,
+    "size": "140.4 KiB",
+    "date": "13-Aug-2019 19:05"
+  },
+  {
+    "name": "PDP-9_Monitor_4B_Release_Notes_196809.pdf",
+    "href": "PDP-9_Monitor_4B_Release_Notes_196809.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp9/PDP-9_Monitor_4B_Release_Notes_196809.pdf",
+    "is_dir": false,
+    "size": "1.5 MiB",
+    "date": "21-Dec-2022 22:15"
+  },
+  {
+    "name": "PDP-9_Pocket_Card_Jan68.pdf",
+    "href": "PDP-9_Pocket_Card_Jan68.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp9/PDP-9_Pocket_Card_Jan68.pdf",
+    "is_dir": false,
+    "size": "2.0 MiB",
+    "date": "19-Mar-2013 19:21"
+  },
+  {
+    "name": "PDP-9_Replacement_Schematics.pdf",
+    "href": "PDP-9_Replacement_Schematics.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp9/PDP-9_Replacement_Schematics.pdf",
+    "is_dir": false,
+    "size": "5.0 MiB",
+    "date": "06-Jun-2019 16:57"
+  },
+  {
+    "name": "PDP-9_Schematics.pdf",
+    "href": "PDP-9_Schematics.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp9/PDP-9_Schematics.pdf",
+    "is_dir": false,
+    "size": "32.2 MiB",
+    "date": "11-Dec-2000 07:49"
+  },
+  {
+    "name": "PDP-9_UsersManual.pdf",
+    "href": "PDP-9_UsersManual.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp9/PDP-9_UsersManual.pdf",
+    "is_dir": false,
+    "size": "20.6 MiB",
+    "date": "19-Dec-2000 17:53"
+  },
+  {
+    "name": "PDP9PTSUM.pdf",
+    "href": "PDP9PTSUM.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp9/PDP9PTSUM.pdf",
+    "is_dir": false,
+    "size": "13.8 MiB",
+    "date": "10-Feb-2010 19:14"
+  },
+  {
+    "name": "corefund.pdf",
+    "href": "corefund.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp9/corefund.pdf",
+    "is_dir": false,
+    "size": "1001.7 KiB",
+    "date": "10-Feb-2010 19:05"
+  },
+  {
+    "name": "pdp9_9l_instruction_list.pdf",
+    "href": "pdp9_9l_instruction_list.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp9/pdp9_9l_instruction_list.pdf",
+    "is_dir": false,
+    "size": "3.0 MiB",
+    "date": "27-Nov-2016 18:29"
+  },
+  {
+    "name": "pdp9mainthw.pdf",
+    "href": "pdp9mainthw.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp9/pdp9mainthw.pdf",
+    "is_dir": false,
+    "size": "603.0 KiB",
+    "date": "10-Feb-2010 19:13"
+  },
+  {
+    "name": "pdp9mc.pdf",
+    "href": "pdp9mc.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp9/pdp9mc.pdf",
+    "is_dir": false,
+    "size": "2.1 MiB",
+    "date": "10-Feb-2010 19:13"
+  },
+  {
+    "name": "pdp9notes.pdf",
+    "href": "pdp9notes.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp9/pdp9notes.pdf",
+    "is_dir": false,
+    "size": "1.1 MiB",
+    "date": "10-Feb-2010 19:13"
+  }
+]

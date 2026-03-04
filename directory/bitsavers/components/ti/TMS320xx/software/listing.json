@@ -1,0 +1,66 @@
+[
+  {
+    "name": "wetics",
+    "href": "wetics/",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ti/TMS320xx/software/wetics/",
+    "is_dir": true,
+    "size": null,
+    "date": "01-Jul-2022 01:15"
+  },
+  {
+    "name": "320C3x_4x_Tools_Version_4.50_Oct1992.zip",
+    "href": "320C3x_4x_Tools_Version_4.50_Oct1992.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ti/TMS320xx/software/320C3x_4x_Tools_Version_4.50_Oct1992.zip",
+    "is_dir": false,
+    "size": "1.9 MiB",
+    "date": "03-Mar-2020 16:39"
+  },
+  {
+    "name": "C4x_GDB.html",
+    "href": "C4x_GDB.html",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ti/TMS320xx/software/C4x_GDB.html",
+    "is_dir": false,
+    "size": "11.8 KiB",
+    "date": "01-Jul-2022 01:10"
+  },
+  {
+    "name": "C4x_GNU_Tools.html",
+    "href": "C4x_GNU_Tools.html",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ti/TMS320xx/software/C4x_GNU_Tools.html",
+    "is_dir": false,
+    "size": "17.9 KiB",
+    "date": "01-Jul-2022 01:10"
+  },
+  {
+    "name": "TMS320C1x_Asm_1996.zip",
+    "href": "TMS320C1x_Asm_1996.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ti/TMS320xx/software/TMS320C1x_Asm_1996.zip",
+    "is_dir": false,
+    "size": "200.1 KiB",
+    "date": "07-Mar-2020 18:43"
+  },
+  {
+    "name": "TMS320C30_tools.zip",
+    "href": "TMS320C30_tools.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ti/TMS320xx/software/TMS320C30_tools.zip",
+    "is_dir": false,
+    "size": "14.2 MiB",
+    "date": "01-Jul-2022 01:05"
+  },
+  {
+    "name": "crt-1.1.tar.gz",
+    "href": "crt-1.1.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ti/TMS320xx/software/crt-1.1.tar.gz",
+    "is_dir": false,
+    "size": "2.0 KiB",
+    "date": "01-Jul-2022 01:11"
+  },
+  {
+    "name": "ti-rts-1.32.tar.gz",
+    "href": "ti-rts-1.32.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ti/TMS320xx/software/ti-rts-1.32.tar.gz",
+    "is_dir": false,
+    "size": "5.6 KiB",
+    "date": "01-Jul-2022 01:11"
+  }
+]

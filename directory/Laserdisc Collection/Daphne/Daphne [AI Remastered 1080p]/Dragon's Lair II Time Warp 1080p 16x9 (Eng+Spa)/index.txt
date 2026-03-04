@@ -1,0 +1,45 @@
+name	is_dir	size	date
+mpeg2	True	-	08-Dec-2025 11:25
+pics	True	-	04-Dec-2025 01:41
+ram	True	-	08-Dec-2025 11:25
+roms	True	-	04-Dec-2025 01:41
+sound	True	-	04-Dec-2025 01:41
+-Dragon's Lair II Time Warp 1080p 16x9 (lair2, v3.19, English audio).bat	False	276 B	08-Dec-2025 09:27
+-Dragon's Lair II Time Warp 1080p 16x9 (lair2, v3.19, Spanish audio).bat	False	261 B	08-Dec-2025 09:27
+-Dragon's Lair II Time Warp 1080p 16x9 (lair2_315, v3.15, English audio).bat	False	296 B	08-Dec-2025 09:27
+-Dragon's Lair II Time Warp 1080p 16x9 (lair2_315, v3.15, Spanish audio).bat	False	281 B	08-Dec-2025 09:27
+-Dragon's Lair II Time Warp 1080p 16x9 (lair2_316_euro, v3.16 European, English audio).bat	False	301 B	08-Dec-2025 09:27
+-Dragon's Lair II Time Warp 1080p 16x9 (lair2_316_euro, v3.16 European, Spanish audio).bat	False	286 B	08-Dec-2025 09:27
+-Dragon's Lair II Time Warp 1080p 16x9 (lair2_318, v3.18, English audio).bat	False	296 B	08-Dec-2025 09:27
+-Dragon's Lair II Time Warp 1080p 16x9 (lair2_318, v3.18, Spanish audio).bat	False	281 B	08-Dec-2025 09:27
+-Dragon's Lair II Time Warp 1080p 16x9 (lair2_319_euro, v3.19 European, English audio).bat	False	301 B	08-Dec-2025 09:27
+-Dragon's Lair II Time Warp 1080p 16x9 (lair2_319_euro, v3.19 European, Spanish audio).bat	False	286 B	08-Dec-2025 09:27
+COPYING	False	17.9 KiB	01-Dec-2025 17:44
+SDL.dll	False	252.0 KiB	08-Dec-2025 09:28
+SDL_mixer.dll	False	252.0 KiB	08-Dec-2025 09:28
+__Instrucciones DL2 esp.txt	False	653 B	08-Dec-2025 09:27
+config.xml	False	170.8 KiB	08-Dec-2025 09:27
+daphne-changelog.txt	False	4.9 KiB	08-Dec-2025 09:27
+daphne.exe	False	664.0 KiB	08-Dec-2025 09:27
+dapinput.ini	False	383 B	08-Dec-2025 09:27
+glew32.dll	False	208.0 KiB	08-Dec-2025 09:27
+hwaccel.txt	False	22 B	08-Dec-2025 09:27
+iconoDL1080.ico	False	124.0 KiB	08-Dec-2025 09:27
+inpout32.dll	False	96.0 KiB	01-Dec-2025 17:44
+input_grabber.exe	False	8.0 KiB	08-Dec-2025 09:27
+install-ocx.exe	False	673.2 KiB	08-Dec-2025 09:27
+keylist.txt	False	2.0 KiB	08-Dec-2025 09:27
+libexpat.dll	False	148.0 KiB	08-Dec-2025 09:27
+mpolib.dll	False	232.0 KiB	08-Dec-2025 09:28
+msvcp71.dll	False	488.0 KiB	01-Dec-2025 17:44
+msvcr71.dll	False	340.0 KiB	01-Dec-2025 17:44
+ogg.dll	False	48.0 KiB	08-Dec-2025 09:28
+par-io.dll	False	48.5 KiB	08-Dec-2025 09:28
+prog1.bin	False	113 B	08-Dec-2025 09:28
+prog2.bin	False	113 B	08-Dec-2025 09:28
+readme.txt	False	314 B	08-Dec-2025 09:28
+vldp.dll	False	348.7 KiB	08-Dec-2025 09:28
+vldp2.dll	False	80.0 KiB	08-Dec-2025 09:28
+vorbis.dll	False	100.0 KiB	08-Dec-2025 09:28
+vorbisfile.dll	False	28.0 KiB	08-Dec-2025 09:28
+zlib.dll	False	52.0 KiB	08-Dec-2025 09:28

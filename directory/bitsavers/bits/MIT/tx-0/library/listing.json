@@ -1,0 +1,146 @@
+[
+  {
+    "name": "_text",
+    "href": "_text/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/tx-0/library/_text/",
+    "is_dir": true,
+    "size": null,
+    "date": "27-Oct-2004 01:20"
+  },
+  {
+    "name": "bin_cwd_codewordDisplaySubrtn.bin",
+    "href": "bin_cwd_codewordDisplaySubrtn.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/tx-0/library/bin_cwd_codewordDisplaySubrtn.bin",
+    "is_dir": false,
+    "size": "1.8 KiB",
+    "date": "16-Sep-2004 01:57"
+  },
+  {
+    "name": "eng_bpt_library.bin",
+    "href": "eng_bpt_library.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/tx-0/library/eng_bpt_library.bin",
+    "is_dir": false,
+    "size": "378 B",
+    "date": "16-Sep-2004 01:24"
+  },
+  {
+    "name": "eng_btc_library.bin",
+    "href": "eng_btc_library.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/tx-0/library/eng_btc_library.bin",
+    "is_dir": false,
+    "size": "360 B",
+    "date": "16-Sep-2004 01:27"
+  },
+  {
+    "name": "eng_charPlotRtn_4-26-61.bin",
+    "href": "eng_charPlotRtn_4-26-61.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/tx-0/library/eng_charPlotRtn_4-26-61.bin",
+    "is_dir": false,
+    "size": "1.3 KiB",
+    "date": "22-Sep-2004 03:21"
+  },
+  {
+    "name": "eng_decIntPrt_8-4-61.bin",
+    "href": "eng_decIntPrt_8-4-61.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/tx-0/library/eng_decIntPrt_8-4-61.bin",
+    "is_dir": false,
+    "size": "3.0 KiB",
+    "date": "22-Sep-2004 03:39"
+  },
+  {
+    "name": "eng_dlm_library.bin",
+    "href": "eng_dlm_library.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/tx-0/library/eng_dlm_library.bin",
+    "is_dir": false,
+    "size": "1.1 KiB",
+    "date": "16-Sep-2004 01:29"
+  },
+  {
+    "name": "eng_dvf_library.bin",
+    "href": "eng_dvf_library.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/tx-0/library/eng_dvf_library.bin",
+    "is_dir": false,
+    "size": "759 B",
+    "date": "16-Sep-2004 01:20"
+  },
+  {
+    "name": "eng_exp_exp2_library.bin",
+    "href": "eng_exp_exp2_library.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/tx-0/library/eng_exp_exp2_library.bin",
+    "is_dir": false,
+    "size": "1.4 KiB",
+    "date": "16-Sep-2004 01:32"
+  },
+  {
+    "name": "eng_gridPltMacro.bin",
+    "href": "eng_gridPltMacro.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/tx-0/library/eng_gridPltMacro.bin",
+    "is_dir": false,
+    "size": "4.6 KiB",
+    "date": "22-Sep-2004 03:42"
+  },
+  {
+    "name": "eng_log_library.bin",
+    "href": "eng_log_library.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/tx-0/library/eng_log_library.bin",
+    "is_dir": false,
+    "size": "1.2 KiB",
+    "date": "16-Sep-2004 01:33"
+  },
+  {
+    "name": "eng_mpf_dvf_library.bin",
+    "href": "eng_mpf_dvf_library.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/tx-0/library/eng_mpf_dvf_library.bin",
+    "is_dir": false,
+    "size": "598 B",
+    "date": "16-Sep-2004 01:31"
+  },
+  {
+    "name": "eng_mpy_library.bin",
+    "href": "eng_mpy_library.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/tx-0/library/eng_mpy_library.bin",
+    "is_dir": false,
+    "size": "538 B",
+    "date": "16-Sep-2004 01:22"
+  },
+  {
+    "name": "eng_opt_rtn_library.bin",
+    "href": "eng_opt_rtn_library.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/tx-0/library/eng_opt_rtn_library.bin",
+    "is_dir": false,
+    "size": "768 B",
+    "date": "16-Sep-2004 01:30"
+  },
+  {
+    "name": "eng_ppm_pnm_library.bin",
+    "href": "eng_ppm_pnm_library.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/tx-0/library/eng_ppm_pnm_library.bin",
+    "is_dir": false,
+    "size": "350 B",
+    "date": "16-Sep-2004 01:28"
+  },
+  {
+    "name": "eng_str_srz_library.bin",
+    "href": "eng_str_srz_library.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/tx-0/library/eng_str_srz_library.bin",
+    "is_dir": false,
+    "size": "602 B",
+    "date": "16-Sep-2004 01:19"
+  },
+  {
+    "name": "eng_tpc_library.bin",
+    "href": "eng_tpc_library.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/tx-0/library/eng_tpc_library.bin",
+    "is_dir": false,
+    "size": "1.3 KiB",
+    "date": "16-Sep-2004 01:25"
+  },
+  {
+    "name": "eng_wr_library.bin",
+    "href": "eng_wr_library.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/tx-0/library/eng_wr_library.bin",
+    "is_dir": false,
+    "size": "482 B",
+    "date": "16-Sep-2004 01:23"
+  }
+]

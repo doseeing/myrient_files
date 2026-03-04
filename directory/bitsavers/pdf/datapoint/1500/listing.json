@@ -1,0 +1,74 @@
+[
+  {
+    "name": "brochures",
+    "href": "brochures/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/datapoint/1500/brochures/",
+    "is_dir": true,
+    "size": null,
+    "date": "05-Aug-2019 21:05"
+  },
+  {
+    "name": "firmware",
+    "href": "firmware/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/datapoint/1500/firmware/",
+    "is_dir": true,
+    "size": null,
+    "date": "05-Aug-2019 15:30"
+  },
+  {
+    "name": "pictures",
+    "href": "pictures/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/datapoint/1500/pictures/",
+    "is_dir": true,
+    "size": null,
+    "date": "05-Aug-2019 15:30"
+  },
+  {
+    "name": "50301_1500_Synchronous_Datapoll_Disk_Master_Program_DPS15M_Users_Guide_Version_1_Nov1977.pdf",
+    "href": "50301_1500_Synchronous_Datapoll_Disk_Master_Program_DPS15M_Users_Guide_Version_1_Nov1977.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/datapoint/1500/50301_1500_Synchronous_Datapoll_Disk_Master_Program_DPS15M_Users_Guide_Version_1_Nov1977.pdf",
+    "is_dir": false,
+    "size": "1020.7 KiB",
+    "date": "06-Aug-2019 22:39"
+  },
+  {
+    "name": "50303_System_Library_Maintenance_Utility_LIBSYS15_Version_1_Users_Guide_Nov1977.pdf",
+    "href": "50303_System_Library_Maintenance_Utility_LIBSYS15_Version_1_Users_Guide_Nov1977.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/datapoint/1500/50303_System_Library_Maintenance_Utility_LIBSYS15_Version_1_Users_Guide_Nov1977.pdf",
+    "is_dir": false,
+    "size": "2.0 MiB",
+    "date": "05-Aug-2019 21:05"
+  },
+  {
+    "name": "50308_1500_Disk_Operating_System_DOS.H_Users_Guide_2.5.1_May1980.pdf",
+    "href": "50308_1500_Disk_Operating_System_DOS.H_Users_Guide_2.5.1_May1980.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/datapoint/1500/50308_1500_Disk_Operating_System_DOS.H_Users_Guide_2.5.1_May1980.pdf",
+    "is_dir": false,
+    "size": "24.1 MiB",
+    "date": "05-Aug-2019 21:54"
+  },
+  {
+    "name": "50320_1500_Universal_Terminal_Emulator_UNITM15_Version_1_Users_Guide_Mar1978.pdf",
+    "href": "50320_1500_Universal_Terminal_Emulator_UNITM15_Version_1_Users_Guide_Mar1978.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/datapoint/1500/50320_1500_Universal_Terminal_Emulator_UNITM15_Version_1_Users_Guide_Mar1978.pdf",
+    "is_dir": false,
+    "size": "3.5 MiB",
+    "date": "05-Aug-2019 23:47"
+  },
+  {
+    "name": "50482_1500_Datashare_DS1500_Version_1.3_Users_Guide_Mar1983.pdf",
+    "href": "50482_1500_Datashare_DS1500_Version_1.3_Users_Guide_Mar1983.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/datapoint/1500/50482_1500_Datashare_DS1500_Version_1.3_Users_Guide_Mar1983.pdf",
+    "is_dir": false,
+    "size": "6.3 MiB",
+    "date": "05-Aug-2019 23:47"
+  },
+  {
+    "name": "61433_Datapoint_1560_Product_Specification_and_Hardware_Reference_Manual.pdf",
+    "href": "61433_Datapoint_1560_Product_Specification_and_Hardware_Reference_Manual.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/datapoint/1500/61433_Datapoint_1560_Product_Specification_and_Hardware_Reference_Manual.pdf",
+    "is_dir": false,
+    "size": "18.9 MiB",
+    "date": "21-Jul-2015 02:29"
+  }
+]

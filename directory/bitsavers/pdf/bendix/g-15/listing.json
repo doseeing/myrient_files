@@ -1,0 +1,514 @@
+[
+  {
+    "name": "eco",
+    "href": "eco/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/bendix/g-15/eco/",
+    "is_dir": true,
+    "size": null,
+    "date": "31-Dec-2024 00:26"
+  },
+  {
+    "name": "maintenance_memos",
+    "href": "maintenance_memos/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/bendix/g-15/maintenance_memos/",
+    "is_dir": true,
+    "size": null,
+    "date": "31-Dec-2024 01:13"
+  },
+  {
+    "name": "patents",
+    "href": "patents/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/bendix/g-15/patents/",
+    "is_dir": true,
+    "size": null,
+    "date": "08-Oct-2024 14:21"
+  },
+  {
+    "name": "schematics",
+    "href": "schematics/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/bendix/g-15/schematics/",
+    "is_dir": true,
+    "size": null,
+    "date": "20-Jun-2007 18:26"
+  },
+  {
+    "name": "60061400_G15D_Parts_Manual.pdf",
+    "href": "60061400_G15D_Parts_Manual.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/bendix/g-15/60061400_G15D_Parts_Manual.pdf",
+    "is_dir": false,
+    "size": "29.3 MiB",
+    "date": "18-Jun-2007 02:04"
+  },
+  {
+    "name": "60064800_DA-1_Service_Man_May65.pdf",
+    "href": "60064800_DA-1_Service_Man_May65.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/bendix/g-15/60064800_DA-1_Service_Man_May65.pdf",
+    "is_dir": false,
+    "size": "15.7 MiB",
+    "date": "18-Jun-2007 21:29"
+  },
+  {
+    "name": "60064900_DIAPER_Jan64.pdf",
+    "href": "60064900_DIAPER_Jan64.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/bendix/g-15/60064900_DIAPER_Jan64.pdf",
+    "is_dir": false,
+    "size": "11.4 MiB",
+    "date": "18-Jun-2007 22:16"
+  },
+  {
+    "name": "60121600_G15_Theory_Of_Operation_Nov64.pdf",
+    "href": "60121600_G15_Theory_Of_Operation_Nov64.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/bendix/g-15/60121600_G15_Theory_Of_Operation_Nov64.pdf",
+    "is_dir": false,
+    "size": "24.8 MiB",
+    "date": "22-Jun-2007 22:01"
+  },
+  {
+    "name": "AEG-05571-2_MTA-2_Tech_Bulletin_Jun62.pdf",
+    "href": "AEG-05571-2_MTA-2_Tech_Bulletin_Jun62.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/bendix/g-15/AEG-05571-2_MTA-2_Tech_Bulletin_Jun62.pdf",
+    "is_dir": false,
+    "size": "3.7 MiB",
+    "date": "19-Jun-2007 20:10"
+  },
+  {
+    "name": "AET-01621_PR-2_Service_Man_Jan62.pdf",
+    "href": "AET-01621_PR-2_Service_Man_Jan62.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/bendix/g-15/AET-01621_PR-2_Service_Man_Jan62.pdf",
+    "is_dir": false,
+    "size": "4.9 MiB",
+    "date": "20-Jun-2007 18:57"
+  },
+  {
+    "name": "AET-05611_ANC-2_Service_Man_May61.pdf",
+    "href": "AET-05611_ANC-2_Service_Man_May61.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/bendix/g-15/AET-05611_ANC-2_Service_Man_May61.pdf",
+    "is_dir": false,
+    "size": "9.8 MiB",
+    "date": "20-Jun-2007 20:16"
+  },
+  {
+    "name": "AET-05613-1_MTA-2_Service_Man_Mar62.pdf",
+    "href": "AET-05613-1_MTA-2_Service_Man_Mar62.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/bendix/g-15/AET-05613-1_MTA-2_Service_Man_Mar62.pdf",
+    "is_dir": false,
+    "size": "15.3 MiB",
+    "date": "22-Jun-2007 17:57"
+  },
+  {
+    "name": "AET-05615_AlphaNumeric_IO_Drws_May61.pdf",
+    "href": "AET-05615_AlphaNumeric_IO_Drws_May61.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/bendix/g-15/AET-05615_AlphaNumeric_IO_Drws_May61.pdf",
+    "is_dir": false,
+    "size": "1.2 MiB",
+    "date": "18-Jun-2007 15:28"
+  },
+  {
+    "name": "AN-1_Diagnostic_Nov62.pdf",
+    "href": "AN-1_Diagnostic_Nov62.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/bendix/g-15/AN-1_Diagnostic_Nov62.pdf",
+    "is_dir": false,
+    "size": "3.4 MiB",
+    "date": "20-Jun-2007 18:29"
+  },
+  {
+    "name": "APG-06611_Intercom500_Pgm_Man_Jun61.pdf",
+    "href": "APG-06611_Intercom500_Pgm_Man_Jun61.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/bendix/g-15/APG-06611_Intercom500_Pgm_Man_Jun61.pdf",
+    "is_dir": false,
+    "size": "4.4 MiB",
+    "date": "18-Jun-2007 15:34"
+  },
+  {
+    "name": "APG-07581-1_Intercom_1000_Pgmg_Man_Apr61.pdf",
+    "href": "APG-07581-1_Intercom_1000_Pgmg_Man_Apr61.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/bendix/g-15/APG-07581-1_Intercom_1000_Pgmg_Man_Apr61.pdf",
+    "is_dir": false,
+    "size": "8.7 MiB",
+    "date": "20-Jun-2007 22:23"
+  },
+  {
+    "name": "APG-07581-4_Intercom1000_Pgm_Man_Apr61.pdf",
+    "href": "APG-07581-4_Intercom1000_Pgm_Man_Apr61.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/bendix/g-15/APG-07581-4_Intercom1000_Pgm_Man_Apr61.pdf",
+    "is_dir": false,
+    "size": "8.7 MiB",
+    "date": "18-Jun-2007 15:36"
+  },
+  {
+    "name": "APR-01601-1_G15_Programming_Part1_Jul61.pdf",
+    "href": "APR-01601-1_G15_Programming_Part1_Jul61.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/bendix/g-15/APR-01601-1_G15_Programming_Part1_Jul61.pdf",
+    "is_dir": false,
+    "size": "2.8 MiB",
+    "date": "18-Jun-2007 15:28"
+  },
+  {
+    "name": "APR-01601-1_G15_Programming_Part2_Jul61.pdf",
+    "href": "APR-01601-1_G15_Programming_Part2_Jul61.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/bendix/g-15/APR-01601-1_G15_Programming_Part2_Jul61.pdf",
+    "is_dir": false,
+    "size": "2.5 MiB",
+    "date": "18-Jun-2007 15:29"
+  },
+  {
+    "name": "APR-01601-1_G15_Programming_Part3_Jul61.pdf",
+    "href": "APR-01601-1_G15_Programming_Part3_Jul61.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/bendix/g-15/APR-01601-1_G15_Programming_Part3_Jul61.pdf",
+    "is_dir": false,
+    "size": "2.1 MiB",
+    "date": "18-Jun-2007 15:29"
+  },
+  {
+    "name": "APR-01601-1_G15_Programming_Part4_Jul61.pdf",
+    "href": "APR-01601-1_G15_Programming_Part4_Jul61.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/bendix/g-15/APR-01601-1_G15_Programming_Part4_Jul61.pdf",
+    "is_dir": false,
+    "size": "2.1 MiB",
+    "date": "18-Jun-2007 15:29"
+  },
+  {
+    "name": "APR-01621_ALTRAN_Jan62.pdf",
+    "href": "APR-01621_ALTRAN_Jan62.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/bendix/g-15/APR-01621_ALTRAN_Jan62.pdf",
+    "is_dir": false,
+    "size": "5.0 MiB",
+    "date": "20-Jun-2007 04:21"
+  },
+  {
+    "name": "APR-03581-3_DA1_Pgmg_Man_Jun61.pdf",
+    "href": "APR-03581-3_DA1_Pgmg_Man_Jun61.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/bendix/g-15/APR-03581-3_DA1_Pgmg_Man_Jun61.pdf",
+    "is_dir": false,
+    "size": "1.8 MiB",
+    "date": "18-Jun-2007 15:29"
+  },
+  {
+    "name": "Bendix_G-15_Intercom_1000_1958_B.jpg",
+    "href": "Bendix_G-15_Intercom_1000_1958_B.jpg",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/bendix/g-15/Bendix_G-15_Intercom_1000_1958_B.jpg",
+    "is_dir": false,
+    "size": "7.5 MiB",
+    "date": "06-Oct-2019 17:00"
+  },
+  {
+    "name": "Bendix_G-15_Intercom_1000_1958_F.jpg",
+    "href": "Bendix_G-15_Intercom_1000_1958_F.jpg",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/bendix/g-15/Bendix_G-15_Intercom_1000_1958_F.jpg",
+    "is_dir": false,
+    "size": "7.3 MiB",
+    "date": "06-Oct-2019 17:00"
+  },
+  {
+    "name": "Bits_of_Meaning_1960.pdf",
+    "href": "Bits_of_Meaning_1960.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/bendix/g-15/Bits_of_Meaning_1960.pdf",
+    "is_dir": false,
+    "size": "1.5 MiB",
+    "date": "08-Mar-2025 18:37"
+  },
+  {
+    "name": "CB-019_POGO_Jan59.pdf",
+    "href": "CB-019_POGO_Jan59.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/bendix/g-15/CB-019_POGO_Jan59.pdf",
+    "is_dir": false,
+    "size": "1.8 MiB",
+    "date": "17-Jun-2007 17:44"
+  },
+  {
+    "name": "G-15_WESCON_Aug54.pdf",
+    "href": "G-15_WESCON_Aug54.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/bendix/g-15/G-15_WESCON_Aug54.pdf",
+    "is_dir": false,
+    "size": "500.4 KiB",
+    "date": "11-Oct-2023 10:49"
+  },
+  {
+    "name": "G15D_Programmers_Ref_Man.pdf",
+    "href": "G15D_Programmers_Ref_Man.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/bendix/g-15/G15D_Programmers_Ref_Man.pdf",
+    "is_dir": false,
+    "size": "3.7 MiB",
+    "date": "18-Jun-2007 15:33"
+  },
+  {
+    "name": "G15D_Subroutines.pdf",
+    "href": "G15D_Subroutines.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/bendix/g-15/G15D_Subroutines.pdf",
+    "is_dir": false,
+    "size": "3.1 MiB",
+    "date": "17-Jun-2007 17:45"
+  },
+  {
+    "name": "G15D_Tech_Man_Rev1_Part1.pdf",
+    "href": "G15D_Tech_Man_Rev1_Part1.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/bendix/g-15/G15D_Tech_Man_Rev1_Part1.pdf",
+    "is_dir": false,
+    "size": "2.8 MiB",
+    "date": "18-Jun-2007 15:31"
+  },
+  {
+    "name": "G15D_Tech_Man_Rev1_Part2.pdf",
+    "href": "G15D_Tech_Man_Rev1_Part2.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/bendix/g-15/G15D_Tech_Man_Rev1_Part2.pdf",
+    "is_dir": false,
+    "size": "1.1 MiB",
+    "date": "18-Jun-2007 15:31"
+  },
+  {
+    "name": "G15D_Tech_Man_Rev1_Part3.pdf",
+    "href": "G15D_Tech_Man_Rev1_Part3.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/bendix/g-15/G15D_Tech_Man_Rev1_Part3.pdf",
+    "is_dir": false,
+    "size": "3.0 MiB",
+    "date": "18-Jun-2007 15:31"
+  },
+  {
+    "name": "G15_CodingManual.pdf",
+    "href": "G15_CodingManual.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/bendix/g-15/G15_CodingManual.pdf",
+    "is_dir": false,
+    "size": "2.5 MiB",
+    "date": "28-Sep-2001 17:50"
+  },
+  {
+    "name": "G15_MachineOperationAid_May59.pdf",
+    "href": "G15_MachineOperationAid_May59.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/bendix/g-15/G15_MachineOperationAid_May59.pdf",
+    "is_dir": false,
+    "size": "109.5 KiB",
+    "date": "20-Jun-2007 04:39"
+  },
+  {
+    "name": "G15_Operating_Man_Jul59.pdf",
+    "href": "G15_Operating_Man_Jul59.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/bendix/g-15/G15_Operating_Man_Jul59.pdf",
+    "is_dir": false,
+    "size": "3.2 MiB",
+    "date": "18-Jun-2007 15:32"
+  },
+  {
+    "name": "G15_PaperTapeFormat_Jan58.pdf",
+    "href": "G15_PaperTapeFormat_Jan58.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/bendix/g-15/G15_PaperTapeFormat_Jan58.pdf",
+    "is_dir": false,
+    "size": "286.6 KiB",
+    "date": "20-Jun-2007 04:43"
+  },
+  {
+    "name": "G15_Price_Lists.pdf",
+    "href": "G15_Price_Lists.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/bendix/g-15/G15_Price_Lists.pdf",
+    "is_dir": false,
+    "size": "166.9 KiB",
+    "date": "17-Jun-2007 17:35"
+  },
+  {
+    "name": "G15_Program_Prep_Rtn_Apr59.pdf",
+    "href": "G15_Program_Prep_Rtn_Apr59.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/bendix/g-15/G15_Program_Prep_Rtn_Apr59.pdf",
+    "is_dir": false,
+    "size": "4.2 MiB",
+    "date": "17-Jun-2007 17:45"
+  },
+  {
+    "name": "Intercard_Programming_Man_Jun59.pdf",
+    "href": "Intercard_Programming_Man_Jun59.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/bendix/g-15/Intercard_Programming_Man_Jun59.pdf",
+    "is_dir": false,
+    "size": "1.3 MiB",
+    "date": "20-Jun-2007 04:35"
+  },
+  {
+    "name": "Intercom_1000_Tech_Part1_May59.pdf",
+    "href": "Intercom_1000_Tech_Part1_May59.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/bendix/g-15/Intercom_1000_Tech_Part1_May59.pdf",
+    "is_dir": false,
+    "size": "7.8 MiB",
+    "date": "20-Jun-2007 22:22"
+  },
+  {
+    "name": "Intercom_1000_Tech_Part2_May59.pdf",
+    "href": "Intercom_1000_Tech_Part2_May59.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/bendix/g-15/Intercom_1000_Tech_Part2_May59.pdf",
+    "is_dir": false,
+    "size": "6.1 MiB",
+    "date": "20-Jun-2007 22:25"
+  },
+  {
+    "name": "Intermap_Manual_Dec60.pdf",
+    "href": "Intermap_Manual_Dec60.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/bendix/g-15/Intermap_Manual_Dec60.pdf",
+    "is_dir": false,
+    "size": "5.6 MiB",
+    "date": "22-Jun-2007 17:46"
+  },
+  {
+    "name": "JH-039_G-15_Installation_Mar59.pdf",
+    "href": "JH-039_G-15_Installation_Mar59.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/bendix/g-15/JH-039_G-15_Installation_Mar59.pdf",
+    "is_dir": false,
+    "size": "4.5 MiB",
+    "date": "23-Jan-2008 03:03"
+  },
+  {
+    "name": "MTA-2_Schematic.pdf",
+    "href": "MTA-2_Schematic.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/bendix/g-15/MTA-2_Schematic.pdf",
+    "is_dir": false,
+    "size": "332.3 KiB",
+    "date": "28-Apr-2008 19:25"
+  },
+  {
+    "name": "Programming_for_the_G-15_196001.pdf",
+    "href": "Programming_for_the_G-15_196001.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/bendix/g-15/Programming_for_the_G-15_196001.pdf",
+    "is_dir": false,
+    "size": "17.2 MiB",
+    "date": "08-Mar-2025 18:38"
+  },
+  {
+    "name": "T10-3_G15_Tech_Bulletin_Apr60.pdf",
+    "href": "T10-3_G15_Tech_Bulletin_Apr60.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/bendix/g-15/T10-3_G15_Tech_Bulletin_Apr60.pdf",
+    "is_dir": false,
+    "size": "7.5 MiB",
+    "date": "19-Jun-2007 20:11"
+  },
+  {
+    "name": "T16-4_CA-2_Tech_Bulletin_Aug60.pdf",
+    "href": "T16-4_CA-2_Tech_Bulletin_Aug60.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/bendix/g-15/T16-4_CA-2_Tech_Bulletin_Aug60.pdf",
+    "is_dir": false,
+    "size": "6.2 MiB",
+    "date": "19-Jun-2007 20:12"
+  },
+  {
+    "name": "T17-1_CA-2_Reference_Man_Nov60.pdf",
+    "href": "T17-1_CA-2_Reference_Man_Nov60.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/bendix/g-15/T17-1_CA-2_Reference_Man_Nov60.pdf",
+    "is_dir": false,
+    "size": "9.3 MiB",
+    "date": "22-Jun-2007 16:23"
+  },
+  {
+    "name": "T18-1_Autopoint24_Jun60.pdf",
+    "href": "T18-1_Autopoint24_Jun60.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/bendix/g-15/T18-1_Autopoint24_Jun60.pdf",
+    "is_dir": false,
+    "size": "3.9 MiB",
+    "date": "19-Jun-2007 20:12"
+  },
+  {
+    "name": "T19_CA-1B_Tech_Bulletin_Mar60.pdf",
+    "href": "T19_CA-1B_Tech_Bulletin_Mar60.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/bendix/g-15/T19_CA-1B_Tech_Bulletin_Mar60.pdf",
+    "is_dir": false,
+    "size": "1.9 MiB",
+    "date": "19-Jun-2007 20:12"
+  },
+  {
+    "name": "T21_ALGO_Aug60.pdf",
+    "href": "T21_ALGO_Aug60.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/bendix/g-15/T21_ALGO_Aug60.pdf",
+    "is_dir": false,
+    "size": "5.6 MiB",
+    "date": "18-Jun-2007 15:30"
+  },
+  {
+    "name": "T22_ALGO_Opn_Jan61.pdf",
+    "href": "T22_ALGO_Opn_Jan61.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/bendix/g-15/T22_ALGO_Opn_Jan61.pdf",
+    "is_dir": false,
+    "size": "2.3 MiB",
+    "date": "18-Jun-2007 15:30"
+  },
+  {
+    "name": "T25-1_AN-1_Tech_Bulletin_Dec60.pdf",
+    "href": "T25-1_AN-1_Tech_Bulletin_Dec60.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/bendix/g-15/T25-1_AN-1_Tech_Bulletin_Dec60.pdf",
+    "is_dir": false,
+    "size": "2.8 MiB",
+    "date": "19-Jun-2007 20:13"
+  },
+  {
+    "name": "T28_PR-2_Tech_Bulletin_Dec60.pdf",
+    "href": "T28_PR-2_Tech_Bulletin_Dec60.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/bendix/g-15/T28_PR-2_Tech_Bulletin_Dec60.pdf",
+    "is_dir": false,
+    "size": "3.6 MiB",
+    "date": "19-Jun-2007 20:13"
+  },
+  {
+    "name": "T29_PR-1_Tech_Bulletin_Mar61.pdf",
+    "href": "T29_PR-1_Tech_Bulletin_Mar61.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/bendix/g-15/T29_PR-1_Tech_Bulletin_Mar61.pdf",
+    "is_dir": false,
+    "size": "2.0 MiB",
+    "date": "19-Jun-2007 20:13"
+  },
+  {
+    "name": "T9-1_DA-1_Tech_Bulletin_Apr60.pdf",
+    "href": "T9-1_DA-1_Tech_Bulletin_Apr60.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/bendix/g-15/T9-1_DA-1_Tech_Bulletin_Apr60.pdf",
+    "is_dir": false,
+    "size": "1.9 MiB",
+    "date": "19-Jun-2007 20:13"
+  },
+  {
+    "name": "TAM72_ALGO_Tech_Mar61.pdf",
+    "href": "TAM72_ALGO_Tech_Mar61.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/bendix/g-15/TAM72_ALGO_Tech_Mar61.pdf",
+    "is_dir": false,
+    "size": "397.1 KiB",
+    "date": "18-Jun-2007 15:30"
+  },
+  {
+    "name": "TechnicalApplicationsMemos_1-52_Dec59.pdf",
+    "href": "TechnicalApplicationsMemos_1-52_Dec59.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/bendix/g-15/TechnicalApplicationsMemos_1-52_Dec59.pdf",
+    "is_dir": false,
+    "size": "7.6 MiB",
+    "date": "20-Jun-2007 05:31"
+  },
+  {
+    "name": "Technical_Applications_Memo_99_Reading_Paper_Tape_in_Automatic_Mode_19630430.pdf",
+    "href": "Technical_Applications_Memo_99_Reading_Paper_Tape_in_Automatic_Mode_19630430.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/bendix/g-15/Technical_Applications_Memo_99_Reading_Paper_Tape_in_Automatic_Mode_19630430.pdf",
+    "is_dir": false,
+    "size": "91.4 KiB",
+    "date": "31-Dec-2024 01:17"
+  },
+  {
+    "name": "UG-293_Fixed_Point_Scaling_Manual_195902.pdf",
+    "href": "UG-293_Fixed_Point_Scaling_Manual_195902.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/bendix/g-15/UG-293_Fixed_Point_Scaling_Manual_195902.pdf",
+    "is_dir": false,
+    "size": "2.4 MiB",
+    "date": "08-Mar-2025 18:38"
+  },
+  {
+    "name": "User_Projects_Vol1.pdf",
+    "href": "User_Projects_Vol1.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/bendix/g-15/User_Projects_Vol1.pdf",
+    "is_dir": false,
+    "size": "27.5 MiB",
+    "date": "17-Jun-2007 17:40"
+  },
+  {
+    "name": "User_Projects_Vol2.pdf",
+    "href": "User_Projects_Vol2.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/bendix/g-15/User_Projects_Vol2.pdf",
+    "is_dir": false,
+    "size": "24.7 MiB",
+    "date": "17-Jun-2007 17:44"
+  },
+  {
+    "name": "Wyant_Intercom_Programming_1961.pdf",
+    "href": "Wyant_Intercom_Programming_1961.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/bendix/g-15/Wyant_Intercom_Programming_1961.pdf",
+    "is_dir": false,
+    "size": "9.1 MiB",
+    "date": "25-Jun-2007 16:07"
+  }
+]

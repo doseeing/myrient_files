@@ -1,0 +1,930 @@
+[
+  {
+    "name": "bakumats.png",
+    "href": "bakumats.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/ngpc/bakumats.png",
+    "is_dir": false,
+    "size": "7.5 KiB",
+    "date": "28-Sep-2025 13:25"
+  },
+  {
+    "name": "bam.png",
+    "href": "bam.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/ngpc/bam.png",
+    "is_dir": false,
+    "size": "2.9 KiB",
+    "date": "28-Sep-2025 13:25"
+  },
+  {
+    "name": "bamp.png",
+    "href": "bamp.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/ngpc/bamp.png",
+    "is_dir": false,
+    "size": "3.7 KiB",
+    "date": "28-Sep-2025 13:25"
+  },
+  {
+    "name": "bigbang.png",
+    "href": "bigbang.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/ngpc/bigbang.png",
+    "is_dir": false,
+    "size": "5.6 KiB",
+    "date": "28-Sep-2025 13:25"
+  },
+  {
+    "name": "bikkuri.png",
+    "href": "bikkuri.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/ngpc/bikkuri.png",
+    "is_dir": false,
+    "size": "6.5 KiB",
+    "date": "28-Sep-2025 13:25"
+  },
+  {
+    "name": "biomotor.png",
+    "href": "biomotor.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/ngpc/biomotor.png",
+    "is_dir": false,
+    "size": "4.9 KiB",
+    "date": "28-Sep-2025 13:25"
+  },
+  {
+    "name": "biomotorj.png",
+    "href": "biomotorj.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/ngpc/biomotorj.png",
+    "is_dir": false,
+    "size": "5.3 KiB",
+    "date": "28-Sep-2025 13:25"
+  },
+  {
+    "name": "bstarsc.png",
+    "href": "bstarsc.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/ngpc/bstarsc.png",
+    "is_dir": false,
+    "size": "3.3 KiB",
+    "date": "28-Sep-2025 13:25"
+  },
+  {
+    "name": "coolboar.png",
+    "href": "coolboar.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/ngpc/coolboar.png",
+    "is_dir": false,
+    "size": "2.9 KiB",
+    "date": "28-Sep-2025 13:25"
+  },
+  {
+    "name": "coolcool.png",
+    "href": "coolcool.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/ngpc/coolcool.png",
+    "is_dir": false,
+    "size": "5.6 KiB",
+    "date": "28-Sep-2025 13:25"
+  },
+  {
+    "name": "coolcoolj.png",
+    "href": "coolcoolj.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/ngpc/coolcoolj.png",
+    "is_dir": false,
+    "size": "3.0 KiB",
+    "date": "28-Sep-2025 13:25"
+  },
+  {
+    "name": "cotton.png",
+    "href": "cotton.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/ngpc/cotton.png",
+    "is_dir": false,
+    "size": "4.3 KiB",
+    "date": "28-Sep-2025 13:25"
+  },
+  {
+    "name": "cottonj.png",
+    "href": "cottonj.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/ngpc/cottonj.png",
+    "is_dir": false,
+    "size": "3.9 KiB",
+    "date": "28-Sep-2025 13:25"
+  },
+  {
+    "name": "crushrol.png",
+    "href": "crushrol.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/ngpc/crushrol.png",
+    "is_dir": false,
+    "size": "6.1 KiB",
+    "date": "28-Sep-2025 13:25"
+  },
+  {
+    "name": "darkarms.png",
+    "href": "darkarms.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/ngpc/darkarms.png",
+    "is_dir": false,
+    "size": "4.7 KiB",
+    "date": "28-Sep-2025 13:25"
+  },
+  {
+    "name": "darkarmsp.png",
+    "href": "darkarmsp.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/ngpc/darkarmsp.png",
+    "is_dir": false,
+    "size": "5.3 KiB",
+    "date": "28-Sep-2025 13:25"
+  },
+  {
+    "name": "deltawrp.png",
+    "href": "deltawrp.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/ngpc/deltawrp.png",
+    "is_dir": false,
+    "size": "3.4 KiB",
+    "date": "28-Sep-2025 13:25"
+  },
+  {
+    "name": "dendego2.png",
+    "href": "dendego2.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/ngpc/dendego2.png",
+    "is_dir": false,
+    "size": "4.6 KiB",
+    "date": "28-Sep-2025 13:25"
+  },
+  {
+    "name": "dendego2p.png",
+    "href": "dendego2p.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/ngpc/dendego2p.png",
+    "is_dir": false,
+    "size": "5.4 KiB",
+    "date": "28-Sep-2025 13:25"
+  },
+  {
+    "name": "divealrb.png",
+    "href": "divealrb.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/ngpc/divealrb.png",
+    "is_dir": false,
+    "size": "4.6 KiB",
+    "date": "28-Sep-2025 13:25"
+  },
+  {
+    "name": "divealrbj.png",
+    "href": "divealrbj.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/ngpc/divealrbj.png",
+    "is_dir": false,
+    "size": "4.2 KiB",
+    "date": "28-Sep-2025 13:25"
+  },
+  {
+    "name": "divealrm.png",
+    "href": "divealrm.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/ngpc/divealrm.png",
+    "is_dir": false,
+    "size": "3.4 KiB",
+    "date": "28-Sep-2025 13:25"
+  },
+  {
+    "name": "divealrmj.png",
+    "href": "divealrmj.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/ngpc/divealrmj.png",
+    "is_dir": false,
+    "size": "3.9 KiB",
+    "date": "28-Sep-2025 13:25"
+  },
+  {
+    "name": "divealrmjp.png",
+    "href": "divealrmjp.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/ngpc/divealrmjp.png",
+    "is_dir": false,
+    "size": "2.8 KiB",
+    "date": "28-Sep-2025 13:25"
+  },
+  {
+    "name": "dokodemo.png",
+    "href": "dokodemo.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/ngpc/dokodemo.png",
+    "is_dir": false,
+    "size": "2.8 KiB",
+    "date": "28-Sep-2025 13:25"
+  },
+  {
+    "name": "dynaslug.png",
+    "href": "dynaslug.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/ngpc/dynaslug.png",
+    "is_dir": false,
+    "size": "2.9 KiB",
+    "date": "28-Sep-2025 13:25"
+  },
+  {
+    "name": "evolutn.png",
+    "href": "evolutn.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/ngpc/evolutn.png",
+    "is_dir": false,
+    "size": "4.8 KiB",
+    "date": "28-Sep-2025 13:25"
+  },
+  {
+    "name": "evolutnj.png",
+    "href": "evolutnj.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/ngpc/evolutnj.png",
+    "is_dir": false,
+    "size": "4.2 KiB",
+    "date": "28-Sep-2025 13:25"
+  },
+  {
+    "name": "faselei.png",
+    "href": "faselei.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/ngpc/faselei.png",
+    "is_dir": false,
+    "size": "5.2 KiB",
+    "date": "28-Sep-2025 13:25"
+  },
+  {
+    "name": "faseleij.png",
+    "href": "faseleij.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/ngpc/faseleij.png",
+    "is_dir": false,
+    "size": "5.5 KiB",
+    "date": "28-Sep-2025 13:25"
+  },
+  {
+    "name": "fatfury.png",
+    "href": "fatfury.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/ngpc/fatfury.png",
+    "is_dir": false,
+    "size": "7.5 KiB",
+    "date": "28-Sep-2025 13:25"
+  },
+  {
+    "name": "fatfuryd.png",
+    "href": "fatfuryd.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/ngpc/fatfuryd.png",
+    "is_dir": false,
+    "size": "6.1 KiB",
+    "date": "28-Sep-2025 13:25"
+  },
+  {
+    "name": "ganbaren.png",
+    "href": "ganbaren.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/ngpc/ganbaren.png",
+    "is_dir": false,
+    "size": "6.1 KiB",
+    "date": "28-Sep-2025 13:25"
+  },
+  {
+    "name": "hanadojo.png",
+    "href": "hanadojo.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/ngpc/hanadojo.png",
+    "is_dir": false,
+    "size": "3.4 KiB",
+    "date": "28-Sep-2025 13:25"
+  },
+  {
+    "name": "infinity.png",
+    "href": "infinity.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/ngpc/infinity.png",
+    "is_dir": false,
+    "size": "4.8 KiB",
+    "date": "28-Sep-2025 13:25"
+  },
+  {
+    "name": "kikousei.png",
+    "href": "kikousei.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/ngpc/kikousei.png",
+    "is_dir": false,
+    "size": "4.2 KiB",
+    "date": "28-Sep-2025 13:25"
+  },
+  {
+    "name": "kofpara.png",
+    "href": "kofpara.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/ngpc/kofpara.png",
+    "is_dir": false,
+    "size": "5.9 KiB",
+    "date": "28-Sep-2025 13:25"
+  },
+  {
+    "name": "kofr2.png",
+    "href": "kofr2.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/ngpc/kofr2.png",
+    "is_dir": false,
+    "size": "5.6 KiB",
+    "date": "28-Sep-2025 13:25"
+  },
+  {
+    "name": "kofr2d.png",
+    "href": "kofr2d.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/ngpc/kofr2d.png",
+    "is_dir": false,
+    "size": "6.5 KiB",
+    "date": "28-Sep-2025 13:25"
+  },
+  {
+    "name": "kofr2d2.png",
+    "href": "kofr2d2.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/ngpc/kofr2d2.png",
+    "is_dir": false,
+    "size": "4.9 KiB",
+    "date": "28-Sep-2025 13:25"
+  },
+  {
+    "name": "koikoi.png",
+    "href": "koikoi.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/ngpc/koikoi.png",
+    "is_dir": false,
+    "size": "2.9 KiB",
+    "date": "28-Sep-2025 13:25"
+  },
+  {
+    "name": "lastblad.png",
+    "href": "lastblad.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/ngpc/lastblad.png",
+    "is_dir": false,
+    "size": "8.5 KiB",
+    "date": "28-Sep-2025 13:25"
+  },
+  {
+    "name": "magdrop.png",
+    "href": "magdrop.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/ngpc/magdrop.png",
+    "is_dir": false,
+    "size": "3.9 KiB",
+    "date": "28-Sep-2025 13:25"
+  },
+  {
+    "name": "magdropj.png",
+    "href": "magdropj.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/ngpc/magdropj.png",
+    "is_dir": false,
+    "size": "4.2 KiB",
+    "date": "28-Sep-2025 13:25"
+  },
+  {
+    "name": "magdropjd.png",
+    "href": "magdropjd.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/ngpc/magdropjd.png",
+    "is_dir": false,
+    "size": "4.6 KiB",
+    "date": "28-Sep-2025 13:25"
+  },
+  {
+    "name": "memories.png",
+    "href": "memories.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/ngpc/memories.png",
+    "is_dir": false,
+    "size": "5.3 KiB",
+    "date": "28-Sep-2025 13:25"
+  },
+  {
+    "name": "mezase.png",
+    "href": "mezase.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/ngpc/mezase.png",
+    "is_dir": false,
+    "size": "3.3 KiB",
+    "date": "28-Sep-2025 13:25"
+  },
+  {
+    "name": "mizuki.png",
+    "href": "mizuki.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/ngpc/mizuki.png",
+    "is_dir": false,
+    "size": "2.7 KiB",
+    "date": "28-Sep-2025 13:25"
+  },
+  {
+    "name": "mslug1st.png",
+    "href": "mslug1st.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/ngpc/mslug1st.png",
+    "is_dir": false,
+    "size": "7.9 KiB",
+    "date": "28-Sep-2025 13:25"
+  },
+  {
+    "name": "mslug2nd.png",
+    "href": "mslug2nd.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/ngpc/mslug2nd.png",
+    "is_dir": false,
+    "size": "7.7 KiB",
+    "date": "28-Sep-2025 13:25"
+  },
+  {
+    "name": "mslug2ndd.png",
+    "href": "mslug2ndd.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/ngpc/mslug2ndd.png",
+    "is_dir": false,
+    "size": "7.1 KiB",
+    "date": "28-Sep-2025 13:25"
+  },
+  {
+    "name": "neo21.png",
+    "href": "neo21.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/ngpc/neo21.png",
+    "is_dir": false,
+    "size": "3.4 KiB",
+    "date": "28-Sep-2025 13:25"
+  },
+  {
+    "name": "neobacca.png",
+    "href": "neobacca.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/ngpc/neobacca.png",
+    "is_dir": false,
+    "size": "3.2 KiB",
+    "date": "28-Sep-2025 13:25"
+  },
+  {
+    "name": "neobaccap.png",
+    "href": "neobaccap.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/ngpc/neobaccap.png",
+    "is_dir": false,
+    "size": "3.6 KiB",
+    "date": "28-Sep-2025 13:25"
+  },
+  {
+    "name": "neocherc.png",
+    "href": "neocherc.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/ngpc/neocherc.png",
+    "is_dir": false,
+    "size": "4.0 KiB",
+    "date": "28-Sep-2025 13:25"
+  },
+  {
+    "name": "neochercp.png",
+    "href": "neochercp.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/ngpc/neochercp.png",
+    "is_dir": false,
+    "size": "4.9 KiB",
+    "date": "28-Sep-2025 13:25"
+  },
+  {
+    "name": "neocuppl.png",
+    "href": "neocuppl.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/ngpc/neocuppl.png",
+    "is_dir": false,
+    "size": "4.5 KiB",
+    "date": "28-Sep-2025 13:25"
+  },
+  {
+    "name": "neoderby.png",
+    "href": "neoderby.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/ngpc/neoderby.png",
+    "is_dir": false,
+    "size": "2.4 KiB",
+    "date": "28-Sep-2025 13:25"
+  },
+  {
+    "name": "neodrag.png",
+    "href": "neodrag.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/ngpc/neodrag.png",
+    "is_dir": false,
+    "size": "3.9 KiB",
+    "date": "28-Sep-2025 13:25"
+  },
+  {
+    "name": "neodraga.png",
+    "href": "neodraga.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/ngpc/neodraga.png",
+    "is_dir": false,
+    "size": "4.0 KiB",
+    "date": "28-Sep-2025 13:25"
+  },
+  {
+    "name": "neomystr.png",
+    "href": "neomystr.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/ngpc/neomystr.png",
+    "is_dir": false,
+    "size": "4.8 KiB",
+    "date": "28-Sep-2025 13:25"
+  },
+  {
+    "name": "neoproyk.png",
+    "href": "neoproyk.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/ngpc/neoproyk.png",
+    "is_dir": false,
+    "size": "5.1 KiB",
+    "date": "28-Sep-2025 13:25"
+  },
+  {
+    "name": "neoturfm.png",
+    "href": "neoturfm.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/ngpc/neoturfm.png",
+    "is_dir": false,
+    "size": "5.5 KiB",
+    "date": "28-Sep-2025 13:25"
+  },
+  {
+    "name": "nigeronp.png",
+    "href": "nigeronp.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/ngpc/nigeronp.png",
+    "is_dir": false,
+    "size": "3.4 KiB",
+    "date": "28-Sep-2025 13:25"
+  },
+  {
+    "name": "oekakip.png",
+    "href": "oekakip.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/ngpc/oekakip.png",
+    "is_dir": false,
+    "size": "1.6 KiB",
+    "date": "28-Sep-2025 13:25"
+  },
+  {
+    "name": "ogrebatl.png",
+    "href": "ogrebatl.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/ngpc/ogrebatl.png",
+    "is_dir": false,
+    "size": "5.5 KiB",
+    "date": "28-Sep-2025 13:25"
+  },
+  {
+    "name": "pachinko.png",
+    "href": "pachinko.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/ngpc/pachinko.png",
+    "is_dir": false,
+    "size": "8.6 KiB",
+    "date": "28-Sep-2025 13:25"
+  },
+  {
+    "name": "pacman.png",
+    "href": "pacman.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/ngpc/pacman.png",
+    "is_dir": false,
+    "size": "1.8 KiB",
+    "date": "28-Sep-2025 13:25"
+  },
+  {
+    "name": "pbobble.png",
+    "href": "pbobble.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/ngpc/pbobble.png",
+    "is_dir": false,
+    "size": "5.0 KiB",
+    "date": "28-Sep-2025 13:25"
+  },
+  {
+    "name": "pbobblea.png",
+    "href": "pbobblea.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/ngpc/pbobblea.png",
+    "is_dir": false,
+    "size": "3.3 KiB",
+    "date": "28-Sep-2025 13:25"
+  },
+  {
+    "name": "pbobbleb.png",
+    "href": "pbobbleb.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/ngpc/pbobbleb.png",
+    "is_dir": false,
+    "size": "3.6 KiB",
+    "date": "28-Sep-2025 13:25"
+  },
+  {
+    "name": "picturep.png",
+    "href": "picturep.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/ngpc/picturep.png",
+    "is_dir": false,
+    "size": "3.1 KiB",
+    "date": "28-Sep-2025 13:25"
+  },
+  {
+    "name": "pockrev.png",
+    "href": "pockrev.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/ngpc/pockrev.png",
+    "is_dir": false,
+    "size": "2.6 KiB",
+    "date": "28-Sep-2025 13:25"
+  },
+  {
+    "name": "pockrevj.png",
+    "href": "pockrevj.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/ngpc/pockrevj.png",
+    "is_dir": false,
+    "size": "3.1 KiB",
+    "date": "28-Sep-2025 13:25"
+  },
+  {
+    "name": "poktlove.png",
+    "href": "poktlove.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/ngpc/poktlove.png",
+    "is_dir": false,
+    "size": "5.4 KiB",
+    "date": "28-Sep-2025 13:25"
+  },
+  {
+    "name": "ppaa01.png",
+    "href": "ppaa01.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/ngpc/ppaa01.png",
+    "is_dir": false,
+    "size": "2.4 KiB",
+    "date": "28-Sep-2025 13:25"
+  },
+  {
+    "name": "prtymail.png",
+    "href": "prtymail.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/ngpc/prtymail.png",
+    "is_dir": false,
+    "size": "3.1 KiB",
+    "date": "28-Sep-2025 13:25"
+  },
+  {
+    "name": "prtymailp.png",
+    "href": "prtymailp.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/ngpc/prtymailp.png",
+    "is_dir": false,
+    "size": "1.8 KiB",
+    "date": "28-Sep-2025 13:25"
+  },
+  {
+    "name": "pslotazt.png",
+    "href": "pslotazt.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/ngpc/pslotazt.png",
+    "is_dir": false,
+    "size": "6.1 KiB",
+    "date": "28-Sep-2025 13:25"
+  },
+  {
+    "name": "pslotdk2.png",
+    "href": "pslotdk2.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/ngpc/pslotdk2.png",
+    "is_dir": false,
+    "size": "6.0 KiB",
+    "date": "28-Sep-2025 13:25"
+  },
+  {
+    "name": "pslotds2.png",
+    "href": "pslotds2.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/ngpc/pslotds2.png",
+    "is_dir": false,
+    "size": "7.0 KiB",
+    "date": "28-Sep-2025 13:25"
+  },
+  {
+    "name": "pslotecp.png",
+    "href": "pslotecp.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/ngpc/pslotecp.png",
+    "is_dir": false,
+    "size": "6.0 KiB",
+    "date": "28-Sep-2025 13:25"
+  },
+  {
+    "name": "pslothan.png",
+    "href": "pslothan.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/ngpc/pslothan.png",
+    "is_dir": false,
+    "size": "6.3 KiB",
+    "date": "28-Sep-2025 13:25"
+  },
+  {
+    "name": "pslothana.png",
+    "href": "pslothana.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/ngpc/pslothana.png",
+    "is_dir": false,
+    "size": "6.1 KiB",
+    "date": "28-Sep-2025 13:25"
+  },
+  {
+    "name": "pslotooh.png",
+    "href": "pslotooh.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/ngpc/pslotooh.png",
+    "is_dir": false,
+    "size": "5.5 KiB",
+    "date": "28-Sep-2025 13:25"
+  },
+  {
+    "name": "pslotpc2.png",
+    "href": "pslotpc2.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/ngpc/pslotpc2.png",
+    "is_dir": false,
+    "size": "5.8 KiB",
+    "date": "28-Sep-2025 13:25"
+  },
+  {
+    "name": "pslotwrd.png",
+    "href": "pslotwrd.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/ngpc/pslotwrd.png",
+    "is_dir": false,
+    "size": "6.6 KiB",
+    "date": "28-Sep-2025 13:25"
+  },
+  {
+    "name": "ptennisc.png",
+    "href": "ptennisc.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/ngpc/ptennisc.png",
+    "is_dir": false,
+    "size": "2.1 KiB",
+    "date": "28-Sep-2025 13:25"
+  },
+  {
+    "name": "puyopop.png",
+    "href": "puyopop.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/ngpc/puyopop.png",
+    "is_dir": false,
+    "size": "4.0 KiB",
+    "date": "28-Sep-2025 13:25"
+  },
+  {
+    "name": "puyopopa.png",
+    "href": "puyopopa.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/ngpc/puyopopa.png",
+    "is_dir": false,
+    "size": "5.2 KiB",
+    "date": "28-Sep-2025 13:25"
+  },
+  {
+    "name": "puzzlink.png",
+    "href": "puzzlink.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/ngpc/puzzlink.png",
+    "is_dir": false,
+    "size": "2.7 KiB",
+    "date": "28-Sep-2025 13:25"
+  },
+  {
+    "name": "puzzlnk2.png",
+    "href": "puzzlnk2.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/ngpc/puzzlnk2.png",
+    "is_dir": false,
+    "size": "3.3 KiB",
+    "date": "28-Sep-2025 13:25"
+  },
+  {
+    "name": "rockmanb.png",
+    "href": "rockmanb.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/ngpc/rockmanb.png",
+    "is_dir": false,
+    "size": "6.0 KiB",
+    "date": "28-Sep-2025 13:25"
+  },
+  {
+    "name": "rockmanbd.png",
+    "href": "rockmanbd.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/ngpc/rockmanbd.png",
+    "is_dir": false,
+    "size": "3.5 KiB",
+    "date": "28-Sep-2025 13:25"
+  },
+  {
+    "name": "samsho2.png",
+    "href": "samsho2.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/ngpc/samsho2.png",
+    "is_dir": false,
+    "size": "5.6 KiB",
+    "date": "28-Sep-2025 13:25"
+  },
+  {
+    "name": "shanghai.png",
+    "href": "shanghai.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/ngpc/shanghai.png",
+    "is_dir": false,
+    "size": "5.0 KiB",
+    "date": "28-Sep-2025 13:25"
+  },
+  {
+    "name": "shanghaipj.png",
+    "href": "shanghaipj.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/ngpc/shanghaipj.png",
+    "is_dir": false,
+    "size": "4.4 KiB",
+    "date": "28-Sep-2025 13:25"
+  },
+  {
+    "name": "shanghaipu.png",
+    "href": "shanghaipu.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/ngpc/shanghaipu.png",
+    "is_dir": false,
+    "size": "5.4 KiB",
+    "date": "28-Sep-2025 13:25"
+  },
+  {
+    "name": "shougic.png",
+    "href": "shougic.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/ngpc/shougic.png",
+    "is_dir": false,
+    "size": "2.8 KiB",
+    "date": "28-Sep-2025 13:25"
+  },
+  {
+    "name": "snkgals.png",
+    "href": "snkgals.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/ngpc/snkgals.png",
+    "is_dir": false,
+    "size": "5.9 KiB",
+    "date": "28-Sep-2025 13:25"
+  },
+  {
+    "name": "snkgalsj.png",
+    "href": "snkgalsj.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/ngpc/snkgalsj.png",
+    "is_dir": false,
+    "size": "6.3 KiB",
+    "date": "28-Sep-2025 13:25"
+  },
+  {
+    "name": "sonic.png",
+    "href": "sonic.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/ngpc/sonic.png",
+    "is_dir": false,
+    "size": "2.6 KiB",
+    "date": "28-Sep-2025 13:25"
+  },
+  {
+    "name": "sonicp.png",
+    "href": "sonicp.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/ngpc/sonicp.png",
+    "is_dir": false,
+    "size": "3.2 KiB",
+    "date": "28-Sep-2025 13:25"
+  },
+  {
+    "name": "sonicp2.png",
+    "href": "sonicp2.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/ngpc/sonicp2.png",
+    "is_dir": false,
+    "size": "2.9 KiB",
+    "date": "28-Sep-2025 13:25"
+  },
+  {
+    "name": "srmp.png",
+    "href": "srmp.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/ngpc/srmp.png",
+    "is_dir": false,
+    "size": "3.7 KiB",
+    "date": "28-Sep-2025 13:25"
+  },
+  {
+    "name": "svc.png",
+    "href": "svc.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/ngpc/svc.png",
+    "is_dir": false,
+    "size": "6.3 KiB",
+    "date": "28-Sep-2025 13:25"
+  },
+  {
+    "name": "svccard2.png",
+    "href": "svccard2.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/ngpc/svccard2.png",
+    "is_dir": false,
+    "size": "3.9 KiB",
+    "date": "28-Sep-2025 13:25"
+  },
+  {
+    "name": "svccardc.png",
+    "href": "svccardc.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/ngpc/svccardc.png",
+    "is_dir": false,
+    "size": "4.3 KiB",
+    "date": "28-Sep-2025 13:25"
+  },
+  {
+    "name": "svccardcj.png",
+    "href": "svccardcj.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/ngpc/svccardcj.png",
+    "is_dir": false,
+    "size": "4.7 KiB",
+    "date": "28-Sep-2025 13:25"
+  },
+  {
+    "name": "svccardp.png",
+    "href": "svccardp.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/ngpc/svccardp.png",
+    "is_dir": false,
+    "size": "5.4 KiB",
+    "date": "28-Sep-2025 13:25"
+  },
+  {
+    "name": "svccards.png",
+    "href": "svccards.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/ngpc/svccards.png",
+    "is_dir": false,
+    "size": "4.0 KiB",
+    "date": "28-Sep-2025 13:25"
+  },
+  {
+    "name": "svccardsj.png",
+    "href": "svccardsj.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/ngpc/svccardsj.png",
+    "is_dir": false,
+    "size": "4.4 KiB",
+    "date": "28-Sep-2025 13:25"
+  },
+  {
+    "name": "svccardsja.png",
+    "href": "svccardsja.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/ngpc/svccardsja.png",
+    "is_dir": false,
+    "size": "5.3 KiB",
+    "date": "28-Sep-2025 13:25"
+  },
+  {
+    "name": "tsunapn2.png",
+    "href": "tsunapn2.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/ngpc/tsunapn2.png",
+    "is_dir": false,
+    "size": "3.3 KiB",
+    "date": "28-Sep-2025 13:25"
+  },
+  {
+    "name": "tsunapnc.png",
+    "href": "tsunapnc.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/ngpc/tsunapnc.png",
+    "is_dir": false,
+    "size": "2.6 KiB",
+    "date": "28-Sep-2025 13:25"
+  },
+  {
+    "name": "wrestmad.png",
+    "href": "wrestmad.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/ngpc/wrestmad.png",
+    "is_dir": false,
+    "size": "5.1 KiB",
+    "date": "28-Sep-2025 13:25"
+  }
+]

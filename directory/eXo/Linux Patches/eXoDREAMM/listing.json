@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Content",
+    "href": "Content/",
+    "url": "https://myrient.erista.me/files/eXo/Linux%20Patches/eXoDREAMM/Content/",
+    "is_dir": true,
+    "size": null,
+    "date": "26-Sep-2025 06:27"
+  },
+  {
+    "name": "eXo",
+    "href": "eXo/",
+    "url": "https://myrient.erista.me/files/eXo/Linux%20Patches/eXoDREAMM/eXo/",
+    "is_dir": true,
+    "size": null,
+    "date": "26-Sep-2025 05:27"
+  },
+  {
+    "name": "Setup eXoDREAMM.command",
+    "href": "Setup%20eXoDREAMM.command",
+    "url": "https://myrient.erista.me/files/eXo/Linux%20Patches/eXoDREAMM/Setup%20eXoDREAMM.command",
+    "is_dir": false,
+    "size": "33.0 KiB",
+    "date": "26-Sep-2025 06:31"
+  },
+  {
+    "name": "eXoDREAMM Linux ReadMe.txt",
+    "href": "eXoDREAMM%20Linux%20ReadMe.txt",
+    "url": "https://myrient.erista.me/files/eXo/Linux%20Patches/eXoDREAMM/eXoDREAMM%20Linux%20ReadMe.txt",
+    "is_dir": false,
+    "size": "23.5 KiB",
+    "date": "26-Sep-2025 06:30"
+  },
+  {
+    "name": "install_dependencies.command",
+    "href": "install_dependencies.command",
+    "url": "https://myrient.erista.me/files/eXo/Linux%20Patches/eXoDREAMM/install_dependencies.command",
+    "is_dir": false,
+    "size": "19.2 KiB",
+    "date": "26-Sep-2025 06:31"
+  }
+]

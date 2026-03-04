@@ -1,0 +1,122 @@
+[
+  {
+    "name": "amiga",
+    "href": "amiga/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2.1/amiga/",
+    "is_dir": true,
+    "size": null,
+    "date": "30-Sep-2023 17:23"
+  },
+  {
+    "name": "atari",
+    "href": "atari/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2.1/atari/",
+    "is_dir": true,
+    "size": null,
+    "date": "30-Sep-2023 17:23"
+  },
+  {
+    "name": "hp300",
+    "href": "hp300/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2.1/hp300/",
+    "is_dir": true,
+    "size": null,
+    "date": "30-Sep-2023 17:23"
+  },
+  {
+    "name": "i386",
+    "href": "i386/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2.1/i386/",
+    "is_dir": true,
+    "size": null,
+    "date": "30-Sep-2023 17:23"
+  },
+  {
+    "name": "mac68k",
+    "href": "mac68k/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2.1/mac68k/",
+    "is_dir": true,
+    "size": null,
+    "date": "30-Sep-2023 17:23"
+  },
+  {
+    "name": "mvme68k",
+    "href": "mvme68k/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2.1/mvme68k/",
+    "is_dir": true,
+    "size": null,
+    "date": "30-Sep-2023 17:20"
+  },
+  {
+    "name": "source",
+    "href": "source/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2.1/source/",
+    "is_dir": true,
+    "size": null,
+    "date": "30-Sep-2023 17:23"
+  },
+  {
+    "name": "sparc",
+    "href": "sparc/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2.1/sparc/",
+    "is_dir": true,
+    "size": null,
+    "date": "30-Sep-2023 17:23"
+  },
+  {
+    "name": "x68k",
+    "href": "x68k/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2.1/x68k/",
+    "is_dir": true,
+    "size": null,
+    "date": "30-Sep-2023 17:23"
+  },
+  {
+    "name": "CHANGES",
+    "href": "CHANGES",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2.1/CHANGES",
+    "is_dir": false,
+    "size": "59.2 KiB",
+    "date": "20-May-1997 00:48"
+  },
+  {
+    "name": "CHANGES.prev",
+    "href": "CHANGES.prev",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2.1/CHANGES.prev",
+    "is_dir": false,
+    "size": "115.3 KiB",
+    "date": "20-May-1997 00:48"
+  },
+  {
+    "name": "LAST_MINUTE",
+    "href": "LAST_MINUTE",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2.1/LAST_MINUTE",
+    "is_dir": false,
+    "size": "68 B",
+    "date": "20-May-1997 00:51"
+  },
+  {
+    "name": "MIRRORS",
+    "href": "MIRRORS",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2.1/MIRRORS",
+    "is_dir": false,
+    "size": "1.8 KiB",
+    "date": "05-Jan-1998 20:54"
+  },
+  {
+    "name": "PATCHLEVEL",
+    "href": "PATCHLEVEL",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2.1/PATCHLEVEL",
+    "is_dir": false,
+    "size": "9.2 KiB",
+    "date": "21-May-1997 02:53"
+  },
+  {
+    "name": "TODO",
+    "href": "TODO",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2.1/TODO",
+    "is_dir": false,
+    "size": "3.2 KiB",
+    "date": "20-May-1997 00:51"
+  }
+]

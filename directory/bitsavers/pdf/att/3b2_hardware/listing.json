@@ -1,0 +1,34 @@
+[
+  {
+    "name": "firmware",
+    "href": "firmware/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/att/3b2_hardware/firmware/",
+    "is_dir": true,
+    "size": null,
+    "date": "17-Jan-2015 21:30"
+  },
+  {
+    "name": "photos",
+    "href": "photos/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/att/3b2_hardware/photos/",
+    "is_dir": true,
+    "size": null,
+    "date": "17-Jan-2015 22:27"
+  },
+  {
+    "name": "3B2_CIO_Hardware_Dec83.pdf",
+    "href": "3B2_CIO_Hardware_Dec83.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/att/3b2_hardware/3B2_CIO_Hardware_Dec83.pdf",
+    "is_dir": false,
+    "size": "3.0 MiB",
+    "date": "09-Jan-2015 22:30"
+  },
+  {
+    "name": "3B2_IO_Bus_Dec83.pdf",
+    "href": "3B2_IO_Bus_Dec83.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/att/3b2_hardware/3B2_IO_Bus_Dec83.pdf",
+    "is_dir": false,
+    "size": "2.7 MiB",
+    "date": "09-Jan-2015 22:30"
+  }
+]

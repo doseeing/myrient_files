@@ -1,0 +1,66 @@
+[
+  {
+    "name": "login",
+    "href": "login/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/nick/login/",
+    "is_dir": true,
+    "size": null,
+    "date": "21-Apr-2017 01:39"
+  },
+  {
+    "name": "patches",
+    "href": "patches/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/nick/patches/",
+    "is_dir": true,
+    "size": null,
+    "date": "21-Apr-2017 01:39"
+  },
+  {
+    "name": "try",
+    "href": "try/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/nick/try/",
+    "is_dir": true,
+    "size": null,
+    "date": "21-Apr-2017 01:39"
+  },
+  {
+    "name": "yaps",
+    "href": "yaps/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/nick/yaps/",
+    "is_dir": true,
+    "size": null,
+    "date": "21-Apr-2017 01:39"
+  },
+  {
+    "name": "lispm.init.2",
+    "href": "lispm.init.2",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/nick/lispm.init.2",
+    "is_dir": false,
+    "size": "533 B",
+    "date": "21-Apr-2017 01:06"
+  },
+  {
+    "name": "newview-patch.lisp.9",
+    "href": "newview-patch.lisp.9",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/nick/newview-patch.lisp.9",
+    "is_dir": false,
+    "size": "8.6 KiB",
+    "date": "21-Apr-2017 01:06"
+  },
+  {
+    "name": "soley-mail.text.1",
+    "href": "soley-mail.text.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/nick/soley-mail.text.1",
+    "is_dir": false,
+    "size": "2.9 KiB",
+    "date": "21-Apr-2017 01:06"
+  },
+  {
+    "name": "zmail.init.4",
+    "href": "zmail.init.4",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/nick/zmail.init.4",
+    "is_dir": false,
+    "size": "306 B",
+    "date": "21-Apr-2017 01:06"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Applications",
+    "href": "Applications/",
+    "url": "https://myrient.erista.me/files/TOSEC-ISO/Apple/Macintosh/CD/Applications/",
+    "is_dir": true,
+    "size": null,
+    "date": "12-Jul-2025 01:00"
+  },
+  {
+    "name": "Coverdiscs",
+    "href": "Coverdiscs/",
+    "url": "https://myrient.erista.me/files/TOSEC-ISO/Apple/Macintosh/CD/Coverdiscs/",
+    "is_dir": true,
+    "size": null,
+    "date": "26-Jan-2025 06:25"
+  },
+  {
+    "name": "Educational",
+    "href": "Educational/",
+    "url": "https://myrient.erista.me/files/TOSEC-ISO/Apple/Macintosh/CD/Educational/",
+    "is_dir": true,
+    "size": null,
+    "date": "26-Jan-2025 06:30"
+  },
+  {
+    "name": "Games",
+    "href": "Games/",
+    "url": "https://myrient.erista.me/files/TOSEC-ISO/Apple/Macintosh/CD/Games/",
+    "is_dir": true,
+    "size": null,
+    "date": "08-May-2025 06:44"
+  },
+  {
+    "name": "Multimedia",
+    "href": "Multimedia/",
+    "url": "https://myrient.erista.me/files/TOSEC-ISO/Apple/Macintosh/CD/Multimedia/",
+    "is_dir": true,
+    "size": null,
+    "date": "26-Jan-2025 06:39"
+  }
+]

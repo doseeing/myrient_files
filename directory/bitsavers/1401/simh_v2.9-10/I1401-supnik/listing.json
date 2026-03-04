@@ -1,0 +1,98 @@
+[
+  {
+    "name": "i1401_cd.c",
+    "href": "i1401_cd.c",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/simh_v2.9-10/I1401-supnik/i1401_cd.c",
+    "is_dir": false,
+    "size": "8.8 KiB",
+    "date": "31-May-2002 04:17"
+  },
+  {
+    "name": "i1401_cpu.c",
+    "href": "i1401_cpu.c",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/simh_v2.9-10/I1401-supnik/i1401_cpu.c",
+    "is_dir": false,
+    "size": "47.5 KiB",
+    "date": "04-Jun-2002 05:21"
+  },
+  {
+    "name": "i1401_dat.h",
+    "href": "i1401_dat.h",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/simh_v2.9-10/I1401-supnik/i1401_dat.h",
+    "is_dir": false,
+    "size": "3.1 KiB",
+    "date": "18-Jun-2002 19:47"
+  },
+  {
+    "name": "i1401_dat_orig.h",
+    "href": "i1401_dat_orig.h",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/simh_v2.9-10/I1401-supnik/i1401_dat_orig.h",
+    "is_dir": false,
+    "size": "1.2 KiB",
+    "date": "30-Jan-2002 23:59"
+  },
+  {
+    "name": "i1401_defs.h",
+    "href": "i1401_defs.h",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/simh_v2.9-10/I1401-supnik/i1401_defs.h",
+    "is_dir": false,
+    "size": "10.0 KiB",
+    "date": "05-Jun-2002 01:38"
+  },
+  {
+    "name": "i1401_doc.txt",
+    "href": "i1401_doc.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/simh_v2.9-10/I1401-supnik/i1401_doc.txt",
+    "is_dir": false,
+    "size": "14.1 KiB",
+    "date": "08-Jun-2002 05:00"
+  },
+  {
+    "name": "i1401_dp.c",
+    "href": "i1401_dp.c",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/simh_v2.9-10/I1401-supnik/i1401_dp.c",
+    "is_dir": false,
+    "size": "19.5 KiB",
+    "date": "09-Jun-2002 00:38"
+  },
+  {
+    "name": "i1401_iq.c",
+    "href": "i1401_iq.c",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/simh_v2.9-10/I1401-supnik/i1401_iq.c",
+    "is_dir": false,
+    "size": "4.8 KiB",
+    "date": "04-Jan-2002 04:27"
+  },
+  {
+    "name": "i1401_lp.c",
+    "href": "i1401_lp.c",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/simh_v2.9-10/I1401-supnik/i1401_lp.c",
+    "is_dir": false,
+    "size": "7.7 KiB",
+    "date": "31-May-2002 04:17"
+  },
+  {
+    "name": "i1401_mt.c",
+    "href": "i1401_mt.c",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/simh_v2.9-10/I1401-supnik/i1401_mt.c",
+    "is_dir": false,
+    "size": "9.8 KiB",
+    "date": "04-Jun-2002 05:21"
+  },
+  {
+    "name": "i1401_mt.c_new",
+    "href": "i1401_mt.c_new",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/simh_v2.9-10/I1401-supnik/i1401_mt.c_new",
+    "is_dir": false,
+    "size": "9.8 KiB",
+    "date": "15-Mar-2003 08:37"
+  },
+  {
+    "name": "i1401_sys.c",
+    "href": "i1401_sys.c",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/simh_v2.9-10/I1401-supnik/i1401_sys.c",
+    "is_dir": false,
+    "size": "11.4 KiB",
+    "date": "08-Jun-2002 22:15"
+  }
+]

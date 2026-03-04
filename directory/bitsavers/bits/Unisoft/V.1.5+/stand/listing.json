@@ -1,0 +1,546 @@
+[
+  {
+    "name": "BM.s",
+    "href": "BM.s",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Unisoft/V.1.5%2B/stand/BM.s",
+    "is_dir": false,
+    "size": "450 B",
+    "date": "16-Jul-2012 01:06"
+  },
+  {
+    "name": "M.s",
+    "href": "M.s",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Unisoft/V.1.5%2B/stand/M.s",
+    "is_dir": false,
+    "size": "504 B",
+    "date": "16-Jul-2012 01:06"
+  },
+  {
+    "name": "MB.s",
+    "href": "MB.s",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Unisoft/V.1.5%2B/stand/MB.s",
+    "is_dir": false,
+    "size": "549 B",
+    "date": "16-Jul-2012 01:06"
+  },
+  {
+    "name": "MB1.s",
+    "href": "MB1.s",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Unisoft/V.1.5%2B/stand/MB1.s",
+    "is_dir": false,
+    "size": "444 B",
+    "date": "16-Jul-2012 01:06"
+  },
+  {
+    "name": "MM.s",
+    "href": "MM.s",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Unisoft/V.1.5%2B/stand/MM.s",
+    "is_dir": false,
+    "size": "375 B",
+    "date": "16-Jul-2012 01:06"
+  },
+  {
+    "name": "backup.c",
+    "href": "backup.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Unisoft/V.1.5%2B/stand/backup.c",
+    "is_dir": false,
+    "size": "1.3 KiB",
+    "date": "16-Jul-2012 01:06"
+  },
+  {
+    "name": "boot.c",
+    "href": "boot.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Unisoft/V.1.5%2B/stand/boot.c",
+    "is_dir": false,
+    "size": "3.0 KiB",
+    "date": "16-Jul-2012 01:06"
+  },
+  {
+    "name": "c.c",
+    "href": "c.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Unisoft/V.1.5%2B/stand/c.c",
+    "is_dir": false,
+    "size": "1.5 KiB",
+    "date": "16-Jul-2012 01:06"
+  },
+  {
+    "name": "cat.c",
+    "href": "cat.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Unisoft/V.1.5%2B/stand/cat.c",
+    "is_dir": false,
+    "size": "861 B",
+    "date": "16-Jul-2012 01:06"
+  },
+  {
+    "name": "console.c",
+    "href": "console.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Unisoft/V.1.5%2B/stand/console.c",
+    "is_dir": false,
+    "size": "10.6 KiB",
+    "date": "16-Jul-2012 01:06"
+  },
+  {
+    "name": "copysboot.c",
+    "href": "copysboot.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Unisoft/V.1.5%2B/stand/copysboot.c",
+    "is_dir": false,
+    "size": "2.6 KiB",
+    "date": "16-Jul-2012 01:06"
+  },
+  {
+    "name": "cv.c",
+    "href": "cv.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Unisoft/V.1.5%2B/stand/cv.c",
+    "is_dir": false,
+    "size": "4.8 KiB",
+    "date": "16-Jul-2012 01:06"
+  },
+  {
+    "name": "cvt.c",
+    "href": "cvt.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Unisoft/V.1.5%2B/stand/cvt.c",
+    "is_dir": false,
+    "size": "4.7 KiB",
+    "date": "16-Jul-2012 01:06"
+  },
+  {
+    "name": "disk.ex",
+    "href": "disk.ex",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Unisoft/V.1.5%2B/stand/disk.ex",
+    "is_dir": false,
+    "size": "5.7 KiB",
+    "date": "16-Jul-2012 01:06"
+  },
+  {
+    "name": "diskcmp.c",
+    "href": "diskcmp.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Unisoft/V.1.5%2B/stand/diskcmp.c",
+    "is_dir": false,
+    "size": "1.6 KiB",
+    "date": "16-Jul-2012 01:06"
+  },
+  {
+    "name": "diskcopy.c",
+    "href": "diskcopy.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Unisoft/V.1.5%2B/stand/diskcopy.c",
+    "is_dir": false,
+    "size": "1.6 KiB",
+    "date": "16-Jul-2012 01:06"
+  },
+  {
+    "name": "diskfix.c",
+    "href": "diskfix.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Unisoft/V.1.5%2B/stand/diskfix.c",
+    "is_dir": false,
+    "size": "1.5 KiB",
+    "date": "16-Jul-2012 01:06"
+  },
+  {
+    "name": "diskinq.c",
+    "href": "diskinq.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Unisoft/V.1.5%2B/stand/diskinq.c",
+    "is_dir": false,
+    "size": "1.1 KiB",
+    "date": "16-Jul-2012 01:06"
+  },
+  {
+    "name": "diskrand.c",
+    "href": "diskrand.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Unisoft/V.1.5%2B/stand/diskrand.c",
+    "is_dir": false,
+    "size": "3.7 KiB",
+    "date": "16-Jul-2012 01:06"
+  },
+  {
+    "name": "diskread.c",
+    "href": "diskread.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Unisoft/V.1.5%2B/stand/diskread.c",
+    "is_dir": false,
+    "size": "1.7 KiB",
+    "date": "16-Jul-2012 01:06"
+  },
+  {
+    "name": "disktest.c",
+    "href": "disktest.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Unisoft/V.1.5%2B/stand/disktest.c",
+    "is_dir": false,
+    "size": "2.5 KiB",
+    "date": "16-Jul-2012 01:06"
+  },
+  {
+    "name": "dlmc.c",
+    "href": "dlmc.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Unisoft/V.1.5%2B/stand/dlmc.c",
+    "is_dir": false,
+    "size": "2.9 KiB",
+    "date": "16-Jul-2012 01:06"
+  },
+  {
+    "name": "dt.c",
+    "href": "dt.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Unisoft/V.1.5%2B/stand/dt.c",
+    "is_dir": false,
+    "size": "2.5 KiB",
+    "date": "16-Jul-2012 01:06"
+  },
+  {
+    "name": "format.ex",
+    "href": "format.ex",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Unisoft/V.1.5%2B/stand/format.ex",
+    "is_dir": false,
+    "size": "562 B",
+    "date": "16-Jul-2012 01:06"
+  },
+  {
+    "name": "getchar.c",
+    "href": "getchar.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Unisoft/V.1.5%2B/stand/getchar.c",
+    "is_dir": false,
+    "size": "298 B",
+    "date": "16-Jul-2012 01:06"
+  },
+  {
+    "name": "gethex.c",
+    "href": "gethex.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Unisoft/V.1.5%2B/stand/gethex.c",
+    "is_dir": false,
+    "size": "525 B",
+    "date": "16-Jul-2012 01:06"
+  },
+  {
+    "name": "lisa.c",
+    "href": "lisa.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Unisoft/V.1.5%2B/stand/lisa.c",
+    "is_dir": false,
+    "size": "4.4 KiB",
+    "date": "16-Jul-2012 01:06"
+  },
+  {
+    "name": "ls.c",
+    "href": "ls.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Unisoft/V.1.5%2B/stand/ls.c",
+    "is_dir": false,
+    "size": "1.4 KiB",
+    "date": "16-Jul-2012 01:06"
+  },
+  {
+    "name": "make.out",
+    "href": "make.out",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Unisoft/V.1.5%2B/stand/make.out",
+    "is_dir": false,
+    "size": "384 B",
+    "date": "16-Jul-2012 01:06"
+  },
+  {
+    "name": "makefile",
+    "href": "makefile",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Unisoft/V.1.5%2B/stand/makefile",
+    "is_dir": false,
+    "size": "9.4 KiB",
+    "date": "16-Jul-2012 01:06"
+  },
+  {
+    "name": "memcmp.c",
+    "href": "memcmp.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Unisoft/V.1.5%2B/stand/memcmp.c",
+    "is_dir": false,
+    "size": "1.1 KiB",
+    "date": "16-Jul-2012 01:06"
+  },
+  {
+    "name": "memtest.c",
+    "href": "memtest.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Unisoft/V.1.5%2B/stand/memtest.c",
+    "is_dir": false,
+    "size": "3.8 KiB",
+    "date": "16-Jul-2012 01:06"
+  },
+  {
+    "name": "mkcode.c",
+    "href": "mkcode.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Unisoft/V.1.5%2B/stand/mkcode.c",
+    "is_dir": false,
+    "size": "2.5 KiB",
+    "date": "16-Jul-2012 01:06"
+  },
+  {
+    "name": "mkser.c",
+    "href": "mkser.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Unisoft/V.1.5%2B/stand/mkser.c",
+    "is_dir": false,
+    "size": "2.0 KiB",
+    "date": "16-Jul-2012 01:06"
+  },
+  {
+    "name": "mmu451.c",
+    "href": "mmu451.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Unisoft/V.1.5%2B/stand/mmu451.c",
+    "is_dir": false,
+    "size": "1008 B",
+    "date": "16-Jul-2012 01:06"
+  },
+  {
+    "name": "mon.c",
+    "href": "mon.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Unisoft/V.1.5%2B/stand/mon.c",
+    "is_dir": false,
+    "size": "3.0 KiB",
+    "date": "16-Jul-2012 01:06"
+  },
+  {
+    "name": "nosercheck.c",
+    "href": "nosercheck.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Unisoft/V.1.5%2B/stand/nosercheck.c",
+    "is_dir": false,
+    "size": "435 B",
+    "date": "16-Jul-2012 01:06"
+  },
+  {
+    "name": "od.c",
+    "href": "od.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Unisoft/V.1.5%2B/stand/od.c",
+    "is_dir": false,
+    "size": "1.4 KiB",
+    "date": "16-Jul-2012 01:06"
+  },
+  {
+    "name": "pbblk.s",
+    "href": "pbblk.s",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Unisoft/V.1.5%2B/stand/pbblk.s",
+    "is_dir": false,
+    "size": "1.2 KiB",
+    "date": "16-Jul-2012 01:06"
+  },
+  {
+    "name": "prf.c",
+    "href": "prf.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Unisoft/V.1.5%2B/stand/prf.c",
+    "is_dir": false,
+    "size": "2.5 KiB",
+    "date": "16-Jul-2012 01:06"
+  },
+  {
+    "name": "priam.c",
+    "href": "priam.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Unisoft/V.1.5%2B/stand/priam.c",
+    "is_dir": false,
+    "size": "22.8 KiB",
+    "date": "16-Jul-2012 01:06"
+  },
+  {
+    "name": "priam.c.old",
+    "href": "priam.c.old",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Unisoft/V.1.5%2B/stand/priam.c.old",
+    "is_dir": false,
+    "size": "13.6 KiB",
+    "date": "16-Jul-2012 01:06"
+  },
+  {
+    "name": "pro.c",
+    "href": "pro.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Unisoft/V.1.5%2B/stand/pro.c",
+    "is_dir": false,
+    "size": "6.4 KiB",
+    "date": "16-Jul-2012 01:06"
+  },
+  {
+    "name": "proto",
+    "href": "proto",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Unisoft/V.1.5%2B/stand/proto",
+    "is_dir": false,
+    "size": "1.8 KiB",
+    "date": "16-Jul-2012 01:06"
+  },
+  {
+    "name": "proto.take",
+    "href": "proto.take",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Unisoft/V.1.5%2B/stand/proto.take",
+    "is_dir": false,
+    "size": "1.2 KiB",
+    "date": "16-Jul-2012 01:06"
+  },
+  {
+    "name": "putchar.c",
+    "href": "putchar.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Unisoft/V.1.5%2B/stand/putchar.c",
+    "is_dir": false,
+    "size": "350 B",
+    "date": "16-Jul-2012 01:06"
+  },
+  {
+    "name": "rom_mon.c",
+    "href": "rom_mon.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Unisoft/V.1.5%2B/stand/rom_mon.c",
+    "is_dir": false,
+    "size": "394 B",
+    "date": "16-Jul-2012 01:06"
+  },
+  {
+    "name": "saio.h",
+    "href": "saio.h",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Unisoft/V.1.5%2B/stand/saio.h",
+    "is_dir": false,
+    "size": "2.8 KiB",
+    "date": "16-Jul-2012 01:06"
+  },
+  {
+    "name": "sbblk.s",
+    "href": "sbblk.s",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Unisoft/V.1.5%2B/stand/sbblk.s",
+    "is_dir": false,
+    "size": "1.7 KiB",
+    "date": "16-Jul-2012 01:06"
+  },
+  {
+    "name": "sbblkM.s",
+    "href": "sbblkM.s",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Unisoft/V.1.5%2B/stand/sbblkM.s",
+    "is_dir": false,
+    "size": "445 B",
+    "date": "16-Jul-2012 01:06"
+  },
+  {
+    "name": "sercheck.c",
+    "href": "sercheck.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Unisoft/V.1.5%2B/stand/sercheck.c",
+    "is_dir": false,
+    "size": "435 B",
+    "date": "16-Jul-2012 01:06"
+  },
+  {
+    "name": "serial.ex",
+    "href": "serial.ex",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Unisoft/V.1.5%2B/stand/serial.ex",
+    "is_dir": false,
+    "size": "7.4 KiB",
+    "date": "16-Jul-2012 01:06"
+  },
+  {
+    "name": "setup.c",
+    "href": "setup.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Unisoft/V.1.5%2B/stand/setup.c",
+    "is_dir": false,
+    "size": "763 B",
+    "date": "16-Jul-2012 01:06"
+  },
+  {
+    "name": "sn.s",
+    "href": "sn.s",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Unisoft/V.1.5%2B/stand/sn.s",
+    "is_dir": false,
+    "size": "251 B",
+    "date": "16-Jul-2012 01:06"
+  },
+  {
+    "name": "snaddr",
+    "href": "snaddr",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Unisoft/V.1.5%2B/stand/snaddr",
+    "is_dir": false,
+    "size": "36 B",
+    "date": "16-Jul-2012 01:06"
+  },
+  {
+    "name": "sony.c",
+    "href": "sony.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Unisoft/V.1.5%2B/stand/sony.c",
+    "is_dir": false,
+    "size": "5.9 KiB",
+    "date": "16-Jul-2012 01:06"
+  },
+  {
+    "name": "staticmem.c",
+    "href": "staticmem.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Unisoft/V.1.5%2B/stand/staticmem.c",
+    "is_dir": false,
+    "size": "1.7 KiB",
+    "date": "16-Jul-2012 01:06"
+  },
+  {
+    "name": "streamer.c",
+    "href": "streamer.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Unisoft/V.1.5%2B/stand/streamer.c",
+    "is_dir": false,
+    "size": "11.8 KiB",
+    "date": "16-Jul-2012 01:06"
+  },
+  {
+    "name": "streamer.c.old",
+    "href": "streamer.c.old",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Unisoft/V.1.5%2B/stand/streamer.c.old",
+    "is_dir": false,
+    "size": "5.3 KiB",
+    "date": "16-Jul-2012 01:06"
+  },
+  {
+    "name": "streamer.h",
+    "href": "streamer.h",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Unisoft/V.1.5%2B/stand/streamer.h",
+    "is_dir": false,
+    "size": "1.1 KiB",
+    "date": "16-Jul-2012 01:06"
+  },
+  {
+    "name": "sunol.c",
+    "href": "sunol.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Unisoft/V.1.5%2B/stand/sunol.c",
+    "is_dir": false,
+    "size": "8.3 KiB",
+    "date": "16-Jul-2012 01:06"
+  },
+  {
+    "name": "sys.c",
+    "href": "sys.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Unisoft/V.1.5%2B/stand/sys.c",
+    "is_dir": false,
+    "size": "15.0 KiB",
+    "date": "16-Jul-2012 01:06"
+  },
+  {
+    "name": "tags",
+    "href": "tags",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Unisoft/V.1.5%2B/stand/tags",
+    "is_dir": false,
+    "size": "4.0 KiB",
+    "date": "16-Jul-2012 01:06"
+  },
+  {
+    "name": "tpriam.c",
+    "href": "tpriam.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Unisoft/V.1.5%2B/stand/tpriam.c",
+    "is_dir": false,
+    "size": "5.7 KiB",
+    "date": "16-Jul-2012 01:06"
+  },
+  {
+    "name": "wbblk.s",
+    "href": "wbblk.s",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Unisoft/V.1.5%2B/stand/wbblk.s",
+    "is_dir": false,
+    "size": "1.5 KiB",
+    "date": "16-Jul-2012 01:06"
+  },
+  {
+    "name": "wbblkM.s",
+    "href": "wbblkM.s",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Unisoft/V.1.5%2B/stand/wbblkM.s",
+    "is_dir": false,
+    "size": "446 B",
+    "date": "16-Jul-2012 01:06"
+  },
+  {
+    "name": "wserial.c",
+    "href": "wserial.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Unisoft/V.1.5%2B/stand/wserial.c",
+    "is_dir": false,
+    "size": "780 B",
+    "date": "16-Jul-2012 01:06"
+  },
+  {
+    "name": "xproto.take",
+    "href": "xproto.take",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Unisoft/V.1.5%2B/stand/xproto.take",
+    "is_dir": false,
+    "size": "1.1 KiB",
+    "date": "16-Jul-2012 01:06"
+  }
+]

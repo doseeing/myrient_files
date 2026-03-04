@@ -1,0 +1,34 @@
+[
+  {
+    "name": "EPROM",
+    "href": "EPROM/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/sdSystems/SBC300/EPROM/",
+    "is_dir": true,
+    "size": null,
+    "date": "07-Jul-2021 04:20"
+  },
+  {
+    "name": "Photos",
+    "href": "Photos/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/sdSystems/SBC300/Photos/",
+    "is_dir": true,
+    "size": null,
+    "date": "24-Mar-2019 14:26"
+  },
+  {
+    "name": "SBC-300.pdf",
+    "href": "SBC-300.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/sdSystems/SBC300/SBC-300.pdf",
+    "is_dir": false,
+    "size": "19.7 MiB",
+    "date": "24-Mar-2019 14:24"
+  },
+  {
+    "name": "SD-Unbanked.pdf",
+    "href": "SD-Unbanked.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/sdSystems/SBC300/SD-Unbanked.pdf",
+    "is_dir": false,
+    "size": "6.9 MiB",
+    "date": "24-Mar-2019 14:24"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "name": "MC68HC05E1_EVS",
+    "href": "MC68HC05E1_EVS/",
+    "url": "https://myrient.erista.me/files/bitsavers/components/motorola/6805/M68HC05EVS/MC68HC05E1_EVS/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-May-2020 03:01"
+  },
+  {
+    "name": "emulator_module",
+    "href": "emulator_module/",
+    "url": "https://myrient.erista.me/files/bitsavers/components/motorola/6805/M68HC05EVS/emulator_module/",
+    "is_dir": true,
+    "size": null,
+    "date": "21-Nov-2014 15:45"
+  },
+  {
+    "name": "EVSBUG12.BIN",
+    "href": "EVSBUG12.BIN",
+    "url": "https://myrient.erista.me/files/bitsavers/components/motorola/6805/M68HC05EVS/EVSBUG12.BIN",
+    "is_dir": false,
+    "size": "8.0 KiB",
+    "date": "11-Jan-2014 19:24"
+  },
+  {
+    "name": "M68HC05EVS.pdf",
+    "href": "M68HC05EVS.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/motorola/6805/M68HC05EVS/M68HC05EVS.pdf",
+    "is_dir": false,
+    "size": "256.6 KiB",
+    "date": "11-Jan-2014 19:24"
+  },
+  {
+    "name": "M68HC05P9EM_B.jpg",
+    "href": "M68HC05P9EM_B.jpg",
+    "url": "https://myrient.erista.me/files/bitsavers/components/motorola/6805/M68HC05EVS/M68HC05P9EM_B.jpg",
+    "is_dir": false,
+    "size": "240.1 KiB",
+    "date": "11-Jan-2014 19:24"
+  },
+  {
+    "name": "M68HC05P9EM_T.jpg",
+    "href": "M68HC05P9EM_T.jpg",
+    "url": "https://myrient.erista.me/files/bitsavers/components/motorola/6805/M68HC05EVS/M68HC05P9EM_T.jpg",
+    "is_dir": false,
+    "size": "282.4 KiB",
+    "date": "11-Jan-2014 19:24"
+  },
+  {
+    "name": "M68HC05PFB_B.jpg",
+    "href": "M68HC05PFB_B.jpg",
+    "url": "https://myrient.erista.me/files/bitsavers/components/motorola/6805/M68HC05EVS/M68HC05PFB_B.jpg",
+    "is_dir": false,
+    "size": "545.3 KiB",
+    "date": "11-Jan-2014 19:24"
+  },
+  {
+    "name": "M68HC05PFB_T.jpg",
+    "href": "M68HC05PFB_T.jpg",
+    "url": "https://myrient.erista.me/files/bitsavers/components/motorola/6805/M68HC05EVS/M68HC05PFB_T.jpg",
+    "is_dir": false,
+    "size": "532.8 KiB",
+    "date": "11-Jan-2014 19:24"
+  }
+]

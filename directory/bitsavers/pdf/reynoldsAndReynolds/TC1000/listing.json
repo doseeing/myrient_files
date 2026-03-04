@@ -1,0 +1,42 @@
+[
+  {
+    "name": "bootdisk",
+    "href": "bootdisk/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/reynoldsAndReynolds/TC1000/bootdisk/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-May-2021 03:00"
+  },
+  {
+    "name": "cards",
+    "href": "cards/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/reynoldsAndReynolds/TC1000/cards/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-May-2021 03:03"
+  },
+  {
+    "name": "TC6762_Rev3.bin",
+    "href": "TC6762_Rev3.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/reynoldsAndReynolds/TC1000/TC6762_Rev3.bin",
+    "is_dir": false,
+    "size": "1.0 KiB",
+    "date": "28-May-2021 04:08"
+  },
+  {
+    "name": "chassis.jpg",
+    "href": "chassis.jpg",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/reynoldsAndReynolds/TC1000/chassis.jpg",
+    "is_dir": false,
+    "size": "27.5 KiB",
+    "date": "28-May-2021 03:00"
+  },
+  {
+    "name": "front.jpg",
+    "href": "front.jpg",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/reynoldsAndReynolds/TC1000/front.jpg",
+    "is_dir": false,
+    "size": "75.2 KiB",
+    "date": "28-May-2021 03:00"
+  }
+]

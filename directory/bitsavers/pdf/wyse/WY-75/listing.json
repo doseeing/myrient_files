@@ -1,0 +1,26 @@
+[
+  {
+    "name": "firmware",
+    "href": "firmware/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/wyse/WY-75/firmware/",
+    "is_dir": true,
+    "size": null,
+    "date": "23-Jan-2021 19:13"
+  },
+  {
+    "name": "880026-01_WY-75_Quick-Reference_Guide_Jul1984.pdf",
+    "href": "880026-01_WY-75_Quick-Reference_Guide_Jul1984.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/wyse/WY-75/880026-01_WY-75_Quick-Reference_Guide_Jul1984.pdf",
+    "is_dir": false,
+    "size": "2.3 MiB",
+    "date": "03-Sep-2018 18:47"
+  },
+  {
+    "name": "WY75_PCB_T.JPG",
+    "href": "WY75_PCB_T.JPG",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/wyse/WY-75/WY75_PCB_T.JPG",
+    "is_dir": false,
+    "size": "688.6 KiB",
+    "date": "30-Aug-2018 00:23"
+  }
+]

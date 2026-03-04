@@ -1,0 +1,82 @@
+[
+  {
+    "name": "brochures",
+    "href": "brochures/",
+    "url": "https://myrient.erista.me/files/bitsavers/test_equipment/hp/64000/brochures/",
+    "is_dir": true,
+    "size": null,
+    "date": "13-Jun-2009 22:35"
+  },
+  {
+    "name": "catalog",
+    "href": "catalog/",
+    "url": "https://myrient.erista.me/files/bitsavers/test_equipment/hp/64000/catalog/",
+    "is_dir": true,
+    "size": null,
+    "date": "16-Jan-2015 16:36"
+  },
+  {
+    "name": "firmware",
+    "href": "firmware/",
+    "url": "https://myrient.erista.me/files/bitsavers/test_equipment/hp/64000/firmware/",
+    "is_dir": true,
+    "size": null,
+    "date": "21-Dec-2014 03:00"
+  },
+  {
+    "name": "hardware",
+    "href": "hardware/",
+    "url": "https://myrient.erista.me/files/bitsavers/test_equipment/hp/64000/hardware/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Dec-2025 19:40"
+  },
+  {
+    "name": "photos",
+    "href": "photos/",
+    "url": "https://myrient.erista.me/files/bitsavers/test_equipment/hp/64000/photos/",
+    "is_dir": true,
+    "size": null,
+    "date": "21-Dec-2014 02:54"
+  },
+  {
+    "name": "software",
+    "href": "software/",
+    "url": "https://myrient.erista.me/files/bitsavers/test_equipment/hp/64000/software/",
+    "is_dir": true,
+    "size": null,
+    "date": "07-Feb-2015 20:04"
+  },
+  {
+    "name": "support",
+    "href": "support/",
+    "url": "https://myrient.erista.me/files/bitsavers/test_equipment/hp/64000/support/",
+    "is_dir": true,
+    "size": null,
+    "date": "07-Feb-2015 20:05"
+  },
+  {
+    "name": "64000_Part_Numbers.txt",
+    "href": "64000_Part_Numbers.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/test_equipment/hp/64000/64000_Part_Numbers.txt",
+    "is_dir": false,
+    "size": "3.8 KiB",
+    "date": "27-Jan-2015 16:26"
+  },
+  {
+    "name": "HPJ_1983-03_64000.pdf",
+    "href": "HPJ_1983-03_64000.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/test_equipment/hp/64000/HPJ_1983-03_64000.pdf",
+    "is_dir": false,
+    "size": "10.9 MiB",
+    "date": "06-Jun-2018 02:40"
+  },
+  {
+    "name": "HP_64000_LDS_Configuration_Guide_5953-xxxx-Jul-1985.pdf",
+    "href": "HP_64000_LDS_Configuration_Guide_5953-xxxx-Jul-1985.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/test_equipment/hp/64000/HP_64000_LDS_Configuration_Guide_5953-xxxx-Jul-1985.pdf",
+    "is_dir": false,
+    "size": "8.8 MiB",
+    "date": "01-Jun-2005 19:29"
+  }
+]

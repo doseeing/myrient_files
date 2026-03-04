@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Memory",
+    "href": "Memory/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/lmi/firmware/Memory/",
+    "is_dir": true,
+    "size": null,
+    "date": "23-Feb-2017 00:39"
+  },
+  {
+    "name": "CM.ZIP",
+    "href": "CM.ZIP",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/lmi/firmware/CM.ZIP",
+    "is_dir": false,
+    "size": "2.2 KiB",
+    "date": "05-Feb-2017 18:43"
+  },
+  {
+    "name": "DP.ZIP",
+    "href": "DP.ZIP",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/lmi/firmware/DP.ZIP",
+    "is_dir": false,
+    "size": "2.8 KiB",
+    "date": "05-Feb-2017 18:43"
+  },
+  {
+    "name": "RG.ZIP",
+    "href": "RG.ZIP",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/lmi/firmware/RG.ZIP",
+    "is_dir": false,
+    "size": "1.9 KiB",
+    "date": "05-Feb-2017 18:43"
+  },
+  {
+    "name": "SDU_15165-0003.ZIP",
+    "href": "SDU_15165-0003.ZIP",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/lmi/firmware/SDU_15165-0003.ZIP",
+    "is_dir": false,
+    "size": "104.7 KiB",
+    "date": "05-Feb-2017 18:43"
+  },
+  {
+    "name": "VC_MEM.ZIP",
+    "href": "VC_MEM.ZIP",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/lmi/firmware/VC_MEM.ZIP",
+    "is_dir": false,
+    "size": "34.8 KiB",
+    "date": "05-Feb-2017 18:43"
+  }
+]

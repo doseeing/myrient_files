@@ -1,0 +1,146 @@
+[
+  {
+    "name": "firmware",
+    "href": "firmware/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intel/system3xx/firmware/",
+    "is_dir": true,
+    "size": null,
+    "date": "01-Apr-2023 23:11"
+  },
+  {
+    "name": "pictures",
+    "href": "pictures/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intel/system3xx/pictures/",
+    "is_dir": true,
+    "size": null,
+    "date": "02-Dec-2016 16:49"
+  },
+  {
+    "name": "xenix-286",
+    "href": "xenix-286/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intel/system3xx/xenix-286/",
+    "is_dir": true,
+    "size": null,
+    "date": "10-Jan-2010 16:12"
+  },
+  {
+    "name": "143896-001_System_86_300_Series_Diagnostic_Reference_Jan82.pdf",
+    "href": "143896-001_System_86_300_Series_Diagnostic_Reference_Jan82.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intel/system3xx/143896-001_System_86_300_Series_Diagnostic_Reference_Jan82.pdf",
+    "is_dir": false,
+    "size": "2.8 MiB",
+    "date": "11-Dec-2009 19:24"
+  },
+  {
+    "name": "143897-001_System_86_330_Installation_and_Maintenance_Nov81.pdf",
+    "href": "143897-001_System_86_330_Installation_and_Maintenance_Nov81.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intel/system3xx/143897-001_System_86_330_Installation_and_Maintenance_Nov81.pdf",
+    "is_dir": false,
+    "size": "3.2 MiB",
+    "date": "11-Dec-2009 19:23"
+  },
+  {
+    "name": "144680-001_System_86_330A_Overview_Manual_Jun82.pdf",
+    "href": "144680-001_System_86_330A_Overview_Manual_Jun82.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intel/system3xx/144680-001_System_86_330A_Overview_Manual_Jun82.pdf",
+    "is_dir": false,
+    "size": "3.9 MiB",
+    "date": "11-Dec-2009 19:23"
+  },
+  {
+    "name": "144813-001_System_86_300_Series_Diagnostic_Maintenance_Manual_Jun82.pdf",
+    "href": "144813-001_System_86_300_Series_Diagnostic_Maintenance_Manual_Jun82.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intel/system3xx/144813-001_System_86_300_Series_Diagnostic_Maintenance_Manual_Jun82.pdf",
+    "is_dir": false,
+    "size": "4.6 MiB",
+    "date": "11-Dec-2009 19:22"
+  },
+  {
+    "name": "144813-004_86-300diag_May83.pdf",
+    "href": "144813-004_86-300diag_May83.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intel/system3xx/144813-004_86-300diag_May83.pdf",
+    "is_dir": false,
+    "size": "8.4 MiB",
+    "date": "01-Aug-2003 00:16"
+  },
+  {
+    "name": "172758-001_Introduction_to_the_System_86_330_and_380_Systems_Mar83.pdf",
+    "href": "172758-001_Introduction_to_the_System_86_330_and_380_Systems_Mar83.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intel/system3xx/172758-001_Introduction_to_the_System_86_330_and_380_Systems_Mar83.pdf",
+    "is_dir": false,
+    "size": "4.5 MiB",
+    "date": "11-Dec-2009 19:21"
+  },
+  {
+    "name": "172761-001_System_86_380_Hardware_Reference_Mar83.pdf",
+    "href": "172761-001_System_86_380_Hardware_Reference_Mar83.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intel/system3xx/172761-001_System_86_380_Hardware_Reference_Mar83.pdf",
+    "is_dir": false,
+    "size": "6.7 MiB",
+    "date": "11-Dec-2009 19:07"
+  },
+  {
+    "name": "173202-001_310sysIntr_Oct83.pdf",
+    "href": "173202-001_310sysIntr_Oct83.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intel/system3xx/173202-001_310sysIntr_Oct83.pdf",
+    "is_dir": false,
+    "size": "2.5 MiB",
+    "date": "23-Nov-2004 02:16"
+  },
+  {
+    "name": "173205-001_310_8086conf_Oct83.pdf",
+    "href": "173205-001_310_8086conf_Oct83.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intel/system3xx/173205-001_310_8086conf_Oct83.pdf",
+    "is_dir": false,
+    "size": "3.2 MiB",
+    "date": "23-Nov-2004 02:49"
+  },
+  {
+    "name": "173207-002_310diskConf_Nov8.pdf",
+    "href": "173207-002_310diskConf_Nov8.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intel/system3xx/173207-002_310diskConf_Nov8.pdf",
+    "is_dir": false,
+    "size": "3.6 MiB",
+    "date": "23-Nov-2004 03:05"
+  },
+  {
+    "name": "173208-001_310hwMaint_Oct83.pdf",
+    "href": "173208-001_310hwMaint_Oct83.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intel/system3xx/173208-001_310hwMaint_Oct83.pdf",
+    "is_dir": false,
+    "size": "4.5 MiB",
+    "date": "22-Nov-2004 22:35"
+  },
+  {
+    "name": "173211-002_310inst_Jun84.pdf",
+    "href": "173211-002_310inst_Jun84.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intel/system3xx/173211-002_310inst_Jun84.pdf",
+    "is_dir": false,
+    "size": "2.9 MiB",
+    "date": "23-Nov-2004 03:21"
+  },
+  {
+    "name": "173441-001_310pubGde_Oct83.pdf",
+    "href": "173441-001_310pubGde_Oct83.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intel/system3xx/173441-001_310pubGde_Oct83.pdf",
+    "is_dir": false,
+    "size": "1.3 MiB",
+    "date": "22-Nov-2004 21:02"
+  },
+  {
+    "name": "175426-001_310AP_Maintenance_198605.pdf",
+    "href": "175426-001_310AP_Maintenance_198605.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intel/system3xx/175426-001_310AP_Maintenance_198605.pdf",
+    "is_dir": false,
+    "size": "8.4 MiB",
+    "date": "18-Aug-2025 16:33"
+  },
+  {
+    "name": "SYP310AP_announcement_Sep85.png",
+    "href": "SYP310AP_announcement_Sep85.png",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intel/system3xx/SYP310AP_announcement_Sep85.png",
+    "is_dir": false,
+    "size": "461.0 KiB",
+    "date": "25-Nov-2016 17:43"
+  }
+]

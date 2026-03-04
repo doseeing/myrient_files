@@ -1,0 +1,34 @@
+[
+  {
+    "name": "_text",
+    "href": "_text/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/tx-0/systemTapeGen/_text/",
+    "is_dir": true,
+    "size": null,
+    "date": "27-Oct-2004 01:21"
+  },
+  {
+    "name": "bin_call.bin",
+    "href": "bin_call.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/tx-0/systemTapeGen/bin_call.bin",
+    "is_dir": false,
+    "size": "159 B",
+    "date": "16-Sep-2004 03:56"
+  },
+  {
+    "name": "bin_systemTapeGen_9-9-66.bin",
+    "href": "bin_systemTapeGen_9-9-66.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/tx-0/systemTapeGen/bin_systemTapeGen_9-9-66.bin",
+    "is_dir": false,
+    "size": "565 B",
+    "date": "16-Sep-2004 03:55"
+  },
+  {
+    "name": "eng_systemTapeGenAndCall.bin",
+    "href": "eng_systemTapeGenAndCall.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/tx-0/systemTapeGen/eng_systemTapeGenAndCall.bin",
+    "is_dir": false,
+    "size": "1.6 KiB",
+    "date": "16-Sep-2004 03:23"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "name": "_text",
+    "href": "_text/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/tx-0/print/_text/",
+    "is_dir": true,
+    "size": null,
+    "date": "27-Oct-2004 01:21"
+  },
+  {
+    "name": "bin_printI.bin",
+    "href": "bin_printI.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/tx-0/print/bin_printI.bin",
+    "is_dir": false,
+    "size": "380 B",
+    "date": "16-Sep-2004 02:08"
+  },
+  {
+    "name": "eng_printII.bin",
+    "href": "eng_printII.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/tx-0/print/eng_printII.bin",
+    "is_dir": false,
+    "size": "18.0 KiB",
+    "date": "16-Sep-2004 02:03"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "name": "firmware",
+    "href": "firmware/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/exatron/1000-001_S-100_controller/firmware/",
+    "is_dir": true,
+    "size": null,
+    "date": "02-Nov-2022 18:08"
+  },
+  {
+    "name": "pictures",
+    "href": "pictures/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/exatron/1000-001_S-100_controller/pictures/",
+    "is_dir": true,
+    "size": null,
+    "date": "02-Nov-2022 18:08"
+  },
+  {
+    "name": "stringy_controller_schematic.pdf",
+    "href": "stringy_controller_schematic.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/exatron/1000-001_S-100_controller/stringy_controller_schematic.pdf",
+    "is_dir": false,
+    "size": "246.2 KiB",
+    "date": "02-Nov-2022 18:07"
+  }
+]

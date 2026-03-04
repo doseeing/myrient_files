@@ -1,0 +1,66 @@
+[
+  {
+    "name": "dump.root.gz",
+    "href": "dump.root.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/IBM/RT/rt/dump.root.gz",
+    "is_dir": false,
+    "size": "4.4 MiB",
+    "date": "16-Feb-2020 19:55"
+  },
+  {
+    "name": "dump.usr",
+    "href": "dump.usr",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/IBM/RT/rt/dump.usr",
+    "is_dir": false,
+    "size": "45.5 MiB",
+    "date": "16-Feb-2020 19:56"
+  },
+  {
+    "name": "miniroot.dd.gz",
+    "href": "miniroot.dd.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/IBM/RT/rt/miniroot.dd.gz",
+    "is_dir": false,
+    "size": "494.4 KiB",
+    "date": "16-Feb-2020 19:55"
+  },
+  {
+    "name": "sautil.dd",
+    "href": "sautil.dd",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/IBM/RT/rt/sautil.dd",
+    "is_dir": false,
+    "size": "360.0 KiB",
+    "date": "16-Feb-2020 19:55"
+  },
+  {
+    "name": "sautil.dd.gz",
+    "href": "sautil.dd.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/IBM/RT/rt/sautil.dd.gz",
+    "is_dir": false,
+    "size": "145.4 KiB",
+    "date": "16-Feb-2020 19:55"
+  },
+  {
+    "name": "srctape.dd",
+    "href": "srctape.dd",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/IBM/RT/rt/srctape.dd",
+    "is_dir": false,
+    "size": "50.1 MiB",
+    "date": "16-Feb-2020 19:56"
+  },
+  {
+    "name": "srctape.dd.gz",
+    "href": "srctape.dd.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/IBM/RT/rt/srctape.dd.gz",
+    "is_dir": false,
+    "size": "11.4 MiB",
+    "date": "16-Feb-2020 19:56"
+  },
+  {
+    "name": "srctape.tar",
+    "href": "srctape.tar",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/IBM/RT/rt/srctape.tar",
+    "is_dir": false,
+    "size": "44.5 MiB",
+    "date": "16-Feb-2020 19:56"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "name": "firmware",
+    "href": "firmware/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intel/iPDS/firmware/",
+    "is_dir": true,
+    "size": null,
+    "date": "24-Dec-2009 18:14"
+  },
+  {
+    "name": "pictures",
+    "href": "pictures/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intel/iPDS/pictures/",
+    "is_dir": true,
+    "size": null,
+    "date": "24-Dec-2009 18:14"
+  },
+  {
+    "name": "162606-003_iPDS_Users_Guide_Feb83.pdf",
+    "href": "162606-003_iPDS_Users_Guide_Feb83.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intel/iPDS/162606-003_iPDS_Users_Guide_Feb83.pdf",
+    "is_dir": false,
+    "size": "20.9 MiB",
+    "date": "23-Dec-2009 03:47"
+  },
+  {
+    "name": "162606-004_iPDS_User_Guide_Oct83.pdf",
+    "href": "162606-004_iPDS_User_Guide_Oct83.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intel/iPDS/162606-004_iPDS_User_Guide_Oct83.pdf",
+    "is_dir": false,
+    "size": "21.3 MiB",
+    "date": "12-Dec-2009 06:00"
+  },
+  {
+    "name": "162607-001_iPDS_Pocket_Reference_Apr82.pdf",
+    "href": "162607-001_iPDS_Pocket_Reference_Apr82.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intel/iPDS/162607-001_iPDS_Pocket_Reference_Apr82.pdf",
+    "is_dir": false,
+    "size": "1.5 MiB",
+    "date": "15-Dec-2009 00:07"
+  },
+  {
+    "name": "163238_Mini-Floppy_Diskette_Considerations.pdf",
+    "href": "163238_Mini-Floppy_Diskette_Considerations.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intel/iPDS/163238_Mini-Floppy_Diskette_Considerations.pdf",
+    "is_dir": false,
+    "size": "73.8 KiB",
+    "date": "24-Dec-2009 19:04"
+  },
+  {
+    "name": "164463_iPDS_Eratta.pdf",
+    "href": "164463_iPDS_Eratta.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intel/iPDS/164463_iPDS_Eratta.pdf",
+    "is_dir": false,
+    "size": "222.2 KiB",
+    "date": "24-Dec-2009 19:04"
+  },
+  {
+    "name": "164498-001_iPDS_External_Floppy_Jul83.pdf",
+    "href": "164498-001_iPDS_External_Floppy_Jul83.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intel/iPDS/164498-001_iPDS_External_Floppy_Jul83.pdf",
+    "is_dir": false,
+    "size": "725.4 KiB",
+    "date": "24-Dec-2009 19:04"
+  },
+  {
+    "name": "EMV-51_Data_Sheet_Jul83.pdf",
+    "href": "EMV-51_Data_Sheet_Jul83.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intel/iPDS/EMV-51_Data_Sheet_Jul83.pdf",
+    "is_dir": false,
+    "size": "1.9 MiB",
+    "date": "23-Dec-2009 02:09"
+  },
+  {
+    "name": "iPDS_BaseProcessor_83.pdf",
+    "href": "iPDS_BaseProcessor_83.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/intel/iPDS/iPDS_BaseProcessor_83.pdf",
+    "is_dir": false,
+    "size": "5.1 MiB",
+    "date": "19-Nov-2004 00:48"
+  }
+]

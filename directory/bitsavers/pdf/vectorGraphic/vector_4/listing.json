@@ -1,0 +1,50 @@
+[
+  {
+    "name": "firmware",
+    "href": "firmware/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/vectorGraphic/vector_4/firmware/",
+    "is_dir": true,
+    "size": null,
+    "date": "23-Jan-2021 19:09"
+  },
+  {
+    "name": "pictures",
+    "href": "pictures/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/vectorGraphic/vector_4/pictures/",
+    "is_dir": true,
+    "size": null,
+    "date": "13-Nov-2016 05:28"
+  },
+  {
+    "name": "7100-0001_Vector_4_Users_Manual_Feb83.pdf",
+    "href": "7100-0001_Vector_4_Users_Manual_Feb83.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/vectorGraphic/vector_4/7100-0001_Vector_4_Users_Manual_Feb83.pdf",
+    "is_dir": false,
+    "size": "17.3 MiB",
+    "date": "13-Nov-2016 05:27"
+  },
+  {
+    "name": "7100-0003_Vector_4_CPM_Programmers_Guide_Sep82.pdf",
+    "href": "7100-0003_Vector_4_CPM_Programmers_Guide_Sep82.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/vectorGraphic/vector_4/7100-0003_Vector_4_CPM_Programmers_Guide_Sep82.pdf",
+    "is_dir": false,
+    "size": "17.2 MiB",
+    "date": "13-Nov-2016 06:29"
+  },
+  {
+    "name": "7100-0023_Vector_CPM86_Programmers_Guide_May83.pdf",
+    "href": "7100-0023_Vector_CPM86_Programmers_Guide_May83.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/vectorGraphic/vector_4/7100-0023_Vector_CPM86_Programmers_Guide_May83.pdf",
+    "is_dir": false,
+    "size": "8.1 MiB",
+    "date": "13-Nov-2016 06:28"
+  },
+  {
+    "name": "7300-0002_Vector_CPM86_Users_Manual_May83.pdf",
+    "href": "7300-0002_Vector_CPM86_Users_Manual_May83.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/vectorGraphic/vector_4/7300-0002_Vector_CPM86_Users_Manual_May83.pdf",
+    "is_dir": false,
+    "size": "16.9 MiB",
+    "date": "13-Nov-2016 06:29"
+  }
+]

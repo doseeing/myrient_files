@@ -1,0 +1,130 @@
+[
+  {
+    "name": "debug",
+    "href": "debug/",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe/Singe2/doc/debug/",
+    "is_dir": true,
+    "size": null,
+    "date": "08-Dec-2025 11:35"
+  },
+  {
+    "name": "graphics",
+    "href": "graphics/",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe/Singe2/doc/graphics/",
+    "is_dir": true,
+    "size": null,
+    "date": "08-Dec-2025 11:41"
+  },
+  {
+    "name": "pics",
+    "href": "pics/",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe/Singe2/doc/pics/",
+    "is_dir": true,
+    "size": null,
+    "date": "08-Dec-2025 11:41"
+  },
+  {
+    "name": "Bezels.md",
+    "href": "Bezels.md",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe/Singe2/doc/Bezels.md",
+    "is_dir": false,
+    "size": "3.6 KiB",
+    "date": "08-Dec-2025 09:35"
+  },
+  {
+    "name": "CmdLine.md",
+    "href": "CmdLine.md",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe/Singe2/doc/CmdLine.md",
+    "is_dir": false,
+    "size": "15.0 KiB",
+    "date": "08-Dec-2025 09:35"
+  },
+  {
+    "name": "DAPHNE_laserdisc_conversion_tutorial.html",
+    "href": "DAPHNE_laserdisc_conversion_tutorial.html",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe/Singe2/doc/DAPHNE_laserdisc_conversion_tutorial.html",
+    "is_dir": false,
+    "size": "23.1 KiB",
+    "date": "08-Dec-2025 09:35"
+  },
+  {
+    "name": "docs.html",
+    "href": "docs.html",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe/Singe2/doc/docs.html",
+    "is_dir": false,
+    "size": "50.0 KiB",
+    "date": "08-Dec-2025 09:35"
+  },
+  {
+    "name": "faq.html",
+    "href": "faq.html",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe/Singe2/doc/faq.html",
+    "is_dir": false,
+    "size": "22.4 KiB",
+    "date": "08-Dec-2025 09:35"
+  },
+  {
+    "name": "flightkey.ini",
+    "href": "flightkey.ini",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe/Singe2/doc/flightkey.ini",
+    "is_dir": false,
+    "size": "2.3 KiB",
+    "date": "08-Dec-2025 09:35"
+  },
+  {
+    "name": "gamelist.txt",
+    "href": "gamelist.txt",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe/Singe2/doc/gamelist.txt",
+    "is_dir": false,
+    "size": "2.6 KiB",
+    "date": "08-Dec-2025 09:35"
+  },
+  {
+    "name": "hypinput.ini",
+    "href": "hypinput.ini",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe/Singe2/doc/hypinput.ini",
+    "is_dir": false,
+    "size": "3.0 KiB",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "hypinput_gamepad.ini",
+    "href": "hypinput_gamepad.ini",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe/Singe2/doc/hypinput_gamepad.ini",
+    "is_dir": false,
+    "size": "2.8 KiB",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "hypseus_default_keys.txt",
+    "href": "hypseus_default_keys.txt",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe/Singe2/doc/hypseus_default_keys.txt",
+    "is_dir": false,
+    "size": "1.6 KiB",
+    "date": "08-Dec-2025 09:35"
+  },
+  {
+    "name": "keylist.txt",
+    "href": "keylist.txt",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe/Singe2/doc/keylist.txt",
+    "is_dir": false,
+    "size": "5.2 KiB",
+    "date": "08-Dec-2025 09:35"
+  },
+  {
+    "name": "nitpick.txt",
+    "href": "nitpick.txt",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe/Singe2/doc/nitpick.txt",
+    "is_dir": false,
+    "size": "6.5 KiB",
+    "date": "08-Dec-2025 09:35"
+  },
+  {
+    "name": "singe.txt",
+    "href": "singe.txt",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe/Singe2/doc/singe.txt",
+    "is_dir": false,
+    "size": "8.3 KiB",
+    "date": "08-Dec-2025 09:35"
+  }
+]

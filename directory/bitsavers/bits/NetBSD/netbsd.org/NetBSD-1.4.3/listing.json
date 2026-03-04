@@ -1,0 +1,154 @@
+[
+  {
+    "name": "alpha",
+    "href": "alpha/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/alpha/",
+    "is_dir": true,
+    "size": null,
+    "date": "01-Oct-2023 18:33"
+  },
+  {
+    "name": "amiga",
+    "href": "amiga/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/amiga/",
+    "is_dir": true,
+    "size": null,
+    "date": "01-Oct-2023 18:33"
+  },
+  {
+    "name": "arm32",
+    "href": "arm32/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/arm32/",
+    "is_dir": true,
+    "size": null,
+    "date": "01-Oct-2023 18:33"
+  },
+  {
+    "name": "hp300",
+    "href": "hp300/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/hp300/",
+    "is_dir": true,
+    "size": null,
+    "date": "01-Oct-2023 18:33"
+  },
+  {
+    "name": "i386",
+    "href": "i386/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/i386/",
+    "is_dir": true,
+    "size": null,
+    "date": "01-Oct-2023 18:33"
+  },
+  {
+    "name": "m68k",
+    "href": "m68k/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/m68k/",
+    "is_dir": true,
+    "size": null,
+    "date": "01-Oct-2023 18:33"
+  },
+  {
+    "name": "mac68k",
+    "href": "mac68k/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/mac68k/",
+    "is_dir": true,
+    "size": null,
+    "date": "01-Oct-2023 18:33"
+  },
+  {
+    "name": "macppc",
+    "href": "macppc/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/macppc/",
+    "is_dir": true,
+    "size": null,
+    "date": "01-Oct-2023 18:33"
+  },
+  {
+    "name": "mvme68k",
+    "href": "mvme68k/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/mvme68k/",
+    "is_dir": true,
+    "size": null,
+    "date": "01-Oct-2023 18:33"
+  },
+  {
+    "name": "next68k",
+    "href": "next68k/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/next68k/",
+    "is_dir": true,
+    "size": null,
+    "date": "01-Oct-2023 18:33"
+  },
+  {
+    "name": "patches",
+    "href": "patches/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/patches/",
+    "is_dir": true,
+    "size": null,
+    "date": "01-Oct-2023 18:33"
+  },
+  {
+    "name": "pmax",
+    "href": "pmax/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/pmax/",
+    "is_dir": true,
+    "size": null,
+    "date": "01-Oct-2023 18:33"
+  },
+  {
+    "name": "source",
+    "href": "source/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/source/",
+    "is_dir": true,
+    "size": null,
+    "date": "01-Oct-2023 18:33"
+  },
+  {
+    "name": "sparc",
+    "href": "sparc/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/sparc/",
+    "is_dir": true,
+    "size": null,
+    "date": "01-Oct-2023 18:33"
+  },
+  {
+    "name": "vax",
+    "href": "vax/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/vax/",
+    "is_dir": true,
+    "size": null,
+    "date": "01-Oct-2023 18:33"
+  },
+  {
+    "name": "x68k",
+    "href": "x68k/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/x68k/",
+    "is_dir": true,
+    "size": null,
+    "date": "01-Oct-2023 18:33"
+  },
+  {
+    "name": "CHANGES-1.4.3",
+    "href": "CHANGES-1.4.3",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/CHANGES-1.4.3",
+    "is_dir": false,
+    "size": "56.9 KiB",
+    "date": "18-Nov-2000 22:57"
+  },
+  {
+    "name": "LAST_MINUTE",
+    "href": "LAST_MINUTE",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/LAST_MINUTE",
+    "is_dir": false,
+    "size": "2.2 KiB",
+    "date": "18-Nov-2000 22:57"
+  },
+  {
+    "name": "README.files",
+    "href": "README.files",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/README.files",
+    "is_dir": false,
+    "size": "1.2 KiB",
+    "date": "18-Nov-2000 22:59"
+  }
+]

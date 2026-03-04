@@ -1,0 +1,66 @@
+[
+  {
+    "name": "00000_boot",
+    "href": "00000_boot",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Sun/SunOS/Sun_Unix_700-0586_Jun83/00000_boot",
+    "is_dir": false,
+    "size": "18.0 KiB",
+    "date": "03-Jun-2011 21:06"
+  },
+  {
+    "name": "00001_format",
+    "href": "00001_format",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Sun/SunOS/Sun_Unix_700-0586_Jun83/00001_format",
+    "is_dir": false,
+    "size": "54.5 KiB",
+    "date": "03-Jun-2011 21:06"
+  },
+  {
+    "name": "00002_restore",
+    "href": "00002_restore",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Sun/SunOS/Sun_Unix_700-0586_Jun83/00002_restore",
+    "is_dir": false,
+    "size": "22.5 KiB",
+    "date": "03-Jun-2011 21:06"
+  },
+  {
+    "name": "00003_root",
+    "href": "00003_root",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Sun/SunOS/Sun_Unix_700-0586_Jun83/00003_root",
+    "is_dir": false,
+    "size": "2.0 MiB",
+    "date": "03-Jun-2011 21:06"
+  },
+  {
+    "name": "00004_dump_usr",
+    "href": "00004_dump_usr",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Sun/SunOS/Sun_Unix_700-0586_Jun83/00004_dump_usr",
+    "is_dir": false,
+    "size": "5.6 MiB",
+    "date": "03-Jun-2011 21:06"
+  },
+  {
+    "name": "00005.tar",
+    "href": "00005.tar",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Sun/SunOS/Sun_Unix_700-0586_Jun83/00005.tar",
+    "is_dir": false,
+    "size": "8.1 MiB",
+    "date": "03-Jun-2011 21:06"
+  },
+  {
+    "name": "00006.tar",
+    "href": "00006.tar",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Sun/SunOS/Sun_Unix_700-0586_Jun83/00006.tar",
+    "is_dir": false,
+    "size": "6.8 MiB",
+    "date": "03-Jun-2011 21:06"
+  },
+  {
+    "name": "Sun_Unix_700-0586_Jun83.tap",
+    "href": "Sun_Unix_700-0586_Jun83.tap",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Sun/SunOS/Sun_Unix_700-0586_Jun83/Sun_Unix_700-0586_Jun83.tap",
+    "is_dir": false,
+    "size": "22.5 MiB",
+    "date": "03-Jun-2011 21:07"
+  }
+]

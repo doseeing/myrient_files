@@ -1,0 +1,58 @@
+[
+  {
+    "name": "firmware",
+    "href": "firmware/",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ncr_symbios/scsi/firmware/firmware/",
+    "is_dir": true,
+    "size": null,
+    "date": "24-Feb-2026 21:06"
+  },
+  {
+    "name": "BOOTROM.TXT",
+    "href": "BOOTROM.TXT",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ncr_symbios/scsi/firmware/BOOTROM.TXT",
+    "is_dir": false,
+    "size": "36.8 KiB",
+    "date": "24-Feb-2026 21:05"
+  },
+  {
+    "name": "FLASH.TXT",
+    "href": "FLASH.TXT",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ncr_symbios/scsi/firmware/FLASH.TXT",
+    "is_dir": false,
+    "size": "6.0 KiB",
+    "date": "24-Feb-2026 21:05"
+  },
+  {
+    "name": "FLASH8X5.EXE",
+    "href": "FLASH8X5.EXE",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ncr_symbios/scsi/firmware/FLASH8X5.EXE",
+    "is_dir": false,
+    "size": "100.4 KiB",
+    "date": "24-Feb-2026 21:05"
+  },
+  {
+    "name": "SCSI_BIOS_Configuration_Utility.pdf",
+    "href": "SCSI_BIOS_Configuration_Utility.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ncr_symbios/scsi/firmware/SCSI_BIOS_Configuration_Utility.pdf",
+    "is_dir": false,
+    "size": "259.9 KiB",
+    "date": "24-Feb-2026 21:05"
+  },
+  {
+    "name": "SDMS_Host_Adapter_Flash_Utility.pdf",
+    "href": "SDMS_Host_Adapter_Flash_Utility.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ncr_symbios/scsi/firmware/SDMS_Host_Adapter_Flash_Utility.pdf",
+    "is_dir": false,
+    "size": "99.6 KiB",
+    "date": "24-Feb-2026 21:05"
+  },
+  {
+    "name": "SMDS_4.0_Users_Guide_Rev12_200109.pdf",
+    "href": "SMDS_4.0_Users_Guide_Rev12_200109.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ncr_symbios/scsi/firmware/SMDS_4.0_Users_Guide_Rev12_200109.pdf",
+    "is_dir": false,
+    "size": "921.6 KiB",
+    "date": "24-Feb-2026 21:05"
+  }
+]

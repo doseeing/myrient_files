@@ -1,0 +1,818 @@
+[
+  {
+    "name": "09581-13512_Rev-3337.zip",
+    "href": "09581-13512_Rev-3337.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_1000_software_collection/specials/09581-13512_Rev-3337.zip",
+    "is_dir": false,
+    "size": "399.1 KiB",
+    "date": "22-Dec-2011 22:08"
+  },
+  {
+    "name": "13256A_Firmware_Support_771101.zip",
+    "href": "13256A_Firmware_Support_771101.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_1000_software_collection/specials/13256A_Firmware_Support_771101.zip",
+    "is_dir": false,
+    "size": "283.7 KiB",
+    "date": "22-Dec-2011 22:08"
+  },
+  {
+    "name": "22000-10050_Rev-1738_0102.zip",
+    "href": "22000-10050_Rev-1738_0102.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_1000_software_collection/specials/22000-10050_Rev-1738_0102.zip",
+    "is_dir": false,
+    "size": "2.8 MiB",
+    "date": "22-Dec-2011 22:08"
+  },
+  {
+    "name": "22000-10050_Rev-1738_0202.zip",
+    "href": "22000-10050_Rev-1738_0202.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_1000_software_collection/specials/22000-10050_Rev-1738_0202.zip",
+    "is_dir": false,
+    "size": "1.4 MiB",
+    "date": "22-Dec-2011 22:08"
+  },
+  {
+    "name": "24998-12354_Rev-6210.zip",
+    "href": "24998-12354_Rev-6210.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_1000_software_collection/specials/24998-12354_Rev-6210.zip",
+    "is_dir": false,
+    "size": "9.4 MiB",
+    "date": "22-Dec-2011 22:08"
+  },
+  {
+    "name": "24998-13537_Rev-2429.zip",
+    "href": "24998-13537_Rev-2429.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_1000_software_collection/specials/24998-13537_Rev-2429.zip",
+    "is_dir": false,
+    "size": "415.3 KiB",
+    "date": "22-Dec-2011 22:09"
+  },
+  {
+    "name": "24998-13538_Rev-6200_0102.zip",
+    "href": "24998-13538_Rev-6200_0102.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_1000_software_collection/specials/24998-13538_Rev-6200_0102.zip",
+    "is_dir": false,
+    "size": "11.5 MiB",
+    "date": "22-Dec-2011 22:09"
+  },
+  {
+    "name": "24998-13538_Rev-6200_0202.zip",
+    "href": "24998-13538_Rev-6200_0202.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_1000_software_collection/specials/24998-13538_Rev-6200_0202.zip",
+    "is_dir": false,
+    "size": "5.5 MiB",
+    "date": "22-Dec-2011 22:09"
+  },
+  {
+    "name": "24998-13546_Rev-5020.zip",
+    "href": "24998-13546_Rev-5020.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_1000_software_collection/specials/24998-13546_Rev-5020.zip",
+    "is_dir": false,
+    "size": "5.9 MiB",
+    "date": "22-Dec-2011 22:09"
+  },
+  {
+    "name": "24998-13677_Rev-6000.zip",
+    "href": "24998-13677_Rev-6000.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_1000_software_collection/specials/24998-13677_Rev-6000.zip",
+    "is_dir": false,
+    "size": "18.4 MiB",
+    "date": "22-Dec-2011 22:09"
+  },
+  {
+    "name": "24998-13678_Rev-6000.zip",
+    "href": "24998-13678_Rev-6000.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_1000_software_collection/specials/24998-13678_Rev-6000.zip",
+    "is_dir": false,
+    "size": "21.6 MiB",
+    "date": "22-Dec-2011 22:09"
+  },
+  {
+    "name": "24998-13700_Rev-6100.zip",
+    "href": "24998-13700_Rev-6100.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_1000_software_collection/specials/24998-13700_Rev-6100.zip",
+    "is_dir": false,
+    "size": "16.7 MiB",
+    "date": "22-Dec-2011 22:09"
+  },
+  {
+    "name": "24998-13713_Rev-6200.zip",
+    "href": "24998-13713_Rev-6200.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_1000_software_collection/specials/24998-13713_Rev-6200.zip",
+    "is_dir": false,
+    "size": "16.7 MiB",
+    "date": "22-Dec-2011 22:10"
+  },
+  {
+    "name": "24998-13720_Rev-6200.zip",
+    "href": "24998-13720_Rev-6200.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_1000_software_collection/specials/24998-13720_Rev-6200.zip",
+    "is_dir": false,
+    "size": "13.5 MiB",
+    "date": "22-Dec-2011 22:10"
+  },
+  {
+    "name": "24999-10107_Rev-1940_0102.zip",
+    "href": "24999-10107_Rev-1940_0102.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_1000_software_collection/specials/24999-10107_Rev-1940_0102.zip",
+    "is_dir": false,
+    "size": "4.3 MiB",
+    "date": "22-Dec-2011 22:10"
+  },
+  {
+    "name": "24999-10107_Rev-1940_0202.zip",
+    "href": "24999-10107_Rev-1940_0202.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_1000_software_collection/specials/24999-10107_Rev-1940_0202.zip",
+    "is_dir": false,
+    "size": "2.3 MiB",
+    "date": "22-Dec-2011 22:10"
+  },
+  {
+    "name": "24999-10107_Rev-2213_0105.zip",
+    "href": "24999-10107_Rev-2213_0105.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_1000_software_collection/specials/24999-10107_Rev-2213_0105.zip",
+    "is_dir": false,
+    "size": "3.2 MiB",
+    "date": "22-Dec-2011 22:10"
+  },
+  {
+    "name": "24999-10107_Rev-2213_0205.zip",
+    "href": "24999-10107_Rev-2213_0205.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_1000_software_collection/specials/24999-10107_Rev-2213_0205.zip",
+    "is_dir": false,
+    "size": "3.0 MiB",
+    "date": "22-Dec-2011 22:10"
+  },
+  {
+    "name": "24999-10107_Rev-2213_0305.zip",
+    "href": "24999-10107_Rev-2213_0305.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_1000_software_collection/specials/24999-10107_Rev-2213_0305.zip",
+    "is_dir": false,
+    "size": "2.2 MiB",
+    "date": "22-Dec-2011 22:10"
+  },
+  {
+    "name": "24999-10107_Rev-2213_0405.zip",
+    "href": "24999-10107_Rev-2213_0405.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_1000_software_collection/specials/24999-10107_Rev-2213_0405.zip",
+    "is_dir": false,
+    "size": "3.2 MiB",
+    "date": "22-Dec-2011 22:10"
+  },
+  {
+    "name": "24999-11107_Rev-2001_0101.zip",
+    "href": "24999-11107_Rev-2001_0101.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_1000_software_collection/specials/24999-11107_Rev-2001_0101.zip",
+    "is_dir": false,
+    "size": "3.3 MiB",
+    "date": "22-Dec-2011 22:10"
+  },
+  {
+    "name": "24999-11107_Rev-2013_0101.zip",
+    "href": "24999-11107_Rev-2013_0101.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_1000_software_collection/specials/24999-11107_Rev-2013_0101.zip",
+    "is_dir": false,
+    "size": "1.8 MiB",
+    "date": "22-Dec-2011 22:10"
+  },
+  {
+    "name": "24999-11107_Rev-2026_0101.zip",
+    "href": "24999-11107_Rev-2026_0101.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_1000_software_collection/specials/24999-11107_Rev-2026_0101.zip",
+    "is_dir": false,
+    "size": "4.3 MiB",
+    "date": "22-Dec-2011 22:10"
+  },
+  {
+    "name": "24999-11107_Rev-2028_0101.zip",
+    "href": "24999-11107_Rev-2028_0101.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_1000_software_collection/specials/24999-11107_Rev-2028_0101.zip",
+    "is_dir": false,
+    "size": "2.5 MiB",
+    "date": "22-Dec-2011 22:10"
+  },
+  {
+    "name": "24999-11107_Rev-2040_0102.zip",
+    "href": "24999-11107_Rev-2040_0102.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_1000_software_collection/specials/24999-11107_Rev-2040_0102.zip",
+    "is_dir": false,
+    "size": "3.3 MiB",
+    "date": "22-Dec-2011 22:10"
+  },
+  {
+    "name": "24999-11107_Rev-2040_0202.zip",
+    "href": "24999-11107_Rev-2040_0202.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_1000_software_collection/specials/24999-11107_Rev-2040_0202.zip",
+    "is_dir": false,
+    "size": "490.1 KiB",
+    "date": "22-Dec-2011 22:10"
+  },
+  {
+    "name": "24999-11107_Rev-2101_0102.zip",
+    "href": "24999-11107_Rev-2101_0102.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_1000_software_collection/specials/24999-11107_Rev-2101_0102.zip",
+    "is_dir": false,
+    "size": "4.0 MiB",
+    "date": "22-Dec-2011 22:10"
+  },
+  {
+    "name": "24999-11107_Rev-2101_0202.zip",
+    "href": "24999-11107_Rev-2101_0202.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_1000_software_collection/specials/24999-11107_Rev-2101_0202.zip",
+    "is_dir": false,
+    "size": "778.0 KiB",
+    "date": "22-Dec-2011 22:10"
+  },
+  {
+    "name": "24999-11107_Rev-2126_0102.zip",
+    "href": "24999-11107_Rev-2126_0102.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_1000_software_collection/specials/24999-11107_Rev-2126_0102.zip",
+    "is_dir": false,
+    "size": "3.5 MiB",
+    "date": "22-Dec-2011 22:10"
+  },
+  {
+    "name": "24999-11107_Rev-2128_0102.zip",
+    "href": "24999-11107_Rev-2128_0102.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_1000_software_collection/specials/24999-11107_Rev-2128_0102.zip",
+    "is_dir": false,
+    "size": "4.3 MiB",
+    "date": "22-Dec-2011 22:10"
+  },
+  {
+    "name": "24999-11107_Rev-2128_0202.zip",
+    "href": "24999-11107_Rev-2128_0202.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_1000_software_collection/specials/24999-11107_Rev-2128_0202.zip",
+    "is_dir": false,
+    "size": "2.8 MiB",
+    "date": "22-Dec-2011 22:10"
+  },
+  {
+    "name": "24999-11107_Rev-2140_0103.zip",
+    "href": "24999-11107_Rev-2140_0103.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_1000_software_collection/specials/24999-11107_Rev-2140_0103.zip",
+    "is_dir": false,
+    "size": "3.1 MiB",
+    "date": "22-Dec-2011 22:10"
+  },
+  {
+    "name": "24999-11107_Rev-2140_0203.zip",
+    "href": "24999-11107_Rev-2140_0203.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_1000_software_collection/specials/24999-11107_Rev-2140_0203.zip",
+    "is_dir": false,
+    "size": "1.3 MiB",
+    "date": "22-Dec-2011 22:10"
+  },
+  {
+    "name": "24999-11107_Rev-2140_0303.zip",
+    "href": "24999-11107_Rev-2140_0303.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_1000_software_collection/specials/24999-11107_Rev-2140_0303.zip",
+    "is_dir": false,
+    "size": "2.4 MiB",
+    "date": "22-Dec-2011 22:11"
+  },
+  {
+    "name": "24999-13389_Rev-2526.zip",
+    "href": "24999-13389_Rev-2526.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_1000_software_collection/specials/24999-13389_Rev-2526.zip",
+    "is_dir": false,
+    "size": "803.8 KiB",
+    "date": "22-Dec-2011 22:11"
+  },
+  {
+    "name": "24999-13390_Rev-2540.zip",
+    "href": "24999-13390_Rev-2540.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_1000_software_collection/specials/24999-13390_Rev-2540.zip",
+    "is_dir": false,
+    "size": "13.7 MiB",
+    "date": "22-Dec-2011 22:11"
+  },
+  {
+    "name": "24999-13391_Rev-5010.zip",
+    "href": "24999-13391_Rev-5010.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_1000_software_collection/specials/24999-13391_Rev-5010.zip",
+    "is_dir": false,
+    "size": "1.4 MiB",
+    "date": "22-Dec-2011 22:11"
+  },
+  {
+    "name": "24999-13391_Rev-5020.zip",
+    "href": "24999-13391_Rev-5020.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_1000_software_collection/specials/24999-13391_Rev-5020.zip",
+    "is_dir": false,
+    "size": "10.0 MiB",
+    "date": "22-Dec-2011 22:11"
+  },
+  {
+    "name": "24999-13538_Rev-5010.zip",
+    "href": "24999-13538_Rev-5010.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_1000_software_collection/specials/24999-13538_Rev-5010.zip",
+    "is_dir": false,
+    "size": "12.9 MiB",
+    "date": "22-Dec-2011 22:11"
+  },
+  {
+    "name": "24999-13538_Rev-5270.zip",
+    "href": "24999-13538_Rev-5270.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_1000_software_collection/specials/24999-13538_Rev-5270.zip",
+    "is_dir": false,
+    "size": "8.9 MiB",
+    "date": "22-Dec-2011 22:11"
+  },
+  {
+    "name": "24999-13538_Rev-6000_0102.zip",
+    "href": "24999-13538_Rev-6000_0102.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_1000_software_collection/specials/24999-13538_Rev-6000_0102.zip",
+    "is_dir": false,
+    "size": "12.5 MiB",
+    "date": "22-Dec-2011 22:11"
+  },
+  {
+    "name": "24999-13538_Rev-6000_0202.zip",
+    "href": "24999-13538_Rev-6000_0202.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_1000_software_collection/specials/24999-13538_Rev-6000_0202.zip",
+    "is_dir": false,
+    "size": "6.2 MiB",
+    "date": "22-Dec-2011 22:11"
+  },
+  {
+    "name": "24999-13538_Rev-6100_0102.zip",
+    "href": "24999-13538_Rev-6100_0102.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_1000_software_collection/specials/24999-13538_Rev-6100_0102.zip",
+    "is_dir": false,
+    "size": "11.9 MiB",
+    "date": "22-Dec-2011 22:11"
+  },
+  {
+    "name": "24999-13538_Rev-6100_0202.zip",
+    "href": "24999-13538_Rev-6100_0202.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_1000_software_collection/specials/24999-13538_Rev-6100_0202.zip",
+    "is_dir": false,
+    "size": "5.1 MiB",
+    "date": "22-Dec-2011 22:11"
+  },
+  {
+    "name": "24999-13538_Rev-6210.zip",
+    "href": "24999-13538_Rev-6210.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_1000_software_collection/specials/24999-13538_Rev-6210.zip",
+    "is_dir": false,
+    "size": "9.4 MiB",
+    "date": "22-Dec-2011 22:12"
+  },
+  {
+    "name": "24999-13539_Rev-5010_0103.zip",
+    "href": "24999-13539_Rev-5010_0103.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_1000_software_collection/specials/24999-13539_Rev-5010_0103.zip",
+    "is_dir": false,
+    "size": "9.0 MiB",
+    "date": "22-Dec-2011 22:12"
+  },
+  {
+    "name": "24999-13539_Rev-5010_0203.zip",
+    "href": "24999-13539_Rev-5010_0203.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_1000_software_collection/specials/24999-13539_Rev-5010_0203.zip",
+    "is_dir": false,
+    "size": "9.2 MiB",
+    "date": "22-Dec-2011 22:12"
+  },
+  {
+    "name": "24999-13539_Rev-5010_0303.zip",
+    "href": "24999-13539_Rev-5010_0303.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_1000_software_collection/specials/24999-13539_Rev-5010_0303.zip",
+    "is_dir": false,
+    "size": "1.4 MiB",
+    "date": "22-Dec-2011 22:12"
+  },
+  {
+    "name": "24999-13539_Rev-5020_0102.zip",
+    "href": "24999-13539_Rev-5020_0102.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_1000_software_collection/specials/24999-13539_Rev-5020_0102.zip",
+    "is_dir": false,
+    "size": "10.0 MiB",
+    "date": "22-Dec-2011 22:12"
+  },
+  {
+    "name": "24999-13539_Rev-5020_0202.zip",
+    "href": "24999-13539_Rev-5020_0202.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_1000_software_collection/specials/24999-13539_Rev-5020_0202.zip",
+    "is_dir": false,
+    "size": "9.5 MiB",
+    "date": "22-Dec-2011 22:12"
+  },
+  {
+    "name": "24999-13539_Rev-5270_0102.zip",
+    "href": "24999-13539_Rev-5270_0102.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_1000_software_collection/specials/24999-13539_Rev-5270_0102.zip",
+    "is_dir": false,
+    "size": "7.6 MiB",
+    "date": "22-Dec-2011 22:12"
+  },
+  {
+    "name": "24999-13539_Rev-5270_0202.zip",
+    "href": "24999-13539_Rev-5270_0202.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_1000_software_collection/specials/24999-13539_Rev-5270_0202.zip",
+    "is_dir": false,
+    "size": "10.4 MiB",
+    "date": "22-Dec-2011 22:12"
+  },
+  {
+    "name": "24999-13539_Rev-6000_0103.zip",
+    "href": "24999-13539_Rev-6000_0103.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_1000_software_collection/specials/24999-13539_Rev-6000_0103.zip",
+    "is_dir": false,
+    "size": "6.7 MiB",
+    "date": "22-Dec-2011 22:12"
+  },
+  {
+    "name": "24999-13539_Rev-6000_0203.zip",
+    "href": "24999-13539_Rev-6000_0203.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_1000_software_collection/specials/24999-13539_Rev-6000_0203.zip",
+    "is_dir": false,
+    "size": "8.3 MiB",
+    "date": "22-Dec-2011 22:12"
+  },
+  {
+    "name": "24999-13539_Rev-6000_0303.zip",
+    "href": "24999-13539_Rev-6000_0303.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_1000_software_collection/specials/24999-13539_Rev-6000_0303.zip",
+    "is_dir": false,
+    "size": "6.7 MiB",
+    "date": "22-Dec-2011 22:12"
+  },
+  {
+    "name": "24999-13539_Rev-6100_0103.zip",
+    "href": "24999-13539_Rev-6100_0103.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_1000_software_collection/specials/24999-13539_Rev-6100_0103.zip",
+    "is_dir": false,
+    "size": "9.4 MiB",
+    "date": "22-Dec-2011 22:13"
+  },
+  {
+    "name": "24999-13539_Rev-6100_0203.zip",
+    "href": "24999-13539_Rev-6100_0203.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_1000_software_collection/specials/24999-13539_Rev-6100_0203.zip",
+    "is_dir": false,
+    "size": "8.7 MiB",
+    "date": "22-Dec-2011 22:13"
+  },
+  {
+    "name": "24999-13539_Rev-6100_0303.zip",
+    "href": "24999-13539_Rev-6100_0303.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_1000_software_collection/specials/24999-13539_Rev-6100_0303.zip",
+    "is_dir": false,
+    "size": "7.5 MiB",
+    "date": "22-Dec-2011 22:13"
+  },
+  {
+    "name": "24999-13539_Rev-6210_0102.zip",
+    "href": "24999-13539_Rev-6210_0102.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_1000_software_collection/specials/24999-13539_Rev-6210_0102.zip",
+    "is_dir": false,
+    "size": "9.6 MiB",
+    "date": "22-Dec-2011 22:13"
+  },
+  {
+    "name": "24999-13539_Rev-6210_0202.zip",
+    "href": "24999-13539_Rev-6210_0202.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_1000_software_collection/specials/24999-13539_Rev-6210_0202.zip",
+    "is_dir": false,
+    "size": "5.2 MiB",
+    "date": "22-Dec-2011 22:13"
+  },
+  {
+    "name": "2645-Microcode.zip",
+    "href": "2645-Microcode.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_1000_software_collection/specials/2645-Microcode.zip",
+    "is_dir": false,
+    "size": "301.5 KiB",
+    "date": "22-Dec-2011 22:13"
+  },
+  {
+    "name": "92076AX_Rev-2001.zip",
+    "href": "92076AX_Rev-2001.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_1000_software_collection/specials/92076AX_Rev-2001.zip",
+    "is_dir": false,
+    "size": "3.6 MiB",
+    "date": "22-Dec-2011 22:13"
+  },
+  {
+    "name": "92077A-92836A_Rev-2340.zip",
+    "href": "92077A-92836A_Rev-2340.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_1000_software_collection/specials/92077A-92836A_Rev-2340.zip",
+    "is_dir": false,
+    "size": "2.0 MiB",
+    "date": "22-Dec-2011 22:13"
+  },
+  {
+    "name": "A700-PAL-PROM-Data.zip",
+    "href": "A700-PAL-PROM-Data.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_1000_software_collection/specials/A700-PAL-PROM-Data.zip",
+    "is_dir": false,
+    "size": "2.0 MiB",
+    "date": "22-Dec-2011 22:13"
+  },
+  {
+    "name": "CCS-C-1000-Reference-Manuals.zip",
+    "href": "CCS-C-1000-Reference-Manuals.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_1000_software_collection/specials/CCS-C-1000-Reference-Manuals.zip",
+    "is_dir": false,
+    "size": "411.2 KiB",
+    "date": "22-Dec-2011 22:13"
+  },
+  {
+    "name": "CCS-C-1000_Rev-3.2.02.zip",
+    "href": "CCS-C-1000_Rev-3.2.02.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_1000_software_collection/specials/CCS-C-1000_Rev-3.2.02.zip",
+    "is_dir": false,
+    "size": "1.1 MiB",
+    "date": "22-Dec-2011 22:13"
+  },
+  {
+    "name": "CCS-C-1000_Rev-3.3.06.zip",
+    "href": "CCS-C-1000_Rev-3.3.06.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_1000_software_collection/specials/CCS-C-1000_Rev-3.3.06.zip",
+    "is_dir": false,
+    "size": "871.3 KiB",
+    "date": "22-Dec-2011 22:13"
+  },
+  {
+    "name": "CCS-C-1000_Rev-3.3.08.zip",
+    "href": "CCS-C-1000_Rev-3.3.08.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_1000_software_collection/specials/CCS-C-1000_Rev-3.3.08.zip",
+    "is_dir": false,
+    "size": "874.3 KiB",
+    "date": "22-Dec-2011 22:13"
+  },
+  {
+    "name": "CSL-1000-San-Jose-Swap.zip",
+    "href": "CSL-1000-San-Jose-Swap.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_1000_software_collection/specials/CSL-1000-San-Jose-Swap.zip",
+    "is_dir": false,
+    "size": "2.0 MiB",
+    "date": "22-Dec-2011 22:13"
+  },
+  {
+    "name": "CSL-1000_Rev-2001_0202.zip",
+    "href": "CSL-1000_Rev-2001_0202.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_1000_software_collection/specials/CSL-1000_Rev-2001_0202.zip",
+    "is_dir": false,
+    "size": "1.6 MiB",
+    "date": "22-Dec-2011 22:13"
+  },
+  {
+    "name": "CSL-1000_Rev-2101.zip",
+    "href": "CSL-1000_Rev-2101.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_1000_software_collection/specials/CSL-1000_Rev-2101.zip",
+    "is_dir": false,
+    "size": "1.5 MiB",
+    "date": "22-Dec-2011 22:13"
+  },
+  {
+    "name": "CSL-1000_Rev-2213.zip",
+    "href": "CSL-1000_Rev-2213.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_1000_software_collection/specials/CSL-1000_Rev-2213.zip",
+    "is_dir": false,
+    "size": "1.3 MiB",
+    "date": "22-Dec-2011 22:13"
+  },
+  {
+    "name": "CSL-1000_Rev-2240.zip",
+    "href": "CSL-1000_Rev-2240.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_1000_software_collection/specials/CSL-1000_Rev-2240.zip",
+    "is_dir": false,
+    "size": "1.5 MiB",
+    "date": "22-Dec-2011 22:13"
+  },
+  {
+    "name": "CSL-1000_Rev-2340.zip",
+    "href": "CSL-1000_Rev-2340.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_1000_software_collection/specials/CSL-1000_Rev-2340.zip",
+    "is_dir": false,
+    "size": "3.6 MiB",
+    "date": "22-Dec-2011 22:13"
+  },
+  {
+    "name": "CSL-1000_Rev-2433.zip",
+    "href": "CSL-1000_Rev-2433.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_1000_software_collection/specials/CSL-1000_Rev-2433.zip",
+    "is_dir": false,
+    "size": "4.0 MiB",
+    "date": "22-Dec-2011 22:13"
+  },
+  {
+    "name": "CSL-1000_Rev-2533.zip",
+    "href": "CSL-1000_Rev-2533.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_1000_software_collection/specials/CSL-1000_Rev-2533.zip",
+    "is_dir": false,
+    "size": "3.7 MiB",
+    "date": "22-Dec-2011 22:13"
+  },
+  {
+    "name": "CSL-1000_Rev-2830.zip",
+    "href": "CSL-1000_Rev-2830.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_1000_software_collection/specials/CSL-1000_Rev-2830.zip",
+    "is_dir": false,
+    "size": "6.8 MiB",
+    "date": "22-Dec-2011 22:14"
+  },
+  {
+    "name": "CSL-1000_Rev-3635.zip",
+    "href": "CSL-1000_Rev-3635.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_1000_software_collection/specials/CSL-1000_Rev-3635.zip",
+    "is_dir": false,
+    "size": "447.2 KiB",
+    "date": "22-Dec-2011 22:14"
+  },
+  {
+    "name": "CSL-1000_Startup-Tape.zip",
+    "href": "CSL-1000_Startup-Tape.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_1000_software_collection/specials/CSL-1000_Startup-Tape.zip",
+    "is_dir": false,
+    "size": "1.5 MiB",
+    "date": "22-Dec-2011 22:14"
+  },
+  {
+    "name": "DOS-III-Source_0203.zip",
+    "href": "DOS-III-Source_0203.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_1000_software_collection/specials/DOS-III-Source_0203.zip",
+    "is_dir": false,
+    "size": "264.9 KiB",
+    "date": "22-Dec-2011 22:14"
+  },
+  {
+    "name": "DOS-III-Source_0303.zip",
+    "href": "DOS-III-Source_0303.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_1000_software_collection/specials/DOS-III-Source_0303.zip",
+    "is_dir": false,
+    "size": "123.4 KiB",
+    "date": "22-Dec-2011 22:14"
+  },
+  {
+    "name": "DSD-Binary-Root_Rev-1840_0102.zip",
+    "href": "DSD-Binary-Root_Rev-1840_0102.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_1000_software_collection/specials/DSD-Binary-Root_Rev-1840_0102.zip",
+    "is_dir": false,
+    "size": "3.8 MiB",
+    "date": "22-Dec-2011 22:14"
+  },
+  {
+    "name": "DSD-Binary-Root_Rev-1840_0202.zip",
+    "href": "DSD-Binary-Root_Rev-1840_0202.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_1000_software_collection/specials/DSD-Binary-Root_Rev-1840_0202.zip",
+    "is_dir": false,
+    "size": "340.1 KiB",
+    "date": "22-Dec-2011 22:14"
+  },
+  {
+    "name": "DSD-Binary-Root_Rev-2026_0101.zip",
+    "href": "DSD-Binary-Root_Rev-2026_0101.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_1000_software_collection/specials/DSD-Binary-Root_Rev-2026_0101.zip",
+    "is_dir": false,
+    "size": "4.4 MiB",
+    "date": "22-Dec-2011 22:14"
+  },
+  {
+    "name": "DSD-Source-Root_Rev-1840_0105.zip",
+    "href": "DSD-Source-Root_Rev-1840_0105.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_1000_software_collection/specials/DSD-Source-Root_Rev-1840_0105.zip",
+    "is_dir": false,
+    "size": "2.8 MiB",
+    "date": "22-Dec-2011 22:14"
+  },
+  {
+    "name": "DSD-Source-Root_Rev-1840_0205.zip",
+    "href": "DSD-Source-Root_Rev-1840_0205.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_1000_software_collection/specials/DSD-Source-Root_Rev-1840_0205.zip",
+    "is_dir": false,
+    "size": "2.8 MiB",
+    "date": "22-Dec-2011 22:14"
+  },
+  {
+    "name": "DSD-Source-Root_Rev-1840_0305.zip",
+    "href": "DSD-Source-Root_Rev-1840_0305.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_1000_software_collection/specials/DSD-Source-Root_Rev-1840_0305.zip",
+    "is_dir": false,
+    "size": "2.7 MiB",
+    "date": "22-Dec-2011 22:14"
+  },
+  {
+    "name": "DSD-Source-Root_Rev-1840_0405.zip",
+    "href": "DSD-Source-Root_Rev-1840_0405.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_1000_software_collection/specials/DSD-Source-Root_Rev-1840_0405.zip",
+    "is_dir": false,
+    "size": "2.7 MiB",
+    "date": "22-Dec-2011 22:14"
+  },
+  {
+    "name": "DSD-Source-Root_Rev-1840_0505.zip",
+    "href": "DSD-Source-Root_Rev-1840_0505.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_1000_software_collection/specials/DSD-Source-Root_Rev-1840_0505.zip",
+    "is_dir": false,
+    "size": "399.5 KiB",
+    "date": "22-Dec-2011 22:14"
+  },
+  {
+    "name": "DSD-Source-Root_Rev-2040_0107.zip",
+    "href": "DSD-Source-Root_Rev-2040_0107.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_1000_software_collection/specials/DSD-Source-Root_Rev-2040_0107.zip",
+    "is_dir": false,
+    "size": "2.5 MiB",
+    "date": "22-Dec-2011 22:14"
+  },
+  {
+    "name": "DSD-Source-Root_Rev-2040_0207.zip",
+    "href": "DSD-Source-Root_Rev-2040_0207.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_1000_software_collection/specials/DSD-Source-Root_Rev-2040_0207.zip",
+    "is_dir": false,
+    "size": "2.6 MiB",
+    "date": "22-Dec-2011 22:14"
+  },
+  {
+    "name": "DSD-Source-Root_Rev-2040_0307.zip",
+    "href": "DSD-Source-Root_Rev-2040_0307.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_1000_software_collection/specials/DSD-Source-Root_Rev-2040_0307.zip",
+    "is_dir": false,
+    "size": "2.7 MiB",
+    "date": "22-Dec-2011 22:14"
+  },
+  {
+    "name": "DSD-Source-Root_Rev-2040_0407.zip",
+    "href": "DSD-Source-Root_Rev-2040_0407.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_1000_software_collection/specials/DSD-Source-Root_Rev-2040_0407.zip",
+    "is_dir": false,
+    "size": "3.1 MiB",
+    "date": "22-Dec-2011 22:14"
+  },
+  {
+    "name": "DSD-Source-Root_Rev-2040_0507.zip",
+    "href": "DSD-Source-Root_Rev-2040_0507.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_1000_software_collection/specials/DSD-Source-Root_Rev-2040_0507.zip",
+    "is_dir": false,
+    "size": "2.6 MiB",
+    "date": "22-Dec-2011 22:14"
+  },
+  {
+    "name": "DSD-Source-Root_Rev-2040_0607.zip",
+    "href": "DSD-Source-Root_Rev-2040_0607.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_1000_software_collection/specials/DSD-Source-Root_Rev-2040_0607.zip",
+    "is_dir": false,
+    "size": "2.3 MiB",
+    "date": "22-Dec-2011 22:14"
+  },
+  {
+    "name": "DSD-Source-Root_Rev-2040_0707.zip",
+    "href": "DSD-Source-Root_Rev-2040_0707.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_1000_software_collection/specials/DSD-Source-Root_Rev-2040_0707.zip",
+    "is_dir": false,
+    "size": "858.2 KiB",
+    "date": "22-Dec-2011 22:14"
+  },
+  {
+    "name": "E-F-Series-DMI-FFP-Microcode.zip",
+    "href": "E-F-Series-DMI-FFP-Microcode.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_1000_software_collection/specials/E-F-Series-DMI-FFP-Microcode.zip",
+    "is_dir": false,
+    "size": "44.3 KiB",
+    "date": "22-Dec-2011 22:14"
+  },
+  {
+    "name": "GRAFIT_Rev-3.zip",
+    "href": "GRAFIT_Rev-3.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_1000_software_collection/specials/GRAFIT_Rev-3.zip",
+    "is_dir": false,
+    "size": "1.5 MiB",
+    "date": "22-Dec-2011 22:14"
+  },
+  {
+    "name": "PLUS-1000_Rev-2001.zip",
+    "href": "PLUS-1000_Rev-2001.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_1000_software_collection/specials/PLUS-1000_Rev-2001.zip",
+    "is_dir": false,
+    "size": "1.6 MiB",
+    "date": "22-Dec-2011 22:14"
+  },
+  {
+    "name": "Track-Map-Editor.zip",
+    "href": "Track-Map-Editor.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_1000_software_collection/specials/Track-Map-Editor.zip",
+    "is_dir": false,
+    "size": "4.3 MiB",
+    "date": "22-Dec-2011 22:14"
+  },
+  {
+    "name": "index.html",
+    "href": "index.html",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_1000_software_collection/specials/index.html",
+    "is_dir": false,
+    "size": "14.6 KiB",
+    "date": "22-Dec-2011 22:14"
+  },
+  {
+    "name": "weeklyandpatches_4q87.zip",
+    "href": "weeklyandpatches_4q87.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_1000_software_collection/specials/weeklyandpatches_4q87.zip",
+    "is_dir": false,
+    "size": "2.7 MiB",
+    "date": "22-Dec-2011 22:14"
+  }
+]

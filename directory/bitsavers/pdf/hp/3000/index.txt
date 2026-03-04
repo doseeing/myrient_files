@@ -1,0 +1,34 @@
+name	is_dir	size	date
+ccp	True	-	14-Jul-2021 10:33
+ce_handbooks	True	-	13-Aug-2013 18:23
+configurationGuide	True	-	06-Apr-2011 14:02
+cs3000	True	-	13-Aug-2013 18:11
+ddn	True	-	14-Jul-2021 10:50
+diagnostics	True	-	06-Oct-2025 21:46
+disc	True	-	07-Aug-2005 07:03
+ds3000	True	-	13-Aug-2013 18:10
+hp3000	True	-	19-Jul-2024 14:14
+instrSet	True	-	23-Jul-2025 00:05
+interfaces	True	-	02-Feb-2022 19:58
+lan3000	True	-	13-Aug-2013 18:12
+mpeII	True	-	23-Aug-2020 20:21
+mpeIII	True	-	07-Apr-2010 17:06
+mpeIV	True	-	24-Apr-2025 22:30
+mpeV	True	-	25-Apr-2025 20:26
+ns3000	True	-	14-Jul-2021 20:01
+procmon	True	-	14-Jul-2021 10:48
+schems	True	-	20-Jul-2024 21:32
+series30	True	-	07-Aug-2005 07:04
+series37	True	-	06-Apr-2011 18:21
+series40	True	-	13-Aug-2013 18:22
+series50	True	-	13-Aug-2013 18:21
+series60	True	-	13-Aug-2013 18:22
+seriesII	True	-	13-Aug-2013 18:20
+seriesIII	True	-	13-Aug-2013 18:21
+spl	True	-	25-Apr-2025 00:53
+training	True	-	14-Jul-2021 10:44
+5953-7583_HP3000_Computer_Systems_General_Information_Manual_198410.pdf	False	23.3 MiB	07-Sep-2022 21:48
+HP_3000_Genealogy.txt	False	3.0 KiB	08-Aug-2005 00:08
+HP_3000_Manuals.txt	False	1.6 KiB	23-Feb-2004 03:24
+HP_3000_Performance.txt	False	18.5 KiB	06-Aug-2005 16:28
+Hawker_-_A_History_of_the_Pre-CX_3000_198603.pdf	False	1.0 MiB	10-Sep-2025 14:08

@@ -1,0 +1,50 @@
+[
+  {
+    "name": "firmware",
+    "href": "firmware/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/5394/firmware/",
+    "is_dir": true,
+    "size": null,
+    "date": "25-Apr-2023 15:59"
+  },
+  {
+    "name": "pictures",
+    "href": "pictures/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/5394/pictures/",
+    "is_dir": true,
+    "size": null,
+    "date": "25-Apr-2023 15:58"
+  },
+  {
+    "name": "GA27-3852-01_5394_Remote_Control_Unit_Users_Guide_Sep1990.pdf",
+    "href": "GA27-3852-01_5394_Remote_Control_Unit_Users_Guide_Sep1990.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/5394/GA27-3852-01_5394_Remote_Control_Unit_Users_Guide_Sep1990.pdf",
+    "is_dir": false,
+    "size": "12.3 MiB",
+    "date": "24-Dec-2018 01:28"
+  },
+  {
+    "name": "SA27-3848-00_5394_Remote_Control_Unit_V.35_Supplement_198902.pdf",
+    "href": "SA27-3848-00_5394_Remote_Control_Unit_V.35_Supplement_198902.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/5394/SA27-3848-00_5394_Remote_Control_Unit_V.35_Supplement_198902.pdf",
+    "is_dir": false,
+    "size": "2.3 MiB",
+    "date": "30-Aug-2023 03:38"
+  },
+  {
+    "name": "SK2T-0316-02_5394_Remote_Control_Unit_Introduction_and_Installation_Planning_Guide_Sep1989.pdf",
+    "href": "SK2T-0316-02_5394_Remote_Control_Unit_Introduction_and_Installation_Planning_Guide_Sep1989.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/5394/SK2T-0316-02_5394_Remote_Control_Unit_Introduction_and_Installation_Planning_Guide_Sep1989.pdf",
+    "is_dir": false,
+    "size": "5.4 MiB",
+    "date": "24-Dec-2018 01:28"
+  },
+  {
+    "name": "SY27-0311-01_5394_Remote_Control_Unit_Maintenance_Oct89.pdf",
+    "href": "SY27-0311-01_5394_Remote_Control_Unit_Maintenance_Oct89.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/5394/SY27-0311-01_5394_Remote_Control_Unit_Maintenance_Oct89.pdf",
+    "is_dir": false,
+    "size": "14.9 MiB",
+    "date": "30-Dec-2012 14:31"
+  }
+]

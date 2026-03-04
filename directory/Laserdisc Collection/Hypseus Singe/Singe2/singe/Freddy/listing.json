@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Video",
+    "href": "Video/",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe/Singe2/singe/Freddy/Video/",
+    "is_dir": true,
+    "size": null,
+    "date": "01-Dec-2025 17:55"
+  },
+  {
+    "name": "Freddy.txt",
+    "href": "Freddy.txt",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe/Singe2/singe/Freddy/Freddy.txt",
+    "is_dir": false,
+    "size": "22 B",
+    "date": "01-Dec-2025 17:55"
+  },
+  {
+    "name": "Freddy.zip",
+    "href": "Freddy.zip",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe/Singe2/singe/Freddy/Freddy.zip",
+    "is_dir": false,
+    "size": "3.7 MiB",
+    "date": "01-Dec-2025 17:55"
+  }
+]

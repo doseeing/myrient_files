@@ -1,0 +1,258 @@
+[
+  {
+    "name": "590031_2mb_two-port_memory",
+    "href": "590031_2mb_two-port_memory/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/isi/vme/590031_2mb_two-port_memory/",
+    "is_dir": true,
+    "size": null,
+    "date": "08-Apr-2022 02:01"
+  },
+  {
+    "name": "brochures",
+    "href": "brochures/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/isi/vme/brochures/",
+    "is_dir": true,
+    "size": null,
+    "date": "10-Jan-2026 06:47"
+  },
+  {
+    "name": "firmware",
+    "href": "firmware/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/isi/vme/firmware/",
+    "is_dir": true,
+    "size": null,
+    "date": "25-Mar-2022 20:15"
+  },
+  {
+    "name": "monochrome_monitor",
+    "href": "monochrome_monitor/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/isi/vme/monochrome_monitor/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Dec-2021 01:06"
+  },
+  {
+    "name": "pictures",
+    "href": "pictures/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/isi/vme/pictures/",
+    "is_dir": true,
+    "size": null,
+    "date": "27-Dec-2021 02:05"
+  },
+  {
+    "name": "490001C_VME-ICP16_8_Intelligent_Communications_Processor_HW_Ref_May86.pdf",
+    "href": "490001C_VME-ICP16_8_Intelligent_Communications_Processor_HW_Ref_May86.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/isi/vme/490001C_VME-ICP16_8_Intelligent_Communications_Processor_HW_Ref_May86.pdf",
+    "is_dir": false,
+    "size": "1.8 MiB",
+    "date": "05-Jun-2016 03:59"
+  },
+  {
+    "name": "490003A_VME-TC50_Tape_Controller_HW_Ref_Sep85.pdf",
+    "href": "490003A_VME-TC50_Tape_Controller_HW_Ref_Sep85.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/isi/vme/490003A_VME-TC50_Tape_Controller_HW_Ref_Sep85.pdf",
+    "is_dir": false,
+    "size": "3.6 MiB",
+    "date": "05-Jun-2016 03:59"
+  },
+  {
+    "name": "490005B_VME-QIC2_R_Specifcation_Configuration_Summary.pdf",
+    "href": "490005B_VME-QIC2_R_Specifcation_Configuration_Summary.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/isi/vme/490005B_VME-QIC2_R_Specifcation_Configuration_Summary.pdf",
+    "is_dir": false,
+    "size": "457.3 KiB",
+    "date": "05-Jun-2016 03:59"
+  },
+  {
+    "name": "490007B_Optimum_V8_System_Workstation_Installation_Manual_198601.pdf",
+    "href": "490007B_Optimum_V8_System_Workstation_Installation_Manual_198601.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/isi/vme/490007B_Optimum_V8_System_Workstation_Installation_Manual_198601.pdf",
+    "is_dir": false,
+    "size": "2.9 MiB",
+    "date": "11-Jan-2026 00:59"
+  },
+  {
+    "name": "490022C_VME-SCSI_Host_Adapter_HW_Ref_Aug85.pdf",
+    "href": "490022C_VME-SCSI_Host_Adapter_HW_Ref_Aug85.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/isi/vme/490022C_VME-SCSI_Host_Adapter_HW_Ref_Aug85.pdf",
+    "is_dir": false,
+    "size": "2.0 MiB",
+    "date": "05-Jun-2016 03:59"
+  },
+  {
+    "name": "490025B_Monochrome_VME-Graphics_Subsystem_HW_Ref_Oct85.pdf",
+    "href": "490025B_Monochrome_VME-Graphics_Subsystem_HW_Ref_Oct85.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/isi/vme/490025B_Monochrome_VME-Graphics_Subsystem_HW_Ref_Oct85.pdf",
+    "is_dir": false,
+    "size": "1.8 MiB",
+    "date": "05-Jun-2016 03:59"
+  },
+  {
+    "name": "490055B_VME-QIC2_X_Cartridge_Tape_Controller_HW_Ref_Nov86.pdf",
+    "href": "490055B_VME-QIC2_X_Cartridge_Tape_Controller_HW_Ref_Nov86.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/isi/vme/490055B_VME-QIC2_X_Cartridge_Tape_Controller_HW_Ref_Nov86.pdf",
+    "is_dir": false,
+    "size": "3.2 MiB",
+    "date": "05-Jun-2016 04:00"
+  },
+  {
+    "name": "490103A_VME-68K20_HW_Ref_Preliminary_Jan86.pdf",
+    "href": "490103A_VME-68K20_HW_Ref_Preliminary_Jan86.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/isi/vme/490103A_VME-68K20_HW_Ref_Preliminary_Jan86.pdf",
+    "is_dir": false,
+    "size": "4.2 MiB",
+    "date": "05-Jun-2016 04:00"
+  },
+  {
+    "name": "490124A_VME_MWS_Hardware_Manual_Mar87.pdf",
+    "href": "490124A_VME_MWS_Hardware_Manual_Mar87.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/isi/vme/490124A_VME_MWS_Hardware_Manual_Mar87.pdf",
+    "is_dir": false,
+    "size": "1.2 MiB",
+    "date": "05-Jun-2016 04:00"
+  },
+  {
+    "name": "490154A_VME-HSMEM-8_4_High-Speed_Memory_Board_HW_Ref_Mar87.pdf",
+    "href": "490154A_VME-HSMEM-8_4_High-Speed_Memory_Board_HW_Ref_Mar87.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/isi/vme/490154A_VME-HSMEM-8_4_High-Speed_Memory_Board_HW_Ref_Mar87.pdf",
+    "is_dir": false,
+    "size": "1.4 MiB",
+    "date": "05-Jun-2016 04:00"
+  },
+  {
+    "name": "490156A_VME-ICP16_X_Intelligent_Communications_Processor_HW_Ref_May87.pdf",
+    "href": "490156A_VME-ICP16_X_Intelligent_Communications_Processor_HW_Ref_May87.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/isi/vme/490156A_VME-ICP16_X_Intelligent_Communications_Processor_HW_Ref_May87.pdf",
+    "is_dir": false,
+    "size": "2.8 MiB",
+    "date": "05-Jun-2016 04:00"
+  },
+  {
+    "name": "490162A_VME-HSMEM_HW_Ref_2MB_Apr87.pdf",
+    "href": "490162A_VME-HSMEM_HW_Ref_2MB_Apr87.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/isi/vme/490162A_VME-HSMEM_HW_Ref_2MB_Apr87.pdf",
+    "is_dir": false,
+    "size": "931.2 KiB",
+    "date": "05-Jun-2016 04:00"
+  },
+  {
+    "name": "490221A_VME-HSMEM-9_4-16_24_High_Speed_Memory_Board_HW_Ref_Manual_198804.pdf",
+    "href": "490221A_VME-HSMEM-9_4-16_24_High_Speed_Memory_Board_HW_Ref_Manual_198804.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/isi/vme/490221A_VME-HSMEM-9_4-16_24_High_Speed_Memory_Board_HW_Ref_Manual_198804.pdf",
+    "is_dir": false,
+    "size": "1.8 MiB",
+    "date": "11-Jan-2026 00:45"
+  },
+  {
+    "name": "490247A_VME-68K30_Hardware_Reference_Manual_198811.pdf",
+    "href": "490247A_VME-68K30_Hardware_Reference_Manual_198811.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/isi/vme/490247A_VME-68K30_Hardware_Reference_Manual_198811.pdf",
+    "is_dir": false,
+    "size": "5.5 MiB",
+    "date": "10-Jan-2026 06:46"
+  },
+  {
+    "name": "490292A_UNIX_Compiler_Manual_C_Pascal_FORTRAN_77_198904.pdf",
+    "href": "490292A_UNIX_Compiler_Manual_C_Pascal_FORTRAN_77_198904.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/isi/vme/490292A_UNIX_Compiler_Manual_C_Pascal_FORTRAN_77_198904.pdf",
+    "is_dir": false,
+    "size": "5.7 MiB",
+    "date": "11-Jan-2026 01:06"
+  },
+  {
+    "name": "520018_icp16_schem.pdf",
+    "href": "520018_icp16_schem.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/isi/vme/520018_icp16_schem.pdf",
+    "is_dir": false,
+    "size": "990.3 KiB",
+    "date": "26-Nov-2021 15:54"
+  },
+  {
+    "name": "520049_VME-QIC2_Rev_B_Schematic_198504.pdf",
+    "href": "520049_VME-QIC2_Rev_B_Schematic_198504.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/isi/vme/520049_VME-QIC2_Rev_B_Schematic_198504.pdf",
+    "is_dir": false,
+    "size": "1.3 MiB",
+    "date": "11-Jan-2026 00:35"
+  },
+  {
+    "name": "520062_ICP8_Breakout_198607.pdf",
+    "href": "520062_ICP8_Breakout_198607.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/isi/vme/520062_ICP8_Breakout_198607.pdf",
+    "is_dir": false,
+    "size": "335.0 KiB",
+    "date": "11-Jan-2026 00:34"
+  },
+  {
+    "name": "520063_VME_Ethernet_Card_Schematic_Rev_B.pdf",
+    "href": "520063_VME_Ethernet_Card_Schematic_Rev_B.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/isi/vme/520063_VME_Ethernet_Card_Schematic_Rev_B.pdf",
+    "is_dir": false,
+    "size": "2.1 MiB",
+    "date": "11-Jan-2026 00:35"
+  },
+  {
+    "name": "520063_en_schem.pdf",
+    "href": "520063_en_schem.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/isi/vme/520063_en_schem.pdf",
+    "is_dir": false,
+    "size": "1.5 MiB",
+    "date": "26-Nov-2021 15:54"
+  },
+  {
+    "name": "520064_VME_8Mb_Memory_Schematic.pdf",
+    "href": "520064_VME_8Mb_Memory_Schematic.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/isi/vme/520064_VME_8Mb_Memory_Schematic.pdf",
+    "is_dir": false,
+    "size": "22.9 MiB",
+    "date": "11-Jan-2026 00:35"
+  },
+  {
+    "name": "580054_mws_schem.pdf",
+    "href": "580054_mws_schem.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/isi/vme/580054_mws_schem.pdf",
+    "is_dir": false,
+    "size": "1.1 MiB",
+    "date": "26-Nov-2021 15:54"
+  },
+  {
+    "name": "VME_SCSI_X_Host_Adapter_HW_Specification_19870713.pdf",
+    "href": "VME_SCSI_X_Host_Adapter_HW_Specification_19870713.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/isi/vme/VME_SCSI_X_Host_Adapter_HW_Specification_19870713.pdf",
+    "is_dir": false,
+    "size": "959.1 KiB",
+    "date": "11-Jan-2026 00:40"
+  },
+  {
+    "name": "bd_test.pdf",
+    "href": "bd_test.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/isi/vme/bd_test.pdf",
+    "is_dir": false,
+    "size": "3.0 MiB",
+    "date": "26-Nov-2021 15:54"
+  },
+  {
+    "name": "en_cables.pdf",
+    "href": "en_cables.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/isi/vme/en_cables.pdf",
+    "is_dir": false,
+    "size": "910.8 KiB",
+    "date": "26-Nov-2021 15:54"
+  },
+  {
+    "name": "en_doc.pdf",
+    "href": "en_doc.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/isi/vme/en_doc.pdf",
+    "is_dir": false,
+    "size": "3.0 MiB",
+    "date": "26-Nov-2021 15:54"
+  },
+  {
+    "name": "mws_doc.pdf",
+    "href": "mws_doc.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/isi/vme/mws_doc.pdf",
+    "is_dir": false,
+    "size": "7.3 MiB",
+    "date": "26-Nov-2021 15:54"
+  }
+]

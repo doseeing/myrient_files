@@ -1,0 +1,66 @@
+[
+  {
+    "name": "errata",
+    "href": "errata/",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ati/Rage_128/errata/",
+    "is_dir": true,
+    "size": null,
+    "date": "11-May-2022 16:30"
+  },
+  {
+    "name": "GCS-C04100_RAGE_128_VR_and_128_GL_Graphics_Controller_Specifications_Rev_0.05_199811.pdf",
+    "href": "GCS-C04100_RAGE_128_VR_and_128_GL_Graphics_Controller_Specifications_Rev_0.05_199811.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ati/Rage_128/GCS-C04100_RAGE_128_VR_and_128_GL_Graphics_Controller_Specifications_Rev_0.05_199811.pdf",
+    "is_dir": false,
+    "size": "1.4 MiB",
+    "date": "23-Jun-2022 15:45"
+  },
+  {
+    "name": "RRG-G04500-C_RAGE_128_PRO_Register_Reference_Guide_Rev_1.01_200001.pdf",
+    "href": "RRG-G04500-C_RAGE_128_PRO_Register_Reference_Guide_Rev_1.01_200001.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ati/Rage_128/RRG-G04500-C_RAGE_128_PRO_Register_Reference_Guide_Rev_1.01_200001.pdf",
+    "is_dir": false,
+    "size": "3.0 MiB",
+    "date": "23-Jun-2022 15:45"
+  },
+  {
+    "name": "Rage_128B_Mregs.PDF",
+    "href": "Rage_128B_Mregs.PDF",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ati/Rage_128/Rage_128B_Mregs.PDF",
+    "is_dir": false,
+    "size": "24.7 KiB",
+    "date": "11-May-2022 16:29"
+  },
+  {
+    "name": "Rage_128_A22_Design_Update.pdf",
+    "href": "Rage_128_A22_Design_Update.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ati/Rage_128/Rage_128_A22_Design_Update.pdf",
+    "is_dir": false,
+    "size": "22.0 KiB",
+    "date": "11-May-2022 16:29"
+  },
+  {
+    "name": "Rage_128_GC_Spec.pdf",
+    "href": "Rage_128_GC_Spec.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ati/Rage_128/Rage_128_GC_Spec.pdf",
+    "is_dir": false,
+    "size": "2.2 MiB",
+    "date": "11-May-2022 16:29"
+  },
+  {
+    "name": "Rage_128_Overview.pdf",
+    "href": "Rage_128_Overview.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ati/Rage_128/Rage_128_Overview.pdf",
+    "is_dir": false,
+    "size": "105.3 KiB",
+    "date": "11-May-2022 16:29"
+  },
+  {
+    "name": "Rage_128_Reg_Ref_Guide.pdf",
+    "href": "Rage_128_Reg_Ref_Guide.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ati/Rage_128/Rage_128_Reg_Ref_Guide.pdf",
+    "is_dir": false,
+    "size": "2.7 MiB",
+    "date": "11-May-2022 16:29"
+  }
+]

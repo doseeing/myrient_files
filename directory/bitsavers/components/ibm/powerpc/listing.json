@@ -1,0 +1,154 @@
+[
+  {
+    "name": "PPC405",
+    "href": "PPC405/",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ibm/powerpc/PPC405/",
+    "is_dir": true,
+    "size": null,
+    "date": "04-May-2024 01:01"
+  },
+  {
+    "name": "PPC970",
+    "href": "PPC970/",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ibm/powerpc/PPC970/",
+    "is_dir": true,
+    "size": null,
+    "date": "24-Aug-2024 19:52"
+  },
+  {
+    "name": "cdrom",
+    "href": "cdrom/",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ibm/powerpc/cdrom/",
+    "is_dir": true,
+    "size": null,
+    "date": "03-Mar-2020 17:07"
+  },
+  {
+    "name": "riscwatch",
+    "href": "riscwatch/",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ibm/powerpc/riscwatch/",
+    "is_dir": true,
+    "size": null,
+    "date": "03-Mar-2020 17:12"
+  },
+  {
+    "name": "G522-0268-00_PID6-603eHSr1_199612.pdf",
+    "href": "G522-0268-00_PID6-603eHSr1_199612.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ibm/powerpc/G522-0268-00_PID6-603eHSr1_199612.pdf",
+    "is_dir": false,
+    "size": "247.4 KiB",
+    "date": "25-Jun-2023 18:55"
+  },
+  {
+    "name": "G522-0297-00_Odyssey_MCM_Feb97.pdf",
+    "href": "G522-0297-00_Odyssey_MCM_Feb97.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ibm/powerpc/G522-0297-00_Odyssey_MCM_Feb97.pdf",
+    "is_dir": false,
+    "size": "4.5 MiB",
+    "date": "11-May-2013 16:57"
+  },
+  {
+    "name": "G522-0319-00_PID9q_604e_hs_199708.pdf",
+    "href": "G522-0319-00_PID9q_604e_hs_199708.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ibm/powerpc/G522-0319-00_PID9q_604e_hs_199708.pdf",
+    "is_dir": false,
+    "size": "123.0 KiB",
+    "date": "25-Jun-2023 18:55"
+  },
+  {
+    "name": "Gekko_User_Manual_200005.pdf",
+    "href": "Gekko_User_Manual_200005.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ibm/powerpc/Gekko_User_Manual_200005.pdf",
+    "is_dir": false,
+    "size": "3.5 MiB",
+    "date": "10-May-2024 16:25"
+  },
+  {
+    "name": "IBM_Enhanced_PowerPC_Architecture_Book_E_Ver_1.0_200205.pdf",
+    "href": "IBM_Enhanced_PowerPC_Architecture_Book_E_Ver_1.0_200205.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ibm/powerpc/IBM_Enhanced_PowerPC_Architecture_Book_E_Ver_1.0_200205.pdf",
+    "is_dir": false,
+    "size": "8.3 MiB",
+    "date": "01-Sep-2021 16:32"
+  },
+  {
+    "name": "IBM_PowerPC_Microprocessor_Family_Programming_Environments_Manual_for_64_and_32-Bit_Microprocessors_Ver_2.0_200306.pdf",
+    "href": "IBM_PowerPC_Microprocessor_Family_Programming_Environments_Manual_for_64_and_32-Bit_Microprocessors_Ver_2.0_200306.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ibm/powerpc/IBM_PowerPC_Microprocessor_Family_Programming_Environments_Manual_for_64_and_32-Bit_Microprocessors_Ver_2.0_200306.pdf",
+    "is_dir": false,
+    "size": "10.4 MiB",
+    "date": "01-Sep-2021 16:34"
+  },
+  {
+    "name": "IBM_PowerPC_Operating_Environment_Architecture_Book_III_Ver_2.01_200312.pdf",
+    "href": "IBM_PowerPC_Operating_Environment_Architecture_Book_III_Ver_2.01_200312.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ibm/powerpc/IBM_PowerPC_Operating_Environment_Architecture_Book_III_Ver_2.01_200312.pdf",
+    "is_dir": false,
+    "size": "648.5 KiB",
+    "date": "01-Sep-2021 16:30"
+  },
+  {
+    "name": "IBM_PowerPC_User_Instruction_Set_Architecture_Book_I_Ver_2.01_200309.pdf",
+    "href": "IBM_PowerPC_User_Instruction_Set_Architecture_Book_I_Ver_2.01_200309.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ibm/powerpc/IBM_PowerPC_User_Instruction_Set_Architecture_Book_I_Ver_2.01_200309.pdf",
+    "is_dir": false,
+    "size": "977.5 KiB",
+    "date": "01-Sep-2021 16:30"
+  },
+  {
+    "name": "IBM_PowerPC_Virtual_Environment_Architecture_Book_II_Ver_2.01_200312.pdf",
+    "href": "IBM_PowerPC_Virtual_Environment_Architecture_Book_II_Ver_2.01_200312.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ibm/powerpc/IBM_PowerPC_Virtual_Environment_Architecture_Book_II_Ver_2.01_200312.pdf",
+    "is_dir": false,
+    "size": "269.1 KiB",
+    "date": "01-Sep-2021 16:30"
+  },
+  {
+    "name": "MPR601UM-01_PowerPC_601_Users_Manual_1995.pdf",
+    "href": "MPR601UM-01_PowerPC_601_Users_Manual_1995.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ibm/powerpc/MPR601UM-01_PowerPC_601_Users_Manual_1995.pdf",
+    "is_dir": false,
+    "size": "3.1 MiB",
+    "date": "11-May-2013 16:56"
+  },
+  {
+    "name": "MPR650UMU-01_IBM27-82650_PowerPC_to_PCI_Bridge_Jul94.pdf",
+    "href": "MPR650UMU-01_IBM27-82650_PowerPC_to_PCI_Bridge_Jul94.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ibm/powerpc/MPR650UMU-01_IBM27-82650_PowerPC_to_PCI_Bridge_Jul94.pdf",
+    "is_dir": false,
+    "size": "12.7 MiB",
+    "date": "08-May-2013 23:01"
+  },
+  {
+    "name": "MPRPPCPRG-01_PowerPC_Programmers_Reference_Oct95.pdf",
+    "href": "MPRPPCPRG-01_PowerPC_Programmers_Reference_Oct95.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ibm/powerpc/MPRPPCPRG-01_PowerPC_Programmers_Reference_Oct95.pdf",
+    "is_dir": false,
+    "size": "238.2 KiB",
+    "date": "11-May-2013 16:56"
+  },
+  {
+    "name": "SA14-2054-00_PID9v-604eHSr0_199607.pdf",
+    "href": "SA14-2054-00_PID9v-604eHSr0_199607.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ibm/powerpc/SA14-2054-00_PID9v-604eHSr0_199607.pdf",
+    "is_dir": false,
+    "size": "304.5 KiB",
+    "date": "25-Jun-2023 18:55"
+  },
+  {
+    "name": "SA14-2056-01_604UMaddr1_199609.pdf",
+    "href": "SA14-2056-01_604UMaddr1_199609.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ibm/powerpc/SA14-2056-01_604UMaddr1_199609.pdf",
+    "is_dir": false,
+    "size": "276.2 KiB",
+    "date": "25-Jun-2023 18:55"
+  },
+  {
+    "name": "SR28-5124-00_PowerPC_Architecture_First_Edition_May93.pdf",
+    "href": "SR28-5124-00_PowerPC_Architecture_First_Edition_May93.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/components/ibm/powerpc/SR28-5124-00_PowerPC_Architecture_First_Edition_May93.pdf",
+    "is_dir": false,
+    "size": "15.6 MiB",
+    "date": "28-Dec-2013 03:25"
+  }
+]

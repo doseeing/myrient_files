@@ -1,0 +1,130 @@
+[
+  {
+    "name": "eclipse.txt",
+    "href": "eclipse.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/simh_v2.9/NOVA/eclipse.txt",
+    "is_dir": false,
+    "size": "997 B",
+    "date": "21-Nov-2001 05:03"
+  },
+  {
+    "name": "eclipse_cpu.c",
+    "href": "eclipse_cpu.c",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/simh_v2.9/NOVA/eclipse_cpu.c",
+    "is_dir": false,
+    "size": "109.5 KiB",
+    "date": "01-Feb-2002 21:09"
+  },
+  {
+    "name": "eclipse_tt.c",
+    "href": "eclipse_tt.c",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/simh_v2.9/NOVA/eclipse_tt.c",
+    "is_dir": false,
+    "size": "10.3 KiB",
+    "date": "29-Jan-2002 22:16"
+  },
+  {
+    "name": "nova_clk.c",
+    "href": "nova_clk.c",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/simh_v2.9/NOVA/nova_clk.c",
+    "is_dir": false,
+    "size": "4.5 KiB",
+    "date": "04-Jan-2002 04:31"
+  },
+  {
+    "name": "nova_cpu.c",
+    "href": "nova_cpu.c",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/simh_v2.9/NOVA/nova_cpu.c",
+    "is_dir": false,
+    "size": "31.4 KiB",
+    "date": "19-Jan-2002 19:08"
+  },
+  {
+    "name": "nova_defs.h",
+    "href": "nova_defs.h",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/simh_v2.9/NOVA/nova_defs.h",
+    "is_dir": false,
+    "size": "8.1 KiB",
+    "date": "07-Jan-2002 00:42"
+  },
+  {
+    "name": "nova_dkp.c",
+    "href": "nova_dkp.c",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/simh_v2.9/NOVA/nova_dkp.c",
+    "is_dir": false,
+    "size": "26.0 KiB",
+    "date": "19-Jan-2002 19:08"
+  },
+  {
+    "name": "nova_doc.txt",
+    "href": "nova_doc.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/simh_v2.9/NOVA/nova_doc.txt",
+    "is_dir": false,
+    "size": "16.2 KiB",
+    "date": "21-Jan-2002 21:30"
+  },
+  {
+    "name": "nova_dsk.c",
+    "href": "nova_dsk.c",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/simh_v2.9/NOVA/nova_dsk.c",
+    "is_dir": false,
+    "size": "8.2 KiB",
+    "date": "07-Jan-2002 00:42"
+  },
+  {
+    "name": "nova_lp.c",
+    "href": "nova_lp.c",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/simh_v2.9/NOVA/nova_lp.c",
+    "is_dir": false,
+    "size": "3.9 KiB",
+    "date": "04-Jan-2002 04:31"
+  },
+  {
+    "name": "nova_mta.c",
+    "href": "nova_mta.c",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/simh_v2.9/NOVA/nova_mta.c",
+    "is_dir": false,
+    "size": "20.5 KiB",
+    "date": "23-Apr-2002 02:28"
+  },
+  {
+    "name": "nova_plt.c",
+    "href": "nova_plt.c",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/simh_v2.9/NOVA/nova_plt.c",
+    "is_dir": false,
+    "size": "4.1 KiB",
+    "date": "07-Jan-2002 00:42"
+  },
+  {
+    "name": "nova_pt.c",
+    "href": "nova_pt.c",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/simh_v2.9/NOVA/nova_pt.c",
+    "is_dir": false,
+    "size": "6.3 KiB",
+    "date": "04-Jan-2002 04:31"
+  },
+  {
+    "name": "nova_sys.c",
+    "href": "nova_sys.c",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/simh_v2.9/NOVA/nova_sys.c",
+    "is_dir": false,
+    "size": "32.3 KiB",
+    "date": "04-Jan-2002 04:31"
+  },
+  {
+    "name": "nova_tt.c",
+    "href": "nova_tt.c",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/simh_v2.9/NOVA/nova_tt.c",
+    "is_dir": false,
+    "size": "6.6 KiB",
+    "date": "04-Jan-2002 04:31"
+  },
+  {
+    "name": "nova_tt1.c",
+    "href": "nova_tt1.c",
+    "url": "https://myrient.erista.me/files/bitsavers/1401/simh_v2.9/NOVA/nova_tt1.c",
+    "is_dir": false,
+    "size": "9.8 KiB",
+    "date": "07-Jan-2002 00:44"
+  }
+]

@@ -1,0 +1,194 @@
+[
+  {
+    "name": "eprom",
+    "href": "eprom/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/technico/TEC-9900-SS/eprom/",
+    "is_dir": true,
+    "size": null,
+    "date": "07-May-2021 06:02"
+  },
+  {
+    "name": "floppy",
+    "href": "floppy/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/technico/TEC-9900-SS/floppy/",
+    "is_dir": true,
+    "size": null,
+    "date": "07-May-2021 06:03"
+  },
+  {
+    "name": "io",
+    "href": "io/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/technico/TEC-9900-SS/io/",
+    "is_dir": true,
+    "size": null,
+    "date": "07-May-2021 06:04"
+  },
+  {
+    "name": "memory",
+    "href": "memory/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/technico/TEC-9900-SS/memory/",
+    "is_dir": true,
+    "size": null,
+    "date": "07-May-2021 12:00"
+  },
+  {
+    "name": "pictures",
+    "href": "pictures/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/technico/TEC-9900-SS/pictures/",
+    "is_dir": true,
+    "size": null,
+    "date": "21-Apr-2024 03:46"
+  },
+  {
+    "name": "video_T99CVM",
+    "href": "video_T99CVM/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/technico/TEC-9900-SS/video_T99CVM/",
+    "is_dir": true,
+    "size": null,
+    "date": "05-May-2024 18:38"
+  },
+  {
+    "name": "Hardware-FloppyDisk.pdf",
+    "href": "Hardware-FloppyDisk.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/technico/TEC-9900-SS/Hardware-FloppyDisk.pdf",
+    "is_dir": false,
+    "size": "1.5 MiB",
+    "date": "11-Jul-2022 22:07"
+  },
+  {
+    "name": "Hardware-IO.pdf",
+    "href": "Hardware-IO.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/technico/TEC-9900-SS/Hardware-IO.pdf",
+    "is_dir": false,
+    "size": "992.3 KiB",
+    "date": "11-Jul-2022 22:07"
+  },
+  {
+    "name": "Hardware-Memory.pdf",
+    "href": "Hardware-Memory.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/technico/TEC-9900-SS/Hardware-Memory.pdf",
+    "is_dir": false,
+    "size": "4.2 MiB",
+    "date": "11-Jul-2022 22:07"
+  },
+  {
+    "name": "Hardware-Processor.pdf",
+    "href": "Hardware-Processor.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/technico/TEC-9900-SS/Hardware-Processor.pdf",
+    "is_dir": false,
+    "size": "708.2 KiB",
+    "date": "11-Jul-2022 22:07"
+  },
+  {
+    "name": "Software-Basic.pdf",
+    "href": "Software-Basic.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/technico/TEC-9900-SS/Software-Basic.pdf",
+    "is_dir": false,
+    "size": "3.5 MiB",
+    "date": "11-Jul-2022 22:08"
+  },
+  {
+    "name": "Software-DiskTapeHandler.pdf",
+    "href": "Software-DiskTapeHandler.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/technico/TEC-9900-SS/Software-DiskTapeHandler.pdf",
+    "is_dir": false,
+    "size": "5.8 MiB",
+    "date": "11-Jul-2022 22:08"
+  },
+  {
+    "name": "Software-Games.pdf",
+    "href": "Software-Games.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/technico/TEC-9900-SS/Software-Games.pdf",
+    "is_dir": false,
+    "size": "4.5 MiB",
+    "date": "11-Jul-2022 22:08"
+  },
+  {
+    "name": "Software-IIA.pdf",
+    "href": "Software-IIA.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/technico/TEC-9900-SS/Software-IIA.pdf",
+    "is_dir": false,
+    "size": "3.2 MiB",
+    "date": "11-Jul-2022 22:08"
+  },
+  {
+    "name": "Software-InstructionSet.pdf",
+    "href": "Software-InstructionSet.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/technico/TEC-9900-SS/Software-InstructionSet.pdf",
+    "is_dir": false,
+    "size": "10.3 MiB",
+    "date": "11-Jul-2022 22:08"
+  },
+  {
+    "name": "Software-Monitor.pdf",
+    "href": "Software-Monitor.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/technico/TEC-9900-SS/Software-Monitor.pdf",
+    "is_dir": false,
+    "size": "5.5 MiB",
+    "date": "11-Jul-2022 22:08"
+  },
+  {
+    "name": "SystemBlock.pdf",
+    "href": "SystemBlock.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/technico/TEC-9900-SS/SystemBlock.pdf",
+    "is_dir": false,
+    "size": "686.4 KiB",
+    "date": "11-Jul-2022 22:08"
+  },
+  {
+    "name": "SystemOverview.pdf",
+    "href": "SystemOverview.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/technico/TEC-9900-SS/SystemOverview.pdf",
+    "is_dir": false,
+    "size": "4.9 MiB",
+    "date": "11-Jul-2022 22:08"
+  },
+  {
+    "name": "TEC-9900-SS_placement.jpg",
+    "href": "TEC-9900-SS_placement.jpg",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/technico/TEC-9900-SS/TEC-9900-SS_placement.jpg",
+    "is_dir": false,
+    "size": "307.4 KiB",
+    "date": "17-Jul-2022 23:00"
+  },
+  {
+    "name": "TEC-9900-SS_schem1.jpg",
+    "href": "TEC-9900-SS_schem1.jpg",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/technico/TEC-9900-SS/TEC-9900-SS_schem1.jpg",
+    "is_dir": false,
+    "size": "560.6 KiB",
+    "date": "17-Jul-2022 23:00"
+  },
+  {
+    "name": "TEC-9900-SS_schem2.jpg",
+    "href": "TEC-9900-SS_schem2.jpg",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/technico/TEC-9900-SS/TEC-9900-SS_schem2.jpg",
+    "is_dir": false,
+    "size": "377.7 KiB",
+    "date": "17-Jul-2022 23:00"
+  },
+  {
+    "name": "Technico_Super_Starter_Manual_Version_3_197804.pdf",
+    "href": "Technico_Super_Starter_Manual_Version_3_197804.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/technico/TEC-9900-SS/Technico_Super_Starter_Manual_Version_3_197804.pdf",
+    "is_dir": false,
+    "size": "9.3 MiB",
+    "date": "04-Jul-2022 23:27"
+  },
+  {
+    "name": "Technico_Super_Starter_System_Brochure.pdf",
+    "href": "Technico_Super_Starter_System_Brochure.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/technico/TEC-9900-SS/Technico_Super_Starter_System_Brochure.pdf",
+    "is_dir": false,
+    "size": "5.3 MiB",
+    "date": "04-Jul-2022 23:46"
+  },
+  {
+    "name": "ss-16.txt",
+    "href": "ss-16.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/technico/TEC-9900-SS/ss-16.txt",
+    "is_dir": false,
+    "size": "2.4 KiB",
+    "date": "07-May-2021 06:01"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "name": "firmware",
+    "href": "firmware/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dysan/PAT-1/firmware/",
+    "is_dir": true,
+    "size": null,
+    "date": "08-Jan-2014 00:58"
+  },
+  {
+    "name": "PAT-1_Schematic_Feb82.pdf",
+    "href": "PAT-1_Schematic_Feb82.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dysan/PAT-1/PAT-1_Schematic_Feb82.pdf",
+    "is_dir": false,
+    "size": "502.6 KiB",
+    "date": "03-Apr-2013 15:54"
+  },
+  {
+    "name": "PAT1_850_Cover.jpg",
+    "href": "PAT1_850_Cover.jpg",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dysan/PAT-1/PAT1_850_Cover.jpg",
+    "is_dir": false,
+    "size": "294.1 KiB",
+    "date": "07-Jan-2014 23:16"
+  },
+  {
+    "name": "PAT1_850_Instr.jpg",
+    "href": "PAT1_850_Instr.jpg",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dysan/PAT-1/PAT1_850_Instr.jpg",
+    "is_dir": false,
+    "size": "167.0 KiB",
+    "date": "07-Jan-2014 23:16"
+  },
+  {
+    "name": "PAT1_PCB_B.jpg",
+    "href": "PAT1_PCB_B.jpg",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dysan/PAT-1/PAT1_PCB_B.jpg",
+    "is_dir": false,
+    "size": "283.5 KiB",
+    "date": "07-Jan-2014 23:16"
+  },
+  {
+    "name": "PAT1_PCB_T.jpg",
+    "href": "PAT1_PCB_T.jpg",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dysan/PAT-1/PAT1_PCB_T.jpg",
+    "is_dir": false,
+    "size": "284.8 KiB",
+    "date": "07-Jan-2014 23:16"
+  }
+]

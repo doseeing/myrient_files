@@ -1,0 +1,66 @@
+[
+  {
+    "name": "command.dat",
+    "href": "command.dat",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/rompacker/mame-chds-roms-extras-complete/dats/command.dat",
+    "is_dir": false,
+    "size": "6.0 MiB",
+    "date": "31-Dec-2022 22:25"
+  },
+  {
+    "name": "gameinit.dat",
+    "href": "gameinit.dat",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/rompacker/mame-chds-roms-extras-complete/dats/gameinit.dat",
+    "is_dir": false,
+    "size": "605.2 KiB",
+    "date": "31-Dec-2022 22:25"
+  },
+  {
+    "name": "hiscore.dat",
+    "href": "hiscore.dat",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/rompacker/mame-chds-roms-extras-complete/dats/hiscore.dat",
+    "is_dir": false,
+    "size": "324.5 KiB",
+    "date": "31-Dec-2022 22:24"
+  },
+  {
+    "name": "history.dat",
+    "href": "history.dat",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/rompacker/mame-chds-roms-extras-complete/dats/history.dat",
+    "is_dir": false,
+    "size": "43.1 MiB",
+    "date": "31-Dec-2022 22:31"
+  },
+  {
+    "name": "history.xml",
+    "href": "history.xml",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/rompacker/mame-chds-roms-extras-complete/dats/history.xml",
+    "is_dir": false,
+    "size": "53.9 MiB",
+    "date": "31-Dec-2022 22:31"
+  },
+  {
+    "name": "mameinfo.dat",
+    "href": "mameinfo.dat",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/rompacker/mame-chds-roms-extras-complete/dats/mameinfo.dat",
+    "is_dir": false,
+    "size": "21.0 MiB",
+    "date": "31-Dec-2022 22:29"
+  },
+  {
+    "name": "messinfo.dat",
+    "href": "messinfo.dat",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/rompacker/mame-chds-roms-extras-complete/dats/messinfo.dat",
+    "is_dir": false,
+    "size": "6.9 MiB",
+    "date": "31-Dec-2022 22:29"
+  },
+  {
+    "name": "scores3.htm",
+    "href": "scores3.htm",
+    "url": "https://myrient.erista.me/files/Internet%20Archive/rompacker/mame-chds-roms-extras-complete/dats/scores3.htm",
+    "is_dir": false,
+    "size": "2.6 MiB",
+    "date": "31-Dec-2022 22:24"
+  }
+]

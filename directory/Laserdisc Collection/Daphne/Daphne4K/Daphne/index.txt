@@ -1,0 +1,79 @@
+name	is_dir	size	date
+bezel	True	-	04-Dec-2025 01:41
+cache	True	-	08-Dec-2025 11:16
+images	True	-	08-Dec-2025 11:22
+mpeg2	True	-	08-Dec-2025 11:59
+pics	True	-	04-Dec-2025 01:41
+ram	True	-	08-Dec-2025 11:28
+roms	True	-	04-Dec-2025 01:41
+singe	True	-	01-Dec-2025 17:44
+sound	True	-	04-Dec-2025 01:41
+-Astron Belt.bat	False	25 B	08-Dec-2025 09:30
+-Badlands.bat	False	27 B	08-Dec-2025 09:30
+-Bega's Battle.bat	False	23 B	08-Dec-2025 09:30
+-Cliff Hanger 60fps.bat	False	26 B	08-Dec-2025 09:30
+-Cliff Hanger.bat	False	24 B	08-Dec-2025 09:30
+-Cobra Command (Astron Belt hardware).bat	False	26 B	08-Dec-2025 09:30
+-Cobra Command.bat	False	24 B	08-Dec-2025 09:30
+-Crime Patrol (Singe).bat	False	32 B	08-Dec-2025 09:30
+-Dragon's Lair 2 Time Warp 4k.bat	False	26 B	08-Dec-2025 09:30
+-Dragon's Lair 2 Time Warp HD 60fps.bat	False	26 B	08-Dec-2025 09:30
+-Dragon's Lair Enhanced 4k.bat	False	26 B	08-Dec-2025 09:30
+-Dragon's Lair Enhanced HD 60fps.bat	False	26 B	08-Dec-2025 09:30
+-Dragon's Lair HD 60fps.bat	False	25 B	08-Dec-2025 09:30
+-Drug Wars (Singe).bat	False	29 B	08-Dec-2025 09:30
+-Esh's Aurunmilla.bat	False	22 B	08-Dec-2025 09:30
+-GP World.bat	False	26 B	08-Dec-2025 09:30
+-Galaxy Ranger.bat	False	25 B	08-Dec-2025 09:30
+-Interstellar.bat	False	31 B	08-Dec-2025 09:30
+-Last Bounty Hunter (Singe).bat	False	24 B	08-Dec-2025 09:30
+-M.A.C.H. 3.bat	False	24 B	08-Dec-2025 09:30
+-Mad Dog McCree (Singe).bat	False	27 B	08-Dec-2025 09:30
+-Mad Dog McCree 2 (Singe).bat	False	28 B	08-Dec-2025 09:30
+-Ninja Hayate (Singe).bat	False	27 B	08-Dec-2025 09:30
+-Road Blaster.bat	False	30 B	08-Dec-2025 09:30
+-Space Ace 4k.bat	False	24 B	08-Dec-2025 09:30
+-Space Ace Enhanced 4k.bat	False	24 B	08-Dec-2025 09:30
+-Space Ace Enhanced HD 60fps.bat	False	24 B	08-Dec-2025 09:30
+-Space Ace HD 60fps.bat	False	24 B	08-Dec-2025 09:30
+-Space Pirates (Singe).bat	False	33 B	08-Dec-2025 09:30
+-Star Blazers (Singe).bat	False	30 B	08-Dec-2025 09:30
+-Super Don Quix-ote.bat	False	22 B	08-Dec-2025 09:30
+-Thayer's Quest Keyboard keys.png	False	1.4 MiB	04-Dec-2025 01:41
+-Thayer's Quest.bat	False	21 B	08-Dec-2025 09:30
+-Time Gal (Singe).bat	False	28 B	08-Dec-2025 09:30
+-Time Traveler (Singe).bat	False	33 B	08-Dec-2025 09:30
+-Us vs Them.bat	False	22 B	08-Dec-2025 09:30
+-Who Shot Johnny Rock (Singe).bat	False	31 B	08-Dec-2025 09:30
+Daphne 4K.exe	False	3.0 MiB	08-Dec-2025 09:30
+Daphne HD Settings.ini	False	1.4 KiB	08-Dec-2025 09:30
+Dragon's Lair 4k.bat	False	25 B	08-Dec-2025 09:30
+SDL.dll	False	252.0 KiB	08-Dec-2025 09:33
+SDL_image.dll	False	42.5 KiB	08-Dec-2025 09:33
+SDL_mixer.dll	False	252.0 KiB	08-Dec-2025 09:33
+SDL_ttf.dll	False	20.5 KiB	08-Dec-2025 09:33
+config.xml	False	170.8 KiB	08-Dec-2025 09:30
+daphne.exe	False	664.0 KiB	08-Dec-2025 09:30
+daphnesinge.exe	False	628.0 KiB	08-Dec-2025 09:30
+dapinput.ini	False	473 B	08-Dec-2025 09:30
+glew32.dll	False	208.0 KiB	08-Dec-2025 09:30
+inpout32.dll	False	96.0 KiB	01-Dec-2025 17:44
+input_grabber.exe	False	8.0 KiB	08-Dec-2025 09:30
+libexpat.dll	False	148.0 KiB	08-Dec-2025 09:30
+libfreetype-6.dll	False	434.5 KiB	08-Dec-2025 09:30
+libogg.dll	False	43.0 KiB	08-Dec-2025 09:30
+libpng12-0.dll	False	129.0 KiB	08-Dec-2025 09:30
+mpolib.dll	False	232.0 KiB	08-Dec-2025 09:33
+msvcp71.dll	False	488.0 KiB	01-Dec-2025 17:44
+msvcr71.dll	False	340.0 KiB	01-Dec-2025 17:44
+ogg.dll	False	48.0 KiB	08-Dec-2025 09:33
+par-io.dll	False	48.5 KiB	08-Dec-2025 09:33
+prog1.bin	False	113 B	08-Dec-2025 09:33
+prog2.bin	False	113 B	08-Dec-2025 09:33
+singe.dll	False	144.0 KiB	08-Dec-2025 09:33
+vldp.dll	False	348.7 KiB	08-Dec-2025 09:33
+vldp2.dll	False	80.0 KiB	08-Dec-2025 09:33
+vorbis.dll	False	100.0 KiB	08-Dec-2025 09:33
+vorbisfile.dll	False	28.0 KiB	08-Dec-2025 09:33
+zlib.dll	False	52.0 KiB	08-Dec-2025 09:33
+zlib1.dll	False	73.0 KiB	08-Dec-2025 09:33

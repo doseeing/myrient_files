@@ -1,0 +1,506 @@
+[
+  {
+    "name": "134-MESSAGES.TXT",
+    "href": "134-MESSAGES.TXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/BBN/Tenex/134-tenex/134-MESSAGES.TXT",
+    "is_dir": false,
+    "size": "3.0 KiB",
+    "date": "15-Dec-2003 21:36"
+  },
+  {
+    "name": "134.BUGS",
+    "href": "134.BUGS",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/BBN/Tenex/134-tenex/134.BUGS",
+    "is_dir": false,
+    "size": "14.1 KiB",
+    "date": "15-Dec-2003 21:36"
+  },
+  {
+    "name": "134.DOC",
+    "href": "134.DOC",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/BBN/Tenex/134-tenex/134.DOC",
+    "is_dir": false,
+    "size": "37.4 KiB",
+    "date": "15-Dec-2003 21:36"
+  },
+  {
+    "name": "ACCTJS.MAC",
+    "href": "ACCTJS.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/BBN/Tenex/134-tenex/ACCTJS.MAC",
+    "is_dir": false,
+    "size": "25.2 KiB",
+    "date": "15-Dec-2003 21:36"
+  },
+  {
+    "name": "ASSCL.CMD",
+    "href": "ASSCL.CMD",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/BBN/Tenex/134-tenex/ASSCL.CMD",
+    "is_dir": false,
+    "size": "984 B",
+    "date": "15-Dec-2003 21:36"
+  },
+  {
+    "name": "DATIME.MAC",
+    "href": "DATIME.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/BBN/Tenex/134-tenex/DATIME.MAC",
+    "is_dir": false,
+    "size": "52.1 KiB",
+    "date": "15-Dec-2003 21:36"
+  },
+  {
+    "name": "DECTAP.MAC",
+    "href": "DECTAP.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/BBN/Tenex/134-tenex/DECTAP.MAC",
+    "is_dir": false,
+    "size": "42.2 KiB",
+    "date": "15-Dec-2003 21:36"
+  },
+  {
+    "name": "DEVICE.MAC",
+    "href": "DEVICE.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/BBN/Tenex/134-tenex/DEVICE.MAC",
+    "is_dir": false,
+    "size": "4.4 KiB",
+    "date": "15-Dec-2003 21:37"
+  },
+  {
+    "name": "DEVJS.MAC",
+    "href": "DEVJS.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/BBN/Tenex/134-tenex/DEVJS.MAC",
+    "is_dir": false,
+    "size": "30.7 KiB",
+    "date": "15-Dec-2003 21:37"
+  },
+  {
+    "name": "DIRECT.MAC",
+    "href": "DIRECT.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/BBN/Tenex/134-tenex/DIRECT.MAC",
+    "is_dir": false,
+    "size": "33.3 KiB",
+    "date": "15-Dec-2003 21:37"
+  },
+  {
+    "name": "DISC.MAC",
+    "href": "DISC.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/BBN/Tenex/134-tenex/DISC.MAC",
+    "is_dir": false,
+    "size": "26.2 KiB",
+    "date": "15-Dec-2003 21:37"
+  },
+  {
+    "name": "DRMDDC.MAC",
+    "href": "DRMDDC.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/BBN/Tenex/134-tenex/DRMDDC.MAC",
+    "is_dir": false,
+    "size": "24.5 KiB",
+    "date": "15-Dec-2003 21:37"
+  },
+  {
+    "name": "DSK.MAC",
+    "href": "DSK.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/BBN/Tenex/134-tenex/DSK.MAC",
+    "is_dir": false,
+    "size": "19.4 KiB",
+    "date": "15-Dec-2003 21:37"
+  },
+  {
+    "name": "DSKPAK.MAC",
+    "href": "DSKPAK.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/BBN/Tenex/134-tenex/DSKPAK.MAC",
+    "is_dir": false,
+    "size": "66.0 KiB",
+    "date": "15-Dec-2003 21:37"
+  },
+  {
+    "name": "EDDT.10X",
+    "href": "EDDT.10X",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/BBN/Tenex/134-tenex/EDDT.10X",
+    "is_dir": false,
+    "size": "92.0 KiB",
+    "date": "15-Dec-2003 21:37"
+  },
+  {
+    "name": "ERRMES.MAC",
+    "href": "ERRMES.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/BBN/Tenex/134-tenex/ERRMES.MAC",
+    "is_dir": false,
+    "size": "15.1 KiB",
+    "date": "15-Dec-2003 21:37"
+  },
+  {
+    "name": "FILEJS.MAC",
+    "href": "FILEJS.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/BBN/Tenex/134-tenex/FILEJS.MAC",
+    "is_dir": false,
+    "size": "28.9 KiB",
+    "date": "15-Dec-2003 21:37"
+  },
+  {
+    "name": "FILINI.MAC",
+    "href": "FILINI.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/BBN/Tenex/134-tenex/FILINI.MAC",
+    "is_dir": false,
+    "size": "10.8 KiB",
+    "date": "15-Dec-2003 21:37"
+  },
+  {
+    "name": "FILTTY.MAC",
+    "href": "FILTTY.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/BBN/Tenex/134-tenex/FILTTY.MAC",
+    "is_dir": false,
+    "size": "2.2 KiB",
+    "date": "15-Dec-2003 21:37"
+  },
+  {
+    "name": "FORKS.MAC",
+    "href": "FORKS.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/BBN/Tenex/134-tenex/FORKS.MAC",
+    "is_dir": false,
+    "size": "64.3 KiB",
+    "date": "15-Dec-2003 21:37"
+  },
+  {
+    "name": "FREE.MAC",
+    "href": "FREE.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/BBN/Tenex/134-tenex/FREE.MAC",
+    "is_dir": false,
+    "size": "14.9 KiB",
+    "date": "15-Dec-2003 21:37"
+  },
+  {
+    "name": "FUTILI.MAC",
+    "href": "FUTILI.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/BBN/Tenex/134-tenex/FUTILI.MAC",
+    "is_dir": false,
+    "size": "2.7 KiB",
+    "date": "15-Dec-2003 21:37"
+  },
+  {
+    "name": "GTJFN.MAC",
+    "href": "GTJFN.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/BBN/Tenex/134-tenex/GTJFN.MAC",
+    "is_dir": false,
+    "size": "41.7 KiB",
+    "date": "15-Dec-2003 21:37"
+  },
+  {
+    "name": "HOSTS.MAC",
+    "href": "HOSTS.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/BBN/Tenex/134-tenex/HOSTS.MAC",
+    "is_dir": false,
+    "size": "6.0 KiB",
+    "date": "15-Dec-2003 21:37"
+  },
+  {
+    "name": "IMPDV.MAC",
+    "href": "IMPDV.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/BBN/Tenex/134-tenex/IMPDV.MAC",
+    "is_dir": false,
+    "size": "109.7 KiB",
+    "date": "15-Dec-2003 21:37"
+  },
+  {
+    "name": "IO.MAC",
+    "href": "IO.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/BBN/Tenex/134-tenex/IO.MAC",
+    "is_dir": false,
+    "size": "34.5 KiB",
+    "date": "15-Dec-2003 21:37"
+  },
+  {
+    "name": "JOBINI.MAC",
+    "href": "JOBINI.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/BBN/Tenex/134-tenex/JOBINI.MAC",
+    "is_dir": false,
+    "size": "19.2 KiB",
+    "date": "15-Dec-2003 21:37"
+  },
+  {
+    "name": "JOBZRO.MAC",
+    "href": "JOBZRO.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/BBN/Tenex/134-tenex/JOBZRO.MAC",
+    "is_dir": false,
+    "size": "13.9 KiB",
+    "date": "15-Dec-2003 21:37"
+  },
+  {
+    "name": "LDINIT.MAC",
+    "href": "LDINIT.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/BBN/Tenex/134-tenex/LDINIT.MAC",
+    "is_dir": false,
+    "size": "715 B",
+    "date": "15-Dec-2003 21:37"
+  },
+  {
+    "name": "LINEPR.MAC",
+    "href": "LINEPR.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/BBN/Tenex/134-tenex/LINEPR.MAC",
+    "is_dir": false,
+    "size": "16.4 KiB",
+    "date": "15-Dec-2003 21:37"
+  },
+  {
+    "name": "LOD10X.RUN",
+    "href": "LOD10X.RUN",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/BBN/Tenex/134-tenex/LOD10X.RUN",
+    "is_dir": false,
+    "size": "266 B",
+    "date": "15-Dec-2003 21:37"
+  },
+  {
+    "name": "LOG2JS.MAC",
+    "href": "LOG2JS.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/BBN/Tenex/134-tenex/LOG2JS.MAC",
+    "is_dir": false,
+    "size": "27.2 KiB",
+    "date": "15-Dec-2003 21:37"
+  },
+  {
+    "name": "LOGJS.MAC",
+    "href": "LOGJS.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/BBN/Tenex/134-tenex/LOGJS.MAC",
+    "is_dir": false,
+    "size": "47.0 KiB",
+    "date": "15-Dec-2003 21:37"
+  },
+  {
+    "name": "LOOKUP.MAC",
+    "href": "LOOKUP.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/BBN/Tenex/134-tenex/LOOKUP.MAC",
+    "is_dir": false,
+    "size": "8.0 KiB",
+    "date": "15-Dec-2003 21:37"
+  },
+  {
+    "name": "MAGTAP.MAC",
+    "href": "MAGTAP.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/BBN/Tenex/134-tenex/MAGTAP.MAC",
+    "is_dir": false,
+    "size": "40.3 KiB",
+    "date": "15-Dec-2003 21:37"
+  },
+  {
+    "name": "MFLIN.MAC",
+    "href": "MFLIN.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/BBN/Tenex/134-tenex/MFLIN.MAC",
+    "is_dir": false,
+    "size": "9.7 KiB",
+    "date": "15-Dec-2003 21:37"
+  },
+  {
+    "name": "MFLOUT.MAC",
+    "href": "MFLOUT.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/BBN/Tenex/134-tenex/MFLOUT.MAC",
+    "is_dir": false,
+    "size": "21.5 KiB",
+    "date": "15-Dec-2003 21:37"
+  },
+  {
+    "name": "MONJS.MAC",
+    "href": "MONJS.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/BBN/Tenex/134-tenex/MONJS.MAC",
+    "is_dir": false,
+    "size": "30.6 KiB",
+    "date": "15-Dec-2003 21:37"
+  },
+  {
+    "name": "MR.MAC",
+    "href": "MR.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/BBN/Tenex/134-tenex/MR.MAC",
+    "is_dir": false,
+    "size": "6.9 KiB",
+    "date": "15-Dec-2003 21:37"
+  },
+  {
+    "name": "NETWRK.MAC",
+    "href": "NETWRK.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/BBN/Tenex/134-tenex/NETWRK.MAC",
+    "is_dir": false,
+    "size": "54.7 KiB",
+    "date": "15-Dec-2003 21:38"
+  },
+  {
+    "name": "NIL.MAC",
+    "href": "NIL.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/BBN/Tenex/134-tenex/NIL.MAC",
+    "is_dir": false,
+    "size": "789 B",
+    "date": "15-Dec-2003 21:38"
+  },
+  {
+    "name": "PAGEM.MAC",
+    "href": "PAGEM.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/BBN/Tenex/134-tenex/PAGEM.MAC",
+    "is_dir": false,
+    "size": "96.1 KiB",
+    "date": "15-Dec-2003 21:38"
+  },
+  {
+    "name": "PARAMS.MAC",
+    "href": "PARAMS.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/BBN/Tenex/134-tenex/PARAMS.MAC",
+    "is_dir": false,
+    "size": "11.0 KiB",
+    "date": "15-Dec-2003 21:38"
+  },
+  {
+    "name": "PATCHES.GRIPES",
+    "href": "PATCHES.GRIPES",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/BBN/Tenex/134-tenex/PATCHES.GRIPES",
+    "is_dir": false,
+    "size": "4.4 KiB",
+    "date": "15-Dec-2003 21:38"
+  },
+  {
+    "name": "PISRV.MAC",
+    "href": "PISRV.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/BBN/Tenex/134-tenex/PISRV.MAC",
+    "is_dir": false,
+    "size": "25.6 KiB",
+    "date": "15-Dec-2003 21:38"
+  },
+  {
+    "name": "PLOTTE.MAC",
+    "href": "PLOTTE.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/BBN/Tenex/134-tenex/PLOTTE.MAC",
+    "is_dir": false,
+    "size": "7.5 KiB",
+    "date": "15-Dec-2003 21:38"
+  },
+  {
+    "name": "POSTLD.MAC",
+    "href": "POSTLD.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/BBN/Tenex/134-tenex/POSTLD.MAC",
+    "is_dir": false,
+    "size": "14.2 KiB",
+    "date": "15-Dec-2003 21:38"
+  },
+  {
+    "name": "PROLOG.MAC",
+    "href": "PROLOG.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/BBN/Tenex/134-tenex/PROLOG.MAC",
+    "is_dir": false,
+    "size": "38.6 KiB",
+    "date": "15-Dec-2003 21:38"
+  },
+  {
+    "name": "PTP.MAC",
+    "href": "PTP.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/BBN/Tenex/134-tenex/PTP.MAC",
+    "is_dir": false,
+    "size": "8.6 KiB",
+    "date": "15-Dec-2003 21:38"
+  },
+  {
+    "name": "PTR.MAC",
+    "href": "PTR.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/BBN/Tenex/134-tenex/PTR.MAC",
+    "is_dir": false,
+    "size": "6.7 KiB",
+    "date": "15-Dec-2003 21:38"
+  },
+  {
+    "name": "SCHED.MAC",
+    "href": "SCHED.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/BBN/Tenex/134-tenex/SCHED.MAC",
+    "is_dir": false,
+    "size": "107.5 KiB",
+    "date": "15-Dec-2003 21:38"
+  },
+  {
+    "name": "SIGNAL.MAC",
+    "href": "SIGNAL.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/BBN/Tenex/134-tenex/SIGNAL.MAC",
+    "is_dir": false,
+    "size": "12.1 KiB",
+    "date": "15-Dec-2003 21:38"
+  },
+  {
+    "name": "SSASRV.MAC",
+    "href": "SSASRV.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/BBN/Tenex/134-tenex/SSASRV.MAC",
+    "is_dir": false,
+    "size": "6.4 KiB",
+    "date": "15-Dec-2003 21:38"
+  },
+  {
+    "name": "STENEX.MAC",
+    "href": "STENEX.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/BBN/Tenex/134-tenex/STENEX.MAC",
+    "is_dir": false,
+    "size": "11.9 KiB",
+    "date": "15-Dec-2003 21:38"
+  },
+  {
+    "name": "STORAG.MAC",
+    "href": "STORAG.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/BBN/Tenex/134-tenex/STORAG.MAC",
+    "is_dir": false,
+    "size": "4.9 KiB",
+    "date": "15-Dec-2003 21:38"
+  },
+  {
+    "name": "STRING.MAC",
+    "href": "STRING.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/BBN/Tenex/134-tenex/STRING.MAC",
+    "is_dir": false,
+    "size": "798 B",
+    "date": "15-Dec-2003 21:38"
+  },
+  {
+    "name": "SYSINI.MAC",
+    "href": "SYSINI.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/BBN/Tenex/134-tenex/SYSINI.MAC",
+    "is_dir": false,
+    "size": "16.8 KiB",
+    "date": "15-Dec-2003 21:38"
+  },
+  {
+    "name": "SYSNAM.MAC",
+    "href": "SYSNAM.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/BBN/Tenex/134-tenex/SYSNAM.MAC",
+    "is_dir": false,
+    "size": "518 B",
+    "date": "15-Dec-2003 21:38"
+  },
+  {
+    "name": "TENDMP.10X",
+    "href": "TENDMP.10X",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/BBN/Tenex/134-tenex/TENDMP.10X",
+    "is_dir": false,
+    "size": "6.9 KiB",
+    "date": "15-Dec-2003 21:38"
+  },
+  {
+    "name": "TENEX.CHANGES",
+    "href": "TENEX.CHANGES",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/BBN/Tenex/134-tenex/TENEX.CHANGES",
+    "is_dir": false,
+    "size": "4.5 KiB",
+    "date": "15-Dec-2003 21:38"
+  },
+  {
+    "name": "TNTDMY.MAC",
+    "href": "TNTDMY.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/BBN/Tenex/134-tenex/TNTDMY.MAC",
+    "is_dir": false,
+    "size": "246 B",
+    "date": "15-Dec-2003 21:38"
+  },
+  {
+    "name": "TTYSRV.MAC",
+    "href": "TTYSRV.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/BBN/Tenex/134-tenex/TTYSRV.MAC",
+    "is_dir": false,
+    "size": "70.4 KiB",
+    "date": "15-Dec-2003 21:39"
+  },
+  {
+    "name": "VERSIO.MAC",
+    "href": "VERSIO.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/BBN/Tenex/134-tenex/VERSIO.MAC",
+    "is_dir": false,
+    "size": "112 B",
+    "date": "15-Dec-2003 21:39"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "name": "_text",
+    "href": "_text/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/tx-0/midas/_text/",
+    "is_dir": true,
+    "size": null,
+    "date": "27-Oct-2004 01:21"
+  },
+  {
+    "name": "bin_midas23d_9-11-66.bin",
+    "href": "bin_midas23d_9-11-66.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/tx-0/midas/bin_midas23d_9-11-66.bin",
+    "is_dir": false,
+    "size": "12.0 KiB",
+    "date": "16-Sep-2004 03:44"
+  },
+  {
+    "name": "bin_midasSymbolPrint.bin",
+    "href": "bin_midasSymbolPrint.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/tx-0/midas/bin_midasSymbolPrint.bin",
+    "is_dir": false,
+    "size": "675 B",
+    "date": "16-Sep-2004 03:53"
+  },
+  {
+    "name": "bin_midasSymbolPunch.bin",
+    "href": "bin_midasSymbolPunch.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/tx-0/midas/bin_midasSymbolPunch.bin",
+    "is_dir": false,
+    "size": "1.1 KiB",
+    "date": "16-Sep-2004 03:54"
+  },
+  {
+    "name": "bin_midastapepatch.bin",
+    "href": "bin_midastapepatch.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/tx-0/midas/bin_midastapepatch.bin",
+    "is_dir": false,
+    "size": "836 B",
+    "date": "16-Sep-2004 03:52"
+  },
+  {
+    "name": "eng_mi23dsymsSysMacros_9-11-66.bin",
+    "href": "eng_mi23dsymsSysMacros_9-11-66.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/tx-0/midas/eng_mi23dsymsSysMacros_9-11-66.bin",
+    "is_dir": false,
+    "size": "7.1 KiB",
+    "date": "16-Sep-2004 03:49"
+  },
+  {
+    "name": "eng_midasAlphaSymPrint.bin",
+    "href": "eng_midasAlphaSymPrint.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/tx-0/midas/eng_midasAlphaSymPrint.bin",
+    "is_dir": false,
+    "size": "1.2 KiB",
+    "date": "16-Sep-2004 03:17"
+  },
+  {
+    "name": "eng_midasMagTapePatch_8-25-66.bin",
+    "href": "eng_midasMagTapePatch_8-25-66.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/tx-0/midas/eng_midasMagTapePatch_8-25-66.bin",
+    "is_dir": false,
+    "size": "2.4 KiB",
+    "date": "16-Sep-2004 03:21"
+  },
+  {
+    "name": "eng_midasParams_9-11-66.bin",
+    "href": "eng_midasParams_9-11-66.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/tx-0/midas/eng_midasParams_9-11-66.bin",
+    "is_dir": false,
+    "size": "353 B",
+    "date": "01-Sep-2004 02:26"
+  },
+  {
+    "name": "eng_midasPart1_9-11-66.bin",
+    "href": "eng_midasPart1_9-11-66.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/tx-0/midas/eng_midasPart1_9-11-66.bin",
+    "is_dir": false,
+    "size": "15.0 KiB",
+    "date": "01-Sep-2004 02:21"
+  },
+  {
+    "name": "eng_midasPart2_9-11-66.bin",
+    "href": "eng_midasPart2_9-11-66.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/tx-0/midas/eng_midasPart2_9-11-66.bin",
+    "is_dir": false,
+    "size": "15.3 KiB",
+    "date": "16-Sep-2004 02:51"
+  },
+  {
+    "name": "eng_midasPart3_9-11-66.bin",
+    "href": "eng_midasPart3_9-11-66.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/tx-0/midas/eng_midasPart3_9-11-66.bin",
+    "is_dir": false,
+    "size": "12.6 KiB",
+    "date": "16-Sep-2004 02:57"
+  },
+  {
+    "name": "eng_midasSymbolPunch_8-28-66.bin",
+    "href": "eng_midasSymbolPunch_8-28-66.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/tx-0/midas/eng_midasSymbolPunch_8-28-66.bin",
+    "is_dir": false,
+    "size": "3.1 KiB",
+    "date": "16-Sep-2004 03:19"
+  },
+  {
+    "name": "eng_midasSysMacros.bin",
+    "href": "eng_midasSysMacros.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/tx-0/midas/eng_midasSysMacros.bin",
+    "is_dir": false,
+    "size": "1.4 KiB",
+    "date": "01-Sep-2004 02:27"
+  },
+  {
+    "name": "eng_midasVocab_8-29-66.bin",
+    "href": "eng_midasVocab_8-29-66.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/tx-0/midas/eng_midasVocab_8-29-66.bin",
+    "is_dir": false,
+    "size": "4.4 KiB",
+    "date": "16-Sep-2004 03:09"
+  }
+]

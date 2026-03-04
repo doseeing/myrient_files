@@ -1,0 +1,50 @@
+[
+  {
+    "name": "firmware",
+    "href": "firmware/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/zentec/8000/firmware/",
+    "is_dir": true,
+    "size": null,
+    "date": "16-Feb-2024 15:00"
+  },
+  {
+    "name": "kbd",
+    "href": "kbd/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/zentec/8000/kbd/",
+    "is_dir": true,
+    "size": null,
+    "date": "15-Feb-2024 20:31"
+  },
+  {
+    "name": "monitor",
+    "href": "monitor/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/zentec/8000/monitor/",
+    "is_dir": true,
+    "size": null,
+    "date": "17-Mar-2024 03:08"
+  },
+  {
+    "name": "pcb",
+    "href": "pcb/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/zentec/8000/pcb/",
+    "is_dir": true,
+    "size": null,
+    "date": "15-Feb-2024 20:31"
+  },
+  {
+    "name": "pictures",
+    "href": "pictures/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/zentec/8000/pictures/",
+    "is_dir": true,
+    "size": null,
+    "date": "30-Jan-2024 19:06"
+  },
+  {
+    "name": "8000.pdf",
+    "href": "8000.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/zentec/8000/8000.pdf",
+    "is_dir": false,
+    "size": "335.0 KiB",
+    "date": "30-Jan-2024 19:06"
+  }
+]

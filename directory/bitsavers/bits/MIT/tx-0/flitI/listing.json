@@ -1,0 +1,82 @@
+[
+  {
+    "name": "_text",
+    "href": "_text/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/tx-0/flitI/_text/",
+    "is_dir": true,
+    "size": null,
+    "date": "27-Oct-2004 01:20"
+  },
+  {
+    "name": "bin_flit.bin",
+    "href": "bin_flit.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/tx-0/flitI/bin_flit.bin",
+    "is_dir": false,
+    "size": "1.0 KiB",
+    "date": "16-Sep-2004 03:12"
+  },
+  {
+    "name": "bin_flitI_8-2-61.bin",
+    "href": "bin_flitI_8-2-61.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/tx-0/flitI/bin_flitI_8-2-61.bin",
+    "is_dir": false,
+    "size": "7.0 KiB",
+    "date": "22-Sep-2004 03:10"
+  },
+  {
+    "name": "bin_flit_sym_3-16-60.bin",
+    "href": "bin_flit_sym_3-16-60.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/tx-0/flitI/bin_flit_sym_3-16-60.bin",
+    "is_dir": false,
+    "size": "3.2 KiB",
+    "date": "16-Sep-2004 03:13"
+  },
+  {
+    "name": "eng_flit1secIII_rep_6-23-60_JBD.bin",
+    "href": "eng_flit1secIII_rep_6-23-60_JBD.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/tx-0/flitI/eng_flit1secIII_rep_6-23-60_JBD.bin",
+    "is_dir": false,
+    "size": "10.6 KiB",
+    "date": "16-Sep-2004 03:03"
+  },
+  {
+    "name": "eng_flitI_sec1_8-19-60.bin",
+    "href": "eng_flitI_sec1_8-19-60.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/tx-0/flitI/eng_flitI_sec1_8-19-60.bin",
+    "is_dir": false,
+    "size": "10.7 KiB",
+    "date": "22-Sep-2004 02:44"
+  },
+  {
+    "name": "eng_flitIsecIII_2-10-61.bin",
+    "href": "eng_flitIsecIII_2-10-61.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/tx-0/flitI/eng_flitIsecIII_2-10-61.bin",
+    "is_dir": false,
+    "size": "8.8 KiB",
+    "date": "22-Sep-2004 03:05"
+  },
+  {
+    "name": "eng_flitIsecII_2-10-61.bin",
+    "href": "eng_flitIsecII_2-10-61.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/tx-0/flitI/eng_flitIsecII_2-10-61.bin",
+    "is_dir": false,
+    "size": "4.9 KiB",
+    "date": "22-Sep-2004 03:01"
+  },
+  {
+    "name": "eng_flitIsecI_2-10-61.bin",
+    "href": "eng_flitIsecI_2-10-61.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/tx-0/flitI/eng_flitIsecI_2-10-61.bin",
+    "is_dir": false,
+    "size": "12.0 KiB",
+    "date": "22-Sep-2004 02:55"
+  },
+  {
+    "name": "eng_flitLoc14000.bin",
+    "href": "eng_flitLoc14000.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/tx-0/flitI/eng_flitLoc14000.bin",
+    "is_dir": false,
+    "size": "130 B",
+    "date": "22-Sep-2004 02:59"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "name": "firmware",
+    "href": "firmware/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/digitalEngineering/retrographics/firmware/",
+    "is_dir": true,
+    "size": null,
+    "date": "01-Feb-2022 19:36"
+  },
+  {
+    "name": "pictures",
+    "href": "pictures/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/digitalEngineering/retrographics/pictures/",
+    "is_dir": true,
+    "size": null,
+    "date": "01-Feb-2022 19:36"
+  },
+  {
+    "name": "retrographics_schematic.pdf",
+    "href": "retrographics_schematic.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/digitalEngineering/retrographics/retrographics_schematic.pdf",
+    "is_dir": false,
+    "size": "1.8 MiB",
+    "date": "01-Feb-2022 19:36"
+  },
+  {
+    "name": "rg_disasm.txt",
+    "href": "rg_disasm.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/digitalEngineering/retrographics/rg_disasm.txt",
+    "is_dir": false,
+    "size": "637.3 KiB",
+    "date": "01-Feb-2022 19:36"
+  },
+  {
+    "name": "rg_interface_schematic.pdf",
+    "href": "rg_interface_schematic.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/digitalEngineering/retrographics/rg_interface_schematic.pdf",
+    "is_dir": false,
+    "size": "291.9 KiB",
+    "date": "01-Feb-2022 19:36"
+  }
+]

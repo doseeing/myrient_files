@@ -1,0 +1,42 @@
+[
+  {
+    "name": "composer",
+    "href": "composer/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/music/composer/",
+    "is_dir": true,
+    "size": null,
+    "date": "21-Apr-2017 01:39"
+  },
+  {
+    "name": "midi",
+    "href": "midi/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/music/midi/",
+    "is_dir": true,
+    "size": null,
+    "date": "21-Apr-2017 01:39"
+  },
+  {
+    "name": "mks10",
+    "href": "mks10/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/music/mks10/",
+    "is_dir": true,
+    "size": null,
+    "date": "21-Apr-2017 01:39"
+  },
+  {
+    "name": "tf1",
+    "href": "tf1/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/music/tf1/",
+    "is_dir": true,
+    "size": null,
+    "date": "21-Apr-2017 01:39"
+  },
+  {
+    "name": "sysdef.lisp.11",
+    "href": "sysdef.lisp.11",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/music/sysdef.lisp.11",
+    "is_dir": false,
+    "size": "598 B",
+    "date": "21-Apr-2017 01:06"
+  }
+]

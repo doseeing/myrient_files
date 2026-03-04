@@ -1,0 +1,866 @@
+[
+  {
+    "name": "27360-11002rA.02.01.bin.gz",
+    "href": "27360-11002rA.02.01.bin.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_9000/9000_300/27360-11002rA.02.01.bin.gz",
+    "is_dir": false,
+    "size": "9.7 MiB",
+    "date": "04-Jul-2023 19:17"
+  },
+  {
+    "name": "27360-11002rA.02.01_log.txt",
+    "href": "27360-11002rA.02.01_log.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_9000/9000_300/27360-11002rA.02.01_log.txt",
+    "is_dir": false,
+    "size": "1.2 MiB",
+    "date": "04-Jul-2023 19:17"
+  },
+  {
+    "name": "32031-13301rB.01.00.bin.gz",
+    "href": "32031-13301rB.01.00.bin.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_9000/9000_300/32031-13301rB.01.00.bin.gz",
+    "is_dir": false,
+    "size": "1.5 MiB",
+    "date": "04-Jul-2023 19:17"
+  },
+  {
+    "name": "32031-13301rB.01.00_log.txt",
+    "href": "32031-13301rB.01.00_log.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_9000/9000_300/32031-13301rB.01.00_log.txt",
+    "is_dir": false,
+    "size": "327.2 KiB",
+    "date": "04-Jul-2023 19:17"
+  },
+  {
+    "name": "35222-13301rB.02.00.bin.gz",
+    "href": "35222-13301rB.02.00.bin.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_9000/9000_300/35222-13301rB.02.00.bin.gz",
+    "is_dir": false,
+    "size": "2.0 MiB",
+    "date": "04-Jul-2023 19:17"
+  },
+  {
+    "name": "35222-13301rB.02.00_log.txt",
+    "href": "35222-13301rB.02.00_log.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_9000/9000_300/35222-13301rB.02.00_log.txt",
+    "is_dir": false,
+    "size": "161.4 KiB",
+    "date": "04-Jul-2023 19:17"
+  },
+  {
+    "name": "36592-13302r7.00.bin.gz",
+    "href": "36592-13302r7.00.bin.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_9000/9000_300/36592-13302r7.00.bin.gz",
+    "is_dir": false,
+    "size": "309.9 KiB",
+    "date": "04-Jul-2023 19:17"
+  },
+  {
+    "name": "36592-13302r7.00_log.txt",
+    "href": "36592-13302r7.00_log.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_9000/9000_300/36592-13302r7.00_log.txt",
+    "is_dir": false,
+    "size": "56.6 KiB",
+    "date": "04-Jul-2023 19:17"
+  },
+  {
+    "name": "36593-13301r7.0.bin.gz",
+    "href": "36593-13301r7.0.bin.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_9000/9000_300/36593-13301r7.0.bin.gz",
+    "is_dir": false,
+    "size": "327.2 KiB",
+    "date": "04-Jul-2023 19:17"
+  },
+  {
+    "name": "36593-13301r7.0_log.txt",
+    "href": "36593-13301r7.0_log.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_9000/9000_300/36593-13301r7.0_log.txt",
+    "is_dir": false,
+    "size": "52.8 KiB",
+    "date": "04-Jul-2023 19:17"
+  },
+  {
+    "name": "45524-12004r1.5b.bin",
+    "href": "45524-12004r1.5b.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_9000/9000_300/45524-12004r1.5b.bin",
+    "is_dir": false,
+    "size": "2.7 MiB",
+    "date": "04-Jul-2023 19:17"
+  },
+  {
+    "name": "45524-12004r1.5b_log.txt",
+    "href": "45524-12004r1.5b_log.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_9000/9000_300/45524-12004r1.5b_log.txt",
+    "is_dir": false,
+    "size": "77.7 KiB",
+    "date": "04-Jul-2023 19:17"
+  },
+  {
+    "name": "5.18_hpux_upd.bin.gz",
+    "href": "5.18_hpux_upd.bin.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_9000/9000_300/5.18_hpux_upd.bin.gz",
+    "is_dir": false,
+    "size": "1.4 MiB",
+    "date": "04-Jul-2023 19:17"
+  },
+  {
+    "name": "5.18_hpux_upd_log.txt",
+    "href": "5.18_hpux_upd_log.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_9000/9000_300/5.18_hpux_upd_log.txt",
+    "is_dir": false,
+    "size": "180.4 KiB",
+    "date": "04-Jul-2023 19:17"
+  },
+  {
+    "name": "50952-10041r5.171.bin.gz",
+    "href": "50952-10041r5.171.bin.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_9000/9000_300/50952-10041r5.171.bin.gz",
+    "is_dir": false,
+    "size": "912.6 KiB",
+    "date": "04-Jul-2023 19:17"
+  },
+  {
+    "name": "50952-10041r5.171_log.txt",
+    "href": "50952-10041r5.171_log.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_9000/9000_300/50952-10041r5.171_log.txt",
+    "is_dir": false,
+    "size": "97.3 KiB",
+    "date": "04-Jul-2023 19:17"
+  },
+  {
+    "name": "50952-10043r6.0.bin.gz",
+    "href": "50952-10043r6.0.bin.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_9000/9000_300/50952-10043r6.0.bin.gz",
+    "is_dir": false,
+    "size": "1.4 MiB",
+    "date": "04-Jul-2023 19:17"
+  },
+  {
+    "name": "50952-10043r6.0_log.txt",
+    "href": "50952-10043r6.0_log.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_9000/9000_300/50952-10043r6.0_log.txt",
+    "is_dir": false,
+    "size": "131.5 KiB",
+    "date": "04-Jul-2023 19:17"
+  },
+  {
+    "name": "78727-12201_B.00.02.bin.gz",
+    "href": "78727-12201_B.00.02.bin.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_9000/9000_300/78727-12201_B.00.02.bin.gz",
+    "is_dir": false,
+    "size": "385.1 KiB",
+    "date": "04-Jul-2023 19:17"
+  },
+  {
+    "name": "78727-12201_B.00.02_log.txt",
+    "href": "78727-12201_B.00.02_log.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_9000/9000_300/78727-12201_B.00.02_log.txt",
+    "is_dir": false,
+    "size": "85.4 KiB",
+    "date": "04-Jul-2023 19:17"
+  },
+  {
+    "name": "7942_300sysDiags.bin.gz",
+    "href": "7942_300sysDiags.bin.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_9000/9000_300/7942_300sysDiags.bin.gz",
+    "is_dir": false,
+    "size": "1.2 MiB",
+    "date": "04-Jul-2023 19:17"
+  },
+  {
+    "name": "7942_300sysDiags_log.txt",
+    "href": "7942_300sysDiags_log.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_9000/9000_300/7942_300sysDiags_log.txt",
+    "is_dir": false,
+    "size": "444.5 KiB",
+    "date": "04-Jul-2023 19:17"
+  },
+  {
+    "name": "7942_300sysDiags_try2.bin.gz",
+    "href": "7942_300sysDiags_try2.bin.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_9000/9000_300/7942_300sysDiags_try2.bin.gz",
+    "is_dir": false,
+    "size": "1.2 MiB",
+    "date": "04-Jul-2023 19:17"
+  },
+  {
+    "name": "7942_300sysDiags_try2_log.txt",
+    "href": "7942_300sysDiags_try2_log.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_9000/9000_300/7942_300sysDiags_try2_log.txt",
+    "is_dir": false,
+    "size": "205.2 KiB",
+    "date": "04-Jul-2023 19:17"
+  },
+  {
+    "name": "79725-19000r1.0.bin.gz",
+    "href": "79725-19000r1.0.bin.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_9000/9000_300/79725-19000r1.0.bin.gz",
+    "is_dir": false,
+    "size": "2.9 MiB",
+    "date": "04-Jul-2023 19:17"
+  },
+  {
+    "name": "79725-19000r1.00_log.txt",
+    "href": "79725-19000r1.00_log.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_9000/9000_300/79725-19000r1.00_log.txt",
+    "is_dir": false,
+    "size": "166.9 KiB",
+    "date": "04-Jul-2023 19:17"
+  },
+  {
+    "name": "79725-19001r1.00.bin.gz",
+    "href": "79725-19001r1.00.bin.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_9000/9000_300/79725-19001r1.00.bin.gz",
+    "is_dir": false,
+    "size": "2.2 MiB",
+    "date": "04-Jul-2023 19:17"
+  },
+  {
+    "name": "79725-19001r1.00_log.txt",
+    "href": "79725-19001r1.00_log.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_9000/9000_300/79725-19001r1.00_log.txt",
+    "is_dir": false,
+    "size": "219.5 KiB",
+    "date": "04-Jul-2023 19:17"
+  },
+  {
+    "name": "92452-13302r1.20.bin.gz",
+    "href": "92452-13302r1.20.bin.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_9000/9000_300/92452-13302r1.20.bin.gz",
+    "is_dir": false,
+    "size": "2.8 MiB",
+    "date": "04-Jul-2023 19:17"
+  },
+  {
+    "name": "92452-13302r1.20_log.txt",
+    "href": "92452-13302r1.20_log.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_9000/9000_300/92452-13302r1.20_log.txt",
+    "is_dir": false,
+    "size": "7.9 KiB",
+    "date": "04-Jul-2023 19:17"
+  },
+  {
+    "name": "92452-13303r1.10.bin.gz",
+    "href": "92452-13303r1.10.bin.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_9000/9000_300/92452-13303r1.10.bin.gz",
+    "is_dir": false,
+    "size": "741.7 KiB",
+    "date": "04-Jul-2023 19:17"
+  },
+  {
+    "name": "92452-13303r1.10_log.txt",
+    "href": "92452-13303r1.10_log.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_9000/9000_300/92452-13303r1.10_log.txt",
+    "is_dir": false,
+    "size": "353.0 KiB",
+    "date": "04-Jul-2023 19:17"
+  },
+  {
+    "name": "92452-13306r3.01.bin.gz",
+    "href": "92452-13306r3.01.bin.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_9000/9000_300/92452-13306r3.01.bin.gz",
+    "is_dir": false,
+    "size": "4.1 MiB",
+    "date": "04-Jul-2023 19:17"
+  },
+  {
+    "name": "92452-13306r3.01_log.txt",
+    "href": "92452-13306r3.01_log.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_9000/9000_300/92452-13306r3.01_log.txt",
+    "is_dir": false,
+    "size": "373.8 KiB",
+    "date": "04-Jul-2023 19:17"
+  },
+  {
+    "name": "92669-13301rA.00.00.bin.gz",
+    "href": "92669-13301rA.00.00.bin.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_9000/9000_300/92669-13301rA.00.00.bin.gz",
+    "is_dir": false,
+    "size": "943.3 KiB",
+    "date": "04-Jul-2023 19:17"
+  },
+  {
+    "name": "92669-13301rA.00.00_log.txt",
+    "href": "92669-13301rA.00.00_log.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_9000/9000_300/92669-13301rA.00.00_log.txt",
+    "is_dir": false,
+    "size": "128.8 KiB",
+    "date": "04-Jul-2023 19:17"
+  },
+  {
+    "name": "98118-12207rB.01.00.bin.gz",
+    "href": "98118-12207rB.01.00.bin.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_9000/9000_300/98118-12207rB.01.00.bin.gz",
+    "is_dir": false,
+    "size": "1.5 MiB",
+    "date": "04-Jul-2023 19:17"
+  },
+  {
+    "name": "98118-12207rV.01.00_log.txt",
+    "href": "98118-12207rV.01.00_log.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_9000/9000_300/98118-12207rV.01.00_log.txt",
+    "is_dir": false,
+    "size": "151.0 KiB",
+    "date": "04-Jul-2023 19:17"
+  },
+  {
+    "name": "98162-13302rA.B8.01.bin.gz",
+    "href": "98162-13302rA.B8.01.bin.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_9000/9000_300/98162-13302rA.B8.01.bin.gz",
+    "is_dir": false,
+    "size": "175.1 KiB",
+    "date": "04-Jul-2023 19:17"
+  },
+  {
+    "name": "98162-13302rA.B8.01_log.txt",
+    "href": "98162-13302rA.B8.01_log.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_9000/9000_300/98162-13302rA.B8.01_log.txt",
+    "is_dir": false,
+    "size": "35.3 KiB",
+    "date": "04-Jul-2023 19:17"
+  },
+  {
+    "name": "98184-13301r1.1.bin.gz",
+    "href": "98184-13301r1.1.bin.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_9000/9000_300/98184-13301r1.1.bin.gz",
+    "is_dir": false,
+    "size": "326.0 KiB",
+    "date": "04-Jul-2023 19:17"
+  },
+  {
+    "name": "98184-13301r1.1_log.txt",
+    "href": "98184-13301r1.1_log.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_9000/9000_300/98184-13301r1.1_log.txt",
+    "is_dir": false,
+    "size": "38.8 KiB",
+    "date": "04-Jul-2023 19:17"
+  },
+  {
+    "name": "98297-13301rA.02.00.bin.gz",
+    "href": "98297-13301rA.02.00.bin.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_9000/9000_300/98297-13301rA.02.00.bin.gz",
+    "is_dir": false,
+    "size": "1.1 MiB",
+    "date": "04-Jul-2023 19:17"
+  },
+  {
+    "name": "98297-13301rA.02.00_log.txt",
+    "href": "98297-13301rA.02.00_log.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_9000/9000_300/98297-13301rA.02.00_log.txt",
+    "is_dir": false,
+    "size": "297.9 KiB",
+    "date": "04-Jul-2023 19:17"
+  },
+  {
+    "name": "98366-10301r2.00.bin.gz",
+    "href": "98366-10301r2.00.bin.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_9000/9000_300/98366-10301r2.00.bin.gz",
+    "is_dir": false,
+    "size": "2.0 MiB",
+    "date": "04-Jul-2023 19:17"
+  },
+  {
+    "name": "98366-10301r2.00_log.txt",
+    "href": "98366-10301r2.00_log.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_9000/9000_300/98366-10301r2.00_log.txt",
+    "is_dir": false,
+    "size": "201.8 KiB",
+    "date": "04-Jul-2023 19:17"
+  },
+  {
+    "name": "98531-10134r2.00.bin.gz",
+    "href": "98531-10134r2.00.bin.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_9000/9000_300/98531-10134r2.00.bin.gz",
+    "is_dir": false,
+    "size": "1.6 MiB",
+    "date": "04-Jul-2023 19:17"
+  },
+  {
+    "name": "98531-10134r2.00_log.txt",
+    "href": "98531-10134r2.00_log.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_9000/9000_300/98531-10134r2.00_log.txt",
+    "is_dir": false,
+    "size": "197.1 KiB",
+    "date": "04-Jul-2023 19:17"
+  },
+  {
+    "name": "98531-10135r2.10.bin.gz",
+    "href": "98531-10135r2.10.bin.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_9000/9000_300/98531-10135r2.10.bin.gz",
+    "is_dir": false,
+    "size": "5.0 MiB",
+    "date": "04-Jul-2023 19:17"
+  },
+  {
+    "name": "98531-10135r2.10_log.txt",
+    "href": "98531-10135r2.10_log.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_9000/9000_300/98531-10135r2.10_log.txt",
+    "is_dir": false,
+    "size": "397.9 KiB",
+    "date": "04-Jul-2023 19:17"
+  },
+  {
+    "name": "98594-10040r0700.bin.gz",
+    "href": "98594-10040r0700.bin.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_9000/9000_300/98594-10040r0700.bin.gz",
+    "is_dir": false,
+    "size": "23.1 MiB",
+    "date": "04-Jul-2023 19:18"
+  },
+  {
+    "name": "98594-10040r0700_log.txt",
+    "href": "98594-10040r0700_log.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_9000/9000_300/98594-10040r0700_log.txt",
+    "is_dir": false,
+    "size": "1.9 MiB",
+    "date": "04-Jul-2023 19:18"
+  },
+  {
+    "name": "98595-12080r7.05.bin.gz",
+    "href": "98595-12080r7.05.bin.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_9000/9000_300/98595-12080r7.05.bin.gz",
+    "is_dir": false,
+    "size": "16.8 MiB",
+    "date": "04-Jul-2023 19:18"
+  },
+  {
+    "name": "98595-12080r7.05_log.txt",
+    "href": "98595-12080r7.05_log.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_9000/9000_300/98595-12080r7.05_log.txt",
+    "is_dir": false,
+    "size": "1.9 MiB",
+    "date": "04-Jul-2023 19:18"
+  },
+  {
+    "name": "98597c_opt022_6.5.bin.gz",
+    "href": "98597c_opt022_6.5.bin.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_9000/9000_300/98597c_opt022_6.5.bin.gz",
+    "is_dir": false,
+    "size": "13.2 MiB",
+    "date": "04-Jul-2023 19:19"
+  },
+  {
+    "name": "98597c_opt022_6.5_label.txt",
+    "href": "98597c_opt022_6.5_label.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_9000/9000_300/98597c_opt022_6.5_label.txt",
+    "is_dir": false,
+    "size": "136 B",
+    "date": "04-Jul-2023 19:19"
+  },
+  {
+    "name": "98597c_opt022_6.5_log.txt",
+    "href": "98597c_opt022_6.5_log.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_9000/9000_300/98597c_opt022_6.5_log.txt",
+    "is_dir": false,
+    "size": "1.8 KiB",
+    "date": "04-Jul-2023 19:19"
+  },
+  {
+    "name": "98688-10037rA.04.00_devEnv.bin.gz",
+    "href": "98688-10037rA.04.00_devEnv.bin.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_9000/9000_300/98688-10037rA.04.00_devEnv.bin.gz",
+    "is_dir": false,
+    "size": "12.5 MiB",
+    "date": "04-Jul-2023 19:19"
+  },
+  {
+    "name": "98688-10037rA.04.00_devEnv_log.txt",
+    "href": "98688-10037rA.04.00_devEnv_log.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_9000/9000_300/98688-10037rA.04.00_devEnv_log.txt",
+    "is_dir": false,
+    "size": "1.6 MiB",
+    "date": "04-Jul-2023 19:19"
+  },
+  {
+    "name": "98689-10036r2.16.bin.gz",
+    "href": "98689-10036r2.16.bin.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_9000/9000_300/98689-10036r2.16.bin.gz",
+    "is_dir": false,
+    "size": "1.1 MiB",
+    "date": "04-Jul-2023 19:19"
+  },
+  {
+    "name": "98689-10036r2.16_log.txt",
+    "href": "98689-10036r2.16_log.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_9000/9000_300/98689-10036r2.16_log.txt",
+    "is_dir": false,
+    "size": "326.4 KiB",
+    "date": "04-Jul-2023 19:19"
+  },
+  {
+    "name": "98689-10037rA.04.00.bin.gz",
+    "href": "98689-10037rA.04.00.bin.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_9000/9000_300/98689-10037rA.04.00.bin.gz",
+    "is_dir": false,
+    "size": "9.4 MiB",
+    "date": "04-Jul-2023 19:19"
+  },
+  {
+    "name": "98689-10037rA.04.00_log.txt",
+    "href": "98689-10037rA.04.00_log.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_9000/9000_300/98689-10037rA.04.00_log.txt",
+    "is_dir": false,
+    "size": "1.2 MiB",
+    "date": "04-Jul-2023 19:19"
+  },
+  {
+    "name": "98689-10038rA.04.01.bin.gz",
+    "href": "98689-10038rA.04.01.bin.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_9000/9000_300/98689-10038rA.04.01.bin.gz",
+    "is_dir": false,
+    "size": "9.4 MiB",
+    "date": "04-Jul-2023 19:19"
+  },
+  {
+    "name": "98689-10038rA.04.01_log.txt",
+    "href": "98689-10038rA.04.01_log.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_9000/9000_300/98689-10038rA.04.01_log.txt",
+    "is_dir": false,
+    "size": "1.5 MiB",
+    "date": "04-Jul-2023 19:19"
+  },
+  {
+    "name": "98800-12005r1.2.bin.gz",
+    "href": "98800-12005r1.2.bin.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_9000/9000_300/98800-12005r1.2.bin.gz",
+    "is_dir": false,
+    "size": "3.7 MiB",
+    "date": "04-Jul-2023 19:19"
+  },
+  {
+    "name": "98800-12005r1.2_log.txt",
+    "href": "98800-12005r1.2_log.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_9000/9000_300/98800-12005r1.2_log.txt",
+    "is_dir": false,
+    "size": "354.3 KiB",
+    "date": "04-Jul-2023 19:19"
+  },
+  {
+    "name": "98870-10034r1.3.bin.gz",
+    "href": "98870-10034r1.3.bin.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_9000/9000_300/98870-10034r1.3.bin.gz",
+    "is_dir": false,
+    "size": "2.2 MiB",
+    "date": "04-Jul-2023 19:19"
+  },
+  {
+    "name": "98870-10034r1.3_log.txt",
+    "href": "98870-10034r1.3_log.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_9000/9000_300/98870-10034r1.3_log.txt",
+    "is_dir": false,
+    "size": "274.3 KiB",
+    "date": "04-Jul-2023 19:19"
+  },
+  {
+    "name": "98885-19000r1.0.bin.gz",
+    "href": "98885-19000r1.0.bin.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_9000/9000_300/98885-19000r1.0.bin.gz",
+    "is_dir": false,
+    "size": "403.0 KiB",
+    "date": "04-Jul-2023 19:19"
+  },
+  {
+    "name": "98885-19000r1.0_log.txt",
+    "href": "98885-19000r1.0_log.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_9000/9000_300/98885-19000r1.0_log.txt",
+    "is_dir": false,
+    "size": "51.1 KiB",
+    "date": "04-Jul-2023 19:19"
+  },
+  {
+    "name": "98887-10034_8-29-89.bin.gz",
+    "href": "98887-10034_8-29-89.bin.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_9000/9000_300/98887-10034_8-29-89.bin.gz",
+    "is_dir": false,
+    "size": "1.3 MiB",
+    "date": "04-Jul-2023 19:19"
+  },
+  {
+    "name": "98887-10034_8-29-89_log.txt",
+    "href": "98887-10034_8-29-89_log.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_9000/9000_300/98887-10034_8-29-89_log.txt",
+    "is_dir": false,
+    "size": "136.1 KiB",
+    "date": "04-Jul-2023 19:19"
+  },
+  {
+    "name": "98887-10034r1.0.bin.gz",
+    "href": "98887-10034r1.0.bin.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_9000/9000_300/98887-10034r1.0.bin.gz",
+    "is_dir": false,
+    "size": "978.5 KiB",
+    "date": "04-Jul-2023 19:19"
+  },
+  {
+    "name": "98887-10034r1.0_log.txt",
+    "href": "98887-10034r1.0_log.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_9000/9000_300/98887-10034r1.0_log.txt",
+    "is_dir": false,
+    "size": "115.1 KiB",
+    "date": "04-Jul-2023 19:19"
+  },
+  {
+    "name": "98889-10038rB.05.35.bin.gz",
+    "href": "98889-10038rB.05.35.bin.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_9000/9000_300/98889-10038rB.05.35.bin.gz",
+    "is_dir": false,
+    "size": "2.6 MiB",
+    "date": "04-Jul-2023 19:19"
+  },
+  {
+    "name": "98889-10038rB.05.35_log.txt",
+    "href": "98889-10038rB.05.35_log.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_9000/9000_300/98889-10038rB.05.35_log.txt",
+    "is_dir": false,
+    "size": "313.0 KiB",
+    "date": "04-Jul-2023 19:19"
+  },
+  {
+    "name": "98889-10041rB.05.35.bin.gz",
+    "href": "98889-10041rB.05.35.bin.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_9000/9000_300/98889-10041rB.05.35.bin.gz",
+    "is_dir": false,
+    "size": "5.3 MiB",
+    "date": "04-Jul-2023 19:19"
+  },
+  {
+    "name": "98889-10041rB.05.35_log.txt",
+    "href": "98889-10041rB.05.35_log.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_9000/9000_300/98889-10041rB.05.35_log.txt",
+    "is_dir": false,
+    "size": "563.4 KiB",
+    "date": "04-Jul-2023 19:19"
+  },
+  {
+    "name": "B1001-10036rA.01.02.bin.gz",
+    "href": "B1001-10036rA.01.02.bin.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_9000/9000_300/B1001-10036rA.01.02.bin.gz",
+    "is_dir": false,
+    "size": "340.7 KiB",
+    "date": "04-Jul-2023 19:19"
+  },
+  {
+    "name": "B1001-10036rA.01.02_log.txt",
+    "href": "B1001-10036rA.01.02_log.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_9000/9000_300/B1001-10036rA.01.02_log.txt",
+    "is_dir": false,
+    "size": "51.3 KiB",
+    "date": "04-Jul-2023 19:19"
+  },
+  {
+    "name": "B1001-13302rA.B8.01.bin.gz",
+    "href": "B1001-13302rA.B8.01.bin.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_9000/9000_300/B1001-13302rA.B8.01.bin.gz",
+    "is_dir": false,
+    "size": "352.1 KiB",
+    "date": "04-Jul-2023 19:19"
+  },
+  {
+    "name": "B1001-13302rA.B8.01_log.txt",
+    "href": "B1001-13302rA.B8.01_log.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_9000/9000_300/B1001-13302rA.B8.01_log.txt",
+    "is_dir": false,
+    "size": "53.9 KiB",
+    "date": "04-Jul-2023 19:19"
+  },
+  {
+    "name": "B1167-13002rA.01.00.bin.gz",
+    "href": "B1167-13002rA.01.00.bin.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_9000/9000_300/B1167-13002rA.01.00.bin.gz",
+    "is_dir": false,
+    "size": "136.8 KiB",
+    "date": "04-Jul-2023 19:19"
+  },
+  {
+    "name": "B1167-13002rA.01.00_log.txt",
+    "href": "B1167-13002rA.01.00_log.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_9000/9000_300/B1167-13002rA.01.00_log.txt",
+    "is_dir": false,
+    "size": "57.6 KiB",
+    "date": "04-Jul-2023 19:19"
+  },
+  {
+    "name": "B1600-19010rA.00.02.bin.gz",
+    "href": "B1600-19010rA.00.02.bin.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_9000/9000_300/B1600-19010rA.00.02.bin.gz",
+    "is_dir": false,
+    "size": "8.9 MiB",
+    "date": "04-Jul-2023 19:19"
+  },
+  {
+    "name": "B1600-19010rA.00.02_log.txt",
+    "href": "B1600-19010rA.00.02_log.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_9000/9000_300/B1600-19010rA.00.02_log.txt",
+    "is_dir": false,
+    "size": "876.7 KiB",
+    "date": "04-Jul-2023 19:19"
+  },
+  {
+    "name": "B1622-10042_A.00.00.bin.gz",
+    "href": "B1622-10042_A.00.00.bin.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_9000/9000_300/B1622-10042_A.00.00.bin.gz",
+    "is_dir": false,
+    "size": "1.6 MiB",
+    "date": "04-Jul-2023 19:19"
+  },
+  {
+    "name": "B1622-10042_A.00.00_log.txt",
+    "href": "B1622-10042_A.00.00_log.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_9000/9000_300/B1622-10042_A.00.00_log.txt",
+    "is_dir": false,
+    "size": "227.3 KiB",
+    "date": "04-Jul-2023 19:19"
+  },
+  {
+    "name": "B1691-19002r0700.bin.gz",
+    "href": "B1691-19002r0700.bin.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_9000/9000_300/B1691-19002r0700.bin.gz",
+    "is_dir": false,
+    "size": "3.4 MiB",
+    "date": "04-Jul-2023 19:19"
+  },
+  {
+    "name": "B1691-19002r0700_log.txt",
+    "href": "B1691-19002r0700_log.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_9000/9000_300/B1691-19002r0700_log.txt",
+    "is_dir": false,
+    "size": "383.0 KiB",
+    "date": "04-Jul-2023 19:19"
+  },
+  {
+    "name": "B1695-10401rA.00.00.bin.gz",
+    "href": "B1695-10401rA.00.00.bin.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_9000/9000_300/B1695-10401rA.00.00.bin.gz",
+    "is_dir": false,
+    "size": "554.0 KiB",
+    "date": "04-Jul-2023 19:19"
+  },
+  {
+    "name": "B1695-10401rA.00.00_log.txt",
+    "href": "B1695-10401rA.00.00_log.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_9000/9000_300/B1695-10401rA.00.00_log.txt",
+    "is_dir": false,
+    "size": "69.3 KiB",
+    "date": "04-Jul-2023 19:19"
+  },
+  {
+    "name": "Labels.txt",
+    "href": "Labels.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_9000/9000_300/Labels.txt",
+    "is_dir": false,
+    "size": "1.1 KiB",
+    "date": "04-Jul-2023 19:19"
+  },
+  {
+    "name": "dart3_s300_8.00_se_tape.bin.gz",
+    "href": "dart3_s300_8.00_se_tape.bin.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_9000/9000_300/dart3_s300_8.00_se_tape.bin.gz",
+    "is_dir": false,
+    "size": "8.4 MiB",
+    "date": "04-Jul-2023 19:19"
+  },
+  {
+    "name": "dart3_s300_8.00_se_tape_label.txt",
+    "href": "dart3_s300_8.00_se_tape_label.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_9000/9000_300/dart3_s300_8.00_se_tape_label.txt",
+    "is_dir": false,
+    "size": "128 B",
+    "date": "04-Jul-2023 19:19"
+  },
+  {
+    "name": "dart3_s300_8.0_se_tape_log.txt",
+    "href": "dart3_s300_8.0_se_tape_log.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_9000/9000_300/dart3_s300_8.0_se_tape_log.txt",
+    "is_dir": false,
+    "size": "1.9 KiB",
+    "date": "04-Jul-2023 19:19"
+  },
+  {
+    "name": "dataviewsr3.0c_98700H.bin.gz",
+    "href": "dataviewsr3.0c_98700H.bin.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_9000/9000_300/dataviewsr3.0c_98700H.bin.gz",
+    "is_dir": false,
+    "size": "262.4 KiB",
+    "date": "04-Jul-2023 19:19"
+  },
+  {
+    "name": "dataviewsr3.0c_98700H_log.txt",
+    "href": "dataviewsr3.0c_98700H_log.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_9000/9000_300/dataviewsr3.0c_98700H_log.txt",
+    "is_dir": false,
+    "size": "24.2 KiB",
+    "date": "04-Jul-2023 19:19"
+  },
+  {
+    "name": "s300_hpux_inst_7.03.bin.gz",
+    "href": "s300_hpux_inst_7.03.bin.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_9000/9000_300/s300_hpux_inst_7.03.bin.gz",
+    "is_dir": false,
+    "size": "1.1 MiB",
+    "date": "04-Jul-2023 19:19"
+  },
+  {
+    "name": "s300_hpux_inst_7.03_log.txt",
+    "href": "s300_hpux_inst_7.03_log.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_9000/9000_300/s300_hpux_inst_7.03_log.txt",
+    "is_dir": false,
+    "size": "1.5 KiB",
+    "date": "04-Jul-2023 19:19"
+  },
+  {
+    "name": "se_master_s300_1of2.bin.gz",
+    "href": "se_master_s300_1of2.bin.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_9000/9000_300/se_master_s300_1of2.bin.gz",
+    "is_dir": false,
+    "size": "20.0 MiB",
+    "date": "04-Jul-2023 19:20"
+  },
+  {
+    "name": "se_master_s300_1of2_log.txt",
+    "href": "se_master_s300_1of2_log.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_9000/9000_300/se_master_s300_1of2_log.txt",
+    "is_dir": false,
+    "size": "1.1 KiB",
+    "date": "04-Jul-2023 19:20"
+  },
+  {
+    "name": "softbench_link1000.bin.gz",
+    "href": "softbench_link1000.bin.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_9000/9000_300/softbench_link1000.bin.gz",
+    "is_dir": false,
+    "size": "260.7 KiB",
+    "date": "04-Jul-2023 19:20"
+  },
+  {
+    "name": "softbench_link1000_label.txt",
+    "href": "softbench_link1000_label.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_9000/9000_300/softbench_link1000_label.txt",
+    "is_dir": false,
+    "size": "128 B",
+    "date": "04-Jul-2023 19:20"
+  },
+  {
+    "name": "softbench_link1000_log.txt",
+    "href": "softbench_link1000_log.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_9000/9000_300/softbench_link1000_log.txt",
+    "is_dir": false,
+    "size": "2.7 KiB",
+    "date": "04-Jul-2023 19:20"
+  },
+  {
+    "name": "uptime_w_cmd_8.0_300_400.bin.gz",
+    "href": "uptime_w_cmd_8.0_300_400.bin.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_9000/9000_300/uptime_w_cmd_8.0_300_400.bin.gz",
+    "is_dir": false,
+    "size": "3.3 MiB",
+    "date": "04-Jul-2023 19:20"
+  },
+  {
+    "name": "uptime_w_cmd_8.0_300_400_log.txt",
+    "href": "uptime_w_cmd_8.0_300_400_log.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/HP/HP_9000/9000_300/uptime_w_cmd_8.0_300_400_log.txt",
+    "is_dir": false,
+    "size": "385.6 KiB",
+    "date": "04-Jul-2023 19:20"
+  }
+]

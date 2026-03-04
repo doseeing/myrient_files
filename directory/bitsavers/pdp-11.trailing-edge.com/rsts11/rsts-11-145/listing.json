@@ -1,0 +1,402 @@
+[
+  {
+    "name": "AGRIC.DAT",
+    "href": "AGRIC.DAT",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-145/AGRIC.DAT",
+    "is_dir": false,
+    "size": "12.3 KiB",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "CAPTAL.DAT",
+    "href": "CAPTAL.DAT",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-145/CAPTAL.DAT",
+    "is_dir": false,
+    "size": "8.3 KiB",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "CLIFF.DAT",
+    "href": "CLIFF.DAT",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-145/CLIFF.DAT",
+    "is_dir": false,
+    "size": "1.7 KiB",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "CLIFF2.DAT",
+    "href": "CLIFF2.DAT",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-145/CLIFF2.DAT",
+    "is_dir": false,
+    "size": "1.9 KiB",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "CLIP.DAT",
+    "href": "CLIP.DAT",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-145/CLIP.DAT",
+    "is_dir": false,
+    "size": "1.9 KiB",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "COAL1.DAT",
+    "href": "COAL1.DAT",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-145/COAL1.DAT",
+    "is_dir": false,
+    "size": "1.3 KiB",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "COAL2.DAT",
+    "href": "COAL2.DAT",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-145/COAL2.DAT",
+    "is_dir": false,
+    "size": "1.3 KiB",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "COMPIL.CTL",
+    "href": "COMPIL.CTL",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-145/COMPIL.CTL",
+    "is_dir": false,
+    "size": "129 B",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "CONCAR.DAT",
+    "href": "CONCAR.DAT",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-145/CONCAR.DAT",
+    "is_dir": false,
+    "size": "1.4 KiB",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "DEL.DAT",
+    "href": "DEL.DAT",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-145/DEL.DAT",
+    "is_dir": false,
+    "size": "1.5 KiB",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "DELRAM.DAT",
+    "href": "DELRAM.DAT",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-145/DELRAM.DAT",
+    "is_dir": false,
+    "size": "1.4 KiB",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "ERRORS.DAT",
+    "href": "ERRORS.DAT",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-145/ERRORS.DAT",
+    "is_dir": false,
+    "size": "5.0 KiB",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "EXPTST.DAT",
+    "href": "EXPTST.DAT",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-145/EXPTST.DAT",
+    "is_dir": false,
+    "size": "2.2 KiB",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "FUNCT.DAT",
+    "href": "FUNCT.DAT",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-145/FUNCT.DAT",
+    "is_dir": false,
+    "size": "2.8 KiB",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "HEAT.DAT",
+    "href": "HEAT.DAT",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-145/HEAT.DAT",
+    "is_dir": false,
+    "size": "16.6 KiB",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "INTRG1.DAT",
+    "href": "INTRG1.DAT",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-145/INTRG1.DAT",
+    "is_dir": false,
+    "size": "1.5 KiB",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "INTRG2.DAT",
+    "href": "INTRG2.DAT",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-145/INTRG2.DAT",
+    "is_dir": false,
+    "size": "1.5 KiB",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "INTRG3.DAT",
+    "href": "INTRG3.DAT",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-145/INTRG3.DAT",
+    "is_dir": false,
+    "size": "1.5 KiB",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "INTRST.DAT",
+    "href": "INTRST.DAT",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-145/INTRST.DAT",
+    "is_dir": false,
+    "size": "1.4 KiB",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "LAKE.DAT",
+    "href": "LAKE.DAT",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-145/LAKE.DAT",
+    "is_dir": false,
+    "size": "6.8 KiB",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "LINK.CTL",
+    "href": "LINK.CTL",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-145/LINK.CTL",
+    "is_dir": false,
+    "size": "1.2 KiB",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "MACRO.DAT",
+    "href": "MACRO.DAT",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-145/MACRO.DAT",
+    "is_dir": false,
+    "size": "1.4 KiB",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "NDTEDT.FOR",
+    "href": "NDTEDT.FOR",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-145/NDTEDT.FOR",
+    "is_dir": false,
+    "size": "22.3 KiB",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "NDTM.FOR",
+    "href": "NDTM.FOR",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-145/NDTM.FOR",
+    "is_dir": false,
+    "size": "25.0 KiB",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "NDTRAN.DOC",
+    "href": "NDTRAN.DOC",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-145/NDTRAN.DOC",
+    "is_dir": false,
+    "size": "4.9 KiB",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "NDTRAN.FOR",
+    "href": "NDTRAN.FOR",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-145/NDTRAN.FOR",
+    "is_dir": false,
+    "size": "886.5 KiB",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "PLOT2.DAT",
+    "href": "PLOT2.DAT",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-145/PLOT2.DAT",
+    "is_dir": false,
+    "size": "1.2 KiB",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "PLOT3.DAT",
+    "href": "PLOT3.DAT",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-145/PLOT3.DAT",
+    "is_dir": false,
+    "size": "1.2 KiB",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "PLOT4.DAT",
+    "href": "PLOT4.DAT",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-145/PLOT4.DAT",
+    "is_dir": false,
+    "size": "1.2 KiB",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "PLOT5.DAT",
+    "href": "PLOT5.DAT",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-145/PLOT5.DAT",
+    "is_dir": false,
+    "size": "2.2 KiB",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "PLOT6.DAT",
+    "href": "PLOT6.DAT",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-145/PLOT6.DAT",
+    "is_dir": false,
+    "size": "1.2 KiB",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "PLOTST.DAT",
+    "href": "PLOTST.DAT",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-145/PLOTST.DAT",
+    "is_dir": false,
+    "size": "1.2 KiB",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "POISSN.DAT",
+    "href": "POISSN.DAT",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-145/POISSN.DAT",
+    "is_dir": false,
+    "size": "2.2 KiB",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "POP.DAT",
+    "href": "POP.DAT",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-145/POP.DAT",
+    "is_dir": false,
+    "size": "11.8 KiB",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "PULSE.DAT",
+    "href": "PULSE.DAT",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-145/PULSE.DAT",
+    "is_dir": false,
+    "size": "1.3 KiB",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "RES.DAT",
+    "href": "RES.DAT",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-145/RES.DAT",
+    "is_dir": false,
+    "size": "3.7 KiB",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "SMOOTH.DAT",
+    "href": "SMOOTH.DAT",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-145/SMOOTH.DAT",
+    "is_dir": false,
+    "size": "984 B",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "SPIRAL.DAT",
+    "href": "SPIRAL.DAT",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-145/SPIRAL.DAT",
+    "is_dir": false,
+    "size": "1.4 KiB",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "STEP.DAT",
+    "href": "STEP.DAT",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-145/STEP.DAT",
+    "is_dir": false,
+    "size": "1.6 KiB",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "STEPDL.DAT",
+    "href": "STEPDL.DAT",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-145/STEPDL.DAT",
+    "is_dir": false,
+    "size": "1.1 KiB",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "TABLE.DAT",
+    "href": "TABLE.DAT",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-145/TABLE.DAT",
+    "is_dir": false,
+    "size": "1.4 KiB",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "TABLE1.DAT",
+    "href": "TABLE1.DAT",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-145/TABLE1.DAT",
+    "is_dir": false,
+    "size": "1.1 KiB",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "TABLES.DAT",
+    "href": "TABLES.DAT",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-145/TABLES.DAT",
+    "is_dir": false,
+    "size": "1.2 KiB",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "WORLD3.DAT",
+    "href": "WORLD3.DAT",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-145/WORLD3.DAT",
+    "is_dir": false,
+    "size": "31.1 KiB",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "XERR1.DAT",
+    "href": "XERR1.DAT",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-145/XERR1.DAT",
+    "is_dir": false,
+    "size": "1.3 KiB",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "XERR2.DAT",
+    "href": "XERR2.DAT",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-145/XERR2.DAT",
+    "is_dir": false,
+    "size": "1.4 KiB",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "XERR3.DAT",
+    "href": "XERR3.DAT",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-145/XERR3.DAT",
+    "is_dir": false,
+    "size": "1.4 KiB",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "XERR4.DAT",
+    "href": "XERR4.DAT",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-145/XERR4.DAT",
+    "is_dir": false,
+    "size": "1.4 KiB",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "XERR5.DAT",
+    "href": "XERR5.DAT",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-145/XERR5.DAT",
+    "is_dir": false,
+    "size": "1.4 KiB",
+    "date": "12-Feb-2000 13:25"
+  },
+  {
+    "name": "index.html",
+    "href": "index.html",
+    "url": "https://myrient.erista.me/files/bitsavers/pdp-11.trailing-edge.com/rsts11/rsts-11-145/index.html",
+    "is_dir": false,
+    "size": "5.6 KiB",
+    "date": "13-Feb-2000 03:15"
+  }
+]

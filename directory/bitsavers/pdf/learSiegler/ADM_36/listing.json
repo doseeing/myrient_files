@@ -1,0 +1,42 @@
+[
+  {
+    "name": "firmware",
+    "href": "firmware/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/learSiegler/ADM_36/firmware/",
+    "is_dir": true,
+    "size": null,
+    "date": "18-Mar-2019 23:19"
+  },
+  {
+    "name": "pictures",
+    "href": "pictures/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/learSiegler/ADM_36/pictures/",
+    "is_dir": true,
+    "size": null,
+    "date": "18-Mar-2019 23:19"
+  },
+  {
+    "name": "DP2360382F_ADM_36_Users_Manual_Apr82.pdf",
+    "href": "DP2360382F_ADM_36_Users_Manual_Apr82.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/learSiegler/ADM_36/DP2360382F_ADM_36_Users_Manual_Apr82.pdf",
+    "is_dir": false,
+    "size": "7.9 MiB",
+    "date": "01-Aug-2016 02:10"
+  },
+  {
+    "name": "DP3361282FD_ADM_36_Drawing_Package.pdf",
+    "href": "DP3361282FD_ADM_36_Drawing_Package.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/learSiegler/ADM_36/DP3361282FD_ADM_36_Drawing_Package.pdf",
+    "is_dir": false,
+    "size": "2.1 MiB",
+    "date": "01-Aug-2016 18:06"
+  },
+  {
+    "name": "DP3361282F_ADM_36_Maintenance_Manual_Dec82.pdf",
+    "href": "DP3361282F_ADM_36_Maintenance_Manual_Dec82.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/learSiegler/ADM_36/DP3361282F_ADM_36_Maintenance_Manual_Dec82.pdf",
+    "is_dir": false,
+    "size": "24.7 MiB",
+    "date": "02-Aug-2016 20:06"
+  }
+]

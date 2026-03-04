@@ -1,0 +1,802 @@
+[
+  {
+    "name": "221baker.png",
+    "href": "221baker.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/apple2_flop_misc/221baker.png",
+    "is_dir": false,
+    "size": "42.9 KiB",
+    "date": "28-Sep-2025 13:24"
+  },
+  {
+    "name": "3ddockms.png",
+    "href": "3ddockms.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/apple2_flop_misc/3ddockms.png",
+    "is_dir": false,
+    "size": "35.1 KiB",
+    "date": "28-Sep-2025 13:24"
+  },
+  {
+    "name": "3in1ftbl.png",
+    "href": "3in1ftbl.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/apple2_flop_misc/3in1ftbl.png",
+    "is_dir": false,
+    "size": "10.4 KiB",
+    "date": "28-Sep-2025 13:24"
+  },
+  {
+    "name": "4080trkd.png",
+    "href": "4080trkd.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/apple2_flop_misc/4080trkd.png",
+    "is_dir": false,
+    "size": "47.1 KiB",
+    "date": "28-Sep-2025 13:24"
+  },
+  {
+    "name": "a2desk.png",
+    "href": "a2desk.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/apple2_flop_misc/a2desk.png",
+    "is_dir": false,
+    "size": "5.2 KiB",
+    "date": "28-Sep-2025 13:24"
+  },
+  {
+    "name": "a2desk10.png",
+    "href": "a2desk10.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/apple2_flop_misc/a2desk10.png",
+    "is_dir": false,
+    "size": "29.4 KiB",
+    "date": "28-Sep-2025 13:24"
+  },
+  {
+    "name": "a2fltsim.png",
+    "href": "a2fltsim.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/apple2_flop_misc/a2fltsim.png",
+    "is_dir": false,
+    "size": "25.2 KiB",
+    "date": "28-Sep-2025 13:24"
+  },
+  {
+    "name": "aaw.png",
+    "href": "aaw.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/apple2_flop_misc/aaw.png",
+    "is_dir": false,
+    "size": "6.9 KiB",
+    "date": "28-Sep-2025 13:24"
+  },
+  {
+    "name": "aawsea.png",
+    "href": "aawsea.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/apple2_flop_misc/aawsea.png",
+    "is_dir": false,
+    "size": "5.4 KiB",
+    "date": "28-Sep-2025 13:24"
+  },
+  {
+    "name": "abm.png",
+    "href": "abm.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/apple2_flop_misc/abm.png",
+    "is_dir": false,
+    "size": "18.3 KiB",
+    "date": "28-Sep-2025 13:24"
+  },
+  {
+    "name": "abyszone.png",
+    "href": "abyszone.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/apple2_flop_misc/abyszone.png",
+    "is_dir": false,
+    "size": "38.8 KiB",
+    "date": "28-Sep-2025 13:24"
+  },
+  {
+    "name": "actsrcvb.png",
+    "href": "actsrcvb.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/apple2_flop_misc/actsrcvb.png",
+    "is_dir": false,
+    "size": "9.5 KiB",
+    "date": "28-Sep-2025 13:24"
+  },
+  {
+    "name": "adv1.png",
+    "href": "adv1.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/apple2_flop_misc/adv1.png",
+    "is_dir": false,
+    "size": "19.9 KiB",
+    "date": "28-Sep-2025 13:24"
+  },
+  {
+    "name": "adv1980.png",
+    "href": "adv1980.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/apple2_flop_misc/adv1980.png",
+    "is_dir": false,
+    "size": "23.5 KiB",
+    "date": "28-Sep-2025 13:24"
+  },
+  {
+    "name": "adv4vdcs.png",
+    "href": "adv4vdcs.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/apple2_flop_misc/adv4vdcs.png",
+    "is_dir": false,
+    "size": "16.0 KiB",
+    "date": "28-Sep-2025 13:24"
+  },
+  {
+    "name": "advatlts.png",
+    "href": "advatlts.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/apple2_flop_misc/advatlts.png",
+    "is_dir": false,
+    "size": "23.7 KiB",
+    "date": "28-Sep-2025 13:24"
+  },
+  {
+    "name": "advbljk.png",
+    "href": "advbljk.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/apple2_flop_misc/advbljk.png",
+    "is_dir": false,
+    "size": "921 B",
+    "date": "28-Sep-2025 13:24"
+  },
+  {
+    "name": "advbuckb.png",
+    "href": "advbuckb.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/apple2_flop_misc/advbuckb.png",
+    "is_dir": false,
+    "size": "36.3 KiB",
+    "date": "28-Sep-2025 13:24"
+  },
+  {
+    "name": "advfitst.png",
+    "href": "advfitst.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/apple2_flop_misc/advfitst.png",
+    "is_dir": false,
+    "size": "35.5 KiB",
+    "date": "28-Sep-2025 13:24"
+  },
+  {
+    "name": "ae.png",
+    "href": "ae.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/apple2_flop_misc/ae.png",
+    "is_dir": false,
+    "size": "11.7 KiB",
+    "date": "28-Sep-2025 13:24"
+  },
+  {
+    "name": "aeronaut.png",
+    "href": "aeronaut.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/apple2_flop_misc/aeronaut.png",
+    "is_dir": false,
+    "size": "18.0 KiB",
+    "date": "28-Sep-2025 13:24"
+  },
+  {
+    "name": "airheart.png",
+    "href": "airheart.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/apple2_flop_misc/airheart.png",
+    "is_dir": false,
+    "size": "40.3 KiB",
+    "date": "28-Sep-2025 13:24"
+  },
+  {
+    "name": "airplsm.png",
+    "href": "airplsm.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/apple2_flop_misc/airplsm.png",
+    "is_dir": false,
+    "size": "27.4 KiB",
+    "date": "28-Sep-2025 13:24"
+  },
+  {
+    "name": "aklabeth.png",
+    "href": "aklabeth.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/apple2_flop_misc/aklabeth.png",
+    "is_dir": false,
+    "size": "12.9 KiB",
+    "date": "28-Sep-2025 13:24"
+  },
+  {
+    "name": "alert.png",
+    "href": "alert.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/apple2_flop_misc/alert.png",
+    "is_dir": false,
+    "size": "33.6 KiB",
+    "date": "28-Sep-2025 13:24"
+  },
+  {
+    "name": "alesia.png",
+    "href": "alesia.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/apple2_flop_misc/alesia.png",
+    "is_dir": false,
+    "size": "9.3 KiB",
+    "date": "28-Sep-2025 13:24"
+  },
+  {
+    "name": "alf.png",
+    "href": "alf.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/apple2_flop_misc/alf.png",
+    "is_dir": false,
+    "size": "67.2 KiB",
+    "date": "28-Sep-2025 13:24"
+  },
+  {
+    "name": "alibaba.png",
+    "href": "alibaba.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/apple2_flop_misc/alibaba.png",
+    "is_dir": false,
+    "size": "19.7 KiB",
+    "date": "28-Sep-2025 13:24"
+  },
+  {
+    "name": "alien.png",
+    "href": "alien.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/apple2_flop_misc/alien.png",
+    "is_dir": false,
+    "size": "59.5 KiB",
+    "date": "28-Sep-2025 13:24"
+  },
+  {
+    "name": "alienrn.png",
+    "href": "alienrn.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/apple2_flop_misc/alienrn.png",
+    "is_dir": false,
+    "size": "14.4 KiB",
+    "date": "28-Sep-2025 13:24"
+  },
+  {
+    "name": "alpine.png",
+    "href": "alpine.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/apple2_flop_misc/alpine.png",
+    "is_dir": false,
+    "size": "923 B",
+    "date": "28-Sep-2025 13:24"
+  },
+  {
+    "name": "alterego.png",
+    "href": "alterego.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/apple2_flop_misc/alterego.png",
+    "is_dir": false,
+    "size": "40.9 KiB",
+    "date": "28-Sep-2025 13:24"
+  },
+  {
+    "name": "altrcity.png",
+    "href": "altrcity.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/apple2_flop_misc/altrcity.png",
+    "is_dir": false,
+    "size": "24.5 KiB",
+    "date": "28-Sep-2025 13:24"
+  },
+  {
+    "name": "altrdng.png",
+    "href": "altrdng.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/apple2_flop_misc/altrdng.png",
+    "is_dir": false,
+    "size": "4.1 KiB",
+    "date": "28-Sep-2025 13:24"
+  },
+  {
+    "name": "amazon.png",
+    "href": "amazon.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/apple2_flop_misc/amazon.png",
+    "is_dir": false,
+    "size": "5.6 KiB",
+    "date": "28-Sep-2025 13:24"
+  },
+  {
+    "name": "amcivw1.png",
+    "href": "amcivw1.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/apple2_flop_misc/amcivw1.png",
+    "is_dir": false,
+    "size": "43.7 KiB",
+    "date": "28-Sep-2025 13:24"
+  },
+  {
+    "name": "amcivw2.png",
+    "href": "amcivw2.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/apple2_flop_misc/amcivw2.png",
+    "is_dir": false,
+    "size": "85.7 KiB",
+    "date": "28-Sep-2025 13:24"
+  },
+  {
+    "name": "amcivw3.png",
+    "href": "amcivw3.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/apple2_flop_misc/amcivw3.png",
+    "is_dir": false,
+    "size": "76.7 KiB",
+    "date": "28-Sep-2025 13:24"
+  },
+  {
+    "name": "amdos35.png",
+    "href": "amdos35.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/apple2_flop_misc/amdos35.png",
+    "is_dir": false,
+    "size": "15.6 KiB",
+    "date": "28-Sep-2025 13:24"
+  },
+  {
+    "name": "amnesia.png",
+    "href": "amnesia.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/apple2_flop_misc/amnesia.png",
+    "is_dir": false,
+    "size": "7.6 KiB",
+    "date": "28-Sep-2025 13:24"
+  },
+  {
+    "name": "andrconq.png",
+    "href": "andrconq.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/apple2_flop_misc/andrconq.png",
+    "is_dir": false,
+    "size": "19.1 KiB",
+    "date": "28-Sep-2025 13:24"
+  },
+  {
+    "name": "ankh.png",
+    "href": "ankh.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/apple2_flop_misc/ankh.png",
+    "is_dir": false,
+    "size": "25.2 KiB",
+    "date": "28-Sep-2025 13:24"
+  },
+  {
+    "name": "ants.png",
+    "href": "ants.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/apple2_flop_misc/ants.png",
+    "is_dir": false,
+    "size": "22.6 KiB",
+    "date": "28-Sep-2025 13:24"
+  },
+  {
+    "name": "aplbowl.png",
+    "href": "aplbowl.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/apple2_flop_misc/aplbowl.png",
+    "is_dir": false,
+    "size": "42.8 KiB",
+    "date": "28-Sep-2025 13:24"
+  },
+  {
+    "name": "aplcdspd.png",
+    "href": "aplcdspd.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/apple2_flop_misc/aplcdspd.png",
+    "is_dir": false,
+    "size": "20.0 KiB",
+    "date": "28-Sep-2025 13:24"
+  },
+  {
+    "name": "aplgrgms.png",
+    "href": "aplgrgms.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/apple2_flop_misc/aplgrgms.png",
+    "is_dir": false,
+    "size": "21.4 KiB",
+    "date": "28-Sep-2025 13:24"
+  },
+  {
+    "name": "aplinvdr.png",
+    "href": "aplinvdr.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/apple2_flop_misc/aplinvdr.png",
+    "is_dir": false,
+    "size": "25.0 KiB",
+    "date": "28-Sep-2025 13:24"
+  },
+  {
+    "name": "aplpanic.png",
+    "href": "aplpanic.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/apple2_flop_misc/aplpanic.png",
+    "is_dir": false,
+    "size": "20.7 KiB",
+    "date": "28-Sep-2025 13:24"
+  },
+  {
+    "name": "aplprng.png",
+    "href": "aplprng.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/apple2_flop_misc/aplprng.png",
+    "is_dir": false,
+    "size": "15.6 KiB",
+    "date": "28-Sep-2025 13:24"
+  },
+  {
+    "name": "aplspice.png",
+    "href": "aplspice.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/apple2_flop_misc/aplspice.png",
+    "is_dir": false,
+    "size": "35.7 KiB",
+    "date": "28-Sep-2025 13:24"
+  },
+  {
+    "name": "apltrek.png",
+    "href": "apltrek.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/apple2_flop_misc/apltrek.png",
+    "is_dir": false,
+    "size": "27.7 KiB",
+    "date": "28-Sep-2025 13:24"
+  },
+  {
+    "name": "arcbtcmp.png",
+    "href": "arcbtcmp.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/apple2_flop_misc/arcbtcmp.png",
+    "is_dir": false,
+    "size": "22.0 KiB",
+    "date": "28-Sep-2025 13:24"
+  },
+  {
+    "name": "archon.png",
+    "href": "archon.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/apple2_flop_misc/archon.png",
+    "is_dir": false,
+    "size": "70.2 KiB",
+    "date": "28-Sep-2025 13:24"
+  },
+  {
+    "name": "archon2.png",
+    "href": "archon2.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/apple2_flop_misc/archon2.png",
+    "is_dir": false,
+    "size": "929 B",
+    "date": "28-Sep-2025 13:24"
+  },
+  {
+    "name": "arcinsn.png",
+    "href": "arcinsn.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/apple2_flop_misc/arcinsn.png",
+    "is_dir": false,
+    "size": "22.0 KiB",
+    "date": "28-Sep-2025 13:24"
+  },
+  {
+    "name": "arcmachn.png",
+    "href": "arcmachn.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/apple2_flop_misc/arcmachn.png",
+    "is_dir": false,
+    "size": "16.1 KiB",
+    "date": "28-Sep-2025 13:24"
+  },
+  {
+    "name": "arctfox.png",
+    "href": "arctfox.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/apple2_flop_misc/arctfox.png",
+    "is_dir": false,
+    "size": "64.9 KiB",
+    "date": "28-Sep-2025 13:24"
+  },
+  {
+    "name": "ardprlhb.png",
+    "href": "ardprlhb.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/apple2_flop_misc/ardprlhb.png",
+    "is_dir": false,
+    "size": "924 B",
+    "date": "28-Sep-2025 13:24"
+  },
+  {
+    "name": "ardy.png",
+    "href": "ardy.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/apple2_flop_misc/ardy.png",
+    "is_dir": false,
+    "size": "31.7 KiB",
+    "date": "28-Sep-2025 13:24"
+  },
+  {
+    "name": "argos.png",
+    "href": "argos.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/apple2_flop_misc/argos.png",
+    "is_dir": false,
+    "size": "72.5 KiB",
+    "date": "28-Sep-2025 13:24"
+  },
+  {
+    "name": "armagedn.png",
+    "href": "armagedn.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/apple2_flop_misc/armagedn.png",
+    "is_dir": false,
+    "size": "46.1 KiB",
+    "date": "28-Sep-2025 13:24"
+  },
+  {
+    "name": "artesian.png",
+    "href": "artesian.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/apple2_flop_misc/artesian.png",
+    "is_dir": false,
+    "size": "19.2 KiB",
+    "date": "28-Sep-2025 13:24"
+  },
+  {
+    "name": "aspidrmn.png",
+    "href": "aspidrmn.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/apple2_flop_misc/aspidrmn.png",
+    "is_dir": false,
+    "size": "36.0 KiB",
+    "date": "28-Sep-2025 13:24"
+  },
+  {
+    "name": "asteroid.png",
+    "href": "asteroid.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/apple2_flop_misc/asteroid.png",
+    "is_dir": false,
+    "size": "22.3 KiB",
+    "date": "28-Sep-2025 13:24"
+  },
+  {
+    "name": "atc.png",
+    "href": "atc.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/apple2_flop_misc/atc.png",
+    "is_dir": false,
+    "size": "9.9 KiB",
+    "date": "28-Sep-2025 13:24"
+  },
+  {
+    "name": "atgtsmcw.png",
+    "href": "atgtsmcw.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/apple2_flop_misc/atgtsmcw.png",
+    "is_dir": false,
+    "size": "57.4 KiB",
+    "date": "28-Sep-2025 13:24"
+  },
+  {
+    "name": "atyphoon.png",
+    "href": "atyphoon.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/apple2_flop_misc/atyphoon.png",
+    "is_dir": false,
+    "size": "18.8 KiB",
+    "date": "28-Sep-2025 13:24"
+  },
+  {
+    "name": "autoduel.png",
+    "href": "autoduel.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/apple2_flop_misc/autoduel.png",
+    "is_dir": false,
+    "size": "19.3 KiB",
+    "date": "28-Sep-2025 13:24"
+  },
+  {
+    "name": "balpower.png",
+    "href": "balpower.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/apple2_flop_misc/balpower.png",
+    "is_dir": false,
+    "size": "36.6 KiB",
+    "date": "28-Sep-2025 13:24"
+  },
+  {
+    "name": "berzap.png",
+    "href": "berzap.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/apple2_flop_misc/berzap.png",
+    "is_dir": false,
+    "size": "14.0 KiB",
+    "date": "28-Sep-2025 13:24"
+  },
+  {
+    "name": "bngobash.png",
+    "href": "bngobash.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/apple2_flop_misc/bngobash.png",
+    "is_dir": false,
+    "size": "12.1 KiB",
+    "date": "28-Sep-2025 13:24"
+  },
+  {
+    "name": "caddraw.png",
+    "href": "caddraw.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/apple2_flop_misc/caddraw.png",
+    "is_dir": false,
+    "size": "29.3 KiB",
+    "date": "28-Sep-2025 13:24"
+  },
+  {
+    "name": "calcman.png",
+    "href": "calcman.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/apple2_flop_misc/calcman.png",
+    "is_dir": false,
+    "size": "41.2 KiB",
+    "date": "28-Sep-2025 13:24"
+  },
+  {
+    "name": "cnfl2500.png",
+    "href": "cnfl2500.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/apple2_flop_misc/cnfl2500.png",
+    "is_dir": false,
+    "size": "15.4 KiB",
+    "date": "28-Sep-2025 13:24"
+  },
+  {
+    "name": "cnqwrlds.png",
+    "href": "cnqwrlds.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/apple2_flop_misc/cnqwrlds.png",
+    "is_dir": false,
+    "size": "13.6 KiB",
+    "date": "28-Sep-2025 13:24"
+  },
+  {
+    "name": "cntralnc.png",
+    "href": "cntralnc.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/apple2_flop_misc/cntralnc.png",
+    "is_dir": false,
+    "size": "12.2 KiB",
+    "date": "28-Sep-2025 13:24"
+  },
+  {
+    "name": "coloncqt.png",
+    "href": "coloncqt.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/apple2_flop_misc/coloncqt.png",
+    "is_dir": false,
+    "size": "47.0 KiB",
+    "date": "28-Sep-2025 13:24"
+  },
+  {
+    "name": "colorix.png",
+    "href": "colorix.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/apple2_flop_misc/colorix.png",
+    "is_dir": false,
+    "size": "6.1 KiB",
+    "date": "28-Sep-2025 13:24"
+  },
+  {
+    "name": "crush.png",
+    "href": "crush.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/apple2_flop_misc/crush.png",
+    "is_dir": false,
+    "size": "34.4 KiB",
+    "date": "28-Sep-2025 13:24"
+  },
+  {
+    "name": "davidos.png",
+    "href": "davidos.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/apple2_flop_misc/davidos.png",
+    "is_dir": false,
+    "size": "11.7 KiB",
+    "date": "28-Sep-2025 13:24"
+  },
+  {
+    "name": "divdos2c.png",
+    "href": "divdos2c.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/apple2_flop_misc/divdos2c.png",
+    "is_dir": false,
+    "size": "30.2 KiB",
+    "date": "28-Sep-2025 13:24"
+  },
+  {
+    "name": "divdos41.png",
+    "href": "divdos41.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/apple2_flop_misc/divdos41.png",
+    "is_dir": false,
+    "size": "4.2 KiB",
+    "date": "28-Sep-2025 13:24"
+  },
+  {
+    "name": "dos3380.png",
+    "href": "dos3380.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/apple2_flop_misc/dos3380.png",
+    "is_dir": false,
+    "size": "9.3 KiB",
+    "date": "28-Sep-2025 13:24"
+  },
+  {
+    "name": "dos3380a.png",
+    "href": "dos3380a.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/apple2_flop_misc/dos3380a.png",
+    "is_dir": false,
+    "size": "4.4 KiB",
+    "date": "28-Sep-2025 13:24"
+  },
+  {
+    "name": "dos3383.png",
+    "href": "dos3383.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/apple2_flop_misc/dos3383.png",
+    "is_dir": false,
+    "size": "13.1 KiB",
+    "date": "28-Sep-2025 13:24"
+  },
+  {
+    "name": "dosanat.png",
+    "href": "dosanat.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/apple2_flop_misc/dosanat.png",
+    "is_dir": false,
+    "size": "15.8 KiB",
+    "date": "28-Sep-2025 13:24"
+  },
+  {
+    "name": "elite.png",
+    "href": "elite.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/apple2_flop_misc/elite.png",
+    "is_dir": false,
+    "size": "24.6 KiB",
+    "date": "28-Sep-2025 13:24"
+  },
+  {
+    "name": "f15se.png",
+    "href": "f15se.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/apple2_flop_misc/f15se.png",
+    "is_dir": false,
+    "size": "24.7 KiB",
+    "date": "28-Sep-2025 13:24"
+  },
+  {
+    "name": "fooblzky.png",
+    "href": "fooblzky.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/apple2_flop_misc/fooblzky.png",
+    "is_dir": false,
+    "size": "17.2 KiB",
+    "date": "28-Sep-2025 13:24"
+  },
+  {
+    "name": "fs1.png",
+    "href": "fs1.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/apple2_flop_misc/fs1.png",
+    "is_dir": false,
+    "size": "20.9 KiB",
+    "date": "28-Sep-2025 13:24"
+  },
+  {
+    "name": "gamemaker.png",
+    "href": "gamemaker.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/apple2_flop_misc/gamemaker.png",
+    "is_dir": false,
+    "size": "40.9 KiB",
+    "date": "28-Sep-2025 13:24"
+  },
+  {
+    "name": "geos.png",
+    "href": "geos.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/apple2_flop_misc/geos.png",
+    "is_dir": false,
+    "size": "1.8 KiB",
+    "date": "28-Sep-2025 13:24"
+  },
+  {
+    "name": "indy.png",
+    "href": "indy.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/apple2_flop_misc/indy.png",
+    "is_dir": false,
+    "size": "6.9 KiB",
+    "date": "28-Sep-2025 13:24"
+  },
+  {
+    "name": "jawbrekr.png",
+    "href": "jawbrekr.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/apple2_flop_misc/jawbrekr.png",
+    "is_dir": false,
+    "size": "23.9 KiB",
+    "date": "28-Sep-2025 13:24"
+  },
+  {
+    "name": "lnc.png",
+    "href": "lnc.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/apple2_flop_misc/lnc.png",
+    "is_dir": false,
+    "size": "19.9 KiB",
+    "date": "28-Sep-2025 13:24"
+  },
+  {
+    "name": "prodos11.png",
+    "href": "prodos11.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/apple2_flop_misc/prodos11.png",
+    "is_dir": false,
+    "size": "28.6 KiB",
+    "date": "28-Sep-2025 13:24"
+  },
+  {
+    "name": "silntsvc.png",
+    "href": "silntsvc.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/apple2_flop_misc/silntsvc.png",
+    "is_dir": false,
+    "size": "22.8 KiB",
+    "date": "28-Sep-2025 13:24"
+  },
+  {
+    "name": "trkfield.png",
+    "href": "trkfield.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/apple2_flop_misc/trkfield.png",
+    "is_dir": false,
+    "size": "43.0 KiB",
+    "date": "28-Sep-2025 13:24"
+  },
+  {
+    "name": "ultima1.png",
+    "href": "ultima1.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/apple2_flop_misc/ultima1.png",
+    "is_dir": false,
+    "size": "7.9 KiB",
+    "date": "28-Sep-2025 13:24"
+  },
+  {
+    "name": "ultima1t.png",
+    "href": "ultima1t.png",
+    "url": "https://myrient.erista.me/files/MAME/EXTRAs/all_non-zipped_content/snap_SL/apple2_flop_misc/ultima1t.png",
+    "is_dir": false,
+    "size": "38.5 KiB",
+    "date": "28-Sep-2025 13:24"
+  }
+]

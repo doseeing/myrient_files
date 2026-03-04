@@ -1,0 +1,50 @@
+[
+  {
+    "name": "decus",
+    "href": "decus/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/vax/decus/",
+    "is_dir": true,
+    "size": null,
+    "date": "01-Mar-2007 19:47"
+  },
+  {
+    "name": "microvax",
+    "href": "microvax/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/vax/microvax/",
+    "is_dir": true,
+    "size": null,
+    "date": "08-Jul-2025 17:05"
+  },
+  {
+    "name": "ultrix",
+    "href": "ultrix/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/vax/ultrix/",
+    "is_dir": true,
+    "size": null,
+    "date": "25-Feb-2024 19:45"
+  },
+  {
+    "name": "vms",
+    "href": "vms/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/vax/vms/",
+    "is_dir": true,
+    "size": null,
+    "date": "15-Nov-2024 01:28"
+  },
+  {
+    "name": "vax785_jcs_cib_proms.tar",
+    "href": "vax785_jcs_cib_proms.tar",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/vax/vax785_jcs_cib_proms.tar",
+    "is_dir": false,
+    "size": "40.0 KiB",
+    "date": "17-May-2005 06:51"
+  },
+  {
+    "name": "vcb02proms.tar",
+    "href": "vcb02proms.tar",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/vax/vcb02proms.tar",
+    "is_dir": false,
+    "size": "80.0 KiB",
+    "date": "18-Jun-2005 21:53"
+  }
+]
