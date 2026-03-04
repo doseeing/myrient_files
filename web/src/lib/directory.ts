@@ -1,6 +1,5 @@
 import { readdirSync, readFileSync, existsSync } from 'node:fs';
 import { join, resolve } from 'node:path';
-import { fileURLToPath } from 'node:url';
 
 /** URL-safe base64 encode for path segments (avoids % and other problematic chars) */
 export function encodePathSegment(s: string): string {
@@ -13,8 +12,10 @@ export function decodePathSegment(s: string): string {
 
 /** Path to the directory data: web/src/directory (listing.json files live here). */
 export function getDirectoryRoot(): string {
-  const thisFile = fileURLToPath(import.meta.url);
-  return resolve(thisFile, '..', '..', 'directory');
+  // Use process.cwd() so path is correct when running from web/ during build (e.g. GitHub Actions).
+  // import.meta.url can point to the bundle and break resolution in Vite/Astro build.
+  const cwd = process.cwd();
+  return resolve(cwd, 'src', 'directory');
 }
 
 export interface ListingEntry {
