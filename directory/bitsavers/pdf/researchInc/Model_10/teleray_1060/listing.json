@@ -1,0 +1,42 @@
+[
+  {
+    "name": "firmware",
+    "href": "firmware/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/researchInc/Model_10/teleray_1060/firmware/",
+    "is_dir": true,
+    "size": null,
+    "date": "27-Jul-2019 16:36"
+  },
+  {
+    "name": "pictures",
+    "href": "pictures/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/researchInc/Model_10/teleray_1060/pictures/",
+    "is_dir": true,
+    "size": null,
+    "date": "11-Jul-2019 16:49"
+  },
+  {
+    "name": "pictures_all-in-one",
+    "href": "pictures_all-in-one/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/researchInc/Model_10/teleray_1060/pictures_all-in-one/",
+    "is_dir": true,
+    "size": null,
+    "date": "23-Jan-2021 19:59"
+  },
+  {
+    "name": "1060_att_kb.jpg",
+    "href": "1060_att_kb.jpg",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/researchInc/Model_10/teleray_1060/1060_att_kb.jpg",
+    "is_dir": false,
+    "size": "50.6 KiB",
+    "date": "03-May-2023 20:35"
+  },
+  {
+    "name": "1060_pcb.jpg",
+    "href": "1060_pcb.jpg",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/researchInc/Model_10/teleray_1060/1060_pcb.jpg",
+    "is_dir": false,
+    "size": "139.4 KiB",
+    "date": "03-May-2023 20:35"
+  }
+]

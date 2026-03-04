@@ -1,0 +1,82 @@
+[
+  {
+    "name": "index",
+    "href": "index/",
+    "url": "https://myrient.erista.me/files/bitsavers/test_equipment/hp/165x/floppies/index/",
+    "is_dir": true,
+    "size": null,
+    "date": "02-Jul-2024 12:56"
+  },
+  {
+    "name": "00README.NFO",
+    "href": "00README.NFO",
+    "url": "https://myrient.erista.me/files/bitsavers/test_equipment/hp/165x/floppies/00README.NFO",
+    "is_dir": false,
+    "size": "1.1 KiB",
+    "date": "02-Jul-2024 12:54"
+  },
+  {
+    "name": "01650-13531_R2.11.imd",
+    "href": "01650-13531_R2.11.imd",
+    "url": "https://myrient.erista.me/files/bitsavers/test_equipment/hp/165x/floppies/01650-13531_R2.11.imd",
+    "is_dir": false,
+    "size": "693.5 KiB",
+    "date": "02-Jul-2024 12:54"
+  },
+  {
+    "name": "1650DEMO.IMD",
+    "href": "1650DEMO.IMD",
+    "url": "https://myrient.erista.me/files/bitsavers/test_equipment/hp/165x/floppies/1650DEMO.IMD",
+    "is_dir": false,
+    "size": "745.5 KiB",
+    "date": "02-Jul-2024 12:54"
+  },
+  {
+    "name": "1650_51A_V1.11_OS_SYS.zip",
+    "href": "1650_51A_V1.11_OS_SYS.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/test_equipment/hp/165x/floppies/1650_51A_V1.11_OS_SYS.zip",
+    "is_dir": false,
+    "size": "238.4 KiB",
+    "date": "02-Jul-2024 12:54"
+  },
+  {
+    "name": "OS_V110.IMD",
+    "href": "OS_V110.IMD",
+    "url": "https://myrient.erista.me/files/bitsavers/test_equipment/hp/165x/floppies/OS_V110.IMD",
+    "is_dir": false,
+    "size": "770.4 KiB",
+    "date": "02-Jul-2024 12:54"
+  },
+  {
+    "name": "WORK_B.IMD",
+    "href": "WORK_B.IMD",
+    "url": "https://myrient.erista.me/files/bitsavers/test_equipment/hp/165x/floppies/WORK_B.IMD",
+    "is_dir": false,
+    "size": "152.1 KiB",
+    "date": "02-Jul-2024 12:54"
+  },
+  {
+    "name": "Z80_DIS.IMD",
+    "href": "Z80_DIS.IMD",
+    "url": "https://myrient.erista.me/files/bitsavers/test_equipment/hp/165x/floppies/Z80_DIS.IMD",
+    "is_dir": false,
+    "size": "37.2 KiB",
+    "date": "02-Jul-2024 12:54"
+  },
+  {
+    "name": "dos_utils.dd",
+    "href": "dos_utils.dd",
+    "url": "https://myrient.erista.me/files/bitsavers/test_equipment/hp/165x/floppies/dos_utils.dd",
+    "is_dir": false,
+    "size": "360.0 KiB",
+    "date": "02-Jul-2024 12:54"
+  },
+  {
+    "name": "dos_utils.tar.gz",
+    "href": "dos_utils.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/test_equipment/hp/165x/floppies/dos_utils.tar.gz",
+    "is_dir": false,
+    "size": "34.0 KiB",
+    "date": "02-Jul-2024 12:54"
+  }
+]

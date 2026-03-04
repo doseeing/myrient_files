@@ -1,0 +1,530 @@
+[
+  {
+    "name": "083-000001-01_Self_Loading_Bootstrap.pdf",
+    "href": "083-000001-01_Self_Loading_Bootstrap.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dg/software/utility/083-000001-01_Self_Loading_Bootstrap.pdf",
+    "is_dir": false,
+    "size": "756.1 KiB",
+    "date": "25-Jan-2007 03:30"
+  },
+  {
+    "name": "092-000001-06_Paper_Tape_Editor_List.pdf",
+    "href": "092-000001-06_Paper_Tape_Editor_List.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dg/software/utility/092-000001-06_Paper_Tape_Editor_List.pdf",
+    "is_dir": false,
+    "size": "10.9 MiB",
+    "date": "06-Feb-2007 02:05"
+  },
+  {
+    "name": "093-000001-00_Binary_Punch.pdf",
+    "href": "093-000001-00_Binary_Punch.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dg/software/utility/093-000001-00_Binary_Punch.pdf",
+    "is_dir": false,
+    "size": "939.6 KiB",
+    "date": "25-Jan-2007 03:32"
+  },
+  {
+    "name": "093-000002-01_Bootstrap_Loader69.pdf",
+    "href": "093-000002-01_Bootstrap_Loader69.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dg/software/utility/093-000002-01_Bootstrap_Loader69.pdf",
+    "is_dir": false,
+    "size": "910.6 KiB",
+    "date": "25-Jan-2007 03:32"
+  },
+  {
+    "name": "093-000002-01_Bootstrap_Loader70.pdf",
+    "href": "093-000002-01_Bootstrap_Loader70.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dg/software/utility/093-000002-01_Bootstrap_Loader70.pdf",
+    "is_dir": false,
+    "size": "930.8 KiB",
+    "date": "25-Jan-2007 03:32"
+  },
+  {
+    "name": "093-000003-03_Binary_Loader.pdf",
+    "href": "093-000003-03_Binary_Loader.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dg/software/utility/093-000003-03_Binary_Loader.pdf",
+    "is_dir": false,
+    "size": "1.8 MiB",
+    "date": "25-Jan-2007 03:32"
+  },
+  {
+    "name": "093-000003-06_Binary_Loader.pdf",
+    "href": "093-000003-06_Binary_Loader.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dg/software/utility/093-000003-06_Binary_Loader.pdf",
+    "is_dir": false,
+    "size": "1.7 MiB",
+    "date": "25-Jan-2007 03:32"
+  },
+  {
+    "name": "093-000004-00_Core_Compare.pdf",
+    "href": "093-000004-00_Core_Compare.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dg/software/utility/093-000004-00_Core_Compare.pdf",
+    "is_dir": false,
+    "size": "1.2 MiB",
+    "date": "25-Jan-2007 03:32"
+  },
+  {
+    "name": "093-000005-00_TapeDuplicator_Dec71.pdf",
+    "href": "093-000005-00_TapeDuplicator_Dec71.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dg/software/utility/093-000005-00_TapeDuplicator_Dec71.pdf",
+    "is_dir": false,
+    "size": "396.2 KiB",
+    "date": "29-Jan-2007 18:32"
+  },
+  {
+    "name": "093-000006-00_Single_Precision_Absolute_Value.pdf",
+    "href": "093-000006-00_Single_Precision_Absolute_Value.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dg/software/utility/093-000006-00_Single_Precision_Absolute_Value.pdf",
+    "is_dir": false,
+    "size": "316.4 KiB",
+    "date": "06-Feb-2007 02:08"
+  },
+  {
+    "name": "093-000007-00_Single_Precision_Signed_Multiply.pdf",
+    "href": "093-000007-00_Single_Precision_Signed_Multiply.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dg/software/utility/093-000007-00_Single_Precision_Signed_Multiply.pdf",
+    "is_dir": false,
+    "size": "487.2 KiB",
+    "date": "06-Feb-2007 02:08"
+  },
+  {
+    "name": "093-000008-00_Single_Precision_Signed_Divide.pdf",
+    "href": "093-000008-00_Single_Precision_Signed_Divide.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dg/software/utility/093-000008-00_Single_Precision_Signed_Divide.pdf",
+    "is_dir": false,
+    "size": "610.8 KiB",
+    "date": "06-Feb-2007 02:08"
+  },
+  {
+    "name": "093-000009-00_Double_Precision_Absolute_Value.pdf",
+    "href": "093-000009-00_Double_Precision_Absolute_Value.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dg/software/utility/093-000009-00_Double_Precision_Absolute_Value.pdf",
+    "is_dir": false,
+    "size": "377.4 KiB",
+    "date": "06-Feb-2007 02:08"
+  },
+  {
+    "name": "093-000010-00_Double_Precision_Signed_Multiply.pdf",
+    "href": "093-000010-00_Double_Precision_Signed_Multiply.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dg/software/utility/093-000010-00_Double_Precision_Signed_Multiply.pdf",
+    "is_dir": false,
+    "size": "1.4 MiB",
+    "date": "06-Feb-2007 02:08"
+  },
+  {
+    "name": "093-000011-00_Double_Precision_Signed_Divide.pdf",
+    "href": "093-000011-00_Double_Precision_Signed_Divide.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dg/software/utility/093-000011-00_Double_Precision_Signed_Divide.pdf",
+    "is_dir": false,
+    "size": "1.3 MiB",
+    "date": "06-Feb-2007 02:08"
+  },
+  {
+    "name": "093-000012-01_Double_Precision_Addition.pdf",
+    "href": "093-000012-01_Double_Precision_Addition.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dg/software/utility/093-000012-01_Double_Precision_Addition.pdf",
+    "is_dir": false,
+    "size": "462.9 KiB",
+    "date": "06-Feb-2007 02:08"
+  },
+  {
+    "name": "093-000013-00_Double_Precision_Subtraction.pdf",
+    "href": "093-000013-00_Double_Precision_Subtraction.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dg/software/utility/093-000013-00_Double_Precision_Subtraction.pdf",
+    "is_dir": false,
+    "size": "455.2 KiB",
+    "date": "06-Feb-2007 02:08"
+  },
+  {
+    "name": "093-000014-00_Double_Precision_Negate.pdf",
+    "href": "093-000014-00_Double_Precision_Negate.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dg/software/utility/093-000014-00_Double_Precision_Negate.pdf",
+    "is_dir": false,
+    "size": "331.8 KiB",
+    "date": "06-Feb-2007 02:08"
+  },
+  {
+    "name": "093-000015-00_Unsigned_Multiply.pdf",
+    "href": "093-000015-00_Unsigned_Multiply.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dg/software/utility/093-000015-00_Unsigned_Multiply.pdf",
+    "is_dir": false,
+    "size": "445.8 KiB",
+    "date": "06-Feb-2007 02:09"
+  },
+  {
+    "name": "093-000016-00_Unsigned_Divide.pdf",
+    "href": "093-000016-00_Unsigned_Divide.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dg/software/utility/093-000016-00_Unsigned_Divide.pdf",
+    "is_dir": false,
+    "size": "820.3 KiB",
+    "date": "06-Feb-2007 02:09"
+  },
+  {
+    "name": "093-000018-01_Paper_Tape_Editor.pdf",
+    "href": "093-000018-01_Paper_Tape_Editor.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dg/software/utility/093-000018-01_Paper_Tape_Editor.pdf",
+    "is_dir": false,
+    "size": "2.3 MiB",
+    "date": "25-Jan-2007 03:32"
+  },
+  {
+    "name": "093-000018-08_Text_Editor_Users_Manual.pdf",
+    "href": "093-000018-08_Text_Editor_Users_Manual.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dg/software/utility/093-000018-08_Text_Editor_Users_Manual.pdf",
+    "is_dir": false,
+    "size": "6.8 MiB",
+    "date": "06-Feb-2007 02:06"
+  },
+  {
+    "name": "093-000019-01_Floating_Point_Interpreter.pdf",
+    "href": "093-000019-01_Floating_Point_Interpreter.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dg/software/utility/093-000019-01_Floating_Point_Interpreter.pdf",
+    "is_dir": false,
+    "size": "4.6 MiB",
+    "date": "25-Jan-2007 03:33"
+  },
+  {
+    "name": "093-000019-04_FloatingPointInterpreter_Mar73.pdf",
+    "href": "093-000019-04_FloatingPointInterpreter_Mar73.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dg/software/utility/093-000019-04_FloatingPointInterpreter_Mar73.pdf",
+    "is_dir": false,
+    "size": "1.3 MiB",
+    "date": "29-Jan-2007 18:32"
+  },
+  {
+    "name": "093-000020-00_Nova_Debug.pdf",
+    "href": "093-000020-00_Nova_Debug.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dg/software/utility/093-000020-00_Nova_Debug.pdf",
+    "is_dir": false,
+    "size": "1.4 MiB",
+    "date": "25-Jan-2007 03:33"
+  },
+  {
+    "name": "093-000020-02_Debug_II_Jan73.pdf",
+    "href": "093-000020-02_Debug_II_Jan73.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dg/software/utility/093-000020-02_Debug_II_Jan73.pdf",
+    "is_dir": false,
+    "size": "567.8 KiB",
+    "date": "30-Jan-2007 16:03"
+  },
+  {
+    "name": "093-000020-03_DEBUG_II_Users_manual.pdf",
+    "href": "093-000020-03_DEBUG_II_Users_manual.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dg/software/utility/093-000020-03_DEBUG_II_Users_manual.pdf",
+    "is_dir": false,
+    "size": "2.8 MiB",
+    "date": "06-Feb-2007 02:06"
+  },
+  {
+    "name": "093-000021-00_Logical_Exclusive_OR.pdf",
+    "href": "093-000021-00_Logical_Exclusive_OR.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dg/software/utility/093-000021-00_Logical_Exclusive_OR.pdf",
+    "is_dir": false,
+    "size": "322.1 KiB",
+    "date": "06-Feb-2007 02:09"
+  },
+  {
+    "name": "093-000022-01_Logical_Inclusive_Or.pdf",
+    "href": "093-000022-01_Logical_Inclusive_Or.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dg/software/utility/093-000022-01_Logical_Inclusive_Or.pdf",
+    "is_dir": false,
+    "size": "325.1 KiB",
+    "date": "06-Feb-2007 02:09"
+  },
+  {
+    "name": "093-000024-00_Single_Precision_BCD_to_Binary.pdf",
+    "href": "093-000024-00_Single_Precision_BCD_to_Binary.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dg/software/utility/093-000024-00_Single_Precision_BCD_to_Binary.pdf",
+    "is_dir": false,
+    "size": "481.2 KiB",
+    "date": "06-Feb-2007 02:09"
+  },
+  {
+    "name": "093-000024-00_Single_Precision_Binary_to_BCD.pdf",
+    "href": "093-000024-00_Single_Precision_Binary_to_BCD.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dg/software/utility/093-000024-00_Single_Precision_Binary_to_BCD.pdf",
+    "is_dir": false,
+    "size": "527.2 KiB",
+    "date": "06-Feb-2007 02:09"
+  },
+  {
+    "name": "093-000025-00_Single_Precision_ASCII_Decimal_to_Binary.pdf",
+    "href": "093-000025-00_Single_Precision_ASCII_Decimal_to_Binary.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dg/software/utility/093-000025-00_Single_Precision_ASCII_Decimal_to_Binary.pdf",
+    "is_dir": false,
+    "size": "841.6 KiB",
+    "date": "06-Feb-2007 02:09"
+  },
+  {
+    "name": "093-000026-00_Single_Precision_Binary_to_ASCII_Decimal.pdf",
+    "href": "093-000026-00_Single_Precision_Binary_to_ASCII_Decimal.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dg/software/utility/093-000026-00_Single_Precision_Binary_to_ASCII_Decimal.pdf",
+    "is_dir": false,
+    "size": "752.9 KiB",
+    "date": "06-Feb-2007 02:09"
+  },
+  {
+    "name": "093-000027-00_ASCII_Octal_to_Single_Precision_Binary.pdf",
+    "href": "093-000027-00_ASCII_Octal_to_Single_Precision_Binary.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dg/software/utility/093-000027-00_ASCII_Octal_to_Single_Precision_Binary.pdf",
+    "is_dir": false,
+    "size": "702.5 KiB",
+    "date": "06-Feb-2007 02:09"
+  },
+  {
+    "name": "093-000028-00_Single_Precision_Binary_to_ASCII_Octal.pdf",
+    "href": "093-000028-00_Single_Precision_Binary_to_ASCII_Octal.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dg/software/utility/093-000028-00_Single_Precision_Binary_to_ASCII_Octal.pdf",
+    "is_dir": false,
+    "size": "571.4 KiB",
+    "date": "06-Feb-2007 02:09"
+  },
+  {
+    "name": "093-000029-00_Double_Precision_BCD_to_Binary.pdf",
+    "href": "093-000029-00_Double_Precision_BCD_to_Binary.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dg/software/utility/093-000029-00_Double_Precision_BCD_to_Binary.pdf",
+    "is_dir": false,
+    "size": "611.0 KiB",
+    "date": "06-Feb-2007 02:09"
+  },
+  {
+    "name": "093-000030-00_Double_Precision_Binary_to_BCD.pdf",
+    "href": "093-000030-00_Double_Precision_Binary_to_BCD.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dg/software/utility/093-000030-00_Double_Precision_Binary_to_BCD.pdf",
+    "is_dir": false,
+    "size": "715.8 KiB",
+    "date": "06-Feb-2007 02:09"
+  },
+  {
+    "name": "093-000031-00_Double_Precision_ASCII_Decimal_to_Binary.pdf",
+    "href": "093-000031-00_Double_Precision_ASCII_Decimal_to_Binary.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dg/software/utility/093-000031-00_Double_Precision_ASCII_Decimal_to_Binary.pdf",
+    "is_dir": false,
+    "size": "978.4 KiB",
+    "date": "06-Feb-2007 02:09"
+  },
+  {
+    "name": "093-000032-01_Double_Precision_Binary_to_ASCII_Decimal.pdf",
+    "href": "093-000032-01_Double_Precision_Binary_to_ASCII_Decimal.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dg/software/utility/093-000032-01_Double_Precision_Binary_to_ASCII_Decimal.pdf",
+    "is_dir": false,
+    "size": "855.8 KiB",
+    "date": "06-Feb-2007 02:09"
+  },
+  {
+    "name": "093-000033-00_Parity_Generator.pdf",
+    "href": "093-000033-00_Parity_Generator.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dg/software/utility/093-000033-00_Parity_Generator.pdf",
+    "is_dir": false,
+    "size": "449.2 KiB",
+    "date": "06-Feb-2007 02:09"
+  },
+  {
+    "name": "093-000034-00_Binary_to_Gray_Code.pdf",
+    "href": "093-000034-00_Binary_to_Gray_Code.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dg/software/utility/093-000034-00_Binary_to_Gray_Code.pdf",
+    "is_dir": false,
+    "size": "370.8 KiB",
+    "date": "06-Feb-2007 02:09"
+  },
+  {
+    "name": "093-000035-00_Gray_Code_to_Binary.pdf",
+    "href": "093-000035-00_Gray_Code_to_Binary.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dg/software/utility/093-000035-00_Gray_Code_to_Binary.pdf",
+    "is_dir": false,
+    "size": "462.9 KiB",
+    "date": "06-Feb-2007 02:09"
+  },
+  {
+    "name": "093-000036-00_Random_Number_Generator.pdf",
+    "href": "093-000036-00_Random_Number_Generator.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dg/software/utility/093-000036-00_Random_Number_Generator.pdf",
+    "is_dir": false,
+    "size": "596.3 KiB",
+    "date": "06-Feb-2007 02:09"
+  },
+  {
+    "name": "093-000037-00_Floating_Point_to_Octal.pdf",
+    "href": "093-000037-00_Floating_Point_to_Octal.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dg/software/utility/093-000037-00_Floating_Point_to_Octal.pdf",
+    "is_dir": false,
+    "size": "809.2 KiB",
+    "date": "06-Feb-2007 02:10"
+  },
+  {
+    "name": "093-000038-00_Debug_I.pdf",
+    "href": "093-000038-00_Debug_I.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dg/software/utility/093-000038-00_Debug_I.pdf",
+    "is_dir": false,
+    "size": "2.1 MiB",
+    "date": "06-Feb-2007 02:06"
+  },
+  {
+    "name": "093-000039-00_Relocatable_Loader.pdf",
+    "href": "093-000039-00_Relocatable_Loader.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dg/software/utility/093-000039-00_Relocatable_Loader.pdf",
+    "is_dir": false,
+    "size": "3.8 MiB",
+    "date": "25-Jan-2007 03:33"
+  },
+  {
+    "name": "093-000039-00_Relocatable_Loader_Oct69.pdf",
+    "href": "093-000039-00_Relocatable_Loader_Oct69.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dg/software/utility/093-000039-00_Relocatable_Loader_Oct69.pdf",
+    "is_dir": false,
+    "size": "625.1 KiB",
+    "date": "29-Jan-2007 18:33"
+  },
+  {
+    "name": "093-000041-00_Relocatable_Math_Library.pdf",
+    "href": "093-000041-00_Relocatable_Math_Library.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dg/software/utility/093-000041-00_Relocatable_Math_Library.pdf",
+    "is_dir": false,
+    "size": "2.9 MiB",
+    "date": "25-Jan-2007 03:34"
+  },
+  {
+    "name": "093-000041-03_RelocatableMathLibr_May73.pdf",
+    "href": "093-000041-03_RelocatableMathLibr_May73.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dg/software/utility/093-000041-03_RelocatableMathLibr_May73.pdf",
+    "is_dir": false,
+    "size": "1.8 MiB",
+    "date": "29-Jan-2007 18:33"
+  },
+  {
+    "name": "093-000044-00_Debug_III_Users_Manual.pdf",
+    "href": "093-000044-00_Debug_III_Users_Manual.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dg/software/utility/093-000044-00_Debug_III_Users_Manual.pdf",
+    "is_dir": false,
+    "size": "7.9 MiB",
+    "date": "25-Jan-2007 03:35"
+  },
+  {
+    "name": "093-000044-02_Debug_III_Users_Manual_1972.pdf",
+    "href": "093-000044-02_Debug_III_Users_Manual_1972.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dg/software/utility/093-000044-02_Debug_III_Users_Manual_1972.pdf",
+    "is_dir": false,
+    "size": "1.0 MiB",
+    "date": "29-Jan-2007 18:33"
+  },
+  {
+    "name": "093-000044-03_Symbolic_Debugger_Aug73.pdf",
+    "href": "093-000044-03_Symbolic_Debugger_Aug73.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dg/software/utility/093-000044-03_Symbolic_Debugger_Aug73.pdf",
+    "is_dir": false,
+    "size": "1.6 MiB",
+    "date": "30-Jan-2007 16:16"
+  },
+  {
+    "name": "093-000044-04_Symbolic_Debugger.pdf",
+    "href": "093-000044-04_Symbolic_Debugger.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dg/software/utility/093-000044-04_Symbolic_Debugger.pdf",
+    "is_dir": false,
+    "size": "5.8 MiB",
+    "date": "06-Feb-2007 02:06"
+  },
+  {
+    "name": "093-000055-02_Self_Loading_Bootstrap_1971.pdf",
+    "href": "093-000055-02_Self_Loading_Bootstrap_1971.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dg/software/utility/093-000055-02_Self_Loading_Bootstrap_1971.pdf",
+    "is_dir": false,
+    "size": "198.7 KiB",
+    "date": "29-Jan-2007 18:42"
+  },
+  {
+    "name": "093-000060-01_Dataplot_1971.pdf",
+    "href": "093-000060-01_Dataplot_1971.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dg/software/utility/093-000060-01_Dataplot_1971.pdf",
+    "is_dir": false,
+    "size": "695.8 KiB",
+    "date": "30-Jan-2007 21:40"
+  },
+  {
+    "name": "093-000069-01_Relocatable_Binary_Punch.pdf",
+    "href": "093-000069-01_Relocatable_Binary_Punch.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dg/software/utility/093-000069-01_Relocatable_Binary_Punch.pdf",
+    "is_dir": false,
+    "size": "987.7 KiB",
+    "date": "25-Jan-2007 03:35"
+  },
+  {
+    "name": "093-000074-03_Library_File_Editor_Jun74.pdf",
+    "href": "093-000074-03_Library_File_Editor_Jun74.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dg/software/utility/093-000074-03_Library_File_Editor_Jun74.pdf",
+    "is_dir": false,
+    "size": "1.6 MiB",
+    "date": "29-Jan-2007 20:58"
+  },
+  {
+    "name": "093-000074-05_Library_File_Editor_Nov77.pdf",
+    "href": "093-000074-05_Library_File_Editor_Nov77.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dg/software/utility/093-000074-05_Library_File_Editor_Nov77.pdf",
+    "is_dir": false,
+    "size": "1.7 MiB",
+    "date": "01-Feb-2007 00:32"
+  },
+  {
+    "name": "093-000080-03_Extended_Relocatable_Loaders.pdf",
+    "href": "093-000080-03_Extended_Relocatable_Loaders.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dg/software/utility/093-000080-03_Extended_Relocatable_Loaders.pdf",
+    "is_dir": false,
+    "size": "8.3 MiB",
+    "date": "06-Feb-2007 02:07"
+  },
+  {
+    "name": "093-000080-05_Extended_Relocatable_Loaders_Mar78.pdf",
+    "href": "093-000080-05_Extended_Relocatable_Loaders_Mar78.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dg/software/utility/093-000080-05_Extended_Relocatable_Loaders_Mar78.pdf",
+    "is_dir": false,
+    "size": "4.2 MiB",
+    "date": "01-Feb-2007 00:32"
+  },
+  {
+    "name": "093-000084-02_Octal_Editor_Jul77.pdf",
+    "href": "093-000084-02_Octal_Editor_Jul77.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dg/software/utility/093-000084-02_Octal_Editor_Jul77.pdf",
+    "is_dir": false,
+    "size": "1.2 MiB",
+    "date": "01-Feb-2007 01:06"
+  },
+  {
+    "name": "093-000084-02_Octal_Editor_User_Manual_Jul77.pdf",
+    "href": "093-000084-02_Octal_Editor_User_Manual_Jul77.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dg/software/utility/093-000084-02_Octal_Editor_User_Manual_Jul77.pdf",
+    "is_dir": false,
+    "size": "2.1 MiB",
+    "date": "06-Feb-2007 02:19"
+  },
+  {
+    "name": "093-000160-00_Symbolic_Editor_Mar78.pdf",
+    "href": "093-000160-00_Symbolic_Editor_Mar78.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dg/software/utility/093-000160-00_Symbolic_Editor_Mar78.pdf",
+    "is_dir": false,
+    "size": "1.9 MiB",
+    "date": "01-Feb-2007 02:24"
+  },
+  {
+    "name": "093-000160-01_SEdit_Mar78.pdf",
+    "href": "093-000160-01_SEdit_Mar78.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dg/software/utility/093-000160-01_SEdit_Mar78.pdf",
+    "is_dir": false,
+    "size": "3.3 MiB",
+    "date": "06-Feb-2007 02:19"
+  },
+  {
+    "name": "093-000186-00_Diskedit_Nov75.pdf",
+    "href": "093-000186-00_Diskedit_Nov75.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dg/software/utility/093-000186-00_Diskedit_Nov75.pdf",
+    "is_dir": false,
+    "size": "1.1 MiB",
+    "date": "01-Feb-2007 02:24"
+  },
+  {
+    "name": "093-000187-00_DiskEdit_Nov75.pdf",
+    "href": "093-000187-00_DiskEdit_Nov75.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dg/software/utility/093-000187-00_DiskEdit_Nov75.pdf",
+    "is_dir": false,
+    "size": "9.3 MiB",
+    "date": "06-Feb-2007 02:20"
+  }
+]

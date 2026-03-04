@@ -1,0 +1,50 @@
+[
+  {
+    "name": "firmware",
+    "href": "firmware/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/aed/graphics/AED_512/firmware/",
+    "is_dir": true,
+    "size": null,
+    "date": "08-Sep-2018 23:31"
+  },
+  {
+    "name": "pictures",
+    "href": "pictures/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/aed/graphics/AED_512/pictures/",
+    "is_dir": true,
+    "size": null,
+    "date": "08-Sep-2018 23:31"
+  },
+  {
+    "name": "AED_512_Firmware_Update_Log_Mar82.pdf",
+    "href": "AED_512_Firmware_Update_Log_Mar82.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/aed/graphics/AED_512/AED_512_Firmware_Update_Log_Mar82.pdf",
+    "is_dir": false,
+    "size": "60.3 KiB",
+    "date": "10-Sep-2013 19:57"
+  },
+  {
+    "name": "AED_512_manual_cover.jpg",
+    "href": "AED_512_manual_cover.jpg",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/aed/graphics/AED_512/AED_512_manual_cover.jpg",
+    "is_dir": false,
+    "size": "688.9 KiB",
+    "date": "09-Sep-2018 20:30"
+  },
+  {
+    "name": "AED_512_pocket_card_Jul82_1.jpg",
+    "href": "AED_512_pocket_card_Jul82_1.jpg",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/aed/graphics/AED_512/AED_512_pocket_card_Jul82_1.jpg",
+    "is_dir": false,
+    "size": "1.8 MiB",
+    "date": "09-Sep-2018 20:30"
+  },
+  {
+    "name": "AED_512_pocket_card_Jul82_2.jpg",
+    "href": "AED_512_pocket_card_Jul82_2.jpg",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/aed/graphics/AED_512/AED_512_pocket_card_Jul82_2.jpg",
+    "is_dir": false,
+    "size": "972.3 KiB",
+    "date": "09-Sep-2018 20:30"
+  }
+]

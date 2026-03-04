@@ -1,0 +1,42 @@
+[
+  {
+    "name": "memos",
+    "href": "memos/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/610/memos/",
+    "is_dir": true,
+    "size": null,
+    "date": "25-Feb-2008 02:08"
+  },
+  {
+    "name": "ED-25610-47_Microvax_I_Brochure_1983.pdf",
+    "href": "ED-25610-47_Microvax_I_Brochure_1983.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/610/ED-25610-47_Microvax_I_Brochure_1983.pdf",
+    "is_dir": false,
+    "size": "7.1 MiB",
+    "date": "11-Jun-2025 16:19"
+  },
+  {
+    "name": "EK-KD32A-TD-002_MicroVAX_I_CPU_Technical_Description_Aug84.pdf",
+    "href": "EK-KD32A-TD-002_MicroVAX_I_CPU_Technical_Description_Aug84.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/610/EK-KD32A-TD-002_MicroVAX_I_CPU_Technical_Description_Aug84.pdf",
+    "is_dir": false,
+    "size": "23.1 MiB",
+    "date": "24-Jan-2008 01:50"
+  },
+  {
+    "name": "EK-VS200-PS-PRE_VAXstation_I_Service_Guide_Preliminary_198411.pdf",
+    "href": "EK-VS200-PS-PRE_VAXstation_I_Service_Guide_Preliminary_198411.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/610/EK-VS200-PS-PRE_VAXstation_I_Service_Guide_Preliminary_198411.pdf",
+    "is_dir": false,
+    "size": "3.2 MiB",
+    "date": "14-Dec-2021 22:12"
+  },
+  {
+    "name": "EK-VS200-TM-PRE_VAXstation_I_Technical_Reference_Manual_Preliminary_198411.pdf",
+    "href": "EK-VS200-TM-PRE_VAXstation_I_Technical_Reference_Manual_Preliminary_198411.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/610/EK-VS200-TM-PRE_VAXstation_I_Technical_Reference_Manual_Preliminary_198411.pdf",
+    "is_dir": false,
+    "size": "5.1 MiB",
+    "date": "14-Dec-2021 22:12"
+  }
+]

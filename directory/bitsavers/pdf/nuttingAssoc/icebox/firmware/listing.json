@@ -1,0 +1,50 @@
+[
+  {
+    "name": "IceBox_PROM_src",
+    "href": "IceBox_PROM_src/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/nuttingAssoc/icebox/firmware/IceBox_PROM_src/",
+    "is_dir": true,
+    "size": null,
+    "date": "27-Aug-2018 18:09"
+  },
+  {
+    "name": "ice.bin",
+    "href": "ice.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/nuttingAssoc/icebox/firmware/ice.bin",
+    "is_dir": false,
+    "size": "4.0 KiB",
+    "date": "27-Aug-2018 18:09"
+  },
+  {
+    "name": "ice.lst",
+    "href": "ice.lst",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/nuttingAssoc/icebox/firmware/ice.lst",
+    "is_dir": false,
+    "size": "85.7 KiB",
+    "date": "27-Aug-2018 18:09"
+  },
+  {
+    "name": "ice0.bin",
+    "href": "ice0.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/nuttingAssoc/icebox/firmware/ice0.bin",
+    "is_dir": false,
+    "size": "2.0 KiB",
+    "date": "27-Aug-2018 18:09"
+  },
+  {
+    "name": "ice1.bin",
+    "href": "ice1.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/nuttingAssoc/icebox/firmware/ice1.bin",
+    "is_dir": false,
+    "size": "2.0 KiB",
+    "date": "27-Aug-2018 18:09"
+  },
+  {
+    "name": "ice_disassembly.txt",
+    "href": "ice_disassembly.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/nuttingAssoc/icebox/firmware/ice_disassembly.txt",
+    "is_dir": false,
+    "size": "97.7 KiB",
+    "date": "04-Sep-2018 19:15"
+  }
+]

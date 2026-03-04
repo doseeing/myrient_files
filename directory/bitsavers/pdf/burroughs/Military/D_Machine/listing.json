@@ -1,0 +1,66 @@
+[
+  {
+    "name": "Mini-D",
+    "href": "Mini-D/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/burroughs/Military/D_Machine/Mini-D/",
+    "is_dir": true,
+    "size": null,
+    "date": "11-May-2023 06:46"
+  },
+  {
+    "name": "TPU",
+    "href": "TPU/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/burroughs/Military/D_Machine/TPU/",
+    "is_dir": true,
+    "size": null,
+    "date": "11-May-2023 16:54"
+  },
+  {
+    "name": "patents",
+    "href": "patents/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/burroughs/Military/D_Machine/patents/",
+    "is_dir": true,
+    "size": null,
+    "date": "11-May-2023 16:54"
+  },
+  {
+    "name": "AD0911484_Davis_-_Aerospace_Multiprocessor_Final_Report_197306.pdf",
+    "href": "AD0911484_Davis_-_Aerospace_Multiprocessor_Final_Report_197306.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/burroughs/Military/D_Machine/AD0911484_Davis_-_Aerospace_Multiprocessor_Final_Report_197306.pdf",
+    "is_dir": false,
+    "size": "7.6 MiB",
+    "date": "10-May-2023 08:02"
+  },
+  {
+    "name": "Davis_-_Structure_of_a_Multiprocessor__SIGMicro_v2n3_197110.pdf",
+    "href": "Davis_-_Structure_of_a_Multiprocessor__SIGMicro_v2n3_197110.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/burroughs/Military/D_Machine/Davis_-_Structure_of_a_Multiprocessor__SIGMicro_v2n3_197110.pdf",
+    "is_dir": false,
+    "size": "1.4 MiB",
+    "date": "10-May-2023 04:50"
+  },
+  {
+    "name": "Programming_Tools_For_The_D_Machine.pdf",
+    "href": "Programming_Tools_For_The_D_Machine.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/burroughs/Military/D_Machine/Programming_Tools_For_The_D_Machine.pdf",
+    "is_dir": false,
+    "size": "160.7 KiB",
+    "date": "21-Jun-2009 18:05"
+  },
+  {
+    "name": "Structure_of_a_Multiprocessor_Using_Microprogrammable_Building_Blocks_Mar71.pdf",
+    "href": "Structure_of_a_Multiprocessor_Using_Microprogrammable_Building_Blocks_Mar71.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/burroughs/Military/D_Machine/Structure_of_a_Multiprocessor_Using_Microprogrammable_Building_Blocks_Mar71.pdf",
+    "is_dir": false,
+    "size": "1.8 MiB",
+    "date": "21-Jun-2009 18:05"
+  },
+  {
+    "name": "TR_70-8_Microprogramming_Manual_for_Interpreter_Based_Systems_Nov70.pdf",
+    "href": "TR_70-8_Microprogramming_Manual_for_Interpreter_Based_Systems_Nov70.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/burroughs/Military/D_Machine/TR_70-8_Microprogramming_Manual_for_Interpreter_Based_Systems_Nov70.pdf",
+    "is_dir": false,
+    "size": "6.8 MiB",
+    "date": "22-Jun-2009 00:34"
+  }
+]

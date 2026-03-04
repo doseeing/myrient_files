@@ -1,0 +1,34 @@
+[
+  {
+    "name": "firmware",
+    "href": "firmware/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/motorola/VME/MVME327/firmware/",
+    "is_dir": true,
+    "size": null,
+    "date": "27-May-2016 18:27"
+  },
+  {
+    "name": "pictures",
+    "href": "pictures/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/motorola/VME/MVME327/pictures/",
+    "is_dir": true,
+    "size": null,
+    "date": "27-May-2016 18:27"
+  },
+  {
+    "name": "MVME327AFW_D1_Firmware_Users_Manual_Aug88.pdf",
+    "href": "MVME327AFW_D1_Firmware_Users_Manual_Aug88.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/motorola/VME/MVME327/MVME327AFW_D1_Firmware_Users_Manual_Aug88.pdf",
+    "is_dir": false,
+    "size": "6.3 MiB",
+    "date": "02-Jun-2016 02:26"
+  },
+  {
+    "name": "MVME327A_D1_VMEbus_to_SCSI_Adapter_and_MVME717_Transition_Module_Jul88.pdf",
+    "href": "MVME327A_D1_VMEbus_to_SCSI_Adapter_and_MVME717_Transition_Module_Jul88.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/motorola/VME/MVME327/MVME327A_D1_VMEbus_to_SCSI_Adapter_and_MVME717_Transition_Module_Jul88.pdf",
+    "is_dir": false,
+    "size": "5.1 MiB",
+    "date": "02-Jun-2016 02:26"
+  }
+]

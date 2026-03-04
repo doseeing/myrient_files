@@ -1,0 +1,22 @@
+name	is_dir	size	date
+00	True	-	19-Jul-2025 19:06
+01_280B_Nova_Eclipse_IO_Adapter	True	-	17-Jul-2025 16:11
+02_401-A_Floating_Adder	True	-	17-Jul-2025 16:12
+03_402-B_Data_Pad_Left_Exponent_Bits_0-3	True	-	17-Jul-2025 16:12
+04_402-B_Data_Pad_Right_Mantissa_Bits_0-3	True	-	17-Jul-2025 16:14
+05_405-A_Processor_2	True	-	17-Jul-2025 16:12
+06_407-0_P1_FPS_100	True	-	17-Jul-2025 16:12
+07_408-0_P3	True	-	17-Jul-2025 16:12
+08_408-A_P3	True	-	17-Jul-2025 16:12
+09_FPS-100_Power_Sequence_Logic	True	-	17-Jul-2025 16:12
+10_419-0_Nova_IF_FPS-100	True	-	17-Jul-2025 16:12
+11_421-C_PDP-11_IF	True	-	17-Jul-2025 16:13
+12_421-A_PDP-11_IF_FPS100	True	-	17-Jul-2025 16:13
+13_422A_Processor_1	True	-	17-Jul-2025 16:14
+14_423-0_Processor_2_4K	True	-	17-Jul-2025 16:13
+15_424-A_Main_Data	True	-	17-Jul-2025 16:13
+16_425-A_Table_Memory_512-3425-003	True	-	17-Jul-2025 16:13
+17_425-A_Table_Memory_512-3425-004	True	-	17-Jul-2025 16:13
+18_428-A_Floating_Multiplier	True	-	17-Jul-2025 16:13
+19_429-0_Formatter_PDP-11	True	-	17-Jul-2025 16:14
+20_429-0_Formatter_Nova	True	-	17-Jul-2025 16:14

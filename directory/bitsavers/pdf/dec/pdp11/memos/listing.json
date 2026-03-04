@@ -1,0 +1,666 @@
+[
+  {
+    "name": "680308_Introduction_To_PDP9I_Technical_Memoranda.pdf",
+    "href": "680308_Introduction_To_PDP9I_Technical_Memoranda.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp11/memos/680308_Introduction_To_PDP9I_Technical_Memoranda.pdf",
+    "is_dir": false,
+    "size": "101.1 KiB",
+    "date": "24-Mar-2018 02:05"
+  },
+  {
+    "name": "680308_PDP-9I_Memoranda_Distribution_List.pdf",
+    "href": "680308_PDP-9I_Memoranda_Distribution_List.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp11/memos/680308_PDP-9I_Memoranda_Distribution_List.pdf",
+    "is_dir": false,
+    "size": "35.7 KiB",
+    "date": "24-Mar-2018 02:05"
+  },
+  {
+    "name": "690111_How_Good_Is_The_PDP-11.pdf",
+    "href": "690111_How_Good_Is_The_PDP-11.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp11/memos/690111_How_Good_Is_The_PDP-11.pdf",
+    "is_dir": false,
+    "size": "5.1 MiB",
+    "date": "24-Mar-2018 02:05"
+  },
+  {
+    "name": "690124_Preliminary_Specification_PDP-11_Instruction_Set.pdf",
+    "href": "690124_Preliminary_Specification_PDP-11_Instruction_Set.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp11/memos/690124_Preliminary_Specification_PDP-11_Instruction_Set.pdf",
+    "is_dir": false,
+    "size": "899.8 KiB",
+    "date": "24-Mar-2018 02:05"
+  },
+  {
+    "name": "690129_PDP-11_Information.pdf",
+    "href": "690129_PDP-11_Information.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp11/memos/690129_PDP-11_Information.pdf",
+    "is_dir": false,
+    "size": "719.2 KiB",
+    "date": "24-Mar-2018 02:05"
+  },
+  {
+    "name": "690204_PDP-11_Instruction_Set.pdf",
+    "href": "690204_PDP-11_Instruction_Set.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp11/memos/690204_PDP-11_Instruction_Set.pdf",
+    "is_dir": false,
+    "size": "2.2 MiB",
+    "date": "24-Mar-2018 02:05"
+  },
+  {
+    "name": "690206_PDP-11_Packaging_Concept.pdf",
+    "href": "690206_PDP-11_Packaging_Concept.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp11/memos/690206_PDP-11_Packaging_Concept.pdf",
+    "is_dir": false,
+    "size": "224.5 KiB",
+    "date": "24-Mar-2018 02:05"
+  },
+  {
+    "name": "690211_PDP-11_Instruction_Set_Errata.pdf",
+    "href": "690211_PDP-11_Instruction_Set_Errata.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp11/memos/690211_PDP-11_Instruction_Set_Errata.pdf",
+    "is_dir": false,
+    "size": "129.5 KiB",
+    "date": "24-Mar-2018 02:05"
+  },
+  {
+    "name": "690218_PDP-11_Electrical_Design_Review_Minutes.pdf",
+    "href": "690218_PDP-11_Electrical_Design_Review_Minutes.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp11/memos/690218_PDP-11_Electrical_Design_Review_Minutes.pdf",
+    "is_dir": false,
+    "size": "274.6 KiB",
+    "date": "24-Mar-2018 02:05"
+  },
+  {
+    "name": "690224_PDP-11_Instruction_And_Architecture_Compromises.pdf",
+    "href": "690224_PDP-11_Instruction_And_Architecture_Compromises.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp11/memos/690224_PDP-11_Instruction_And_Architecture_Compromises.pdf",
+    "is_dir": false,
+    "size": "1.7 MiB",
+    "date": "24-Mar-2018 02:05"
+  },
+  {
+    "name": "690304_PDP-11_Architecture.pdf",
+    "href": "690304_PDP-11_Architecture.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp11/memos/690304_PDP-11_Architecture.pdf",
+    "is_dir": false,
+    "size": "612.5 KiB",
+    "date": "24-Mar-2018 02:05"
+  },
+  {
+    "name": "690304_Proposed_PDP-11_Re-Organization.pdf",
+    "href": "690304_Proposed_PDP-11_Re-Organization.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp11/memos/690304_Proposed_PDP-11_Re-Organization.pdf",
+    "is_dir": false,
+    "size": "131.3 KiB",
+    "date": "24-Mar-2018 02:05"
+  },
+  {
+    "name": "690305_PDP-11_Electrical_Design_Review.pdf",
+    "href": "690305_PDP-11_Electrical_Design_Review.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp11/memos/690305_PDP-11_Electrical_Design_Review.pdf",
+    "is_dir": false,
+    "size": "104.4 KiB",
+    "date": "24-Mar-2018 02:05"
+  },
+  {
+    "name": "690310_March_7_Meeting_Minutes.pdf",
+    "href": "690310_March_7_Meeting_Minutes.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp11/memos/690310_March_7_Meeting_Minutes.pdf",
+    "is_dir": false,
+    "size": "275.4 KiB",
+    "date": "24-Mar-2018 02:05"
+  },
+  {
+    "name": "690328_Basic_PDP-1130_Description_and_Instruction_Set.pdf",
+    "href": "690328_Basic_PDP-1130_Description_and_Instruction_Set.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp11/memos/690328_Basic_PDP-1130_Description_and_Instruction_Set.pdf",
+    "is_dir": false,
+    "size": "2.0 MiB",
+    "date": "24-Mar-2018 02:05"
+  },
+  {
+    "name": "690331_PAL-11.pdf",
+    "href": "690331_PAL-11.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp11/memos/690331_PAL-11.pdf",
+    "is_dir": false,
+    "size": "1.2 MiB",
+    "date": "24-Mar-2018 02:05"
+  },
+  {
+    "name": "690401_PDP-11.pdf",
+    "href": "690401_PDP-11.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp11/memos/690401_PDP-11.pdf",
+    "is_dir": false,
+    "size": "39.7 KiB",
+    "date": "24-Mar-2018 02:05"
+  },
+  {
+    "name": "690402_PDP-11_Uni-Bus.pdf",
+    "href": "690402_PDP-11_Uni-Bus.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp11/memos/690402_PDP-11_Uni-Bus.pdf",
+    "is_dir": false,
+    "size": "728.3 KiB",
+    "date": "24-Mar-2018 02:05"
+  },
+  {
+    "name": "690403_Basic_PDP-1130_Description_and_Instruction_Set_Errata.pdf",
+    "href": "690403_Basic_PDP-1130_Description_and_Instruction_Set_Errata.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp11/memos/690403_Basic_PDP-1130_Description_and_Instruction_Set_Errata.pdf",
+    "is_dir": false,
+    "size": "255.8 KiB",
+    "date": "24-Mar-2018 02:05"
+  },
+  {
+    "name": "690403_PDP-11_Family_Projection.pdf",
+    "href": "690403_PDP-11_Family_Projection.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp11/memos/690403_PDP-11_Family_Projection.pdf",
+    "is_dir": false,
+    "size": "56.7 KiB",
+    "date": "24-Mar-2018 02:05"
+  },
+  {
+    "name": "690415_Notes_From_Design_Review.pdf",
+    "href": "690415_Notes_From_Design_Review.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp11/memos/690415_Notes_From_Design_Review.pdf",
+    "is_dir": false,
+    "size": "329.3 KiB",
+    "date": "24-Mar-2018 02:05"
+  },
+  {
+    "name": "690418_PDP-11_IO_Bus.pdf",
+    "href": "690418_PDP-11_IO_Bus.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp11/memos/690418_PDP-11_IO_Bus.pdf",
+    "is_dir": false,
+    "size": "371.1 KiB",
+    "date": "24-Mar-2018 02:05"
+  },
+  {
+    "name": "690428_PDP-11_Design_Review_Meeting.pdf",
+    "href": "690428_PDP-11_Design_Review_Meeting.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp11/memos/690428_PDP-11_Design_Review_Meeting.pdf",
+    "is_dir": false,
+    "size": "46.8 KiB",
+    "date": "24-Mar-2018 02:05"
+  },
+  {
+    "name": "690429_Minutes_Of_PDP-11_Design_Review_Meeting.pdf",
+    "href": "690429_Minutes_Of_PDP-11_Design_Review_Meeting.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp11/memos/690429_Minutes_Of_PDP-11_Design_Review_Meeting.pdf",
+    "is_dir": false,
+    "size": "44.3 KiB",
+    "date": "24-Mar-2018 02:05"
+  },
+  {
+    "name": "690505_PDP-11_Design_Review_Meeting.pdf",
+    "href": "690505_PDP-11_Design_Review_Meeting.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp11/memos/690505_PDP-11_Design_Review_Meeting.pdf",
+    "is_dir": false,
+    "size": "64.2 KiB",
+    "date": "24-Mar-2018 02:05"
+  },
+  {
+    "name": "690613_PDP-11_EAE.pdf",
+    "href": "690613_PDP-11_EAE.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp11/memos/690613_PDP-11_EAE.pdf",
+    "is_dir": false,
+    "size": "545.0 KiB",
+    "date": "24-Mar-2018 02:05"
+  },
+  {
+    "name": "690904_Details_of_Design_KA11.pdf",
+    "href": "690904_Details_of_Design_KA11.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp11/memos/690904_Details_of_Design_KA11.pdf",
+    "is_dir": false,
+    "size": "2.1 MiB",
+    "date": "24-Mar-2018 02:05"
+  },
+  {
+    "name": "690930_Requests_For_Information.pdf",
+    "href": "690930_Requests_For_Information.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp11/memos/690930_Requests_For_Information.pdf",
+    "is_dir": false,
+    "size": "752.8 KiB",
+    "date": "24-Mar-2018 02:05"
+  },
+  {
+    "name": "691022_Tenative_Design_Goals_For_1120_Successors.pdf",
+    "href": "691022_Tenative_Design_Goals_For_1120_Successors.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp11/memos/691022_Tenative_Design_Goals_For_1120_Successors.pdf",
+    "is_dir": false,
+    "size": "315.5 KiB",
+    "date": "24-Mar-2018 02:06"
+  },
+  {
+    "name": "691023_KA11_Design_Critique.pdf",
+    "href": "691023_KA11_Design_Critique.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp11/memos/691023_KA11_Design_Critique.pdf",
+    "is_dir": false,
+    "size": "257.2 KiB",
+    "date": "24-Mar-2018 02:06"
+  },
+  {
+    "name": "691027_Design_Review_Minutes_of_Oct_20.pdf",
+    "href": "691027_Design_Review_Minutes_of_Oct_20.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp11/memos/691027_Design_Review_Minutes_of_Oct_20.pdf",
+    "is_dir": false,
+    "size": "102.0 KiB",
+    "date": "24-Mar-2018 02:06"
+  },
+  {
+    "name": "691114_Multiply_And_Divide_Formats.pdf",
+    "href": "691114_Multiply_And_Divide_Formats.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp11/memos/691114_Multiply_And_Divide_Formats.pdf",
+    "is_dir": false,
+    "size": "9.7 MiB",
+    "date": "24-Mar-2018 02:06"
+  },
+  {
+    "name": "691117_Operational_Details_In_The_MUL_and_DIV_Instructions.pdf",
+    "href": "691117_Operational_Details_In_The_MUL_and_DIV_Instructions.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp11/memos/691117_Operational_Details_In_The_MUL_and_DIV_Instructions.pdf",
+    "is_dir": false,
+    "size": "2.9 MiB",
+    "date": "24-Mar-2018 02:06"
+  },
+  {
+    "name": "691126_Microprogramming_Investigation_Proposal.pdf",
+    "href": "691126_Microprogramming_Investigation_Proposal.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp11/memos/691126_Microprogramming_Investigation_Proposal.pdf",
+    "is_dir": false,
+    "size": "244.6 KiB",
+    "date": "24-Mar-2018 02:06"
+  },
+  {
+    "name": "691219_Floating_Point_Formats.pdf",
+    "href": "691219_Floating_Point_Formats.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp11/memos/691219_Floating_Point_Formats.pdf",
+    "is_dir": false,
+    "size": "2.2 MiB",
+    "date": "24-Mar-2018 02:06"
+  },
+  {
+    "name": "691222_Extension_of_PDP-11_Instruction_Set_-_Floating_Point.pdf",
+    "href": "691222_Extension_of_PDP-11_Instruction_Set_-_Floating_Point.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp11/memos/691222_Extension_of_PDP-11_Instruction_Set_-_Floating_Point.pdf",
+    "is_dir": false,
+    "size": "237.4 KiB",
+    "date": "24-Mar-2018 02:06"
+  },
+  {
+    "name": "691229_Design_Review_Comittee_Meeting.pdf",
+    "href": "691229_Design_Review_Comittee_Meeting.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp11/memos/691229_Design_Review_Comittee_Meeting.pdf",
+    "is_dir": false,
+    "size": "138.7 KiB",
+    "date": "24-Mar-2018 02:06"
+  },
+  {
+    "name": "700121_Extension_Of_The_PDP-11_Instruction_Set.pdf",
+    "href": "700121_Extension_Of_The_PDP-11_Instruction_Set.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp11/memos/700121_Extension_Of_The_PDP-11_Instruction_Set.pdf",
+    "is_dir": false,
+    "size": "1.0 MiB",
+    "date": "24-Mar-2018 02:06"
+  },
+  {
+    "name": "700220_An_Instruction_Set_For_The_18-bit_PDP-K.pdf",
+    "href": "700220_An_Instruction_Set_For_The_18-bit_PDP-K.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp11/memos/700220_An_Instruction_Set_For_The_18-bit_PDP-K.pdf",
+    "is_dir": false,
+    "size": "1.6 MiB",
+    "date": "24-Mar-2018 02:06"
+  },
+  {
+    "name": "700226_PDP-11_Bus_Devices_on_K_Bus.pdf",
+    "href": "700226_PDP-11_Bus_Devices_on_K_Bus.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp11/memos/700226_PDP-11_Bus_Devices_on_K_Bus.pdf",
+    "is_dir": false,
+    "size": "340.4 KiB",
+    "date": "24-Mar-2018 02:06"
+  },
+  {
+    "name": "700312_Extension_of_the_PDP-11_Address_Space.pdf",
+    "href": "700312_Extension_of_the_PDP-11_Address_Space.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp11/memos/700312_Extension_of_the_PDP-11_Address_Space.pdf",
+    "is_dir": false,
+    "size": "1.1 MiB",
+    "date": "24-Mar-2018 02:06"
+  },
+  {
+    "name": "700313_Why_an_18-bit_PDP-K.pdf",
+    "href": "700313_Why_an_18-bit_PDP-K.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp11/memos/700313_Why_an_18-bit_PDP-K.pdf",
+    "is_dir": false,
+    "size": "386.5 KiB",
+    "date": "24-Mar-2018 02:06"
+  },
+  {
+    "name": "700323_Memory_Address_Segmentation_Schemes.pdf",
+    "href": "700323_Memory_Address_Segmentation_Schemes.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp11/memos/700323_Memory_Address_Segmentation_Schemes.pdf",
+    "is_dir": false,
+    "size": "95.6 KiB",
+    "date": "24-Mar-2018 02:06"
+  },
+  {
+    "name": "700325_Programming_Benchmarks.pdf",
+    "href": "700325_Programming_Benchmarks.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp11/memos/700325_Programming_Benchmarks.pdf",
+    "is_dir": false,
+    "size": "437.7 KiB",
+    "date": "24-Mar-2018 02:06"
+  },
+  {
+    "name": "700331_PDP-K_Initial_Cost_Considerations.pdf",
+    "href": "700331_PDP-K_Initial_Cost_Considerations.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp11/memos/700331_PDP-K_Initial_Cost_Considerations.pdf",
+    "is_dir": false,
+    "size": "278.1 KiB",
+    "date": "24-Mar-2018 02:06"
+  },
+  {
+    "name": "700610_Data_Format_Conventions_For_The_PDP-1140.pdf",
+    "href": "700610_Data_Format_Conventions_For_The_PDP-1140.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp11/memos/700610_Data_Format_Conventions_For_The_PDP-1140.pdf",
+    "is_dir": false,
+    "size": "250.6 KiB",
+    "date": "24-Mar-2018 02:06"
+  },
+  {
+    "name": "700629_PDP-1140_Addressing_Modes.pdf",
+    "href": "700629_PDP-1140_Addressing_Modes.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp11/memos/700629_PDP-1140_Addressing_Modes.pdf",
+    "is_dir": false,
+    "size": "201.7 KiB",
+    "date": "24-Mar-2018 02:06"
+  },
+  {
+    "name": "700630_A_Microprogrammed_1140_CPU.pdf",
+    "href": "700630_A_Microprogrammed_1140_CPU.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp11/memos/700630_A_Microprogrammed_1140_CPU.pdf",
+    "is_dir": false,
+    "size": "568.7 KiB",
+    "date": "24-Mar-2018 02:06"
+  },
+  {
+    "name": "700714_Register_Layout_for_1140_and_Up.pdf",
+    "href": "700714_Register_Layout_for_1140_and_Up.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp11/memos/700714_Register_Layout_for_1140_and_Up.pdf",
+    "is_dir": false,
+    "size": "291.0 KiB",
+    "date": "24-Mar-2018 02:06"
+  },
+  {
+    "name": "700729_PDP-1140_Distribution_Lists.pdf",
+    "href": "700729_PDP-1140_Distribution_Lists.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp11/memos/700729_PDP-1140_Distribution_Lists.pdf",
+    "is_dir": false,
+    "size": "54.5 KiB",
+    "date": "24-Mar-2018 02:06"
+  },
+  {
+    "name": "700802_The_Repeat_Instruction.pdf",
+    "href": "700802_The_Repeat_Instruction.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp11/memos/700802_The_Repeat_Instruction.pdf",
+    "is_dir": false,
+    "size": "523.8 KiB",
+    "date": "24-Mar-2018 02:06"
+  },
+  {
+    "name": "700806_PDP-11_Cache_Memory_Scheme_And_Considerations.pdf",
+    "href": "700806_PDP-11_Cache_Memory_Scheme_And_Considerations.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp11/memos/700806_PDP-11_Cache_Memory_Scheme_And_Considerations.pdf",
+    "is_dir": false,
+    "size": "497.1 KiB",
+    "date": "24-Mar-2018 02:06"
+  },
+  {
+    "name": "700921_The_Execute_Instruction.pdf",
+    "href": "700921_The_Execute_Instruction.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp11/memos/700921_The_Execute_Instruction.pdf",
+    "is_dir": false,
+    "size": "329.8 KiB",
+    "date": "24-Mar-2018 02:06"
+  },
+  {
+    "name": "700925_PDP-1140_Technical_Memo_Index.pdf",
+    "href": "700925_PDP-1140_Technical_Memo_Index.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp11/memos/700925_PDP-1140_Technical_Memo_Index.pdf",
+    "is_dir": false,
+    "size": "715.3 KiB",
+    "date": "24-Mar-2018 02:06"
+  },
+  {
+    "name": "700928_Protection_and_Relocation_for_the_1125.pdf",
+    "href": "700928_Protection_and_Relocation_for_the_1125.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp11/memos/700928_Protection_and_Relocation_for_the_1125.pdf",
+    "is_dir": false,
+    "size": "60.7 KiB",
+    "date": "24-Mar-2018 02:06"
+  },
+  {
+    "name": "700929_Choice_Of_Logic.pdf",
+    "href": "700929_Choice_Of_Logic.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp11/memos/700929_Choice_Of_Logic.pdf",
+    "is_dir": false,
+    "size": "747.0 KiB",
+    "date": "24-Mar-2018 02:06"
+  },
+  {
+    "name": "701001_PDP-11_Floating_Point_Format.pdf",
+    "href": "701001_PDP-11_Floating_Point_Format.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp11/memos/701001_PDP-11_Floating_Point_Format.pdf",
+    "is_dir": false,
+    "size": "108.4 KiB",
+    "date": "24-Mar-2018 02:06"
+  },
+  {
+    "name": "701014_Protection_and_Relocation_for_the_1125.pdf",
+    "href": "701014_Protection_and_Relocation_for_the_1125.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp11/memos/701014_Protection_and_Relocation_for_the_1125.pdf",
+    "is_dir": false,
+    "size": "45.5 KiB",
+    "date": "24-Mar-2018 02:06"
+  },
+  {
+    "name": "701014_Segmentation.pdf",
+    "href": "701014_Segmentation.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp11/memos/701014_Segmentation.pdf",
+    "is_dir": false,
+    "size": "735.6 KiB",
+    "date": "24-Mar-2018 02:06"
+  },
+  {
+    "name": "701110_The_PDP-11_Floating_Point_Format.pdf",
+    "href": "701110_The_PDP-11_Floating_Point_Format.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp11/memos/701110_The_PDP-11_Floating_Point_Format.pdf",
+    "is_dir": false,
+    "size": "841.7 KiB",
+    "date": "24-Mar-2018 02:06"
+  },
+  {
+    "name": "7102xx_The_PDP-11_Floating_Point_Unit.pdf",
+    "href": "7102xx_The_PDP-11_Floating_Point_Unit.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp11/memos/7102xx_The_PDP-11_Floating_Point_Unit.pdf",
+    "is_dir": false,
+    "size": "1.7 MiB",
+    "date": "24-Mar-2018 02:06"
+  },
+  {
+    "name": "710308_Protection_and_Relocation_for_the_PDP-1140.pdf",
+    "href": "710308_Protection_and_Relocation_for_the_PDP-1140.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp11/memos/710308_Protection_and_Relocation_for_the_PDP-1140.pdf",
+    "is_dir": false,
+    "size": "1.2 MiB",
+    "date": "24-Mar-2018 02:06"
+  },
+  {
+    "name": "710621_Product_Annoucement_Plans.pdf",
+    "href": "710621_Product_Annoucement_Plans.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp11/memos/710621_Product_Annoucement_Plans.pdf",
+    "is_dir": false,
+    "size": "812.4 KiB",
+    "date": "24-Mar-2018 02:06"
+  },
+  {
+    "name": "711020_OS45_Proposal_Meeting.pdf",
+    "href": "711020_OS45_Proposal_Meeting.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp11/memos/711020_OS45_Proposal_Meeting.pdf",
+    "is_dir": false,
+    "size": "556.1 KiB",
+    "date": "24-Mar-2018 02:06"
+  },
+  {
+    "name": "720207_Software_As_A_Product.pdf",
+    "href": "720207_Software_As_A_Product.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp11/memos/720207_Software_As_A_Product.pdf",
+    "is_dir": false,
+    "size": "191.4 KiB",
+    "date": "24-Mar-2018 02:06"
+  },
+  {
+    "name": "720303_PDP-11_Shipments.pdf",
+    "href": "720303_PDP-11_Shipments.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp11/memos/720303_PDP-11_Shipments.pdf",
+    "is_dir": false,
+    "size": "43.9 KiB",
+    "date": "24-Mar-2018 02:06"
+  },
+  {
+    "name": "721222_1145_Status.pdf",
+    "href": "721222_1145_Status.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp11/memos/721222_1145_Status.pdf",
+    "is_dir": false,
+    "size": "405.6 KiB",
+    "date": "24-Mar-2018 02:06"
+  },
+  {
+    "name": "721228_1135_16K_Memory.pdf",
+    "href": "721228_1135_16K_Memory.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp11/memos/721228_1135_16K_Memory.pdf",
+    "is_dir": false,
+    "size": "67.3 KiB",
+    "date": "24-Mar-2018 02:06"
+  },
+  {
+    "name": "730302_PDP-11_Operating_System_Characteristics.pdf",
+    "href": "730302_PDP-11_Operating_System_Characteristics.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp11/memos/730302_PDP-11_Operating_System_Characteristics.pdf",
+    "is_dir": false,
+    "size": "535.2 KiB",
+    "date": "24-Mar-2018 02:06"
+  },
+  {
+    "name": "7303xx_1135_Business_Plan.pdf",
+    "href": "7303xx_1135_Business_Plan.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp11/memos/7303xx_1135_Business_Plan.pdf",
+    "is_dir": false,
+    "size": "852.6 KiB",
+    "date": "24-Mar-2018 02:06"
+  },
+  {
+    "name": "730404_Software_Engineering_Budget_Plan.pdf",
+    "href": "730404_Software_Engineering_Budget_Plan.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp11/memos/730404_Software_Engineering_Budget_Plan.pdf",
+    "is_dir": false,
+    "size": "1.2 MiB",
+    "date": "24-Mar-2018 02:06"
+  },
+  {
+    "name": "730419_PDP-11_Software_Product_Plans.pdf",
+    "href": "730419_PDP-11_Software_Product_Plans.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp11/memos/730419_PDP-11_Software_Product_Plans.pdf",
+    "is_dir": false,
+    "size": "230.9 KiB",
+    "date": "24-Mar-2018 02:06"
+  },
+  {
+    "name": "730809_Bell_Separation_of_Low_and_High_End.pdf",
+    "href": "730809_Bell_Separation_of_Low_and_High_End.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp11/memos/730809_Bell_Separation_of_Low_and_High_End.pdf",
+    "is_dir": false,
+    "size": "54.9 KiB",
+    "date": "24-Mar-2018 02:06"
+  },
+  {
+    "name": "7309xx_Expanded_1135_Business_Plan.pdf",
+    "href": "7309xx_Expanded_1135_Business_Plan.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp11/memos/7309xx_Expanded_1135_Business_Plan.pdf",
+    "is_dir": false,
+    "size": "620.4 KiB",
+    "date": "24-Mar-2018 02:06"
+  },
+  {
+    "name": "731015_Controllers_Cables_Packaging.pdf",
+    "href": "731015_Controllers_Cables_Packaging.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp11/memos/731015_Controllers_Cables_Packaging.pdf",
+    "is_dir": false,
+    "size": "515.0 KiB",
+    "date": "24-Mar-2018 02:06"
+  },
+  {
+    "name": "731017_Long_Range_PDP-11_Plans.pdf",
+    "href": "731017_Long_Range_PDP-11_Plans.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp11/memos/731017_Long_Range_PDP-11_Plans.pdf",
+    "is_dir": false,
+    "size": "43.4 KiB",
+    "date": "24-Mar-2018 02:06"
+  },
+  {
+    "name": "731119_RSX-11D_Review.pdf",
+    "href": "731119_RSX-11D_Review.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp11/memos/731119_RSX-11D_Review.pdf",
+    "is_dir": false,
+    "size": "663.7 KiB",
+    "date": "24-Mar-2018 02:06"
+  },
+  {
+    "name": "73xxxx_PDP-11_Microprogramming.pdf",
+    "href": "73xxxx_PDP-11_Microprogramming.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp11/memos/73xxxx_PDP-11_Microprogramming.pdf",
+    "is_dir": false,
+    "size": "2.6 MiB",
+    "date": "24-Mar-2018 02:06"
+  },
+  {
+    "name": "740321_Initial_Feedback_On_Chapter_Scheme.pdf",
+    "href": "740321_Initial_Feedback_On_Chapter_Scheme.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp11/memos/740321_Initial_Feedback_On_Chapter_Scheme.pdf",
+    "is_dir": false,
+    "size": "417.1 KiB",
+    "date": "24-Mar-2018 02:06"
+  },
+  {
+    "name": "740613_PDP-11_Strategy.pdf",
+    "href": "740613_PDP-11_Strategy.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp11/memos/740613_PDP-11_Strategy.pdf",
+    "is_dir": false,
+    "size": "146.0 KiB",
+    "date": "24-Mar-2018 02:06"
+  },
+  {
+    "name": "740913_Summary_Of_11_VAX_Architecture.pdf",
+    "href": "740913_Summary_Of_11_VAX_Architecture.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp11/memos/740913_Summary_Of_11_VAX_Architecture.pdf",
+    "is_dir": false,
+    "size": "1.1 MiB",
+    "date": "24-Mar-2018 02:06"
+  },
+  {
+    "name": "740919_PDP-11_Strategy_Status.pdf",
+    "href": "740919_PDP-11_Strategy_Status.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp11/memos/740919_PDP-11_Strategy_Status.pdf",
+    "is_dir": false,
+    "size": "405.4 KiB",
+    "date": "24-Mar-2018 02:06"
+  },
+  {
+    "name": "Bluefish_1168_Functional_Specification_Jul78.pdf",
+    "href": "Bluefish_1168_Functional_Specification_Jul78.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp11/memos/Bluefish_1168_Functional_Specification_Jul78.pdf",
+    "is_dir": false,
+    "size": "5.7 MiB",
+    "date": "24-Mar-2018 02:06"
+  }
+]

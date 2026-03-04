@@ -1,0 +1,346 @@
+[
+  {
+    "name": "MANUAL~1_(2).1",
+    "href": "MANUAL~1_%282%29.1",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/lmi/K-Machine/Falcon_Processor_Design_Specification/MANUAL~1_%282%29.1",
+    "is_dir": false,
+    "size": "1.2 KiB",
+    "date": "21-Apr-2017 15:56"
+  },
+  {
+    "name": "MANUAL~1_(2).2",
+    "href": "MANUAL~1_%282%29.2",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/lmi/K-Machine/Falcon_Processor_Design_Specification/MANUAL~1_%282%29.2",
+    "is_dir": false,
+    "size": "1.6 KiB",
+    "date": "21-Apr-2017 15:56"
+  },
+  {
+    "name": "alu-opcodes.botex",
+    "href": "alu-opcodes.botex",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/lmi/K-Machine/Falcon_Processor_Design_Specification/alu-opcodes.botex",
+    "is_dir": false,
+    "size": "11.3 KiB",
+    "date": "21-Apr-2017 15:56"
+  },
+  {
+    "name": "alus.botex",
+    "href": "alus.botex",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/lmi/K-Machine/Falcon_Processor_Design_Specification/alus.botex",
+    "is_dir": false,
+    "size": "844 B",
+    "date": "21-Apr-2017 15:56"
+  },
+  {
+    "name": "architecture-overview.botex",
+    "href": "architecture-overview.botex",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/lmi/K-Machine/Falcon_Processor_Design_Specification/architecture-overview.botex",
+    "is_dir": false,
+    "size": "2.2 KiB",
+    "date": "21-Apr-2017 15:56"
+  },
+  {
+    "name": "byf.log",
+    "href": "byf.log",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/lmi/K-Machine/Falcon_Processor_Design_Specification/byf.log",
+    "is_dir": false,
+    "size": "161 B",
+    "date": "21-Apr-2017 15:56"
+  },
+  {
+    "name": "byf.tex",
+    "href": "byf.tex",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/lmi/K-Machine/Falcon_Processor_Design_Specification/byf.tex",
+    "is_dir": false,
+    "size": "1.4 KiB",
+    "date": "21-Apr-2017 15:56"
+  },
+  {
+    "name": "call-hardware.botex",
+    "href": "call-hardware.botex",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/lmi/K-Machine/Falcon_Processor_Design_Specification/call-hardware.botex",
+    "is_dir": false,
+    "size": "17.6 KiB",
+    "date": "21-Apr-2017 15:56"
+  },
+  {
+    "name": "compiled-functions.botex",
+    "href": "compiled-functions.botex",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/lmi/K-Machine/Falcon_Processor_Design_Specification/compiled-functions.botex",
+    "is_dir": false,
+    "size": "8.1 KiB",
+    "date": "21-Apr-2017 15:56"
+  },
+  {
+    "name": "copyright-page.botex",
+    "href": "copyright-page.botex",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/lmi/K-Machine/Falcon_Processor_Design_Specification/copyright-page.botex",
+    "is_dir": false,
+    "size": "384 B",
+    "date": "21-Apr-2017 15:56"
+  },
+  {
+    "name": "datatype-ram.botex",
+    "href": "datatype-ram.botex",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/lmi/K-Machine/Falcon_Processor_Design_Specification/datatype-ram.botex",
+    "is_dir": false,
+    "size": "74 B",
+    "date": "21-Apr-2017 15:56"
+  },
+  {
+    "name": "editors-note.botex",
+    "href": "editors-note.botex",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/lmi/K-Machine/Falcon_Processor_Design_Specification/editors-note.botex",
+    "is_dir": false,
+    "size": "692 B",
+    "date": "21-Apr-2017 15:56"
+  },
+  {
+    "name": "empty-manual.botex",
+    "href": "empty-manual.botex",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/lmi/K-Machine/Falcon_Processor_Design_Specification/empty-manual.botex",
+    "is_dir": false,
+    "size": "1.4 KiB",
+    "date": "21-Apr-2017 15:56"
+  },
+  {
+    "name": "functional-io.botex",
+    "href": "functional-io.botex",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/lmi/K-Machine/Falcon_Processor_Design_Specification/functional-io.botex",
+    "is_dir": false,
+    "size": "10.9 KiB",
+    "date": "21-Apr-2017 15:56"
+  },
+  {
+    "name": "gc-ram.botex",
+    "href": "gc-ram.botex",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/lmi/K-Machine/Falcon_Processor_Design_Specification/gc-ram.botex",
+    "is_dir": false,
+    "size": "113 B",
+    "date": "21-Apr-2017 15:56"
+  },
+  {
+    "name": "instruction-cache.botex",
+    "href": "instruction-cache.botex",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/lmi/K-Machine/Falcon_Processor_Design_Specification/instruction-cache.botex",
+    "is_dir": false,
+    "size": "2.8 KiB",
+    "date": "21-Apr-2017 15:56"
+  },
+  {
+    "name": "instruction-set.botex",
+    "href": "instruction-set.botex",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/lmi/K-Machine/Falcon_Processor_Design_Specification/instruction-set.botex",
+    "is_dir": false,
+    "size": "26.9 KiB",
+    "date": "21-Apr-2017 15:56"
+  },
+  {
+    "name": "introduction.botex",
+    "href": "introduction.botex",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/lmi/K-Machine/Falcon_Processor_Design_Specification/introduction.botex",
+    "is_dir": false,
+    "size": "895 B",
+    "date": "21-Apr-2017 15:56"
+  },
+  {
+    "name": "kdoc.lib",
+    "href": "kdoc.lib",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/lmi/K-Machine/Falcon_Processor_Design_Specification/kdoc.lib",
+    "is_dir": false,
+    "size": "738 B",
+    "date": "21-Apr-2017 15:56"
+  },
+  {
+    "name": "manual.aux",
+    "href": "manual.aux",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/lmi/K-Machine/Falcon_Processor_Design_Specification/manual.aux",
+    "is_dir": false,
+    "size": "1.2 KiB",
+    "date": "21-Apr-2017 15:56"
+  },
+  {
+    "name": "manual.botex",
+    "href": "manual.botex",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/lmi/K-Machine/Falcon_Processor_Design_Specification/manual.botex",
+    "is_dir": false,
+    "size": "1.6 KiB",
+    "date": "21-Apr-2017 15:56"
+  },
+  {
+    "name": "manual.dvi",
+    "href": "manual.dvi",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/lmi/K-Machine/Falcon_Processor_Design_Specification/manual.dvi",
+    "is_dir": false,
+    "size": "256.4 KiB",
+    "date": "21-Apr-2017 15:56"
+  },
+  {
+    "name": "manual.log",
+    "href": "manual.log",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/lmi/K-Machine/Falcon_Processor_Design_Specification/manual.log",
+    "is_dir": false,
+    "size": "7.7 KiB",
+    "date": "21-Apr-2017 15:56"
+  },
+  {
+    "name": "manual.toc",
+    "href": "manual.toc",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/lmi/K-Machine/Falcon_Processor_Design_Specification/manual.toc",
+    "is_dir": false,
+    "size": "10.1 KiB",
+    "date": "21-Apr-2017 15:56"
+  },
+  {
+    "name": "memory-access.botex",
+    "href": "memory-access.botex",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/lmi/K-Machine/Falcon_Processor_Design_Specification/memory-access.botex",
+    "is_dir": false,
+    "size": "5.3 KiB",
+    "date": "21-Apr-2017 15:56"
+  },
+  {
+    "name": "memory-board.botex",
+    "href": "memory-board.botex",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/lmi/K-Machine/Falcon_Processor_Design_Specification/memory-board.botex",
+    "is_dir": false,
+    "size": "3.7 KiB",
+    "date": "21-Apr-2017 15:56"
+  },
+  {
+    "name": "notation-conventions.botex",
+    "href": "notation-conventions.botex",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/lmi/K-Machine/Falcon_Processor_Design_Specification/notation-conventions.botex",
+    "is_dir": false,
+    "size": "740 B",
+    "date": "21-Apr-2017 15:56"
+  },
+  {
+    "name": "program-counter.botex",
+    "href": "program-counter.botex",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/lmi/K-Machine/Falcon_Processor_Design_Specification/program-counter.botex",
+    "is_dir": false,
+    "size": "2.0 KiB",
+    "date": "21-Apr-2017 15:56"
+  },
+  {
+    "name": "questions.txt",
+    "href": "questions.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/lmi/K-Machine/Falcon_Processor_Design_Specification/questions.txt",
+    "is_dir": false,
+    "size": "452 B",
+    "date": "21-Apr-2017 15:56"
+  },
+  {
+    "name": "readme.txt",
+    "href": "readme.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/lmi/K-Machine/Falcon_Processor_Design_Specification/readme.txt",
+    "is_dir": false,
+    "size": "678 B",
+    "date": "21-Apr-2017 15:56"
+  },
+  {
+    "name": "register-list.botex",
+    "href": "register-list.botex",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/lmi/K-Machine/Falcon_Processor_Design_Specification/register-list.botex",
+    "is_dir": false,
+    "size": "991 B",
+    "date": "21-Apr-2017 15:56"
+  },
+  {
+    "name": "register-memory.botex",
+    "href": "register-memory.botex",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/lmi/K-Machine/Falcon_Processor_Design_Specification/register-memory.botex",
+    "is_dir": false,
+    "size": "2.5 KiB",
+    "date": "21-Apr-2017 15:56"
+  },
+  {
+    "name": "short.aux",
+    "href": "short.aux",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/lmi/K-Machine/Falcon_Processor_Design_Specification/short.aux",
+    "is_dir": false,
+    "size": "103 B",
+    "date": "21-Apr-2017 15:56"
+  },
+  {
+    "name": "short.botex",
+    "href": "short.botex",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/lmi/K-Machine/Falcon_Processor_Design_Specification/short.botex",
+    "is_dir": false,
+    "size": "239 B",
+    "date": "21-Apr-2017 15:56"
+  },
+  {
+    "name": "short.dvi",
+    "href": "short.dvi",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/lmi/K-Machine/Falcon_Processor_Design_Specification/short.dvi",
+    "is_dir": false,
+    "size": "1.3 KiB",
+    "date": "21-Apr-2017 15:56"
+  },
+  {
+    "name": "short.log",
+    "href": "short.log",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/lmi/K-Machine/Falcon_Processor_Design_Specification/short.log",
+    "is_dir": false,
+    "size": "376 B",
+    "date": "21-Apr-2017 15:56"
+  },
+  {
+    "name": "spy.botex",
+    "href": "spy.botex",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/lmi/K-Machine/Falcon_Processor_Design_Specification/spy.botex",
+    "is_dir": false,
+    "size": "65 B",
+    "date": "21-Apr-2017 15:56"
+  },
+  {
+    "name": "still-to-write.botex",
+    "href": "still-to-write.botex",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/lmi/K-Machine/Falcon_Processor_Design_Specification/still-to-write.botex",
+    "is_dir": false,
+    "size": "782 B",
+    "date": "21-Apr-2017 15:56"
+  },
+  {
+    "name": "storage-conventions.botex",
+    "href": "storage-conventions.botex",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/lmi/K-Machine/Falcon_Processor_Design_Specification/storage-conventions.botex",
+    "is_dir": false,
+    "size": "30.5 KiB",
+    "date": "21-Apr-2017 15:56"
+  },
+  {
+    "name": "timing.botex",
+    "href": "timing.botex",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/lmi/K-Machine/Falcon_Processor_Design_Specification/timing.botex",
+    "is_dir": false,
+    "size": "11.6 KiB",
+    "date": "21-Apr-2017 15:56"
+  },
+  {
+    "name": "title-page.botex",
+    "href": "title-page.botex",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/lmi/K-Machine/Falcon_Processor_Design_Specification/title-page.botex",
+    "is_dir": false,
+    "size": "136 B",
+    "date": "21-Apr-2017 15:56"
+  },
+  {
+    "name": "transporter-ram.botex",
+    "href": "transporter-ram.botex",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/lmi/K-Machine/Falcon_Processor_Design_Specification/transporter-ram.botex",
+    "is_dir": false,
+    "size": "10.1 KiB",
+    "date": "21-Apr-2017 15:56"
+  },
+  {
+    "name": "traps.botex",
+    "href": "traps.botex",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/lmi/K-Machine/Falcon_Processor_Design_Specification/traps.botex",
+    "is_dir": false,
+    "size": "13.1 KiB",
+    "date": "21-Apr-2017 15:56"
+  }
+]

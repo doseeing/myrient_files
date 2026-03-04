@@ -1,0 +1,42 @@
+[
+  {
+    "name": "CRT10_PALs",
+    "href": "CRT10_PALs/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/compugraphic/MCS_Powerview_10/firmware/CRT10_PALs/",
+    "is_dir": true,
+    "size": null,
+    "date": "03-Jan-2017 19:56"
+  },
+  {
+    "name": "PALs",
+    "href": "PALs/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/compugraphic/MCS_Powerview_10/firmware/PALs/",
+    "is_dir": true,
+    "size": null,
+    "date": "03-Jan-2017 19:56"
+  },
+  {
+    "name": "215856-003.bin",
+    "href": "215856-003.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/compugraphic/MCS_Powerview_10/firmware/215856-003.bin",
+    "is_dir": false,
+    "size": "16.0 KiB",
+    "date": "29-Dec-2016 04:39"
+  },
+  {
+    "name": "215856-004.bin",
+    "href": "215856-004.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/compugraphic/MCS_Powerview_10/firmware/215856-004.bin",
+    "is_dir": false,
+    "size": "16.0 KiB",
+    "date": "29-Dec-2016 04:39"
+  },
+  {
+    "name": "merged",
+    "href": "merged",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/compugraphic/MCS_Powerview_10/firmware/merged",
+    "is_dir": false,
+    "size": "32.0 KiB",
+    "date": "29-Dec-2016 04:39"
+  }
+]

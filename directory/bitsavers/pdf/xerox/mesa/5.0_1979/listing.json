@@ -1,0 +1,42 @@
+[
+  {
+    "name": "documentation",
+    "href": "documentation/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/5.0_1979/documentation/",
+    "is_dir": true,
+    "size": null,
+    "date": "23-Jan-2021 19:50"
+  },
+  {
+    "name": "The_Impact_of_Mesa_On_System_Design_1979.pdf",
+    "href": "The_Impact_of_Mesa_On_System_Design_1979.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/5.0_1979/The_Impact_of_Mesa_On_System_Design_1979.pdf",
+    "is_dir": false,
+    "size": "2.0 MiB",
+    "date": "28-Oct-2010 20:57"
+  },
+  {
+    "name": "mesa5dbgr.pdf",
+    "href": "mesa5dbgr.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/5.0_1979/mesa5dbgr.pdf",
+    "is_dir": false,
+    "size": "1.1 MiB",
+    "date": "14-Aug-1997 19:21"
+  },
+  {
+    "name": "mesa5sysdoc.pdf",
+    "href": "mesa5sysdoc.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/5.0_1979/mesa5sysdoc.pdf",
+    "is_dir": false,
+    "size": "2.7 MiB",
+    "date": "15-Aug-1997 16:40"
+  },
+  {
+    "name": "mesa5user.pdf",
+    "href": "mesa5user.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/5.0_1979/mesa5user.pdf",
+    "is_dir": false,
+    "size": "1.3 MiB",
+    "date": "14-Aug-1997 19:34"
+  }
+]

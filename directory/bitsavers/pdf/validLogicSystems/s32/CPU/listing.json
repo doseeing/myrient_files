@@ -1,0 +1,42 @@
+[
+  {
+    "name": "firmware",
+    "href": "firmware/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/validLogicSystems/s32/CPU/firmware/",
+    "is_dir": true,
+    "size": null,
+    "date": "15-Jul-2022 03:49"
+  },
+  {
+    "name": "grm_t.jpg",
+    "href": "grm_t.jpg",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/validLogicSystems/s32/CPU/grm_t.jpg",
+    "is_dir": false,
+    "size": "3.7 MiB",
+    "date": "15-Jul-2022 03:50"
+  },
+  {
+    "name": "srm_f.jpg",
+    "href": "srm_f.jpg",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/validLogicSystems/s32/CPU/srm_f.jpg",
+    "is_dir": false,
+    "size": "3.4 MiB",
+    "date": "15-Jul-2022 03:50"
+  },
+  {
+    "name": "vrm_b.jpg",
+    "href": "vrm_b.jpg",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/validLogicSystems/s32/CPU/vrm_b.jpg",
+    "is_dir": false,
+    "size": "5.7 MiB",
+    "date": "15-Jul-2022 03:50"
+  },
+  {
+    "name": "vrm_t.jpg",
+    "href": "vrm_t.jpg",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/validLogicSystems/s32/CPU/vrm_t.jpg",
+    "is_dir": false,
+    "size": "3.8 MiB",
+    "date": "15-Jul-2022 03:50"
+  }
+]

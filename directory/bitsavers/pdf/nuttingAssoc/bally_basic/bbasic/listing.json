@@ -1,0 +1,178 @@
+[
+  {
+    "name": "BASIC.CPM",
+    "href": "BASIC.CPM",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/nuttingAssoc/bally_basic/bbasic/BASIC.CPM",
+    "is_dir": false,
+    "size": "30.9 KiB",
+    "date": "29-Aug-2018 22:30"
+  },
+  {
+    "name": "BASICGEN.SUB",
+    "href": "BASICGEN.SUB",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/nuttingAssoc/bally_basic/bbasic/BASICGEN.SUB",
+    "is_dir": false,
+    "size": "384 B",
+    "date": "29-Aug-2018 22:29"
+  },
+  {
+    "name": "BASICPRT.SUB",
+    "href": "BASICPRT.SUB",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/nuttingAssoc/bally_basic/bbasic/BASICPRT.SUB",
+    "is_dir": false,
+    "size": "1.0 KiB",
+    "date": "29-Aug-2018 22:29"
+  },
+  {
+    "name": "BBEQU.ASM",
+    "href": "BBEQU.ASM",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/nuttingAssoc/bally_basic/bbasic/BBEQU.ASM",
+    "is_dir": false,
+    "size": "1.0 KiB",
+    "date": "29-Aug-2018 22:29"
+  },
+  {
+    "name": "BITBANG.ASM",
+    "href": "BITBANG.ASM",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/nuttingAssoc/bally_basic/bbasic/BITBANG.ASM",
+    "is_dir": false,
+    "size": "3.6 KiB",
+    "date": "29-Aug-2018 22:29"
+  },
+  {
+    "name": "CHAR.ASM",
+    "href": "CHAR.ASM",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/nuttingAssoc/bally_basic/bbasic/CHAR.ASM",
+    "is_dir": false,
+    "size": "10.3 KiB",
+    "date": "29-Aug-2018 22:29"
+  },
+  {
+    "name": "ERROR.ASM",
+    "href": "ERROR.ASM",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/nuttingAssoc/bally_basic/bbasic/ERROR.ASM",
+    "is_dir": false,
+    "size": "640 B",
+    "date": "29-Aug-2018 22:29"
+  },
+  {
+    "name": "EXEC.ASM",
+    "href": "EXEC.ASM",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/nuttingAssoc/bally_basic/bbasic/EXEC.ASM",
+    "is_dir": false,
+    "size": "3.0 KiB",
+    "date": "29-Aug-2018 22:29"
+  },
+  {
+    "name": "EXPR.ASM",
+    "href": "EXPR.ASM",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/nuttingAssoc/bally_basic/bbasic/EXPR.ASM",
+    "is_dir": false,
+    "size": "2.6 KiB",
+    "date": "29-Aug-2018 22:29"
+  },
+  {
+    "name": "EZKP.ASM",
+    "href": "EZKP.ASM",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/nuttingAssoc/bally_basic/bbasic/EZKP.ASM",
+    "is_dir": false,
+    "size": "5.8 KiB",
+    "date": "29-Aug-2018 22:29"
+  },
+  {
+    "name": "GRAPHICS.ASM",
+    "href": "GRAPHICS.ASM",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/nuttingAssoc/bally_basic/bbasic/GRAPHICS.ASM",
+    "is_dir": false,
+    "size": "15.3 KiB",
+    "date": "29-Aug-2018 22:29"
+  },
+  {
+    "name": "HOOKS.ASM",
+    "href": "HOOKS.ASM",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/nuttingAssoc/bally_basic/bbasic/HOOKS.ASM",
+    "is_dir": false,
+    "size": "2.5 KiB",
+    "date": "29-Aug-2018 22:29"
+  },
+  {
+    "name": "KB.ASM",
+    "href": "KB.ASM",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/nuttingAssoc/bally_basic/bbasic/KB.ASM",
+    "is_dir": false,
+    "size": "3.8 KiB",
+    "date": "29-Aug-2018 22:30"
+  },
+  {
+    "name": "LINE.ASM",
+    "href": "LINE.ASM",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/nuttingAssoc/bally_basic/bbasic/LINE.ASM",
+    "is_dir": false,
+    "size": "3.9 KiB",
+    "date": "29-Aug-2018 22:30"
+  },
+  {
+    "name": "MAIN.ASM",
+    "href": "MAIN.ASM",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/nuttingAssoc/bally_basic/bbasic/MAIN.ASM",
+    "is_dir": false,
+    "size": "7.4 KiB",
+    "date": "29-Aug-2018 22:30"
+  },
+  {
+    "name": "MATH.ASM",
+    "href": "MATH.ASM",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/nuttingAssoc/bally_basic/bbasic/MATH.ASM",
+    "is_dir": false,
+    "size": "2.6 KiB",
+    "date": "29-Aug-2018 22:30"
+  },
+  {
+    "name": "MUSIC.ASM",
+    "href": "MUSIC.ASM",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/nuttingAssoc/bally_basic/bbasic/MUSIC.ASM",
+    "is_dir": false,
+    "size": "2.6 KiB",
+    "date": "29-Aug-2018 22:30"
+  },
+  {
+    "name": "PRTSUBS.ASM",
+    "href": "PRTSUBS.ASM",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/nuttingAssoc/bally_basic/bbasic/PRTSUBS.ASM",
+    "is_dir": false,
+    "size": "1.3 KiB",
+    "date": "29-Aug-2018 22:30"
+  },
+  {
+    "name": "STDBAS.ASM",
+    "href": "STDBAS.ASM",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/nuttingAssoc/bally_basic/bbasic/STDBAS.ASM",
+    "is_dir": false,
+    "size": "4.0 KiB",
+    "date": "29-Aug-2018 22:30"
+  },
+  {
+    "name": "SUBS.ASM",
+    "href": "SUBS.ASM",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/nuttingAssoc/bally_basic/bbasic/SUBS.ASM",
+    "is_dir": false,
+    "size": "1.3 KiB",
+    "date": "29-Aug-2018 22:30"
+  },
+  {
+    "name": "TAPE.ASM",
+    "href": "TAPE.ASM",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/nuttingAssoc/bally_basic/bbasic/TAPE.ASM",
+    "is_dir": false,
+    "size": "1.8 KiB",
+    "date": "29-Aug-2018 22:30"
+  },
+  {
+    "name": "VARS.ASM",
+    "href": "VARS.ASM",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/nuttingAssoc/bally_basic/bbasic/VARS.ASM",
+    "is_dir": false,
+    "size": "5.3 KiB",
+    "date": "29-Aug-2018 22:30"
+  }
+]

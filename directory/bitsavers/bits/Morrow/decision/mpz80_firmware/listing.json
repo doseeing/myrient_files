@@ -1,0 +1,130 @@
+[
+  {
+    "name": "board_rework",
+    "href": "board_rework/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Morrow/decision/mpz80_firmware/board_rework/",
+    "is_dir": true,
+    "size": null,
+    "date": "16-Jul-2011 16:32"
+  },
+  {
+    "name": "MON375.MAC",
+    "href": "MON375.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Morrow/decision/mpz80_firmware/MON375.MAC",
+    "is_dir": false,
+    "size": "43.9 KiB",
+    "date": "06-Jun-2011 16:38"
+  },
+  {
+    "name": "MON375.PRN.txt",
+    "href": "MON375.PRN.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Morrow/decision/mpz80_firmware/MON375.PRN.txt",
+    "is_dir": false,
+    "size": "112.9 KiB",
+    "date": "14-Jun-2011 01:08"
+  },
+  {
+    "name": "MON447.MAC",
+    "href": "MON447.MAC",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Morrow/decision/mpz80_firmware/MON447.MAC",
+    "is_dir": false,
+    "size": "43.1 KiB",
+    "date": "06-Jun-2011 16:38"
+  },
+  {
+    "name": "MON447.PRN.txt",
+    "href": "MON447.PRN.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Morrow/decision/mpz80_firmware/MON447.PRN.txt",
+    "is_dir": false,
+    "size": "112.4 KiB",
+    "date": "14-Jun-2011 01:08"
+  },
+  {
+    "name": "MPZ80-Mon-3.73_FB34.bin",
+    "href": "MPZ80-Mon-3.73_FB34.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Morrow/decision/mpz80_firmware/MPZ80-Mon-3.73_FB34.bin",
+    "is_dir": false,
+    "size": "4.0 KiB",
+    "date": "08-Jun-2011 14:12"
+  },
+  {
+    "name": "MPZ80-Mon-3.75_0706.bin",
+    "href": "MPZ80-Mon-3.75_0706.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Morrow/decision/mpz80_firmware/MPZ80-Mon-3.75_0706.bin",
+    "is_dir": false,
+    "size": "4.0 KiB",
+    "date": "08-Jun-2011 14:12"
+  },
+  {
+    "name": "MPZ80-Mon-375.hex",
+    "href": "MPZ80-Mon-375.hex",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Morrow/decision/mpz80_firmware/MPZ80-Mon-375.hex",
+    "is_dir": false,
+    "size": "11.3 KiB",
+    "date": "06-Jun-2011 16:39"
+  },
+  {
+    "name": "MPZ80-Mon-4.47_F4F6.bin",
+    "href": "MPZ80-Mon-4.47_F4F6.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Morrow/decision/mpz80_firmware/MPZ80-Mon-4.47_F4F6.bin",
+    "is_dir": false,
+    "size": "4.0 KiB",
+    "date": "08-Jun-2011 14:12"
+  },
+  {
+    "name": "MPZ80-Mon-447.hex",
+    "href": "MPZ80-Mon-447.hex",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Morrow/decision/mpz80_firmware/MPZ80-Mon-447.hex",
+    "is_dir": false,
+    "size": "11.3 KiB",
+    "date": "06-Jun-2011 16:39"
+  },
+  {
+    "name": "NMPZ80EQ.txt",
+    "href": "NMPZ80EQ.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Morrow/decision/mpz80_firmware/NMPZ80EQ.txt",
+    "is_dir": false,
+    "size": "2.5 KiB",
+    "date": "08-Jun-2011 14:34"
+  },
+  {
+    "name": "Z80-15A-A_Rev3_82S153_cks8A7C.JED",
+    "href": "Z80-15A-A_Rev3_82S153_cks8A7C.JED",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Morrow/decision/mpz80_firmware/Z80-15A-A_Rev3_82S153_cks8A7C.JED",
+    "is_dir": false,
+    "size": "2.1 KiB",
+    "date": "15-Jul-2011 20:46"
+  },
+  {
+    "name": "Z80-15A-A_Rev3_82S153_cks8A7C.bin",
+    "href": "Z80-15A-A_Rev3_82S153_cks8A7C.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Morrow/decision/mpz80_firmware/Z80-15A-A_Rev3_82S153_cks8A7C.bin",
+    "is_dir": false,
+    "size": "239 B",
+    "date": "15-Jul-2011 20:46"
+  },
+  {
+    "name": "Z80-2_15A_82S123.bin",
+    "href": "Z80-2_15A_82S123.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Morrow/decision/mpz80_firmware/Z80-2_15A_82S123.bin",
+    "is_dir": false,
+    "size": "32 B",
+    "date": "08-Jun-2011 14:12"
+  },
+  {
+    "name": "Z80-2_15A_Rev2_6331_cks0523.bin",
+    "href": "Z80-2_15A_Rev2_6331_cks0523.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Morrow/decision/mpz80_firmware/Z80-2_15A_Rev2_6331_cks0523.bin",
+    "is_dir": false,
+    "size": "32 B",
+    "date": "15-Jul-2011 20:46"
+  },
+  {
+    "name": "Z80-5C_16R4_cks2110.JED",
+    "href": "Z80-5C_16R4_cks2110.JED",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Morrow/decision/mpz80_firmware/Z80-5C_16R4_cks2110.JED",
+    "is_dir": false,
+    "size": "2.3 KiB",
+    "date": "15-Jul-2011 20:46"
+  }
+]

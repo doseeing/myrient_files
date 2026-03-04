@@ -1,0 +1,50 @@
+[
+  {
+    "name": "_text",
+    "href": "_text/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/tx-0/brs_loader_II/_text/",
+    "is_dir": true,
+    "size": null,
+    "date": "27-Oct-2004 01:19"
+  },
+  {
+    "name": "bin_brsLoader.bin",
+    "href": "bin_brsLoader.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/tx-0/brs_loader_II/bin_brsLoader.bin",
+    "is_dir": false,
+    "size": "2.0 KiB",
+    "date": "16-Sep-2004 01:55"
+  },
+  {
+    "name": "brs_loader.bin",
+    "href": "brs_loader.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/tx-0/brs_loader_II/brs_loader.bin",
+    "is_dir": false,
+    "size": "6.2 KiB",
+    "date": "01-Sep-2004 01:55"
+  },
+  {
+    "name": "brs_loader_II.bin",
+    "href": "brs_loader_II.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/tx-0/brs_loader_II/brs_loader_II.bin",
+    "is_dir": false,
+    "size": "4.9 KiB",
+    "date": "01-Sep-2004 01:49"
+  },
+  {
+    "name": "brs_param.bin",
+    "href": "brs_param.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/tx-0/brs_loader_II/brs_param.bin",
+    "is_dir": false,
+    "size": "174 B",
+    "date": "01-Sep-2004 01:58"
+  },
+  {
+    "name": "brs_symbs.bin",
+    "href": "brs_symbs.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/tx-0/brs_loader_II/brs_symbs.bin",
+    "is_dir": false,
+    "size": "2.6 KiB",
+    "date": "01-Sep-2004 01:52"
+  }
+]

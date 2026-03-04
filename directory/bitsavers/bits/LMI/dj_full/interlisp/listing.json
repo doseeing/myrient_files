@@ -1,0 +1,210 @@
+[
+  {
+    "name": "breakdown.lisp.3",
+    "href": "breakdown.lisp.3",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/interlisp/breakdown.lisp.3",
+    "is_dir": false,
+    "size": "3.2 KiB",
+    "date": "21-Apr-2017 01:04"
+  },
+  {
+    "name": "changetran.lisp.14",
+    "href": "changetran.lisp.14",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/interlisp/changetran.lisp.14",
+    "is_dir": false,
+    "size": "6.2 KiB",
+    "date": "21-Apr-2017 01:04"
+  },
+  {
+    "name": "convertinterlisp.lisp.1",
+    "href": "convertinterlisp.lisp.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/interlisp/convertinterlisp.lisp.1",
+    "is_dir": false,
+    "size": "35.3 KiB",
+    "date": "21-Apr-2017 01:04"
+  },
+  {
+    "name": "defrecord.lisp.77",
+    "href": "defrecord.lisp.77",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/interlisp/defrecord.lisp.77",
+    "is_dir": false,
+    "size": "41.8 KiB",
+    "date": "21-Apr-2017 01:04"
+  },
+  {
+    "name": "fix-ztop.lisp.1",
+    "href": "fix-ztop.lisp.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/interlisp/fix-ztop.lisp.1",
+    "is_dir": false,
+    "size": "5.1 KiB",
+    "date": "21-Apr-2017 01:04"
+  },
+  {
+    "name": "general.lisp.43",
+    "href": "general.lisp.43",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/interlisp/general.lisp.43",
+    "is_dir": false,
+    "size": "23.7 KiB",
+    "date": "21-Apr-2017 01:04"
+  },
+  {
+    "name": "index.lisp.28",
+    "href": "index.lisp.28",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/interlisp/index.lisp.28",
+    "is_dir": false,
+    "size": "11.6 KiB",
+    "date": "21-Apr-2017 01:04"
+  },
+  {
+    "name": "interlisp.doc.2",
+    "href": "interlisp.doc.2",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/interlisp/interlisp.doc.2",
+    "is_dir": false,
+    "size": "61.6 KiB",
+    "date": "21-Apr-2017 01:04"
+  },
+  {
+    "name": "interlisp.system.13",
+    "href": "interlisp.system.13",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/interlisp/interlisp.system.13",
+    "is_dir": false,
+    "size": "5.4 KiB",
+    "date": "21-Apr-2017 01:04"
+  },
+  {
+    "name": "iterate.lisp.46",
+    "href": "iterate.lisp.46",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/interlisp/iterate.lisp.46",
+    "is_dir": false,
+    "size": "36.5 KiB",
+    "date": "21-Apr-2017 01:04"
+  },
+  {
+    "name": "letp.lisp.12",
+    "href": "letp.lisp.12",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/interlisp/letp.lisp.12",
+    "is_dir": false,
+    "size": "6.1 KiB",
+    "date": "21-Apr-2017 01:04"
+  },
+  {
+    "name": "load.lisp.3",
+    "href": "load.lisp.3",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/interlisp/load.lisp.3",
+    "is_dir": false,
+    "size": "842 B",
+    "date": "21-Apr-2017 01:04"
+  },
+  {
+    "name": "makeinterlisp.lisp.3",
+    "href": "makeinterlisp.lisp.3",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/interlisp/makeinterlisp.lisp.3",
+    "is_dir": false,
+    "size": "949 B",
+    "date": "21-Apr-2017 01:04"
+  },
+  {
+    "name": "meter-analysis.lisp.49",
+    "href": "meter-analysis.lisp.49",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/interlisp/meter-analysis.lisp.49",
+    "is_dir": false,
+    "size": "17.9 KiB",
+    "date": "21-Apr-2017 01:04"
+  },
+  {
+    "name": "patch-1.directory.1",
+    "href": "patch-1.directory.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/interlisp/patch-1.directory.1",
+    "is_dir": false,
+    "size": "573 B",
+    "date": "21-Apr-2017 01:04"
+  },
+  {
+    "name": "patch-2.directory.1",
+    "href": "patch-2.directory.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/interlisp/patch-2.directory.1",
+    "is_dir": false,
+    "size": "573 B",
+    "date": "21-Apr-2017 01:04"
+  },
+  {
+    "name": "patch.directory.2",
+    "href": "patch.directory.2",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/interlisp/patch.directory.2",
+    "is_dir": false,
+    "size": "496 B",
+    "date": "21-Apr-2017 01:04"
+  },
+  {
+    "name": "patch.lisp.112",
+    "href": "patch.lisp.112",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/interlisp/patch.lisp.112",
+    "is_dir": false,
+    "size": "17.5 KiB",
+    "date": "21-Apr-2017 01:04"
+  },
+  {
+    "name": "patches.system.11",
+    "href": "patches.system.11",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/interlisp/patches.system.11",
+    "is_dir": false,
+    "size": "626 B",
+    "date": "21-Apr-2017 01:04"
+  },
+  {
+    "name": "pkgdef.lisp.11",
+    "href": "pkgdef.lisp.11",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/interlisp/pkgdef.lisp.11",
+    "is_dir": false,
+    "size": "0 B",
+    "date": "21-Apr-2017 01:04"
+  },
+  {
+    "name": "random-functions.lisp.29",
+    "href": "random-functions.lisp.29",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/interlisp/random-functions.lisp.29",
+    "is_dir": false,
+    "size": "7.2 KiB",
+    "date": "21-Apr-2017 01:04"
+  },
+  {
+    "name": "reader-macros.lisp.30",
+    "href": "reader-macros.lisp.30",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/interlisp/reader-macros.lisp.30",
+    "is_dir": false,
+    "size": "8.3 KiB",
+    "date": "21-Apr-2017 01:04"
+  },
+  {
+    "name": "record-package.lisp.5",
+    "href": "record-package.lisp.5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/interlisp/record-package.lisp.5",
+    "is_dir": false,
+    "size": "11.8 KiB",
+    "date": "21-Apr-2017 01:04"
+  },
+  {
+    "name": "sysdef.lisp.1",
+    "href": "sysdef.lisp.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/interlisp/sysdef.lisp.1",
+    "is_dir": false,
+    "size": "378 B",
+    "date": "21-Apr-2017 01:04"
+  },
+  {
+    "name": "warnings1.text.1",
+    "href": "warnings1.text.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/interlisp/warnings1.text.1",
+    "is_dir": false,
+    "size": "17.1 KiB",
+    "date": "21-Apr-2017 01:04"
+  },
+  {
+    "name": "writeinterlisptape.lisp.5",
+    "href": "writeinterlisptape.lisp.5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/interlisp/writeinterlisptape.lisp.5",
+    "is_dir": false,
+    "size": "1.4 KiB",
+    "date": "21-Apr-2017 01:04"
+  }
+]

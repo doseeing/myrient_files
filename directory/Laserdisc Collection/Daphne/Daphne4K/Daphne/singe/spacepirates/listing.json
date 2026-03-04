@@ -1,0 +1,666 @@
+[
+  {
+    "name": "cdrom",
+    "href": "cdrom/",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/spacepirates/cdrom/",
+    "is_dir": true,
+    "size": null,
+    "date": "01-Dec-2025 17:45"
+  },
+  {
+    "name": "ca.ttf",
+    "href": "ca.ttf",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/spacepirates/ca.ttf",
+    "is_dir": false,
+    "size": "15.4 KiB",
+    "date": "01-Dec-2025 17:45"
+  },
+  {
+    "name": "cdrom-globals.singe",
+    "href": "cdrom-globals.singe",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/spacepirates/cdrom-globals.singe",
+    "is_dir": false,
+    "size": "8.1 KiB",
+    "date": "08-Dec-2025 09:33"
+  },
+  {
+    "name": "cdrom-setuplevel.singe",
+    "href": "cdrom-setuplevel.singe",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/spacepirates/cdrom-setuplevel.singe",
+    "is_dir": false,
+    "size": "31.0 KiB",
+    "date": "08-Dec-2025 09:33"
+  },
+  {
+    "name": "cdrom-shipbattle.singe",
+    "href": "cdrom-shipbattle.singe",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/spacepirates/cdrom-shipbattle.singe",
+    "is_dir": false,
+    "size": "12.6 KiB",
+    "date": "01-Dec-2025 17:45"
+  },
+  {
+    "name": "cdrom-spacepirates.singe",
+    "href": "cdrom-spacepirates.singe",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/spacepirates/cdrom-spacepirates.singe",
+    "is_dir": false,
+    "size": "113.4 KiB",
+    "date": "08-Dec-2025 09:33"
+  },
+  {
+    "name": "coin.wav",
+    "href": "coin.wav",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/spacepirates/coin.wav",
+    "is_dir": false,
+    "size": "12.8 KiB",
+    "date": "01-Dec-2025 17:45"
+  },
+  {
+    "name": "copying",
+    "href": "copying",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/spacepirates/copying",
+    "is_dir": false,
+    "size": "18.2 KiB",
+    "date": "08-Dec-2025 09:33"
+  },
+  {
+    "name": "crosshaira.png",
+    "href": "crosshaira.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/spacepirates/crosshaira.png",
+    "is_dir": false,
+    "size": "224 B",
+    "date": "01-Dec-2025 17:45"
+  },
+  {
+    "name": "crosshairb.png",
+    "href": "crosshairb.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/spacepirates/crosshairb.png",
+    "is_dir": false,
+    "size": "262 B",
+    "date": "01-Dec-2025 17:45"
+  },
+  {
+    "name": "crosshairc.png",
+    "href": "crosshairc.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/spacepirates/crosshairc.png",
+    "is_dir": false,
+    "size": "181 B",
+    "date": "01-Dec-2025 17:45"
+  },
+  {
+    "name": "crosshaird.png",
+    "href": "crosshaird.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/spacepirates/crosshaird.png",
+    "is_dir": false,
+    "size": "293 B",
+    "date": "01-Dec-2025 17:45"
+  },
+  {
+    "name": "crosshaire.png",
+    "href": "crosshaire.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/spacepirates/crosshaire.png",
+    "is_dir": false,
+    "size": "126 B",
+    "date": "01-Dec-2025 17:45"
+  },
+  {
+    "name": "d01.png",
+    "href": "d01.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/spacepirates/d01.png",
+    "is_dir": false,
+    "size": "624 B",
+    "date": "01-Dec-2025 17:45"
+  },
+  {
+    "name": "d02.png",
+    "href": "d02.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/spacepirates/d02.png",
+    "is_dir": false,
+    "size": "642 B",
+    "date": "01-Dec-2025 17:45"
+  },
+  {
+    "name": "d03.png",
+    "href": "d03.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/spacepirates/d03.png",
+    "is_dir": false,
+    "size": "589 B",
+    "date": "01-Dec-2025 17:45"
+  },
+  {
+    "name": "d04.png",
+    "href": "d04.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/spacepirates/d04.png",
+    "is_dir": false,
+    "size": "577 B",
+    "date": "01-Dec-2025 17:45"
+  },
+  {
+    "name": "d05.png",
+    "href": "d05.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/spacepirates/d05.png",
+    "is_dir": false,
+    "size": "600 B",
+    "date": "01-Dec-2025 17:45"
+  },
+  {
+    "name": "d06.png",
+    "href": "d06.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/spacepirates/d06.png",
+    "is_dir": false,
+    "size": "613 B",
+    "date": "01-Dec-2025 17:45"
+  },
+  {
+    "name": "d07.png",
+    "href": "d07.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/spacepirates/d07.png",
+    "is_dir": false,
+    "size": "606 B",
+    "date": "01-Dec-2025 17:45"
+  },
+  {
+    "name": "d08.png",
+    "href": "d08.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/spacepirates/d08.png",
+    "is_dir": false,
+    "size": "599 B",
+    "date": "01-Dec-2025 17:45"
+  },
+  {
+    "name": "d09.png",
+    "href": "d09.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/spacepirates/d09.png",
+    "is_dir": false,
+    "size": "579 B",
+    "date": "01-Dec-2025 17:45"
+  },
+  {
+    "name": "d10.png",
+    "href": "d10.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/spacepirates/d10.png",
+    "is_dir": false,
+    "size": "609 B",
+    "date": "01-Dec-2025 17:45"
+  },
+  {
+    "name": "f00.png",
+    "href": "f00.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/spacepirates/f00.png",
+    "is_dir": false,
+    "size": "258 B",
+    "date": "01-Dec-2025 17:45"
+  },
+  {
+    "name": "f01.png",
+    "href": "f01.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/spacepirates/f01.png",
+    "is_dir": false,
+    "size": "252 B",
+    "date": "01-Dec-2025 17:45"
+  },
+  {
+    "name": "f02.png",
+    "href": "f02.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/spacepirates/f02.png",
+    "is_dir": false,
+    "size": "253 B",
+    "date": "01-Dec-2025 17:45"
+  },
+  {
+    "name": "f03.png",
+    "href": "f03.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/spacepirates/f03.png",
+    "is_dir": false,
+    "size": "246 B",
+    "date": "01-Dec-2025 17:45"
+  },
+  {
+    "name": "f04.png",
+    "href": "f04.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/spacepirates/f04.png",
+    "is_dir": false,
+    "size": "258 B",
+    "date": "01-Dec-2025 17:45"
+  },
+  {
+    "name": "f05.png",
+    "href": "f05.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/spacepirates/f05.png",
+    "is_dir": false,
+    "size": "257 B",
+    "date": "01-Dec-2025 17:45"
+  },
+  {
+    "name": "f06.png",
+    "href": "f06.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/spacepirates/f06.png",
+    "is_dir": false,
+    "size": "250 B",
+    "date": "01-Dec-2025 17:45"
+  },
+  {
+    "name": "f07.png",
+    "href": "f07.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/spacepirates/f07.png",
+    "is_dir": false,
+    "size": "250 B",
+    "date": "01-Dec-2025 17:45"
+  },
+  {
+    "name": "f08.png",
+    "href": "f08.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/spacepirates/f08.png",
+    "is_dir": false,
+    "size": "242 B",
+    "date": "01-Dec-2025 17:45"
+  },
+  {
+    "name": "f09.png",
+    "href": "f09.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/spacepirates/f09.png",
+    "is_dir": false,
+    "size": "251 B",
+    "date": "01-Dec-2025 17:45"
+  },
+  {
+    "name": "frame-spacepirates-cdrom.txt",
+    "href": "frame-spacepirates-cdrom.txt",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/spacepirates/frame-spacepirates-cdrom.txt",
+    "is_dir": false,
+    "size": "4.2 KiB",
+    "date": "08-Dec-2025 09:33"
+  },
+  {
+    "name": "hitbox-cdrom-band.singe",
+    "href": "hitbox-cdrom-band.singe",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/spacepirates/hitbox-cdrom-band.singe",
+    "is_dir": false,
+    "size": "12.7 KiB",
+    "date": "01-Dec-2025 17:45"
+  },
+  {
+    "name": "hitbox-cdrom-door1.singe",
+    "href": "hitbox-cdrom-door1.singe",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/spacepirates/hitbox-cdrom-door1.singe",
+    "is_dir": false,
+    "size": "312.5 KiB",
+    "date": "01-Dec-2025 17:45"
+  },
+  {
+    "name": "hitbox-cdrom-door2.singe",
+    "href": "hitbox-cdrom-door2.singe",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/spacepirates/hitbox-cdrom-door2.singe",
+    "is_dir": false,
+    "size": "247.4 KiB",
+    "date": "01-Dec-2025 17:45"
+  },
+  {
+    "name": "hitbox-cdrom-door2b.singe",
+    "href": "hitbox-cdrom-door2b.singe",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/spacepirates/hitbox-cdrom-door2b.singe",
+    "is_dir": false,
+    "size": "478.6 KiB",
+    "date": "01-Dec-2025 17:45"
+  },
+  {
+    "name": "hitbox-cdrom-door3.singe",
+    "href": "hitbox-cdrom-door3.singe",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/spacepirates/hitbox-cdrom-door3.singe",
+    "is_dir": false,
+    "size": "254.6 KiB",
+    "date": "01-Dec-2025 17:45"
+  },
+  {
+    "name": "hitbox-cdrom-fellina.singe",
+    "href": "hitbox-cdrom-fellina.singe",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/spacepirates/hitbox-cdrom-fellina.singe",
+    "is_dir": false,
+    "size": "141.2 KiB",
+    "date": "01-Dec-2025 17:45"
+  },
+  {
+    "name": "hitbox-cdrom-fellinapuzzle.singe",
+    "href": "hitbox-cdrom-fellinapuzzle.singe",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/spacepirates/hitbox-cdrom-fellinapuzzle.singe",
+    "is_dir": false,
+    "size": "12.6 KiB",
+    "date": "01-Dec-2025 17:45"
+  },
+  {
+    "name": "hitbox-cdrom-firepractice.singe",
+    "href": "hitbox-cdrom-firepractice.singe",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/spacepirates/hitbox-cdrom-firepractice.singe",
+    "is_dir": false,
+    "size": "90.3 KiB",
+    "date": "01-Dec-2025 17:45"
+  },
+  {
+    "name": "hitbox-cdrom-mountain.singe",
+    "href": "hitbox-cdrom-mountain.singe",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/spacepirates/hitbox-cdrom-mountain.singe",
+    "is_dir": false,
+    "size": "79.2 KiB",
+    "date": "01-Dec-2025 17:45"
+  },
+  {
+    "name": "hitbox-cdrom-practice.singe",
+    "href": "hitbox-cdrom-practice.singe",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/spacepirates/hitbox-cdrom-practice.singe",
+    "is_dir": false,
+    "size": "17.0 KiB",
+    "date": "01-Dec-2025 17:45"
+  },
+  {
+    "name": "hitbox-cdrom-reaper.singe",
+    "href": "hitbox-cdrom-reaper.singe",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/spacepirates/hitbox-cdrom-reaper.singe",
+    "is_dir": false,
+    "size": "405.1 KiB",
+    "date": "01-Dec-2025 17:45"
+  },
+  {
+    "name": "hitbox-cdrom-scrapyard.singe",
+    "href": "hitbox-cdrom-scrapyard.singe",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/spacepirates/hitbox-cdrom-scrapyard.singe",
+    "is_dir": false,
+    "size": "172.5 KiB",
+    "date": "01-Dec-2025 17:45"
+  },
+  {
+    "name": "hitbox-cdrom-scrapyard2.singe",
+    "href": "hitbox-cdrom-scrapyard2.singe",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/spacepirates/hitbox-cdrom-scrapyard2.singe",
+    "is_dir": false,
+    "size": "56.1 KiB",
+    "date": "01-Dec-2025 17:45"
+  },
+  {
+    "name": "hitbox-cdrom-ship.singe",
+    "href": "hitbox-cdrom-ship.singe",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/spacepirates/hitbox-cdrom-ship.singe",
+    "is_dir": false,
+    "size": "67.6 KiB",
+    "date": "01-Dec-2025 17:45"
+  },
+  {
+    "name": "hitbox-cdrom-socketpuzzle.singe",
+    "href": "hitbox-cdrom-socketpuzzle.singe",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/spacepirates/hitbox-cdrom-socketpuzzle.singe",
+    "is_dir": false,
+    "size": "4.6 KiB",
+    "date": "01-Dec-2025 17:45"
+  },
+  {
+    "name": "hitbox-cdrom-tallon2.singe",
+    "href": "hitbox-cdrom-tallon2.singe",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/spacepirates/hitbox-cdrom-tallon2.singe",
+    "is_dir": false,
+    "size": "22.5 KiB",
+    "date": "01-Dec-2025 17:45"
+  },
+  {
+    "name": "hscore.singe",
+    "href": "hscore.singe",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/spacepirates/hscore.singe",
+    "is_dir": false,
+    "size": "8.2 KiB",
+    "date": "08-Dec-2025 09:33"
+  },
+  {
+    "name": "m39.ttf",
+    "href": "m39.ttf",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/spacepirates/m39.ttf",
+    "is_dir": false,
+    "size": "15.5 KiB",
+    "date": "01-Dec-2025 17:45"
+  },
+  {
+    "name": "p00.png",
+    "href": "p00.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/spacepirates/p00.png",
+    "is_dir": false,
+    "size": "587 B",
+    "date": "08-Dec-2025 09:33"
+  },
+  {
+    "name": "p02.png",
+    "href": "p02.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/spacepirates/p02.png",
+    "is_dir": false,
+    "size": "208 B",
+    "date": "01-Dec-2025 17:45"
+  },
+  {
+    "name": "p03.png",
+    "href": "p03.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/spacepirates/p03.png",
+    "is_dir": false,
+    "size": "212 B",
+    "date": "01-Dec-2025 17:45"
+  },
+  {
+    "name": "p04.png",
+    "href": "p04.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/spacepirates/p04.png",
+    "is_dir": false,
+    "size": "205 B",
+    "date": "01-Dec-2025 17:45"
+  },
+  {
+    "name": "p05.png",
+    "href": "p05.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/spacepirates/p05.png",
+    "is_dir": false,
+    "size": "211 B",
+    "date": "01-Dec-2025 17:45"
+  },
+  {
+    "name": "p06.png",
+    "href": "p06.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/spacepirates/p06.png",
+    "is_dir": false,
+    "size": "211 B",
+    "date": "01-Dec-2025 17:45"
+  },
+  {
+    "name": "p07.png",
+    "href": "p07.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/spacepirates/p07.png",
+    "is_dir": false,
+    "size": "211 B",
+    "date": "01-Dec-2025 17:45"
+  },
+  {
+    "name": "p08.png",
+    "href": "p08.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/spacepirates/p08.png",
+    "is_dir": false,
+    "size": "203 B",
+    "date": "01-Dec-2025 17:45"
+  },
+  {
+    "name": "p09.png",
+    "href": "p09.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/spacepirates/p09.png",
+    "is_dir": false,
+    "size": "203 B",
+    "date": "01-Dec-2025 17:45"
+  },
+  {
+    "name": "p10.png",
+    "href": "p10.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/spacepirates/p10.png",
+    "is_dir": false,
+    "size": "203 B",
+    "date": "01-Dec-2025 17:45"
+  },
+  {
+    "name": "p11.png",
+    "href": "p11.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/spacepirates/p11.png",
+    "is_dir": false,
+    "size": "203 B",
+    "date": "01-Dec-2025 17:45"
+  },
+  {
+    "name": "pistol.png",
+    "href": "pistol.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/spacepirates/pistol.png",
+    "is_dir": false,
+    "size": "1.0 KiB",
+    "date": "01-Dec-2025 17:45"
+  },
+  {
+    "name": "readme.txt",
+    "href": "readme.txt",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/spacepirates/readme.txt",
+    "is_dir": false,
+    "size": "14.0 KiB",
+    "date": "08-Dec-2025 09:33"
+  },
+  {
+    "name": "service.singe",
+    "href": "service.singe",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/spacepirates/service.singe",
+    "is_dir": false,
+    "size": "10.7 KiB",
+    "date": "08-Dec-2025 09:33"
+  },
+  {
+    "name": "sp_credit2.wav",
+    "href": "sp_credit2.wav",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/spacepirates/sp_credit2.wav",
+    "is_dir": false,
+    "size": "184.5 KiB",
+    "date": "01-Dec-2025 17:45"
+  },
+  {
+    "name": "sp_empty.wav",
+    "href": "sp_empty.wav",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/spacepirates/sp_empty.wav",
+    "is_dir": false,
+    "size": "154.9 KiB",
+    "date": "01-Dec-2025 17:45"
+  },
+  {
+    "name": "sp_erase.wav",
+    "href": "sp_erase.wav",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/spacepirates/sp_erase.wav",
+    "is_dir": false,
+    "size": "52.5 KiB",
+    "date": "01-Dec-2025 17:45"
+  },
+  {
+    "name": "sp_gunshot.wav",
+    "href": "sp_gunshot.wav",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/spacepirates/sp_gunshot.wav",
+    "is_dir": false,
+    "size": "55.2 KiB",
+    "date": "01-Dec-2025 17:45"
+  },
+  {
+    "name": "sp_niceshot.wav",
+    "href": "sp_niceshot.wav",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/spacepirates/sp_niceshot.wav",
+    "is_dir": false,
+    "size": "154.8 KiB",
+    "date": "01-Dec-2025 17:45"
+  },
+  {
+    "name": "sp_ohwell.wav",
+    "href": "sp_ohwell.wav",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/spacepirates/sp_ohwell.wav",
+    "is_dir": false,
+    "size": "135.4 KiB",
+    "date": "01-Dec-2025 17:45"
+  },
+  {
+    "name": "sp_reload01b.wav",
+    "href": "sp_reload01b.wav",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/spacepirates/sp_reload01b.wav",
+    "is_dir": false,
+    "size": "77.8 KiB",
+    "date": "01-Dec-2025 17:45"
+  },
+  {
+    "name": "spacepirates - Copy.txt",
+    "href": "spacepirates%20-%20Copy.txt",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/spacepirates/spacepirates%20-%20Copy.txt",
+    "is_dir": false,
+    "size": "4.2 KiB",
+    "date": "08-Dec-2025 09:33"
+  },
+  {
+    "name": "spacepirates.cfg",
+    "href": "spacepirates.cfg",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/spacepirates/spacepirates.cfg",
+    "is_dir": false,
+    "size": "260 B",
+    "date": "01-Dec-2025 17:45"
+  },
+  {
+    "name": "spacepirates.singe",
+    "href": "spacepirates.singe",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/spacepirates/spacepirates.singe",
+    "is_dir": false,
+    "size": "113.4 KiB",
+    "date": "08-Dec-2025 09:33"
+  },
+  {
+    "name": "spacepirates.txt",
+    "href": "spacepirates.txt",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/spacepirates/spacepirates.txt",
+    "is_dir": false,
+    "size": "4.2 KiB",
+    "date": "08-Dec-2025 09:33"
+  },
+  {
+    "name": "spot.png",
+    "href": "spot.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/spacepirates/spot.png",
+    "is_dir": false,
+    "size": "378 B",
+    "date": "01-Dec-2025 17:45"
+  },
+  {
+    "name": "spot4.png",
+    "href": "spot4.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/spacepirates/spot4.png",
+    "is_dir": false,
+    "size": "332 B",
+    "date": "01-Dec-2025 17:45"
+  },
+  {
+    "name": "tick.wav",
+    "href": "tick.wav",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/spacepirates/tick.wav",
+    "is_dir": false,
+    "size": "171.6 KiB",
+    "date": "01-Dec-2025 17:45"
+  },
+  {
+    "name": "tock.wav",
+    "href": "tock.wav",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/spacepirates/tock.wav",
+    "is_dir": false,
+    "size": "171.6 KiB",
+    "date": "01-Dec-2025 17:45"
+  },
+  {
+    "name": "toolbox.singe",
+    "href": "toolbox.singe",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/spacepirates/toolbox.singe",
+    "is_dir": false,
+    "size": "3.2 KiB",
+    "date": "08-Dec-2025 09:33"
+  },
+  {
+    "name": "wrong.wav",
+    "href": "wrong.wav",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/spacepirates/wrong.wav",
+    "is_dir": false,
+    "size": "17.0 KiB",
+    "date": "01-Dec-2025 17:45"
+  }
+]

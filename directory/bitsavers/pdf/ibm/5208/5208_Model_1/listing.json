@@ -1,0 +1,26 @@
+[
+  {
+    "name": "firmware",
+    "href": "firmware/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/5208/5208_Model_1/firmware/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Nov-2021 21:07"
+  },
+  {
+    "name": "5208_rs232.jpg",
+    "href": "5208_rs232.jpg",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/5208/5208_Model_1/5208_rs232.jpg",
+    "is_dir": false,
+    "size": "1.8 MiB",
+    "date": "29-Nov-2021 00:59"
+  },
+  {
+    "name": "5208_twinax.jpg",
+    "href": "5208_twinax.jpg",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/5208/5208_Model_1/5208_twinax.jpg",
+    "is_dir": false,
+    "size": "893.3 KiB",
+    "date": "29-Nov-2021 00:59"
+  }
+]

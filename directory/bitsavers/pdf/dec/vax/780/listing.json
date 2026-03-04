@@ -1,0 +1,290 @@
+[
+  {
+    "name": "fiche",
+    "href": "fiche/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/780/fiche/",
+    "is_dir": true,
+    "size": null,
+    "date": "18-May-2022 06:19"
+  },
+  {
+    "name": "AA-H306B_VAX-11_780_Microprogramming_Tools_Users_Guide_198203.pdf",
+    "href": "AA-H306B_VAX-11_780_Microprogramming_Tools_Users_Guide_198203.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/780/AA-H306B_VAX-11_780_Microprogramming_Tools_Users_Guide_198203.pdf",
+    "is_dir": false,
+    "size": "5.0 MiB",
+    "date": "12-Jul-2021 14:54"
+  },
+  {
+    "name": "AA-H307-TE_VAX-11_780_Data_Path_Description_197902.pdf",
+    "href": "AA-H307-TE_VAX-11_780_Data_Path_Description_197902.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/780/AA-H307-TE_VAX-11_780_Data_Path_Description_197902.pdf",
+    "is_dir": false,
+    "size": "10.2 MiB",
+    "date": "12-Jul-2021 14:56"
+  },
+  {
+    "name": "DEC_VAX-11_780_Dual_RK07_System_Config_198101.pdf",
+    "href": "DEC_VAX-11_780_Dual_RK07_System_Config_198101.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/780/DEC_VAX-11_780_Dual_RK07_System_Config_198101.pdf",
+    "is_dir": false,
+    "size": "778.4 KiB",
+    "date": "12-Jul-2021 14:56"
+  },
+  {
+    "name": "DEC_VAX-11_780_RM03_TE16_TU77_System_Config_198004.pdf",
+    "href": "DEC_VAX-11_780_RM03_TE16_TU77_System_Config_198004.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/780/DEC_VAX-11_780_RM03_TE16_TU77_System_Config_198004.pdf",
+    "is_dir": false,
+    "size": "540.6 KiB",
+    "date": "12-Jul-2021 14:56"
+  },
+  {
+    "name": "DEC_VAX-11_780_RP06_TE16_TU77_System_Config_198004.pdf",
+    "href": "DEC_VAX-11_780_RP06_TE16_TU77_System_Config_198004.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/780/DEC_VAX-11_780_RP06_TE16_TU77_System_Config_198004.pdf",
+    "is_dir": false,
+    "size": "410.4 KiB",
+    "date": "12-Jul-2021 14:56"
+  },
+  {
+    "name": "EK-11780-UG-001_VAX-11_780_Hardware_Users_Guide_197902.pdf",
+    "href": "EK-11780-UG-001_VAX-11_780_Hardware_Users_Guide_197902.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/780/EK-11780-UG-001_VAX-11_780_Hardware_Users_Guide_197902.pdf",
+    "is_dir": false,
+    "size": "11.5 MiB",
+    "date": "12-Jul-2021 14:59"
+  },
+  {
+    "name": "EK-DS780-TD-001_VAX-11_780_Diagnostic_Subsystem_Technical_Description_197902.pdf",
+    "href": "EK-DS780-TD-001_VAX-11_780_Diagnostic_Subsystem_Technical_Description_197902.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/780/EK-DS780-TD-001_VAX-11_780_Diagnostic_Subsystem_Technical_Description_197902.pdf",
+    "is_dir": false,
+    "size": "10.7 MiB",
+    "date": "12-Jul-2021 15:01"
+  },
+  {
+    "name": "EK-DS780-UG-002_VAX-11_780_Diagnostic_System_Users_Guide_197908.pdf",
+    "href": "EK-DS780-UG-002_VAX-11_780_Diagnostic_System_Users_Guide_197908.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/780/EK-DS780-UG-002_VAX-11_780_Diagnostic_System_Users_Guide_197908.pdf",
+    "is_dir": false,
+    "size": "3.0 MiB",
+    "date": "12-Jul-2021 15:02"
+  },
+  {
+    "name": "EK-DW780-TD-001_DW780_Unibus_Adapter_Technical_Description_197805.pdf",
+    "href": "EK-DW780-TD-001_DW780_Unibus_Adapter_Technical_Description_197805.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/780/EK-DW780-TD-001_DW780_Unibus_Adapter_Technical_Description_197805.pdf",
+    "is_dir": false,
+    "size": "9.7 MiB",
+    "date": "12-Jul-2021 15:04"
+  },
+  {
+    "name": "EK-FP780-TD-001_FP780_Technical_Description_197812.pdf",
+    "href": "EK-FP780-TD-001_FP780_Technical_Description_197812.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/780/EK-FP780-TD-001_FP780_Technical_Description_197812.pdf",
+    "is_dir": false,
+    "size": "5.0 MiB",
+    "date": "12-Jul-2021 15:13"
+  },
+  {
+    "name": "EK-KC780-TD-001_Console_Interface_Technical_Description_197803.pdf",
+    "href": "EK-KC780-TD-001_Console_Interface_Technical_Description_197803.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/780/EK-KC780-TD-001_Console_Interface_Technical_Description_197803.pdf",
+    "is_dir": false,
+    "size": "4.9 MiB",
+    "date": "12-Jul-2021 15:14"
+  },
+  {
+    "name": "EK-KC780-TM-007_KC780_Family_Remote_Diagnosis_Options_Technical_Manual_198407.pdf",
+    "href": "EK-KC780-TM-007_KC780_Family_Remote_Diagnosis_Options_Technical_Manual_198407.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/780/EK-KC780-TM-007_KC780_Family_Remote_Diagnosis_Options_Technical_Manual_198407.pdf",
+    "is_dir": false,
+    "size": "4.2 MiB",
+    "date": "12-Jul-2021 16:05"
+  },
+  {
+    "name": "EK-MM780-TD-001_Translation_Buffer_and_Cache_and_SBI_Control_Technical_Description_197804.pdf",
+    "href": "EK-MM780-TD-001_Translation_Buffer_and_Cache_and_SBI_Control_Technical_Description_197804.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/780/EK-MM780-TD-001_Translation_Buffer_and_Cache_and_SBI_Control_Technical_Description_197804.pdf",
+    "is_dir": false,
+    "size": "6.4 MiB",
+    "date": "12-Jul-2021 16:07"
+  },
+  {
+    "name": "EK-MS780-TD-001_MS780_Technical_Manual_197808.pdf",
+    "href": "EK-MS780-TD-001_MS780_Technical_Manual_197808.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/780/EK-MS780-TD-001_MS780_Technical_Manual_197808.pdf",
+    "is_dir": false,
+    "size": "3.6 MiB",
+    "date": "12-Jul-2021 16:07"
+  },
+  {
+    "name": "EK-RH780-TD-001_RH780_Technical_Description_197903.pdf",
+    "href": "EK-RH780-TD-001_RH780_Technical_Description_197903.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/780/EK-RH780-TD-001_RH780_Technical_Description_197903.pdf",
+    "is_dir": false,
+    "size": "5.8 MiB",
+    "date": "12-Jul-2021 16:09"
+  },
+  {
+    "name": "EK-SI780-IN-001_VAX-11_780_Installation_Manual_197810.pdf",
+    "href": "EK-SI780-IN-001_VAX-11_780_Installation_Manual_197810.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/780/EK-SI780-IN-001_VAX-11_780_Installation_Manual_197810.pdf",
+    "is_dir": false,
+    "size": "2.9 MiB",
+    "date": "12-Jul-2021 16:09"
+  },
+  {
+    "name": "EK-SI780-IN-002_VAX-11_780_Installation_Manual_198201.pdf",
+    "href": "EK-SI780-IN-002_VAX-11_780_Installation_Manual_198201.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/780/EK-SI780-IN-002_VAX-11_780_Installation_Manual_198201.pdf",
+    "is_dir": false,
+    "size": "5.2 MiB",
+    "date": "12-Jul-2021 16:10"
+  },
+  {
+    "name": "EK-VAXV2-HB-002_VAX_Maintenance_Handbook_VAX-11_780_1983_Edition_198303.pdf",
+    "href": "EK-VAXV2-HB-002_VAX_Maintenance_Handbook_VAX-11_780_1983_Edition_198303.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/780/EK-VAXV2-HB-002_VAX_Maintenance_Handbook_VAX-11_780_1983_Edition_198303.pdf",
+    "is_dir": false,
+    "size": "7.4 MiB",
+    "date": "12-Jul-2021 16:12"
+  },
+  {
+    "name": "EY-2217E-SG-0001_Guide_to_VAX-11_780_System_Troubleshooting_198511.pdf",
+    "href": "EY-2217E-SG-0001_Guide_to_VAX-11_780_System_Troubleshooting_198511.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/780/EY-2217E-SG-0001_Guide_to_VAX-11_780_System_Troubleshooting_198511.pdf",
+    "is_dir": false,
+    "size": "10.8 MiB",
+    "date": "12-Jul-2021 16:17"
+  },
+  {
+    "name": "KA780modules.txt",
+    "href": "KA780modules.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/780/KA780modules.txt",
+    "is_dir": false,
+    "size": "1.4 KiB",
+    "date": "11-May-2005 19:39"
+  },
+  {
+    "name": "MP00377_H7111_Mar82.pdf",
+    "href": "MP00377_H7111_Mar82.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/780/MP00377_H7111_Mar82.pdf",
+    "is_dir": false,
+    "size": "1.9 MiB",
+    "date": "31-Jan-2022 03:17"
+  },
+  {
+    "name": "MP00377_H7111_Sep77.pdf",
+    "href": "MP00377_H7111_Sep77.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/780/MP00377_H7111_Sep77.pdf",
+    "is_dir": false,
+    "size": "1.7 MiB",
+    "date": "31-Jan-2022 03:17"
+  },
+  {
+    "name": "MP00480_H7100_Jan83.pdf",
+    "href": "MP00480_H7100_Jan83.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/780/MP00480_H7100_Jan83.pdf",
+    "is_dir": false,
+    "size": "4.9 MiB",
+    "date": "31-Jan-2022 03:17"
+  },
+  {
+    "name": "MP00480_H7100_Sep81.pdf",
+    "href": "MP00480_H7100_Sep81.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/780/MP00480_H7100_Sep81.pdf",
+    "is_dir": false,
+    "size": "4.5 MiB",
+    "date": "31-Jan-2022 03:17"
+  },
+  {
+    "name": "MP00496_KA780_197911.pdf",
+    "href": "MP00496_KA780_197911.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/780/MP00496_KA780_197911.pdf",
+    "is_dir": false,
+    "size": "48.5 MiB",
+    "date": "22-Jan-2004 05:28"
+  },
+  {
+    "name": "MP00497_DW780_Dec77.pdf",
+    "href": "MP00497_DW780_Dec77.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/780/MP00497_DW780_Dec77.pdf",
+    "is_dir": false,
+    "size": "14.7 MiB",
+    "date": "22-Jan-2004 02:20"
+  },
+  {
+    "name": "MP00498_MS780_MOS_Memory_197811.pdf",
+    "href": "MP00498_MS780_MOS_Memory_197811.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/780/MP00498_MS780_MOS_Memory_197811.pdf",
+    "is_dir": false,
+    "size": "214.9 MiB",
+    "date": "18-Feb-2025 19:43"
+  },
+  {
+    "name": "MP00499_RH780_Nov77.pdf",
+    "href": "MP00499_RH780_Nov77.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/780/MP00499_RH780_Nov77.pdf",
+    "is_dir": false,
+    "size": "11.3 MiB",
+    "date": "22-Jan-2004 01:32"
+  },
+  {
+    "name": "MP00534_KC780_Nov77.pdf",
+    "href": "MP00534_KC780_Nov77.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/780/MP00534_KC780_Nov77.pdf",
+    "is_dir": false,
+    "size": "10.2 MiB",
+    "date": "13-May-2005 21:01"
+  },
+  {
+    "name": "MP00539_11780_Nov77.pdf",
+    "href": "MP00539_11780_Nov77.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/780/MP00539_11780_Nov77.pdf",
+    "is_dir": false,
+    "size": "9.8 MiB",
+    "date": "06-Feb-2004 05:01"
+  },
+  {
+    "name": "MP00565-FP780_Floating_Point_Option_197802.pdf",
+    "href": "MP00565-FP780_Floating_Point_Option_197802.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/780/MP00565-FP780_Floating_Point_Option_197802.pdf",
+    "is_dir": false,
+    "size": "152.7 MiB",
+    "date": "18-Feb-2025 19:45"
+  },
+  {
+    "name": "MP00577_H9602-D_780-Unibus-Options_198004.pdf",
+    "href": "MP00577_H9602-D_780-Unibus-Options_198004.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/780/MP00577_H9602-D_780-Unibus-Options_198004.pdf",
+    "is_dir": false,
+    "size": "234.0 MiB",
+    "date": "18-Feb-2025 19:46"
+  },
+  {
+    "name": "MP00835-DR780_High_Speed_Parallel_Interface_198805.pdf",
+    "href": "MP00835-DR780_High_Speed_Parallel_Interface_198805.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/780/MP00835-DR780_High_Speed_Parallel_Interface_198805.pdf",
+    "is_dir": false,
+    "size": "178.9 MiB",
+    "date": "18-Feb-2025 19:47"
+  },
+  {
+    "name": "MP01267_CI780_198109.pdf",
+    "href": "MP01267_CI780_198109.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/780/MP01267_CI780_198109.pdf",
+    "is_dir": false,
+    "size": "18.5 MiB",
+    "date": "17-May-2022 01:36"
+  },
+  {
+    "name": "MP01759_MS780H_Jun84.pdf",
+    "href": "MP01759_MS780H_Jun84.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/780/MP01759_MS780H_Jun84.pdf",
+    "is_dir": false,
+    "size": "9.2 MiB",
+    "date": "16-Feb-2004 03:28"
+  }
+]

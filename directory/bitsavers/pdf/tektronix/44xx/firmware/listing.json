@@ -1,0 +1,50 @@
+[
+  {
+    "name": "msu",
+    "href": "msu/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/tektronix/44xx/firmware/msu/",
+    "is_dir": true,
+    "size": null,
+    "date": "08-Dec-2025 01:59"
+  },
+  {
+    "name": "TEK_U130.BIN",
+    "href": "TEK_U130.BIN",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/tektronix/44xx/firmware/TEK_U130.BIN",
+    "is_dir": false,
+    "size": "4.0 KiB",
+    "date": "23-Jan-2010 00:25"
+  },
+  {
+    "name": "TEK_U158.BIN",
+    "href": "TEK_U158.BIN",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/tektronix/44xx/firmware/TEK_U158.BIN",
+    "is_dir": false,
+    "size": "16.0 KiB",
+    "date": "23-May-2016 00:03"
+  },
+  {
+    "name": "TEK_U163.BIN",
+    "href": "TEK_U163.BIN",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/tektronix/44xx/firmware/TEK_U163.BIN",
+    "is_dir": false,
+    "size": "16.0 KiB",
+    "date": "23-May-2016 00:03"
+  },
+  {
+    "name": "merge.bin",
+    "href": "merge.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/tektronix/44xx/firmware/merge.bin",
+    "is_dir": false,
+    "size": "32.0 KiB",
+    "date": "23-May-2016 00:05"
+  },
+  {
+    "name": "tek_4404.txt",
+    "href": "tek_4404.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/tektronix/44xx/firmware/tek_4404.txt",
+    "is_dir": false,
+    "size": "432 B",
+    "date": "23-Jan-2010 00:25"
+  }
+]

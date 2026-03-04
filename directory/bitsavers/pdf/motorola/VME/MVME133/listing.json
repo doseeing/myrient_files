@@ -1,0 +1,42 @@
+[
+  {
+    "name": "firmware",
+    "href": "firmware/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/motorola/VME/MVME133/firmware/",
+    "is_dir": true,
+    "size": null,
+    "date": "16-Dec-2016 22:47"
+  },
+  {
+    "name": "MVME133S_Users_Manual_updDec95.pdf",
+    "href": "MVME133S_Users_Manual_updDec95.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/motorola/VME/MVME133/MVME133S_Users_Manual_updDec95.pdf",
+    "is_dir": false,
+    "size": "4.3 MiB",
+    "date": "24-May-2016 16:36"
+  },
+  {
+    "name": "MVME133XTS.pdf",
+    "href": "MVME133XTS.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/motorola/VME/MVME133/MVME133XTS.pdf",
+    "is_dir": false,
+    "size": "700.0 KiB",
+    "date": "24-May-2016 16:36"
+  },
+  {
+    "name": "MVME133XT_Users_Manual_198804.pdf",
+    "href": "MVME133XT_Users_Manual_198804.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/motorola/VME/MVME133/MVME133XT_Users_Manual_198804.pdf",
+    "is_dir": false,
+    "size": "3.2 MiB",
+    "date": "20-Oct-2023 20:17"
+  },
+  {
+    "name": "MVME133_Users_Manual_Sep86.pdf",
+    "href": "MVME133_Users_Manual_Sep86.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/motorola/VME/MVME133/MVME133_Users_Manual_Sep86.pdf",
+    "is_dir": false,
+    "size": "2.9 MiB",
+    "date": "24-May-2016 16:36"
+  }
+]

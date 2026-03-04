@@ -1,0 +1,40 @@
+name	is_dir	size	date
+k	True	-	21-Apr-2017 01:44
+lambda-diag	True	-	21-Apr-2017 01:28
+p	True	-	21-Apr-2017 01:28
+arch-spec.text.8	False	11.6 KiB	21-Apr-2017 01:03
+atn.lisp.1	False	46.1 KiB	21-Apr-2017 01:03
+bobmouse.ast.1	False	50.1 KiB	21-Apr-2017 01:03
+cmos-ram.lisp.1	False	3.5 KiB	21-Apr-2017 01:03
+config-edit.lisp.20	False	36.8 KiB	21-Apr-2017 01:03
+config-edit.lisp.21	False	36.9 KiB	21-Apr-2017 01:03
+config-file.lisp.34	False	25.6 KiB	21-Apr-2017 01:03
+config-file.lisp.5	False	11.9 KiB	21-Apr-2017 01:03
+copy-dir.lisp.7	False	4.4 KiB	21-Apr-2017 01:03
+copy-root.lisp.5	False	2.0 KiB	21-Apr-2017 01:03
+cp.lisp.1	False	139 B	21-Apr-2017 01:03
+disam-68.lisp.26	False	19.1 KiB	21-Apr-2017 01:03
+discrim-net.lisp.1	False	1.1 KiB	21-Apr-2017 01:03
+foo.lisp.1	False	159 B	21-Apr-2017 01:03
+idle.lisp.1	False	273 B	21-Apr-2017 01:03
+jam-trace.lisp.1	False	4.2 KiB	21-Apr-2017 01:03
+jamfont.ast.3	False	4.3 KiB	21-Apr-2017 01:03
+judys-window.lisp.85	False	10.1 KiB	21-Apr-2017 01:03
+lispm.init.17	False	731 B	21-Apr-2017 01:03
+multibus-space.text.2	False	3.2 KiB	21-Apr-2017 01:03
+org.lisp.1	False	42.5 KiB	21-Apr-2017 01:03
+receive-root.lisp.14	False	7.8 KiB	21-Apr-2017 01:03
+rom-info.lisp.1	False	2.4 KiB	21-Apr-2017 01:03
+scratch.lisp.1	False	2.7 KiB	21-Apr-2017 01:03
+scratch.lisp.2	False	2.8 KiB	21-Apr-2017 01:03
+sdu-utils.lisp.16	False	9.2 KiB	21-Apr-2017 01:03
+spreadsheet.lisp.13	False	13.4 KiB	21-Apr-2017 01:03
+spreadsheet.lisp.22	False	19.0 KiB	21-Apr-2017 01:03
+spreadsheet.lisp.40	False	20.3 KiB	21-Apr-2017 01:03
+spreadsheet.lisp.41	False	19.8 KiB	21-Apr-2017 01:03
+spreadsheet.text.7	False	11.9 KiB	21-Apr-2017 01:03
+t.lisp.1	False	130 B	21-Apr-2017 01:03
+tw.lisp.3	False	891 B	21-Apr-2017 01:03
+unix-print.lisp.10	False	5.9 KiB	21-Apr-2017 01:03
+unix-print.lisp.9	False	5.9 KiB	21-Apr-2017 01:03
+wire-orphans.text.1	False	979 B	21-Apr-2017 01:03

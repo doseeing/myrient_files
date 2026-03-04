@@ -1,0 +1,170 @@
+[
+  {
+    "name": "00",
+    "href": "00/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/floatingPointSystems/FPS-100/FPS-100_Schematics/00/",
+    "is_dir": true,
+    "size": null,
+    "date": "19-Jul-2025 19:06"
+  },
+  {
+    "name": "01_280B_Nova_Eclipse_IO_Adapter",
+    "href": "01_280B_Nova_Eclipse_IO_Adapter/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/floatingPointSystems/FPS-100/FPS-100_Schematics/01_280B_Nova_Eclipse_IO_Adapter/",
+    "is_dir": true,
+    "size": null,
+    "date": "17-Jul-2025 16:11"
+  },
+  {
+    "name": "02_401-A_Floating_Adder",
+    "href": "02_401-A_Floating_Adder/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/floatingPointSystems/FPS-100/FPS-100_Schematics/02_401-A_Floating_Adder/",
+    "is_dir": true,
+    "size": null,
+    "date": "17-Jul-2025 16:12"
+  },
+  {
+    "name": "03_402-B_Data_Pad_Left_Exponent_Bits_0-3",
+    "href": "03_402-B_Data_Pad_Left_Exponent_Bits_0-3/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/floatingPointSystems/FPS-100/FPS-100_Schematics/03_402-B_Data_Pad_Left_Exponent_Bits_0-3/",
+    "is_dir": true,
+    "size": null,
+    "date": "17-Jul-2025 16:12"
+  },
+  {
+    "name": "04_402-B_Data_Pad_Right_Mantissa_Bits_0-3",
+    "href": "04_402-B_Data_Pad_Right_Mantissa_Bits_0-3/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/floatingPointSystems/FPS-100/FPS-100_Schematics/04_402-B_Data_Pad_Right_Mantissa_Bits_0-3/",
+    "is_dir": true,
+    "size": null,
+    "date": "17-Jul-2025 16:14"
+  },
+  {
+    "name": "05_405-A_Processor_2",
+    "href": "05_405-A_Processor_2/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/floatingPointSystems/FPS-100/FPS-100_Schematics/05_405-A_Processor_2/",
+    "is_dir": true,
+    "size": null,
+    "date": "17-Jul-2025 16:12"
+  },
+  {
+    "name": "06_407-0_P1_FPS_100",
+    "href": "06_407-0_P1_FPS_100/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/floatingPointSystems/FPS-100/FPS-100_Schematics/06_407-0_P1_FPS_100/",
+    "is_dir": true,
+    "size": null,
+    "date": "17-Jul-2025 16:12"
+  },
+  {
+    "name": "07_408-0_P3",
+    "href": "07_408-0_P3/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/floatingPointSystems/FPS-100/FPS-100_Schematics/07_408-0_P3/",
+    "is_dir": true,
+    "size": null,
+    "date": "17-Jul-2025 16:12"
+  },
+  {
+    "name": "08_408-A_P3",
+    "href": "08_408-A_P3/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/floatingPointSystems/FPS-100/FPS-100_Schematics/08_408-A_P3/",
+    "is_dir": true,
+    "size": null,
+    "date": "17-Jul-2025 16:12"
+  },
+  {
+    "name": "09_FPS-100_Power_Sequence_Logic",
+    "href": "09_FPS-100_Power_Sequence_Logic/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/floatingPointSystems/FPS-100/FPS-100_Schematics/09_FPS-100_Power_Sequence_Logic/",
+    "is_dir": true,
+    "size": null,
+    "date": "17-Jul-2025 16:12"
+  },
+  {
+    "name": "10_419-0_Nova_IF_FPS-100",
+    "href": "10_419-0_Nova_IF_FPS-100/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/floatingPointSystems/FPS-100/FPS-100_Schematics/10_419-0_Nova_IF_FPS-100/",
+    "is_dir": true,
+    "size": null,
+    "date": "17-Jul-2025 16:12"
+  },
+  {
+    "name": "11_421-C_PDP-11_IF",
+    "href": "11_421-C_PDP-11_IF/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/floatingPointSystems/FPS-100/FPS-100_Schematics/11_421-C_PDP-11_IF/",
+    "is_dir": true,
+    "size": null,
+    "date": "17-Jul-2025 16:13"
+  },
+  {
+    "name": "12_421-A_PDP-11_IF_FPS100",
+    "href": "12_421-A_PDP-11_IF_FPS100/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/floatingPointSystems/FPS-100/FPS-100_Schematics/12_421-A_PDP-11_IF_FPS100/",
+    "is_dir": true,
+    "size": null,
+    "date": "17-Jul-2025 16:13"
+  },
+  {
+    "name": "13_422A_Processor_1",
+    "href": "13_422A_Processor_1/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/floatingPointSystems/FPS-100/FPS-100_Schematics/13_422A_Processor_1/",
+    "is_dir": true,
+    "size": null,
+    "date": "17-Jul-2025 16:14"
+  },
+  {
+    "name": "14_423-0_Processor_2_4K",
+    "href": "14_423-0_Processor_2_4K/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/floatingPointSystems/FPS-100/FPS-100_Schematics/14_423-0_Processor_2_4K/",
+    "is_dir": true,
+    "size": null,
+    "date": "17-Jul-2025 16:13"
+  },
+  {
+    "name": "15_424-A_Main_Data",
+    "href": "15_424-A_Main_Data/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/floatingPointSystems/FPS-100/FPS-100_Schematics/15_424-A_Main_Data/",
+    "is_dir": true,
+    "size": null,
+    "date": "17-Jul-2025 16:13"
+  },
+  {
+    "name": "16_425-A_Table_Memory_512-3425-003",
+    "href": "16_425-A_Table_Memory_512-3425-003/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/floatingPointSystems/FPS-100/FPS-100_Schematics/16_425-A_Table_Memory_512-3425-003/",
+    "is_dir": true,
+    "size": null,
+    "date": "17-Jul-2025 16:13"
+  },
+  {
+    "name": "17_425-A_Table_Memory_512-3425-004",
+    "href": "17_425-A_Table_Memory_512-3425-004/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/floatingPointSystems/FPS-100/FPS-100_Schematics/17_425-A_Table_Memory_512-3425-004/",
+    "is_dir": true,
+    "size": null,
+    "date": "17-Jul-2025 16:13"
+  },
+  {
+    "name": "18_428-A_Floating_Multiplier",
+    "href": "18_428-A_Floating_Multiplier/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/floatingPointSystems/FPS-100/FPS-100_Schematics/18_428-A_Floating_Multiplier/",
+    "is_dir": true,
+    "size": null,
+    "date": "17-Jul-2025 16:13"
+  },
+  {
+    "name": "19_429-0_Formatter_PDP-11",
+    "href": "19_429-0_Formatter_PDP-11/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/floatingPointSystems/FPS-100/FPS-100_Schematics/19_429-0_Formatter_PDP-11/",
+    "is_dir": true,
+    "size": null,
+    "date": "17-Jul-2025 16:14"
+  },
+  {
+    "name": "20_429-0_Formatter_Nova",
+    "href": "20_429-0_Formatter_Nova/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/floatingPointSystems/FPS-100/FPS-100_Schematics/20_429-0_Formatter_Nova/",
+    "is_dir": true,
+    "size": null,
+    "date": "17-Jul-2025 16:14"
+  }
+]

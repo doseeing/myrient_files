@@ -1,0 +1,26 @@
+[
+  {
+    "name": "boards",
+    "href": "boards/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/sgi/iris/3130/boards/",
+    "is_dir": true,
+    "size": null,
+    "date": "22-Feb-2020 03:26"
+  },
+  {
+    "name": "chassis",
+    "href": "chassis/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/sgi/iris/3130/chassis/",
+    "is_dir": true,
+    "size": null,
+    "date": "23-Feb-2020 19:22"
+  },
+  {
+    "name": "block_diagram.jpg",
+    "href": "block_diagram.jpg",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/sgi/iris/3130/block_diagram.jpg",
+    "is_dir": false,
+    "size": "799.2 KiB",
+    "date": "22-Feb-2020 16:09"
+  }
+]

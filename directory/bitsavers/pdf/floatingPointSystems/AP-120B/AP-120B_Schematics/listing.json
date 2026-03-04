@@ -1,0 +1,274 @@
+[
+  {
+    "name": "01_200A_Data_Pad_Left.zip",
+    "href": "01_200A_Data_Pad_Left.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/floatingPointSystems/AP-120B/AP-120B_Schematics/01_200A_Data_Pad_Left.zip",
+    "is_dir": false,
+    "size": "15.8 MiB",
+    "date": "17-Jul-2025 21:13"
+  },
+  {
+    "name": "02_200A_Data_Pad_Right.zip",
+    "href": "02_200A_Data_Pad_Right.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/floatingPointSystems/AP-120B/AP-120B_Schematics/02_200A_Data_Pad_Right.zip",
+    "is_dir": false,
+    "size": "12.7 MiB",
+    "date": "17-Jul-2025 21:13"
+  },
+  {
+    "name": "03_201C_SPAD.zip",
+    "href": "03_201C_SPAD.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/floatingPointSystems/AP-120B/AP-120B_Schematics/03_201C_SPAD.zip",
+    "is_dir": false,
+    "size": "14.1 MiB",
+    "date": "17-Jul-2025 21:13"
+  },
+  {
+    "name": "04_202_MD_Reg.zip",
+    "href": "04_202_MD_Reg.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/floatingPointSystems/AP-120B/AP-120B_Schematics/04_202_MD_Reg.zip",
+    "is_dir": false,
+    "size": "5.8 MiB",
+    "date": "17-Jul-2025 21:13"
+  },
+  {
+    "name": "05_202A_MD_Reg.zip",
+    "href": "05_202A_MD_Reg.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/floatingPointSystems/AP-120B/AP-120B_Schematics/05_202A_MD_Reg.zip",
+    "is_dir": false,
+    "size": "4.6 MiB",
+    "date": "17-Jul-2025 21:13"
+  },
+  {
+    "name": "06_203B_FADD-1.zip",
+    "href": "06_203B_FADD-1.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/floatingPointSystems/AP-120B/AP-120B_Schematics/06_203B_FADD-1.zip",
+    "is_dir": false,
+    "size": "10.0 MiB",
+    "date": "17-Jul-2025 21:13"
+  },
+  {
+    "name": "07_204B_FADD-2.zip",
+    "href": "07_204B_FADD-2.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/floatingPointSystems/AP-120B/AP-120B_Schematics/07_204B_FADD-2.zip",
+    "is_dir": false,
+    "size": "6.4 MiB",
+    "date": "17-Jul-2025 21:13"
+  },
+  {
+    "name": "08_205B_FADD-3.zip",
+    "href": "08_205B_FADD-3.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/floatingPointSystems/AP-120B/AP-120B_Schematics/08_205B_FADD-3.zip",
+    "is_dir": false,
+    "size": "6.7 MiB",
+    "date": "17-Jul-2025 21:13"
+  },
+  {
+    "name": "09_206A_FMUL-A.zip",
+    "href": "09_206A_FMUL-A.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/floatingPointSystems/AP-120B/AP-120B_Schematics/09_206A_FMUL-A.zip",
+    "is_dir": false,
+    "size": "10.1 MiB",
+    "date": "17-Jul-2025 21:14"
+  },
+  {
+    "name": "10_207B_FMUL-B.zip",
+    "href": "10_207B_FMUL-B.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/floatingPointSystems/AP-120B/AP-120B_Schematics/10_207B_FMUL-B.zip",
+    "is_dir": false,
+    "size": "9.9 MiB",
+    "date": "17-Jul-2025 21:14"
+  },
+  {
+    "name": "11_208_FMUL-C_Exponent.zip",
+    "href": "11_208_FMUL-C_Exponent.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/floatingPointSystems/AP-120B/AP-120B_Schematics/11_208_FMUL-C_Exponent.zip",
+    "is_dir": false,
+    "size": "7.6 MiB",
+    "date": "17-Jul-2025 21:14"
+  },
+  {
+    "name": "12_209B_TM_Reg.zip",
+    "href": "12_209B_TM_Reg.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/floatingPointSystems/AP-120B/AP-120B_Schematics/12_209B_TM_Reg.zip",
+    "is_dir": false,
+    "size": "4.2 MiB",
+    "date": "17-Jul-2025 21:14"
+  },
+  {
+    "name": "13_210A_CB-1_Slow_MD.zip",
+    "href": "13_210A_CB-1_Slow_MD.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/floatingPointSystems/AP-120B/AP-120B_Schematics/13_210A_CB-1_Slow_MD.zip",
+    "is_dir": false,
+    "size": "9.8 MiB",
+    "date": "17-Jul-2025 21:14"
+  },
+  {
+    "name": "14_210A_CB-1_Fast_MD.zip",
+    "href": "14_210A_CB-1_Fast_MD.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/floatingPointSystems/AP-120B/AP-120B_Schematics/14_210A_CB-1_Fast_MD.zip",
+    "is_dir": false,
+    "size": "2.0 MiB",
+    "date": "17-Jul-2025 21:14"
+  },
+  {
+    "name": "15_210A_CB-1_64K_Refr.zip",
+    "href": "15_210A_CB-1_64K_Refr.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/floatingPointSystems/AP-120B/AP-120B_Schematics/15_210A_CB-1_64K_Refr.zip",
+    "is_dir": false,
+    "size": "1.9 MiB",
+    "date": "17-Jul-2025 21:14"
+  },
+  {
+    "name": "16_211A_CB-2.zip",
+    "href": "16_211A_CB-2.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/floatingPointSystems/AP-120B/AP-120B_Schematics/16_211A_CB-2.zip",
+    "is_dir": false,
+    "size": "6.5 MiB",
+    "date": "17-Jul-2025 21:14"
+  },
+  {
+    "name": "17_212B_ADDR.zip",
+    "href": "17_212B_ADDR.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/floatingPointSystems/AP-120B/AP-120B_Schematics/17_212B_ADDR.zip",
+    "is_dir": false,
+    "size": "9.3 MiB",
+    "date": "17-Jul-2025 21:14"
+  },
+  {
+    "name": "18_213_MI_Reg.zip",
+    "href": "18_213_MI_Reg.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/floatingPointSystems/AP-120B/AP-120B_Schematics/18_213_MI_Reg.zip",
+    "is_dir": false,
+    "size": "2.8 MiB",
+    "date": "17-Jul-2025 21:14"
+  },
+  {
+    "name": "19_214_EXPAN.zip",
+    "href": "19_214_EXPAN.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/floatingPointSystems/AP-120B/AP-120B_Schematics/19_214_EXPAN.zip",
+    "is_dir": false,
+    "size": "8.4 MiB",
+    "date": "17-Jul-2025 21:14"
+  },
+  {
+    "name": "20_215C_Main_Data_Mem.zip",
+    "href": "20_215C_Main_Data_Mem.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/floatingPointSystems/AP-120B/AP-120B_Schematics/20_215C_Main_Data_Mem.zip",
+    "is_dir": false,
+    "size": "12.8 MiB",
+    "date": "17-Jul-2025 21:14"
+  },
+  {
+    "name": "21_Prog_Source_512x64.zip",
+    "href": "21_Prog_Source_512x64.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/floatingPointSystems/AP-120B/AP-120B_Schematics/21_Prog_Source_512x64.zip",
+    "is_dir": false,
+    "size": "13.8 MiB",
+    "date": "17-Jul-2025 21:15"
+  },
+  {
+    "name": "22_217A_TM_ROM.zip",
+    "href": "22_217A_TM_ROM.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/floatingPointSystems/AP-120B/AP-120B_Schematics/22_217A_TM_ROM.zip",
+    "is_dir": false,
+    "size": "13.3 MiB",
+    "date": "17-Jul-2025 21:15"
+  },
+  {
+    "name": "23_218A_PDP-11_IF_A10.zip",
+    "href": "23_218A_PDP-11_IF_A10.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/floatingPointSystems/AP-120B/AP-120B_Schematics/23_218A_PDP-11_IF_A10.zip",
+    "is_dir": false,
+    "size": "14.1 MiB",
+    "date": "17-Jul-2025 21:15"
+  },
+  {
+    "name": "24_218A_PDP-11_IF_A00.zip",
+    "href": "24_218A_PDP-11_IF_A00.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/floatingPointSystems/AP-120B/AP-120B_Schematics/24_218A_PDP-11_IF_A00.zip",
+    "is_dir": false,
+    "size": "12.7 MiB",
+    "date": "17-Jul-2025 21:15"
+  },
+  {
+    "name": "25_219_GP_Intf.zip",
+    "href": "25_219_GP_Intf.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/floatingPointSystems/AP-120B/AP-120B_Schematics/25_219_GP_Intf.zip",
+    "is_dir": false,
+    "size": "11.1 MiB",
+    "date": "17-Jul-2025 21:15"
+  },
+  {
+    "name": "26_226A_FMT.zip",
+    "href": "26_226A_FMT.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/floatingPointSystems/AP-120B/AP-120B_Schematics/26_226A_FMT.zip",
+    "is_dir": false,
+    "size": "6.5 MiB",
+    "date": "17-Jul-2025 21:15"
+  },
+  {
+    "name": "27_227_FMTE.zip",
+    "href": "27_227_FMTE.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/floatingPointSystems/AP-120B/AP-120B_Schematics/27_227_FMTE.zip",
+    "is_dir": false,
+    "size": "10.7 MiB",
+    "date": "17-Jul-2025 22:30"
+  },
+  {
+    "name": "28_228_RDS_IF.zip",
+    "href": "28_228_RDS_IF.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/floatingPointSystems/AP-120B/AP-120B_Schematics/28_228_RDS_IF.zip",
+    "is_dir": false,
+    "size": "11.4 MiB",
+    "date": "17-Jul-2025 22:31"
+  },
+  {
+    "name": "29_236_Program_Source.zip",
+    "href": "29_236_Program_Source.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/floatingPointSystems/AP-120B/AP-120B_Schematics/29_236_Program_Source.zip",
+    "is_dir": false,
+    "size": "16.0 MiB",
+    "date": "17-Jul-2025 22:31"
+  },
+  {
+    "name": "30_238A_TM_RAM.zip",
+    "href": "30_238A_TM_RAM.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/floatingPointSystems/AP-120B/AP-120B_Schematics/30_238A_TM_RAM.zip",
+    "is_dir": false,
+    "size": "15.3 MiB",
+    "date": "17-Jul-2025 22:32"
+  },
+  {
+    "name": "31_239_Datacraft_IF.zip",
+    "href": "31_239_Datacraft_IF.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/floatingPointSystems/AP-120B/AP-120B_Schematics/31_239_Datacraft_IF.zip",
+    "is_dir": false,
+    "size": "7.6 MiB",
+    "date": "17-Jul-2025 22:32"
+  },
+  {
+    "name": "32_244_Main_Data.zip",
+    "href": "32_244_Main_Data.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/floatingPointSystems/AP-120B/AP-120B_Schematics/32_244_Main_Data.zip",
+    "is_dir": false,
+    "size": "15.1 MiB",
+    "date": "17-Jul-2025 22:32"
+  },
+  {
+    "name": "33_254_MCP_IF.zip",
+    "href": "33_254_MCP_IF.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/floatingPointSystems/AP-120B/AP-120B_Schematics/33_254_MCP_IF.zip",
+    "is_dir": false,
+    "size": "27.0 MiB",
+    "date": "17-Jul-2025 22:33"
+  },
+  {
+    "name": "860-7308-000_FPS_Maintenance_II_Abstract_Manual.pdf",
+    "href": "860-7308-000_FPS_Maintenance_II_Abstract_Manual.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/floatingPointSystems/AP-120B/AP-120B_Schematics/860-7308-000_FPS_Maintenance_II_Abstract_Manual.pdf",
+    "is_dir": false,
+    "size": "2.2 MiB",
+    "date": "18-Jul-2025 01:49"
+  }
+]

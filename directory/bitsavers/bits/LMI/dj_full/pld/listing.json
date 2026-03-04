@@ -1,0 +1,266 @@
+[
+  {
+    "name": "network",
+    "href": "network/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/pld/network/",
+    "is_dir": true,
+    "size": null,
+    "date": "21-Apr-2017 01:39"
+  },
+  {
+    "name": "angel-bug.log.2",
+    "href": "angel-bug.log.2",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/pld/angel-bug.log.2",
+    "is_dir": false,
+    "size": "1.6 KiB",
+    "date": "21-Apr-2017 01:06"
+  },
+  {
+    "name": "bobhack.lisp.1",
+    "href": "bobhack.lisp.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/pld/bobhack.lisp.1",
+    "is_dir": false,
+    "size": "876 B",
+    "date": "21-Apr-2017 01:06"
+  },
+  {
+    "name": "bobhack.lisp.2",
+    "href": "bobhack.lisp.2",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/pld/bobhack.lisp.2",
+    "is_dir": false,
+    "size": "875 B",
+    "date": "21-Apr-2017 01:06"
+  },
+  {
+    "name": "broken-grind.lisp.1",
+    "href": "broken-grind.lisp.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/pld/broken-grind.lisp.1",
+    "is_dir": false,
+    "size": "40.0 KiB",
+    "date": "21-Apr-2017 01:06"
+  },
+  {
+    "name": "compiler-bug.lisp.1",
+    "href": "compiler-bug.lisp.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/pld/compiler-bug.lisp.1",
+    "is_dir": false,
+    "size": "181 B",
+    "date": "21-Apr-2017 01:06"
+  },
+  {
+    "name": "directory-utility.lisp.1",
+    "href": "directory-utility.lisp.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/pld/directory-utility.lisp.1",
+    "is_dir": false,
+    "size": "3.0 KiB",
+    "date": "21-Apr-2017 01:06"
+  },
+  {
+    "name": "disable-page-out-words.lisp.1",
+    "href": "disable-page-out-words.lisp.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/pld/disable-page-out-words.lisp.1",
+    "is_dir": false,
+    "size": "3.0 KiB",
+    "date": "21-Apr-2017 01:06"
+  },
+  {
+    "name": "foo-file.lisp.1",
+    "href": "foo-file.lisp.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/pld/foo-file.lisp.1",
+    "is_dir": false,
+    "size": "231 B",
+    "date": "21-Apr-2017 01:06"
+  },
+  {
+    "name": "foo.lisp.1",
+    "href": "foo.lisp.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/pld/foo.lisp.1",
+    "is_dir": false,
+    "size": "1.9 KiB",
+    "date": "21-Apr-2017 01:06"
+  },
+  {
+    "name": "foo.text.2",
+    "href": "foo.text.2",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/pld/foo.text.2",
+    "is_dir": false,
+    "size": "2.3 KiB",
+    "date": "21-Apr-2017 01:06"
+  },
+  {
+    "name": "ftp-whostates.text.1",
+    "href": "ftp-whostates.text.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/pld/ftp-whostates.text.1",
+    "is_dir": false,
+    "size": "1.0 KiB",
+    "date": "21-Apr-2017 01:06"
+  },
+  {
+    "name": "grind-cruft.lisp.1",
+    "href": "grind-cruft.lisp.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/pld/grind-cruft.lisp.1",
+    "is_dir": false,
+    "size": "2.1 KiB",
+    "date": "21-Apr-2017 01:06"
+  },
+  {
+    "name": "lad-lispm.init.41",
+    "href": "lad-lispm.init.41",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/pld/lad-lispm.init.41",
+    "is_dir": false,
+    "size": "5.1 KiB",
+    "date": "21-Apr-2017 01:06"
+  },
+  {
+    "name": "lambda-diag-cwarns.lisp.1",
+    "href": "lambda-diag-cwarns.lisp.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/pld/lambda-diag-cwarns.lisp.1",
+    "is_dir": false,
+    "size": "33.5 KiB",
+    "date": "21-Apr-2017 01:06"
+  },
+  {
+    "name": "lambda-diag-cwarns.lisp.2",
+    "href": "lambda-diag-cwarns.lisp.2",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/pld/lambda-diag-cwarns.lisp.2",
+    "is_dir": false,
+    "size": "16.7 KiB",
+    "date": "21-Apr-2017 01:06"
+  },
+  {
+    "name": "lispm.init.1",
+    "href": "lispm.init.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/pld/lispm.init.1",
+    "is_dir": false,
+    "size": "4.5 KiB",
+    "date": "21-Apr-2017 01:06"
+  },
+  {
+    "name": "lispm.init.3",
+    "href": "lispm.init.3",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/pld/lispm.init.3",
+    "is_dir": false,
+    "size": "4.7 KiB",
+    "date": "21-Apr-2017 01:06"
+  },
+  {
+    "name": "lispm.init.4",
+    "href": "lispm.init.4",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/pld/lispm.init.4",
+    "is_dir": false,
+    "size": "4.5 KiB",
+    "date": "21-Apr-2017 01:06"
+  },
+  {
+    "name": "lispm.init.5",
+    "href": "lispm.init.5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/pld/lispm.init.5",
+    "is_dir": false,
+    "size": "4.5 KiB",
+    "date": "21-Apr-2017 01:06"
+  },
+  {
+    "name": "lispm.init.6",
+    "href": "lispm.init.6",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/pld/lispm.init.6",
+    "is_dir": false,
+    "size": "4.5 KiB",
+    "date": "21-Apr-2017 01:06"
+  },
+  {
+    "name": "lispm.init.7",
+    "href": "lispm.init.7",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/pld/lispm.init.7",
+    "is_dir": false,
+    "size": "4.6 KiB",
+    "date": "21-Apr-2017 01:06"
+  },
+  {
+    "name": "print-network.lisp.1",
+    "href": "print-network.lisp.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/pld/print-network.lisp.1",
+    "is_dir": false,
+    "size": "2.7 KiB",
+    "date": "21-Apr-2017 01:06"
+  },
+  {
+    "name": "recompile.log.1",
+    "href": "recompile.log.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/pld/recompile.log.1",
+    "is_dir": false,
+    "size": "52.8 KiB",
+    "date": "21-Apr-2017 01:06"
+  },
+  {
+    "name": "recompile.out.1",
+    "href": "recompile.out.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/pld/recompile.out.1",
+    "is_dir": false,
+    "size": "44.9 KiB",
+    "date": "21-Apr-2017 01:06"
+  },
+  {
+    "name": "recompile.out1.1",
+    "href": "recompile.out1.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/pld/recompile.out1.1",
+    "is_dir": false,
+    "size": "26.3 KiB",
+    "date": "21-Apr-2017 01:06"
+  },
+  {
+    "name": "status-june6-10.text.1",
+    "href": "status-june6-10.text.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/pld/status-june6-10.text.1",
+    "is_dir": false,
+    "size": "3.9 KiB",
+    "date": "21-Apr-2017 01:06"
+  },
+  {
+    "name": "sxhash.124.1",
+    "href": "sxhash.124.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/pld/sxhash.124.1",
+    "is_dir": false,
+    "size": "85.0 KiB",
+    "date": "21-Apr-2017 01:06"
+  },
+  {
+    "name": "tape-cwarns.lisp.1",
+    "href": "tape-cwarns.lisp.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/pld/tape-cwarns.lisp.1",
+    "is_dir": false,
+    "size": "7.6 KiB",
+    "date": "21-Apr-2017 01:06"
+  },
+  {
+    "name": "tape-patch.lisp.1",
+    "href": "tape-patch.lisp.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/pld/tape-patch.lisp.1",
+    "is_dir": false,
+    "size": "6.0 KiB",
+    "date": "21-Apr-2017 01:06"
+  },
+  {
+    "name": "tcp-stream.lisp.1",
+    "href": "tcp-stream.lisp.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/pld/tcp-stream.lisp.1",
+    "is_dir": false,
+    "size": "6.0 KiB",
+    "date": "21-Apr-2017 01:06"
+  },
+  {
+    "name": "tcp-stream.lisp.2",
+    "href": "tcp-stream.lisp.2",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/pld/tcp-stream.lisp.2",
+    "is_dir": false,
+    "size": "6.0 KiB",
+    "date": "21-Apr-2017 01:06"
+  },
+  {
+    "name": "zmail.init.1",
+    "href": "zmail.init.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/pld/zmail.init.1",
+    "is_dir": false,
+    "size": "436 B",
+    "date": "21-Apr-2017 01:06"
+  }
+]

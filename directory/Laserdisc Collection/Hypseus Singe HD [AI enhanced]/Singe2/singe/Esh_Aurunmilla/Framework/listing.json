@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Fonts",
+    "href": "Fonts/",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe%20HD%20%5BAI%20enhanced%5D/Singe2/singe/Esh_Aurunmilla/Framework/Fonts/",
+    "is_dir": true,
+    "size": null,
+    "date": "01-Dec-2025 18:02"
+  },
+  {
+    "name": "framework.singe",
+    "href": "framework.singe",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe%20HD%20%5BAI%20enhanced%5D/Singe2/singe/Esh_Aurunmilla/Framework/framework.singe",
+    "is_dir": false,
+    "size": "17.6 KiB",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "globals.singe",
+    "href": "globals.singe",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe%20HD%20%5BAI%20enhanced%5D/Singe2/singe/Esh_Aurunmilla/Framework/globals.singe",
+    "is_dir": false,
+    "size": "7.0 KiB",
+    "date": "16-Dec-2025 09:16"
+  },
+  {
+    "name": "hscore.singe",
+    "href": "hscore.singe",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe%20HD%20%5BAI%20enhanced%5D/Singe2/singe/Esh_Aurunmilla/Framework/hscore.singe",
+    "is_dir": false,
+    "size": "28.7 KiB",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "main.singe",
+    "href": "main.singe",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe%20HD%20%5BAI%20enhanced%5D/Singe2/singe/Esh_Aurunmilla/Framework/main.singe",
+    "is_dir": false,
+    "size": "147.3 KiB",
+    "date": "16-Dec-2025 09:16"
+  },
+  {
+    "name": "service.singe",
+    "href": "service.singe",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe%20HD%20%5BAI%20enhanced%5D/Singe2/singe/Esh_Aurunmilla/Framework/service.singe",
+    "is_dir": false,
+    "size": "84.7 KiB",
+    "date": "16-Dec-2025 09:16"
+  },
+  {
+    "name": "toolbox.singe",
+    "href": "toolbox.singe",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe%20HD%20%5BAI%20enhanced%5D/Singe2/singe/Esh_Aurunmilla/Framework/toolbox.singe",
+    "is_dir": false,
+    "size": "4.0 KiB",
+    "date": "04-Dec-2025 01:42"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "name": "1802",
+    "href": "1802/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/tektronix/85xx/Emulator_Processor/1802/",
+    "is_dir": true,
+    "size": null,
+    "date": "21-Jun-2025 20:22"
+  },
+  {
+    "name": "68000",
+    "href": "68000/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/tektronix/85xx/Emulator_Processor/68000/",
+    "is_dir": true,
+    "size": null,
+    "date": "06-Jul-2025 02:27"
+  },
+  {
+    "name": "80186",
+    "href": "80186/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/tektronix/85xx/Emulator_Processor/80186/",
+    "is_dir": true,
+    "size": null,
+    "date": "17-Jun-2025 00:08"
+  },
+  {
+    "name": "8048",
+    "href": "8048/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/tektronix/85xx/Emulator_Processor/8048/",
+    "is_dir": true,
+    "size": null,
+    "date": "07-Dec-2024 16:19"
+  },
+  {
+    "name": "8080_8085",
+    "href": "8080_8085/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/tektronix/85xx/Emulator_Processor/8080_8085/",
+    "is_dir": true,
+    "size": null,
+    "date": "07-Dec-2024 07:22"
+  },
+  {
+    "name": "8086_8088",
+    "href": "8086_8088/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/tektronix/85xx/Emulator_Processor/8086_8088/",
+    "is_dir": true,
+    "size": null,
+    "date": "22-Jun-2025 01:08"
+  },
+  {
+    "name": "Z80",
+    "href": "Z80/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/tektronix/85xx/Emulator_Processor/Z80/",
+    "is_dir": true,
+    "size": null,
+    "date": "25-Jul-2025 16:59"
+  },
+  {
+    "name": "160-1401-01_Comm_Opt.bin",
+    "href": "160-1401-01_Comm_Opt.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/tektronix/85xx/Emulator_Processor/160-1401-01_Comm_Opt.bin",
+    "is_dir": false,
+    "size": "8.0 KiB",
+    "date": "17-Jun-2025 00:08"
+  },
+  {
+    "name": "160-1873-00_Extd_Hex_Opt.bin",
+    "href": "160-1873-00_Extd_Hex_Opt.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/tektronix/85xx/Emulator_Processor/160-1873-00_Extd_Hex_Opt.bin",
+    "is_dir": false,
+    "size": "8.0 KiB",
+    "date": "17-Jun-2025 00:08"
+  }
+]

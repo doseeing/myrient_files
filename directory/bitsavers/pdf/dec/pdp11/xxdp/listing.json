@@ -1,0 +1,170 @@
+[
+  {
+    "name": "diag_listings",
+    "href": "diag_listings/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp11/xxdp/diag_listings/",
+    "is_dir": true,
+    "size": null,
+    "date": "19-Apr-2022 13:48"
+  },
+  {
+    "name": "fiche",
+    "href": "fiche/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp11/xxdp/fiche/",
+    "is_dir": true,
+    "size": null,
+    "date": "23-Sep-2005 07:01"
+  },
+  {
+    "name": "fiche_200dpi",
+    "href": "fiche_200dpi/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp11/xxdp/fiche_200dpi/",
+    "is_dir": true,
+    "size": null,
+    "date": "30-Jan-2023 23:36"
+  },
+  {
+    "name": "x11_listings",
+    "href": "x11_listings/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp11/xxdp/x11_listings/",
+    "is_dir": true,
+    "size": null,
+    "date": "25-Sep-2016 21:34"
+  },
+  {
+    "name": "AC-F053C-MC_X11UsrManApr82.pdf",
+    "href": "AC-F053C-MC_X11UsrManApr82.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp11/xxdp/AC-F053C-MC_X11UsrManApr82.pdf",
+    "is_dir": false,
+    "size": "5.2 MiB",
+    "date": "24-Nov-2010 03:31"
+  },
+  {
+    "name": "AC-F055D-MC_X11crossRef.pdf",
+    "href": "AC-F055D-MC_X11crossRef.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp11/xxdp/AC-F055D-MC_X11crossRef.pdf",
+    "is_dir": false,
+    "size": "2.2 MiB",
+    "date": "24-Nov-2010 03:31"
+  },
+  {
+    "name": "AC-F080A-MC_X11monLib_Sep78.pdf",
+    "href": "AC-F080A-MC_X11monLib_Sep78.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp11/xxdp/AC-F080A-MC_X11monLib_Sep78.pdf",
+    "is_dir": false,
+    "size": "42.6 MiB",
+    "date": "24-Nov-2010 03:33"
+  },
+  {
+    "name": "AC-F348E-MC_XXDP+_Users_Manual_Rev_E_Apr81.pdf",
+    "href": "AC-F348E-MC_XXDP%2B_Users_Manual_Rev_E_Apr81.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp11/xxdp/AC-F348E-MC_XXDP%2B_Users_Manual_Rev_E_Apr81.pdf",
+    "is_dir": false,
+    "size": "20.4 MiB",
+    "date": "25-Sep-2016 03:39"
+  },
+  {
+    "name": "AC-S866A-M0_CHQFSA0_XXDP+_File_Struct_Doc_Apr81.pdf",
+    "href": "AC-S866A-M0_CHQFSA0_XXDP%2B_File_Struct_Doc_Apr81.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp11/xxdp/AC-S866A-M0_CHQFSA0_XXDP%2B_File_Struct_Doc_Apr81.pdf",
+    "is_dir": false,
+    "size": "759.5 KiB",
+    "date": "25-Sep-2016 18:16"
+  },
+  {
+    "name": "AH-FG66P-MC_pdp11DiagIdx_Jun92.txt",
+    "href": "AH-FG66P-MC_pdp11DiagIdx_Jun92.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp11/xxdp/AH-FG66P-MC_pdp11DiagIdx_Jun92.txt",
+    "is_dir": false,
+    "size": "365.8 KiB",
+    "date": "05-Dec-2013 02:18"
+  },
+  {
+    "name": "EK-1014_XXDP_Programming_Card_1976.pdf",
+    "href": "EK-1014_XXDP_Programming_Card_1976.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp11/xxdp/EK-1014_XXDP_Programming_Card_1976.pdf",
+    "is_dir": false,
+    "size": "621.3 KiB",
+    "date": "01-Jan-2026 18:24"
+  },
+  {
+    "name": "EK-OXXDP-MC-001_XXDP+_Programming_Card_1981.pdf",
+    "href": "EK-OXXDP-MC-001_XXDP%2B_Programming_Card_1981.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp11/xxdp/EK-OXXDP-MC-001_XXDP%2B_Programming_Card_1981.pdf",
+    "is_dir": false,
+    "size": "846.2 KiB",
+    "date": "01-Jan-2026 18:24"
+  },
+  {
+    "name": "EL-ENDIA-11_PDP-11_Diagnostic_Design_Guide_Jan83.pdf",
+    "href": "EL-ENDIA-11_PDP-11_Diagnostic_Design_Guide_Jan83.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp11/xxdp/EL-ENDIA-11_PDP-11_Diagnostic_Design_Guide_Jan83.pdf",
+    "is_dir": false,
+    "size": "9.3 MiB",
+    "date": "26-Nov-2013 03:41"
+  },
+  {
+    "name": "Known_DEC_X11_Bugs_Feb79.pdf",
+    "href": "Known_DEC_X11_Bugs_Feb79.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp11/xxdp/Known_DEC_X11_Bugs_Feb79.pdf",
+    "is_dir": false,
+    "size": "454.8 KiB",
+    "date": "26-Nov-2013 01:05"
+  },
+  {
+    "name": "MAINDEC-11-DTSMA-B-D_MPG_Summary_Manual_Oct78.pdf",
+    "href": "MAINDEC-11-DTSMA-B-D_MPG_Summary_Manual_Oct78.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp11/xxdp/MAINDEC-11-DTSMA-B-D_MPG_Summary_Manual_Oct78.pdf",
+    "is_dir": false,
+    "size": "514.4 KiB",
+    "date": "27-Nov-2013 00:08"
+  },
+  {
+    "name": "MAINDEC-11-DXCBC-B-D_DECnet_DEC_X11_Users_Guide_Jan77.pdf",
+    "href": "MAINDEC-11-DXCBC-B-D_DECnet_DEC_X11_Users_Guide_Jan77.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp11/xxdp/MAINDEC-11-DXCBC-B-D_DECnet_DEC_X11_Users_Guide_Jan77.pdf",
+    "is_dir": false,
+    "size": "1.5 MiB",
+    "date": "26-Nov-2013 01:54"
+  },
+  {
+    "name": "MAINDEC-11-DZQAB-B-D_MAINDEC_User_Reference_Manual_Oct73.pdf",
+    "href": "MAINDEC-11-DZQAB-B-D_MAINDEC_User_Reference_Manual_Oct73.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp11/xxdp/MAINDEC-11-DZQAB-B-D_MAINDEC_User_Reference_Manual_Oct73.pdf",
+    "is_dir": false,
+    "size": "7.9 MiB",
+    "date": "26-Nov-2013 14:57"
+  },
+  {
+    "name": "MAINDEC-11-DZQXA-I-D_XXDP_User_Manual_Jul76.pdf",
+    "href": "MAINDEC-11-DZQXA-I-D_XXDP_User_Manual_Jul76.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp11/xxdp/MAINDEC-11-DZQXA-I-D_XXDP_User_Manual_Jul76.pdf",
+    "is_dir": false,
+    "size": "3.2 MiB",
+    "date": "27-Nov-2013 00:37"
+  },
+  {
+    "name": "PDP11_DiagnosticHandbook_1988.pdf",
+    "href": "PDP11_DiagnosticHandbook_1988.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp11/xxdp/PDP11_DiagnosticHandbook_1988.pdf",
+    "is_dir": false,
+    "size": "8.9 MiB",
+    "date": "24-Nov-2010 03:34"
+  },
+  {
+    "name": "Turnbull_XXDP_Feb93.pdf",
+    "href": "Turnbull_XXDP_Feb93.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp11/xxdp/Turnbull_XXDP_Feb93.pdf",
+    "is_dir": false,
+    "size": "48.9 KiB",
+    "date": "24-Nov-2010 03:34"
+  },
+  {
+    "name": "xxdp25.notes.txt",
+    "href": "xxdp25.notes.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp11/xxdp/xxdp25.notes.txt",
+    "is_dir": false,
+    "size": "18.0 KiB",
+    "date": "26-Nov-2013 19:21"
+  }
+]

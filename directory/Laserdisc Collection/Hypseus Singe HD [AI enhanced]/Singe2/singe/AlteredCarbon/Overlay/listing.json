@@ -1,0 +1,554 @@
+[
+  {
+    "name": "Lores",
+    "href": "Lores/",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe%20HD%20%5BAI%20enhanced%5D/Singe2/singe/AlteredCarbon/Overlay/Lores/",
+    "is_dir": true,
+    "size": null,
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "Minimal",
+    "href": "Minimal/",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe%20HD%20%5BAI%20enhanced%5D/Singe2/singe/AlteredCarbon/Overlay/Minimal/",
+    "is_dir": true,
+    "size": null,
+    "date": "01-Dec-2025 18:01"
+  },
+  {
+    "name": "action.png",
+    "href": "action.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe%20HD%20%5BAI%20enhanced%5D/Singe2/singe/AlteredCarbon/Overlay/action.png",
+    "is_dir": false,
+    "size": "4.7 KiB",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "arrowdl.png",
+    "href": "arrowdl.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe%20HD%20%5BAI%20enhanced%5D/Singe2/singe/AlteredCarbon/Overlay/arrowdl.png",
+    "is_dir": false,
+    "size": "5.3 KiB",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "arrowdown.png",
+    "href": "arrowdown.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe%20HD%20%5BAI%20enhanced%5D/Singe2/singe/AlteredCarbon/Overlay/arrowdown.png",
+    "is_dir": false,
+    "size": "5.0 KiB",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "arrowdr.png",
+    "href": "arrowdr.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe%20HD%20%5BAI%20enhanced%5D/Singe2/singe/AlteredCarbon/Overlay/arrowdr.png",
+    "is_dir": false,
+    "size": "5.4 KiB",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "arrowleft.png",
+    "href": "arrowleft.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe%20HD%20%5BAI%20enhanced%5D/Singe2/singe/AlteredCarbon/Overlay/arrowleft.png",
+    "is_dir": false,
+    "size": "5.0 KiB",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "arrowright.png",
+    "href": "arrowright.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe%20HD%20%5BAI%20enhanced%5D/Singe2/singe/AlteredCarbon/Overlay/arrowright.png",
+    "is_dir": false,
+    "size": "5.0 KiB",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "arrowsel.png",
+    "href": "arrowsel.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe%20HD%20%5BAI%20enhanced%5D/Singe2/singe/AlteredCarbon/Overlay/arrowsel.png",
+    "is_dir": false,
+    "size": "1.6 KiB",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "arrowsel1.png",
+    "href": "arrowsel1.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe%20HD%20%5BAI%20enhanced%5D/Singe2/singe/AlteredCarbon/Overlay/arrowsel1.png",
+    "is_dir": false,
+    "size": "1.5 KiB",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "arrowsel2.png",
+    "href": "arrowsel2.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe%20HD%20%5BAI%20enhanced%5D/Singe2/singe/AlteredCarbon/Overlay/arrowsel2.png",
+    "is_dir": false,
+    "size": "1.8 KiB",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "arrowul.png",
+    "href": "arrowul.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe%20HD%20%5BAI%20enhanced%5D/Singe2/singe/AlteredCarbon/Overlay/arrowul.png",
+    "is_dir": false,
+    "size": "5.5 KiB",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "arrowup.png",
+    "href": "arrowup.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe%20HD%20%5BAI%20enhanced%5D/Singe2/singe/AlteredCarbon/Overlay/arrowup.png",
+    "is_dir": false,
+    "size": "5.0 KiB",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "arrowur.png",
+    "href": "arrowur.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe%20HD%20%5BAI%20enhanced%5D/Singe2/singe/AlteredCarbon/Overlay/arrowur.png",
+    "is_dir": false,
+    "size": "5.5 KiB",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "barfull.png",
+    "href": "barfull.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe%20HD%20%5BAI%20enhanced%5D/Singe2/singe/AlteredCarbon/Overlay/barfull.png",
+    "is_dir": false,
+    "size": "1.4 KiB",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "barnone.png",
+    "href": "barnone.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe%20HD%20%5BAI%20enhanced%5D/Singe2/singe/AlteredCarbon/Overlay/barnone.png",
+    "is_dir": false,
+    "size": "1.4 KiB",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "bonus.png",
+    "href": "bonus.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe%20HD%20%5BAI%20enhanced%5D/Singe2/singe/AlteredCarbon/Overlay/bonus.png",
+    "is_dir": false,
+    "size": "3.0 KiB",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "buttons.png",
+    "href": "buttons.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe%20HD%20%5BAI%20enhanced%5D/Singe2/singe/AlteredCarbon/Overlay/buttons.png",
+    "is_dir": false,
+    "size": "6.1 KiB",
+    "date": "01-Dec-2025 18:01"
+  },
+  {
+    "name": "credit.png",
+    "href": "credit.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe%20HD%20%5BAI%20enhanced%5D/Singe2/singe/AlteredCarbon/Overlay/credit.png",
+    "is_dir": false,
+    "size": "3.1 KiB",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "death.png",
+    "href": "death.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe%20HD%20%5BAI%20enhanced%5D/Singe2/singe/AlteredCarbon/Overlay/death.png",
+    "is_dir": false,
+    "size": "4.7 KiB",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "disk1.png",
+    "href": "disk1.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe%20HD%20%5BAI%20enhanced%5D/Singe2/singe/AlteredCarbon/Overlay/disk1.png",
+    "is_dir": false,
+    "size": "1.5 KiB",
+    "date": "01-Dec-2025 18:01"
+  },
+  {
+    "name": "disk2.png",
+    "href": "disk2.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe%20HD%20%5BAI%20enhanced%5D/Singe2/singe/AlteredCarbon/Overlay/disk2.png",
+    "is_dir": false,
+    "size": "1.5 KiB",
+    "date": "01-Dec-2025 18:01"
+  },
+  {
+    "name": "disk3.png",
+    "href": "disk3.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe%20HD%20%5BAI%20enhanced%5D/Singe2/singe/AlteredCarbon/Overlay/disk3.png",
+    "is_dir": false,
+    "size": "1.5 KiB",
+    "date": "01-Dec-2025 18:01"
+  },
+  {
+    "name": "diskA.png",
+    "href": "diskA.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe%20HD%20%5BAI%20enhanced%5D/Singe2/singe/AlteredCarbon/Overlay/diskA.png",
+    "is_dir": false,
+    "size": "1.4 KiB",
+    "date": "01-Dec-2025 18:01"
+  },
+  {
+    "name": "freeplay.png",
+    "href": "freeplay.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe%20HD%20%5BAI%20enhanced%5D/Singe2/singe/AlteredCarbon/Overlay/freeplay.png",
+    "is_dir": false,
+    "size": "3.8 KiB",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "getready.png",
+    "href": "getready.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe%20HD%20%5BAI%20enhanced%5D/Singe2/singe/AlteredCarbon/Overlay/getready.png",
+    "is_dir": false,
+    "size": "5.4 KiB",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "hdown.png",
+    "href": "hdown.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe%20HD%20%5BAI%20enhanced%5D/Singe2/singe/AlteredCarbon/Overlay/hdown.png",
+    "is_dir": false,
+    "size": "4.2 KiB",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "hleft.png",
+    "href": "hleft.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe%20HD%20%5BAI%20enhanced%5D/Singe2/singe/AlteredCarbon/Overlay/hleft.png",
+    "is_dir": false,
+    "size": "4.2 KiB",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "hold.png",
+    "href": "hold.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe%20HD%20%5BAI%20enhanced%5D/Singe2/singe/AlteredCarbon/Overlay/hold.png",
+    "is_dir": false,
+    "size": "4.0 KiB",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "hright.png",
+    "href": "hright.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe%20HD%20%5BAI%20enhanced%5D/Singe2/singe/AlteredCarbon/Overlay/hright.png",
+    "is_dir": false,
+    "size": "4.2 KiB",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "hup.png",
+    "href": "hup.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe%20HD%20%5BAI%20enhanced%5D/Singe2/singe/AlteredCarbon/Overlay/hup.png",
+    "is_dir": false,
+    "size": "3.3 KiB",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "insertcoin.png",
+    "href": "insertcoin.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe%20HD%20%5BAI%20enhanced%5D/Singe2/singe/AlteredCarbon/Overlay/insertcoin.png",
+    "is_dir": false,
+    "size": "4.6 KiB",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "level.png",
+    "href": "level.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe%20HD%20%5BAI%20enhanced%5D/Singe2/singe/AlteredCarbon/Overlay/level.png",
+    "is_dir": false,
+    "size": "2.5 KiB",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "live.png",
+    "href": "live.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe%20HD%20%5BAI%20enhanced%5D/Singe2/singe/AlteredCarbon/Overlay/live.png",
+    "is_dir": false,
+    "size": "4.2 KiB",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "m0.png",
+    "href": "m0.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe%20HD%20%5BAI%20enhanced%5D/Singe2/singe/AlteredCarbon/Overlay/m0.png",
+    "is_dir": false,
+    "size": "4.4 KiB",
+    "date": "01-Dec-2025 18:01"
+  },
+  {
+    "name": "m1.png",
+    "href": "m1.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe%20HD%20%5BAI%20enhanced%5D/Singe2/singe/AlteredCarbon/Overlay/m1.png",
+    "is_dir": false,
+    "size": "6.1 KiB",
+    "date": "01-Dec-2025 18:01"
+  },
+  {
+    "name": "m2.png",
+    "href": "m2.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe%20HD%20%5BAI%20enhanced%5D/Singe2/singe/AlteredCarbon/Overlay/m2.png",
+    "is_dir": false,
+    "size": "5.8 KiB",
+    "date": "01-Dec-2025 18:01"
+  },
+  {
+    "name": "m3.png",
+    "href": "m3.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe%20HD%20%5BAI%20enhanced%5D/Singe2/singe/AlteredCarbon/Overlay/m3.png",
+    "is_dir": false,
+    "size": "5.5 KiB",
+    "date": "01-Dec-2025 18:01"
+  },
+  {
+    "name": "m4.png",
+    "href": "m4.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe%20HD%20%5BAI%20enhanced%5D/Singe2/singe/AlteredCarbon/Overlay/m4.png",
+    "is_dir": false,
+    "size": "5.3 KiB",
+    "date": "01-Dec-2025 18:01"
+  },
+  {
+    "name": "m5.png",
+    "href": "m5.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe%20HD%20%5BAI%20enhanced%5D/Singe2/singe/AlteredCarbon/Overlay/m5.png",
+    "is_dir": false,
+    "size": "5.1 KiB",
+    "date": "01-Dec-2025 18:01"
+  },
+  {
+    "name": "m6.png",
+    "href": "m6.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe%20HD%20%5BAI%20enhanced%5D/Singe2/singe/AlteredCarbon/Overlay/m6.png",
+    "is_dir": false,
+    "size": "4.8 KiB",
+    "date": "01-Dec-2025 18:01"
+  },
+  {
+    "name": "m7.png",
+    "href": "m7.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe%20HD%20%5BAI%20enhanced%5D/Singe2/singe/AlteredCarbon/Overlay/m7.png",
+    "is_dir": false,
+    "size": "4.6 KiB",
+    "date": "01-Dec-2025 18:01"
+  },
+  {
+    "name": "mash.png",
+    "href": "mash.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe%20HD%20%5BAI%20enhanced%5D/Singe2/singe/AlteredCarbon/Overlay/mash.png",
+    "is_dir": false,
+    "size": "4.5 KiB",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "mfull.png",
+    "href": "mfull.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe%20HD%20%5BAI%20enhanced%5D/Singe2/singe/AlteredCarbon/Overlay/mfull.png",
+    "is_dir": false,
+    "size": "5.0 KiB",
+    "date": "01-Dec-2025 18:01"
+  },
+  {
+    "name": "minus.png",
+    "href": "minus.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe%20HD%20%5BAI%20enhanced%5D/Singe2/singe/AlteredCarbon/Overlay/minus.png",
+    "is_dir": false,
+    "size": "390 B",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "nomoves.png",
+    "href": "nomoves.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe%20HD%20%5BAI%20enhanced%5D/Singe2/singe/AlteredCarbon/Overlay/nomoves.png",
+    "is_dir": false,
+    "size": "3.1 KiB",
+    "date": "01-Dec-2025 18:01"
+  },
+  {
+    "name": "num00.png",
+    "href": "num00.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe%20HD%20%5BAI%20enhanced%5D/Singe2/singe/AlteredCarbon/Overlay/num00.png",
+    "is_dir": false,
+    "size": "957 B",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "num01.png",
+    "href": "num01.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe%20HD%20%5BAI%20enhanced%5D/Singe2/singe/AlteredCarbon/Overlay/num01.png",
+    "is_dir": false,
+    "size": "636 B",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "num02.png",
+    "href": "num02.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe%20HD%20%5BAI%20enhanced%5D/Singe2/singe/AlteredCarbon/Overlay/num02.png",
+    "is_dir": false,
+    "size": "893 B",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "num03.png",
+    "href": "num03.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe%20HD%20%5BAI%20enhanced%5D/Singe2/singe/AlteredCarbon/Overlay/num03.png",
+    "is_dir": false,
+    "size": "963 B",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "num04.png",
+    "href": "num04.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe%20HD%20%5BAI%20enhanced%5D/Singe2/singe/AlteredCarbon/Overlay/num04.png",
+    "is_dir": false,
+    "size": "814 B",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "num05.png",
+    "href": "num05.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe%20HD%20%5BAI%20enhanced%5D/Singe2/singe/AlteredCarbon/Overlay/num05.png",
+    "is_dir": false,
+    "size": "910 B",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "num06.png",
+    "href": "num06.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe%20HD%20%5BAI%20enhanced%5D/Singe2/singe/AlteredCarbon/Overlay/num06.png",
+    "is_dir": false,
+    "size": "922 B",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "num07.png",
+    "href": "num07.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe%20HD%20%5BAI%20enhanced%5D/Singe2/singe/AlteredCarbon/Overlay/num07.png",
+    "is_dir": false,
+    "size": "649 B",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "num08.png",
+    "href": "num08.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe%20HD%20%5BAI%20enhanced%5D/Singe2/singe/AlteredCarbon/Overlay/num08.png",
+    "is_dir": false,
+    "size": "1001 B",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "num09.png",
+    "href": "num09.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe%20HD%20%5BAI%20enhanced%5D/Singe2/singe/AlteredCarbon/Overlay/num09.png",
+    "is_dir": false,
+    "size": "946 B",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "perfect.png",
+    "href": "perfect.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe%20HD%20%5BAI%20enhanced%5D/Singe2/singe/AlteredCarbon/Overlay/perfect.png",
+    "is_dir": false,
+    "size": "3.4 KiB",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "scene.png",
+    "href": "scene.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe%20HD%20%5BAI%20enhanced%5D/Singe2/singe/AlteredCarbon/Overlay/scene.png",
+    "is_dir": false,
+    "size": "2.7 KiB",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "score.png",
+    "href": "score.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe%20HD%20%5BAI%20enhanced%5D/Singe2/singe/AlteredCarbon/Overlay/score.png",
+    "is_dir": false,
+    "size": "2.9 KiB",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "skip.png",
+    "href": "skip.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe%20HD%20%5BAI%20enhanced%5D/Singe2/singe/AlteredCarbon/Overlay/skip.png",
+    "is_dir": false,
+    "size": "3.0 KiB",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "special.png",
+    "href": "special.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe%20HD%20%5BAI%20enhanced%5D/Singe2/singe/AlteredCarbon/Overlay/special.png",
+    "is_dir": false,
+    "size": "6.3 KiB",
+    "date": "01-Dec-2025 18:01"
+  },
+  {
+    "name": "stick.png",
+    "href": "stick.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe%20HD%20%5BAI%20enhanced%5D/Singe2/singe/AlteredCarbon/Overlay/stick.png",
+    "is_dir": false,
+    "size": "5.0 KiB",
+    "date": "01-Dec-2025 18:01"
+  },
+  {
+    "name": "tbronze.png",
+    "href": "tbronze.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe%20HD%20%5BAI%20enhanced%5D/Singe2/singe/AlteredCarbon/Overlay/tbronze.png",
+    "is_dir": false,
+    "size": "4.7 KiB",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "tgold.png",
+    "href": "tgold.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe%20HD%20%5BAI%20enhanced%5D/Singe2/singe/AlteredCarbon/Overlay/tgold.png",
+    "is_dir": false,
+    "size": "4.8 KiB",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "tno.png",
+    "href": "tno.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe%20HD%20%5BAI%20enhanced%5D/Singe2/singe/AlteredCarbon/Overlay/tno.png",
+    "is_dir": false,
+    "size": "998 B",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "topscore.png",
+    "href": "topscore.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe%20HD%20%5BAI%20enhanced%5D/Singe2/singe/AlteredCarbon/Overlay/topscore.png",
+    "is_dir": false,
+    "size": "1.4 KiB",
+    "date": "01-Dec-2025 18:01"
+  },
+  {
+    "name": "total.png",
+    "href": "total.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe%20HD%20%5BAI%20enhanced%5D/Singe2/singe/AlteredCarbon/Overlay/total.png",
+    "is_dir": false,
+    "size": "2.7 KiB",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "tplat.png",
+    "href": "tplat.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe%20HD%20%5BAI%20enhanced%5D/Singe2/singe/AlteredCarbon/Overlay/tplat.png",
+    "is_dir": false,
+    "size": "5.3 KiB",
+    "date": "04-Dec-2025 01:42"
+  },
+  {
+    "name": "tsilver.png",
+    "href": "tsilver.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Hypseus%20Singe%20HD%20%5BAI%20enhanced%5D/Singe2/singe/AlteredCarbon/Overlay/tsilver.png",
+    "is_dir": false,
+    "size": "5.0 KiB",
+    "date": "04-Dec-2025 01:42"
+  }
+]

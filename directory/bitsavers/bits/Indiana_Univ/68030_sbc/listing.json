@@ -1,0 +1,26 @@
+[
+  {
+    "name": "pictures",
+    "href": "pictures/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Indiana_Univ/68030_sbc/pictures/",
+    "is_dir": true,
+    "size": null,
+    "date": "02-Jan-2026 14:44"
+  },
+  {
+    "name": "030_board_description.txt",
+    "href": "030_board_description.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Indiana_Univ/68030_sbc/030_board_description.txt",
+    "is_dir": false,
+    "size": "1.9 KiB",
+    "date": "23-Nov-2009 18:28"
+  },
+  {
+    "name": "Indiana_Univ_68030_board.tar.gz",
+    "href": "Indiana_Univ_68030_board.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Indiana_Univ/68030_sbc/Indiana_Univ_68030_board.tar.gz",
+    "is_dir": false,
+    "size": "2.5 MiB",
+    "date": "23-Nov-2009 18:30"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "name": "firmware",
+    "href": "firmware/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/informer/Informer_207/Info100_for_logic_board_60318_15dec84_2.00/firmware/",
+    "is_dir": true,
+    "size": null,
+    "date": "05-Sep-2020 18:40"
+  },
+  {
+    "name": "PCB_B.jpg",
+    "href": "PCB_B.jpg",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/informer/Informer_207/Info100_for_logic_board_60318_15dec84_2.00/PCB_B.jpg",
+    "is_dir": false,
+    "size": "1.7 MiB",
+    "date": "05-Sep-2020 18:40"
+  },
+  {
+    "name": "PCB_T.jpg",
+    "href": "PCB_T.jpg",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/informer/Informer_207/Info100_for_logic_board_60318_15dec84_2.00/PCB_T.jpg",
+    "is_dir": false,
+    "size": "1.7 MiB",
+    "date": "05-Sep-2020 18:40"
+  }
+]

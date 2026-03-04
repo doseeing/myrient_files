@@ -1,0 +1,70 @@
+name	is_dir	size	date
+DFHSM	True	-	17-Nov-2019 03:07
+DFP	True	-	04-May-2022 02:50
+DFSORT	True	-	08-Nov-2019 02:46
+RMF	True	-	13-Nov-2019 18:42
+SMF	True	-	09-Aug-2021 18:44
+GC26-4147-2_MVS-XA_DFP_Version_2_Planning_Guide_5665-XA2_3rd_Ed._198706.pdf	False	4.6 MiB	13-Jul-2021 16:58
+GC28-1027-5_Input-Output_Configuration_Program_Users_Guide_and_Reference_6th_ed._198510.pdf	False	6.0 MiB	13-Jul-2021 16:57
+GC28-1143-2_MVS-XA_Conversion_Notebook_May84.pdf	False	10.2 MiB	11-Jun-2012 16:21
+GC28-1143-6_MVS_XA_Conversion_Notebook_Volume_1_Jun1987.pdf	False	19.7 MiB	29-Oct-2019 23:50
+GC28-1143-7_MVS_XA_Conversion_Notebook_Volume_1_Sep1989.pdf	False	19.4 MiB	29-Oct-2019 23:50
+GC28-1147-3_MVS_XA_System_Programming_Library_User_Exits_Jun1987.pdf	False	6.4 MiB	30-Oct-2019 04:06
+GC28-1150-3_MVS-XA_System_Macros_and_Facilities_Volume_1_Jun87.pdf	False	18.5 MiB	11-Jun-2012 16:21
+GC28-1150-4_MVS_XA_System_Programming_Library_System_Macros_and_Facilities_Volume_1_Sep1989.pdf	False	30.1 MiB	30-Oct-2019 04:01
+GC28-1151-4_MVS-XA_System_Macros_and_Facilities_Volume_2_Jun87.pdf	False	19.7 MiB	12-Jun-2012 16:40
+GC28-1151-5_MVS_XA_System_Programming_Library_System_Macros_and_Facilities_Volume_2_Sep1989.pdf	False	34.2 MiB	31-Oct-2019 22:52
+GC28-1152-2_MVS-XA_SPL_System_Modifications_3rd_ed_198703.pdf	False	5.9 MiB	13-Jul-2021 16:56
+GC28-1154-2_MVS-XA_Supervisor_Services_and_Macro_Instructions_Dec85.pdf	False	15.3 MiB	11-Jun-2012 16:22
+GC28-1154-3_MVS-XA_Supervisor_Services_and_Macro_Instructions_Jun87.pdf	False	16.5 MiB	08-Jun-2012 01:26
+GC28-1154-4_MVS_XA_Supervisor_Services_and_Macro_Instructions_Sep1989.pdf	False	24.6 MiB	30-Oct-2019 03:51
+GC28-1157-5_MVS_XA_Message_Library_System_Codes_Jun1987.pdf	False	25.5 MiB	30-Oct-2019 03:51
+GC28-1158-1_MVS-XA_System_Programming_31-Bit_Addressing_Jan84.pdf	False	2.7 MiB	11-Jun-2012 16:22
+GC28-1160-4_MVS_XA_Planning_Recovery_and_Reconfiguration_Jun1987.pdf	False	8.0 MiB	30-Oct-2019 03:51
+GC28-1162-2_MVS_XA_System_Programming_Library_SYS1.LOGREC_Error_Recording_Jun1987.pdf	False	4.8 MiB	30-Oct-2019 03:51
+GC28-1173-01_MVS_XA_System_Programming_Library_TSO_Nov1985.pdf	False	8.5 MiB	31-Oct-2019 22:52
+GC28-1194-5_MVS_XA_Message_Library_Routing_and_Descriptor_Codes_Jun1987.pdf	False	4.7 MiB	30-Oct-2019 03:51
+GC28-1206-5_MVS-XA_Operations_-_System_Commands_6th_ed_198706.pdf	False	9.4 MiB	27-Oct-2021 12:11
+GC28-1295-0_MVS_XA_TSO_Guide_to_Writing_a_Terminal_Monitor_Program_or_a_Command_Processor_1st_ed_198301.pdf	False	5.4 MiB	22-Sep-2021 23:40
+GC28-1335-0_MVS-XA_MVS_Configuration_Program_Guide_and_Reference_1st_ed_198703.pdf	False	6.3 MiB	13-Jul-2021 16:54
+GC28-1336-0_MVS_XA_Message_Library_Dump_Output_Messages_Jun1987.pdf	False	15.3 MiB	30-Oct-2019 03:51
+GC28-1348-0_MVS_Extended_Architecture_Overview_198403.pdf	False	4.7 MiB	30-May-2021 20:54
+GC28-1351-0_MVS-XA_JCL_Users_Guide_May85.pdf	False	9.6 MiB	11-Jun-2012 16:22
+GC28-1351-3_MVS-XA_JCL_Users_Guide_198706.pdf	False	2.8 MiB	17-Sep-2024 15:49
+GC28-1352-0_MVS-XA_JCL_Reference_Jul85.pdf	False	19.6 MiB	11-Jun-2012 16:23
+GC28-1352-1_MVS-XA_JCL_Reference_Dec85.pdf	False	23.6 MiB	11-Jun-2012 21:43
+GC28-1352-3_MVS_XA_JCL_Reference_Jun1987.pdf	False	34.0 MiB	30-Oct-2019 03:51
+GC28-1352-4_MVS-XA_JCL_Reference_198909.pdf	False	13.0 MiB	17-Sep-2024 15:49
+GC28-1376-5_MVS_XA_Message_Library_System_Messages_Volume_1_ADY-IEB_Jun1987.pdf	False	54.2 MiB	30-Oct-2019 21:16
+GC28-1376-6_MVS_XA_Message_Library_System_Messages_Volume_1_ADY-IEB_Jan1989.pdf	False	58.3 MiB	30-Oct-2019 21:16
+GC28-1376-7_MVS_XA_Message_Library_System_Messages_Volume_1_ADY-IEB_Sep1989.pdf	False	56.5 MiB	31-Oct-2019 22:53
+GC28-1377-5_MVS_XA_Message_Library_System_Messages_Volume_2_IEC-ITV_Jun1987.pdf	False	62.8 MiB	30-Oct-2019 21:16
+GC28-1377-6_MVS_XA_Message_Library_System_Messages_Volume_2_IEC-ITV_Mar1989.pdf	False	63.7 MiB	30-Oct-2019 21:16
+LC23-0067-3_System_Programming_Library_JES2_User_Modifications_and_Macros_Feb1987.pdf	False	22.6 MiB	11-Nov-2019 21:07
+LC28-1167-5_MVS_XA_Debugging_Handbook_Volume_4_Data_Areas_J-Q_Jun1987.pdf	False	19.5 MiB	30-Oct-2019 21:16
+LY26-3895-0_MVS_XA_CVOL_Processor_Logic_1st_ed_198301.pdf	False	5.6 MiB	27-Oct-2021 12:10
+LY26-3901-1_MVS_XA_Version_1_Release_1.2_Loader_Logic_Jan1987.pdf	False	6.4 MiB	10-Nov-2019 01:03
+LY26-3907-1_MVS-XA_VSAM_Logic_2nd_ed_198512.pdf	False	17.6 MiB	27-Oct-2021 12:10
+LY26-3957-0_MVS_Extended_Architecture_SAM_Logic_1st_ed_198504.pdf	False	8.5 MiB	27-Oct-2021 12:10
+LY28-1187-0_MVS_XA_SYS1.LOGREC_Error_Recording_Logic_1st_ed_198301.pdf	False	1.8 MiB	27-Oct-2021 12:10
+LY28-1189-2_MVS-XA_Service_Aids_Logic_3rd_ed_198507.pdf	False	8.6 MiB	13-Jul-2021 16:53
+LY28-1189-3_MVS-XA_Service_Aids_Logic_198606.pdf	False	8.7 MiB	25-Aug-2025 01:36
+LY28-1199-4_MVS_XA_Diagnostic_Techniques_Jun1987.pdf	False	30.7 MiB	31-Oct-2019 22:52
+LY28-1200-4_MVS-XA_System_Initialization_Logic_JES3_(5665-291)_JES2_(5740-XC6)_5th_ed_198706.pdf	False	14.7 MiB	13-Jul-2021 16:51
+LY28-1298-2_MVS-XA_Interactive_Problem_Control_System_Logic_and_Diagnosis_198606.pdf	False	14.4 MiB	24-Aug-2025 23:42
+LY28-1670-1_MVS_XA_Version_2_Release_2.0_System_Logic_Library_Dumping_Services_Sep1989.pdf	False	7.9 MiB	12-Nov-2019 03:37
+LY28-1685-0_MVS_XA_Version_2_Release_2.0_System_Logic_Library_EXCP_Processor_Jun1987.pdf	False	6.8 MiB	12-Nov-2019 18:51
+LY28-1690-0_MVS_XA_Version_2_Release_2.0_System_Logic_Library_Functional_Subsystem_Interface_Jun1987.pdf	False	1.3 MiB	12-Nov-2019 18:51
+LY28-1695-0_MVS_XA_Version_2_Release_2.0_System_Logic_Libarary_Global_Resource_Serialization_Jun1987.pdf	False	15.7 MiB	12-Nov-2019 18:51
+LY28-1735-0_MVS_XA_Version_2_Release_2.0_System_Logic_Library_Recovery_Termination_Management_Jun1987.pdf	False	19.8 MiB	12-Nov-2019 02:02
+LY28-1740-1_MVS_XA_System_Logic_Library_Scheduler_JCL_Facility_Sep1989.pdf	False	7.6 MiB	11-Nov-2019 23:01
+LY28-1745-1_MVS_XA_System_Logic_Library_Scheduler_Restart_Sep1989.pdf	False	5.8 MiB	11-Nov-2019 15:31
+LY28-1760-0_MVS-XA_System_Logic_Library_-_System_Resource_Manager_1st_ed_198706.pdf	False	7.4 MiB	13-Jul-2021 16:48
+LY28-1765-0_MVS_XA_Version_2_Release_2.0_System_Logic_Library_Supervisor_Control_Jun1987.pdf	False	14.1 MiB	11-Nov-2019 17:21
+LY28-3894-0_MVS_Extended_Architecture_ISAM_Logic_198301.pdf	False	7.6 MiB	29-May-2021 13:43
+SA22-7092-0_IBM_Assists_for_MVS-XA_Mar83.pdf	False	1.0 MiB	11-Sep-2009 21:50
+SA22-7095-0_370-XA_Interpretive_Execution_Jan84.pdf	False	1.7 MiB	20-Apr-2015 14:30
+SA22-7095-1_System_370-XA_Interpretive_Execution_2nd_ed_198509.pdf	False	1.4 MiB	07-Dec-2021 06:19
+SC23-0059-5_MVS_XA_System_Programming_Library_JES3_Initialization_and_Tuning_Dec1987.pdf	False	51.4 MiB	29-Oct-2019 23:50
+SC28-1136-4_TSO-E_Guide_to_Writing_a_Terminal_Monitor_Program_or_Command_Processor_198609.pdf	False	11.5 MiB	18-Jul-2024 16:41
+ZZ10-5049-00_MVS_XA_DASD_Confguration_Guidlines_Jun1984.pdf	False	6.0 MiB	29-Oct-2019 23:50

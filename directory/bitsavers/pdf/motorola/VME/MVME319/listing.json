@@ -1,0 +1,34 @@
+[
+  {
+    "name": "firmware",
+    "href": "firmware/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/motorola/VME/MVME319/firmware/",
+    "is_dir": true,
+    "size": null,
+    "date": "15-Feb-2025 22:29"
+  },
+  {
+    "name": "pictures",
+    "href": "pictures/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/motorola/VME/MVME319/pictures/",
+    "is_dir": true,
+    "size": null,
+    "date": "15-Feb-2025 02:04"
+  },
+  {
+    "name": "MVME-319_D1_Intelligent_Disk_Tape_Controller_Users_Manual_198504.pdf",
+    "href": "MVME-319_D1_Intelligent_Disk_Tape_Controller_Users_Manual_198504.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/motorola/VME/MVME319/MVME-319_D1_Intelligent_Disk_Tape_Controller_Users_Manual_198504.pdf",
+    "is_dir": false,
+    "size": "10.8 MiB",
+    "date": "12-Feb-2025 13:36"
+  },
+  {
+    "name": "MVME-319_D2_Intelligent_Disk_Tape_Controller_Users_Manual_198807.pdf",
+    "href": "MVME-319_D2_Intelligent_Disk_Tape_Controller_Users_Manual_198807.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/motorola/VME/MVME319/MVME-319_D2_Intelligent_Disk_Tape_Controller_Users_Manual_198807.pdf",
+    "is_dir": false,
+    "size": "7.8 MiB",
+    "date": "11-Feb-2025 20:16"
+  }
+]

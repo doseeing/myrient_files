@@ -1,0 +1,42 @@
+[
+  {
+    "name": "firmware",
+    "href": "firmware/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/osborne/vixen/firmware/",
+    "is_dir": true,
+    "size": null,
+    "date": "24-Dec-2010 18:15"
+  },
+  {
+    "name": "photos",
+    "href": "photos/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/osborne/vixen/photos/",
+    "is_dir": true,
+    "size": null,
+    "date": "24-Dec-2010 18:15"
+  },
+  {
+    "name": "Osborne_Vixen_Engr_Drawings_Mar83.pdf",
+    "href": "Osborne_Vixen_Engr_Drawings_Mar83.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/osborne/vixen/Osborne_Vixen_Engr_Drawings_Mar83.pdf",
+    "is_dir": false,
+    "size": "5.9 MiB",
+    "date": "02-May-2008 18:45"
+  },
+  {
+    "name": "Vixen_Brochure.pdf",
+    "href": "Vixen_Brochure.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/osborne/vixen/Vixen_Brochure.pdf",
+    "is_dir": false,
+    "size": "2.9 MiB",
+    "date": "25-Dec-2010 05:30"
+  },
+  {
+    "name": "Vixen_Schem.pdf",
+    "href": "Vixen_Schem.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/osborne/vixen/Vixen_Schem.pdf",
+    "is_dir": false,
+    "size": "20.0 MiB",
+    "date": "21-Nov-2018 16:13"
+  }
+]

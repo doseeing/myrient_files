@@ -1,0 +1,130 @@
+[
+  {
+    "name": "firmware",
+    "href": "firmware/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/apple/disk/nisha/firmware/",
+    "is_dir": true,
+    "size": null,
+    "date": "10-Oct-2013 02:30"
+  },
+  {
+    "name": "iwm_nisha",
+    "href": "iwm_nisha/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/apple/disk/nisha/iwm_nisha/",
+    "is_dir": true,
+    "size": null,
+    "date": "17-Jul-2011 17:53"
+  },
+  {
+    "name": "pcb",
+    "href": "pcb/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/apple/disk/nisha/pcb/",
+    "is_dir": true,
+    "size": null,
+    "date": "08-Oct-2013 00:02"
+  },
+  {
+    "name": "photos",
+    "href": "photos/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/apple/disk/nisha/photos/",
+    "is_dir": true,
+    "size": null,
+    "date": "26-Oct-2013 15:36"
+  },
+  {
+    "name": "062-0287-A_Nisha_Drive_Specification_Apr85.pdf",
+    "href": "062-0287-A_Nisha_Drive_Specification_Apr85.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/apple/disk/nisha/062-0287-A_Nisha_Drive_Specification_Apr85.pdf",
+    "is_dir": false,
+    "size": "1.9 MiB",
+    "date": "26-Feb-2012 03:33"
+  },
+  {
+    "name": "ADA_Sector_Decode.pdf",
+    "href": "ADA_Sector_Decode.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/apple/disk/nisha/ADA_Sector_Decode.pdf",
+    "is_dir": false,
+    "size": "273.8 KiB",
+    "date": "19-Jul-2011 23:43"
+  },
+  {
+    "name": "Nisha_Back.png",
+    "href": "Nisha_Back.png",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/apple/disk/nisha/Nisha_Back.png",
+    "is_dir": false,
+    "size": "507.9 KiB",
+    "date": "18-Jul-2011 22:37"
+  },
+  {
+    "name": "Nisha_Drive_Specification_Nov84.pdf",
+    "href": "Nisha_Drive_Specification_Nov84.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/apple/disk/nisha/Nisha_Drive_Specification_Nov84.pdf",
+    "is_dir": false,
+    "size": "1.5 MiB",
+    "date": "18-Jul-2011 18:14"
+  },
+  {
+    "name": "Nisha_Firmware_Specification_Dec84.pdf",
+    "href": "Nisha_Firmware_Specification_Dec84.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/apple/disk/nisha/Nisha_Firmware_Specification_Dec84.pdf",
+    "is_dir": false,
+    "size": "1.2 MiB",
+    "date": "26-Feb-2012 03:33"
+  },
+  {
+    "name": "Nisha_Interface.pdf",
+    "href": "Nisha_Interface.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/apple/disk/nisha/Nisha_Interface.pdf",
+    "is_dir": false,
+    "size": "189.1 KiB",
+    "date": "08-Oct-2013 02:01"
+  },
+  {
+    "name": "Nisha_Operation_Summary_Prelim_Dec84.pdf",
+    "href": "Nisha_Operation_Summary_Prelim_Dec84.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/apple/disk/nisha/Nisha_Operation_Summary_Prelim_Dec84.pdf",
+    "is_dir": false,
+    "size": "570.7 KiB",
+    "date": "08-Oct-2013 02:01"
+  },
+  {
+    "name": "Nisha_Spare_Table_Oct84.pdf",
+    "href": "Nisha_Spare_Table_Oct84.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/apple/disk/nisha/Nisha_Spare_Table_Oct84.pdf",
+    "is_dir": false,
+    "size": "268.7 KiB",
+    "date": "08-Oct-2013 02:01"
+  },
+  {
+    "name": "Nisha_Top.png",
+    "href": "Nisha_Top.png",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/apple/disk/nisha/Nisha_Top.png",
+    "is_dir": false,
+    "size": "357.4 KiB",
+    "date": "18-Jul-2011 22:37"
+  },
+  {
+    "name": "POST_Amp.pdf",
+    "href": "POST_Amp.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/apple/disk/nisha/POST_Amp.pdf",
+    "is_dir": false,
+    "size": "212.4 KiB",
+    "date": "19-Jul-2011 23:43"
+  },
+  {
+    "name": "POS_Demod.pdf",
+    "href": "POS_Demod.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/apple/disk/nisha/POS_Demod.pdf",
+    "is_dir": false,
+    "size": "171.6 KiB",
+    "date": "19-Jul-2011 23:43"
+  },
+  {
+    "name": "Widget-26_pinout_Jul84.pdf",
+    "href": "Widget-26_pinout_Jul84.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/apple/disk/nisha/Widget-26_pinout_Jul84.pdf",
+    "is_dir": false,
+    "size": "32.6 KiB",
+    "date": "08-Oct-2013 02:00"
+  }
+]

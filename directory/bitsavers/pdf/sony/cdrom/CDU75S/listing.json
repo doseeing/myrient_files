@@ -1,0 +1,42 @@
+[
+  {
+    "name": "firmware",
+    "href": "firmware/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/sony/cdrom/CDU75S/firmware/",
+    "is_dir": true,
+    "size": null,
+    "date": "19-Apr-2021 12:43"
+  },
+  {
+    "name": "PCM-1715U_Datasheet.pdf",
+    "href": "PCM-1715U_Datasheet.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/sony/cdrom/CDU75S/PCM-1715U_Datasheet.pdf",
+    "is_dir": false,
+    "size": "84.8 KiB",
+    "date": "08-Apr-2021 17:09"
+  },
+  {
+    "name": "pcb_b.jpg",
+    "href": "pcb_b.jpg",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/sony/cdrom/CDU75S/pcb_b.jpg",
+    "is_dir": false,
+    "size": "723.0 KiB",
+    "date": "04-Apr-2021 23:32"
+  },
+  {
+    "name": "pcb_t.jpg",
+    "href": "pcb_t.jpg",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/sony/cdrom/CDU75S/pcb_t.jpg",
+    "is_dir": false,
+    "size": "537.6 KiB",
+    "date": "04-Apr-2021 23:32"
+  },
+  {
+    "name": "top.jpg",
+    "href": "top.jpg",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/sony/cdrom/CDU75S/top.jpg",
+    "is_dir": false,
+    "size": "634.0 KiB",
+    "date": "19-Apr-2021 15:58"
+  }
+]

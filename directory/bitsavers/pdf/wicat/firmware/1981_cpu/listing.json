@@ -1,0 +1,106 @@
+[
+  {
+    "name": "CHECKSUMS.TXT",
+    "href": "CHECKSUMS.TXT",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/wicat/firmware/1981_cpu/CHECKSUMS.TXT",
+    "is_dir": false,
+    "size": "170 B",
+    "date": "31-Jul-2011 03:30"
+  },
+  {
+    "name": "CPU15C.BIN",
+    "href": "CPU15C.BIN",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/wicat/firmware/1981_cpu/CPU15C.BIN",
+    "is_dir": false,
+    "size": "32 B",
+    "date": "31-Jul-2011 03:30"
+  },
+  {
+    "name": "CPU8B.BIN",
+    "href": "CPU8B.BIN",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/wicat/firmware/1981_cpu/CPU8B.BIN",
+    "is_dir": false,
+    "size": "32 B",
+    "date": "31-Jul-2011 03:30"
+  },
+  {
+    "name": "CPU8C.BIN",
+    "href": "CPU8C.BIN",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/wicat/firmware/1981_cpu/CPU8C.BIN",
+    "is_dir": false,
+    "size": "32 B",
+    "date": "31-Jul-2011 03:30"
+  },
+  {
+    "name": "TPCF_E.BIN",
+    "href": "TPCF_E.BIN",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/wicat/firmware/1981_cpu/TPCF_E.BIN",
+    "is_dir": false,
+    "size": "2.0 KiB",
+    "date": "31-Jul-2011 03:30"
+  },
+  {
+    "name": "TPCF_O.BIN",
+    "href": "TPCF_O.BIN",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/wicat/firmware/1981_cpu/TPCF_O.BIN",
+    "is_dir": false,
+    "size": "2.0 KiB",
+    "date": "31-Jul-2011 03:30"
+  },
+  {
+    "name": "TPCF_comb.bin",
+    "href": "TPCF_comb.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/wicat/firmware/1981_cpu/TPCF_comb.bin",
+    "is_dir": false,
+    "size": "4.0 KiB",
+    "date": "31-Jul-2011 03:30"
+  },
+  {
+    "name": "TPCMIF_E.BIN",
+    "href": "TPCMIF_E.BIN",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/wicat/firmware/1981_cpu/TPCMIF_E.BIN",
+    "is_dir": false,
+    "size": "2.0 KiB",
+    "date": "31-Jul-2011 03:30"
+  },
+  {
+    "name": "TPCNIF_O.BIN",
+    "href": "TPCNIF_O.BIN",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/wicat/firmware/1981_cpu/TPCNIF_O.BIN",
+    "is_dir": false,
+    "size": "2.0 KiB",
+    "date": "31-Jul-2011 03:30"
+  },
+  {
+    "name": "TPCNIF_comb.bin",
+    "href": "TPCNIF_comb.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/wicat/firmware/1981_cpu/TPCNIF_comb.bin",
+    "is_dir": false,
+    "size": "4.0 KiB",
+    "date": "31-Jul-2011 03:30"
+  },
+  {
+    "name": "WIBOOT_E.BIN",
+    "href": "WIBOOT_E.BIN",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/wicat/firmware/1981_cpu/WIBOOT_E.BIN",
+    "is_dir": false,
+    "size": "2.0 KiB",
+    "date": "31-Jul-2011 03:30"
+  },
+  {
+    "name": "WIBOOT_O.BIN",
+    "href": "WIBOOT_O.BIN",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/wicat/firmware/1981_cpu/WIBOOT_O.BIN",
+    "is_dir": false,
+    "size": "2.0 KiB",
+    "date": "31-Jul-2011 03:30"
+  },
+  {
+    "name": "WIBOOT_comb.bin",
+    "href": "WIBOOT_comb.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/wicat/firmware/1981_cpu/WIBOOT_comb.bin",
+    "is_dir": false,
+    "size": "4.0 KiB",
+    "date": "31-Jul-2011 03:30"
+  }
+]

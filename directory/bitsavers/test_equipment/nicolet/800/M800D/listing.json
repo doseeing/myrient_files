@@ -1,0 +1,74 @@
+[
+  {
+    "name": "firmware",
+    "href": "firmware/",
+    "url": "https://myrient.erista.me/files/bitsavers/test_equipment/nicolet/800/M800D/firmware/",
+    "is_dir": true,
+    "size": null,
+    "date": "03-Feb-2022 21:34"
+  },
+  {
+    "name": "000-013001D_cpu.jpg",
+    "href": "000-013001D_cpu.jpg",
+    "url": "https://myrient.erista.me/files/bitsavers/test_equipment/nicolet/800/M800D/000-013001D_cpu.jpg",
+    "is_dir": false,
+    "size": "901.6 KiB",
+    "date": "03-Feb-2022 21:39"
+  },
+  {
+    "name": "126-0112-001B_ram-disk.jpg",
+    "href": "126-0112-001B_ram-disk.jpg",
+    "url": "https://myrient.erista.me/files/bitsavers/test_equipment/nicolet/800/M800D/126-0112-001B_ram-disk.jpg",
+    "is_dir": false,
+    "size": "1.2 MiB",
+    "date": "03-Feb-2022 22:53"
+  },
+  {
+    "name": "16-ch_timing.jpg",
+    "href": "16-ch_timing.jpg",
+    "url": "https://myrient.erista.me/files/bitsavers/test_equipment/nicolet/800/M800D/16-ch_timing.jpg",
+    "is_dir": false,
+    "size": "818.9 KiB",
+    "date": "03-Feb-2022 17:26"
+  },
+  {
+    "name": "IO_conf.jpg",
+    "href": "IO_conf.jpg",
+    "url": "https://myrient.erista.me/files/bitsavers/test_equipment/nicolet/800/M800D/IO_conf.jpg",
+    "is_dir": false,
+    "size": "758.3 KiB",
+    "date": "03-Feb-2022 17:27"
+  },
+  {
+    "name": "back.jpg",
+    "href": "back.jpg",
+    "url": "https://myrient.erista.me/files/bitsavers/test_equipment/nicolet/800/M800D/back.jpg",
+    "is_dir": false,
+    "size": "666.5 KiB",
+    "date": "03-Feb-2022 17:26"
+  },
+  {
+    "name": "cards.jpg",
+    "href": "cards.jpg",
+    "url": "https://myrient.erista.me/files/bitsavers/test_equipment/nicolet/800/M800D/cards.jpg",
+    "is_dir": false,
+    "size": "931.0 KiB",
+    "date": "03-Feb-2022 17:26"
+  },
+  {
+    "name": "config.jpg",
+    "href": "config.jpg",
+    "url": "https://myrient.erista.me/files/bitsavers/test_equipment/nicolet/800/M800D/config.jpg",
+    "is_dir": false,
+    "size": "654.6 KiB",
+    "date": "03-Feb-2022 17:26"
+  },
+  {
+    "name": "self-test.jpg",
+    "href": "self-test.jpg",
+    "url": "https://myrient.erista.me/files/bitsavers/test_equipment/nicolet/800/M800D/self-test.jpg",
+    "is_dir": false,
+    "size": "729.4 KiB",
+    "date": "03-Feb-2022 17:27"
+  }
+]

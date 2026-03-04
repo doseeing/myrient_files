@@ -1,0 +1,194 @@
+[
+  {
+    "name": "assembler",
+    "href": "assembler/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/370/OS_VS/assembler/",
+    "is_dir": true,
+    "size": null,
+    "date": "07-Aug-2021 17:42"
+  },
+  {
+    "name": "basic",
+    "href": "basic/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/370/OS_VS/basic/",
+    "is_dir": true,
+    "size": null,
+    "date": "03-Oct-2020 16:05"
+  },
+  {
+    "name": "cobol",
+    "href": "cobol/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/370/OS_VS/cobol/",
+    "is_dir": true,
+    "size": null,
+    "date": "01-Oct-2024 12:00"
+  },
+  {
+    "name": "dms",
+    "href": "dms/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/370/OS_VS/dms/",
+    "is_dir": true,
+    "size": null,
+    "date": "07-Aug-2021 23:44"
+  },
+  {
+    "name": "fortran",
+    "href": "fortran/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/370/OS_VS/fortran/",
+    "is_dir": true,
+    "size": null,
+    "date": "03-Oct-2020 22:51"
+  },
+  {
+    "name": "linkage_editor",
+    "href": "linkage_editor/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/370/OS_VS/linkage_editor/",
+    "is_dir": true,
+    "size": null,
+    "date": "07-Aug-2021 17:39"
+  },
+  {
+    "name": "sort_merge",
+    "href": "sort_merge/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/370/OS_VS/sort_merge/",
+    "is_dir": true,
+    "size": null,
+    "date": "04-Oct-2020 00:44"
+  },
+  {
+    "name": "vsam",
+    "href": "vsam/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/370/OS_VS/vsam/",
+    "is_dir": true,
+    "size": null,
+    "date": "25-Apr-2025 00:24"
+  },
+  {
+    "name": "vspc",
+    "href": "vspc/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/370/OS_VS/vspc/",
+    "is_dir": true,
+    "size": null,
+    "date": "04-Oct-2020 02:42"
+  },
+  {
+    "name": "GC24-5091-2_OS_VS_Programmers_Reference_Digest_VS1_Release_2_VS2_Release_1_3rdEd_197304.pdf",
+    "href": "GC24-5091-2_OS_VS_Programmers_Reference_Digest_VS1_Release_2_VS2_Release_1_3rdEd_197304.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/370/OS_VS/GC24-5091-2_OS_VS_Programmers_Reference_Digest_VS1_Release_2_VS2_Release_1_3rdEd_197304.pdf",
+    "is_dir": false,
+    "size": "13.7 MiB",
+    "date": "28-Jun-2021 18:37"
+  },
+  {
+    "name": "GC28-0673-1_OS_VS_System_Modification_Program_(SMP)_2nd_ed_197409.pdf",
+    "href": "GC28-0673-1_OS_VS_System_Modification_Program_%28SMP%29_2nd_ed_197409.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/370/OS_VS/GC28-0673-1_OS_VS_System_Modification_Program_%28SMP%29_2nd_ed_197409.pdf",
+    "is_dir": false,
+    "size": "2.3 MiB",
+    "date": "06-Aug-2021 17:32"
+  },
+  {
+    "name": "GC28-0673-6_OS_VS_System_Modification_Program_(SMP)_Systems_Programmers_Guide_7th_ed_198009.pdf",
+    "href": "GC28-0673-6_OS_VS_System_Modification_Program_%28SMP%29_Systems_Programmers_Guide_7th_ed_198009.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/370/OS_VS/GC28-0673-6_OS_VS_System_Modification_Program_%28SMP%29_Systems_Programmers_Guide_7th_ed_198009.pdf",
+    "is_dir": false,
+    "size": "1.2 MiB",
+    "date": "06-Aug-2021 17:33"
+  },
+  {
+    "name": "GC28-0772-0_OS_VS_Environmental_Recording_Editing_and_Printing_(EREP)_Program_1st_ed_197701.pdf",
+    "href": "GC28-0772-0_OS_VS_Environmental_Recording_Editing_and_Printing_%28EREP%29_Program_1st_ed_197701.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/370/OS_VS/GC28-0772-0_OS_VS_Environmental_Recording_Editing_and_Printing_%28EREP%29_Program_1st_ed_197701.pdf",
+    "is_dir": false,
+    "size": "3.2 MiB",
+    "date": "19-Jul-2021 18:41"
+  },
+  {
+    "name": "GC30-2042-0_OS_VS_TCAM_Concepts_and_Facilities_Nov74.pdf",
+    "href": "GC30-2042-0_OS_VS_TCAM_Concepts_and_Facilities_Nov74.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/370/OS_VS/GC30-2042-0_OS_VS_TCAM_Concepts_and_Facilities_Nov74.pdf",
+    "is_dir": false,
+    "size": "4.0 MiB",
+    "date": "29-Mar-2013 00:57"
+  },
+  {
+    "name": "GC34-2002-1_OS_VS_Display_Exception_Monitoring_Facility_System_Information_197903.pdf",
+    "href": "GC34-2002-1_OS_VS_Display_Exception_Monitoring_Facility_System_Information_197903.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/370/OS_VS/GC34-2002-1_OS_VS_Display_Exception_Monitoring_Facility_System_Information_197903.pdf",
+    "is_dir": false,
+    "size": "1.8 MiB",
+    "date": "04-May-2022 02:52"
+  },
+  {
+    "name": "GC35-0004-4_OS_VS_System_Management_Facilities_SMF_VS1_Release_2.6_VS2_Release_1.6_Fifth_Edition_197306.pdf",
+    "href": "GC35-0004-4_OS_VS_System_Management_Facilities_SMF_VS1_Release_2.6_VS2_Release_1.6_Fifth_Edition_197306.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/370/OS_VS/GC35-0004-4_OS_VS_System_Management_Facilities_SMF_VS1_Release_2.6_VS2_Release_1.6_Fifth_Edition_197306.pdf",
+    "is_dir": false,
+    "size": "4.2 MiB",
+    "date": "18-Jun-2021 03:24"
+  },
+  {
+    "name": "GC35-0005-1_OS_VS_Utilities_VS1_Release_1_VS2_Release_1_2nd_ed_197211.pdf",
+    "href": "GC35-0005-1_OS_VS_Utilities_VS1_Release_1_VS2_Release_1_2nd_ed_197211.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/370/OS_VS/GC35-0005-1_OS_VS_Utilities_VS1_Release_1_VS2_Release_1_2nd_ed_197211.pdf",
+    "is_dir": false,
+    "size": "10.4 MiB",
+    "date": "17-Dec-2024 17:00"
+  },
+  {
+    "name": "GC38-1047-0_OS_VS_System_Modification_Program_SMP_Messages_and_Codes_198009.pdf",
+    "href": "GC38-1047-0_OS_VS_System_Modification_Program_SMP_Messages_and_Codes_198009.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/370/OS_VS/GC38-1047-0_OS_VS_System_Modification_Program_SMP_Messages_and_Codes_198009.pdf",
+    "is_dir": false,
+    "size": "1.7 MiB",
+    "date": "14-May-2024 16:56"
+  },
+  {
+    "name": "GT26-3790-1_OS_VS_System_Generation_Introduction_197209.pdf",
+    "href": "GT26-3790-1_OS_VS_System_Generation_Introduction_197209.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/370/OS_VS/GT26-3790-1_OS_VS_System_Generation_Introduction_197209.pdf",
+    "is_dir": false,
+    "size": "2.0 MiB",
+    "date": "03-Oct-2020 15:54"
+  },
+  {
+    "name": "OS_VS_Course_Handouts.pdf",
+    "href": "OS_VS_Course_Handouts.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/370/OS_VS/OS_VS_Course_Handouts.pdf",
+    "is_dir": false,
+    "size": "2.6 MiB",
+    "date": "08-Jun-2012 13:57"
+  },
+  {
+    "name": "SY26-3787-1_OS_VS_DADSM_Logic_VS1_Rel_2_VS2_Release_1_197212.pdf",
+    "href": "SY26-3787-1_OS_VS_DADSM_Logic_VS1_Rel_2_VS2_Release_1_197212.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/370/OS_VS/SY26-3787-1_OS_VS_DADSM_Logic_VS1_Rel_2_VS2_Release_1_197212.pdf",
+    "is_dir": false,
+    "size": "4.7 MiB",
+    "date": "18-Jun-2021 03:17"
+  },
+  {
+    "name": "SY27-7239-2_OS_VS_Recovery_Management_Support_Logic_2nd_ed_197401.pdf",
+    "href": "SY27-7239-2_OS_VS_Recovery_Management_Support_Logic_2nd_ed_197401.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/370/OS_VS/SY27-7239-2_OS_VS_Recovery_Management_Support_Logic_2nd_ed_197401.pdf",
+    "is_dir": false,
+    "size": "4.6 MiB",
+    "date": "02-Sep-2021 12:50"
+  },
+  {
+    "name": "SY28-0685-5_OS_VS_System_Modification_Program_SMP_Logic_197810.pdf",
+    "href": "SY28-0685-5_OS_VS_System_Modification_Program_SMP_Logic_197810.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/370/OS_VS/SY28-0685-5_OS_VS_System_Modification_Program_SMP_Logic_197810.pdf",
+    "is_dir": false,
+    "size": "9.9 MiB",
+    "date": "11-May-2024 03:35"
+  },
+  {
+    "name": "SY35-0003-2_OS_VS_Catalog_Management_Logic_197301.pdf",
+    "href": "SY35-0003-2_OS_VS_Catalog_Management_Logic_197301.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/370/OS_VS/SY35-0003-2_OS_VS_Catalog_Management_Logic_197301.pdf",
+    "is_dir": false,
+    "size": "3.2 MiB",
+    "date": "11-May-2024 03:36"
+  }
+]

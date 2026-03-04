@@ -1,0 +1,34 @@
+[
+  {
+    "name": "firmware",
+    "href": "firmware/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/motorola/VME/MVME172/firmware/",
+    "is_dir": true,
+    "size": null,
+    "date": "07-Jan-2017 17:26"
+  },
+  {
+    "name": "V172P2A_IH2_MVME172P2_Installation_Nov2000.pdf",
+    "href": "V172P2A_IH2_MVME172P2_Installation_Nov2000.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/motorola/VME/MVME172/V172P2A_IH2_MVME172P2_Installation_Nov2000.pdf",
+    "is_dir": false,
+    "size": "943.1 KiB",
+    "date": "26-May-2016 23:51"
+  },
+  {
+    "name": "VME172A-PG2.pdf",
+    "href": "VME172A-PG2.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/motorola/VME/MVME172/VME172A-PG2.pdf",
+    "is_dir": false,
+    "size": "2.9 MiB",
+    "date": "26-May-2016 23:52"
+  },
+  {
+    "name": "VME172FXA.pdf",
+    "href": "VME172FXA.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/motorola/VME/MVME172/VME172FXA.pdf",
+    "is_dir": false,
+    "size": "1.4 MiB",
+    "date": "26-May-2016 23:52"
+  }
+]

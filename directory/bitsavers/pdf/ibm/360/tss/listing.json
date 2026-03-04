@@ -1,0 +1,530 @@
+[
+  {
+    "name": "C20-1647-0_360-67_TSS_Tech.pdf",
+    "href": "C20-1647-0_360-67_TSS_Tech.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/360/tss/C20-1647-0_360-67_TSS_Tech.pdf",
+    "is_dir": false,
+    "size": "6.4 MiB",
+    "date": "06-Sep-2009 01:36"
+  },
+  {
+    "name": "C28-2001-2_TSScmdSys_Sep68.pdf",
+    "href": "C28-2001-2_TSScmdSys_Sep68.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/360/tss/C28-2001-2_TSScmdSys_Sep68.pdf",
+    "is_dir": false,
+    "size": "11.0 MiB",
+    "date": "06-Sep-2009 01:37"
+  },
+  {
+    "name": "C28-2003-3_TSS360Concepts.pdf",
+    "href": "C28-2003-3_TSS360Concepts.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/360/tss/C28-2003-3_TSS360Concepts.pdf",
+    "is_dir": false,
+    "size": "5.6 MiB",
+    "date": "06-Sep-2009 01:37"
+  },
+  {
+    "name": "C28-2004-2_TSSmacro_Sep68.pdf",
+    "href": "C28-2004-2_TSSmacro_Sep68.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/360/tss/C28-2004-2_TSSmacro_Sep68.pdf",
+    "is_dir": false,
+    "size": "14.8 MiB",
+    "date": "06-Sep-2009 01:38"
+  },
+  {
+    "name": "C28-2007-0_TSSfortIV_1966.pdf",
+    "href": "C28-2007-0_TSSfortIV_1966.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/360/tss/C28-2007-0_TSSfortIV_1966.pdf",
+    "is_dir": false,
+    "size": "5.4 MiB",
+    "date": "06-Sep-2009 01:38"
+  },
+  {
+    "name": "C28-2008-0_TSSsysPgmr_Oct67.pdf",
+    "href": "C28-2008-0_TSSsysPgmr_Oct67.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/360/tss/C28-2008-0_TSSsysPgmr_Oct67.pdf",
+    "is_dir": false,
+    "size": "10.5 MiB",
+    "date": "06-Sep-2009 01:39"
+  },
+  {
+    "name": "C28-2043-7_TSSaddend_Nov68.pdf",
+    "href": "C28-2043-7_TSSaddend_Nov68.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/360/tss/C28-2043-7_TSSaddend_Nov68.pdf",
+    "is_dir": false,
+    "size": "786.0 KiB",
+    "date": "06-Sep-2009 01:39"
+  },
+  {
+    "name": "G520-2182-0_TSS_360_Brochure.pdf",
+    "href": "G520-2182-0_TSS_360_Brochure.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/360/tss/G520-2182-0_TSS_360_Brochure.pdf",
+    "is_dir": false,
+    "size": "867.6 KiB",
+    "date": "09-Sep-2009 12:58"
+  },
+  {
+    "name": "GC20-1647-0_Time_Sharing_System_Preliminary_Technical_Summary_1966.pdf",
+    "href": "GC20-1647-0_Time_Sharing_System_Preliminary_Technical_Summary_1966.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/360/tss/GC20-1647-0_Time_Sharing_System_Preliminary_Technical_Summary_1966.pdf",
+    "is_dir": false,
+    "size": "13.0 MiB",
+    "date": "09-Sep-2009 12:59"
+  },
+  {
+    "name": "GC28-2000-5_Time_Sharing_System_Assembler_Language_Apr76.pdf",
+    "href": "GC28-2000-5_Time_Sharing_System_Assembler_Language_Apr76.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/360/tss/GC28-2000-5_Time_Sharing_System_Assembler_Language_Apr76.pdf",
+    "is_dir": false,
+    "size": "19.7 MiB",
+    "date": "09-Sep-2009 13:00"
+  },
+  {
+    "name": "GC28-2001-9_Time_Sharing_System_Command_System_Users_Guide_Aug76.pdf",
+    "href": "GC28-2001-9_Time_Sharing_System_Command_System_Users_Guide_Aug76.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/360/tss/GC28-2001-9_Time_Sharing_System_Command_System_Users_Guide_Aug76.pdf",
+    "is_dir": false,
+    "size": "41.9 MiB",
+    "date": "09-Sep-2009 13:02"
+  },
+  {
+    "name": "GC28-2003-6_Time_Sharing_System_Concepts_and_Facilities_Apr78.pdf",
+    "href": "GC28-2003-6_Time_Sharing_System_Concepts_and_Facilities_Apr78.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/360/tss/GC28-2003-6_Time_Sharing_System_Concepts_and_Facilities_Apr78.pdf",
+    "is_dir": false,
+    "size": "16.1 MiB",
+    "date": "09-Sep-2009 13:03"
+  },
+  {
+    "name": "GC28-2004-6_Time_Sharing_System_Assembler_User_Macro_Instructions_Nov79.pdf",
+    "href": "GC28-2004-6_Time_Sharing_System_Assembler_User_Macro_Instructions_Nov79.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/360/tss/GC28-2004-6_Time_Sharing_System_Assembler_User_Macro_Instructions_Nov79.pdf",
+    "is_dir": false,
+    "size": "47.9 MiB",
+    "date": "09-Sep-2009 13:06"
+  },
+  {
+    "name": "GC28-2005-4_Time_Sharing_System_Linkage_Editor_Sep71.pdf",
+    "href": "GC28-2005-4_Time_Sharing_System_Linkage_Editor_Sep71.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/360/tss/GC28-2005-4_Time_Sharing_System_Linkage_Editor_Sep71.pdf",
+    "is_dir": false,
+    "size": "8.7 MiB",
+    "date": "09-Sep-2009 13:06"
+  },
+  {
+    "name": "GC28-2006-1_Time_Sharing_Support_System_Sep71.pdf",
+    "href": "GC28-2006-1_Time_Sharing_Support_System_Sep71.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/360/tss/GC28-2006-1_Time_Sharing_Support_System_Sep71.pdf",
+    "is_dir": false,
+    "size": "10.4 MiB",
+    "date": "09-Sep-2009 13:07"
+  },
+  {
+    "name": "GC28-2007-4_Time_Sharing_System_FORTRAN_IV_May76.pdf",
+    "href": "GC28-2007-4_Time_Sharing_System_FORTRAN_IV_May76.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/360/tss/GC28-2007-4_Time_Sharing_System_FORTRAN_IV_May76.pdf",
+    "is_dir": false,
+    "size": "12.3 MiB",
+    "date": "09-Sep-2009 13:07"
+  },
+  {
+    "name": "GC28-2008-5_Time_Sharing_System_System_Programmers_Guide_Jul79.pdf",
+    "href": "GC28-2008-5_Time_Sharing_System_System_Programmers_Guide_Jul79.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/360/tss/GC28-2008-5_Time_Sharing_System_System_Programmers_Guide_Jul79.pdf",
+    "is_dir": false,
+    "size": "50.0 MiB",
+    "date": "09-Sep-2009 13:10"
+  },
+  {
+    "name": "GC28-2010-7_Time_Sharing_System_System_Generation_and_Maintenance_Dec76.pdf",
+    "href": "GC28-2010-7_Time_Sharing_System_System_Generation_and_Maintenance_Dec76.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/360/tss/GC28-2010-7_Time_Sharing_System_System_Generation_and_Maintenance_Dec76.pdf",
+    "is_dir": false,
+    "size": "10.9 MiB",
+    "date": "09-Sep-2009 13:11"
+  },
+  {
+    "name": "GC28-2017-5_Time_Sharing_System_Terminal_Users_Guide_Jun78.pdf",
+    "href": "GC28-2017-5_Time_Sharing_System_Terminal_Users_Guide_Jun78.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/360/tss/GC28-2017-5_Time_Sharing_System_Terminal_Users_Guide_Jun78.pdf",
+    "is_dir": false,
+    "size": "6.0 MiB",
+    "date": "09-Sep-2009 13:11"
+  },
+  {
+    "name": "GC28-2023-3_Time_Sharing_System_Master_Index_Jul70.pdf",
+    "href": "GC28-2023-3_Time_Sharing_System_Master_Index_Jul70.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/360/tss/GC28-2023-3_Time_Sharing_System_Master_Index_Jul70.pdf",
+    "is_dir": false,
+    "size": "24.6 MiB",
+    "date": "09-Sep-2009 13:12"
+  },
+  {
+    "name": "GC28-2024-4_Time_Sharing_System_Managers_and_Adminstrators_Guide_Sep71.pdf",
+    "href": "GC28-2024-4_Time_Sharing_System_Managers_and_Adminstrators_Guide_Sep71.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/360/tss/GC28-2024-4_Time_Sharing_System_Managers_and_Adminstrators_Guide_Sep71.pdf",
+    "is_dir": false,
+    "size": "5.7 MiB",
+    "date": "09-Sep-2009 13:13"
+  },
+  {
+    "name": "GC28-2025-4_Time_Sharing_System_FORTRAN_Programmers_Guide_Sep71.pdf",
+    "href": "GC28-2025-4_Time_Sharing_System_FORTRAN_Programmers_Guide_Sep71.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/360/tss/GC28-2025-4_Time_Sharing_System_FORTRAN_Programmers_Guide_Sep71.pdf",
+    "is_dir": false,
+    "size": "26.8 MiB",
+    "date": "09-Sep-2009 13:14"
+  },
+  {
+    "name": "GC28-2026-4_Time_Sharing_System_FORTRAN_IV_Library_Subprograms_May76.pdf",
+    "href": "GC28-2026-4_Time_Sharing_System_FORTRAN_IV_Library_Subprograms_May76.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/360/tss/GC28-2026-4_Time_Sharing_System_FORTRAN_IV_Library_Subprograms_May76.pdf",
+    "is_dir": false,
+    "size": "8.6 MiB",
+    "date": "09-Sep-2009 13:14"
+  },
+  {
+    "name": "GC28-2028-0_Time_Sharing_System_Test_and_Maintenance_Users_Guide_Sep70.pdf",
+    "href": "GC28-2028-0_Time_Sharing_System_Test_and_Maintenance_Users_Guide_Sep70.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/360/tss/GC28-2028-0_Time_Sharing_System_Test_and_Maintenance_Users_Guide_Sep70.pdf",
+    "is_dir": false,
+    "size": "5.8 MiB",
+    "date": "09-Sep-2009 13:15"
+  },
+  {
+    "name": "GC28-2032-6_Time_Sharing_System_Assembler_Programmers_Guide_Apr76.pdf",
+    "href": "GC28-2032-6_Time_Sharing_System_Assembler_Programmers_Guide_Apr76.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/360/tss/GC28-2032-6_Time_Sharing_System_Assembler_Programmers_Guide_Apr76.pdf",
+    "is_dir": false,
+    "size": "30.9 MiB",
+    "date": "09-Sep-2009 13:16"
+  },
+  {
+    "name": "GC28-2033-8_Time_Sharing_System_Operators_Guide_Sep71.pdf",
+    "href": "GC28-2033-8_Time_Sharing_System_Operators_Guide_Sep71.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/360/tss/GC28-2033-8_Time_Sharing_System_Operators_Guide_Sep71.pdf",
+    "is_dir": false,
+    "size": "10.5 MiB",
+    "date": "09-Sep-2009 13:16"
+  },
+  {
+    "name": "GC28-2034-1_Time_Sharing_System_Multiterminal_Task_Programming_and_Operation_Sep70.pdf",
+    "href": "GC28-2034-1_Time_Sharing_System_Multiterminal_Task_Programming_and_Operation_Sep70.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/360/tss/GC28-2034-1_Time_Sharing_System_Multiterminal_Task_Programming_and_Operation_Sep70.pdf",
+    "is_dir": false,
+    "size": "6.0 MiB",
+    "date": "09-Sep-2009 13:17"
+  },
+  {
+    "name": "GC28-2035-0_Time_Sharing_System_Support_for_Time_Sharing_Oct67.pdf",
+    "href": "GC28-2035-0_Time_Sharing_System_Support_for_Time_Sharing_Oct67.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/360/tss/GC28-2035-0_Time_Sharing_System_Support_for_Time_Sharing_Oct67.pdf",
+    "is_dir": false,
+    "size": "3.0 MiB",
+    "date": "09-Sep-2009 13:17"
+  },
+  {
+    "name": "GC28-2037-7_Time_Sharing_System_System_Messages_Sep71.pdf",
+    "href": "GC28-2037-7_Time_Sharing_System_System_Messages_Sep71.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/360/tss/GC28-2037-7_Time_Sharing_System_System_Messages_Sep71.pdf",
+    "is_dir": false,
+    "size": "114.6 MiB",
+    "date": "09-Sep-2009 13:23"
+  },
+  {
+    "name": "GC28-2038-5_Time_Sharing_System_Independent_Utilities_Dec77.pdf",
+    "href": "GC28-2038-5_Time_Sharing_System_Independent_Utilities_Dec77.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/360/tss/GC28-2038-5_Time_Sharing_System_Independent_Utilities_Dec77.pdf",
+    "is_dir": false,
+    "size": "2.6 MiB",
+    "date": "09-Sep-2009 13:24"
+  },
+  {
+    "name": "GC28-2043-12_Time_Sharing_System_Addendum_Sep71.pdf",
+    "href": "GC28-2043-12_Time_Sharing_System_Addendum_Sep71.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/360/tss/GC28-2043-12_Time_Sharing_System_Addendum_Sep71.pdf",
+    "is_dir": false,
+    "size": "2.5 MiB",
+    "date": "09-Sep-2009 13:24"
+  },
+  {
+    "name": "GC28-2044-0_Time_Sharing_System_Planning_for_Remote_Job_Entry_Apr69.pdf",
+    "href": "GC28-2044-0_Time_Sharing_System_Planning_for_Remote_Job_Entry_Apr69.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/360/tss/GC28-2044-0_Time_Sharing_System_Planning_for_Remote_Job_Entry_Apr69.pdf",
+    "is_dir": false,
+    "size": "1.2 MiB",
+    "date": "09-Sep-2009 13:24"
+  },
+  {
+    "name": "GC28-2045-1_Time_Sharing_System_PLI_Language_Reference_Manual.pdf",
+    "href": "GC28-2045-1_Time_Sharing_System_PLI_Language_Reference_Manual.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/360/tss/GC28-2045-1_Time_Sharing_System_PLI_Language_Reference_Manual.pdf",
+    "is_dir": false,
+    "size": "71.2 MiB",
+    "date": "09-Sep-2009 13:27"
+  },
+  {
+    "name": "GC28-2046-1_Time_Sharing_System_PLI_Library_Computaional_Subroutines_Jun70.pdf",
+    "href": "GC28-2046-1_Time_Sharing_System_PLI_Library_Computaional_Subroutines_Jun70.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/360/tss/GC28-2046-1_Time_Sharing_System_PLI_Library_Computaional_Subroutines_Jun70.pdf",
+    "is_dir": false,
+    "size": "7.5 MiB",
+    "date": "09-Sep-2009 13:28"
+  },
+  {
+    "name": "GC28-2048-4_Introducing_TSS_360_A_Primer_for_FORTRAN_Users_Sep70.pdf",
+    "href": "GC28-2048-4_Introducing_TSS_360_A_Primer_for_FORTRAN_Users_Sep70.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/360/tss/GC28-2048-4_Introducing_TSS_360_A_Primer_for_FORTRAN_Users_Sep70.pdf",
+    "is_dir": false,
+    "size": "4.8 MiB",
+    "date": "09-Sep-2009 13:28"
+  },
+  {
+    "name": "GC28-2049-1_Time_Sharing_System_PLI_Programmers_Guide_Sep71.pdf",
+    "href": "GC28-2049-1_Time_Sharing_System_PLI_Programmers_Guide_Sep71.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/360/tss/GC28-2049-1_Time_Sharing_System_PLI_Programmers_Guide_Sep71.pdf",
+    "is_dir": false,
+    "size": "47.2 MiB",
+    "date": "09-Sep-2009 13:31"
+  },
+  {
+    "name": "GC28-2050-0_Time_Sharing_System_Planning_for_PLI_Feb70.pdf",
+    "href": "GC28-2050-0_Time_Sharing_System_Planning_for_PLI_Feb70.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/360/tss/GC28-2050-0_Time_Sharing_System_Planning_for_PLI_Feb70.pdf",
+    "is_dir": false,
+    "size": "1.3 MiB",
+    "date": "09-Sep-2009 13:31"
+  },
+  {
+    "name": "GC28-2056-2_Time_Sharing_System_Data_Management_Facilities_Dec77.pdf",
+    "href": "GC28-2056-2_Time_Sharing_System_Data_Management_Facilities_Dec77.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/360/tss/GC28-2056-2_Time_Sharing_System_Data_Management_Facilities_Dec77.pdf",
+    "is_dir": false,
+    "size": "15.7 MiB",
+    "date": "09-Sep-2009 13:32"
+  },
+  {
+    "name": "GC28-2057-1_Time_Sharing_System_Remote_Job_Entry_Sep71.pdf",
+    "href": "GC28-2057-1_Time_Sharing_System_Remote_Job_Entry_Sep71.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/360/tss/GC28-2057-1_Time_Sharing_System_Remote_Job_Entry_Sep71.pdf",
+    "is_dir": false,
+    "size": "4.5 MiB",
+    "date": "09-Sep-2009 13:32"
+  },
+  {
+    "name": "GX28-6400-2_TSS_360_Quick_Guide_For_Users_Jun70.pdf",
+    "href": "GX28-6400-2_TSS_360_Quick_Guide_For_Users_Jun70.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/360/tss/GX28-6400-2_TSS_360_Quick_Guide_For_Users_Jun70.pdf",
+    "is_dir": false,
+    "size": "6.7 MiB",
+    "date": "09-Sep-2009 13:32"
+  },
+  {
+    "name": "GX28-6400-3_TSS_370_User_Data_Jul78.pdf",
+    "href": "GX28-6400-3_TSS_370_User_Data_Jul78.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/360/tss/GX28-6400-3_TSS_370_User_Data_Jul78.pdf",
+    "is_dir": false,
+    "size": "3.8 MiB",
+    "date": "09-Sep-2009 13:32"
+  },
+  {
+    "name": "GX28-6401-1_TSS_360_Quick_Guide_For_System_Programmers_Jun70.pdf",
+    "href": "GX28-6401-1_TSS_360_Quick_Guide_For_System_Programmers_Jun70.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/360/tss/GX28-6401-1_TSS_360_Quick_Guide_For_System_Programmers_Jun70.pdf",
+    "is_dir": false,
+    "size": "2.3 MiB",
+    "date": "09-Sep-2009 13:32"
+  },
+  {
+    "name": "GY28-2009-2_Time_Sharing_System_System_Logic_Summary_PLM_Jun70.pdf",
+    "href": "GY28-2009-2_Time_Sharing_System_System_Logic_Summary_PLM_Jun70.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/360/tss/GY28-2009-2_Time_Sharing_System_System_Logic_Summary_PLM_Jun70.pdf",
+    "is_dir": false,
+    "size": "52.3 MiB",
+    "date": "09-Sep-2009 13:35"
+  },
+  {
+    "name": "GY28-2011-6_Time_Sharing_System_System_Control_Blocks_PLM_Sep71.pdf",
+    "href": "GY28-2011-6_Time_Sharing_System_System_Control_Blocks_PLM_Sep71.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/360/tss/GY28-2011-6_Time_Sharing_System_System_Control_Blocks_PLM_Sep71.pdf",
+    "is_dir": false,
+    "size": "50.8 MiB",
+    "date": "09-Sep-2009 13:39"
+  },
+  {
+    "name": "GY28-2012-5_Time_Sharing_System_Resident_Supervisor_PLM_Sep71.pdf",
+    "href": "GY28-2012-5_Time_Sharing_System_Resident_Supervisor_PLM_Sep71.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/360/tss/GY28-2012-5_Time_Sharing_System_Resident_Supervisor_PLM_Sep71.pdf",
+    "is_dir": false,
+    "size": "27.1 MiB",
+    "date": "09-Sep-2009 13:41"
+  },
+  {
+    "name": "GY28-2013-6_Time_Sharing_System_Command_System_PLM_Sep71.pdf",
+    "href": "GY28-2013-6_Time_Sharing_System_Command_System_PLM_Sep71.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/360/tss/GY28-2013-6_Time_Sharing_System_Command_System_PLM_Sep71.pdf",
+    "is_dir": false,
+    "size": "31.9 MiB",
+    "date": "09-Sep-2009 13:44"
+  },
+  {
+    "name": "GY28-2014-2_Time_Sharing_System_Program_Control_System_PLM_Sep71.pdf",
+    "href": "GY28-2014-2_Time_Sharing_System_Program_Control_System_PLM_Sep71.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/360/tss/GY28-2014-2_Time_Sharing_System_Program_Control_System_PLM_Sep71.pdf",
+    "is_dir": false,
+    "size": "18.5 MiB",
+    "date": "09-Sep-2009 13:45"
+  },
+  {
+    "name": "GY28-2015-6_Time_Sharing_System_System_Generation_and_Maintenance_PLM_Sep71.pdf",
+    "href": "GY28-2015-6_Time_Sharing_System_System_Generation_and_Maintenance_PLM_Sep71.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/360/tss/GY28-2015-6_Time_Sharing_System_System_Generation_and_Maintenance_PLM_Sep71.pdf",
+    "is_dir": false,
+    "size": "16.0 MiB",
+    "date": "09-Sep-2009 13:46"
+  },
+  {
+    "name": "GY28-2016-5_Time_Sharing_System_Access_Methods_PLM_Sep71.pdf",
+    "href": "GY28-2016-5_Time_Sharing_System_Access_Methods_PLM_Sep71.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/360/tss/GY28-2016-5_Time_Sharing_System_Access_Methods_PLM_Sep71.pdf",
+    "is_dir": false,
+    "size": "46.6 MiB",
+    "date": "09-Sep-2009 13:48"
+  },
+  {
+    "name": "GY28-2018-3_Time_Sharing_System_System_Service_Routines_PLM_Sep71.pdf",
+    "href": "GY28-2018-3_Time_Sharing_System_System_Service_Routines_PLM_Sep71.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/360/tss/GY28-2018-3_Time_Sharing_System_System_Service_Routines_PLM_Sep71.pdf",
+    "is_dir": false,
+    "size": "21.9 MiB",
+    "date": "09-Sep-2009 13:50"
+  },
+  {
+    "name": "GY28-2019-1_Time_Sharing_System_FORTRAN_IV_Compiler_PLM_Jan70.pdf",
+    "href": "GY28-2019-1_Time_Sharing_System_FORTRAN_IV_Compiler_PLM_Jan70.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/360/tss/GY28-2019-1_Time_Sharing_System_FORTRAN_IV_Compiler_PLM_Jan70.pdf",
+    "is_dir": false,
+    "size": "48.1 MiB",
+    "date": "09-Sep-2009 13:52"
+  },
+  {
+    "name": "GY28-2020-2_Time_Sharing_System_FORTRAN_IV_Library_Subprograms_PLM_Sep71.pdf",
+    "href": "GY28-2020-2_Time_Sharing_System_FORTRAN_IV_Library_Subprograms_PLM_Sep71.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/360/tss/GY28-2020-2_Time_Sharing_System_FORTRAN_IV_Library_Subprograms_PLM_Sep71.pdf",
+    "is_dir": false,
+    "size": "8.2 MiB",
+    "date": "09-Sep-2009 13:53"
+  },
+  {
+    "name": "GY28-2021-2_Time_Sharing_System_Assembler_PLM_Sep71.pdf",
+    "href": "GY28-2021-2_Time_Sharing_System_Assembler_PLM_Sep71.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/360/tss/GY28-2021-2_Time_Sharing_System_Assembler_PLM_Sep71.pdf",
+    "is_dir": false,
+    "size": "30.8 MiB",
+    "date": "09-Sep-2009 13:55"
+  },
+  {
+    "name": "GY28-2022-2_Time_Sharing_System_Time_Sharing_Support_System_PLM_Sep71.pdf",
+    "href": "GY28-2022-2_Time_Sharing_System_Time_Sharing_Support_System_PLM_Sep71.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/360/tss/GY28-2022-2_Time_Sharing_System_Time_Sharing_Support_System_PLM_Sep71.pdf",
+    "is_dir": false,
+    "size": "22.4 MiB",
+    "date": "09-Sep-2009 13:57"
+  },
+  {
+    "name": "GY28-2030-2_Time_Sharing_System_Linkage_Editor_PLM_Sep71.pdf",
+    "href": "GY28-2030-2_Time_Sharing_System_Linkage_Editor_PLM_Sep71.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/360/tss/GY28-2030-2_Time_Sharing_System_Linkage_Editor_PLM_Sep71.pdf",
+    "is_dir": false,
+    "size": "12.9 MiB",
+    "date": "09-Sep-2009 13:58"
+  },
+  {
+    "name": "GY28-2031-3_Time_Sharing_System_Dynamic_Loader_PLM_Sep71.pdf",
+    "href": "GY28-2031-3_Time_Sharing_System_Dynamic_Loader_PLM_Sep71.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/360/tss/GY28-2031-3_Time_Sharing_System_Dynamic_Loader_PLM_Sep71.pdf",
+    "is_dir": false,
+    "size": "18.0 MiB",
+    "date": "09-Sep-2009 14:00"
+  },
+  {
+    "name": "GY28-2039-3_Time_Sharing_System_Independent_Utilities_PLM_Jan70.pdf",
+    "href": "GY28-2039-3_Time_Sharing_System_Independent_Utilities_PLM_Jan70.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/360/tss/GY28-2039-3_Time_Sharing_System_Independent_Utilities_PLM_Jan70.pdf",
+    "is_dir": false,
+    "size": "6.7 MiB",
+    "date": "09-Sep-2009 14:00"
+  },
+  {
+    "name": "GY28-2040-0_Time_Sharing_System_Support_for_Time_Sharing_PLM_Oct67.pdf",
+    "href": "GY28-2040-0_Time_Sharing_System_Support_for_Time_Sharing_PLM_Oct67.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/360/tss/GY28-2040-0_Time_Sharing_System_Support_for_Time_Sharing_PLM_Oct67.pdf",
+    "is_dir": false,
+    "size": "6.7 MiB",
+    "date": "09-Sep-2009 14:01"
+  },
+  {
+    "name": "GY28-2041-4_Time_Sharing_System_Task_Monitor_PLM_Sep71.pdf",
+    "href": "GY28-2041-4_Time_Sharing_System_Task_Monitor_PLM_Sep71.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/360/tss/GY28-2041-4_Time_Sharing_System_Task_Monitor_PLM_Sep71.pdf",
+    "is_dir": false,
+    "size": "16.0 MiB",
+    "date": "09-Sep-2009 14:02"
+  },
+  {
+    "name": "GY28-2042-2_Time_Sharing_System_On-Line_Test_Control_Program_PLM_Jan70.pdf",
+    "href": "GY28-2042-2_Time_Sharing_System_On-Line_Test_Control_Program_PLM_Jan70.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/360/tss/GY28-2042-2_Time_Sharing_System_On-Line_Test_Control_Program_PLM_Jan70.pdf",
+    "is_dir": false,
+    "size": "5.0 MiB",
+    "date": "09-Sep-2009 14:02"
+  },
+  {
+    "name": "GY28-2047-4_Time_Sharing_System_Operator_Task_and_Bulk_IO_PLM_Sep71.pdf",
+    "href": "GY28-2047-4_Time_Sharing_System_Operator_Task_and_Bulk_IO_PLM_Sep71.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/360/tss/GY28-2047-4_Time_Sharing_System_Operator_Task_and_Bulk_IO_PLM_Sep71.pdf",
+    "is_dir": false,
+    "size": "10.2 MiB",
+    "date": "09-Sep-2009 14:02"
+  },
+  {
+    "name": "GY28-2051-0_Time_Sharing_System_PLI_Compiler_PLM_Jun70.pdf",
+    "href": "GY28-2051-0_Time_Sharing_System_PLI_Compiler_PLM_Jun70.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/360/tss/GY28-2051-0_Time_Sharing_System_PLI_Compiler_PLM_Jun70.pdf",
+    "is_dir": false,
+    "size": "47.1 MiB",
+    "date": "09-Sep-2009 14:05"
+  },
+  {
+    "name": "GY28-2052-0_Time_Sharing_System_PLI_Subroutine_Library_PLM_Jun70.pdf",
+    "href": "GY28-2052-0_Time_Sharing_System_PLI_Subroutine_Library_PLM_Jun70.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/360/tss/GY28-2052-0_Time_Sharing_System_PLI_Subroutine_Library_PLM_Jun70.pdf",
+    "is_dir": false,
+    "size": "20.0 MiB",
+    "date": "09-Sep-2009 14:06"
+  },
+  {
+    "name": "Y20-0450-0_TSS_360_Time_Sharing_Compendium_1969.pdf",
+    "href": "Y20-0450-0_TSS_360_Time_Sharing_Compendium_1969.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/360/tss/Y20-0450-0_TSS_360_Time_Sharing_Compendium_1969.pdf",
+    "is_dir": false,
+    "size": "40.7 MiB",
+    "date": "14-Jul-2021 16:28"
+  },
+  {
+    "name": "Y28-2019-1_TSS_Fortran_IV_Compiler_PLM_197001.pdf",
+    "href": "Y28-2019-1_TSS_Fortran_IV_Compiler_PLM_197001.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/360/tss/Y28-2019-1_TSS_Fortran_IV_Compiler_PLM_197001.pdf",
+    "is_dir": false,
+    "size": "33.0 MiB",
+    "date": "22-Dec-2020 22:31"
+  },
+  {
+    "name": "Z20-1788-0_TSS360_concepts.pdf",
+    "href": "Z20-1788-0_TSS360_concepts.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/360/tss/Z20-1788-0_TSS360_concepts.pdf",
+    "is_dir": false,
+    "size": "4.5 MiB",
+    "date": "06-Sep-2009 23:27"
+  }
+]

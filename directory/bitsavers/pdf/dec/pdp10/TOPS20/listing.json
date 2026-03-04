@@ -1,0 +1,194 @@
+[
+  {
+    "name": "DECnet-20",
+    "href": "DECnet-20/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp10/TOPS20/DECnet-20/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Mar-2010 13:44"
+  },
+  {
+    "name": "V3",
+    "href": "V3/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp10/TOPS20/V3/",
+    "is_dir": true,
+    "size": null,
+    "date": "10-Oct-2002 16:27"
+  },
+  {
+    "name": "V4.0_Apr80",
+    "href": "V4.0_Apr80/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp10/TOPS20/V4.0_Apr80/",
+    "is_dir": true,
+    "size": null,
+    "date": "19-Nov-2006 03:00"
+  },
+  {
+    "name": "V4.1_Feb83",
+    "href": "V4.1_Feb83/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp10/TOPS20/V4.1_Feb83/",
+    "is_dir": true,
+    "size": null,
+    "date": "18-Nov-2006 02:15"
+  },
+  {
+    "name": "V5.0_Apr82",
+    "href": "V5.0_Apr82/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp10/TOPS20/V5.0_Apr82/",
+    "is_dir": true,
+    "size": null,
+    "date": "03-Dec-2006 01:58"
+  },
+  {
+    "name": "V5.1_Dec82",
+    "href": "V5.1_Dec82/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp10/TOPS20/V5.1_Dec82/",
+    "is_dir": true,
+    "size": null,
+    "date": "03-Dec-2006 00:26"
+  },
+  {
+    "name": "V6.1_Sep85",
+    "href": "V6.1_Sep85/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp10/TOPS20/V6.1_Sep85/",
+    "is_dir": true,
+    "size": null,
+    "date": "10-Oct-2002 20:28"
+  },
+  {
+    "name": "V7",
+    "href": "V7/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp10/TOPS20/V7/",
+    "is_dir": true,
+    "size": null,
+    "date": "15-Jun-2005 07:01"
+  },
+  {
+    "name": "arpanet",
+    "href": "arpanet/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp10/TOPS20/arpanet/",
+    "is_dir": true,
+    "size": null,
+    "date": "15-Jun-2005 07:01"
+  },
+  {
+    "name": "cfs",
+    "href": "cfs/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp10/TOPS20/cfs/",
+    "is_dir": true,
+    "size": null,
+    "date": "12-Nov-2006 02:45"
+  },
+  {
+    "name": "fortran",
+    "href": "fortran/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp10/TOPS20/fortran/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Mar-2010 13:46"
+  },
+  {
+    "name": "pascal",
+    "href": "pascal/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp10/TOPS20/pascal/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Mar-2010 23:59"
+  },
+  {
+    "name": "training",
+    "href": "training/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp10/TOPS20/training/",
+    "is_dir": true,
+    "size": null,
+    "date": "16-Jul-2011 19:06"
+  },
+  {
+    "name": "AA-4159C-TM_Macro_Assembler_Reference_Apr78.pdf",
+    "href": "AA-4159C-TM_Macro_Assembler_Reference_Apr78.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp10/TOPS20/AA-4159C-TM_Macro_Assembler_Reference_Apr78.pdf",
+    "is_dir": false,
+    "size": "6.3 MiB",
+    "date": "29-Mar-2010 21:24"
+  },
+  {
+    "name": "AA-4166E-TM_TOPS-20_Monitor_Calls_Reference_Ver_5_Dec82.pdf",
+    "href": "AA-4166E-TM_TOPS-20_Monitor_Calls_Reference_Ver_5_Dec82.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp10/TOPS20/AA-4166E-TM_TOPS-20_Monitor_Calls_Reference_Ver_5_Dec82.pdf",
+    "is_dir": false,
+    "size": "24.6 MiB",
+    "date": "29-Mar-2010 21:25"
+  },
+  {
+    "name": "AA-H352A-TK_RSX-20F_Jan80.pdf",
+    "href": "AA-H352A-TK_RSX-20F_Jan80.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp10/TOPS20/AA-H352A-TK_RSX-20F_Jan80.pdf",
+    "is_dir": false,
+    "size": "10.5 MiB",
+    "date": "28-Mar-2010 23:56"
+  },
+  {
+    "name": "AA-H352B-TK_RSX-20F_Nov81.pdf",
+    "href": "AA-H352B-TK_RSX-20F_Nov81.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp10/TOPS20/AA-H352B-TK_RSX-20F_Nov81.pdf",
+    "is_dir": false,
+    "size": "12.0 MiB",
+    "date": "28-Mar-2010 23:57"
+  },
+  {
+    "name": "AA-M273A-TM_TOPS-20_DDT_Manual_May85.pdf",
+    "href": "AA-M273A-TM_TOPS-20_DDT_Manual_May85.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp10/TOPS20/AA-M273A-TM_TOPS-20_DDT_Manual_May85.pdf",
+    "is_dir": false,
+    "size": "4.9 MiB",
+    "date": "28-Mar-2010 23:57"
+  },
+  {
+    "name": "DEC-20-OMUGA-A-D_Monitor_Calls_Users_Guide_May76.pdf",
+    "href": "DEC-20-OMUGA-A-D_Monitor_Calls_Users_Guide_May76.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp10/TOPS20/DEC-20-OMUGA-A-D_Monitor_Calls_Users_Guide_May76.pdf",
+    "is_dir": false,
+    "size": "6.4 MiB",
+    "date": "28-Mar-2010 13:47"
+  },
+  {
+    "name": "MasterTableOfContentsJun85.txt",
+    "href": "MasterTableOfContentsJun85.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp10/TOPS20/MasterTableOfContentsJun85.txt",
+    "is_dir": false,
+    "size": "11.2 KiB",
+    "date": "11-Oct-2002 01:22"
+  },
+  {
+    "name": "TOPS-20_Notebooks_Master_TOC_Aug84.pdf",
+    "href": "TOPS-20_Notebooks_Master_TOC_Aug84.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp10/TOPS20/TOPS-20_Notebooks_Master_TOC_Aug84.pdf",
+    "is_dir": false,
+    "size": "1.6 MiB",
+    "date": "28-Mar-2010 13:58"
+  },
+  {
+    "name": "TOPS-20_V6_System_Managers_Guide_Interim_Dec84.pdf",
+    "href": "TOPS-20_V6_System_Managers_Guide_Interim_Dec84.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp10/TOPS20/TOPS-20_V6_System_Managers_Guide_Interim_Dec84.pdf",
+    "is_dir": false,
+    "size": "13.1 MiB",
+    "date": "21-Mar-2010 02:42"
+  },
+  {
+    "name": "TOPS20_CodingStd_Mar83.pdf",
+    "href": "TOPS20_CodingStd_Mar83.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp10/TOPS20/TOPS20_CodingStd_Mar83.pdf",
+    "is_dir": false,
+    "size": "755.1 KiB",
+    "date": "12-Nov-2006 02:51"
+  },
+  {
+    "name": "TOPS20_MonitorInternals_1978.pdf",
+    "href": "TOPS20_MonitorInternals_1978.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/pdp10/TOPS20/TOPS20_MonitorInternals_1978.pdf",
+    "is_dir": false,
+    "size": "6.0 MiB",
+    "date": "17-Nov-2006 18:01"
+  }
+]

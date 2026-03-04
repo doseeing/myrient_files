@@ -1,0 +1,586 @@
+[
+  {
+    "name": "cdrom",
+    "href": "cdrom/",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/maddog/cdrom/",
+    "is_dir": true,
+    "size": null,
+    "date": "08-Dec-2025 11:54"
+  },
+  {
+    "name": "dvd",
+    "href": "dvd/",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/maddog/dvd/",
+    "is_dir": true,
+    "size": null,
+    "date": "01-Dec-2025 17:45"
+  },
+  {
+    "name": "arcadecoin.wav",
+    "href": "arcadecoin.wav",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/maddog/arcadecoin.wav",
+    "is_dir": false,
+    "size": "60.4 KiB",
+    "date": "01-Dec-2025 17:45"
+  },
+  {
+    "name": "bottlebreak.wav",
+    "href": "bottlebreak.wav",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/maddog/bottlebreak.wav",
+    "is_dir": false,
+    "size": "160.1 KiB",
+    "date": "01-Dec-2025 17:45"
+  },
+  {
+    "name": "bullet.png",
+    "href": "bullet.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/maddog/bullet.png",
+    "is_dir": false,
+    "size": "184 B",
+    "date": "08-Dec-2025 09:33"
+  },
+  {
+    "name": "choice.easy.png",
+    "href": "choice.easy.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/maddog/choice.easy.png",
+    "is_dir": false,
+    "size": "238 B",
+    "date": "08-Dec-2025 09:33"
+  },
+  {
+    "name": "choice.hard.png",
+    "href": "choice.hard.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/maddog/choice.hard.png",
+    "is_dir": false,
+    "size": "242 B",
+    "date": "08-Dec-2025 09:33"
+  },
+  {
+    "name": "choice.med.png",
+    "href": "choice.med.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/maddog/choice.med.png",
+    "is_dir": false,
+    "size": "248 B",
+    "date": "08-Dec-2025 09:33"
+  },
+  {
+    "name": "choice.no.png",
+    "href": "choice.no.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/maddog/choice.no.png",
+    "is_dir": false,
+    "size": "236 B",
+    "date": "08-Dec-2025 09:33"
+  },
+  {
+    "name": "choice.rel1.png",
+    "href": "choice.rel1.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/maddog/choice.rel1.png",
+    "is_dir": false,
+    "size": "235 B",
+    "date": "08-Dec-2025 09:33"
+  },
+  {
+    "name": "choice.rel2.png",
+    "href": "choice.rel2.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/maddog/choice.rel2.png",
+    "is_dir": false,
+    "size": "251 B",
+    "date": "08-Dec-2025 09:33"
+  },
+  {
+    "name": "choice.rel3.png",
+    "href": "choice.rel3.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/maddog/choice.rel3.png",
+    "is_dir": false,
+    "size": "237 B",
+    "date": "08-Dec-2025 09:33"
+  },
+  {
+    "name": "choice.yes.png",
+    "href": "choice.yes.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/maddog/choice.yes.png",
+    "is_dir": false,
+    "size": "230 B",
+    "date": "08-Dec-2025 09:33"
+  },
+  {
+    "name": "choice1.png",
+    "href": "choice1.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/maddog/choice1.png",
+    "is_dir": false,
+    "size": "231 B",
+    "date": "08-Dec-2025 09:33"
+  },
+  {
+    "name": "choice2.png",
+    "href": "choice2.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/maddog/choice2.png",
+    "is_dir": false,
+    "size": "234 B",
+    "date": "08-Dec-2025 09:33"
+  },
+  {
+    "name": "choice3.png",
+    "href": "choice3.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/maddog/choice3.png",
+    "is_dir": false,
+    "size": "231 B",
+    "date": "08-Dec-2025 09:33"
+  },
+  {
+    "name": "choice4.png",
+    "href": "choice4.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/maddog/choice4.png",
+    "is_dir": false,
+    "size": "194 B",
+    "date": "08-Dec-2025 09:33"
+  },
+  {
+    "name": "coin.wav",
+    "href": "coin.wav",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/maddog/coin.wav",
+    "is_dir": false,
+    "size": "12.8 KiB",
+    "date": "01-Dec-2025 17:45"
+  },
+  {
+    "name": "copying",
+    "href": "copying",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/maddog/copying",
+    "is_dir": false,
+    "size": "18.2 KiB",
+    "date": "08-Dec-2025 09:33"
+  },
+  {
+    "name": "credits.png",
+    "href": "credits.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/maddog/credits.png",
+    "is_dir": false,
+    "size": "919 B",
+    "date": "01-Dec-2025 17:45"
+  },
+  {
+    "name": "crosshaira.png",
+    "href": "crosshaira.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/maddog/crosshaira.png",
+    "is_dir": false,
+    "size": "224 B",
+    "date": "01-Dec-2025 17:45"
+  },
+  {
+    "name": "crosshairb.png",
+    "href": "crosshairb.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/maddog/crosshairb.png",
+    "is_dir": false,
+    "size": "272 B",
+    "date": "01-Dec-2025 17:45"
+  },
+  {
+    "name": "crosshairc.png",
+    "href": "crosshairc.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/maddog/crosshairc.png",
+    "is_dir": false,
+    "size": "181 B",
+    "date": "01-Dec-2025 17:45"
+  },
+  {
+    "name": "crosshaird.png",
+    "href": "crosshaird.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/maddog/crosshaird.png",
+    "is_dir": false,
+    "size": "415 B",
+    "date": "01-Dec-2025 17:45"
+  },
+  {
+    "name": "crosshaire.png",
+    "href": "crosshaire.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/maddog/crosshaire.png",
+    "is_dir": false,
+    "size": "126 B",
+    "date": "01-Dec-2025 17:45"
+  },
+  {
+    "name": "empty.wav",
+    "href": "empty.wav",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/maddog/empty.wav",
+    "is_dir": false,
+    "size": "5.8 KiB",
+    "date": "01-Dec-2025 17:45"
+  },
+  {
+    "name": "frame_maddog_dvd.txt",
+    "href": "frame_maddog_dvd.txt",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/maddog/frame_maddog_dvd.txt",
+    "is_dir": false,
+    "size": "433 B",
+    "date": "08-Dec-2025 09:33"
+  },
+  {
+    "name": "gambler.ttf",
+    "href": "gambler.ttf",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/maddog/gambler.ttf",
+    "is_dir": false,
+    "size": "40.1 KiB",
+    "date": "01-Dec-2025 17:45"
+  },
+  {
+    "name": "gunshot.wav",
+    "href": "gunshot.wav",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/maddog/gunshot.wav",
+    "is_dir": false,
+    "size": "161.0 KiB",
+    "date": "01-Dec-2025 17:45"
+  },
+  {
+    "name": "hitbox-dvd-lvlbank.singe",
+    "href": "hitbox-dvd-lvlbank.singe",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/maddog/hitbox-dvd-lvlbank.singe",
+    "is_dir": false,
+    "size": "108.0 KiB",
+    "date": "01-Dec-2025 17:45"
+  },
+  {
+    "name": "hitbox-dvd-lvlbottle.singe",
+    "href": "hitbox-dvd-lvlbottle.singe",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/maddog/hitbox-dvd-lvlbottle.singe",
+    "is_dir": false,
+    "size": "39.0 KiB",
+    "date": "01-Dec-2025 17:45"
+  },
+  {
+    "name": "hitbox-dvd-lvlcanyon.singe",
+    "href": "hitbox-dvd-lvlcanyon.singe",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/maddog/hitbox-dvd-lvlcanyon.singe",
+    "is_dir": false,
+    "size": "56.0 KiB",
+    "date": "01-Dec-2025 17:45"
+  },
+  {
+    "name": "hitbox-dvd-lvlcliff.singe",
+    "href": "hitbox-dvd-lvlcliff.singe",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/maddog/hitbox-dvd-lvlcliff.singe",
+    "is_dir": false,
+    "size": "156.9 KiB",
+    "date": "01-Dec-2025 17:45"
+  },
+  {
+    "name": "hitbox-dvd-lvlcorral.singe",
+    "href": "hitbox-dvd-lvlcorral.singe",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/maddog/hitbox-dvd-lvlcorral.singe",
+    "is_dir": false,
+    "size": "120.7 KiB",
+    "date": "01-Dec-2025 17:45"
+  },
+  {
+    "name": "hitbox-dvd-lvlfuse.singe",
+    "href": "hitbox-dvd-lvlfuse.singe",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/maddog/hitbox-dvd-lvlfuse.singe",
+    "is_dir": false,
+    "size": "63.7 KiB",
+    "date": "01-Dec-2025 17:45"
+  },
+  {
+    "name": "hitbox-dvd-lvlhideout.singe",
+    "href": "hitbox-dvd-lvlhideout.singe",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/maddog/hitbox-dvd-lvlhideout.singe",
+    "is_dir": false,
+    "size": "98.5 KiB",
+    "date": "01-Dec-2025 17:45"
+  },
+  {
+    "name": "hitbox-dvd-lvlhouse.singe",
+    "href": "hitbox-dvd-lvlhouse.singe",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/maddog/hitbox-dvd-lvlhouse.singe",
+    "is_dir": false,
+    "size": "193.5 KiB",
+    "date": "01-Dec-2025 17:45"
+  },
+  {
+    "name": "hitbox-dvd-lvlmad.singe",
+    "href": "hitbox-dvd-lvlmad.singe",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/maddog/hitbox-dvd-lvlmad.singe",
+    "is_dir": false,
+    "size": "4.5 KiB",
+    "date": "01-Dec-2025 17:45"
+  },
+  {
+    "name": "hitbox-dvd-lvlplateau.singe",
+    "href": "hitbox-dvd-lvlplateau.singe",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/maddog/hitbox-dvd-lvlplateau.singe",
+    "is_dir": false,
+    "size": "66.9 KiB",
+    "date": "01-Dec-2025 17:45"
+  },
+  {
+    "name": "hitbox-dvd-lvlpond.singe",
+    "href": "hitbox-dvd-lvlpond.singe",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/maddog/hitbox-dvd-lvlpond.singe",
+    "is_dir": false,
+    "size": "24.6 KiB",
+    "date": "01-Dec-2025 17:45"
+  },
+  {
+    "name": "hitbox-dvd-lvlsaloon.singe",
+    "href": "hitbox-dvd-lvlsaloon.singe",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/maddog/hitbox-dvd-lvlsaloon.singe",
+    "is_dir": false,
+    "size": "165.6 KiB",
+    "date": "01-Dec-2025 17:45"
+  },
+  {
+    "name": "hitbox-dvd-lvlsheriff.singe",
+    "href": "hitbox-dvd-lvlsheriff.singe",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/maddog/hitbox-dvd-lvlsheriff.singe",
+    "is_dir": false,
+    "size": "23.9 KiB",
+    "date": "01-Dec-2025 17:45"
+  },
+  {
+    "name": "hitbox-dvd-lvlstart.singe",
+    "href": "hitbox-dvd-lvlstart.singe",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/maddog/hitbox-dvd-lvlstart.singe",
+    "is_dir": false,
+    "size": "20.0 KiB",
+    "date": "01-Dec-2025 17:45"
+  },
+  {
+    "name": "hitbox-dvd-lvltut.singe",
+    "href": "hitbox-dvd-lvltut.singe",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/maddog/hitbox-dvd-lvltut.singe",
+    "is_dir": false,
+    "size": "1.7 KiB",
+    "date": "01-Dec-2025 17:45"
+  },
+  {
+    "name": "hitbox-dvd-showdowns.singe",
+    "href": "hitbox-dvd-showdowns.singe",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/maddog/hitbox-dvd-showdowns.singe",
+    "is_dir": false,
+    "size": "30.4 KiB",
+    "date": "01-Dec-2025 17:45"
+  },
+  {
+    "name": "hitbox-highscore.singe",
+    "href": "hitbox-highscore.singe",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/maddog/hitbox-highscore.singe",
+    "is_dir": false,
+    "size": "2.6 KiB",
+    "date": "01-Dec-2025 17:45"
+  },
+  {
+    "name": "hitmap-hideoutsigns.singe",
+    "href": "hitmap-hideoutsigns.singe",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/maddog/hitmap-hideoutsigns.singe",
+    "is_dir": false,
+    "size": "31.4 KiB",
+    "date": "01-Dec-2025 17:45"
+  },
+  {
+    "name": "hitmap-mine.singe",
+    "href": "hitmap-mine.singe",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/maddog/hitmap-mine.singe",
+    "is_dir": false,
+    "size": "6.1 KiB",
+    "date": "01-Dec-2025 17:45"
+  },
+  {
+    "name": "hitmap-signpost.singe",
+    "href": "hitmap-signpost.singe",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/maddog/hitmap-signpost.singe",
+    "is_dir": false,
+    "size": "7.8 KiB",
+    "date": "01-Dec-2025 17:45"
+  },
+  {
+    "name": "hs.wav",
+    "href": "hs.wav",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/maddog/hs.wav",
+    "is_dir": false,
+    "size": "938.1 KiB",
+    "date": "01-Dec-2025 17:45"
+  },
+  {
+    "name": "m39.ttf",
+    "href": "m39.ttf",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/maddog/m39.ttf",
+    "is_dir": false,
+    "size": "15.5 KiB",
+    "date": "01-Dec-2025 17:45"
+  },
+  {
+    "name": "maddog.cfg",
+    "href": "maddog.cfg",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/maddog/maddog.cfg",
+    "is_dir": false,
+    "size": "245 B",
+    "date": "08-Dec-2025 09:33"
+  },
+  {
+    "name": "maddog.singe",
+    "href": "maddog.singe",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/maddog/maddog.singe",
+    "is_dir": false,
+    "size": "150.1 KiB",
+    "date": "08-Dec-2025 09:33"
+  },
+  {
+    "name": "maddog.txt",
+    "href": "maddog.txt",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/maddog/maddog.txt",
+    "is_dir": false,
+    "size": "433 B",
+    "date": "08-Dec-2025 09:33"
+  },
+  {
+    "name": "maddog_dvd.singe",
+    "href": "maddog_dvd.singe",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/maddog/maddog_dvd.singe",
+    "is_dir": false,
+    "size": "150.1 KiB",
+    "date": "08-Dec-2025 09:33"
+  },
+  {
+    "name": "maddog_dvd_saloon.singe",
+    "href": "maddog_dvd_saloon.singe",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/maddog/maddog_dvd_saloon.singe",
+    "is_dir": false,
+    "size": "8.6 KiB",
+    "date": "01-Dec-2025 17:45"
+  },
+  {
+    "name": "num0.png",
+    "href": "num0.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/maddog/num0.png",
+    "is_dir": false,
+    "size": "275 B",
+    "date": "08-Dec-2025 09:33"
+  },
+  {
+    "name": "num1.png",
+    "href": "num1.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/maddog/num1.png",
+    "is_dir": false,
+    "size": "250 B",
+    "date": "01-Dec-2025 17:45"
+  },
+  {
+    "name": "num2.png",
+    "href": "num2.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/maddog/num2.png",
+    "is_dir": false,
+    "size": "293 B",
+    "date": "01-Dec-2025 17:45"
+  },
+  {
+    "name": "num3.png",
+    "href": "num3.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/maddog/num3.png",
+    "is_dir": false,
+    "size": "304 B",
+    "date": "01-Dec-2025 17:45"
+  },
+  {
+    "name": "num4.png",
+    "href": "num4.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/maddog/num4.png",
+    "is_dir": false,
+    "size": "281 B",
+    "date": "01-Dec-2025 17:45"
+  },
+  {
+    "name": "num5.png",
+    "href": "num5.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/maddog/num5.png",
+    "is_dir": false,
+    "size": "296 B",
+    "date": "01-Dec-2025 17:45"
+  },
+  {
+    "name": "num6.png",
+    "href": "num6.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/maddog/num6.png",
+    "is_dir": false,
+    "size": "300 B",
+    "date": "01-Dec-2025 17:45"
+  },
+  {
+    "name": "num7.png",
+    "href": "num7.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/maddog/num7.png",
+    "is_dir": false,
+    "size": "274 B",
+    "date": "01-Dec-2025 17:45"
+  },
+  {
+    "name": "num8.png",
+    "href": "num8.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/maddog/num8.png",
+    "is_dir": false,
+    "size": "296 B",
+    "date": "01-Dec-2025 17:45"
+  },
+  {
+    "name": "num9.png",
+    "href": "num9.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/maddog/num9.png",
+    "is_dir": false,
+    "size": "304 B",
+    "date": "01-Dec-2025 17:45"
+  },
+  {
+    "name": "pistol.png",
+    "href": "pistol.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/maddog/pistol.png",
+    "is_dir": false,
+    "size": "656 B",
+    "date": "01-Dec-2025 17:45"
+  },
+  {
+    "name": "readme.txt",
+    "href": "readme.txt",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/maddog/readme.txt",
+    "is_dir": false,
+    "size": "13.2 KiB",
+    "date": "08-Dec-2025 09:33"
+  },
+  {
+    "name": "reload.png",
+    "href": "reload.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/maddog/reload.png",
+    "is_dir": false,
+    "size": "481 B",
+    "date": "01-Dec-2025 17:45"
+  },
+  {
+    "name": "reload.wav",
+    "href": "reload.wav",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/maddog/reload.wav",
+    "is_dir": false,
+    "size": "102.8 KiB",
+    "date": "01-Dec-2025 17:45"
+  },
+  {
+    "name": "service.singe",
+    "href": "service.singe",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/maddog/service.singe",
+    "is_dir": false,
+    "size": "10.5 KiB",
+    "date": "08-Dec-2025 09:33"
+  },
+  {
+    "name": "star.png",
+    "href": "star.png",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/maddog/star.png",
+    "is_dir": false,
+    "size": "256 B",
+    "date": "04-Dec-2025 01:41"
+  },
+  {
+    "name": "toolbox.singe",
+    "href": "toolbox.singe",
+    "url": "https://myrient.erista.me/files/Laserdisc%20Collection/Daphne/Daphne4K/Daphne/singe/maddog/toolbox.singe",
+    "is_dir": false,
+    "size": "3.8 KiB",
+    "date": "01-Dec-2025 17:45"
+  }
+]

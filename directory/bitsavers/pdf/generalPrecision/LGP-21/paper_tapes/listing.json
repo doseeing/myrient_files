@@ -1,0 +1,962 @@
+[
+  {
+    "name": "__text",
+    "href": "__text/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/generalPrecision/LGP-21/paper_tapes/__text/",
+    "is_dir": true,
+    "size": null,
+    "date": "18-Jan-2025 17:17"
+  },
+  {
+    "name": "__tools",
+    "href": "__tools/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/generalPrecision/LGP-21/paper_tapes/__tools/",
+    "is_dir": true,
+    "size": null,
+    "date": "18-Jan-2025 17:12"
+  },
+  {
+    "name": "37nw.ptp",
+    "href": "37nw.ptp",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/generalPrecision/LGP-21/paper_tapes/37nw.ptp",
+    "is_dir": false,
+    "size": "2.9 KiB",
+    "date": "16-Jan-2025 07:11"
+  },
+  {
+    "name": "ACT_V_Compiler_and_Subroutines.ptp",
+    "href": "ACT_V_Compiler_and_Subroutines.ptp",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/generalPrecision/LGP-21/paper_tapes/ACT_V_Compiler_and_Subroutines.ptp",
+    "is_dir": false,
+    "size": "29.3 KiB",
+    "date": "13-Jan-2025 07:06"
+  },
+  {
+    "name": "ACT_V_comp.ptp",
+    "href": "ACT_V_comp.ptp",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/generalPrecision/LGP-21/paper_tapes/ACT_V_comp.ptp",
+    "is_dir": false,
+    "size": "29.3 KiB",
+    "date": "13-Jan-2025 17:07"
+  },
+  {
+    "name": "Decimal-Hex_Conversion_Decimal.ptp",
+    "href": "Decimal-Hex_Conversion_Decimal.ptp",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/generalPrecision/LGP-21/paper_tapes/Decimal-Hex_Conversion_Decimal.ptp",
+    "is_dir": false,
+    "size": "14.9 KiB",
+    "date": "14-Jan-2025 05:54"
+  },
+  {
+    "name": "Decimal_to_Hex_Converter_Doc.ptp",
+    "href": "Decimal_to_Hex_Converter_Doc.ptp",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/generalPrecision/LGP-21/paper_tapes/Decimal_to_Hex_Converter_Doc.ptp",
+    "is_dir": false,
+    "size": "4.2 KiB",
+    "date": "14-Jan-2025 17:54"
+  },
+  {
+    "name": "El.No._vs_Velocity_to_Plot_Tape_Converter.jpg",
+    "href": "El.No._vs_Velocity_to_Plot_Tape_Converter.jpg",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/generalPrecision/LGP-21/paper_tapes/El.No._vs_Velocity_to_Plot_Tape_Converter.jpg",
+    "is_dir": false,
+    "size": "108.6 KiB",
+    "date": "16-Jan-2025 19:16"
+  },
+  {
+    "name": "El.No._vs_Velocity_to_Plot_Tape_Converter.ptp",
+    "href": "El.No._vs_Velocity_to_Plot_Tape_Converter.ptp",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/generalPrecision/LGP-21/paper_tapes/El.No._vs_Velocity_to_Plot_Tape_Converter.ptp",
+    "is_dir": false,
+    "size": "5.9 KiB",
+    "date": "16-Jan-2025 07:11"
+  },
+  {
+    "name": "Fixed_Point-DXT_Non_Rel_0200-1363_Hex_In_3.ptp",
+    "href": "Fixed_Point-DXT_Non_Rel_0200-1363_Hex_In_3.ptp",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/generalPrecision/LGP-21/paper_tapes/Fixed_Point-DXT_Non_Rel_0200-1363_Hex_In_3.ptp",
+    "is_dir": false,
+    "size": "4.5 KiB",
+    "date": "16-Jan-2025 07:11"
+  },
+  {
+    "name": "Floating_Point_Trace.ptp",
+    "href": "Floating_Point_Trace.ptp",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/generalPrecision/LGP-21/paper_tapes/Floating_Point_Trace.ptp",
+    "is_dir": false,
+    "size": "2.8 KiB",
+    "date": "14-Jan-2025 17:54"
+  },
+  {
+    "name": "Floating_Point_Trace_Decimal_tape_part_1.ptp",
+    "href": "Floating_Point_Trace_Decimal_tape_part_1.ptp",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/generalPrecision/LGP-21/paper_tapes/Floating_Point_Trace_Decimal_tape_part_1.ptp",
+    "is_dir": false,
+    "size": "1.2 KiB",
+    "date": "14-Jan-2025 17:54"
+  },
+  {
+    "name": "Floating_Point_Trace_Decimal_tape_part_2.ptp",
+    "href": "Floating_Point_Trace_Decimal_tape_part_2.ptp",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/generalPrecision/LGP-21/paper_tapes/Floating_Point_Trace_Decimal_tape_part_2.ptp",
+    "is_dir": false,
+    "size": "1.4 KiB",
+    "date": "14-Jan-2025 17:54"
+  },
+  {
+    "name": "H1-11.1_R3.ptp",
+    "href": "H1-11.1_R3.ptp",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/generalPrecision/LGP-21/paper_tapes/H1-11.1_R3.ptp",
+    "is_dir": false,
+    "size": "12.5 KiB",
+    "date": "16-Jan-2025 07:11"
+  },
+  {
+    "name": "H1-11.1_R3_Floating_Point_2_Decimal_Tape.ptp",
+    "href": "H1-11.1_R3_Floating_Point_2_Decimal_Tape.ptp",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/generalPrecision/LGP-21/paper_tapes/H1-11.1_R3_Floating_Point_2_Decimal_Tape.ptp",
+    "is_dir": false,
+    "size": "17.7 KiB",
+    "date": "14-Jan-2025 01:23"
+  },
+  {
+    "name": "HJF-0017R_Gamma_Count_Processor_10-30-64.ptp",
+    "href": "HJF-0017R_Gamma_Count_Processor_10-30-64.ptp",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/generalPrecision/LGP-21/paper_tapes/HJF-0017R_Gamma_Count_Processor_10-30-64.ptp",
+    "is_dir": false,
+    "size": "5.7 KiB",
+    "date": "16-Jan-2025 07:11"
+  },
+  {
+    "name": "HJF-0026_Anti-Log_Print_Dec.ptp",
+    "href": "HJF-0026_Anti-Log_Print_Dec.ptp",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/generalPrecision/LGP-21/paper_tapes/HJF-0026_Anti-Log_Print_Dec.ptp",
+    "is_dir": false,
+    "size": "731 B",
+    "date": "16-Jan-2025 07:11"
+  },
+  {
+    "name": "HJR-0017R_Data_for_Gamma_Program.ptp",
+    "href": "HJR-0017R_Data_for_Gamma_Program.ptp",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/generalPrecision/LGP-21/paper_tapes/HJR-0017R_Data_for_Gamma_Program.ptp",
+    "is_dir": false,
+    "size": "2.4 KiB",
+    "date": "16-Jan-2025 07:11"
+  },
+  {
+    "name": "LGP-21_Program_Catalog.pdf",
+    "href": "LGP-21_Program_Catalog.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/generalPrecision/LGP-21/paper_tapes/LGP-21_Program_Catalog.pdf",
+    "is_dir": false,
+    "size": "263.8 KiB",
+    "date": "19-May-2022 03:14"
+  },
+  {
+    "name": "LGP-21_oper_procdr.jpg",
+    "href": "LGP-21_oper_procdr.jpg",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/generalPrecision/LGP-21/paper_tapes/LGP-21_oper_procdr.jpg",
+    "is_dir": false,
+    "size": "572.4 KiB",
+    "date": "16-Jan-2025 19:16"
+  },
+  {
+    "name": "Literature.ptp",
+    "href": "Literature.ptp",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/generalPrecision/LGP-21/paper_tapes/Literature.ptp",
+    "is_dir": false,
+    "size": "451 B",
+    "date": "14-Jan-2025 17:54"
+  },
+  {
+    "name": "Program_Checkout_1_dup.ptp",
+    "href": "Program_Checkout_1_dup.ptp",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/generalPrecision/LGP-21/paper_tapes/Program_Checkout_1_dup.ptp",
+    "is_dir": false,
+    "size": "3.2 KiB",
+    "date": "14-Jan-2025 17:54"
+  },
+  {
+    "name": "Program_Input_#1_R3.ptp",
+    "href": "Program_Input_%231_R3.ptp",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/generalPrecision/LGP-21/paper_tapes/Program_Input_%231_R3.ptp",
+    "is_dir": false,
+    "size": "6.5 KiB",
+    "date": "15-Jan-2025 05:19"
+  },
+  {
+    "name": "Program_Input_#2.ptp",
+    "href": "Program_Input_%232.ptp",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/generalPrecision/LGP-21/paper_tapes/Program_Input_%232.ptp",
+    "is_dir": false,
+    "size": "8.6 KiB",
+    "date": "14-Jan-2025 17:54"
+  },
+  {
+    "name": "SC_02010_B4-59_Nth_Root_Same_As_B4-11.0.ptp",
+    "href": "SC_02010_B4-59_Nth_Root_Same_As_B4-11.0.ptp",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/generalPrecision/LGP-21/paper_tapes/SC_02010_B4-59_Nth_Root_Same_As_B4-11.0.ptp",
+    "is_dir": false,
+    "size": "800 B",
+    "date": "13-Jan-2025 19:51"
+  },
+  {
+    "name": "SC_02042_E1-36.0_Curve_Fit_5_LGP-30_E1-36.0.ptp",
+    "href": "SC_02042_E1-36.0_Curve_Fit_5_LGP-30_E1-36.0.ptp",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/generalPrecision/LGP-21/paper_tapes/SC_02042_E1-36.0_Curve_Fit_5_LGP-30_E1-36.0.ptp",
+    "is_dir": false,
+    "size": "3.3 KiB",
+    "date": "16-Jan-2025 00:10"
+  },
+  {
+    "name": "SC_02271_E1-37.0.ptp",
+    "href": "SC_02271_E1-37.0.ptp",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/generalPrecision/LGP-21/paper_tapes/SC_02271_E1-37.0.ptp",
+    "is_dir": false,
+    "size": "8.4 KiB",
+    "date": "16-Jan-2025 07:11"
+  },
+  {
+    "name": "SC_02393_H3-11.0_ACT_V_PART_1.ptp",
+    "href": "SC_02393_H3-11.0_ACT_V_PART_1.ptp",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/generalPrecision/LGP-21/paper_tapes/SC_02393_H3-11.0_ACT_V_PART_1.ptp",
+    "is_dir": false,
+    "size": "31.9 KiB",
+    "date": "13-Jan-2025 17:07"
+  },
+  {
+    "name": "SC_02394_H3-11.0.ptp",
+    "href": "SC_02394_H3-11.0.ptp",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/generalPrecision/LGP-21/paper_tapes/SC_02394_H3-11.0.ptp",
+    "is_dir": false,
+    "size": "20.6 KiB",
+    "date": "15-Jan-2025 05:19"
+  },
+  {
+    "name": "SC_20003_J1-10.1_Program_Input_2.ptp",
+    "href": "SC_20003_J1-10.1_Program_Input_2.ptp",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/generalPrecision/LGP-21/paper_tapes/SC_20003_J1-10.1_Program_Input_2.ptp",
+    "is_dir": false,
+    "size": "8.8 KiB",
+    "date": "14-Jan-2025 17:54"
+  },
+  {
+    "name": "SC_20021_B1-10.0.ptp",
+    "href": "SC_20021_B1-10.0.ptp",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/generalPrecision/LGP-21/paper_tapes/SC_20021_B1-10.0.ptp",
+    "is_dir": false,
+    "size": "3.3 KiB",
+    "date": "16-Jan-2025 00:10"
+  },
+  {
+    "name": "SC_20024_B1-11.0_Arc_Tan_1.ptp",
+    "href": "SC_20024_B1-11.0_Arc_Tan_1.ptp",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/generalPrecision/LGP-21/paper_tapes/SC_20024_B1-11.0_Arc_Tan_1.ptp",
+    "is_dir": false,
+    "size": "3.2 KiB",
+    "date": "16-Jan-2025 00:10"
+  },
+  {
+    "name": "SC_20025_B1-11.0_Arctangent_1_Rel_Hex.pdf",
+    "href": "SC_20025_B1-11.0_Arctangent_1_Rel_Hex.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/generalPrecision/LGP-21/paper_tapes/SC_20025_B1-11.0_Arctangent_1_Rel_Hex.pdf",
+    "is_dir": false,
+    "size": "119.9 KiB",
+    "date": "13-Jan-2025 05:14"
+  },
+  {
+    "name": "SC_20026_B1-11.0_Arctangent_1.pdf",
+    "href": "SC_20026_B1-11.0_Arctangent_1.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/generalPrecision/LGP-21/paper_tapes/SC_20026_B1-11.0_Arctangent_1.pdf",
+    "is_dir": false,
+    "size": "353.9 KiB",
+    "date": "13-Jan-2025 05:14"
+  },
+  {
+    "name": "SC_20027_B1-12.0_ARCSIN_ARCCOS_1.ptp",
+    "href": "SC_20027_B1-12.0_ARCSIN_ARCCOS_1.ptp",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/generalPrecision/LGP-21/paper_tapes/SC_20027_B1-12.0_ARCSIN_ARCCOS_1.ptp",
+    "is_dir": false,
+    "size": "6.1 KiB",
+    "date": "16-Jan-2025 00:10"
+  },
+  {
+    "name": "SC_20030_B3-10.0_Exponential_1.ptp",
+    "href": "SC_20030_B3-10.0_Exponential_1.ptp",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/generalPrecision/LGP-21/paper_tapes/SC_20030_B3-10.0_Exponential_1.ptp",
+    "is_dir": false,
+    "size": "3.0 KiB",
+    "date": "14-Jan-2025 17:54"
+  },
+  {
+    "name": "SC_20030_B3-10.0_Exponential_1_cpy2.ptp",
+    "href": "SC_20030_B3-10.0_Exponential_1_cpy2.ptp",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/generalPrecision/LGP-21/paper_tapes/SC_20030_B3-10.0_Exponential_1_cpy2.ptp",
+    "is_dir": false,
+    "size": "3.0 KiB",
+    "date": "14-Jan-2025 17:54"
+  },
+  {
+    "name": "SC_20031_B3-10.0_Exponential_1_Rel_Hex.pdf",
+    "href": "SC_20031_B3-10.0_Exponential_1_Rel_Hex.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/generalPrecision/LGP-21/paper_tapes/SC_20031_B3-10.0_Exponential_1_Rel_Hex.pdf",
+    "is_dir": false,
+    "size": "123.6 KiB",
+    "date": "13-Jan-2025 05:14"
+  },
+  {
+    "name": "SC_20032_B3-10.0_Exponential_1.pdf",
+    "href": "SC_20032_B3-10.0_Exponential_1.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/generalPrecision/LGP-21/paper_tapes/SC_20032_B3-10.0_Exponential_1.pdf",
+    "is_dir": false,
+    "size": "407.3 KiB",
+    "date": "13-Jan-2025 05:14"
+  },
+  {
+    "name": "SC_20033_B3-11.0_Log_1_ptp",
+    "href": "SC_20033_B3-11.0_Log_1_ptp",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/generalPrecision/LGP-21/paper_tapes/SC_20033_B3-11.0_Log_1_ptp",
+    "is_dir": false,
+    "size": "5.5 KiB",
+    "date": "14-Jan-2025 17:54"
+  },
+  {
+    "name": "SC_20034_B3-11.0_Log_1_Rel_Hex.pdf",
+    "href": "SC_20034_B3-11.0_Log_1_Rel_Hex.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/generalPrecision/LGP-21/paper_tapes/SC_20034_B3-11.0_Log_1_Rel_Hex.pdf",
+    "is_dir": false,
+    "size": "196.2 KiB",
+    "date": "13-Jan-2025 05:14"
+  },
+  {
+    "name": "SC_20035_B3-11.0_Log_1.pdf",
+    "href": "SC_20035_B3-11.0_Log_1.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/generalPrecision/LGP-21/paper_tapes/SC_20035_B3-11.0_Log_1.pdf",
+    "is_dir": false,
+    "size": "829.5 KiB",
+    "date": "13-Jan-2025 05:14"
+  },
+  {
+    "name": "SC_20036.ptp",
+    "href": "SC_20036.ptp",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/generalPrecision/LGP-21/paper_tapes/SC_20036.ptp",
+    "is_dir": false,
+    "size": "2.8 KiB",
+    "date": "16-Jan-2025 07:11"
+  },
+  {
+    "name": "SC_20037_B4-10.0_Square_Root_1_Rel_Hex.pdf",
+    "href": "SC_20037_B4-10.0_Square_Root_1_Rel_Hex.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/generalPrecision/LGP-21/paper_tapes/SC_20037_B4-10.0_Square_Root_1_Rel_Hex.pdf",
+    "is_dir": false,
+    "size": "101.7 KiB",
+    "date": "13-Jan-2025 05:14"
+  },
+  {
+    "name": "SC_20038_B4-10.0_Square_Root_1.pdf",
+    "href": "SC_20038_B4-10.0_Square_Root_1.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/generalPrecision/LGP-21/paper_tapes/SC_20038_B4-10.0_Square_Root_1.pdf",
+    "is_dir": false,
+    "size": "444.1 KiB",
+    "date": "13-Jan-2025 05:14"
+  },
+  {
+    "name": "SC_20057_K2-10.1_Memory_Print_2.ptp",
+    "href": "SC_20057_K2-10.1_Memory_Print_2.ptp",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/generalPrecision/LGP-21/paper_tapes/SC_20057_K2-10.1_Memory_Print_2.ptp",
+    "is_dir": false,
+    "size": "5.0 KiB",
+    "date": "13-Jan-2025 07:07"
+  },
+  {
+    "name": "SC_20058_K2-10.1_Memory_Print_2_Rel_Hex.pdf",
+    "href": "SC_20058_K2-10.1_Memory_Print_2_Rel_Hex.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/generalPrecision/LGP-21/paper_tapes/SC_20058_K2-10.1_Memory_Print_2_Rel_Hex.pdf",
+    "is_dir": false,
+    "size": "207.9 KiB",
+    "date": "13-Jan-2025 05:14"
+  },
+  {
+    "name": "SC_20059_K2-10.1_Memory_Print_2.pdf",
+    "href": "SC_20059_K2-10.1_Memory_Print_2.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/generalPrecision/LGP-21/paper_tapes/SC_20059_K2-10.1_Memory_Print_2.pdf",
+    "is_dir": false,
+    "size": "620.1 KiB",
+    "date": "13-Jan-2025 05:14"
+  },
+  {
+    "name": "SC_20063_K9-10.0.ptp",
+    "href": "SC_20063_K9-10.0.ptp",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/generalPrecision/LGP-21/paper_tapes/SC_20063_K9-10.0.ptp",
+    "is_dir": false,
+    "size": "17.4 KiB",
+    "date": "15-Jan-2025 05:19"
+  },
+  {
+    "name": "SC_20063_K9-10.0_cpy2.ptp",
+    "href": "SC_20063_K9-10.0_cpy2.ptp",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/generalPrecision/LGP-21/paper_tapes/SC_20063_K9-10.0_cpy2.ptp",
+    "is_dir": false,
+    "size": "17.1 KiB",
+    "date": "15-Jan-2025 05:19"
+  },
+  {
+    "name": "SC_20064_K9-10.0_Program_Checkout_1_Rel_Hex.pdf",
+    "href": "SC_20064_K9-10.0_Program_Checkout_1_Rel_Hex.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/generalPrecision/LGP-21/paper_tapes/SC_20064_K9-10.0_Program_Checkout_1_Rel_Hex.pdf",
+    "is_dir": false,
+    "size": "723.2 KiB",
+    "date": "13-Jan-2025 05:14"
+  },
+  {
+    "name": "SC_20065_K9-10.0_Program_Checkout_1.pdf",
+    "href": "SC_20065_K9-10.0_Program_Checkout_1.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/generalPrecision/LGP-21/paper_tapes/SC_20065_K9-10.0_Program_Checkout_1.pdf",
+    "is_dir": false,
+    "size": "3.0 MiB",
+    "date": "13-Jan-2025 05:14"
+  },
+  {
+    "name": "SC_20070_K1-10.0_Trace_1_Rel_Hex.pdf",
+    "href": "SC_20070_K1-10.0_Trace_1_Rel_Hex.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/generalPrecision/LGP-21/paper_tapes/SC_20070_K1-10.0_Trace_1_Rel_Hex.pdf",
+    "is_dir": false,
+    "size": "425.2 KiB",
+    "date": "13-Jan-2025 05:14"
+  },
+  {
+    "name": "SC_20071_K1-10.0_Trace_1.pdf",
+    "href": "SC_20071_K1-10.0_Trace_1.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/generalPrecision/LGP-21/paper_tapes/SC_20071_K1-10.0_Trace_1.pdf",
+    "is_dir": false,
+    "size": "1.3 MiB",
+    "date": "13-Jan-2025 05:14"
+  },
+  {
+    "name": "SC_20072_K2-10.0_Memory_Print_1.ptp",
+    "href": "SC_20072_K2-10.0_Memory_Print_1.ptp",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/generalPrecision/LGP-21/paper_tapes/SC_20072_K2-10.0_Memory_Print_1.ptp",
+    "is_dir": false,
+    "size": "17.8 KiB",
+    "date": "16-Jan-2025 00:10"
+  },
+  {
+    "name": "SC_20073_K2-10.0_Memory_Print_1_Rel_Hex.pdf",
+    "href": "SC_20073_K2-10.0_Memory_Print_1_Rel_Hex.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/generalPrecision/LGP-21/paper_tapes/SC_20073_K2-10.0_Memory_Print_1_Rel_Hex.pdf",
+    "is_dir": false,
+    "size": "1.1 MiB",
+    "date": "13-Jan-2025 05:14"
+  },
+  {
+    "name": "SC_20074_K2-10.0_Memory_Print_1.pdf",
+    "href": "SC_20074_K2-10.0_Memory_Print_1.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/generalPrecision/LGP-21/paper_tapes/SC_20074_K2-10.0_Memory_Print_1.pdf",
+    "is_dir": false,
+    "size": "2.4 MiB",
+    "date": "13-Jan-2025 05:14"
+  },
+  {
+    "name": "SC_20076_L3-10.0_Integer_Binarization_1_Rel_Hex.pdf",
+    "href": "SC_20076_L3-10.0_Integer_Binarization_1_Rel_Hex.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/generalPrecision/LGP-21/paper_tapes/SC_20076_L3-10.0_Integer_Binarization_1_Rel_Hex.pdf",
+    "is_dir": false,
+    "size": "110.5 KiB",
+    "date": "13-Jan-2025 20:23"
+  },
+  {
+    "name": "SC_20077_L3-10.0_Integer_Binarization_1.pdf",
+    "href": "SC_20077_L3-10.0_Integer_Binarization_1.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/generalPrecision/LGP-21/paper_tapes/SC_20077_L3-10.0_Integer_Binarization_1.pdf",
+    "is_dir": false,
+    "size": "280.0 KiB",
+    "date": "13-Jan-2025 20:23"
+  },
+  {
+    "name": "SC_20078_B1-10.1.ptp",
+    "href": "SC_20078_B1-10.1.ptp",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/generalPrecision/LGP-21/paper_tapes/SC_20078_B1-10.1.ptp",
+    "is_dir": false,
+    "size": "3.1 KiB",
+    "date": "16-Jan-2025 00:10"
+  },
+  {
+    "name": "SC_20079_B1-10.1_Sine-Cosine_2_Rel_Hex.pdf",
+    "href": "SC_20079_B1-10.1_Sine-Cosine_2_Rel_Hex.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/generalPrecision/LGP-21/paper_tapes/SC_20079_B1-10.1_Sine-Cosine_2_Rel_Hex.pdf",
+    "is_dir": false,
+    "size": "133.1 KiB",
+    "date": "13-Jan-2025 20:23"
+  },
+  {
+    "name": "SC_20080_B1-10.1_Sine-Cosine_2.pdf",
+    "href": "SC_20080_B1-10.1_Sine-Cosine_2.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/generalPrecision/LGP-21/paper_tapes/SC_20080_B1-10.1_Sine-Cosine_2.pdf",
+    "is_dir": false,
+    "size": "337.3 KiB",
+    "date": "13-Jan-2025 20:23"
+  },
+  {
+    "name": "SC_20081_B1-11.1_Arctan_Vector_Resolution_1.ptp",
+    "href": "SC_20081_B1-11.1_Arctan_Vector_Resolution_1.ptp",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/generalPrecision/LGP-21/paper_tapes/SC_20081_B1-11.1_Arctan_Vector_Resolution_1.ptp",
+    "is_dir": false,
+    "size": "5.4 KiB",
+    "date": "16-Jan-2025 00:10"
+  },
+  {
+    "name": "SC_20082_B1-11.1_Arctangent-Vector_Resolution_1_Rel_Hex.pdf",
+    "href": "SC_20082_B1-11.1_Arctangent-Vector_Resolution_1_Rel_Hex.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/generalPrecision/LGP-21/paper_tapes/SC_20082_B1-11.1_Arctangent-Vector_Resolution_1_Rel_Hex.pdf",
+    "is_dir": false,
+    "size": "213.9 KiB",
+    "date": "13-Jan-2025 20:23"
+  },
+  {
+    "name": "SC_20083_B1-11.1_Arctangent-Vector_Resolution.pdf",
+    "href": "SC_20083_B1-11.1_Arctangent-Vector_Resolution.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/generalPrecision/LGP-21/paper_tapes/SC_20083_B1-11.1_Arctangent-Vector_Resolution.pdf",
+    "is_dir": false,
+    "size": "768.2 KiB",
+    "date": "13-Jan-2025 20:23"
+  },
+  {
+    "name": "SC_20085_B4-11.0_Nth_Root_1_Rel_Hex.pdf",
+    "href": "SC_20085_B4-11.0_Nth_Root_1_Rel_Hex.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/generalPrecision/LGP-21/paper_tapes/SC_20085_B4-11.0_Nth_Root_1_Rel_Hex.pdf",
+    "is_dir": false,
+    "size": "104.8 KiB",
+    "date": "13-Jan-2025 20:23"
+  },
+  {
+    "name": "SC_20086_B4-11.0_Nth_Root_1.pdf",
+    "href": "SC_20086_B4-11.0_Nth_Root_1.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/generalPrecision/LGP-21/paper_tapes/SC_20086_B4-11.0_Nth_Root_1.pdf",
+    "is_dir": false,
+    "size": "454.9 KiB",
+    "date": "13-Jan-2025 20:23"
+  },
+  {
+    "name": "SC_20093.ptp",
+    "href": "SC_20093.ptp",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/generalPrecision/LGP-21/paper_tapes/SC_20093.ptp",
+    "is_dir": false,
+    "size": "5.0 KiB",
+    "date": "16-Jan-2025 07:11"
+  },
+  {
+    "name": "SC_20096.ptp",
+    "href": "SC_20096.ptp",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/generalPrecision/LGP-21/paper_tapes/SC_20096.ptp",
+    "is_dir": false,
+    "size": "3.7 KiB",
+    "date": "16-Jan-2025 07:11"
+  },
+  {
+    "name": "SC_20097_D1-12.0_Matrix_Vector_Multiply_1_Rel_Hex.pdf",
+    "href": "SC_20097_D1-12.0_Matrix_Vector_Multiply_1_Rel_Hex.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/generalPrecision/LGP-21/paper_tapes/SC_20097_D1-12.0_Matrix_Vector_Multiply_1_Rel_Hex.pdf",
+    "is_dir": false,
+    "size": "157.2 KiB",
+    "date": "13-Jan-2025 20:23"
+  },
+  {
+    "name": "SC_20098_D1-12.0_Matrix_Vector_Multiply_1.pdf",
+    "href": "SC_20098_D1-12.0_Matrix_Vector_Multiply_1.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/generalPrecision/LGP-21/paper_tapes/SC_20098_D1-12.0_Matrix_Vector_Multiply_1.pdf",
+    "is_dir": false,
+    "size": "455.1 KiB",
+    "date": "13-Jan-2025 20:23"
+  },
+  {
+    "name": "SC_20099.ptp",
+    "href": "SC_20099.ptp",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/generalPrecision/LGP-21/paper_tapes/SC_20099.ptp",
+    "is_dir": false,
+    "size": "6.2 KiB",
+    "date": "16-Jan-2025 07:11"
+  },
+  {
+    "name": "SC_20100_D1-13.0_Matrix_Multiply_1_Rel_Hex.pdf",
+    "href": "SC_20100_D1-13.0_Matrix_Multiply_1_Rel_Hex.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/generalPrecision/LGP-21/paper_tapes/SC_20100_D1-13.0_Matrix_Multiply_1_Rel_Hex.pdf",
+    "is_dir": false,
+    "size": "255.5 KiB",
+    "date": "13-Jan-2025 20:23"
+  },
+  {
+    "name": "SC_20101_D1-13.0_Matrix_Multiply_1.pdf",
+    "href": "SC_20101_D1-13.0_Matrix_Multiply_1.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/generalPrecision/LGP-21/paper_tapes/SC_20101_D1-13.0_Matrix_Multiply_1.pdf",
+    "is_dir": false,
+    "size": "987.9 KiB",
+    "date": "13-Jan-2025 20:23"
+  },
+  {
+    "name": "SC_20102.ptp",
+    "href": "SC_20102.ptp",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/generalPrecision/LGP-21/paper_tapes/SC_20102.ptp",
+    "is_dir": false,
+    "size": "2.7 KiB",
+    "date": "16-Jan-2025 07:11"
+  },
+  {
+    "name": "SC_20103_D1-14.0_Matrix_Add-Subtract_1_Rel_Hex.pdf",
+    "href": "SC_20103_D1-14.0_Matrix_Add-Subtract_1_Rel_Hex.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/generalPrecision/LGP-21/paper_tapes/SC_20103_D1-14.0_Matrix_Add-Subtract_1_Rel_Hex.pdf",
+    "is_dir": false,
+    "size": "142.8 KiB",
+    "date": "13-Jan-2025 20:23"
+  },
+  {
+    "name": "SC_20104_D1-14.0_Matrix_Add-Subtract_1.pdf",
+    "href": "SC_20104_D1-14.0_Matrix_Add-Subtract_1.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/generalPrecision/LGP-21/paper_tapes/SC_20104_D1-14.0_Matrix_Add-Subtract_1.pdf",
+    "is_dir": false,
+    "size": "304.8 KiB",
+    "date": "13-Jan-2025 20:23"
+  },
+  {
+    "name": "SC_20105_D1-15.0.ptp",
+    "href": "SC_20105_D1-15.0.ptp",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/generalPrecision/LGP-21/paper_tapes/SC_20105_D1-15.0.ptp",
+    "is_dir": false,
+    "size": "4.8 KiB",
+    "date": "15-Jan-2025 05:19"
+  },
+  {
+    "name": "SC_20106_D1-15.0_Matrix_Transpose_1_Rel_Hex.pdf",
+    "href": "SC_20106_D1-15.0_Matrix_Transpose_1_Rel_Hex.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/generalPrecision/LGP-21/paper_tapes/SC_20106_D1-15.0_Matrix_Transpose_1_Rel_Hex.pdf",
+    "is_dir": false,
+    "size": "180.2 KiB",
+    "date": "13-Jan-2025 20:23"
+  },
+  {
+    "name": "SC_20107_D1-15.0_Matrix_Transpose_1.pdf",
+    "href": "SC_20107_D1-15.0_Matrix_Transpose_1.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/generalPrecision/LGP-21/paper_tapes/SC_20107_D1-15.0_Matrix_Transpose_1.pdf",
+    "is_dir": false,
+    "size": "667.1 KiB",
+    "date": "13-Jan-2025 20:23"
+  },
+  {
+    "name": "SC_20109_L4-11.0_Tape_Duplicator_1_Rel_Hex.pdf",
+    "href": "SC_20109_L4-11.0_Tape_Duplicator_1_Rel_Hex.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/generalPrecision/LGP-21/paper_tapes/SC_20109_L4-11.0_Tape_Duplicator_1_Rel_Hex.pdf",
+    "is_dir": false,
+    "size": "135.2 KiB",
+    "date": "13-Jan-2025 20:23"
+  },
+  {
+    "name": "SC_20110_L4-11.0_Tape_Duplicator_1.pdf",
+    "href": "SC_20110_L4-11.0_Tape_Duplicator_1.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/generalPrecision/LGP-21/paper_tapes/SC_20110_L4-11.0_Tape_Duplicator_1.pdf",
+    "is_dir": false,
+    "size": "448.6 KiB",
+    "date": "13-Jan-2025 20:23"
+  },
+  {
+    "name": "SC_20111_Floating_Point_1_cpy2.ptp",
+    "href": "SC_20111_Floating_Point_1_cpy2.ptp",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/generalPrecision/LGP-21/paper_tapes/SC_20111_Floating_Point_1_cpy2.ptp",
+    "is_dir": false,
+    "size": "13.5 KiB",
+    "date": "14-Jan-2025 17:54"
+  },
+  {
+    "name": "SC_20111_H1-11.0_Floating_Point_Interpretive_System_1.ptp",
+    "href": "SC_20111_H1-11.0_Floating_Point_Interpretive_System_1.ptp",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/generalPrecision/LGP-21/paper_tapes/SC_20111_H1-11.0_Floating_Point_Interpretive_System_1.ptp",
+    "is_dir": false,
+    "size": "13.6 KiB",
+    "date": "14-Jan-2025 01:23"
+  },
+  {
+    "name": "SC_20134_H1-11.1_Floating_Point_2_Decimal_Tape.ptp",
+    "href": "SC_20134_H1-11.1_Floating_Point_2_Decimal_Tape.ptp",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/generalPrecision/LGP-21/paper_tapes/SC_20134_H1-11.1_Floating_Point_2_Decimal_Tape.ptp",
+    "is_dir": false,
+    "size": "17.1 KiB",
+    "date": "14-Jan-2025 01:23"
+  },
+  {
+    "name": "SC_20138_H1-10.0_Complex_Operations_Interpretive_System.ptp",
+    "href": "SC_20138_H1-10.0_Complex_Operations_Interpretive_System.ptp",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/generalPrecision/LGP-21/paper_tapes/SC_20138_H1-10.0_Complex_Operations_Interpretive_System.ptp",
+    "is_dir": false,
+    "size": "6.1 KiB",
+    "date": "14-Jan-2025 17:54"
+  },
+  {
+    "name": "SC_20141_I1-10.0_Critical_Path_Method_Rel_Hex.pdf",
+    "href": "SC_20141_I1-10.0_Critical_Path_Method_Rel_Hex.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/generalPrecision/LGP-21/paper_tapes/SC_20141_I1-10.0_Critical_Path_Method_Rel_Hex.pdf",
+    "is_dir": false,
+    "size": "1.2 MiB",
+    "date": "13-Jan-2025 20:23"
+  },
+  {
+    "name": "SC_20142_I1-10.0_Critical_Path_Method.pdf",
+    "href": "SC_20142_I1-10.0_Critical_Path_Method.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/generalPrecision/LGP-21/paper_tapes/SC_20142_I1-10.0_Critical_Path_Method.pdf",
+    "is_dir": false,
+    "size": "2.8 MiB",
+    "date": "13-Jan-2025 20:23"
+  },
+  {
+    "name": "SC_20145_I1-11.0_PERT.ptp",
+    "href": "SC_20145_I1-11.0_PERT.ptp",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/generalPrecision/LGP-21/paper_tapes/SC_20145_I1-11.0_PERT.ptp",
+    "is_dir": false,
+    "size": "10.0 KiB",
+    "date": "15-Jan-2025 05:19"
+  },
+  {
+    "name": "SC_20145_I1-11.0_PERT_1_Rel_Hex.pdf",
+    "href": "SC_20145_I1-11.0_PERT_1_Rel_Hex.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/generalPrecision/LGP-21/paper_tapes/SC_20145_I1-11.0_PERT_1_Rel_Hex.pdf",
+    "is_dir": false,
+    "size": "2.3 MiB",
+    "date": "15-Jan-2025 19:18"
+  },
+  {
+    "name": "SC_20147_L1-10.0_Sort_1_Rel_Hex.pdf",
+    "href": "SC_20147_L1-10.0_Sort_1_Rel_Hex.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/generalPrecision/LGP-21/paper_tapes/SC_20147_L1-10.0_Sort_1_Rel_Hex.pdf",
+    "is_dir": false,
+    "size": "163.9 KiB",
+    "date": "15-Jan-2025 19:18"
+  },
+  {
+    "name": "SC_20148_L1-10.0_Sort_1.pdf",
+    "href": "SC_20148_L1-10.0_Sort_1.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/generalPrecision/LGP-21/paper_tapes/SC_20148_L1-10.0_Sort_1.pdf",
+    "is_dir": false,
+    "size": "474.8 KiB",
+    "date": "15-Jan-2025 19:18"
+  },
+  {
+    "name": "SC_20150_L1-10.1_Sort_2_Rel_Hex.pdf",
+    "href": "SC_20150_L1-10.1_Sort_2_Rel_Hex.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/generalPrecision/LGP-21/paper_tapes/SC_20150_L1-10.1_Sort_2_Rel_Hex.pdf",
+    "is_dir": false,
+    "size": "418.5 KiB",
+    "date": "15-Jan-2025 19:18"
+  },
+  {
+    "name": "SC_20151_L1-10.1_Sort_2.pdf",
+    "href": "SC_20151_L1-10.1_Sort_2.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/generalPrecision/LGP-21/paper_tapes/SC_20151_L1-10.1_Sort_2.pdf",
+    "is_dir": false,
+    "size": "1.6 MiB",
+    "date": "15-Jan-2025 19:18"
+  },
+  {
+    "name": "SC_20154_L7-10.0_Table_Search_1_Rel_Hex.pdf",
+    "href": "SC_20154_L7-10.0_Table_Search_1_Rel_Hex.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/generalPrecision/LGP-21/paper_tapes/SC_20154_L7-10.0_Table_Search_1_Rel_Hex.pdf",
+    "is_dir": false,
+    "size": "253.2 KiB",
+    "date": "15-Jan-2025 19:19"
+  },
+  {
+    "name": "SC_20155_L7-10.0_Table_Search_1.pdf",
+    "href": "SC_20155_L7-10.0_Table_Search_1.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/generalPrecision/LGP-21/paper_tapes/SC_20155_L7-10.0_Table_Search_1.pdf",
+    "is_dir": false,
+    "size": "959.1 KiB",
+    "date": "15-Jan-2025 19:19"
+  },
+  {
+    "name": "SC_20157_L4-10.0_Move_1_Rel_Hex.pdf",
+    "href": "SC_20157_L4-10.0_Move_1_Rel_Hex.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/generalPrecision/LGP-21/paper_tapes/SC_20157_L4-10.0_Move_1_Rel_Hex.pdf",
+    "is_dir": false,
+    "size": "115.5 KiB",
+    "date": "15-Jan-2025 19:19"
+  },
+  {
+    "name": "SC_20158_L4-10.0_Move_1.pdf",
+    "href": "SC_20158_L4-10.0_Move_1.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/generalPrecision/LGP-21/paper_tapes/SC_20158_L4-10.0_Move_1.pdf",
+    "is_dir": false,
+    "size": "271.5 KiB",
+    "date": "15-Jan-2025 19:19"
+  },
+  {
+    "name": "SC_20161_L1-10.2_Sort_3_Rel_Hex.pdf",
+    "href": "SC_20161_L1-10.2_Sort_3_Rel_Hex.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/generalPrecision/LGP-21/paper_tapes/SC_20161_L1-10.2_Sort_3_Rel_Hex.pdf",
+    "is_dir": false,
+    "size": "266.1 KiB",
+    "date": "15-Jan-2025 19:19"
+  },
+  {
+    "name": "SC_20162_L1-10.2_Sort_3.pdf",
+    "href": "SC_20162_L1-10.2_Sort_3.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/generalPrecision/LGP-21/paper_tapes/SC_20162_L1-10.2_Sort_3.pdf",
+    "is_dir": false,
+    "size": "795.0 KiB",
+    "date": "15-Jan-2025 19:19"
+  },
+  {
+    "name": "SC_20180_H4-10.0_Dec-Hex_Converter_Rel_Hex_Only.ptp",
+    "href": "SC_20180_H4-10.0_Dec-Hex_Converter_Rel_Hex_Only.ptp",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/generalPrecision/LGP-21/paper_tapes/SC_20180_H4-10.0_Dec-Hex_Converter_Rel_Hex_Only.ptp",
+    "is_dir": false,
+    "size": "4.1 KiB",
+    "date": "15-Jan-2025 05:19"
+  },
+  {
+    "name": "SC_20180_h4-10.0_dec-to-hex_no_good_g.p.version.ptp",
+    "href": "SC_20180_h4-10.0_dec-to-hex_no_good_g.p.version.ptp",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/generalPrecision/LGP-21/paper_tapes/SC_20180_h4-10.0_dec-to-hex_no_good_g.p.version.ptp",
+    "is_dir": false,
+    "size": "19.1 KiB",
+    "date": "16-Jan-2025 00:10"
+  },
+  {
+    "name": "SC_20192R1_SASSY_M3-10.1.ptp",
+    "href": "SC_20192R1_SASSY_M3-10.1.ptp",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/generalPrecision/LGP-21/paper_tapes/SC_20192R1_SASSY_M3-10.1.ptp",
+    "is_dir": false,
+    "size": "19.9 KiB",
+    "date": "13-Jan-2025 07:07"
+  },
+  {
+    "name": "SC_20192R1_SASSY_cpy2.ptp",
+    "href": "SC_20192R1_SASSY_cpy2.ptp",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/generalPrecision/LGP-21/paper_tapes/SC_20192R1_SASSY_cpy2.ptp",
+    "is_dir": false,
+    "size": "19.9 KiB",
+    "date": "16-Jan-2025 00:10"
+  },
+  {
+    "name": "SC_20194R2.ptp",
+    "href": "SC_20194R2.ptp",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/generalPrecision/LGP-21/paper_tapes/SC_20194R2.ptp",
+    "is_dir": false,
+    "size": "17.6 KiB",
+    "date": "15-Jan-2025 05:19"
+  },
+  {
+    "name": "SC_20195_D1-11.1_cpy2.ptp",
+    "href": "SC_20195_D1-11.1_cpy2.ptp",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/generalPrecision/LGP-21/paper_tapes/SC_20195_D1-11.1_cpy2.ptp",
+    "is_dir": false,
+    "size": "5.7 KiB",
+    "date": "16-Jan-2025 00:10"
+  },
+  {
+    "name": "SC_20198.ptp",
+    "href": "SC_20198.ptp",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/generalPrecision/LGP-21/paper_tapes/SC_20198.ptp",
+    "is_dir": false,
+    "size": "3.9 KiB",
+    "date": "16-Jan-2025 07:11"
+  },
+  {
+    "name": "SC_20198_D1-12.1_Copyright_1963.jpg",
+    "href": "SC_20198_D1-12.1_Copyright_1963.jpg",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/generalPrecision/LGP-21/paper_tapes/SC_20198_D1-12.1_Copyright_1963.jpg",
+    "is_dir": false,
+    "size": "162.4 KiB",
+    "date": "15-Jan-2025 19:19"
+  },
+  {
+    "name": "SC_20198_D1-12.1_Matrix_Vector_Multiply_2.ptp",
+    "href": "SC_20198_D1-12.1_Matrix_Vector_Multiply_2.ptp",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/generalPrecision/LGP-21/paper_tapes/SC_20198_D1-12.1_Matrix_Vector_Multiply_2.ptp",
+    "is_dir": false,
+    "size": "3.9 KiB",
+    "date": "13-Jan-2025 19:51"
+  },
+  {
+    "name": "SC_20201_D1-13.1_Matrix_Multiply_2.ptp",
+    "href": "SC_20201_D1-13.1_Matrix_Multiply_2.ptp",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/generalPrecision/LGP-21/paper_tapes/SC_20201_D1-13.1_Matrix_Multiply_2.ptp",
+    "is_dir": false,
+    "size": "6.6 KiB",
+    "date": "13-Jan-2025 19:51"
+  },
+  {
+    "name": "SC_20204_D1-14.1_Matrix_Add_Sub_2.ptp",
+    "href": "SC_20204_D1-14.1_Matrix_Add_Sub_2.ptp",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/generalPrecision/LGP-21/paper_tapes/SC_20204_D1-14.1_Matrix_Add_Sub_2.ptp",
+    "is_dir": false,
+    "size": "3.5 KiB",
+    "date": "13-Jan-2025 19:51"
+  },
+  {
+    "name": "SC_20207_D1-15.1.ptp",
+    "href": "SC_20207_D1-15.1.ptp",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/generalPrecision/LGP-21/paper_tapes/SC_20207_D1-15.1.ptp",
+    "is_dir": false,
+    "size": "6.1 KiB",
+    "date": "16-Jan-2025 07:11"
+  },
+  {
+    "name": "SC_20207_D1-15.1_Matrix_Transpose_2.ptp",
+    "href": "SC_20207_D1-15.1_Matrix_Transpose_2.ptp",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/generalPrecision/LGP-21/paper_tapes/SC_20207_D1-15.1_Matrix_Transpose_2.ptp",
+    "is_dir": false,
+    "size": "6.1 KiB",
+    "date": "13-Jan-2025 19:51"
+  },
+  {
+    "name": "Sort-Hi-Low.ptp",
+    "href": "Sort-Hi-Low.ptp",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/generalPrecision/LGP-21/paper_tapes/Sort-Hi-Low.ptp",
+    "is_dir": false,
+    "size": "852 B",
+    "date": "16-Jan-2025 07:11"
+  },
+  {
+    "name": "Table_Search_2_Rel_Hex_with_Tables_12-19-63.ptp",
+    "href": "Table_Search_2_Rel_Hex_with_Tables_12-19-63.ptp",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/generalPrecision/LGP-21/paper_tapes/Table_Search_2_Rel_Hex_with_Tables_12-19-63.ptp",
+    "is_dir": false,
+    "size": "8.8 KiB",
+    "date": "13-Jan-2025 17:07"
+  },
+  {
+    "name": "Table_Search_Program_Hex.ptp",
+    "href": "Table_Search_Program_Hex.ptp",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/generalPrecision/LGP-21/paper_tapes/Table_Search_Program_Hex.ptp",
+    "is_dir": false,
+    "size": "4.7 KiB",
+    "date": "16-Jan-2025 07:11"
+  },
+  {
+    "name": "Unlabeled_1.ptp",
+    "href": "Unlabeled_1.ptp",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/generalPrecision/LGP-21/paper_tapes/Unlabeled_1.ptp",
+    "is_dir": false,
+    "size": "825 B",
+    "date": "14-Jan-2025 17:54"
+  },
+  {
+    "name": "Unlabeled_2.ptp",
+    "href": "Unlabeled_2.ptp",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/generalPrecision/LGP-21/paper_tapes/Unlabeled_2.ptp",
+    "is_dir": false,
+    "size": "2.2 KiB",
+    "date": "14-Jan-2025 17:54"
+  },
+  {
+    "name": "Unlabeled_3.ptp",
+    "href": "Unlabeled_3.ptp",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/generalPrecision/LGP-21/paper_tapes/Unlabeled_3.ptp",
+    "is_dir": false,
+    "size": "3.4 KiB",
+    "date": "16-Jan-2025 07:11"
+  },
+  {
+    "name": "Unlabeled_4.ptp",
+    "href": "Unlabeled_4.ptp",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/generalPrecision/LGP-21/paper_tapes/Unlabeled_4.ptp",
+    "is_dir": false,
+    "size": "4.0 KiB",
+    "date": "16-Jan-2025 07:11"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "name": "photos",
+    "href": "photos/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/alto/Alto_I/photos/",
+    "is_dir": true,
+    "size": null,
+    "date": "02-Nov-2024 02:13"
+  },
+  {
+    "name": "Alto_1s_being_built.jpg",
+    "href": "Alto_1s_being_built.jpg",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/alto/Alto_I/Alto_1s_being_built.jpg",
+    "is_dir": false,
+    "size": "121.3 KiB",
+    "date": "11-Nov-2024 16:51"
+  },
+  {
+    "name": "Alto_I_Firmware.zip",
+    "href": "Alto_I_Firmware.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/alto/Alto_I/Alto_I_Firmware.zip",
+    "is_dir": false,
+    "size": "11.8 KiB",
+    "date": "04-May-2016 19:09"
+  }
+]

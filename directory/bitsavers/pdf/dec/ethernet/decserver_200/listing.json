@@ -1,0 +1,50 @@
+[
+  {
+    "name": "firmware",
+    "href": "firmware/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/ethernet/decserver_200/firmware/",
+    "is_dir": true,
+    "size": null,
+    "date": "09-Dec-2013 18:37"
+  },
+  {
+    "name": "AA-HL77A-TK_DECserver_200_Users_Guide_Jul86.pdf",
+    "href": "AA-HL77A-TK_DECserver_200_Users_Guide_Jul86.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/ethernet/decserver_200/AA-HL77A-TK_DECserver_200_Users_Guide_Jul86.pdf",
+    "is_dir": false,
+    "size": "1.6 MiB",
+    "date": "24-Nov-2013 18:21"
+  },
+  {
+    "name": "EK-D200C-IN-001_DECserver_200_Hardware_Installation_Oct86.pdf",
+    "href": "EK-D200C-IN-001_DECserver_200_Hardware_Installation_Oct86.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/ethernet/decserver_200/EK-D200C-IN-001_DECserver_200_Hardware_Installation_Oct86.pdf",
+    "is_dir": false,
+    "size": "2.9 MiB",
+    "date": "24-Nov-2013 18:21"
+  },
+  {
+    "name": "MP01827_DECServer_200_Engineering_Drawings_Oct87.pdf",
+    "href": "MP01827_DECServer_200_Engineering_Drawings_Oct87.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/ethernet/decserver_200/MP01827_DECServer_200_Engineering_Drawings_Oct87.pdf",
+    "is_dir": false,
+    "size": "7.7 MiB",
+    "date": "20-Nov-2013 20:24"
+  },
+  {
+    "name": "MP01828_DSRVC-A_EngrDrws_Jul86.pdf",
+    "href": "MP01828_DSRVC-A_EngrDrws_Jul86.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/ethernet/decserver_200/MP01828_DSRVC-A_EngrDrws_Jul86.pdf",
+    "is_dir": false,
+    "size": "5.0 MiB",
+    "date": "24-Sep-2009 20:59"
+  },
+  {
+    "name": "PoseidonTermServerSwSpec_Oct84.pdf",
+    "href": "PoseidonTermServerSwSpec_Oct84.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/ethernet/decserver_200/PoseidonTermServerSwSpec_Oct84.pdf",
+    "is_dir": false,
+    "size": "6.9 MiB",
+    "date": "24-Sep-2009 21:00"
+  }
+]

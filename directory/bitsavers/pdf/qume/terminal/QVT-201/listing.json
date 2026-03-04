@@ -1,0 +1,42 @@
+[
+  {
+    "name": "firmware",
+    "href": "firmware/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/qume/terminal/QVT-201/firmware/",
+    "is_dir": true,
+    "size": null,
+    "date": "13-Jul-2016 04:26"
+  },
+  {
+    "name": "35083-20_QVT201-202_Technical_Reference_Nov85.pdf",
+    "href": "35083-20_QVT201-202_Technical_Reference_Nov85.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/qume/terminal/QVT-201/35083-20_QVT201-202_Technical_Reference_Nov85.pdf",
+    "is_dir": false,
+    "size": "25.1 MiB",
+    "date": "13-May-2017 03:01"
+  },
+  {
+    "name": "35093-10_QVT201_Setup_Guide_Apr85.pdf",
+    "href": "35093-10_QVT201_Setup_Guide_Apr85.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/qume/terminal/QVT-201/35093-10_QVT201_Setup_Guide_Apr85.pdf",
+    "is_dir": false,
+    "size": "3.4 MiB",
+    "date": "13-May-2016 18:32"
+  },
+  {
+    "name": "QVT-201_Layout.tif",
+    "href": "QVT-201_Layout.tif",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/qume/terminal/QVT-201/QVT-201_Layout.tif",
+    "is_dir": false,
+    "size": "99.6 KiB",
+    "date": "20-Aug-2016 18:03"
+  },
+  {
+    "name": "QVT201_Schematic.pdf",
+    "href": "QVT201_Schematic.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/qume/terminal/QVT-201/QVT201_Schematic.pdf",
+    "is_dir": false,
+    "size": "712.5 KiB",
+    "date": "13-May-2016 18:31"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "name": "firmware",
+    "href": "firmware/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/motorola/VME/MVME167/firmware/",
+    "is_dir": true,
+    "size": null,
+    "date": "11-Jul-2023 18:43"
+  },
+  {
+    "name": "MV167_Brochure.pdf",
+    "href": "MV167_Brochure.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/motorola/VME/MVME167/MV167_Brochure.pdf",
+    "is_dir": false,
+    "size": "282.6 KiB",
+    "date": "24-May-2016 16:38"
+  },
+  {
+    "name": "MVME167_Inst.pdf",
+    "href": "MVME167_Inst.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/motorola/VME/MVME167/MVME167_Inst.pdf",
+    "is_dir": false,
+    "size": "930.1 KiB",
+    "date": "24-May-2016 16:38"
+  },
+  {
+    "name": "MVME167_d3_Users_Manual.pdf",
+    "href": "MVME167_d3_Users_Manual.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/motorola/VME/MVME167/MVME167_d3_Users_Manual.pdf",
+    "is_dir": false,
+    "size": "662.0 KiB",
+    "date": "24-May-2016 16:38"
+  },
+  {
+    "name": "MVME187PG_D3_MVME166_167_187_Single_Board_Computers_Programmers_Reference_Guide_199405.pdf",
+    "href": "MVME187PG_D3_MVME166_167_187_Single_Board_Computers_Programmers_Reference_Guide_199405.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/motorola/VME/MVME167/MVME187PG_D3_MVME166_167_187_Single_Board_Computers_Programmers_Reference_Guide_199405.pdf",
+    "is_dir": false,
+    "size": "21.1 MiB",
+    "date": "29-Jul-2024 17:36"
+  }
+]

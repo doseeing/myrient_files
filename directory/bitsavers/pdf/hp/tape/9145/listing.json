@@ -1,0 +1,42 @@
+[
+  {
+    "name": "firmware",
+    "href": "firmware/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/hp/tape/9145/firmware/",
+    "is_dir": true,
+    "size": null,
+    "date": "21-Jul-2018 03:19"
+  },
+  {
+    "name": "photos",
+    "href": "photos/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/hp/tape/9145/photos/",
+    "is_dir": true,
+    "size": null,
+    "date": "27-Dec-2014 21:40"
+  },
+  {
+    "name": "09145-90004_HP_9145A_Quick_Reference_Guide_Jul1988.pdf",
+    "href": "09145-90004_HP_9145A_Quick_Reference_Guide_Jul1988.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/hp/tape/9145/09145-90004_HP_9145A_Quick_Reference_Guide_Jul1988.pdf",
+    "is_dir": false,
+    "size": "357.5 KiB",
+    "date": "13-Aug-2013 18:26"
+  },
+  {
+    "name": "09145-90039_ceSvcHndbk_Jul88.pdf",
+    "href": "09145-90039_ceSvcHndbk_Jul88.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/hp/tape/9145/09145-90039_ceSvcHndbk_Jul88.pdf",
+    "is_dir": false,
+    "size": "3.1 MiB",
+    "date": "11-Jul-2005 18:30"
+  },
+  {
+    "name": "9145_SchematicsByTonyDuell_36pages_Jul15.pdf",
+    "href": "9145_SchematicsByTonyDuell_36pages_Jul15.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/hp/tape/9145/9145_SchematicsByTonyDuell_36pages_Jul15.pdf",
+    "is_dir": false,
+    "size": "7.1 MiB",
+    "date": "07-Jul-2018 23:01"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "name": "firmware",
+    "href": "firmware/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/system36/5363/firmware/",
+    "is_dir": true,
+    "size": null,
+    "date": "19-Dec-2021 05:45"
+  },
+  {
+    "name": "modules",
+    "href": "modules/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/system36/5363/modules/",
+    "is_dir": true,
+    "size": null,
+    "date": "12-Nov-2021 01:20"
+  },
+  {
+    "name": "pictures",
+    "href": "pictures/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/system36/5363/pictures/",
+    "is_dir": true,
+    "size": null,
+    "date": "29-Dec-2021 23:41"
+  },
+  {
+    "name": "SA21-9929-00_System36_5363_Installing_and_Customizing_Your_System_Sep1987.pdf",
+    "href": "SA21-9929-00_System36_5363_Installing_and_Customizing_Your_System_Sep1987.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/system36/5363/SA21-9929-00_System36_5363_Installing_and_Customizing_Your_System_Sep1987.pdf",
+    "is_dir": false,
+    "size": "3.0 MiB",
+    "date": "24-Dec-2018 01:29"
+  },
+  {
+    "name": "SC21-9684-0_System_Problem_Determination_Guide_5363_198709.pdf",
+    "href": "SC21-9684-0_System_Problem_Determination_Guide_5363_198709.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/system36/5363/SC21-9684-0_System_Problem_Determination_Guide_5363_198709.pdf",
+    "is_dir": false,
+    "size": "3.2 MiB",
+    "date": "15-Oct-2024 15:27"
+  },
+  {
+    "name": "SC21-9685-0_System36_5363_Operating_Your_Computer_Sep1987.pdf",
+    "href": "SC21-9685-0_System36_5363_Operating_Your_Computer_Sep1987.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/system36/5363/SC21-9685-0_System36_5363_Operating_Your_Computer_Sep1987.pdf",
+    "is_dir": false,
+    "size": "8.5 MiB",
+    "date": "24-Dec-2018 01:44"
+  },
+  {
+    "name": "SC21-9692-0_System36_5363_Using_Your_Display_Station_Sep1987.pdf",
+    "href": "SC21-9692-0_System36_5363_Using_Your_Display_Station_Sep1987.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/system36/5363/SC21-9692-0_System36_5363_Using_Your_Display_Station_Sep1987.pdf",
+    "is_dir": false,
+    "size": "4.7 MiB",
+    "date": "24-Dec-2018 01:43"
+  },
+  {
+    "name": "SY31-9054-1_System36_5363_System_Unit_Maintenance_Information_Manual_Oct1987.pdf",
+    "href": "SY31-9054-1_System36_5363_System_Unit_Maintenance_Information_Manual_Oct1987.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/system36/5363/SY31-9054-1_System36_5363_System_Unit_Maintenance_Information_Manual_Oct1987.pdf",
+    "is_dir": false,
+    "size": "7.8 MiB",
+    "date": "23-Dec-2018 00:05"
+  },
+  {
+    "name": "SY31-9055-1_System36_5363_System_Unit_System_Reference_Codes_Oct1987.pdf",
+    "href": "SY31-9055-1_System36_5363_System_Unit_System_Reference_Codes_Oct1987.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/system36/5363/SY31-9055-1_System36_5363_System_Unit_System_Reference_Codes_Oct1987.pdf",
+    "is_dir": false,
+    "size": "8.6 MiB",
+    "date": "22-Dec-2018 23:55"
+  },
+  {
+    "name": "SY31-9058-0_System36_5363_System_Unit_Installation_Instructions_for_Feature_Cards_Sep1987.pdf",
+    "href": "SY31-9058-0_System36_5363_System_Unit_Installation_Instructions_for_Feature_Cards_Sep1987.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/system36/5363/SY31-9058-0_System36_5363_System_Unit_Installation_Instructions_for_Feature_Cards_Sep1987.pdf",
+    "is_dir": false,
+    "size": "1.9 MiB",
+    "date": "22-Dec-2018 23:50"
+  }
+]

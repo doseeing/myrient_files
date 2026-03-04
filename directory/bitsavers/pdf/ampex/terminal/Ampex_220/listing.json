@@ -1,0 +1,50 @@
+[
+  {
+    "name": "firmware",
+    "href": "firmware/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ampex/terminal/Ampex_220/firmware/",
+    "is_dir": true,
+    "size": null,
+    "date": "20-Feb-2024 00:48"
+  },
+  {
+    "name": "kbd",
+    "href": "kbd/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ampex/terminal/Ampex_220/kbd/",
+    "is_dir": true,
+    "size": null,
+    "date": "27-Feb-2024 00:14"
+  },
+  {
+    "name": "pcb",
+    "href": "pcb/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ampex/terminal/Ampex_220/pcb/",
+    "is_dir": true,
+    "size": null,
+    "date": "20-Feb-2024 00:40"
+  },
+  {
+    "name": "Ampex_219_220_ann_198511.jpg",
+    "href": "Ampex_219_220_ann_198511.jpg",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ampex/terminal/Ampex_220/Ampex_219_220_ann_198511.jpg",
+    "is_dir": false,
+    "size": "40.9 KiB",
+    "date": "08-Feb-2024 21:41"
+  },
+  {
+    "name": "Ampex_220_b.jpg",
+    "href": "Ampex_220_b.jpg",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ampex/terminal/Ampex_220/Ampex_220_b.jpg",
+    "is_dir": false,
+    "size": "234.0 KiB",
+    "date": "08-Feb-2024 21:38"
+  },
+  {
+    "name": "Ampex_220_f.jpg",
+    "href": "Ampex_220_f.jpg",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ampex/terminal/Ampex_220/Ampex_220_f.jpg",
+    "is_dir": false,
+    "size": "192.6 KiB",
+    "date": "08-Feb-2024 21:38"
+  }
+]

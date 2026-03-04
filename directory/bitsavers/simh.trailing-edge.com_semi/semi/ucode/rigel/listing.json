@@ -1,0 +1,266 @@
+[
+  {
+    "name": "align.mic",
+    "href": "align.mic",
+    "url": "https://myrient.erista.me/files/bitsavers/simh.trailing-edge.com_semi/semi/ucode/rigel/align.mic",
+    "is_dir": false,
+    "size": "15.7 KiB",
+    "date": "30-Oct-2005 13:56"
+  },
+  {
+    "name": "alloc.com",
+    "href": "alloc.com",
+    "url": "https://myrient.erista.me/files/bitsavers/simh.trailing-edge.com_semi/semi/ucode/rigel/alloc.com",
+    "is_dir": false,
+    "size": "502 B",
+    "date": "30-Oct-2005 13:56"
+  },
+  {
+    "name": "b.com",
+    "href": "b.com",
+    "url": "https://myrient.erista.me/files/bitsavers/simh.trailing-edge.com_semi/semi/ucode/rigel/b.com",
+    "is_dir": false,
+    "size": "380 B",
+    "date": "30-Oct-2005 13:56"
+  },
+  {
+    "name": "callret.mic",
+    "href": "callret.mic",
+    "url": "https://myrient.erista.me/files/bitsavers/simh.trailing-edge.com_semi/semi/ucode/rigel/callret.mic",
+    "is_dir": false,
+    "size": "45.9 KiB",
+    "date": "30-Oct-2005 13:56"
+  },
+  {
+    "name": "cstring.mic",
+    "href": "cstring.mic",
+    "url": "https://myrient.erista.me/files/bitsavers/simh.trailing-edge.com_semi/semi/ucode/rigel/cstring.mic",
+    "is_dir": false,
+    "size": "73.6 KiB",
+    "date": "30-Oct-2005 13:56"
+  },
+  {
+    "name": "ctrl.mic",
+    "href": "ctrl.mic",
+    "url": "https://myrient.erista.me/files/bitsavers/simh.trailing-edge.com_semi/semi/ucode/rigel/ctrl.mic",
+    "is_dir": false,
+    "size": "37.2 KiB",
+    "date": "30-Oct-2005 13:56"
+  },
+  {
+    "name": "define.mic",
+    "href": "define.mic",
+    "url": "https://myrient.erista.me/files/bitsavers/simh.trailing-edge.com_semi/semi/ucode/rigel/define.mic",
+    "is_dir": false,
+    "size": "64.9 KiB",
+    "date": "30-Oct-2005 13:56"
+  },
+  {
+    "name": "define_mariah.mic",
+    "href": "define_mariah.mic",
+    "url": "https://myrient.erista.me/files/bitsavers/simh.trailing-edge.com_semi/semi/ucode/rigel/define_mariah.mic",
+    "is_dir": false,
+    "size": "65.3 KiB",
+    "date": "30-Oct-2005 13:56"
+  },
+  {
+    "name": "emulate.mic",
+    "href": "emulate.mic",
+    "url": "https://myrient.erista.me/files/bitsavers/simh.trailing-edge.com_semi/semi/ucode/rigel/emulate.mic",
+    "is_dir": false,
+    "size": "16.2 KiB",
+    "date": "30-Oct-2005 13:56"
+  },
+  {
+    "name": "ibox.mic",
+    "href": "ibox.mic",
+    "url": "https://myrient.erista.me/files/bitsavers/simh.trailing-edge.com_semi/semi/ucode/rigel/ibox.mic",
+    "is_dir": false,
+    "size": "57.1 KiB",
+    "date": "30-Oct-2005 13:56"
+  },
+  {
+    "name": "intexc.mic",
+    "href": "intexc.mic",
+    "url": "https://myrient.erista.me/files/bitsavers/simh.trailing-edge.com_semi/semi/ucode/rigel/intexc.mic",
+    "is_dir": false,
+    "size": "76.5 KiB",
+    "date": "30-Oct-2005 13:57"
+  },
+  {
+    "name": "intexc_mariah.mic",
+    "href": "intexc_mariah.mic",
+    "url": "https://myrient.erista.me/files/bitsavers/simh.trailing-edge.com_semi/semi/ucode/rigel/intexc_mariah.mic",
+    "is_dir": false,
+    "size": "79.7 KiB",
+    "date": "30-Oct-2005 13:57"
+  },
+  {
+    "name": "intlogadr.mic",
+    "href": "intlogadr.mic",
+    "url": "https://myrient.erista.me/files/bitsavers/simh.trailing-edge.com_semi/semi/ucode/rigel/intlogadr.mic",
+    "is_dir": false,
+    "size": "53.0 KiB",
+    "date": "30-Oct-2005 13:57"
+  },
+  {
+    "name": "macro.mic",
+    "href": "macro.mic",
+    "url": "https://myrient.erista.me/files/bitsavers/simh.trailing-edge.com_semi/semi/ucode/rigel/macro.mic",
+    "is_dir": false,
+    "size": "20.5 KiB",
+    "date": "30-Oct-2005 13:57"
+  },
+  {
+    "name": "mariah.mic",
+    "href": "mariah.mic",
+    "url": "https://myrient.erista.me/files/bitsavers/simh.trailing-edge.com_semi/semi/ucode/rigel/mariah.mic",
+    "is_dir": false,
+    "size": "1.7 KiB",
+    "date": "30-Oct-2005 13:57"
+  },
+  {
+    "name": "memmgt.mic",
+    "href": "memmgt.mic",
+    "url": "https://myrient.erista.me/files/bitsavers/simh.trailing-edge.com_semi/semi/ucode/rigel/memmgt.mic",
+    "is_dir": false,
+    "size": "57.1 KiB",
+    "date": "30-Oct-2005 13:57"
+  },
+  {
+    "name": "memmgt_mariah.mic",
+    "href": "memmgt_mariah.mic",
+    "url": "https://myrient.erista.me/files/bitsavers/simh.trailing-edge.com_semi/semi/ucode/rigel/memmgt_mariah.mic",
+    "is_dir": false,
+    "size": "50.4 KiB",
+    "date": "30-Oct-2005 13:57"
+  },
+  {
+    "name": "misc.mic",
+    "href": "misc.mic",
+    "url": "https://myrient.erista.me/files/bitsavers/simh.trailing-edge.com_semi/semi/ucode/rigel/misc.mic",
+    "is_dir": false,
+    "size": "29.5 KiB",
+    "date": "30-Oct-2005 13:57"
+  },
+  {
+    "name": "muldiv.mic",
+    "href": "muldiv.mic",
+    "url": "https://myrient.erista.me/files/bitsavers/simh.trailing-edge.com_semi/semi/ucode/rigel/muldiv.mic",
+    "is_dir": false,
+    "size": "44.8 KiB",
+    "date": "30-Oct-2005 13:57"
+  },
+  {
+    "name": "opsys.mic",
+    "href": "opsys.mic",
+    "url": "https://myrient.erista.me/files/bitsavers/simh.trailing-edge.com_semi/semi/ucode/rigel/opsys.mic",
+    "is_dir": false,
+    "size": "116.2 KiB",
+    "date": "30-Oct-2005 13:57"
+  },
+  {
+    "name": "opsys_mariah.mic",
+    "href": "opsys_mariah.mic",
+    "url": "https://myrient.erista.me/files/bitsavers/simh.trailing-edge.com_semi/semi/ucode/rigel/opsys_mariah.mic",
+    "is_dir": false,
+    "size": "117.3 KiB",
+    "date": "30-Oct-2005 13:58"
+  },
+  {
+    "name": "powerup.mic",
+    "href": "powerup.mic",
+    "url": "https://myrient.erista.me/files/bitsavers/simh.trailing-edge.com_semi/semi/ucode/rigel/powerup.mic",
+    "is_dir": false,
+    "size": "8.6 KiB",
+    "date": "30-Oct-2005 13:58"
+  },
+  {
+    "name": "powerup_mariah.mic",
+    "href": "powerup_mariah.mic",
+    "url": "https://myrient.erista.me/files/bitsavers/simh.trailing-edge.com_semi/semi/ucode/rigel/powerup_mariah.mic",
+    "is_dir": false,
+    "size": "8.8 KiB",
+    "date": "30-Oct-2005 13:58"
+  },
+  {
+    "name": "queue.mic",
+    "href": "queue.mic",
+    "url": "https://myrient.erista.me/files/bitsavers/simh.trailing-edge.com_semi/semi/ucode/rigel/queue.mic",
+    "is_dir": false,
+    "size": "37.6 KiB",
+    "date": "30-Oct-2005 13:58"
+  },
+  {
+    "name": "rev.mic",
+    "href": "rev.mic",
+    "url": "https://myrient.erista.me/files/bitsavers/simh.trailing-edge.com_semi/semi/ucode/rigel/rev.mic",
+    "is_dir": false,
+    "size": "7.2 KiB",
+    "date": "30-Oct-2005 13:58"
+  },
+  {
+    "name": "rev_mariah.mic",
+    "href": "rev_mariah.mic",
+    "url": "https://myrient.erista.me/files/bitsavers/simh.trailing-edge.com_semi/semi/ucode/rigel/rev_mariah.mic",
+    "is_dir": false,
+    "size": "8.9 KiB",
+    "date": "30-Oct-2005 13:58"
+  },
+  {
+    "name": "selftest.mic",
+    "href": "selftest.mic",
+    "url": "https://myrient.erista.me/files/bitsavers/simh.trailing-edge.com_semi/semi/ucode/rigel/selftest.mic",
+    "is_dir": false,
+    "size": "20.9 KiB",
+    "date": "30-Oct-2005 13:58"
+  },
+  {
+    "name": "selftest_mariah.mic",
+    "href": "selftest_mariah.mic",
+    "url": "https://myrient.erista.me/files/bitsavers/simh.trailing-edge.com_semi/semi/ucode/rigel/selftest_mariah.mic",
+    "is_dir": false,
+    "size": "21.5 KiB",
+    "date": "30-Oct-2005 13:58"
+  },
+  {
+    "name": "specifier.mic",
+    "href": "specifier.mic",
+    "url": "https://myrient.erista.me/files/bitsavers/simh.trailing-edge.com_semi/semi/ucode/rigel/specifier.mic",
+    "is_dir": false,
+    "size": "29.2 KiB",
+    "date": "30-Oct-2005 13:58"
+  },
+  {
+    "name": "test.mic",
+    "href": "test.mic",
+    "url": "https://myrient.erista.me/files/bitsavers/simh.trailing-edge.com_semi/semi/ucode/rigel/test.mic",
+    "is_dir": false,
+    "size": "1.7 KiB",
+    "date": "30-Oct-2005 13:58"
+  },
+  {
+    "name": "vector.mic",
+    "href": "vector.mic",
+    "url": "https://myrient.erista.me/files/bitsavers/simh.trailing-edge.com_semi/semi/ucode/rigel/vector.mic",
+    "is_dir": false,
+    "size": "37.5 KiB",
+    "date": "30-Oct-2005 13:58"
+  },
+  {
+    "name": "vfield.mic",
+    "href": "vfield.mic",
+    "url": "https://myrient.erista.me/files/bitsavers/simh.trailing-edge.com_semi/semi/ucode/rigel/vfield.mic",
+    "is_dir": false,
+    "size": "35.3 KiB",
+    "date": "30-Oct-2005 13:58"
+  },
+  {
+    "name": "vvax.mic",
+    "href": "vvax.mic",
+    "url": "https://myrient.erista.me/files/bitsavers/simh.trailing-edge.com_semi/semi/ucode/rigel/vvax.mic",
+    "is_dir": false,
+    "size": "3.5 KiB",
+    "date": "30-Oct-2005 13:58"
+  }
+]

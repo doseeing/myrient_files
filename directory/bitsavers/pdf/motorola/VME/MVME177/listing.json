@@ -1,0 +1,34 @@
+[
+  {
+    "name": "firmware",
+    "href": "firmware/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/motorola/VME/MVME177/firmware/",
+    "is_dir": true,
+    "size": null,
+    "date": "07-Jan-2022 00:38"
+  },
+  {
+    "name": "MVME177A_Installation_and_Use.pdf",
+    "href": "MVME177A_Installation_and_Use.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/motorola/VME/MVME177/MVME177A_Installation_and_Use.pdf",
+    "is_dir": false,
+    "size": "759.6 KiB",
+    "date": "24-May-2016 16:37"
+  },
+  {
+    "name": "MVME177Pxx_Installation_and_Use.pdf",
+    "href": "MVME177Pxx_Installation_and_Use.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/motorola/VME/MVME177/MVME177Pxx_Installation_and_Use.pdf",
+    "is_dir": false,
+    "size": "733.7 KiB",
+    "date": "24-May-2016 16:37"
+  },
+  {
+    "name": "MVME177_68060_Brochure.pdf",
+    "href": "MVME177_68060_Brochure.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/motorola/VME/MVME177/MVME177_68060_Brochure.pdf",
+    "is_dir": false,
+    "size": "265.3 KiB",
+    "date": "27-May-2016 00:02"
+  }
+]

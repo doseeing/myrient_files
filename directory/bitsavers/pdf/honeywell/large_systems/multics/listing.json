@@ -1,0 +1,826 @@
+[
+  {
+    "name": "haley",
+    "href": "haley/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/honeywell/large_systems/multics/haley/",
+    "is_dir": true,
+    "size": null,
+    "date": "14-Nov-2014 15:38"
+  },
+  {
+    "name": "redell",
+    "href": "redell/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/honeywell/large_systems/multics/redell/",
+    "is_dir": true,
+    "size": null,
+    "date": "14-Nov-2014 17:41"
+  },
+  {
+    "name": "releaseNotes",
+    "href": "releaseNotes/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/honeywell/large_systems/multics/releaseNotes/",
+    "is_dir": true,
+    "size": null,
+    "date": "14-Nov-2014 17:44"
+  },
+  {
+    "name": "swenson",
+    "href": "swenson/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/honeywell/large_systems/multics/swenson/",
+    "is_dir": true,
+    "size": null,
+    "date": "25-Dec-2015 19:54"
+  },
+  {
+    "name": "AG90-03_PgmgIntro_Dec81.pdf",
+    "href": "AG90-03_PgmgIntro_Dec81.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/honeywell/large_systems/multics/AG90-03_PgmgIntro_Dec81.pdf",
+    "is_dir": false,
+    "size": "6.0 MiB",
+    "date": "14-Nov-2014 15:30"
+  },
+  {
+    "name": "AG91-01_MPMrefGuide_Dec75.pdf",
+    "href": "AG91-01_MPMrefGuide_Dec75.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/honeywell/large_systems/multics/AG91-01_MPMrefGuide_Dec75.pdf",
+    "is_dir": false,
+    "size": "8.8 MiB",
+    "date": "14-Nov-2014 15:30"
+  },
+  {
+    "name": "AG91-04A_mpmVol2_Jan87.pdf",
+    "href": "AG91-04A_mpmVol2_Jan87.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/honeywell/large_systems/multics/AG91-04A_mpmVol2_Jan87.pdf",
+    "is_dir": false,
+    "size": "30.4 MiB",
+    "date": "14-Nov-2014 15:30"
+  },
+  {
+    "name": "AG92-03A_multicsCmds_Feb80.pdf",
+    "href": "AG92-03A_multicsCmds_Feb80.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/honeywell/large_systems/multics/AG92-03A_multicsCmds_Feb80.pdf",
+    "is_dir": false,
+    "size": "32.5 MiB",
+    "date": "14-Nov-2014 15:31"
+  },
+  {
+    "name": "AG92-06B_multicsCmds_Nov87.pdf",
+    "href": "AG92-06B_multicsCmds_Nov87.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/honeywell/large_systems/multics/AG92-06B_multicsCmds_Nov87.pdf",
+    "is_dir": false,
+    "size": "51.0 MiB",
+    "date": "14-Nov-2014 15:31"
+  },
+  {
+    "name": "AG93-05A_subrtns_Nov86.pdf",
+    "href": "AG93-05A_subrtns_Nov86.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/honeywell/large_systems/multics/AG93-05A_subrtns_Nov86.pdf",
+    "is_dir": false,
+    "size": "55.9 MiB",
+    "date": "14-Nov-2014 15:31"
+  },
+  {
+    "name": "AG94-02_PLI_langSpec_Mar81.pdf",
+    "href": "AG94-02_PLI_langSpec_Mar81.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/honeywell/large_systems/multics/AG94-02_PLI_langSpec_Mar81.pdf",
+    "is_dir": false,
+    "size": "12.6 MiB",
+    "date": "14-Nov-2014 15:32"
+  },
+  {
+    "name": "AG95_multicsVM_Jun72.pdf",
+    "href": "AG95_multicsVM_Jun72.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/honeywell/large_systems/multics/AG95_multicsVM_Jun72.pdf",
+    "is_dir": false,
+    "size": "8.9 MiB",
+    "date": "14-Nov-2014 15:32"
+  },
+  {
+    "name": "AK50-0_sysAdmin_Feb73.pdf",
+    "href": "AK50-0_sysAdmin_Feb73.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/honeywell/large_systems/multics/AK50-0_sysAdmin_Feb73.pdf",
+    "is_dir": false,
+    "size": "3.9 MiB",
+    "date": "14-Nov-2014 15:32"
+  },
+  {
+    "name": "AK50A-03B_sysAdmin_Dec87.pdf",
+    "href": "AK50A-03B_sysAdmin_Dec87.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/honeywell/large_systems/multics/AK50A-03B_sysAdmin_Dec87.pdf",
+    "is_dir": false,
+    "size": "18.0 MiB",
+    "date": "14-Nov-2014 15:32"
+  },
+  {
+    "name": "AK51-02_projAdmin_Feb85.pdf",
+    "href": "AK51-02_projAdmin_Feb85.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/honeywell/large_systems/multics/AK51-02_projAdmin_Feb85.pdf",
+    "is_dir": false,
+    "size": "3.4 MiB",
+    "date": "14-Nov-2014 15:32"
+  },
+  {
+    "name": "AK92-2_MPM_SubsysWrtGud_Mar79.pdf",
+    "href": "AK92-2_MPM_SubsysWrtGud_Mar79.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/honeywell/large_systems/multics/AK92-2_MPM_SubsysWrtGud_Mar79.pdf",
+    "is_dir": false,
+    "size": "16.8 MiB",
+    "date": "14-Nov-2014 15:32"
+  },
+  {
+    "name": "AK95-02_APL_Dec85.pdf",
+    "href": "AK95-02_APL_Dec85.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/honeywell/large_systems/multics/AK95-02_APL_Dec85.pdf",
+    "is_dir": false,
+    "size": "9.8 MiB",
+    "date": "14-Nov-2014 15:32"
+  },
+  {
+    "name": "AL39-01B_MULTICS_Processor_Manual_Feb82.pdf",
+    "href": "AL39-01B_MULTICS_Processor_Manual_Feb82.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/honeywell/large_systems/multics/AL39-01B_MULTICS_Processor_Manual_Feb82.pdf",
+    "is_dir": false,
+    "size": "15.9 MiB",
+    "date": "14-Nov-2014 15:32"
+  },
+  {
+    "name": "AL39-01C_MULTICS_Processor_Manual_Nov85.pdf",
+    "href": "AL39-01C_MULTICS_Processor_Manual_Nov85.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/honeywell/large_systems/multics/AL39-01C_MULTICS_Processor_Manual_Nov85.pdf",
+    "is_dir": false,
+    "size": "15.7 MiB",
+    "date": "14-Nov-2014 15:32"
+  },
+  {
+    "name": "AL39-0_MULTICS_Processor_Manual_Draft_Oct75.pdf",
+    "href": "AL39-0_MULTICS_Processor_Manual_Draft_Oct75.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/honeywell/large_systems/multics/AL39-0_MULTICS_Processor_Manual_Draft_Oct75.pdf",
+    "is_dir": false,
+    "size": "12.8 MiB",
+    "date": "14-Nov-2014 15:32"
+  },
+  {
+    "name": "AL39.pdf",
+    "href": "AL39.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/honeywell/large_systems/multics/AL39.pdf",
+    "is_dir": false,
+    "size": "2.1 MiB",
+    "date": "14-Nov-2014 15:32"
+  },
+  {
+    "name": "AM81-04_maintPrcds_Nov86.pdf",
+    "href": "AM81-04_maintPrcds_Nov86.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/honeywell/large_systems/multics/AM81-04_maintPrcds_Nov86.pdf",
+    "is_dir": false,
+    "size": "24.3 MiB",
+    "date": "14-Nov-2014 15:33"
+  },
+  {
+    "name": "AM82-01A_basicUpdA_Dec84.pdf",
+    "href": "AM82-01A_basicUpdA_Dec84.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/honeywell/large_systems/multics/AM82-01A_basicUpdA_Dec84.pdf",
+    "is_dir": false,
+    "size": "1.4 MiB",
+    "date": "14-Nov-2014 15:33"
+  },
+  {
+    "name": "AM82-01_basic_Feb81.pdf",
+    "href": "AM82-01_basic_Feb81.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/honeywell/large_systems/multics/AM82-01_basic_Feb81.pdf",
+    "is_dir": false,
+    "size": "4.9 MiB",
+    "date": "14-Nov-2014 15:33"
+  },
+  {
+    "name": "AM83A_PL1refMan_Sep78.pdf",
+    "href": "AM83A_PL1refMan_Sep78.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/honeywell/large_systems/multics/AM83A_PL1refMan_Sep78.pdf",
+    "is_dir": false,
+    "size": "26.0 MiB",
+    "date": "14-Nov-2014 15:33"
+  },
+  {
+    "name": "AN05-02A_gcosSim_Dec85.pdf",
+    "href": "AN05-02A_gcosSim_Dec85.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/honeywell/large_systems/multics/AN05-02A_gcosSim_Dec85.pdf",
+    "is_dir": false,
+    "size": "5.0 MiB",
+    "date": "14-Nov-2014 15:33"
+  },
+  {
+    "name": "AN50-08_Guide_To_Multics_Manuals.pdf",
+    "href": "AN50-08_Guide_To_Multics_Manuals.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/honeywell/large_systems/multics/AN50-08_Guide_To_Multics_Manuals.pdf",
+    "is_dir": false,
+    "size": "10.4 MiB",
+    "date": "08-Dec-2022 03:59"
+  },
+  {
+    "name": "AN52-01B_sysMetering_Nov82.pdf",
+    "href": "AN52-01B_sysMetering_Nov82.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/honeywell/large_systems/multics/AN52-01B_sysMetering_Nov82.pdf",
+    "is_dir": false,
+    "size": "4.4 MiB",
+    "date": "14-Nov-2014 15:33"
+  },
+  {
+    "name": "AN53-0_sysDumpAnalPLM_Jun75.pdf",
+    "href": "AN53-0_sysDumpAnalPLM_Jun75.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/honeywell/large_systems/multics/AN53-0_sysDumpAnalPLM_Jun75.pdf",
+    "is_dir": false,
+    "size": "4.4 MiB",
+    "date": "14-Nov-2014 15:33"
+  },
+  {
+    "name": "AN54_Pl1_Compiler_Program_Logic_Manual_197408.pdf",
+    "href": "AN54_Pl1_Compiler_Program_Logic_Manual_197408.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/honeywell/large_systems/multics/AN54_Pl1_Compiler_Program_Logic_Manual_197408.pdf",
+    "is_dir": false,
+    "size": "2.0 MiB",
+    "date": "08-Dec-2022 03:59"
+  },
+  {
+    "name": "AN57_userRingIO_PLM_May77.pdf",
+    "href": "AN57_userRingIO_PLM_May77.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/honeywell/large_systems/multics/AN57_userRingIO_PLM_May77.pdf",
+    "is_dir": false,
+    "size": "11.6 MiB",
+    "date": "14-Nov-2014 15:33"
+  },
+  {
+    "name": "AN61A_storageSysPLM_Sep78.pdf",
+    "href": "AN61A_storageSysPLM_Sep78.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/honeywell/large_systems/multics/AN61A_storageSysPLM_Sep78.pdf",
+    "is_dir": false,
+    "size": "19.2 MiB",
+    "date": "14-Nov-2014 15:33"
+  },
+  {
+    "name": "AN63_ALM_PLM_Feb75.pdf",
+    "href": "AN63_ALM_PLM_Feb75.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/honeywell/large_systems/multics/AN63_ALM_PLM_Feb75.pdf",
+    "is_dir": false,
+    "size": "1.1 MiB",
+    "date": "14-Nov-2014 15:33"
+  },
+  {
+    "name": "AN69-0_msgSegSDN_Oct79.pdf",
+    "href": "AN69-0_msgSegSDN_Oct79.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/honeywell/large_systems/multics/AN69-0_msgSegSDN_Oct79.pdf",
+    "is_dir": false,
+    "size": "2.2 MiB",
+    "date": "14-Nov-2014 15:33"
+  },
+  {
+    "name": "AN70-0_systemInitPLM_Feb75.pdf",
+    "href": "AN70-0_systemInitPLM_Feb75.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/honeywell/large_systems/multics/AN70-0_systemInitPLM_Feb75.pdf",
+    "is_dir": false,
+    "size": "7.0 MiB",
+    "date": "14-Nov-2014 15:33"
+  },
+  {
+    "name": "AN70-1_systemInitPLM_May84.pdf",
+    "href": "AN70-1_systemInitPLM_May84.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/honeywell/large_systems/multics/AN70-1_systemInitPLM_May84.pdf",
+    "is_dir": false,
+    "size": "6.9 MiB",
+    "date": "14-Nov-2014 15:33"
+  },
+  {
+    "name": "AN71-0_reconfigPLM_Jun74.pdf",
+    "href": "AN71-0_reconfigPLM_Jun74.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/honeywell/large_systems/multics/AN71-0_reconfigPLM_Jun74.pdf",
+    "is_dir": false,
+    "size": "1.9 MiB",
+    "date": "14-Nov-2014 15:34"
+  },
+  {
+    "name": "AN71-1_reconfigPLM_Apr77.pdf",
+    "href": "AN71-1_reconfigPLM_Apr77.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/honeywell/large_systems/multics/AN71-1_reconfigPLM_Apr77.pdf",
+    "is_dir": false,
+    "size": "2.1 MiB",
+    "date": "14-Nov-2014 15:34"
+  },
+  {
+    "name": "AN76-02_carryFacility_Feb81.pdf",
+    "href": "AN76-02_carryFacility_Feb81.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/honeywell/large_systems/multics/AN76-02_carryFacility_Feb81.pdf",
+    "is_dir": false,
+    "size": "1.2 MiB",
+    "date": "14-Nov-2014 15:34"
+  },
+  {
+    "name": "AN80-00_librPLM_May79.pdf",
+    "href": "AN80-00_librPLM_May79.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/honeywell/large_systems/multics/AN80-00_librPLM_May79.pdf",
+    "is_dir": false,
+    "size": "5.1 MiB",
+    "date": "14-Nov-2014 15:34"
+  },
+  {
+    "name": "AN82-00_standardsSDN_Jun80.pdf",
+    "href": "AN82-00_standardsSDN_Jun80.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/honeywell/large_systems/multics/AN82-00_standardsSDN_Jun80.pdf",
+    "is_dir": false,
+    "size": "2.3 MiB",
+    "date": "14-Nov-2014 15:34"
+  },
+  {
+    "name": "AN85-01_commSysSDN_Oct79.pdf",
+    "href": "AN85-01_commSysSDN_Oct79.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/honeywell/large_systems/multics/AN85-01_commSysSDN_Oct79.pdf",
+    "is_dir": false,
+    "size": "11.8 MiB",
+    "date": "14-Nov-2014 15:34"
+  },
+  {
+    "name": "AN87-00A_HwSwFmtsPLM_Mar80.pdf",
+    "href": "AN87-00A_HwSwFmtsPLM_Mar80.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/honeywell/large_systems/multics/AN87-00A_HwSwFmtsPLM_Mar80.pdf",
+    "is_dir": false,
+    "size": "6.2 MiB",
+    "date": "14-Nov-2014 15:34"
+  },
+  {
+    "name": "AR97-3_sysDiagAids_Dec83.pdf",
+    "href": "AR97-3_sysDiagAids_Dec83.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/honeywell/large_systems/multics/AR97-3_sysDiagAids_Dec83.pdf",
+    "is_dir": false,
+    "size": "5.7 MiB",
+    "date": "14-Nov-2014 15:34"
+  },
+  {
+    "name": "AS40-01A_graphicsSys_Aug81.pdf",
+    "href": "AS40-01A_graphicsSys_Aug81.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/honeywell/large_systems/multics/AS40-01A_graphicsSys_Aug81.pdf",
+    "is_dir": false,
+    "size": "10.0 MiB",
+    "date": "14-Nov-2014 15:34"
+  },
+  {
+    "name": "AS43-01E_cobolUG_Jul81.pdf",
+    "href": "AS43-01E_cobolUG_Jul81.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/honeywell/large_systems/multics/AS43-01E_cobolUG_Jul81.pdf",
+    "is_dir": false,
+    "size": "10.1 MiB",
+    "date": "14-Nov-2014 15:34"
+  },
+  {
+    "name": "AS44-1F_cobolRef_Jul81.pdf",
+    "href": "AS44-1F_cobolRef_Jul81.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/honeywell/large_systems/multics/AS44-1F_cobolRef_Jul81.pdf",
+    "is_dir": false,
+    "size": "18.0 MiB",
+    "date": "14-Nov-2014 15:34"
+  },
+  {
+    "name": "AT58-03B_fortran_Dec83.pdf",
+    "href": "AT58-03B_fortran_Dec83.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/honeywell/large_systems/multics/AT58-03B_fortran_Dec83.pdf",
+    "is_dir": false,
+    "size": "6.2 MiB",
+    "date": "14-Nov-2014 15:34"
+  },
+  {
+    "name": "AT59-0_dfast_Mar76.pdf",
+    "href": "AT59-0_dfast_Mar76.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/honeywell/large_systems/multics/AT59-0_dfast_Mar76.pdf",
+    "is_dir": false,
+    "size": "2.5 MiB",
+    "date": "14-Nov-2014 15:34"
+  },
+  {
+    "name": "AT71-03_MSU0402_Oct83.pdf",
+    "href": "AT71-03_MSU0402_Oct83.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/honeywell/large_systems/multics/AT71-03_MSU0402_Oct83.pdf",
+    "is_dir": false,
+    "size": "948.7 KiB",
+    "date": "14-Nov-2014 15:34"
+  },
+  {
+    "name": "AU25-01_fast_Sep79.pdf",
+    "href": "AU25-01_fast_Sep79.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/honeywell/large_systems/multics/AU25-01_fast_Sep79.pdf",
+    "is_dir": false,
+    "size": "4.6 MiB",
+    "date": "14-Nov-2014 15:34"
+  },
+  {
+    "name": "AU77-03_onlineDiag_Mar84.pdf",
+    "href": "AU77-03_onlineDiag_Mar84.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/honeywell/large_systems/multics/AU77-03_onlineDiag_Mar84.pdf",
+    "is_dir": false,
+    "size": "5.7 MiB",
+    "date": "14-Nov-2014 15:34"
+  },
+  {
+    "name": "AW17_multicsPocketRef_Apr76.pdf",
+    "href": "AW17_multicsPocketRef_Apr76.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/honeywell/large_systems/multics/AW17_multicsPocketRef_Apr76.pdf",
+    "is_dir": false,
+    "size": "1.5 MiB",
+    "date": "14-Nov-2014 15:34"
+  },
+  {
+    "name": "AW32-00_sortMerge_Jul76.pdf",
+    "href": "AW32-00_sortMerge_Jul76.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/honeywell/large_systems/multics/AW32-00_sortMerge_Jul76.pdf",
+    "is_dir": false,
+    "size": "2.0 MiB",
+    "date": "14-Nov-2014 15:34"
+  },
+  {
+    "name": "AW53-04D_relationalDataStore_Mar84.pdf",
+    "href": "AW53-04D_relationalDataStore_Mar84.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/honeywell/large_systems/multics/AW53-04D_relationalDataStore_Mar84.pdf",
+    "is_dir": false,
+    "size": "12.8 MiB",
+    "date": "14-Nov-2014 15:35"
+  },
+  {
+    "name": "AX49-01C_MPM_periphIO_Jul82.pdf",
+    "href": "AX49-01C_MPM_periphIO_Jul82.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/honeywell/large_systems/multics/AX49-01C_MPM_periphIO_Jul82.pdf",
+    "is_dir": false,
+    "size": "8.1 MiB",
+    "date": "14-Nov-2014 15:35"
+  },
+  {
+    "name": "AY03-1_MSU0500_Dec79.pdf",
+    "href": "AY03-1_MSU0500_Dec79.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/honeywell/large_systems/multics/AY03-1_MSU0500_Dec79.pdf",
+    "is_dir": false,
+    "size": "964.7 KiB",
+    "date": "14-Nov-2014 15:35"
+  },
+  {
+    "name": "AY34-2_datanetOper_May80.pdf",
+    "href": "AY34-2_datanetOper_May80.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/honeywell/large_systems/multics/AY34-2_datanetOper_May80.pdf",
+    "is_dir": false,
+    "size": "4.9 MiB",
+    "date": "14-Nov-2014 15:35"
+  },
+  {
+    "name": "AZ03-02A_sysPgmgTools_Jul82.pdf",
+    "href": "AZ03-02A_sysPgmgTools_Jul82.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/honeywell/large_systems/multics/AZ03-02A_sysPgmgTools_Jul82.pdf",
+    "is_dir": false,
+    "size": "13.8 MiB",
+    "date": "14-Nov-2014 15:35"
+  },
+  {
+    "name": "AZ49-03A_logicalInquirySys_Aug86.pdf",
+    "href": "AZ49-03A_logicalInquirySys_Aug86.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/honeywell/large_systems/multics/AZ49-03A_logicalInquirySys_Aug86.pdf",
+    "is_dir": false,
+    "size": "6.4 MiB",
+    "date": "14-Nov-2014 15:35"
+  },
+  {
+    "name": "AZ98-02_wordproRefMan_Jul83.pdf",
+    "href": "AZ98-02_wordproRefMan_Jul83.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/honeywell/large_systems/multics/AZ98-02_wordproRefMan_Jul83.pdf",
+    "is_dir": false,
+    "size": "10.9 MiB",
+    "date": "14-Nov-2014 15:35"
+  },
+  {
+    "name": "CC69-00A_mrpgRef_Nov82.pdf",
+    "href": "CC69-00A_mrpgRef_Nov82.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/honeywell/large_systems/multics/CC69-00A_mrpgRef_Nov82.pdf",
+    "is_dir": false,
+    "size": "5.9 MiB",
+    "date": "14-Nov-2014 15:35"
+  },
+  {
+    "name": "CC70-01C_fortranUG_Dec83.pdf",
+    "href": "CC70-01C_fortranUG_Dec83.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/honeywell/large_systems/multics/CC70-01C_fortranUG_Dec83.pdf",
+    "is_dir": false,
+    "size": "7.9 MiB",
+    "date": "14-Nov-2014 15:35"
+  },
+  {
+    "name": "CC75-01B_adminManComms_Dec83.pdf",
+    "href": "CC75-01B_adminManComms_Dec83.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/honeywell/large_systems/multics/CC75-01B_adminManComms_Dec83.pdf",
+    "is_dir": false,
+    "size": "5.4 MiB",
+    "date": "14-Nov-2014 15:35"
+  },
+  {
+    "name": "CC75-02_adminManComms_Feb85.pdf",
+    "href": "CC75-02_adminManComms_Feb85.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/honeywell/large_systems/multics/CC75-02_adminManComms_Feb85.pdf",
+    "is_dir": false,
+    "size": "5.2 MiB",
+    "date": "14-Nov-2014 15:35"
+  },
+  {
+    "name": "CC92-01A_MPM_commIO_Jul82.pdf",
+    "href": "CC92-01A_MPM_commIO_Jul82.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/honeywell/large_systems/multics/CC92-01A_MPM_commIO_Jul82.pdf",
+    "is_dir": false,
+    "size": "6.9 MiB",
+    "date": "14-Nov-2014 15:35"
+  },
+  {
+    "name": "CC96-01_transactionProcRef_Jun79.pdf",
+    "href": "CC96-01_transactionProcRef_Jun79.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/honeywell/large_systems/multics/CC96-01_transactionProcRef_Jun79.pdf",
+    "is_dir": false,
+    "size": "2.5 MiB",
+    "date": "14-Nov-2014 15:35"
+  },
+  {
+    "name": "CG18-00_remoteBatch_Jul79.pdf",
+    "href": "CG18-00_remoteBatch_Jul79.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/honeywell/large_systems/multics/CG18-00_remoteBatch_Jul79.pdf",
+    "is_dir": false,
+    "size": "2.0 MiB",
+    "date": "14-Nov-2014 15:35"
+  },
+  {
+    "name": "CG40-01_qedx_Feb83.pdf",
+    "href": "CG40-01_qedx_Feb83.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/honeywell/large_systems/multics/CG40-01_qedx_Feb83.pdf",
+    "is_dir": false,
+    "size": "5.3 MiB",
+    "date": "14-Nov-2014 15:35"
+  },
+  {
+    "name": "CH23-01_extendedMailSysUG_Feb82.pdf",
+    "href": "CH23-01_extendedMailSysUG_Feb82.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/honeywell/large_systems/multics/CH23-01_extendedMailSysUG_Feb82.pdf",
+    "is_dir": false,
+    "size": "6.4 MiB",
+    "date": "14-Nov-2014 15:35"
+  },
+  {
+    "name": "CH24-0_multicsIntrPt1_Nov79.pdf",
+    "href": "CH24-0_multicsIntrPt1_Nov79.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/honeywell/large_systems/multics/CH24-0_multicsIntrPt1_Nov79.pdf",
+    "is_dir": false,
+    "size": "3.7 MiB",
+    "date": "14-Nov-2014 15:35"
+  },
+  {
+    "name": "CH25-0_multicsIntrPt2_Nov79.pdf",
+    "href": "CH25-0_multicsIntrPt2_Nov79.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/honeywell/large_systems/multics/CH25-0_multicsIntrPt2_Nov79.pdf",
+    "is_dir": false,
+    "size": "3.4 MiB",
+    "date": "14-Nov-2014 15:35"
+  },
+  {
+    "name": "CH26-00_errorMsgPrimer_Sep80.pdf",
+    "href": "CH26-00_errorMsgPrimer_Sep80.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/honeywell/large_systems/multics/CH26-00_errorMsgPrimer_Sep80.pdf",
+    "is_dir": false,
+    "size": "3.7 MiB",
+    "date": "14-Nov-2014 15:35"
+  },
+  {
+    "name": "CH27-00F_emacs_Nov86.pdf",
+    "href": "CH27-00F_emacs_Nov86.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/honeywell/large_systems/multics/CH27-00F_emacs_Nov86.pdf",
+    "is_dir": false,
+    "size": "11.8 MiB",
+    "date": "14-Nov-2014 15:36"
+  },
+  {
+    "name": "CJ27-00_Emacs_Users_Guide_Dec79.pdf",
+    "href": "CJ27-00_Emacs_Users_Guide_Dec79.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/honeywell/large_systems/multics/CJ27-00_Emacs_Users_Guide_Dec79.pdf",
+    "is_dir": false,
+    "size": "8.0 MiB",
+    "date": "14-Nov-2014 15:36"
+  },
+  {
+    "name": "CJ52-00_Emacs_Extension_Writers_Guide_Jan80.pdf",
+    "href": "CJ52-00_Emacs_Extension_Writers_Guide_Jan80.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/honeywell/large_systems/multics/CJ52-00_Emacs_Extension_Writers_Guide_Jan80.pdf",
+    "is_dir": false,
+    "size": "3.7 MiB",
+    "date": "14-Nov-2014 15:36"
+  },
+  {
+    "name": "CJ52-01_emacsExtns_Jul82.pdf",
+    "href": "CJ52-01_emacsExtns_Jul82.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/honeywell/large_systems/multics/CJ52-01_emacsExtns_Jul82.pdf",
+    "is_dir": false,
+    "size": "8.0 MiB",
+    "date": "14-Nov-2014 15:36"
+  },
+  {
+    "name": "CJ97-00_pageProcSysUtil_May80.pdf",
+    "href": "CJ97-00_pageProcSysUtil_May80.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/honeywell/large_systems/multics/CJ97-00_pageProcSysUtil_May80.pdf",
+    "is_dir": false,
+    "size": "1.1 MiB",
+    "date": "14-Nov-2014 15:36"
+  },
+  {
+    "name": "CP50-00B_ted_Oct85.pdf",
+    "href": "CP50-00B_ted_Oct85.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/honeywell/large_systems/multics/CP50-00B_ted_Oct85.pdf",
+    "is_dir": false,
+    "size": "6.5 MiB",
+    "date": "14-Nov-2014 15:36"
+  },
+  {
+    "name": "CP51-02_menuCreationFacility_Feb85.pdf",
+    "href": "CP51-02_menuCreationFacility_Feb85.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/honeywell/large_systems/multics/CP51-02_menuCreationFacility_Feb85.pdf",
+    "is_dir": false,
+    "size": "6.8 MiB",
+    "date": "14-Nov-2014 15:36"
+  },
+  {
+    "name": "CT38-00_resourceCtlUG_Jun81.pdf",
+    "href": "CT38-00_resourceCtlUG_Jun81.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/honeywell/large_systems/multics/CT38-00_resourceCtlUG_Jun81.pdf",
+    "is_dir": false,
+    "size": "2.6 MiB",
+    "date": "14-Nov-2014 15:36"
+  },
+  {
+    "name": "CW99-00A_PRU901_May82.pdf",
+    "href": "CW99-00A_PRU901_May82.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/honeywell/large_systems/multics/CW99-00A_PRU901_May82.pdf",
+    "is_dir": false,
+    "size": "2.5 MiB",
+    "date": "14-Nov-2014 15:36"
+  },
+  {
+    "name": "CY73-01_interMulticsFileXfer_Dec83.pdf",
+    "href": "CY73-01_interMulticsFileXfer_Dec83.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/honeywell/large_systems/multics/CY73-01_interMulticsFileXfer_Dec83.pdf",
+    "is_dir": false,
+    "size": "2.8 MiB",
+    "date": "14-Nov-2014 15:36"
+  },
+  {
+    "name": "CY74-02_forumMtgSysUG_Feb85.pdf",
+    "href": "CY74-02_forumMtgSysUG_Feb85.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/honeywell/large_systems/multics/CY74-02_forumMtgSysUG_Feb85.pdf",
+    "is_dir": false,
+    "size": "8.4 MiB",
+    "date": "14-Nov-2014 15:36"
+  },
+  {
+    "name": "CY93-01_PRU7070hbk_Dec82.pdf",
+    "href": "CY93-01_PRU7070hbk_Dec82.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/honeywell/large_systems/multics/CY93-01_PRU7070hbk_Dec82.pdf",
+    "is_dir": false,
+    "size": "2.6 MiB",
+    "date": "14-Nov-2014 15:36"
+  },
+  {
+    "name": "DL92-01_multicsBrochure_1982.pdf",
+    "href": "DL92-01_multicsBrochure_1982.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/honeywell/large_systems/multics/DL92-01_multicsBrochure_1982.pdf",
+    "is_dir": false,
+    "size": "16.3 MiB",
+    "date": "14-Nov-2014 15:36"
+  },
+  {
+    "name": "DU34-00_DPS8sitePrep_Jan86.pdf",
+    "href": "DU34-00_DPS8sitePrep_Jan86.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/honeywell/large_systems/multics/DU34-00_DPS8sitePrep_Jan86.pdf",
+    "is_dir": false,
+    "size": "4.3 MiB",
+    "date": "14-Nov-2014 15:36"
+  },
+  {
+    "name": "F01_multicsIntroCourseOct78.pdf",
+    "href": "F01_multicsIntroCourseOct78.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/honeywell/large_systems/multics/F01_multicsIntroCourseOct78.pdf",
+    "is_dir": false,
+    "size": "17.7 MiB",
+    "date": "14-Nov-2014 15:36"
+  },
+  {
+    "name": "F15C_pgmgSubrsCourse_Sep83.pdf",
+    "href": "F15C_pgmgSubrsCourse_Sep83.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/honeywell/large_systems/multics/F15C_pgmgSubrsCourse_Sep83.pdf",
+    "is_dir": false,
+    "size": "6.0 MiB",
+    "date": "14-Nov-2014 15:36"
+  },
+  {
+    "name": "F15D_subsysPgmCourse_May81.pdf",
+    "href": "F15D_subsysPgmCourse_May81.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/honeywell/large_systems/multics/F15D_subsysPgmCourse_May81.pdf",
+    "is_dir": false,
+    "size": "13.5 MiB",
+    "date": "14-Nov-2014 15:37"
+  },
+  {
+    "name": "F21_srcDbgCourse_Jul81.pdf",
+    "href": "F21_srcDbgCourse_Jul81.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/honeywell/large_systems/multics/F21_srcDbgCourse_Jul81.pdf",
+    "is_dir": false,
+    "size": "10.2 MiB",
+    "date": "14-Nov-2014 15:37"
+  },
+  {
+    "name": "F80A_multicsVManalysis_Mar83.pdf",
+    "href": "F80A_multicsVManalysis_Mar83.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/honeywell/large_systems/multics/F80A_multicsVManalysis_Mar83.pdf",
+    "is_dir": false,
+    "size": "16.5 MiB",
+    "date": "14-Nov-2014 15:37"
+  },
+  {
+    "name": "F86_multicsCommSys.pdf",
+    "href": "F86_multicsCommSys.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/honeywell/large_systems/multics/F86_multicsCommSys.pdf",
+    "is_dir": false,
+    "size": "5.9 MiB",
+    "date": "14-Nov-2014 15:37"
+  },
+  {
+    "name": "F88_dumpAnalysis_Jun85.pdf",
+    "href": "F88_dumpAnalysis_Jun85.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/honeywell/large_systems/multics/F88_dumpAnalysis_Jun85.pdf",
+    "is_dir": false,
+    "size": "7.8 MiB",
+    "date": "14-Nov-2014 15:37"
+  },
+  {
+    "name": "GB58-0_commonCmds_Feb83.pdf",
+    "href": "GB58-0_commonCmds_Feb83.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/honeywell/large_systems/multics/GB58-0_commonCmds_Feb83.pdf",
+    "is_dir": false,
+    "size": "8.4 MiB",
+    "date": "14-Nov-2014 15:37"
+  },
+  {
+    "name": "GB61-01B_OperatorsGde_Dec87.pdf",
+    "href": "GB61-01B_OperatorsGde_Dec87.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/honeywell/large_systems/multics/GB61-01B_OperatorsGde_Dec87.pdf",
+    "is_dir": false,
+    "size": "11.2 MiB",
+    "date": "14-Nov-2014 15:37"
+  },
+  {
+    "name": "GB63-00_reportWriter_Jan85.pdf",
+    "href": "GB63-00_reportWriter_Jan85.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/honeywell/large_systems/multics/GB63-00_reportWriter_Jan85.pdf",
+    "is_dir": false,
+    "size": "4.7 MiB",
+    "date": "14-Nov-2014 15:37"
+  },
+  {
+    "name": "GB64-00A_adminCmds_Nov86.pdf",
+    "href": "GB64-00A_adminCmds_Nov86.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/honeywell/large_systems/multics/GB64-00A_adminCmds_Nov86.pdf",
+    "is_dir": false,
+    "size": "22.3 MiB",
+    "date": "14-Nov-2014 15:37"
+  },
+  {
+    "name": "GB64-00A_adminCmds_Sec_3-10_Nov86.pdf",
+    "href": "GB64-00A_adminCmds_Sec_3-10_Nov86.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/honeywell/large_systems/multics/GB64-00A_adminCmds_Sec_3-10_Nov86.pdf",
+    "is_dir": false,
+    "size": "12.0 MiB",
+    "date": "14-Nov-2014 15:37"
+  },
+  {
+    "name": "HH07-01_C_UsersGuide_Nov87.pdf",
+    "href": "HH07-01_C_UsersGuide_Nov87.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/honeywell/large_systems/multics/HH07-01_C_UsersGuide_Nov87.pdf",
+    "is_dir": false,
+    "size": "6.1 MiB",
+    "date": "14-Nov-2014 15:37"
+  },
+  {
+    "name": "_58009917-040_DPS8cpuInst_Aug84.pdf",
+    "href": "_58009917-040_DPS8cpuInst_Aug84.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/honeywell/large_systems/multics/_58009917-040_DPS8cpuInst_Aug84.pdf",
+    "is_dir": false,
+    "size": "1.4 MiB",
+    "date": "14-Nov-2014 15:37"
+  },
+  {
+    "name": "_58009997-040_MULTICS_Differences_Manual_DPS_8-70M_Aug83.pdf",
+    "href": "_58009997-040_MULTICS_Differences_Manual_DPS_8-70M_Aug83.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/honeywell/large_systems/multics/_58009997-040_MULTICS_Differences_Manual_DPS_8-70M_Aug83.pdf",
+    "is_dir": false,
+    "size": "5.7 MiB",
+    "date": "14-Nov-2014 15:37"
+  },
+  {
+    "name": "_manual_list.pdf",
+    "href": "_manual_list.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/honeywell/large_systems/multics/_manual_list.pdf",
+    "is_dir": false,
+    "size": "202.8 KiB",
+    "date": "14-Nov-2014 15:38"
+  }
+]
