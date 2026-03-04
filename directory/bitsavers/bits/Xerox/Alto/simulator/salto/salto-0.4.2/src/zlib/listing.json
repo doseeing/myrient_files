@@ -1,0 +1,202 @@
+[
+  {
+    "name": "adler32.c",
+    "href": "adler32.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Xerox/Alto/simulator/salto/salto-0.4.2/src/zlib/adler32.c",
+    "is_dir": false,
+    "size": "2.2 KiB",
+    "date": "19-Aug-2008 15:19"
+  },
+  {
+    "name": "compress.c",
+    "href": "compress.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Xerox/Alto/simulator/salto/salto-0.4.2/src/zlib/compress.c",
+    "is_dir": false,
+    "size": "2.5 KiB",
+    "date": "19-Aug-2008 15:19"
+  },
+  {
+    "name": "crc32.c",
+    "href": "crc32.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Xerox/Alto/simulator/salto/salto-0.4.2/src/zlib/crc32.c",
+    "is_dir": false,
+    "size": "10.5 KiB",
+    "date": "19-Aug-2008 15:19"
+  },
+  {
+    "name": "crc32.h",
+    "href": "crc32.h",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Xerox/Alto/simulator/salto/salto-0.4.2/src/zlib/crc32.h",
+    "is_dir": false,
+    "size": "29.9 KiB",
+    "date": "19-Aug-2008 15:19"
+  },
+  {
+    "name": "deflate.c",
+    "href": "deflate.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Xerox/Alto/simulator/salto/salto-0.4.2/src/zlib/deflate.c",
+    "is_dir": false,
+    "size": "53.7 KiB",
+    "date": "19-Aug-2008 15:19"
+  },
+  {
+    "name": "deflate.h",
+    "href": "deflate.h",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Xerox/Alto/simulator/salto/salto-0.4.2/src/zlib/deflate.h",
+    "is_dir": false,
+    "size": "11.7 KiB",
+    "date": "19-Aug-2008 15:19"
+  },
+  {
+    "name": "example.c",
+    "href": "example.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Xerox/Alto/simulator/salto/salto-0.4.2/src/zlib/example.c",
+    "is_dir": false,
+    "size": "16.1 KiB",
+    "date": "19-Aug-2008 15:19"
+  },
+  {
+    "name": "gzio.c",
+    "href": "gzio.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Xerox/Alto/simulator/salto/salto-0.4.2/src/zlib/gzio.c",
+    "is_dir": false,
+    "size": "30.0 KiB",
+    "date": "19-Aug-2008 15:19"
+  },
+  {
+    "name": "infback.c",
+    "href": "infback.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Xerox/Alto/simulator/salto/salto-0.4.2/src/zlib/infback.c",
+    "is_dir": false,
+    "size": "21.6 KiB",
+    "date": "19-Aug-2008 15:19"
+  },
+  {
+    "name": "inffast.c",
+    "href": "inffast.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Xerox/Alto/simulator/salto/salto-0.4.2/src/zlib/inffast.c",
+    "is_dir": false,
+    "size": "11.9 KiB",
+    "date": "19-Aug-2008 15:19"
+  },
+  {
+    "name": "inffast.h",
+    "href": "inffast.h",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Xerox/Alto/simulator/salto/salto-0.4.2/src/zlib/inffast.h",
+    "is_dir": false,
+    "size": "407 B",
+    "date": "19-Aug-2008 15:19"
+  },
+  {
+    "name": "inffixed.h",
+    "href": "inffixed.h",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Xerox/Alto/simulator/salto/salto-0.4.2/src/zlib/inffixed.h",
+    "is_dir": false,
+    "size": "6.2 KiB",
+    "date": "19-Aug-2008 15:19"
+  },
+  {
+    "name": "inflate.c",
+    "href": "inflate.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Xerox/Alto/simulator/salto/salto-0.4.2/src/zlib/inflate.c",
+    "is_dir": false,
+    "size": "44.5 KiB",
+    "date": "19-Aug-2008 15:19"
+  },
+  {
+    "name": "inflate.h",
+    "href": "inflate.h",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Xerox/Alto/simulator/salto/salto-0.4.2/src/zlib/inflate.h",
+    "is_dir": false,
+    "size": "5.7 KiB",
+    "date": "19-Aug-2008 15:19"
+  },
+  {
+    "name": "inftrees.c",
+    "href": "inftrees.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Xerox/Alto/simulator/salto/salto-0.4.2/src/zlib/inftrees.c",
+    "is_dir": false,
+    "size": "13.3 KiB",
+    "date": "19-Aug-2008 15:19"
+  },
+  {
+    "name": "inftrees.h",
+    "href": "inftrees.h",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Xerox/Alto/simulator/salto/salto-0.4.2/src/zlib/inftrees.h",
+    "is_dir": false,
+    "size": "2.3 KiB",
+    "date": "19-Aug-2008 15:19"
+  },
+  {
+    "name": "minigzip.c",
+    "href": "minigzip.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Xerox/Alto/simulator/salto/salto-0.4.2/src/zlib/minigzip.c",
+    "is_dir": false,
+    "size": "7.9 KiB",
+    "date": "19-Aug-2008 15:19"
+  },
+  {
+    "name": "trees.c",
+    "href": "trees.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Xerox/Alto/simulator/salto/salto-0.4.2/src/zlib/trees.c",
+    "is_dir": false,
+    "size": "43.1 KiB",
+    "date": "19-Aug-2008 15:19"
+  },
+  {
+    "name": "trees.h",
+    "href": "trees.h",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Xerox/Alto/simulator/salto/salto-0.4.2/src/zlib/trees.h",
+    "is_dir": false,
+    "size": "8.2 KiB",
+    "date": "19-Aug-2008 15:19"
+  },
+  {
+    "name": "uncompr.c",
+    "href": "uncompr.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Xerox/Alto/simulator/salto/salto-0.4.2/src/zlib/uncompr.c",
+    "is_dir": false,
+    "size": "2.1 KiB",
+    "date": "19-Aug-2008 15:19"
+  },
+  {
+    "name": "zconf.h",
+    "href": "zconf.h",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Xerox/Alto/simulator/salto/salto-0.4.2/src/zlib/zconf.h",
+    "is_dir": false,
+    "size": "9.2 KiB",
+    "date": "19-Aug-2008 15:19"
+  },
+  {
+    "name": "zconf.in.h",
+    "href": "zconf.in.h",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Xerox/Alto/simulator/salto/salto-0.4.2/src/zlib/zconf.in.h",
+    "is_dir": false,
+    "size": "9.2 KiB",
+    "date": "19-Aug-2008 15:19"
+  },
+  {
+    "name": "zlib.h",
+    "href": "zlib.h",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Xerox/Alto/simulator/salto/salto-0.4.2/src/zlib/zlib.h",
+    "is_dir": false,
+    "size": "56.4 KiB",
+    "date": "19-Aug-2008 15:19"
+  },
+  {
+    "name": "zutil.c",
+    "href": "zutil.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Xerox/Alto/simulator/salto/salto-0.4.2/src/zlib/zutil.c",
+    "is_dir": false,
+    "size": "6.9 KiB",
+    "date": "19-Aug-2008 15:19"
+  },
+  {
+    "name": "zutil.h",
+    "href": "zutil.h",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Xerox/Alto/simulator/salto/salto-0.4.2/src/zlib/zutil.h",
+    "is_dir": false,
+    "size": "6.5 KiB",
+    "date": "19-Aug-2008 15:19"
+  }
+]

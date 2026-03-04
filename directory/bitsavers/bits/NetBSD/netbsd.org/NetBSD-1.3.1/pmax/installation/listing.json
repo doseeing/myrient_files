@@ -1,0 +1,26 @@
+[
+  {
+    "name": "diskimage",
+    "href": "diskimage/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/pmax/installation/diskimage/",
+    "is_dir": true,
+    "size": null,
+    "date": "30-Sep-2023 17:20"
+  },
+  {
+    "name": "misc",
+    "href": "misc/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/pmax/installation/misc/",
+    "is_dir": true,
+    "size": null,
+    "date": "30-Sep-2023 17:20"
+  },
+  {
+    "name": "netboot",
+    "href": "netboot/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/pmax/installation/netboot/",
+    "is_dir": true,
+    "size": null,
+    "date": "30-Sep-2023 17:20"
+  }
+]

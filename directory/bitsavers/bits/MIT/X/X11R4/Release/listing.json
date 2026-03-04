@@ -1,0 +1,74 @@
+[
+  {
+    "name": "t1",
+    "href": "t1/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/X/X11R4/Release/t1/",
+    "is_dir": true,
+    "size": null,
+    "date": "23-Dec-2025 14:03"
+  },
+  {
+    "name": "t2",
+    "href": "t2/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/X/X11R4/Release/t2/",
+    "is_dir": true,
+    "size": null,
+    "date": "23-Dec-2025 14:03"
+  },
+  {
+    "name": "t3",
+    "href": "t3/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/X/X11R4/Release/t3/",
+    "is_dir": true,
+    "size": null,
+    "date": "23-Dec-2025 14:02"
+  },
+  {
+    "name": "t4",
+    "href": "t4/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/X/X11R4/Release/t4/",
+    "is_dir": true,
+    "size": null,
+    "date": "23-Dec-2025 14:02"
+  },
+  {
+    "name": "ERRATA",
+    "href": "ERRATA",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/X/X11R4/Release/ERRATA",
+    "is_dir": false,
+    "size": "1.4 KiB",
+    "date": "23-Dec-2025 14:02"
+  },
+  {
+    "name": "R4notice",
+    "href": "R4notice",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/X/X11R4/Release/R4notice",
+    "is_dir": false,
+    "size": "6.1 KiB",
+    "date": "23-Dec-2025 14:02"
+  },
+  {
+    "name": "README",
+    "href": "README",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/X/X11R4/Release/README",
+    "is_dir": false,
+    "size": "7.7 KiB",
+    "date": "23-Dec-2025 14:02"
+  },
+  {
+    "name": "RELNOTES.PS",
+    "href": "RELNOTES.PS",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/X/X11R4/Release/RELNOTES.PS",
+    "is_dir": false,
+    "size": "119.2 KiB",
+    "date": "23-Dec-2025 14:02"
+  },
+  {
+    "name": "RELNOTES.pdf",
+    "href": "RELNOTES.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/X/X11R4/Release/RELNOTES.pdf",
+    "is_dir": false,
+    "size": "184.4 KiB",
+    "date": "23-Dec-2025 14:02"
+  }
+]

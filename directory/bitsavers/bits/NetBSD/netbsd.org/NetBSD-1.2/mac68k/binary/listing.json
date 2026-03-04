@@ -1,0 +1,66 @@
+[
+  {
+    "name": "base12",
+    "href": "base12",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/mac68k/binary/base12",
+    "is_dir": false,
+    "size": "7.2 MiB",
+    "date": "25-Sep-1996 07:00"
+  },
+  {
+    "name": "comp12",
+    "href": "comp12",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/mac68k/binary/comp12",
+    "is_dir": false,
+    "size": "5.1 MiB",
+    "date": "25-Sep-1996 07:00"
+  },
+  {
+    "name": "etc12",
+    "href": "etc12",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/mac68k/binary/etc12",
+    "is_dir": false,
+    "size": "66.7 KiB",
+    "date": "25-Sep-1996 07:00"
+  },
+  {
+    "name": "games12",
+    "href": "games12",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/mac68k/binary/games12",
+    "is_dir": false,
+    "size": "2.7 MiB",
+    "date": "25-Sep-1996 07:00"
+  },
+  {
+    "name": "man12",
+    "href": "man12",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/mac68k/binary/man12",
+    "is_dir": false,
+    "size": "870.5 KiB",
+    "date": "25-Sep-1996 07:00"
+  },
+  {
+    "name": "misc12",
+    "href": "misc12",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/mac68k/binary/misc12",
+    "is_dir": false,
+    "size": "1.8 MiB",
+    "date": "25-Sep-1996 07:00"
+  },
+  {
+    "name": "netbsd12",
+    "href": "netbsd12",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/mac68k/binary/netbsd12",
+    "is_dir": false,
+    "size": "436.6 KiB",
+    "date": "25-Sep-1996 07:00"
+  },
+  {
+    "name": "text12",
+    "href": "text12",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/mac68k/binary/text12",
+    "is_dir": false,
+    "size": "760.8 KiB",
+    "date": "25-Sep-1996 07:00"
+  }
+]

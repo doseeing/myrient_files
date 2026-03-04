@@ -1,0 +1,42 @@
+[
+  {
+    "name": "CKSUMS",
+    "href": "CKSUMS",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/atari/floppies/CKSUMS",
+    "is_dir": false,
+    "size": "119 B",
+    "date": "23-Nov-1995 21:30"
+  },
+  {
+    "name": "INSTALL",
+    "href": "INSTALL",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/atari/floppies/INSTALL",
+    "is_dir": false,
+    "size": "40.6 KiB",
+    "date": "23-Nov-1995 21:27"
+  },
+  {
+    "name": "boot-11.fs.gz",
+    "href": "boot-11.fs.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/atari/floppies/boot-11.fs.gz",
+    "is_dir": false,
+    "size": "325.8 KiB",
+    "date": "23-Nov-1995 07:06"
+  },
+  {
+    "name": "inst-11.fs.1.gz",
+    "href": "inst-11.fs.1.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/atari/floppies/inst-11.fs.1.gz",
+    "is_dir": false,
+    "size": "320.5 KiB",
+    "date": "23-Nov-1995 07:07"
+  },
+  {
+    "name": "inst-11.fs.2.gz",
+    "href": "inst-11.fs.2.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/atari/floppies/inst-11.fs.2.gz",
+    "is_dir": false,
+    "size": "71.2 KiB",
+    "date": "23-Nov-1995 07:07"
+  }
+]

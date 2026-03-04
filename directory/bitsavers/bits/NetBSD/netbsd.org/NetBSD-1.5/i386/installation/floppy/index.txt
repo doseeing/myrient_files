@@ -1,0 +1,15 @@
+name	is_dir	size	date
+BSDSUM	False	232 B	30-Nov-2000 13:23
+CKSUM	False	312 B	30-Nov-2000 13:24
+MD5	False	537 B	30-Nov-2000 13:24
+SYSVSUM	False	232 B	30-Nov-2000 13:24
+boot-big.fs	False	2.8 MiB	30-Nov-2000 13:23
+boot-big.fs.gz	False	2.0 MiB	23-Nov-2000 15:44
+boot-small.fs	False	1.2 MiB	23-Nov-2000 15:53
+boot-tiny.fs	False	1.1 MiB	23-Nov-2000 15:58
+boot1.fs	False	1.4 MiB	23-Nov-2000 16:04
+boot2.fs	False	616.0 KiB	23-Nov-2000 16:07
+bootlap1.fs	False	1.4 MiB	23-Nov-2000 16:12
+bootlap2.fs	False	232.0 KiB	23-Nov-2000 16:15
+rescue-small.fs	False	1.2 MiB	23-Nov-2000 16:19
+rescue-tiny.fs	False	1.1 MiB	23-Nov-2000 16:26

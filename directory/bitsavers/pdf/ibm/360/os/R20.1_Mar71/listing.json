@@ -1,0 +1,98 @@
+[
+  {
+    "name": "plm",
+    "href": "plm/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/360/os/R20.1_Mar71/plm/",
+    "is_dir": true,
+    "size": null,
+    "date": "07-Jul-2011 00:33"
+  },
+  {
+    "name": "GC28-6534-3_OS_Introduction_Rel_20.1_Jun71.pdf",
+    "href": "GC28-6534-3_OS_Introduction_Rel_20.1_Jun71.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/360/os/R20.1_Mar71/GC28-6534-3_OS_Introduction_Rel_20.1_Jun71.pdf",
+    "is_dir": false,
+    "size": "10.0 MiB",
+    "date": "14-Jun-2012 03:04"
+  },
+  {
+    "name": "GC28-6550-9_OS_System_Programmers_Guide_Rel_20.1_Jun71.pdf",
+    "href": "GC28-6550-9_OS_System_Programmers_Guide_Rel_20.1_Jun71.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/360/os/R20.1_Mar71/GC28-6550-9_OS_System_Programmers_Guide_Rel_20.1_Jun71.pdf",
+    "is_dir": false,
+    "size": "15.3 MiB",
+    "date": "03-Jun-2012 14:36"
+  },
+  {
+    "name": "GC28-6646-5_OS_Supervisor_Services_Rel_20.1_Jun71.pdf",
+    "href": "GC28-6646-5_OS_Supervisor_Services_Rel_20.1_Jun71.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/360/os/R20.1_Mar71/GC28-6646-5_OS_Supervisor_Services_Rel_20.1_Jun71.pdf",
+    "is_dir": false,
+    "size": "7.7 MiB",
+    "date": "03-Jun-2012 14:36"
+  },
+  {
+    "name": "GC28-6646-5_Supervisor_Services_Rel_20.1_Jun71.pdf",
+    "href": "GC28-6646-5_Supervisor_Services_Rel_20.1_Jun71.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/360/os/R20.1_Mar71/GC28-6646-5_Supervisor_Services_Rel_20.1_Jun71.pdf",
+    "is_dir": false,
+    "size": "8.2 MiB",
+    "date": "14-Jun-2012 03:04"
+  },
+  {
+    "name": "GC28-6670-4_Programmers_Guide_to_Debugging_Rel_20.1_Jan71.pdf",
+    "href": "GC28-6670-4_Programmers_Guide_to_Debugging_Rel_20.1_Jan71.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/360/os/R20.1_Mar71/GC28-6670-4_Programmers_Guide_to_Debugging_Rel_20.1_Jan71.pdf",
+    "is_dir": false,
+    "size": "8.5 MiB",
+    "date": "14-Jun-2012 03:04"
+  },
+  {
+    "name": "GC28-6691-2_Operators_Reference_Rel_20.1_Mar71.pdf",
+    "href": "GC28-6691-2_Operators_Reference_Rel_20.1_Mar71.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/360/os/R20.1_Mar71/GC28-6691-2_Operators_Reference_Rel_20.1_Mar71.pdf",
+    "is_dir": false,
+    "size": "19.0 MiB",
+    "date": "14-Jun-2012 03:10"
+  },
+  {
+    "name": "GC28-6698-3_TSO_Option_Guide_Rel_20.1_Jun71.pdf",
+    "href": "GC28-6698-3_TSO_Option_Guide_Rel_20.1_Jun71.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/360/os/R20.1_Mar71/GC28-6698-3_TSO_Option_Guide_Rel_20.1_Jun71.pdf",
+    "is_dir": false,
+    "size": "12.4 MiB",
+    "date": "14-Jun-2012 03:14"
+  },
+  {
+    "name": "GC28-6703-2_OS_JCL_Users_Guide_Rel_20.1_Jun71.pdf",
+    "href": "GC28-6703-2_OS_JCL_Users_Guide_Rel_20.1_Jun71.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/360/os/R20.1_Mar71/GC28-6703-2_OS_JCL_Users_Guide_Rel_20.1_Jun71.pdf",
+    "is_dir": false,
+    "size": "40.7 MiB",
+    "date": "14-Jun-2012 15:16"
+  },
+  {
+    "name": "GC28-6704-1_OS_JCL_Reference_Rel_20.1_Jun71.pdf",
+    "href": "GC28-6704-1_OS_JCL_Reference_Rel_20.1_Jun71.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/360/os/R20.1_Mar71/GC28-6704-1_OS_JCL_Reference_Rel_20.1_Jun71.pdf",
+    "is_dir": false,
+    "size": "16.8 MiB",
+    "date": "14-Jun-2012 15:16"
+  },
+  {
+    "name": "GC28-6732-1_TSO_Command_Language_Rel_20.1_Mar71.pdf",
+    "href": "GC28-6732-1_TSO_Command_Language_Rel_20.1_Mar71.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/360/os/R20.1_Mar71/GC28-6732-1_TSO_Command_Language_Rel_20.1_Mar71.pdf",
+    "is_dir": false,
+    "size": "10.3 MiB",
+    "date": "14-Jun-2012 15:16"
+  },
+  {
+    "name": "GC28-6763-0_TSO_Terminal_Users_Guide_Rel_20.1_Mar71.pdf",
+    "href": "GC28-6763-0_TSO_Terminal_Users_Guide_Rel_20.1_Mar71.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/360/os/R20.1_Mar71/GC28-6763-0_TSO_Terminal_Users_Guide_Rel_20.1_Mar71.pdf",
+    "is_dir": false,
+    "size": "6.0 MiB",
+    "date": "14-Jun-2012 15:16"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "name": "READ_ME",
+    "href": "READ_ME",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/lpd/READ_ME",
+    "is_dir": false,
+    "size": "230 B",
+    "date": "01-Aug-1978 08:06"
+  },
+  {
+    "name": "banner.c",
+    "href": "banner.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/lpd/banner.c",
+    "is_dir": false,
+    "size": "495 B",
+    "date": "16-Mar-1978 12:23"
+  },
+  {
+    "name": "bprint.c",
+    "href": "bprint.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/lpd/bprint.c",
+    "is_dir": false,
+    "size": "744 B",
+    "date": "16-Mar-1978 12:21"
+  },
+  {
+    "name": "chset.h",
+    "href": "chset.h",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/lpd/chset.h",
+    "is_dir": false,
+    "size": "3.6 KiB",
+    "date": "16-Mar-1978 12:21"
+  },
+  {
+    "name": "install",
+    "href": "install",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/lpd/install",
+    "is_dir": false,
+    "size": "81 B",
+    "date": "12-Nov-1978 17:09"
+  },
+  {
+    "name": "lpd.c",
+    "href": "lpd.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/lpd/lpd.c",
+    "is_dir": false,
+    "size": "3.3 KiB",
+    "date": "21-Jul-1978 15:26"
+  },
+  {
+    "name": "make",
+    "href": "make",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/lpd/make",
+    "is_dir": false,
+    "size": "88 B",
+    "date": "12-Nov-1978 17:09"
+  },
+  {
+    "name": "opr.c",
+    "href": "opr.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/lpd/opr.c",
+    "is_dir": false,
+    "size": "3.3 KiB",
+    "date": "16-Mar-1978 12:23"
+  }
+]

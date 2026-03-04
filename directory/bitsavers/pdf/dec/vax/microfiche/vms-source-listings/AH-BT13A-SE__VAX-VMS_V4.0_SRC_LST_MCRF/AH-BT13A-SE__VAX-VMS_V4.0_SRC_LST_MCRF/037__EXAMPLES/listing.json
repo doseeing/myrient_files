@@ -1,0 +1,802 @@
+[
+  {
+    "name": "001__LPMULT.B32__bw.pdf",
+    "href": "001__LPMULT.B32__bw.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/037__EXAMPLES/001__LPMULT.B32__bw.pdf",
+    "is_dir": false,
+    "size": "1.3 MiB",
+    "date": "07-Dec-2021 00:27"
+  },
+  {
+    "name": "001__LPMULT.B32__gray.pdf",
+    "href": "001__LPMULT.B32__gray.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/037__EXAMPLES/001__LPMULT.B32__gray.pdf",
+    "is_dir": false,
+    "size": "8.0 MiB",
+    "date": "07-Dec-2021 00:27"
+  },
+  {
+    "name": "002__ADDRIVER.MAR__bw.pdf",
+    "href": "002__ADDRIVER.MAR__bw.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/037__EXAMPLES/002__ADDRIVER.MAR__bw.pdf",
+    "is_dir": false,
+    "size": "1.4 MiB",
+    "date": "07-Dec-2021 00:27"
+  },
+  {
+    "name": "002__ADDRIVER.MAR__gray.pdf",
+    "href": "002__ADDRIVER.MAR__gray.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/037__EXAMPLES/002__ADDRIVER.MAR__gray.pdf",
+    "is_dir": false,
+    "size": "9.2 MiB",
+    "date": "07-Dec-2021 00:27"
+  },
+  {
+    "name": "003__DOD_ERAPAT.MAR__bw.pdf",
+    "href": "003__DOD_ERAPAT.MAR__bw.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/037__EXAMPLES/003__DOD_ERAPAT.MAR__bw.pdf",
+    "is_dir": false,
+    "size": "1.1 MiB",
+    "date": "07-Dec-2021 00:27"
+  },
+  {
+    "name": "003__DOD_ERAPAT.MAR__gray.pdf",
+    "href": "003__DOD_ERAPAT.MAR__gray.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/037__EXAMPLES/003__DOD_ERAPAT.MAR__gray.pdf",
+    "is_dir": false,
+    "size": "3.9 MiB",
+    "date": "07-Dec-2021 00:27"
+  },
+  {
+    "name": "004__DRMAST.MAR__bw.pdf",
+    "href": "004__DRMAST.MAR__bw.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/037__EXAMPLES/004__DRMAST.MAR__bw.pdf",
+    "is_dir": false,
+    "size": "1.2 MiB",
+    "date": "07-Dec-2021 00:27"
+  },
+  {
+    "name": "004__DRMAST.MAR__gray.pdf",
+    "href": "004__DRMAST.MAR__gray.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/037__EXAMPLES/004__DRMAST.MAR__gray.pdf",
+    "is_dir": false,
+    "size": "5.0 MiB",
+    "date": "07-Dec-2021 00:27"
+  },
+  {
+    "name": "005__DRSLV.MAR__bw.pdf",
+    "href": "005__DRSLV.MAR__bw.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/037__EXAMPLES/005__DRSLV.MAR__bw.pdf",
+    "is_dir": false,
+    "size": "1.2 MiB",
+    "date": "07-Dec-2021 00:27"
+  },
+  {
+    "name": "005__DRSLV.MAR__gray.pdf",
+    "href": "005__DRSLV.MAR__gray.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/037__EXAMPLES/005__DRSLV.MAR__gray.pdf",
+    "is_dir": false,
+    "size": "6.4 MiB",
+    "date": "07-Dec-2021 00:27"
+  },
+  {
+    "name": "006__DTE_DF03.MAR__bw.pdf",
+    "href": "006__DTE_DF03.MAR__bw.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/037__EXAMPLES/006__DTE_DF03.MAR__bw.pdf",
+    "is_dir": false,
+    "size": "1.2 MiB",
+    "date": "07-Dec-2021 00:27"
+  },
+  {
+    "name": "006__DTE_DF03.MAR__gray.pdf",
+    "href": "006__DTE_DF03.MAR__gray.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/037__EXAMPLES/006__DTE_DF03.MAR__gray.pdf",
+    "is_dir": false,
+    "size": "5.0 MiB",
+    "date": "07-Dec-2021 00:27"
+  },
+  {
+    "name": "007__GBLSECUFO.MAR__bw.pdf",
+    "href": "007__GBLSECUFO.MAR__bw.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/037__EXAMPLES/007__GBLSECUFO.MAR__bw.pdf",
+    "is_dir": false,
+    "size": "1.1 MiB",
+    "date": "07-Dec-2021 00:27"
+  },
+  {
+    "name": "007__GBLSECUFO.MAR__gray.pdf",
+    "href": "007__GBLSECUFO.MAR__gray.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/037__EXAMPLES/007__GBLSECUFO.MAR__gray.pdf",
+    "is_dir": false,
+    "size": "2.5 MiB",
+    "date": "07-Dec-2021 00:27"
+  },
+  {
+    "name": "008__LABIOCIN.MAR__bw.pdf",
+    "href": "008__LABIOCIN.MAR__bw.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/037__EXAMPLES/008__LABIOCIN.MAR__bw.pdf",
+    "is_dir": false,
+    "size": "1.3 MiB",
+    "date": "07-Dec-2021 00:27"
+  },
+  {
+    "name": "008__LABIOCIN.MAR__gray.pdf",
+    "href": "008__LABIOCIN.MAR__gray.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/037__EXAMPLES/008__LABIOCIN.MAR__gray.pdf",
+    "is_dir": false,
+    "size": "6.3 MiB",
+    "date": "07-Dec-2021 00:27"
+  },
+  {
+    "name": "009__LBRMAC.MAR__bw.pdf",
+    "href": "009__LBRMAC.MAR__bw.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/037__EXAMPLES/009__LBRMAC.MAR__bw.pdf",
+    "is_dir": false,
+    "size": "1.1 MiB",
+    "date": "07-Dec-2021 00:27"
+  },
+  {
+    "name": "009__LBRMAC.MAR__gray.pdf",
+    "href": "009__LBRMAC.MAR__gray.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/037__EXAMPLES/009__LBRMAC.MAR__gray.pdf",
+    "is_dir": false,
+    "size": "2.6 MiB",
+    "date": "07-Dec-2021 00:27"
+  },
+  {
+    "name": "010__SCRFT.MAR__bw.pdf",
+    "href": "010__SCRFT.MAR__bw.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/037__EXAMPLES/010__SCRFT.MAR__bw.pdf",
+    "is_dir": false,
+    "size": "1.3 MiB",
+    "date": "07-Dec-2021 00:27"
+  },
+  {
+    "name": "010__SCRFT.MAR__gray.pdf",
+    "href": "010__SCRFT.MAR__gray.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/037__EXAMPLES/010__SCRFT.MAR__gray.pdf",
+    "is_dir": false,
+    "size": "8.5 MiB",
+    "date": "07-Dec-2021 00:27"
+  },
+  {
+    "name": "011__TDRIVER.MAR__bw.pdf",
+    "href": "011__TDRIVER.MAR__bw.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/037__EXAMPLES/011__TDRIVER.MAR__bw.pdf",
+    "is_dir": false,
+    "size": "1.4 MiB",
+    "date": "07-Dec-2021 00:27"
+  },
+  {
+    "name": "011__TDRIVER.MAR__gray.pdf",
+    "href": "011__TDRIVER.MAR__gray.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/037__EXAMPLES/011__TDRIVER.MAR__gray.pdf",
+    "is_dir": false,
+    "size": "7.9 MiB",
+    "date": "07-Dec-2021 00:27"
+  },
+  {
+    "name": "012__USSDISP.MAR__bw.pdf",
+    "href": "012__USSDISP.MAR__bw.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/037__EXAMPLES/012__USSDISP.MAR__bw.pdf",
+    "is_dir": false,
+    "size": "1.4 MiB",
+    "date": "07-Dec-2021 00:27"
+  },
+  {
+    "name": "012__USSDISP.MAR__gray.pdf",
+    "href": "012__USSDISP.MAR__gray.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/037__EXAMPLES/012__USSDISP.MAR__gray.pdf",
+    "is_dir": false,
+    "size": "6.6 MiB",
+    "date": "07-Dec-2021 00:27"
+  },
+  {
+    "name": "013__USSTEST.MAR__bw.pdf",
+    "href": "013__USSTEST.MAR__bw.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/037__EXAMPLES/013__USSTEST.MAR__bw.pdf",
+    "is_dir": false,
+    "size": "1.1 MiB",
+    "date": "07-Dec-2021 00:27"
+  },
+  {
+    "name": "013__USSTEST.MAR__gray.pdf",
+    "href": "013__USSTEST.MAR__gray.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/037__EXAMPLES/013__USSTEST.MAR__gray.pdf",
+    "is_dir": false,
+    "size": "2.6 MiB",
+    "date": "07-Dec-2021 00:27"
+  },
+  {
+    "name": "014__XADRIVER.MAR__bw.pdf",
+    "href": "014__XADRIVER.MAR__bw.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/037__EXAMPLES/014__XADRIVER.MAR__bw.pdf",
+    "is_dir": false,
+    "size": "1.9 MiB",
+    "date": "07-Dec-2021 00:27"
+  },
+  {
+    "name": "014__XADRIVER.MAR__gray.pdf",
+    "href": "014__XADRIVER.MAR__gray.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/037__EXAMPLES/014__XADRIVER.MAR__gray.pdf",
+    "is_dir": false,
+    "size": "15.5 MiB",
+    "date": "07-Dec-2021 00:28"
+  },
+  {
+    "name": "015__XALINK.MAR__bw.pdf",
+    "href": "015__XALINK.MAR__bw.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/037__EXAMPLES/015__XALINK.MAR__bw.pdf",
+    "is_dir": false,
+    "size": "1.1 MiB",
+    "date": "07-Dec-2021 00:28"
+  },
+  {
+    "name": "015__XALINK.MAR__gray.pdf",
+    "href": "015__XALINK.MAR__gray.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/037__EXAMPLES/015__XALINK.MAR__gray.pdf",
+    "is_dir": false,
+    "size": "3.0 MiB",
+    "date": "07-Dec-2021 00:28"
+  },
+  {
+    "name": "016__XAMESSAGE.MAR__bw.pdf",
+    "href": "016__XAMESSAGE.MAR__bw.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/037__EXAMPLES/016__XAMESSAGE.MAR__bw.pdf",
+    "is_dir": false,
+    "size": "1.3 MiB",
+    "date": "07-Dec-2021 00:28"
+  },
+  {
+    "name": "016__XAMESSAGE.MAR__gray.pdf",
+    "href": "016__XAMESSAGE.MAR__gray.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/037__EXAMPLES/016__XAMESSAGE.MAR__gray.pdf",
+    "is_dir": false,
+    "size": "5.1 MiB",
+    "date": "07-Dec-2021 00:28"
+  },
+  {
+    "name": "017__XIDRIVER.MAR__bw.pdf",
+    "href": "017__XIDRIVER.MAR__bw.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/037__EXAMPLES/017__XIDRIVER.MAR__bw.pdf",
+    "is_dir": false,
+    "size": "1.8 MiB",
+    "date": "07-Dec-2021 00:28"
+  },
+  {
+    "name": "017__XIDRIVER.MAR__gray.pdf",
+    "href": "017__XIDRIVER.MAR__gray.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/037__EXAMPLES/017__XIDRIVER.MAR__gray.pdf",
+    "is_dir": false,
+    "size": "14.9 MiB",
+    "date": "07-Dec-2021 00:28"
+  },
+  {
+    "name": "018__DRMASTER.FOR__bw.pdf",
+    "href": "018__DRMASTER.FOR__bw.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/037__EXAMPLES/018__DRMASTER.FOR__bw.pdf",
+    "is_dir": false,
+    "size": "2.3 MiB",
+    "date": "07-Dec-2021 00:28"
+  },
+  {
+    "name": "018__DRMASTER.FOR__gray.pdf",
+    "href": "018__DRMASTER.FOR__gray.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/037__EXAMPLES/018__DRMASTER.FOR__gray.pdf",
+    "is_dir": false,
+    "size": "22.8 MiB",
+    "date": "07-Dec-2021 00:28"
+  },
+  {
+    "name": "019__DRSLAVE.FOR__bw.pdf",
+    "href": "019__DRSLAVE.FOR__bw.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/037__EXAMPLES/019__DRSLAVE.FOR__bw.pdf",
+    "is_dir": false,
+    "size": "1.5 MiB",
+    "date": "07-Dec-2021 00:28"
+  },
+  {
+    "name": "019__DRSLAVE.FOR__gray.pdf",
+    "href": "019__DRSLAVE.FOR__gray.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/037__EXAMPLES/019__DRSLAVE.FOR__gray.pdf",
+    "is_dir": false,
+    "size": "10.4 MiB",
+    "date": "07-Dec-2021 00:28"
+  },
+  {
+    "name": "020__LABCHNDEF.FOR__bw.pdf",
+    "href": "020__LABCHNDEF.FOR__bw.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/037__EXAMPLES/020__LABCHNDEF.FOR__bw.pdf",
+    "is_dir": false,
+    "size": "1.2 MiB",
+    "date": "07-Dec-2021 00:28"
+  },
+  {
+    "name": "020__LABCHNDEF.FOR__gray.pdf",
+    "href": "020__LABCHNDEF.FOR__gray.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/037__EXAMPLES/020__LABCHNDEF.FOR__gray.pdf",
+    "is_dir": false,
+    "size": "3.2 MiB",
+    "date": "07-Dec-2021 00:28"
+  },
+  {
+    "name": "021__LABIOACQ.FOR__bw.pdf",
+    "href": "021__LABIOACQ.FOR__bw.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/037__EXAMPLES/021__LABIOACQ.FOR__bw.pdf",
+    "is_dir": false,
+    "size": "1.2 MiB",
+    "date": "07-Dec-2021 00:28"
+  },
+  {
+    "name": "021__LABIOACQ.FOR__gray.pdf",
+    "href": "021__LABIOACQ.FOR__gray.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/037__EXAMPLES/021__LABIOACQ.FOR__gray.pdf",
+    "is_dir": false,
+    "size": "4.0 MiB",
+    "date": "07-Dec-2021 00:28"
+  },
+  {
+    "name": "022__LABIOCOM.FOR__bw.pdf",
+    "href": "022__LABIOCOM.FOR__bw.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/037__EXAMPLES/022__LABIOCOM.FOR__bw.pdf",
+    "is_dir": false,
+    "size": "1.2 MiB",
+    "date": "07-Dec-2021 00:28"
+  },
+  {
+    "name": "022__LABIOCOM.FOR__gray.pdf",
+    "href": "022__LABIOCOM.FOR__gray.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/037__EXAMPLES/022__LABIOCOM.FOR__gray.pdf",
+    "is_dir": false,
+    "size": "3.0 MiB",
+    "date": "07-Dec-2021 00:28"
+  },
+  {
+    "name": "023__LABIOCON.FOR__bw.pdf",
+    "href": "023__LABIOCON.FOR__bw.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/037__EXAMPLES/023__LABIOCON.FOR__bw.pdf",
+    "is_dir": false,
+    "size": "1.5 MiB",
+    "date": "07-Dec-2021 00:28"
+  },
+  {
+    "name": "023__LABIOCON.FOR__gray.pdf",
+    "href": "023__LABIOCON.FOR__gray.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/037__EXAMPLES/023__LABIOCON.FOR__gray.pdf",
+    "is_dir": false,
+    "size": "9.3 MiB",
+    "date": "07-Dec-2021 00:28"
+  },
+  {
+    "name": "024__LABIOPEAK.FOR__bw.pdf",
+    "href": "024__LABIOPEAK.FOR__bw.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/037__EXAMPLES/024__LABIOPEAK.FOR__bw.pdf",
+    "is_dir": false,
+    "size": "1.2 MiB",
+    "date": "07-Dec-2021 00:28"
+  },
+  {
+    "name": "024__LABIOPEAK.FOR__gray.pdf",
+    "href": "024__LABIOPEAK.FOR__gray.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/037__EXAMPLES/024__LABIOPEAK.FOR__gray.pdf",
+    "is_dir": false,
+    "size": "3.2 MiB",
+    "date": "07-Dec-2021 00:28"
+  },
+  {
+    "name": "025__LABIOSAMP.FOR__bw.pdf",
+    "href": "025__LABIOSAMP.FOR__bw.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/037__EXAMPLES/025__LABIOSAMP.FOR__bw.pdf",
+    "is_dir": false,
+    "size": "1.2 MiB",
+    "date": "07-Dec-2021 00:28"
+  },
+  {
+    "name": "025__LABIOSAMP.FOR__gray.pdf",
+    "href": "025__LABIOSAMP.FOR__gray.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/037__EXAMPLES/025__LABIOSAMP.FOR__gray.pdf",
+    "is_dir": false,
+    "size": "3.1 MiB",
+    "date": "07-Dec-2021 00:28"
+  },
+  {
+    "name": "026__LABIOSEC.FOR__bw.pdf",
+    "href": "026__LABIOSEC.FOR__bw.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/037__EXAMPLES/026__LABIOSEC.FOR__bw.pdf",
+    "is_dir": false,
+    "size": "1.1 MiB",
+    "date": "07-Dec-2021 00:28"
+  },
+  {
+    "name": "026__LABIOSEC.FOR__gray.pdf",
+    "href": "026__LABIOSEC.FOR__gray.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/037__EXAMPLES/026__LABIOSEC.FOR__gray.pdf",
+    "is_dir": false,
+    "size": "2.2 MiB",
+    "date": "07-Dec-2021 00:28"
+  },
+  {
+    "name": "027__LABIOSTAT.FOR__bw.pdf",
+    "href": "027__LABIOSTAT.FOR__bw.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/037__EXAMPLES/027__LABIOSTAT.FOR__bw.pdf",
+    "is_dir": false,
+    "size": "1.2 MiB",
+    "date": "07-Dec-2021 00:28"
+  },
+  {
+    "name": "027__LABIOSTAT.FOR__gray.pdf",
+    "href": "027__LABIOSTAT.FOR__gray.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/037__EXAMPLES/027__LABIOSTAT.FOR__gray.pdf",
+    "is_dir": false,
+    "size": "4.1 MiB",
+    "date": "07-Dec-2021 00:28"
+  },
+  {
+    "name": "028__LABMBXDEF.FOR__bw.pdf",
+    "href": "028__LABMBXDEF.FOR__bw.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/037__EXAMPLES/028__LABMBXDEF.FOR__bw.pdf",
+    "is_dir": false,
+    "size": "1.1 MiB",
+    "date": "07-Dec-2021 00:28"
+  },
+  {
+    "name": "028__LABMBXDEF.FOR__gray.pdf",
+    "href": "028__LABMBXDEF.FOR__gray.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/037__EXAMPLES/028__LABMBXDEF.FOR__gray.pdf",
+    "is_dir": false,
+    "size": "2.6 MiB",
+    "date": "07-Dec-2021 00:28"
+  },
+  {
+    "name": "029__LBRDEMO.FOR__bw.pdf",
+    "href": "029__LBRDEMO.FOR__bw.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/037__EXAMPLES/029__LBRDEMO.FOR__bw.pdf",
+    "is_dir": false,
+    "size": "1.2 MiB",
+    "date": "07-Dec-2021 00:28"
+  },
+  {
+    "name": "029__LBRDEMO.FOR__gray.pdf",
+    "href": "029__LBRDEMO.FOR__gray.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/037__EXAMPLES/029__LBRDEMO.FOR__gray.pdf",
+    "is_dir": false,
+    "size": "4.1 MiB",
+    "date": "07-Dec-2021 00:28"
+  },
+  {
+    "name": "030__LPATEST.FOR__bw.pdf",
+    "href": "030__LPATEST.FOR__bw.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/037__EXAMPLES/030__LPATEST.FOR__bw.pdf",
+    "is_dir": false,
+    "size": "1.3 MiB",
+    "date": "07-Dec-2021 00:28"
+  },
+  {
+    "name": "030__LPATEST.FOR__gray.pdf",
+    "href": "030__LPATEST.FOR__gray.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/037__EXAMPLES/030__LPATEST.FOR__gray.pdf",
+    "is_dir": false,
+    "size": "5.1 MiB",
+    "date": "07-Dec-2021 00:29"
+  },
+  {
+    "name": "031__PEAK.FOR__bw.pdf",
+    "href": "031__PEAK.FOR__bw.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/037__EXAMPLES/031__PEAK.FOR__bw.pdf",
+    "is_dir": false,
+    "size": "1.1 MiB",
+    "date": "07-Dec-2021 00:29"
+  },
+  {
+    "name": "031__PEAK.FOR__gray.pdf",
+    "href": "031__PEAK.FOR__gray.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/037__EXAMPLES/031__PEAK.FOR__gray.pdf",
+    "is_dir": false,
+    "size": "2.6 MiB",
+    "date": "07-Dec-2021 00:29"
+  },
+  {
+    "name": "032__TESTLABIO.FOR__bw.pdf",
+    "href": "032__TESTLABIO.FOR__bw.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/037__EXAMPLES/032__TESTLABIO.FOR__bw.pdf",
+    "is_dir": false,
+    "size": "1.2 MiB",
+    "date": "07-Dec-2021 00:29"
+  },
+  {
+    "name": "032__TESTLABIO.FOR__gray.pdf",
+    "href": "032__TESTLABIO.FOR__gray.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/037__EXAMPLES/032__TESTLABIO.FOR__gray.pdf",
+    "is_dir": false,
+    "size": "3.2 MiB",
+    "date": "07-Dec-2021 00:29"
+  },
+  {
+    "name": "033__XATEST.FOR__bw.pdf",
+    "href": "033__XATEST.FOR__bw.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/037__EXAMPLES/033__XATEST.FOR__bw.pdf",
+    "is_dir": false,
+    "size": "1.2 MiB",
+    "date": "07-Dec-2021 00:29"
+  },
+  {
+    "name": "033__XATEST.FOR__gray.pdf",
+    "href": "033__XATEST.FOR__gray.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/037__EXAMPLES/033__XATEST.FOR__gray.pdf",
+    "is_dir": false,
+    "size": "3.2 MiB",
+    "date": "07-Dec-2021 00:29"
+  },
+  {
+    "name": "034__CONNECT.COM__bw.pdf",
+    "href": "034__CONNECT.COM__bw.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/037__EXAMPLES/034__CONNECT.COM__bw.pdf",
+    "is_dir": false,
+    "size": "1.1 MiB",
+    "date": "07-Dec-2021 00:29"
+  },
+  {
+    "name": "034__CONNECT.COM__gray.pdf",
+    "href": "034__CONNECT.COM__gray.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/037__EXAMPLES/034__CONNECT.COM__gray.pdf",
+    "is_dir": false,
+    "size": "2.2 MiB",
+    "date": "07-Dec-2021 00:29"
+  },
+  {
+    "name": "035__DRCOPYBLD.COM__bw.pdf",
+    "href": "035__DRCOPYBLD.COM__bw.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/037__EXAMPLES/035__DRCOPYBLD.COM__bw.pdf",
+    "is_dir": false,
+    "size": "1.1 MiB",
+    "date": "07-Dec-2021 00:29"
+  },
+  {
+    "name": "035__DRCOPYBLD.COM__gray.pdf",
+    "href": "035__DRCOPYBLD.COM__gray.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/037__EXAMPLES/035__DRCOPYBLD.COM__gray.pdf",
+    "is_dir": false,
+    "size": "2.2 MiB",
+    "date": "07-Dec-2021 00:29"
+  },
+  {
+    "name": "036__LABIOCOMP.COM__bw.pdf",
+    "href": "036__LABIOCOMP.COM__bw.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/037__EXAMPLES/036__LABIOCOMP.COM__bw.pdf",
+    "is_dir": false,
+    "size": "1.1 MiB",
+    "date": "07-Dec-2021 00:29"
+  },
+  {
+    "name": "036__LABIOCOMP.COM__gray.pdf",
+    "href": "036__LABIOCOMP.COM__gray.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/037__EXAMPLES/036__LABIOCOMP.COM__gray.pdf",
+    "is_dir": false,
+    "size": "2.1 MiB",
+    "date": "07-Dec-2021 00:29"
+  },
+  {
+    "name": "037__LABIOLINK.COM__bw.pdf",
+    "href": "037__LABIOLINK.COM__bw.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/037__EXAMPLES/037__LABIOLINK.COM__bw.pdf",
+    "is_dir": false,
+    "size": "1.1 MiB",
+    "date": "07-Dec-2021 00:29"
+  },
+  {
+    "name": "037__LABIOLINK.COM__gray.pdf",
+    "href": "037__LABIOLINK.COM__gray.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/037__EXAMPLES/037__LABIOLINK.COM__gray.pdf",
+    "is_dir": false,
+    "size": "2.3 MiB",
+    "date": "07-Dec-2021 00:29"
+  },
+  {
+    "name": "038__LABIOSTRT.COM__bw.pdf",
+    "href": "038__LABIOSTRT.COM__bw.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/037__EXAMPLES/038__LABIOSTRT.COM__bw.pdf",
+    "is_dir": false,
+    "size": "1.1 MiB",
+    "date": "07-Dec-2021 00:29"
+  },
+  {
+    "name": "038__LABIOSTRT.COM__gray.pdf",
+    "href": "038__LABIOSTRT.COM__gray.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/037__EXAMPLES/038__LABIOSTRT.COM__gray.pdf",
+    "is_dir": false,
+    "size": "2.3 MiB",
+    "date": "07-Dec-2021 00:29"
+  },
+  {
+    "name": "039__LBRDEMO.COM__bw.pdf",
+    "href": "039__LBRDEMO.COM__bw.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/037__EXAMPLES/039__LBRDEMO.COM__bw.pdf",
+    "is_dir": false,
+    "size": "1.1 MiB",
+    "date": "07-Dec-2021 00:29"
+  },
+  {
+    "name": "039__LBRDEMO.COM__gray.pdf",
+    "href": "039__LBRDEMO.COM__gray.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/037__EXAMPLES/039__LBRDEMO.COM__gray.pdf",
+    "is_dir": false,
+    "size": "2.2 MiB",
+    "date": "07-Dec-2021 00:29"
+  },
+  {
+    "name": "040__MAILCOMPRESS.COM__bw.pdf",
+    "href": "040__MAILCOMPRESS.COM__bw.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/037__EXAMPLES/040__MAILCOMPRESS.COM__bw.pdf",
+    "is_dir": false,
+    "size": "2.5 MiB",
+    "date": "07-Dec-2021 00:29"
+  },
+  {
+    "name": "040__MAILCOMPRESS.COM__gray.pdf",
+    "href": "040__MAILCOMPRESS.COM__gray.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/037__EXAMPLES/040__MAILCOMPRESS.COM__gray.pdf",
+    "is_dir": false,
+    "size": "5.8 MiB",
+    "date": "07-Dec-2021 00:29"
+  },
+  {
+    "name": "041__MAILCVT.COM__bw.pdf",
+    "href": "041__MAILCVT.COM__bw.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/037__EXAMPLES/041__MAILCVT.COM__bw.pdf",
+    "is_dir": false,
+    "size": "1.3 MiB",
+    "date": "07-Dec-2021 00:29"
+  },
+  {
+    "name": "041__MAILCVT.COM__gray.pdf",
+    "href": "041__MAILCVT.COM__gray.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/037__EXAMPLES/041__MAILCVT.COM__gray.pdf",
+    "is_dir": false,
+    "size": "3.0 MiB",
+    "date": "07-Dec-2021 00:29"
+  },
+  {
+    "name": "042__MAILUAF.COM__bw.pdf",
+    "href": "042__MAILUAF.COM__bw.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/037__EXAMPLES/042__MAILUAF.COM__bw.pdf",
+    "is_dir": false,
+    "size": "1.4 MiB",
+    "date": "07-Dec-2021 00:29"
+  },
+  {
+    "name": "042__MAILUAF.COM__gray.pdf",
+    "href": "042__MAILUAF.COM__gray.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/037__EXAMPLES/042__MAILUAF.COM__gray.pdf",
+    "is_dir": false,
+    "size": "4.3 MiB",
+    "date": "07-Dec-2021 00:29"
+  },
+  {
+    "name": "043__MSCPMOUNT.COM__bw.pdf",
+    "href": "043__MSCPMOUNT.COM__bw.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/037__EXAMPLES/043__MSCPMOUNT.COM__bw.pdf",
+    "is_dir": false,
+    "size": "1.4 MiB",
+    "date": "07-Dec-2021 00:29"
+  },
+  {
+    "name": "043__MSCPMOUNT.COM__gray.pdf",
+    "href": "043__MSCPMOUNT.COM__gray.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/037__EXAMPLES/043__MSCPMOUNT.COM__gray.pdf",
+    "is_dir": false,
+    "size": "3.9 MiB",
+    "date": "07-Dec-2021 00:29"
+  },
+  {
+    "name": "044__USSLNK.COM__bw.pdf",
+    "href": "044__USSLNK.COM__bw.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/037__EXAMPLES/044__USSLNK.COM__bw.pdf",
+    "is_dir": false,
+    "size": "1.3 MiB",
+    "date": "07-Dec-2021 00:29"
+  },
+  {
+    "name": "044__USSLNK.COM__gray.pdf",
+    "href": "044__USSLNK.COM__gray.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/037__EXAMPLES/044__USSLNK.COM__gray.pdf",
+    "is_dir": false,
+    "size": "2.4 MiB",
+    "date": "07-Dec-2021 00:29"
+  },
+  {
+    "name": "045__USSTSTLNK.COM__bw.pdf",
+    "href": "045__USSTSTLNK.COM__bw.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/037__EXAMPLES/045__USSTSTLNK.COM__bw.pdf",
+    "is_dir": false,
+    "size": "1.3 MiB",
+    "date": "07-Dec-2021 00:29"
+  },
+  {
+    "name": "045__USSTSTLNK.COM__gray.pdf",
+    "href": "045__USSTSTLNK.COM__gray.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/037__EXAMPLES/045__USSTSTLNK.COM__gray.pdf",
+    "is_dir": false,
+    "size": "2.3 MiB",
+    "date": "07-Dec-2021 00:29"
+  },
+  {
+    "name": "046__XATEST.COM__bw.pdf",
+    "href": "046__XATEST.COM__bw.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/037__EXAMPLES/046__XATEST.COM__bw.pdf",
+    "is_dir": false,
+    "size": "1.3 MiB",
+    "date": "07-Dec-2021 00:29"
+  },
+  {
+    "name": "046__XATEST.COM__gray.pdf",
+    "href": "046__XATEST.COM__gray.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/037__EXAMPLES/046__XATEST.COM__gray.pdf",
+    "is_dir": false,
+    "size": "2.4 MiB",
+    "date": "07-Dec-2021 00:29"
+  },
+  {
+    "name": "047__LABIO.OPT__bw.pdf",
+    "href": "047__LABIO.OPT__bw.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/037__EXAMPLES/047__LABIO.OPT__bw.pdf",
+    "is_dir": false,
+    "size": "1.3 MiB",
+    "date": "07-Dec-2021 00:29"
+  },
+  {
+    "name": "047__LABIO.OPT__gray.pdf",
+    "href": "047__LABIO.OPT__gray.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/037__EXAMPLES/047__LABIO.OPT__gray.pdf",
+    "is_dir": false,
+    "size": "2.3 MiB",
+    "date": "07-Dec-2021 00:29"
+  },
+  {
+    "name": "048__LABIOCIN.OPT__bw.pdf",
+    "href": "048__LABIOCIN.OPT__bw.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/037__EXAMPLES/048__LABIOCIN.OPT__bw.pdf",
+    "is_dir": false,
+    "size": "1.3 MiB",
+    "date": "07-Dec-2021 00:29"
+  },
+  {
+    "name": "048__LABIOCIN.OPT__gray.pdf",
+    "href": "048__LABIOCIN.OPT__gray.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/037__EXAMPLES/048__LABIOCIN.OPT__gray.pdf",
+    "is_dir": false,
+    "size": "2.3 MiB",
+    "date": "07-Dec-2021 00:29"
+  },
+  {
+    "name": "049__DRCOPY.PRM__bw.pdf",
+    "href": "049__DRCOPY.PRM__bw.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/037__EXAMPLES/049__DRCOPY.PRM__bw.pdf",
+    "is_dir": false,
+    "size": "1.3 MiB",
+    "date": "07-Dec-2021 00:29"
+  },
+  {
+    "name": "049__DRCOPY.PRM__gray.pdf",
+    "href": "049__DRCOPY.PRM__gray.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/037__EXAMPLES/049__DRCOPY.PRM__gray.pdf",
+    "is_dir": false,
+    "size": "2.5 MiB",
+    "date": "07-Dec-2021 00:29"
+  },
+  {
+    "name": "050__SYSGTTSTR.MSG__bw.pdf",
+    "href": "050__SYSGTTSTR.MSG__bw.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/037__EXAMPLES/050__SYSGTTSTR.MSG__bw.pdf",
+    "is_dir": false,
+    "size": "1.4 MiB",
+    "date": "07-Dec-2021 00:29"
+  },
+  {
+    "name": "050__SYSGTTSTR.MSG__gray.pdf",
+    "href": "050__SYSGTTSTR.MSG__gray.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/037__EXAMPLES/050__SYSGTTSTR.MSG__gray.pdf",
+    "is_dir": false,
+    "size": "3.2 MiB",
+    "date": "07-Dec-2021 00:29"
+  }
+]

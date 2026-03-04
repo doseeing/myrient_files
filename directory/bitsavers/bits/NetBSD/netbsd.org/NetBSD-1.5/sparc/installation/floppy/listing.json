@@ -1,0 +1,50 @@
+[
+  {
+    "name": "BSDSUM",
+    "href": "BSDSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/sparc/installation/floppy/BSDSUM",
+    "is_dir": false,
+    "size": "42 B",
+    "date": "29-Nov-2000 15:33"
+  },
+  {
+    "name": "CKSUM",
+    "href": "CKSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/sparc/installation/floppy/CKSUM",
+    "is_dir": false,
+    "size": "57 B",
+    "date": "29-Nov-2000 15:33"
+  },
+  {
+    "name": "MD5",
+    "href": "MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/sparc/installation/floppy/MD5",
+    "is_dir": false,
+    "size": "103 B",
+    "date": "29-Nov-2000 15:33"
+  },
+  {
+    "name": "SYSVSUM",
+    "href": "SYSVSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/sparc/installation/floppy/SYSVSUM",
+    "is_dir": false,
+    "size": "43 B",
+    "date": "29-Nov-2000 15:33"
+  },
+  {
+    "name": "disk1.fs.gz",
+    "href": "disk1.fs.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/sparc/installation/floppy/disk1.fs.gz",
+    "is_dir": false,
+    "size": "872.0 KiB",
+    "date": "24-Nov-2000 12:54"
+  },
+  {
+    "name": "disk2.fs",
+    "href": "disk2.fs",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/sparc/installation/floppy/disk2.fs",
+    "is_dir": false,
+    "size": "1.3 MiB",
+    "date": "24-Nov-2000 12:55"
+  }
+]

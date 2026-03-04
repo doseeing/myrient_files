@@ -1,0 +1,50 @@
+[
+  {
+    "name": "binary",
+    "href": "binary/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/mvme68k/binary/",
+    "is_dir": true,
+    "size": null,
+    "date": "01-Oct-2023 18:33"
+  },
+  {
+    "name": "installation",
+    "href": "installation/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/mvme68k/installation/",
+    "is_dir": true,
+    "size": null,
+    "date": "01-Oct-2023 18:33"
+  },
+  {
+    "name": "INSTALL.html",
+    "href": "INSTALL.html",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/mvme68k/INSTALL.html",
+    "is_dir": false,
+    "size": "118.2 KiB",
+    "date": "05-Nov-2000 09:37"
+  },
+  {
+    "name": "INSTALL.more",
+    "href": "INSTALL.more",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/mvme68k/INSTALL.more",
+    "is_dir": false,
+    "size": "103.8 KiB",
+    "date": "05-Nov-2000 09:37"
+  },
+  {
+    "name": "INSTALL.ps",
+    "href": "INSTALL.ps",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/mvme68k/INSTALL.ps",
+    "is_dir": false,
+    "size": "157.5 KiB",
+    "date": "05-Nov-2000 09:37"
+  },
+  {
+    "name": "INSTALL.txt",
+    "href": "INSTALL.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/mvme68k/INSTALL.txt",
+    "is_dir": false,
+    "size": "96.3 KiB",
+    "date": "05-Nov-2000 09:37"
+  }
+]

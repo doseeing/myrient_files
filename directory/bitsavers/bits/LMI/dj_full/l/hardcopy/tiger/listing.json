@@ -1,0 +1,274 @@
+[
+  {
+    "name": "laser",
+    "href": "laser/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/hardcopy/tiger/laser/",
+    "is_dir": true,
+    "size": null,
+    "date": "21-Apr-2017 01:47"
+  },
+  {
+    "name": "patch",
+    "href": "patch/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/hardcopy/tiger/patch/",
+    "is_dir": true,
+    "size": null,
+    "date": "21-Apr-2017 01:47"
+  },
+  {
+    "name": "toshiba-fonts",
+    "href": "toshiba-fonts/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/hardcopy/tiger/toshiba-fonts/",
+    "is_dir": true,
+    "size": null,
+    "date": "21-Apr-2017 01:47"
+  },
+  {
+    "name": "anadex.lisp.23",
+    "href": "anadex.lisp.23",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/hardcopy/tiger/anadex.lisp.23",
+    "is_dir": false,
+    "size": "4.8 KiB",
+    "date": "21-Apr-2017 01:45"
+  },
+  {
+    "name": "array-file.lisp.13",
+    "href": "array-file.lisp.13",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/hardcopy/tiger/array-file.lisp.13",
+    "is_dir": false,
+    "size": "5.5 KiB",
+    "date": "21-Apr-2017 01:45"
+  },
+  {
+    "name": "array-methods.lisp.26",
+    "href": "array-methods.lisp.26",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/hardcopy/tiger/array-methods.lisp.26",
+    "is_dir": false,
+    "size": "3.1 KiB",
+    "date": "21-Apr-2017 01:45"
+  },
+  {
+    "name": "ascii-reader-macros.lisp.18",
+    "href": "ascii-reader-macros.lisp.18",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/hardcopy/tiger/ascii-reader-macros.lisp.18",
+    "is_dir": false,
+    "size": "4.1 KiB",
+    "date": "21-Apr-2017 01:45"
+  },
+  {
+    "name": "ascii-reader-macros.lisp.19",
+    "href": "ascii-reader-macros.lisp.19",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/hardcopy/tiger/ascii-reader-macros.lisp.19",
+    "is_dir": false,
+    "size": "4.1 KiB",
+    "date": "21-Apr-2017 01:45"
+  },
+  {
+    "name": "copyright.text.1",
+    "href": "copyright.text.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/hardcopy/tiger/copyright.text.1",
+    "is_dir": false,
+    "size": "494 B",
+    "date": "21-Apr-2017 01:45"
+  },
+  {
+    "name": "defs.lisp.77",
+    "href": "defs.lisp.77",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/hardcopy/tiger/defs.lisp.77",
+    "is_dir": false,
+    "size": "13.5 KiB",
+    "date": "21-Apr-2017 01:45"
+  },
+  {
+    "name": "defs.lisp.78",
+    "href": "defs.lisp.78",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/hardcopy/tiger/defs.lisp.78",
+    "is_dir": false,
+    "size": "14.0 KiB",
+    "date": "21-Apr-2017 01:45"
+  },
+  {
+    "name": "dumped-arrays.lisp.4",
+    "href": "dumped-arrays.lisp.4",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/hardcopy/tiger/dumped-arrays.lisp.4",
+    "is_dir": false,
+    "size": "782 B",
+    "date": "21-Apr-2017 01:45"
+  },
+  {
+    "name": "laser1.lisp.8",
+    "href": "laser1.lisp.8",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/hardcopy/tiger/laser1.lisp.8",
+    "is_dir": false,
+    "size": "6.3 KiB",
+    "date": "21-Apr-2017 01:45"
+  },
+  {
+    "name": "laser1.lisp.9",
+    "href": "laser1.lisp.9",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/hardcopy/tiger/laser1.lisp.9",
+    "is_dir": false,
+    "size": "6.4 KiB",
+    "date": "21-Apr-2017 01:45"
+  },
+  {
+    "name": "server.lisp.191",
+    "href": "server.lisp.191",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/hardcopy/tiger/server.lisp.191",
+    "is_dir": false,
+    "size": "20.5 KiB",
+    "date": "21-Apr-2017 01:45"
+  },
+  {
+    "name": "server.lisp.192",
+    "href": "server.lisp.192",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/hardcopy/tiger/server.lisp.192",
+    "is_dir": false,
+    "size": "20.5 KiB",
+    "date": "21-Apr-2017 01:45"
+  },
+  {
+    "name": "stream.lisp.47",
+    "href": "stream.lisp.47",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/hardcopy/tiger/stream.lisp.47",
+    "is_dir": false,
+    "size": "11.2 KiB",
+    "date": "21-Apr-2017 01:45"
+  },
+  {
+    "name": "stuff-array.lisp.11",
+    "href": "stuff-array.lisp.11",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/hardcopy/tiger/stuff-array.lisp.11",
+    "is_dir": false,
+    "size": "2.3 KiB",
+    "date": "21-Apr-2017 01:45"
+  },
+  {
+    "name": "ti855.lisp.48",
+    "href": "ti855.lisp.48",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/hardcopy/tiger/ti855.lisp.48",
+    "is_dir": false,
+    "size": "8.8 KiB",
+    "date": "21-Apr-2017 01:45"
+  },
+  {
+    "name": "tiger-system.lisp.51",
+    "href": "tiger-system.lisp.51",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/hardcopy/tiger/tiger-system.lisp.51",
+    "is_dir": false,
+    "size": "2.1 KiB",
+    "date": "21-Apr-2017 01:45"
+  },
+  {
+    "name": "tiger-system.lisp.52",
+    "href": "tiger-system.lisp.52",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/hardcopy/tiger/tiger-system.lisp.52",
+    "is_dir": false,
+    "size": "1.6 KiB",
+    "date": "21-Apr-2017 01:45"
+  },
+  {
+    "name": "tiger-system.lisp.53",
+    "href": "tiger-system.lisp.53",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/hardcopy/tiger/tiger-system.lisp.53",
+    "is_dir": false,
+    "size": "1.6 KiB",
+    "date": "21-Apr-2017 01:45"
+  },
+  {
+    "name": "tiger-system.lisp.54",
+    "href": "tiger-system.lisp.54",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/hardcopy/tiger/tiger-system.lisp.54",
+    "is_dir": false,
+    "size": "1.7 KiB",
+    "date": "21-Apr-2017 01:45"
+  },
+  {
+    "name": "tiger-system.lisp.55",
+    "href": "tiger-system.lisp.55",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/hardcopy/tiger/tiger-system.lisp.55",
+    "is_dir": false,
+    "size": "1.7 KiB",
+    "date": "21-Apr-2017 01:45"
+  },
+  {
+    "name": "tiger-system.lisp.56",
+    "href": "tiger-system.lisp.56",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/hardcopy/tiger/tiger-system.lisp.56",
+    "is_dir": false,
+    "size": "1.8 KiB",
+    "date": "21-Apr-2017 01:45"
+  },
+  {
+    "name": "tiger-system.lisp.57",
+    "href": "tiger-system.lisp.57",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/hardcopy/tiger/tiger-system.lisp.57",
+    "is_dir": false,
+    "size": "1.8 KiB",
+    "date": "21-Apr-2017 01:45"
+  },
+  {
+    "name": "toshiba-font.lisp.18",
+    "href": "toshiba-font.lisp.18",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/hardcopy/tiger/toshiba-font.lisp.18",
+    "is_dir": false,
+    "size": "2.8 KiB",
+    "date": "21-Apr-2017 01:45"
+  },
+  {
+    "name": "toshiba-font.lisp.19",
+    "href": "toshiba-font.lisp.19",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/hardcopy/tiger/toshiba-font.lisp.19",
+    "is_dir": false,
+    "size": "3.1 KiB",
+    "date": "21-Apr-2017 01:45"
+  },
+  {
+    "name": "toshiba-font.lisp.20",
+    "href": "toshiba-font.lisp.20",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/hardcopy/tiger/toshiba-font.lisp.20",
+    "is_dir": false,
+    "size": "3.8 KiB",
+    "date": "21-Apr-2017 01:45"
+  },
+  {
+    "name": "toshiba-font.lisp.21",
+    "href": "toshiba-font.lisp.21",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/hardcopy/tiger/toshiba-font.lisp.21",
+    "is_dir": false,
+    "size": "3.8 KiB",
+    "date": "21-Apr-2017 01:45"
+  },
+  {
+    "name": "toshiba.lisp.127",
+    "href": "toshiba.lisp.127",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/hardcopy/tiger/toshiba.lisp.127",
+    "is_dir": false,
+    "size": "17.1 KiB",
+    "date": "21-Apr-2017 01:45"
+  },
+  {
+    "name": "toshiba.lisp.128",
+    "href": "toshiba.lisp.128",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/hardcopy/tiger/toshiba.lisp.128",
+    "is_dir": false,
+    "size": "17.1 KiB",
+    "date": "21-Apr-2017 01:45"
+  },
+  {
+    "name": "user.lisp.80",
+    "href": "user.lisp.80",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/hardcopy/tiger/user.lisp.80",
+    "is_dir": false,
+    "size": "13.8 KiB",
+    "date": "21-Apr-2017 01:45"
+  },
+  {
+    "name": "vanilla.lisp.11",
+    "href": "vanilla.lisp.11",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/hardcopy/tiger/vanilla.lisp.11",
+    "is_dir": false,
+    "size": "2.7 KiB",
+    "date": "21-Apr-2017 01:45"
+  }
+]

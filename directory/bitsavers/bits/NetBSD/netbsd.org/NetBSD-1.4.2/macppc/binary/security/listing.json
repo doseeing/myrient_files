@@ -1,0 +1,42 @@
+[
+  {
+    "name": "BSDSUM",
+    "href": "BSDSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/macppc/binary/security/BSDSUM",
+    "is_dir": false,
+    "size": "18 B",
+    "date": "04-Mar-2000 01:00"
+  },
+  {
+    "name": "CKSUM",
+    "href": "CKSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/macppc/binary/security/CKSUM",
+    "is_dir": false,
+    "size": "27 B",
+    "date": "04-Mar-2000 01:00"
+  },
+  {
+    "name": "MD5",
+    "href": "MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/macppc/binary/security/MD5",
+    "is_dir": false,
+    "size": "50 B",
+    "date": "04-Mar-2000 01:00"
+  },
+  {
+    "name": "SYSVSUM",
+    "href": "SYSVSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/macppc/binary/security/SYSVSUM",
+    "is_dir": false,
+    "size": "20 B",
+    "date": "04-Mar-2000 01:00"
+  },
+  {
+    "name": "secr.tgz",
+    "href": "secr.tgz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/macppc/binary/security/secr.tgz",
+    "is_dir": false,
+    "size": "808.3 KiB",
+    "date": "04-Mar-2000 01:00"
+  }
+]

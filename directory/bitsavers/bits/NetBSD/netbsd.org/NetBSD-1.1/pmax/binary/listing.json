@@ -1,0 +1,66 @@
+[
+  {
+    "name": "CHKSUMS",
+    "href": "CHKSUMS",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/pmax/binary/CHKSUMS",
+    "is_dir": false,
+    "size": "156 B",
+    "date": "26-Nov-1995 23:05"
+  },
+  {
+    "name": "base.tar.gz",
+    "href": "base.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/pmax/binary/base.tar.gz",
+    "is_dir": false,
+    "size": "19.3 MiB",
+    "date": "25-Nov-1995 23:47"
+  },
+  {
+    "name": "comp.tar.gz",
+    "href": "comp.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/pmax/binary/comp.tar.gz",
+    "is_dir": false,
+    "size": "9.6 MiB",
+    "date": "26-Nov-1995 01:00"
+  },
+  {
+    "name": "etc.tar.gz",
+    "href": "etc.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/pmax/binary/etc.tar.gz",
+    "is_dir": false,
+    "size": "63.7 KiB",
+    "date": "26-Nov-1995 22:15"
+  },
+  {
+    "name": "games.tar.gz",
+    "href": "games.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/pmax/binary/games.tar.gz",
+    "is_dir": false,
+    "size": "4.5 MiB",
+    "date": "26-Nov-1995 01:09"
+  },
+  {
+    "name": "man.tar.gz",
+    "href": "man.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/pmax/binary/man.tar.gz",
+    "is_dir": false,
+    "size": "803.3 KiB",
+    "date": "25-Nov-1995 23:51"
+  },
+  {
+    "name": "misc.tar.gz",
+    "href": "misc.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/pmax/binary/misc.tar.gz",
+    "is_dir": false,
+    "size": "1.8 MiB",
+    "date": "25-Nov-1995 23:54"
+  },
+  {
+    "name": "text.tar.gz",
+    "href": "text.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/pmax/binary/text.tar.gz",
+    "is_dir": false,
+    "size": "1.2 MiB",
+    "date": "26-Nov-1995 01:12"
+  }
+]

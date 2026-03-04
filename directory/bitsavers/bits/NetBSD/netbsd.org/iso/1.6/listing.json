@@ -1,0 +1,82 @@
+[
+  {
+    "name": "BSDSUM",
+    "href": "BSDSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/1.6/BSDSUM",
+    "is_dir": false,
+    "size": "26 B",
+    "date": "21-Dec-2005 21:41"
+  },
+  {
+    "name": "CKSUM",
+    "href": "CKSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/1.6/CKSUM",
+    "is_dir": false,
+    "size": "34 B",
+    "date": "21-Dec-2005 21:41"
+  },
+  {
+    "name": "MD5",
+    "href": "MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/1.6/MD5",
+    "is_dir": false,
+    "size": "54 B",
+    "date": "21-Dec-2005 21:41"
+  },
+  {
+    "name": "README",
+    "href": "README",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/1.6/README",
+    "is_dir": false,
+    "size": "157 B",
+    "date": "21-Dec-2005 21:44"
+  },
+  {
+    "name": "README.i386live",
+    "href": "README.i386live",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/1.6/README.i386live",
+    "is_dir": false,
+    "size": "5.8 KiB",
+    "date": "08-May-2004 03:37"
+  },
+  {
+    "name": "SYSVSUM",
+    "href": "SYSVSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/1.6/SYSVSUM",
+    "is_dir": false,
+    "size": "26 B",
+    "date": "21-Dec-2005 21:41"
+  },
+  {
+    "name": "i386live-cover.jpg",
+    "href": "i386live-cover.jpg",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/1.6/i386live-cover.jpg",
+    "is_dir": false,
+    "size": "583.2 KiB",
+    "date": "08-May-2004 01:55"
+  },
+  {
+    "name": "i386live.iso.bz2",
+    "href": "i386live.iso.bz2",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/1.6/i386live.iso.bz2",
+    "is_dir": false,
+    "size": "229.5 MiB",
+    "date": "08-May-2004 02:00"
+  },
+  {
+    "name": "i386live.md5",
+    "href": "i386live.md5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/1.6/i386live.md5",
+    "is_dir": false,
+    "size": "58 B",
+    "date": "08-May-2004 02:00"
+  },
+  {
+    "name": "sourcecd.iso",
+    "href": "sourcecd.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/1.6/sourcecd.iso",
+    "is_dir": false,
+    "size": "195.6 MiB",
+    "date": "08-May-2004 03:48"
+  }
+]

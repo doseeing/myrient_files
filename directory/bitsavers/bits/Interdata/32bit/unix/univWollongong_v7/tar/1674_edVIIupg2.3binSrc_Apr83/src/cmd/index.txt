@@ -1,0 +1,26 @@
+name	is_dir	size	date
+Makefile	False	5.3 KiB	08-Mar-1983 23:41
+README	False	254 B	08-Mar-1983 23:41
+clri.c	False	1.6 KiB	08-Mar-1983 23:41
+curses.h	False	4.5 KiB	08-Mar-1983 23:41
+dcheck.c	False	3.9 KiB	08-Mar-1983 23:41
+ddswap1.c	False	539 B	08-Mar-1983 23:41
+df.c	False	4.6 KiB	08-Mar-1983 23:41
+dmesg.c	False	2.9 KiB	08-Mar-1983 23:41
+du.c	False	3.6 KiB	08-Mar-1983 23:41
+dump.c	False	10.7 KiB	08-Mar-1983 23:41
+dumpdir.c	False	10.1 KiB	08-Mar-1983 23:41
+fsck.c	False	37.2 KiB	08-Mar-1983 23:41
+fstab.c	False	2.2 KiB	08-Mar-1983 23:41
+icheck.c	False	8.4 KiB	08-Mar-1983 23:41
+mkboot.c	False	5.9 KiB	08-Mar-1983 23:41
+mkfs.c	False	11.1 KiB	15-Apr-1983 18:26
+mkfs.sa	False	14.4 KiB	08-Mar-1983 23:41
+ncheck.c	False	5.1 KiB	08-Mar-1983 23:41
+proto	False	32 B	08-Mar-1983 23:41
+ps.c	False	8.3 KiB	08-Mar-1983 23:41
+pstat.c	False	11.2 KiB	08-Mar-1983 23:41
+restor.c	False	22.4 KiB	14-Apr-1983 23:55
+restor512	False	22.8 KiB	08-Mar-1983 23:41
+restor512.c	False	19.7 KiB	08-Mar-1983 23:41
+w.c	False	15.4 KiB	08-Mar-1983 23:41

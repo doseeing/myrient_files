@@ -1,0 +1,82 @@
+[
+  {
+    "name": "CKSUMS",
+    "href": "CKSUMS",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/i386/floppies/CKSUMS",
+    "is_dir": false,
+    "size": "272 B",
+    "date": "16-Sep-1996 13:47"
+  },
+  {
+    "name": "README.files",
+    "href": "README.files",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/i386/floppies/README.files",
+    "is_dir": false,
+    "size": "959 B",
+    "date": "16-Sep-1996 02:02"
+  },
+  {
+    "name": "inst-12.fs",
+    "href": "inst-12.fs",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/i386/floppies/inst-12.fs",
+    "is_dir": false,
+    "size": "1.2 MiB",
+    "date": "16-Sep-1996 02:10"
+  },
+  {
+    "name": "inst-12.fs.gz",
+    "href": "inst-12.fs.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/i386/floppies/inst-12.fs.gz",
+    "is_dir": false,
+    "size": "508.8 KiB",
+    "date": "16-Sep-1996 02:07"
+  },
+  {
+    "name": "kcadp12.fs",
+    "href": "kcadp12.fs",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/i386/floppies/kcadp12.fs",
+    "is_dir": false,
+    "size": "1.2 MiB",
+    "date": "16-Sep-1996 02:10"
+  },
+  {
+    "name": "kcadp12.fs.gz",
+    "href": "kcadp12.fs.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/i386/floppies/kcadp12.fs.gz",
+    "is_dir": false,
+    "size": "593.4 KiB",
+    "date": "16-Sep-1996 02:07"
+  },
+  {
+    "name": "kcoth12.fs",
+    "href": "kcoth12.fs",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/i386/floppies/kcoth12.fs",
+    "is_dir": false,
+    "size": "1.2 MiB",
+    "date": "16-Sep-1996 02:10"
+  },
+  {
+    "name": "kcoth12.fs.gz",
+    "href": "kcoth12.fs.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/i386/floppies/kcoth12.fs.gz",
+    "is_dir": false,
+    "size": "589.5 KiB",
+    "date": "16-Sep-1996 02:07"
+  },
+  {
+    "name": "upgr12.fs",
+    "href": "upgr12.fs",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/i386/floppies/upgr12.fs",
+    "is_dir": false,
+    "size": "1.2 MiB",
+    "date": "16-Sep-1996 13:46"
+  },
+  {
+    "name": "upgr12.fs.gz",
+    "href": "upgr12.fs.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/i386/floppies/upgr12.fs.gz",
+    "is_dir": false,
+    "size": "506.0 KiB",
+    "date": "16-Sep-1996 13:45"
+  }
+]

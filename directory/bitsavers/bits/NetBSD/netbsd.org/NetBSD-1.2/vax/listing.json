@@ -1,0 +1,18 @@
+[
+  {
+    "name": "binaries",
+    "href": "binaries/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/vax/binaries/",
+    "is_dir": true,
+    "size": null,
+    "date": "30-Sep-2023 17:20"
+  },
+  {
+    "name": "install",
+    "href": "install/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/vax/install/",
+    "is_dir": true,
+    "size": null,
+    "date": "30-Sep-2023 17:20"
+  }
+]

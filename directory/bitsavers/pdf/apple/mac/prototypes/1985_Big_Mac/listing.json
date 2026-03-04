@@ -1,0 +1,82 @@
+[
+  {
+    "name": "pictures",
+    "href": "pictures/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/apple/mac/prototypes/1985_Big_Mac/pictures/",
+    "is_dir": true,
+    "size": null,
+    "date": "15-Feb-2023 01:49"
+  },
+  {
+    "name": "BIGMAC_Bringup.pdf",
+    "href": "BIGMAC_Bringup.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/apple/mac/prototypes/1985_Big_Mac/BIGMAC_Bringup.pdf",
+    "is_dir": false,
+    "size": "68.7 KiB",
+    "date": "08-Jul-2011 22:24"
+  },
+  {
+    "name": "BIGMAC_Data_Sheet_6-85.pdf",
+    "href": "BIGMAC_Data_Sheet_6-85.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/apple/mac/prototypes/1985_Big_Mac/BIGMAC_Data_Sheet_6-85.pdf",
+    "is_dir": false,
+    "size": "147.4 KiB",
+    "date": "08-Jul-2011 22:24"
+  },
+  {
+    "name": "BIGMAC_MMU.pdf",
+    "href": "BIGMAC_MMU.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/apple/mac/prototypes/1985_Big_Mac/BIGMAC_MMU.pdf",
+    "is_dir": false,
+    "size": "303.3 KiB",
+    "date": "08-Jul-2011 22:24"
+  },
+  {
+    "name": "BIGMAC_Pgmrs_Model_6-85.pdf",
+    "href": "BIGMAC_Pgmrs_Model_6-85.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/apple/mac/prototypes/1985_Big_Mac/BIGMAC_Pgmrs_Model_6-85.pdf",
+    "is_dir": false,
+    "size": "261.3 KiB",
+    "date": "08-Jul-2011 22:24"
+  },
+  {
+    "name": "BIGMAC_Pgmrs_Model_8-85.pdf",
+    "href": "BIGMAC_Pgmrs_Model_8-85.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/apple/mac/prototypes/1985_Big_Mac/BIGMAC_Pgmrs_Model_8-85.pdf",
+    "is_dir": false,
+    "size": "264.7 KiB",
+    "date": "08-Jul-2011 22:24"
+  },
+  {
+    "name": "BIGMAC_VTG.pdf",
+    "href": "BIGMAC_VTG.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/apple/mac/prototypes/1985_Big_Mac/BIGMAC_VTG.pdf",
+    "is_dir": false,
+    "size": "193.2 KiB",
+    "date": "08-Jul-2011 22:24"
+  },
+  {
+    "name": "U73.bin",
+    "href": "U73.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/apple/mac/prototypes/1985_Big_Mac/U73.bin",
+    "is_dir": false,
+    "size": "32.0 KiB",
+    "date": "15-Feb-2023 16:28"
+  },
+  {
+    "name": "bigmac.dc42",
+    "href": "bigmac.dc42",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/apple/mac/prototypes/1985_Big_Mac/bigmac.dc42",
+    "is_dir": false,
+    "size": "818.8 KiB",
+    "date": "15-Feb-2023 16:27"
+  },
+  {
+    "name": "bootprom_U73_merged.BIN",
+    "href": "bootprom_U73_merged.BIN",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/apple/mac/prototypes/1985_Big_Mac/bootprom_U73_merged.BIN",
+    "is_dir": false,
+    "size": "32.0 KiB",
+    "date": "15-Feb-2023 16:28"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "name": "BSDSUM",
+    "href": "BSDSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/macppc/binary/kernel/BSDSUM",
+    "is_dir": false,
+    "size": "86 B",
+    "date": "04-Nov-2000 21:32"
+  },
+  {
+    "name": "CKSUM",
+    "href": "CKSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/macppc/binary/kernel/CKSUM",
+    "is_dir": false,
+    "size": "110 B",
+    "date": "04-Nov-2000 21:32"
+  },
+  {
+    "name": "MD5",
+    "href": "MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/macppc/binary/kernel/MD5",
+    "is_dir": false,
+    "size": "180 B",
+    "date": "04-Nov-2000 21:32"
+  },
+  {
+    "name": "SYSVSUM",
+    "href": "SYSVSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/macppc/binary/kernel/SYSVSUM",
+    "is_dir": false,
+    "size": "90 B",
+    "date": "04-Nov-2000 21:32"
+  },
+  {
+    "name": "netbsd.GENERIC.gz",
+    "href": "netbsd.GENERIC.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/macppc/binary/kernel/netbsd.GENERIC.gz",
+    "is_dir": false,
+    "size": "866.3 KiB",
+    "date": "04-Nov-2000 19:27"
+  },
+  {
+    "name": "netbsd.GENERIC_MD.gz",
+    "href": "netbsd.GENERIC_MD.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/macppc/binary/kernel/netbsd.GENERIC_MD.gz",
+    "is_dir": false,
+    "size": "872.3 KiB",
+    "date": "04-Nov-2000 19:28"
+  },
+  {
+    "name": "netbsd.INSTALL.gz",
+    "href": "netbsd.INSTALL.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/macppc/binary/kernel/netbsd.INSTALL.gz",
+    "is_dir": false,
+    "size": "598.2 KiB",
+    "date": "04-Nov-2000 19:25"
+  },
+  {
+    "name": "ofwboot.elf",
+    "href": "ofwboot.elf",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/macppc/binary/kernel/ofwboot.elf",
+    "is_dir": false,
+    "size": "57.8 KiB",
+    "date": "04-Nov-2000 20:23"
+  }
+]

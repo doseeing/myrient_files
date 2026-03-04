@@ -1,0 +1,34 @@
+[
+  {
+    "name": "README",
+    "href": "README",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/mac68k/X11/README",
+    "is_dir": false,
+    "size": "840 B",
+    "date": "08-Oct-1996 16:38"
+  },
+  {
+    "name": "xbase12",
+    "href": "xbase12",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/mac68k/X11/xbase12",
+    "is_dir": false,
+    "size": "9.3 MiB",
+    "date": "08-Oct-1996 16:10"
+  },
+  {
+    "name": "xcomp12",
+    "href": "xcomp12",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/mac68k/X11/xcomp12",
+    "is_dir": false,
+    "size": "743.0 KiB",
+    "date": "08-Oct-1996 16:11"
+  },
+  {
+    "name": "xserver12",
+    "href": "xserver12",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/mac68k/X11/xserver12",
+    "is_dir": false,
+    "size": "557.4 KiB",
+    "date": "08-Oct-1996 16:11"
+  }
+]

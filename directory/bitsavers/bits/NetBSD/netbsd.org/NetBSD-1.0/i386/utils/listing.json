@@ -1,0 +1,74 @@
+[
+  {
+    "name": "CKSUMS",
+    "href": "CKSUMS",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.0/i386/utils/CKSUMS",
+    "is_dir": false,
+    "size": "240 B",
+    "date": "19-Oct-1994 06:44"
+  },
+  {
+    "name": "README.files",
+    "href": "README.files",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.0/i386/utils/README.files",
+    "is_dir": false,
+    "size": "602 B",
+    "date": "19-Oct-1994 06:44"
+  },
+  {
+    "name": "os-bs135.exe",
+    "href": "os-bs135.exe",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.0/i386/utils/os-bs135.exe",
+    "is_dir": false,
+    "size": "30.6 KiB",
+    "date": "19-Oct-1994 06:38"
+  },
+  {
+    "name": "pfdisk.doc",
+    "href": "pfdisk.doc",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.0/i386/utils/pfdisk.doc",
+    "is_dir": false,
+    "size": "6.9 KiB",
+    "date": "19-Oct-1994 06:37"
+  },
+  {
+    "name": "pfdisk.exe",
+    "href": "pfdisk.exe",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.0/i386/utils/pfdisk.exe",
+    "is_dir": false,
+    "size": "17.1 KiB",
+    "date": "19-Oct-1994 06:37"
+  },
+  {
+    "name": "pfdisktc.zip",
+    "href": "pfdisktc.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.0/i386/utils/pfdisktc.zip",
+    "is_dir": false,
+    "size": "23.1 KiB",
+    "date": "19-Oct-1994 06:38"
+  },
+  {
+    "name": "rawrite.c",
+    "href": "rawrite.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.0/i386/utils/rawrite.c",
+    "is_dir": false,
+    "size": "5.0 KiB",
+    "date": "19-Oct-1994 06:37"
+  },
+  {
+    "name": "rawrite.doc",
+    "href": "rawrite.doc",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.0/i386/utils/rawrite.doc",
+    "is_dir": false,
+    "size": "2.1 KiB",
+    "date": "19-Oct-1994 06:37"
+  },
+  {
+    "name": "rawrite.exe",
+    "href": "rawrite.exe",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.0/i386/utils/rawrite.exe",
+    "is_dir": false,
+    "size": "12.7 KiB",
+    "date": "19-Oct-1994 06:37"
+  }
+]

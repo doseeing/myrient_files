@@ -1,0 +1,50 @@
+[
+  {
+    "name": "BSDSUM",
+    "href": "BSDSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/sparc/binary/kernel/BSDSUM",
+    "is_dir": false,
+    "size": "62 B",
+    "date": "09-Aug-1999 10:16"
+  },
+  {
+    "name": "CKSUM",
+    "href": "CKSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/sparc/binary/kernel/CKSUM",
+    "is_dir": false,
+    "size": "78 B",
+    "date": "09-Aug-1999 10:15"
+  },
+  {
+    "name": "MD5",
+    "href": "MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/sparc/binary/kernel/MD5",
+    "is_dir": false,
+    "size": "124 B",
+    "date": "09-Aug-1999 10:15"
+  },
+  {
+    "name": "SYSVSUM",
+    "href": "SYSVSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/sparc/binary/kernel/SYSVSUM",
+    "is_dir": false,
+    "size": "63 B",
+    "date": "09-Aug-1999 10:16"
+  },
+  {
+    "name": "netbsd.GENERIC.gz",
+    "href": "netbsd.GENERIC.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/sparc/binary/kernel/netbsd.GENERIC.gz",
+    "is_dir": false,
+    "size": "928.8 KiB",
+    "date": "09-Aug-1999 10:03"
+  },
+  {
+    "name": "netbsd.GENERIC_SCSI3.gz",
+    "href": "netbsd.GENERIC_SCSI3.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/sparc/binary/kernel/netbsd.GENERIC_SCSI3.gz",
+    "is_dir": false,
+    "size": "928.9 KiB",
+    "date": "09-Aug-1999 10:04"
+  }
+]

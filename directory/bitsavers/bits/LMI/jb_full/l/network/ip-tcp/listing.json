@@ -1,0 +1,34 @@
+[
+  {
+    "name": "kernel",
+    "href": "kernel/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/l/network/ip-tcp/kernel/",
+    "is_dir": true,
+    "size": null,
+    "date": "21-Apr-2017 01:47"
+  },
+  {
+    "name": "server",
+    "href": "server/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/l/network/ip-tcp/server/",
+    "is_dir": true,
+    "size": null,
+    "date": "21-Apr-2017 01:47"
+  },
+  {
+    "name": "user",
+    "href": "user/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/l/network/ip-tcp/user/",
+    "is_dir": true,
+    "size": null,
+    "date": "21-Apr-2017 01:47"
+  },
+  {
+    "name": "copyright.text.1",
+    "href": "copyright.text.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/l/network/ip-tcp/copyright.text.1",
+    "is_dir": false,
+    "size": "499 B",
+    "date": "21-Apr-2017 01:43"
+  }
+]

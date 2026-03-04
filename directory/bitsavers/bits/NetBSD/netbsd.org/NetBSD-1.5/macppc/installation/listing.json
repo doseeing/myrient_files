@@ -1,0 +1,66 @@
+[
+  {
+    "name": "BSDSUM",
+    "href": "BSDSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/macppc/installation/BSDSUM",
+    "is_dir": false,
+    "size": "86 B",
+    "date": "22-Nov-2000 16:15"
+  },
+  {
+    "name": "CKSUM",
+    "href": "CKSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/macppc/installation/CKSUM",
+    "is_dir": false,
+    "size": "117 B",
+    "date": "22-Nov-2000 16:16"
+  },
+  {
+    "name": "MD5",
+    "href": "MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/macppc/installation/MD5",
+    "is_dir": false,
+    "size": "210 B",
+    "date": "22-Nov-2000 16:15"
+  },
+  {
+    "name": "SYSVSUM",
+    "href": "SYSVSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/macppc/installation/SYSVSUM",
+    "is_dir": false,
+    "size": "88 B",
+    "date": "22-Nov-2000 16:16"
+  },
+  {
+    "name": "boot.fs",
+    "href": "boot.fs",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/macppc/installation/boot.fs",
+    "is_dir": false,
+    "size": "1.4 MiB",
+    "date": "17-Nov-2000 03:23"
+  },
+  {
+    "name": "netbsd.ram.gz",
+    "href": "netbsd.ram.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/macppc/installation/netbsd.ram.gz",
+    "is_dir": false,
+    "size": "1.3 MiB",
+    "date": "17-Nov-2000 03:23"
+  },
+  {
+    "name": "ofwboot.elf",
+    "href": "ofwboot.elf",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/macppc/installation/ofwboot.elf",
+    "is_dir": false,
+    "size": "56.7 KiB",
+    "date": "17-Nov-2000 03:23"
+  },
+  {
+    "name": "ofwboot.xcf",
+    "href": "ofwboot.xcf",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/macppc/installation/ofwboot.xcf",
+    "is_dir": false,
+    "size": "53.2 KiB",
+    "date": "17-Nov-2000 03:23"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "name": "BSDSUM",
+    "href": "BSDSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/hp300/binary/kernel/BSDSUM",
+    "is_dir": false,
+    "size": "44 B",
+    "date": "05-Jan-1998 22:00"
+  },
+  {
+    "name": "CKSUM",
+    "href": "CKSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/hp300/binary/kernel/CKSUM",
+    "is_dir": false,
+    "size": "61 B",
+    "date": "05-Jan-1998 22:00"
+  },
+  {
+    "name": "MD5",
+    "href": "MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/hp300/binary/kernel/MD5",
+    "is_dir": false,
+    "size": "106 B",
+    "date": "05-Jan-1998 22:00"
+  },
+  {
+    "name": "SYSVSUM",
+    "href": "SYSVSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/hp300/binary/kernel/SYSVSUM",
+    "is_dir": false,
+    "size": "45 B",
+    "date": "05-Jan-1998 22:00"
+  },
+  {
+    "name": "netbsd.gdb.gz",
+    "href": "netbsd.gdb.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/hp300/binary/kernel/netbsd.gdb.gz",
+    "is_dir": false,
+    "size": "2.6 MiB",
+    "date": "05-Jan-1998 22:00"
+  },
+  {
+    "name": "netbsd.gz",
+    "href": "netbsd.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/hp300/binary/kernel/netbsd.gz",
+    "is_dir": false,
+    "size": "534.9 KiB",
+    "date": "05-Jan-1998 22:00"
+  }
+]

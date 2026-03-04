@@ -1,0 +1,82 @@
+[
+  {
+    "name": "BSDSUM",
+    "href": "BSDSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/vax/binary/kernel/BSDSUM",
+    "is_dir": false,
+    "size": "90 B",
+    "date": "18-Aug-1999 19:15"
+  },
+  {
+    "name": "CKSUM",
+    "href": "CKSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/vax/binary/kernel/CKSUM",
+    "is_dir": false,
+    "size": "114 B",
+    "date": "18-Aug-1999 19:15"
+  },
+  {
+    "name": "MD5",
+    "href": "MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/vax/binary/kernel/MD5",
+    "is_dir": false,
+    "size": "183 B",
+    "date": "18-Aug-1999 19:15"
+  },
+  {
+    "name": "README",
+    "href": "README",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/vax/binary/kernel/README",
+    "is_dir": false,
+    "size": "183 B",
+    "date": "18-Aug-1999 19:14"
+  },
+  {
+    "name": "SYSVSUM",
+    "href": "SYSVSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/vax/binary/kernel/SYSVSUM",
+    "is_dir": false,
+    "size": "91 B",
+    "date": "18-Aug-1999 19:15"
+  },
+  {
+    "name": "_POSTAGE_STAMP_",
+    "href": "_POSTAGE_STAMP_",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/vax/binary/kernel/_POSTAGE_STAMP_",
+    "is_dir": false,
+    "size": "5.0 KiB",
+    "date": "19-Aug-1999 04:19"
+  },
+  {
+    "name": "_SMIDGEN_",
+    "href": "_SMIDGEN_",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/vax/binary/kernel/_SMIDGEN_",
+    "is_dir": false,
+    "size": "5.0 KiB",
+    "date": "19-Aug-1999 04:19"
+  },
+  {
+    "name": "netbsd.generic.gz",
+    "href": "netbsd.generic.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/vax/binary/kernel/netbsd.generic.gz",
+    "is_dir": false,
+    "size": "518.6 KiB",
+    "date": "18-Aug-1999 19:11"
+  },
+  {
+    "name": "netbsd.postage_stamp.gz",
+    "href": "netbsd.postage_stamp.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/vax/binary/kernel/netbsd.postage_stamp.gz",
+    "is_dir": false,
+    "size": "405.9 KiB",
+    "date": "18-Aug-1999 19:12"
+  },
+  {
+    "name": "netbsd.smidgen.gz",
+    "href": "netbsd.smidgen.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/vax/binary/kernel/netbsd.smidgen.gz",
+    "is_dir": false,
+    "size": "366.0 KiB",
+    "date": "18-Aug-1999 19:12"
+  }
+]

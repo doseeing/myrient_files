@@ -1,0 +1,218 @@
+[
+  {
+    "name": "uc-arith.lisp.18",
+    "href": "uc-arith.lisp.18",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/cdi-lambda/ulambda/uc-arith.lisp.18",
+    "is_dir": false,
+    "size": "165.5 KiB",
+    "date": "21-Apr-2017 01:28"
+  },
+  {
+    "name": "uc-call-return.lisp.37",
+    "href": "uc-call-return.lisp.37",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/cdi-lambda/ulambda/uc-call-return.lisp.37",
+    "is_dir": false,
+    "size": "153.0 KiB",
+    "date": "21-Apr-2017 01:28"
+  },
+  {
+    "name": "uc-chaos.lisp.11",
+    "href": "uc-chaos.lisp.11",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/cdi-lambda/ulambda/uc-chaos.lisp.11",
+    "is_dir": false,
+    "size": "20.9 KiB",
+    "date": "21-Apr-2017 01:28"
+  },
+  {
+    "name": "uc-closure.lisp.54",
+    "href": "uc-closure.lisp.54",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/cdi-lambda/ulambda/uc-closure.lisp.54",
+    "is_dir": false,
+    "size": "26.0 KiB",
+    "date": "21-Apr-2017 01:28"
+  },
+  {
+    "name": "uc-fctns.lisp.32",
+    "href": "uc-fctns.lisp.32",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/cdi-lambda/ulambda/uc-fctns.lisp.32",
+    "is_dir": false,
+    "size": "110.9 KiB",
+    "date": "21-Apr-2017 01:28"
+  },
+  {
+    "name": "uc-hacks.lisp.9",
+    "href": "uc-hacks.lisp.9",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/cdi-lambda/ulambda/uc-hacks.lisp.9",
+    "is_dir": false,
+    "size": "20.8 KiB",
+    "date": "21-Apr-2017 01:28"
+  },
+  {
+    "name": "uc-initialization.lisp.131",
+    "href": "uc-initialization.lisp.131",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/cdi-lambda/ulambda/uc-initialization.lisp.131",
+    "is_dir": false,
+    "size": "88.4 KiB",
+    "date": "21-Apr-2017 01:28"
+  },
+  {
+    "name": "uc-lambda-array.lisp.15",
+    "href": "uc-lambda-array.lisp.15",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/cdi-lambda/ulambda/uc-lambda-array.lisp.15",
+    "is_dir": false,
+    "size": "74.2 KiB",
+    "date": "21-Apr-2017 01:28"
+  },
+  {
+    "name": "uc-lambda-cold-disk.lisp.18",
+    "href": "uc-lambda-cold-disk.lisp.18",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/cdi-lambda/ulambda/uc-lambda-cold-disk.lisp.18",
+    "is_dir": false,
+    "size": "9.6 KiB",
+    "date": "21-Apr-2017 01:28"
+  },
+  {
+    "name": "uc-lambda-disk.lisp.31",
+    "href": "uc-lambda-disk.lisp.31",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/cdi-lambda/ulambda/uc-lambda-disk.lisp.31",
+    "is_dir": false,
+    "size": "31.1 KiB",
+    "date": "21-Apr-2017 01:28"
+  },
+  {
+    "name": "uc-lambda-interrupt.lisp.17",
+    "href": "uc-lambda-interrupt.lisp.17",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/cdi-lambda/ulambda/uc-lambda-interrupt.lisp.17",
+    "is_dir": false,
+    "size": "21.8 KiB",
+    "date": "21-Apr-2017 01:28"
+  },
+  {
+    "name": "uc-lambda-macrocode.lisp.32",
+    "href": "uc-lambda-macrocode.lisp.32",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/cdi-lambda/ulambda/uc-lambda-macrocode.lisp.32",
+    "is_dir": false,
+    "size": "113.2 KiB",
+    "date": "21-Apr-2017 01:28"
+  },
+  {
+    "name": "uc-lambda-page-fault.lisp.95",
+    "href": "uc-lambda-page-fault.lisp.95",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/cdi-lambda/ulambda/uc-lambda-page-fault.lisp.95",
+    "is_dir": false,
+    "size": "111.7 KiB",
+    "date": "21-Apr-2017 01:28"
+  },
+  {
+    "name": "uc-lambda.lisp.79",
+    "href": "uc-lambda.lisp.79",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/cdi-lambda/ulambda/uc-lambda.lisp.79",
+    "is_dir": false,
+    "size": "71.2 KiB",
+    "date": "21-Apr-2017 01:28"
+  },
+  {
+    "name": "uc-logical.lisp.9",
+    "href": "uc-logical.lisp.9",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/cdi-lambda/ulambda/uc-logical.lisp.9",
+    "is_dir": false,
+    "size": "22.3 KiB",
+    "date": "21-Apr-2017 01:28"
+  },
+  {
+    "name": "uc-mc.lisp.2",
+    "href": "uc-mc.lisp.2",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/cdi-lambda/ulambda/uc-mc.lisp.2",
+    "is_dir": false,
+    "size": "11.9 KiB",
+    "date": "21-Apr-2017 01:28"
+  },
+  {
+    "name": "uc-meter.lisp.4",
+    "href": "uc-meter.lisp.4",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/cdi-lambda/ulambda/uc-meter.lisp.4",
+    "is_dir": false,
+    "size": "13.5 KiB",
+    "date": "21-Apr-2017 01:28"
+  },
+  {
+    "name": "uc-parameters.lisp.66",
+    "href": "uc-parameters.lisp.66",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/cdi-lambda/ulambda/uc-parameters.lisp.66",
+    "is_dir": false,
+    "size": "111.7 KiB",
+    "date": "21-Apr-2017 01:28"
+  },
+  {
+    "name": "uc-prolog.lisp.25",
+    "href": "uc-prolog.lisp.25",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/cdi-lambda/ulambda/uc-prolog.lisp.25",
+    "is_dir": false,
+    "size": "28.2 KiB",
+    "date": "21-Apr-2017 01:28"
+  },
+  {
+    "name": "uc-scavenger.lisp.105",
+    "href": "uc-scavenger.lisp.105",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/cdi-lambda/ulambda/uc-scavenger.lisp.105",
+    "is_dir": false,
+    "size": "34.6 KiB",
+    "date": "21-Apr-2017 01:28"
+  },
+  {
+    "name": "uc-stack-closure.lisp.97",
+    "href": "uc-stack-closure.lisp.97",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/cdi-lambda/ulambda/uc-stack-closure.lisp.97",
+    "is_dir": false,
+    "size": "61.8 KiB",
+    "date": "21-Apr-2017 01:28"
+  },
+  {
+    "name": "uc-stack-groups.lisp.19",
+    "href": "uc-stack-groups.lisp.19",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/cdi-lambda/ulambda/uc-stack-groups.lisp.19",
+    "is_dir": false,
+    "size": "30.1 KiB",
+    "date": "21-Apr-2017 01:28"
+  },
+  {
+    "name": "uc-storage-allocation.lisp.59",
+    "href": "uc-storage-allocation.lisp.59",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/cdi-lambda/ulambda/uc-storage-allocation.lisp.59",
+    "is_dir": false,
+    "size": "94.2 KiB",
+    "date": "21-Apr-2017 01:28"
+  },
+  {
+    "name": "uc-string.lisp.2",
+    "href": "uc-string.lisp.2",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/cdi-lambda/ulambda/uc-string.lisp.2",
+    "is_dir": false,
+    "size": "16.8 KiB",
+    "date": "21-Apr-2017 01:28"
+  },
+  {
+    "name": "uc-track-mouse.lisp.19",
+    "href": "uc-track-mouse.lisp.19",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/cdi-lambda/ulambda/uc-track-mouse.lisp.19",
+    "is_dir": false,
+    "size": "19.6 KiB",
+    "date": "21-Apr-2017 01:28"
+  },
+  {
+    "name": "uc-transporter.lisp.69",
+    "href": "uc-transporter.lisp.69",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/cdi-lambda/ulambda/uc-transporter.lisp.69",
+    "is_dir": false,
+    "size": "38.5 KiB",
+    "date": "21-Apr-2017 01:28"
+  },
+  {
+    "name": "uc-tv.lisp.6",
+    "href": "uc-tv.lisp.6",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/cdi-lambda/ulambda/uc-tv.lisp.6",
+    "is_dir": false,
+    "size": "41.2 KiB",
+    "date": "21-Apr-2017 01:28"
+  }
+]

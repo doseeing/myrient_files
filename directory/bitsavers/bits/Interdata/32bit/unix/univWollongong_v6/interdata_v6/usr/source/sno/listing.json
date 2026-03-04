@@ -1,0 +1,74 @@
+[
+  {
+    "name": "READ_ME",
+    "href": "READ_ME",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/sno/READ_ME",
+    "is_dir": false,
+    "size": "35 B",
+    "date": "01-Aug-1978 08:09"
+  },
+  {
+    "name": "install",
+    "href": "install",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/sno/install",
+    "is_dir": false,
+    "size": "27 B",
+    "date": "12-Nov-1978 17:25"
+  },
+  {
+    "name": "make",
+    "href": "make",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/sno/make",
+    "is_dir": false,
+    "size": "20 B",
+    "date": "12-Nov-1978 17:25"
+  },
+  {
+    "name": "sno.h",
+    "href": "sno.h",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/sno/sno.h",
+    "is_dir": false,
+    "size": "436 B",
+    "date": "23-Jul-1978 06:22"
+  },
+  {
+    "name": "sno0.c",
+    "href": "sno0.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/sno/sno0.c",
+    "is_dir": false,
+    "size": "301 B",
+    "date": "10-Dec-1977 07:07"
+  },
+  {
+    "name": "sno1.c",
+    "href": "sno1.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/sno/sno1.c",
+    "is_dir": false,
+    "size": "6.2 KiB",
+    "date": "23-Jul-1978 06:22"
+  },
+  {
+    "name": "sno2.c",
+    "href": "sno2.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/sno/sno2.c",
+    "is_dir": false,
+    "size": "7.5 KiB",
+    "date": "23-Jul-1978 06:22"
+  },
+  {
+    "name": "sno3.c",
+    "href": "sno3.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/sno/sno3.c",
+    "is_dir": false,
+    "size": "3.6 KiB",
+    "date": "23-Jul-1978 06:22"
+  },
+  {
+    "name": "sno4.c",
+    "href": "sno4.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/sno/sno4.c",
+    "is_dir": false,
+    "size": "4.1 KiB",
+    "date": "23-Jul-1978 06:23"
+  }
+]

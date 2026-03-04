@@ -1,0 +1,66 @@
+[
+  {
+    "name": "BSDSUM",
+    "href": "BSDSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/amiga/installation/miniroot/BSDSUM",
+    "is_dir": false,
+    "size": "57 B",
+    "date": "16-Mar-2000 07:54"
+  },
+  {
+    "name": "CKSUM",
+    "href": "CKSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/amiga/installation/miniroot/CKSUM",
+    "is_dir": false,
+    "size": "73 B",
+    "date": "16-Mar-2000 07:54"
+  },
+  {
+    "name": "MD5",
+    "href": "MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/amiga/installation/miniroot/MD5",
+    "is_dir": false,
+    "size": "117 B",
+    "date": "16-Mar-2000 07:54"
+  },
+  {
+    "name": "SYSVSUM",
+    "href": "SYSVSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/amiga/installation/miniroot/SYSVSUM",
+    "is_dir": false,
+    "size": "55 B",
+    "date": "16-Mar-2000 07:54"
+  },
+  {
+    "name": "miniroot-142.fs",
+    "href": "miniroot-142.fs",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/amiga/installation/miniroot/miniroot-142.fs",
+    "is_dir": false,
+    "size": "1.5 MiB",
+    "date": "16-Mar-2000 07:23"
+  },
+  {
+    "name": "miniroot-142.fs.gz",
+    "href": "miniroot-142.fs.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/amiga/installation/miniroot/miniroot-142.fs.gz",
+    "is_dir": false,
+    "size": "1.5 MiB",
+    "date": "16-Mar-2000 07:23"
+  },
+  {
+    "name": "miniroot.fs",
+    "href": "miniroot.fs",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/amiga/installation/miniroot/miniroot.fs",
+    "is_dir": false,
+    "size": "1.5 MiB",
+    "date": "08-Mar-2000 10:54"
+  },
+  {
+    "name": "miniroot.fs.gz",
+    "href": "miniroot.fs.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/amiga/installation/miniroot/miniroot.fs.gz",
+    "is_dir": false,
+    "size": "1.5 MiB",
+    "date": "08-Mar-2000 10:54"
+  }
+]

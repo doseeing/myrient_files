@@ -1,0 +1,74 @@
+[
+  {
+    "name": "CKSUMS",
+    "href": "CKSUMS",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.0/patches/CKSUMS",
+    "is_dir": false,
+    "size": "216 B",
+    "date": "02-Dec-1994 11:13"
+  },
+  {
+    "name": "README",
+    "href": "README",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.0/patches/README",
+    "is_dir": false,
+    "size": "1.3 KiB",
+    "date": "02-Dec-1994 11:13"
+  },
+  {
+    "name": "patch_00",
+    "href": "patch_00",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.0/patches/patch_00",
+    "is_dir": false,
+    "size": "792 B",
+    "date": "06-Nov-1994 21:19"
+  },
+  {
+    "name": "patch_01",
+    "href": "patch_01",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.0/patches/patch_01",
+    "is_dir": false,
+    "size": "2.4 KiB",
+    "date": "06-Nov-1994 21:21"
+  },
+  {
+    "name": "patch_02",
+    "href": "patch_02",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.0/patches/patch_02",
+    "is_dir": false,
+    "size": "3.0 KiB",
+    "date": "07-Nov-1994 06:33"
+  },
+  {
+    "name": "patch_03",
+    "href": "patch_03",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.0/patches/patch_03",
+    "is_dir": false,
+    "size": "1.2 KiB",
+    "date": "07-Nov-1994 07:35"
+  },
+  {
+    "name": "patch_04",
+    "href": "patch_04",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.0/patches/patch_04",
+    "is_dir": false,
+    "size": "2.3 KiB",
+    "date": "22-Nov-1994 17:14"
+  },
+  {
+    "name": "patch_05",
+    "href": "patch_05",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.0/patches/patch_05",
+    "is_dir": false,
+    "size": "4.8 KiB",
+    "date": "22-Nov-1994 18:58"
+  },
+  {
+    "name": "patch_06",
+    "href": "patch_06",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.0/patches/patch_06",
+    "is_dir": false,
+    "size": "2.8 KiB",
+    "date": "02-Dec-1994 11:13"
+  }
+]

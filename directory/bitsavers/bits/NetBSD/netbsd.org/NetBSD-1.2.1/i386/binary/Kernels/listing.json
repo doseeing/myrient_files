@@ -1,0 +1,42 @@
+[
+  {
+    "name": "CKSUMS",
+    "href": "CKSUMS",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2.1/i386/binary/Kernels/CKSUMS",
+    "is_dir": false,
+    "size": "124 B",
+    "date": "23-Mar-1997 19:19"
+  },
+  {
+    "name": "GENERICADP.gz",
+    "href": "GENERICADP.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2.1/i386/binary/Kernels/GENERICADP.gz",
+    "is_dir": false,
+    "size": "728.7 KiB",
+    "date": "23-Mar-1997 17:15"
+  },
+  {
+    "name": "GENERICOTHER.gz",
+    "href": "GENERICOTHER.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2.1/i386/binary/Kernels/GENERICOTHER.gz",
+    "is_dir": false,
+    "size": "724.1 KiB",
+    "date": "23-Mar-1997 17:15"
+  },
+  {
+    "name": "INSTADP.gz",
+    "href": "INSTADP.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2.1/i386/binary/Kernels/INSTADP.gz",
+    "is_dir": false,
+    "size": "400.0 KiB",
+    "date": "23-Mar-1997 17:15"
+  },
+  {
+    "name": "INSTOTHER.gz",
+    "href": "INSTOTHER.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2.1/i386/binary/Kernels/INSTOTHER.gz",
+    "is_dir": false,
+    "size": "396.0 KiB",
+    "date": "23-Mar-1997 17:15"
+  }
+]

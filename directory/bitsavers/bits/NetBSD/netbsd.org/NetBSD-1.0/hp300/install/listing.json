@@ -1,0 +1,58 @@
+[
+  {
+    "name": "CKSUMS",
+    "href": "CKSUMS",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.0/hp300/install/CKSUMS",
+    "is_dir": false,
+    "size": "157 B",
+    "date": "15-Nov-1994 05:25"
+  },
+  {
+    "name": "boot",
+    "href": "boot",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.0/hp300/install/boot",
+    "is_dir": false,
+    "size": "38.5 KiB",
+    "date": "12-Nov-1994 13:57"
+  },
+  {
+    "name": "gzip",
+    "href": "gzip",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.0/hp300/install/gzip",
+    "is_dir": false,
+    "size": "106.3 KiB",
+    "date": "12-Nov-1994 13:56"
+  },
+  {
+    "name": "label",
+    "href": "label",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.0/hp300/install/label",
+    "is_dir": false,
+    "size": "1.7 KiB",
+    "date": "15-Nov-1994 04:53"
+  },
+  {
+    "name": "makedisk",
+    "href": "makedisk",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.0/hp300/install/makedisk",
+    "is_dir": false,
+    "size": "77.1 KiB",
+    "date": "15-Nov-1994 04:59"
+  },
+  {
+    "name": "makedisk.tar.gz",
+    "href": "makedisk.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.0/hp300/install/makedisk.tar.gz",
+    "is_dir": false,
+    "size": "10.4 KiB",
+    "date": "15-Nov-1994 05:02"
+  },
+  {
+    "name": "rootimage.gz",
+    "href": "rootimage.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.0/hp300/install/rootimage.gz",
+    "is_dir": false,
+    "size": "3.0 MiB",
+    "date": "15-Nov-1994 03:50"
+  }
+]

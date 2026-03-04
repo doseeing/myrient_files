@@ -1,0 +1,34 @@
+[
+  {
+    "name": "xbin.tar.gz",
+    "href": "xbin.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/sparc/X11/xbin.tar.gz",
+    "is_dir": false,
+    "size": "11.9 MiB",
+    "date": "11-Sep-1996 09:42"
+  },
+  {
+    "name": "xcon.tar.gz",
+    "href": "xcon.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/sparc/X11/xcon.tar.gz",
+    "is_dir": false,
+    "size": "285.9 KiB",
+    "date": "30-Aug-1996 04:29"
+  },
+  {
+    "name": "xinc.tar.gz",
+    "href": "xinc.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/sparc/X11/xinc.tar.gz",
+    "is_dir": false,
+    "size": "312.6 KiB",
+    "date": "11-Sep-1996 09:44"
+  },
+  {
+    "name": "xman.tar.gz",
+    "href": "xman.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/sparc/X11/xman.tar.gz",
+    "is_dir": false,
+    "size": "512.8 KiB",
+    "date": "11-Sep-1996 09:49"
+  }
+]

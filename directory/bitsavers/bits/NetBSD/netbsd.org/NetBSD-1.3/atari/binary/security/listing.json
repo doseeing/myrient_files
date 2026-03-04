@@ -1,0 +1,58 @@
+[
+  {
+    "name": ".hidden",
+    "href": ".hidden/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/atari/binary/security/.hidden/",
+    "is_dir": true,
+    "size": null,
+    "date": "30-Sep-2023 17:20"
+  },
+  {
+    "name": "BSDSUM",
+    "href": "BSDSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/atari/binary/security/BSDSUM",
+    "is_dir": false,
+    "size": "19 B",
+    "date": "07-Jan-1998 16:58"
+  },
+  {
+    "name": "CKSUM",
+    "href": "CKSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/atari/binary/security/CKSUM",
+    "is_dir": false,
+    "size": "27 B",
+    "date": "07-Jan-1998 16:58"
+  },
+  {
+    "name": "MD5",
+    "href": "MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/atari/binary/security/MD5",
+    "is_dir": false,
+    "size": "50 B",
+    "date": "07-Jan-1998 16:58"
+  },
+  {
+    "name": "README.export-control",
+    "href": "README.export-control",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/atari/binary/security/README.export-control",
+    "is_dir": false,
+    "size": "791 B",
+    "date": "01-Jan-1998 02:38"
+  },
+  {
+    "name": "SYSVSUM",
+    "href": "SYSVSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/atari/binary/security/SYSVSUM",
+    "is_dir": false,
+    "size": "20 B",
+    "date": "07-Jan-1998 16:58"
+  },
+  {
+    "name": "secr.tgz",
+    "href": "secr.tgz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/atari/binary/security/secr.tgz",
+    "is_dir": false,
+    "size": "750.5 KiB",
+    "date": "01-Jan-1998 20:00"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "name": "rx33-bootdisk-12",
+    "href": "rx33-bootdisk-12",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/vax/install/rx33/rx33-bootdisk-12",
+    "is_dir": false,
+    "size": "256.0 KiB",
+    "date": "23-Oct-1996 18:43"
+  },
+  {
+    "name": "rx33-copy1-12",
+    "href": "rx33-copy1-12",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/vax/install/rx33/rx33-copy1-12",
+    "is_dir": false,
+    "size": "1.2 MiB",
+    "date": "23-Oct-1996 18:43"
+  },
+  {
+    "name": "rx33-copy2-12",
+    "href": "rx33-copy2-12",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/vax/install/rx33/rx33-copy2-12",
+    "is_dir": false,
+    "size": "848.0 KiB",
+    "date": "23-Oct-1996 18:43"
+  }
+]

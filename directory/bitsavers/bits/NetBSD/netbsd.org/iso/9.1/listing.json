@@ -1,0 +1,930 @@
+[
+  {
+    "name": "MD5",
+    "href": "MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/9.1/MD5",
+    "is_dir": false,
+    "size": "3.6 KiB",
+    "date": "19-Oct-2020 08:02"
+  },
+  {
+    "name": "NetBSD-9.1-acorn32.iso",
+    "href": "NetBSD-9.1-acorn32.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/9.1/NetBSD-9.1-acorn32.iso",
+    "is_dir": false,
+    "size": "286.8 MiB",
+    "date": "19-Oct-2020 01:07"
+  },
+  {
+    "name": "NetBSD-9.1-acorn32.iso.torrent",
+    "href": "NetBSD-9.1-acorn32.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/9.1/NetBSD-9.1-acorn32.iso.torrent",
+    "is_dir": false,
+    "size": "22.6 KiB",
+    "date": "20-Oct-2020 04:26"
+  },
+  {
+    "name": "NetBSD-9.1-alpha.iso",
+    "href": "NetBSD-9.1-alpha.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/9.1/NetBSD-9.1-alpha.iso",
+    "is_dir": false,
+    "size": "177.7 MiB",
+    "date": "19-Oct-2020 00:59"
+  },
+  {
+    "name": "NetBSD-9.1-alpha.iso.torrent",
+    "href": "NetBSD-9.1-alpha.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/9.1/NetBSD-9.1-alpha.iso.torrent",
+    "is_dir": false,
+    "size": "14.1 KiB",
+    "date": "20-Oct-2020 04:26"
+  },
+  {
+    "name": "NetBSD-9.1-amd64-install.img.gz",
+    "href": "NetBSD-9.1-amd64-install.img.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/9.1/NetBSD-9.1-amd64-install.img.gz",
+    "is_dir": false,
+    "size": "804.2 MiB",
+    "date": "19-Oct-2020 02:04"
+  },
+  {
+    "name": "NetBSD-9.1-amd64-install.img.gz.torrent",
+    "href": "NetBSD-9.1-amd64-install.img.gz.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/9.1/NetBSD-9.1-amd64-install.img.gz.torrent",
+    "is_dir": false,
+    "size": "63.0 KiB",
+    "date": "20-Oct-2020 04:26"
+  },
+  {
+    "name": "NetBSD-9.1-amd64.iso",
+    "href": "NetBSD-9.1-amd64.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/9.1/NetBSD-9.1-amd64.iso",
+    "is_dir": false,
+    "size": "465.9 MiB",
+    "date": "19-Oct-2020 02:01"
+  },
+  {
+    "name": "NetBSD-9.1-amd64.iso.torrent",
+    "href": "NetBSD-9.1-amd64.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/9.1/NetBSD-9.1-amd64.iso.torrent",
+    "is_dir": false,
+    "size": "36.6 KiB",
+    "date": "20-Oct-2020 04:26"
+  },
+  {
+    "name": "NetBSD-9.1-amiga.iso",
+    "href": "NetBSD-9.1-amiga.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/9.1/NetBSD-9.1-amiga.iso",
+    "is_dir": false,
+    "size": "225.6 MiB",
+    "date": "19-Oct-2020 00:26"
+  },
+  {
+    "name": "NetBSD-9.1-amiga.iso.torrent",
+    "href": "NetBSD-9.1-amiga.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/9.1/NetBSD-9.1-amiga.iso.torrent",
+    "is_dir": false,
+    "size": "17.8 KiB",
+    "date": "20-Oct-2020 04:26"
+  },
+  {
+    "name": "NetBSD-9.1-arc.iso",
+    "href": "NetBSD-9.1-arc.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/9.1/NetBSD-9.1-arc.iso",
+    "is_dir": false,
+    "size": "247.6 MiB",
+    "date": "19-Oct-2020 00:50"
+  },
+  {
+    "name": "NetBSD-9.1-arc.iso.torrent",
+    "href": "NetBSD-9.1-arc.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/9.1/NetBSD-9.1-arc.iso.torrent",
+    "is_dir": false,
+    "size": "19.5 KiB",
+    "date": "20-Oct-2020 04:26"
+  },
+  {
+    "name": "NetBSD-9.1-atari.iso",
+    "href": "NetBSD-9.1-atari.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/9.1/NetBSD-9.1-atari.iso",
+    "is_dir": false,
+    "size": "223.0 MiB",
+    "date": "19-Oct-2020 00:37"
+  },
+  {
+    "name": "NetBSD-9.1-atari.iso.torrent",
+    "href": "NetBSD-9.1-atari.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/9.1/NetBSD-9.1-atari.iso.torrent",
+    "is_dir": false,
+    "size": "17.6 KiB",
+    "date": "20-Oct-2020 04:26"
+  },
+  {
+    "name": "NetBSD-9.1-cats.iso",
+    "href": "NetBSD-9.1-cats.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/9.1/NetBSD-9.1-cats.iso",
+    "is_dir": false,
+    "size": "298.4 MiB",
+    "date": "19-Oct-2020 01:08"
+  },
+  {
+    "name": "NetBSD-9.1-cats.iso.torrent",
+    "href": "NetBSD-9.1-cats.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/9.1/NetBSD-9.1-cats.iso.torrent",
+    "is_dir": false,
+    "size": "23.5 KiB",
+    "date": "20-Oct-2020 04:26"
+  },
+  {
+    "name": "NetBSD-9.1-cobalt.iso",
+    "href": "NetBSD-9.1-cobalt.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/9.1/NetBSD-9.1-cobalt.iso",
+    "is_dir": false,
+    "size": "259.3 MiB",
+    "date": "19-Oct-2020 00:51"
+  },
+  {
+    "name": "NetBSD-9.1-cobalt.iso.torrent",
+    "href": "NetBSD-9.1-cobalt.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/9.1/NetBSD-9.1-cobalt.iso.torrent",
+    "is_dir": false,
+    "size": "20.4 KiB",
+    "date": "20-Oct-2020 04:26"
+  },
+  {
+    "name": "NetBSD-9.1-dreamcast.iso",
+    "href": "NetBSD-9.1-dreamcast.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/9.1/NetBSD-9.1-dreamcast.iso",
+    "is_dir": false,
+    "size": "224.2 MiB",
+    "date": "19-Oct-2020 01:01"
+  },
+  {
+    "name": "NetBSD-9.1-dreamcast.iso.torrent",
+    "href": "NetBSD-9.1-dreamcast.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/9.1/NetBSD-9.1-dreamcast.iso.torrent",
+    "is_dir": false,
+    "size": "17.7 KiB",
+    "date": "20-Oct-2020 04:26"
+  },
+  {
+    "name": "NetBSD-9.1-emips.iso",
+    "href": "NetBSD-9.1-emips.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/9.1/NetBSD-9.1-emips.iso",
+    "is_dir": false,
+    "size": "259.7 MiB",
+    "date": "19-Oct-2020 00:51"
+  },
+  {
+    "name": "NetBSD-9.1-emips.iso.torrent",
+    "href": "NetBSD-9.1-emips.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/9.1/NetBSD-9.1-emips.iso.torrent",
+    "is_dir": false,
+    "size": "20.5 KiB",
+    "date": "20-Oct-2020 04:26"
+  },
+  {
+    "name": "NetBSD-9.1-evbarm-aarch64.iso",
+    "href": "NetBSD-9.1-evbarm-aarch64.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/9.1/NetBSD-9.1-evbarm-aarch64.iso",
+    "is_dir": false,
+    "size": "585.1 MiB",
+    "date": "19-Oct-2020 02:30"
+  },
+  {
+    "name": "NetBSD-9.1-evbarm-aarch64.iso.torrent",
+    "href": "NetBSD-9.1-evbarm-aarch64.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/9.1/NetBSD-9.1-evbarm-aarch64.iso.torrent",
+    "is_dir": false,
+    "size": "45.9 KiB",
+    "date": "20-Oct-2020 04:26"
+  },
+  {
+    "name": "NetBSD-9.1-evbarm-earm.iso",
+    "href": "NetBSD-9.1-evbarm-earm.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/9.1/NetBSD-9.1-evbarm-earm.iso",
+    "is_dir": false,
+    "size": "1.9 GiB",
+    "date": "19-Oct-2020 02:11"
+  },
+  {
+    "name": "NetBSD-9.1-evbarm-earm.iso.torrent",
+    "href": "NetBSD-9.1-evbarm-earm.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/9.1/NetBSD-9.1-evbarm-earm.iso.torrent",
+    "is_dir": false,
+    "size": "150.7 KiB",
+    "date": "20-Oct-2020 04:26"
+  },
+  {
+    "name": "NetBSD-9.1-evbarm-earmeb.iso",
+    "href": "NetBSD-9.1-evbarm-earmeb.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/9.1/NetBSD-9.1-evbarm-earmeb.iso",
+    "is_dir": false,
+    "size": "386.8 MiB",
+    "date": "19-Oct-2020 02:11"
+  },
+  {
+    "name": "NetBSD-9.1-evbarm-earmeb.iso.torrent",
+    "href": "NetBSD-9.1-evbarm-earmeb.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/9.1/NetBSD-9.1-evbarm-earmeb.iso.torrent",
+    "is_dir": false,
+    "size": "30.4 KiB",
+    "date": "20-Oct-2020 04:26"
+  },
+  {
+    "name": "NetBSD-9.1-evbarm-earmhf.iso",
+    "href": "NetBSD-9.1-evbarm-earmhf.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/9.1/NetBSD-9.1-evbarm-earmhf.iso",
+    "is_dir": false,
+    "size": "1.0 GiB",
+    "date": "19-Oct-2020 02:43"
+  },
+  {
+    "name": "NetBSD-9.1-evbarm-earmhf.iso.torrent",
+    "href": "NetBSD-9.1-evbarm-earmhf.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/9.1/NetBSD-9.1-evbarm-earmhf.iso.torrent",
+    "is_dir": false,
+    "size": "82.0 KiB",
+    "date": "20-Oct-2020 04:27"
+  },
+  {
+    "name": "NetBSD-9.1-evbarm-earmhfeb.iso",
+    "href": "NetBSD-9.1-evbarm-earmhfeb.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/9.1/NetBSD-9.1-evbarm-earmhfeb.iso",
+    "is_dir": false,
+    "size": "291.4 MiB",
+    "date": "19-Oct-2020 02:18"
+  },
+  {
+    "name": "NetBSD-9.1-evbarm-earmhfeb.iso.torrent",
+    "href": "NetBSD-9.1-evbarm-earmhfeb.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/9.1/NetBSD-9.1-evbarm-earmhfeb.iso.torrent",
+    "is_dir": false,
+    "size": "23.0 KiB",
+    "date": "20-Oct-2020 04:27"
+  },
+  {
+    "name": "NetBSD-9.1-evbarm-earmv6hf.iso",
+    "href": "NetBSD-9.1-evbarm-earmv6hf.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/9.1/NetBSD-9.1-evbarm-earmv6hf.iso",
+    "is_dir": false,
+    "size": "700.9 MiB",
+    "date": "19-Oct-2020 02:42"
+  },
+  {
+    "name": "NetBSD-9.1-evbarm-earmv6hf.iso.torrent",
+    "href": "NetBSD-9.1-evbarm-earmv6hf.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/9.1/NetBSD-9.1-evbarm-earmv6hf.iso.torrent",
+    "is_dir": false,
+    "size": "54.9 KiB",
+    "date": "20-Oct-2020 04:27"
+  },
+  {
+    "name": "NetBSD-9.1-evbarm-earmv7hf.iso",
+    "href": "NetBSD-9.1-evbarm-earmv7hf.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/9.1/NetBSD-9.1-evbarm-earmv7hf.iso",
+    "is_dir": false,
+    "size": "971.4 MiB",
+    "date": "19-Oct-2020 02:54"
+  },
+  {
+    "name": "NetBSD-9.1-evbarm-earmv7hf.iso.torrent",
+    "href": "NetBSD-9.1-evbarm-earmv7hf.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/9.1/NetBSD-9.1-evbarm-earmv7hf.iso.torrent",
+    "is_dir": false,
+    "size": "76.1 KiB",
+    "date": "20-Oct-2020 04:27"
+  },
+  {
+    "name": "NetBSD-9.1-evbarm-earmv7hfeb.iso",
+    "href": "NetBSD-9.1-evbarm-earmv7hfeb.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/9.1/NetBSD-9.1-evbarm-earmv7hfeb.iso",
+    "is_dir": false,
+    "size": "655.6 MiB",
+    "date": "19-Oct-2020 02:26"
+  },
+  {
+    "name": "NetBSD-9.1-evbarm-earmv7hfeb.iso.torrent",
+    "href": "NetBSD-9.1-evbarm-earmv7hfeb.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/9.1/NetBSD-9.1-evbarm-earmv7hfeb.iso.torrent",
+    "is_dir": false,
+    "size": "51.4 KiB",
+    "date": "20-Oct-2020 04:27"
+  },
+  {
+    "name": "NetBSD-9.1-evbmips-mips64eb.iso",
+    "href": "NetBSD-9.1-evbmips-mips64eb.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/9.1/NetBSD-9.1-evbmips-mips64eb.iso",
+    "is_dir": false,
+    "size": "441.7 MiB",
+    "date": "19-Oct-2020 02:50"
+  },
+  {
+    "name": "NetBSD-9.1-evbmips-mips64eb.iso.torrent",
+    "href": "NetBSD-9.1-evbmips-mips64eb.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/9.1/NetBSD-9.1-evbmips-mips64eb.iso.torrent",
+    "is_dir": false,
+    "size": "34.7 KiB",
+    "date": "20-Oct-2020 04:27"
+  },
+  {
+    "name": "NetBSD-9.1-evbmips-mips64el.iso",
+    "href": "NetBSD-9.1-evbmips-mips64el.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/9.1/NetBSD-9.1-evbmips-mips64el.iso",
+    "is_dir": false,
+    "size": "467.8 MiB",
+    "date": "19-Oct-2020 02:42"
+  },
+  {
+    "name": "NetBSD-9.1-evbmips-mips64el.iso.torrent",
+    "href": "NetBSD-9.1-evbmips-mips64el.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/9.1/NetBSD-9.1-evbmips-mips64el.iso.torrent",
+    "is_dir": false,
+    "size": "36.7 KiB",
+    "date": "20-Oct-2020 04:27"
+  },
+  {
+    "name": "NetBSD-9.1-evbmips-mipseb.iso",
+    "href": "NetBSD-9.1-evbmips-mipseb.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/9.1/NetBSD-9.1-evbmips-mipseb.iso",
+    "is_dir": false,
+    "size": "306.9 MiB",
+    "date": "19-Oct-2020 02:11"
+  },
+  {
+    "name": "NetBSD-9.1-evbmips-mipseb.iso.torrent",
+    "href": "NetBSD-9.1-evbmips-mipseb.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/9.1/NetBSD-9.1-evbmips-mipseb.iso.torrent",
+    "is_dir": false,
+    "size": "24.2 KiB",
+    "date": "20-Oct-2020 04:27"
+  },
+  {
+    "name": "NetBSD-9.1-evbmips-mipsel.iso",
+    "href": "NetBSD-9.1-evbmips-mipsel.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/9.1/NetBSD-9.1-evbmips-mipsel.iso",
+    "is_dir": false,
+    "size": "372.0 MiB",
+    "date": "19-Oct-2020 02:12"
+  },
+  {
+    "name": "NetBSD-9.1-evbmips-mipsel.iso.torrent",
+    "href": "NetBSD-9.1-evbmips-mipsel.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/9.1/NetBSD-9.1-evbmips-mipsel.iso.torrent",
+    "is_dir": false,
+    "size": "29.2 KiB",
+    "date": "20-Oct-2020 04:27"
+  },
+  {
+    "name": "NetBSD-9.1-evbppc.iso",
+    "href": "NetBSD-9.1-evbppc.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/9.1/NetBSD-9.1-evbppc.iso",
+    "is_dir": false,
+    "size": "434.0 MiB",
+    "date": "19-Oct-2020 02:34"
+  },
+  {
+    "name": "NetBSD-9.1-evbppc.iso.torrent",
+    "href": "NetBSD-9.1-evbppc.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/9.1/NetBSD-9.1-evbppc.iso.torrent",
+    "is_dir": false,
+    "size": "34.1 KiB",
+    "date": "20-Oct-2020 04:27"
+  },
+  {
+    "name": "NetBSD-9.1-evbsh3-sh3eb.iso",
+    "href": "NetBSD-9.1-evbsh3-sh3eb.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/9.1/NetBSD-9.1-evbsh3-sh3eb.iso",
+    "is_dir": false,
+    "size": "221.8 MiB",
+    "date": "19-Oct-2020 03:13"
+  },
+  {
+    "name": "NetBSD-9.1-evbsh3-sh3eb.iso.torrent",
+    "href": "NetBSD-9.1-evbsh3-sh3eb.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/9.1/NetBSD-9.1-evbsh3-sh3eb.iso.torrent",
+    "is_dir": false,
+    "size": "17.5 KiB",
+    "date": "20-Oct-2020 04:27"
+  },
+  {
+    "name": "NetBSD-9.1-evbsh3-sh3el.iso",
+    "href": "NetBSD-9.1-evbsh3-sh3el.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/9.1/NetBSD-9.1-evbsh3-sh3el.iso",
+    "is_dir": false,
+    "size": "246.2 MiB",
+    "date": "19-Oct-2020 03:18"
+  },
+  {
+    "name": "NetBSD-9.1-evbsh3-sh3el.iso.torrent",
+    "href": "NetBSD-9.1-evbsh3-sh3el.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/9.1/NetBSD-9.1-evbsh3-sh3el.iso.torrent",
+    "is_dir": false,
+    "size": "19.4 KiB",
+    "date": "20-Oct-2020 04:27"
+  },
+  {
+    "name": "NetBSD-9.1-ews4800mips.iso",
+    "href": "NetBSD-9.1-ews4800mips.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/9.1/NetBSD-9.1-ews4800mips.iso",
+    "is_dir": false,
+    "size": "253.2 MiB",
+    "date": "19-Oct-2020 03:21"
+  },
+  {
+    "name": "NetBSD-9.1-ews4800mips.iso.torrent",
+    "href": "NetBSD-9.1-ews4800mips.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/9.1/NetBSD-9.1-ews4800mips.iso.torrent",
+    "is_dir": false,
+    "size": "20.0 KiB",
+    "date": "20-Oct-2020 04:27"
+  },
+  {
+    "name": "NetBSD-9.1-hp300.iso",
+    "href": "NetBSD-9.1-hp300.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/9.1/NetBSD-9.1-hp300.iso",
+    "is_dir": false,
+    "size": "214.4 MiB",
+    "date": "19-Oct-2020 03:12"
+  },
+  {
+    "name": "NetBSD-9.1-hp300.iso.torrent",
+    "href": "NetBSD-9.1-hp300.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/9.1/NetBSD-9.1-hp300.iso.torrent",
+    "is_dir": false,
+    "size": "16.9 KiB",
+    "date": "20-Oct-2020 04:27"
+  },
+  {
+    "name": "NetBSD-9.1-hpcarm.iso",
+    "href": "NetBSD-9.1-hpcarm.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/9.1/NetBSD-9.1-hpcarm.iso",
+    "is_dir": false,
+    "size": "308.1 MiB",
+    "date": "19-Oct-2020 03:47"
+  },
+  {
+    "name": "NetBSD-9.1-hpcarm.iso.torrent",
+    "href": "NetBSD-9.1-hpcarm.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/9.1/NetBSD-9.1-hpcarm.iso.torrent",
+    "is_dir": false,
+    "size": "24.3 KiB",
+    "date": "20-Oct-2020 04:27"
+  },
+  {
+    "name": "NetBSD-9.1-hpcmips.iso",
+    "href": "NetBSD-9.1-hpcmips.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/9.1/NetBSD-9.1-hpcmips.iso",
+    "is_dir": false,
+    "size": "257.0 MiB",
+    "date": "19-Oct-2020 03:35"
+  },
+  {
+    "name": "NetBSD-9.1-hpcmips.iso.torrent",
+    "href": "NetBSD-9.1-hpcmips.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/9.1/NetBSD-9.1-hpcmips.iso.torrent",
+    "is_dir": false,
+    "size": "20.3 KiB",
+    "date": "20-Oct-2020 04:27"
+  },
+  {
+    "name": "NetBSD-9.1-hpcsh.iso",
+    "href": "NetBSD-9.1-hpcsh.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/9.1/NetBSD-9.1-hpcsh.iso",
+    "is_dir": false,
+    "size": "224.3 MiB",
+    "date": "19-Oct-2020 03:36"
+  },
+  {
+    "name": "NetBSD-9.1-hpcsh.iso.torrent",
+    "href": "NetBSD-9.1-hpcsh.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/9.1/NetBSD-9.1-hpcsh.iso.torrent",
+    "is_dir": false,
+    "size": "17.7 KiB",
+    "date": "20-Oct-2020 04:27"
+  },
+  {
+    "name": "NetBSD-9.1-hppa.iso",
+    "href": "NetBSD-9.1-hppa.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/9.1/NetBSD-9.1-hppa.iso",
+    "is_dir": false,
+    "size": "296.7 MiB",
+    "date": "19-Oct-2020 03:05"
+  },
+  {
+    "name": "NetBSD-9.1-hppa.iso.torrent",
+    "href": "NetBSD-9.1-hppa.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/9.1/NetBSD-9.1-hppa.iso.torrent",
+    "is_dir": false,
+    "size": "23.4 KiB",
+    "date": "20-Oct-2020 04:27"
+  },
+  {
+    "name": "NetBSD-9.1-i386-install.img.gz",
+    "href": "NetBSD-9.1-i386-install.img.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/9.1/NetBSD-9.1-i386-install.img.gz",
+    "is_dir": false,
+    "size": "1.2 GiB",
+    "date": "19-Oct-2020 04:25"
+  },
+  {
+    "name": "NetBSD-9.1-i386-install.img.gz.torrent",
+    "href": "NetBSD-9.1-i386-install.img.gz.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/9.1/NetBSD-9.1-i386-install.img.gz.torrent",
+    "is_dir": false,
+    "size": "96.4 KiB",
+    "date": "20-Oct-2020 04:27"
+  },
+  {
+    "name": "NetBSD-9.1-i386.iso",
+    "href": "NetBSD-9.1-i386.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/9.1/NetBSD-9.1-i386.iso",
+    "is_dir": false,
+    "size": "570.5 MiB",
+    "date": "19-Oct-2020 04:22"
+  },
+  {
+    "name": "NetBSD-9.1-i386.iso.torrent",
+    "href": "NetBSD-9.1-i386.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/9.1/NetBSD-9.1-i386.iso.torrent",
+    "is_dir": false,
+    "size": "44.7 KiB",
+    "date": "20-Oct-2020 04:27"
+  },
+  {
+    "name": "NetBSD-9.1-ia64.iso",
+    "href": "NetBSD-9.1-ia64.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/9.1/NetBSD-9.1-ia64.iso",
+    "is_dir": false,
+    "size": "389.1 MiB",
+    "date": "19-Oct-2020 03:51"
+  },
+  {
+    "name": "NetBSD-9.1-ia64.iso.torrent",
+    "href": "NetBSD-9.1-ia64.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/9.1/NetBSD-9.1-ia64.iso.torrent",
+    "is_dir": false,
+    "size": "30.6 KiB",
+    "date": "20-Oct-2020 04:28"
+  },
+  {
+    "name": "NetBSD-9.1-ibmnws.iso",
+    "href": "NetBSD-9.1-ibmnws.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/9.1/NetBSD-9.1-ibmnws.iso",
+    "is_dir": false,
+    "size": "241.3 MiB",
+    "date": "19-Oct-2020 03:43"
+  },
+  {
+    "name": "NetBSD-9.1-ibmnws.iso.torrent",
+    "href": "NetBSD-9.1-ibmnws.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/9.1/NetBSD-9.1-ibmnws.iso.torrent",
+    "is_dir": false,
+    "size": "19.0 KiB",
+    "date": "20-Oct-2020 04:28"
+  },
+  {
+    "name": "NetBSD-9.1-luna68k.iso",
+    "href": "NetBSD-9.1-luna68k.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/9.1/NetBSD-9.1-luna68k.iso",
+    "is_dir": false,
+    "size": "210.6 MiB",
+    "date": "19-Oct-2020 03:45"
+  },
+  {
+    "name": "NetBSD-9.1-luna68k.iso.torrent",
+    "href": "NetBSD-9.1-luna68k.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/9.1/NetBSD-9.1-luna68k.iso.torrent",
+    "is_dir": false,
+    "size": "16.6 KiB",
+    "date": "20-Oct-2020 04:28"
+  },
+  {
+    "name": "NetBSD-9.1-mac68k.iso",
+    "href": "NetBSD-9.1-mac68k.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/9.1/NetBSD-9.1-mac68k.iso",
+    "is_dir": false,
+    "size": "265.5 MiB",
+    "date": "19-Oct-2020 07:56"
+  },
+  {
+    "name": "NetBSD-9.1-mac68k.iso.torrent",
+    "href": "NetBSD-9.1-mac68k.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/9.1/NetBSD-9.1-mac68k.iso.torrent",
+    "is_dir": false,
+    "size": "20.9 KiB",
+    "date": "20-Oct-2020 04:28"
+  },
+  {
+    "name": "NetBSD-9.1-macppc.iso",
+    "href": "NetBSD-9.1-macppc.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/9.1/NetBSD-9.1-macppc.iso",
+    "is_dir": false,
+    "size": "382.5 MiB",
+    "date": "19-Oct-2020 07:56"
+  },
+  {
+    "name": "NetBSD-9.1-macppc.iso.torrent",
+    "href": "NetBSD-9.1-macppc.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/9.1/NetBSD-9.1-macppc.iso.torrent",
+    "is_dir": false,
+    "size": "30.1 KiB",
+    "date": "20-Oct-2020 04:28"
+  },
+  {
+    "name": "NetBSD-9.1-mipsco.iso",
+    "href": "NetBSD-9.1-mipsco.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/9.1/NetBSD-9.1-mipsco.iso",
+    "is_dir": false,
+    "size": "250.5 MiB",
+    "date": "19-Oct-2020 04:20"
+  },
+  {
+    "name": "NetBSD-9.1-mipsco.iso.torrent",
+    "href": "NetBSD-9.1-mipsco.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/9.1/NetBSD-9.1-mipsco.iso.torrent",
+    "is_dir": false,
+    "size": "19.7 KiB",
+    "date": "20-Oct-2020 04:28"
+  },
+  {
+    "name": "NetBSD-9.1-mvme68k.iso",
+    "href": "NetBSD-9.1-mvme68k.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/9.1/NetBSD-9.1-mvme68k.iso",
+    "is_dir": false,
+    "size": "221.8 MiB",
+    "date": "19-Oct-2020 04:20"
+  },
+  {
+    "name": "NetBSD-9.1-mvme68k.iso.torrent",
+    "href": "NetBSD-9.1-mvme68k.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/9.1/NetBSD-9.1-mvme68k.iso.torrent",
+    "is_dir": false,
+    "size": "17.5 KiB",
+    "date": "20-Oct-2020 04:28"
+  },
+  {
+    "name": "NetBSD-9.1-mvmeppc.iso",
+    "href": "NetBSD-9.1-mvmeppc.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/9.1/NetBSD-9.1-mvmeppc.iso",
+    "is_dir": false,
+    "size": "238.4 MiB",
+    "date": "19-Oct-2020 04:28"
+  },
+  {
+    "name": "NetBSD-9.1-mvmeppc.iso.torrent",
+    "href": "NetBSD-9.1-mvmeppc.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/9.1/NetBSD-9.1-mvmeppc.iso.torrent",
+    "is_dir": false,
+    "size": "18.8 KiB",
+    "date": "20-Oct-2020 04:28"
+  },
+  {
+    "name": "NetBSD-9.1-news68k.iso",
+    "href": "NetBSD-9.1-news68k.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/9.1/NetBSD-9.1-news68k.iso",
+    "is_dir": false,
+    "size": "213.8 MiB",
+    "date": "19-Oct-2020 04:37"
+  },
+  {
+    "name": "NetBSD-9.1-news68k.iso.torrent",
+    "href": "NetBSD-9.1-news68k.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/9.1/NetBSD-9.1-news68k.iso.torrent",
+    "is_dir": false,
+    "size": "16.9 KiB",
+    "date": "20-Oct-2020 04:28"
+  },
+  {
+    "name": "NetBSD-9.1-newsmips.iso",
+    "href": "NetBSD-9.1-newsmips.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/9.1/NetBSD-9.1-newsmips.iso",
+    "is_dir": false,
+    "size": "250.2 MiB",
+    "date": "19-Oct-2020 05:00"
+  },
+  {
+    "name": "NetBSD-9.1-newsmips.iso.torrent",
+    "href": "NetBSD-9.1-newsmips.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/9.1/NetBSD-9.1-newsmips.iso.torrent",
+    "is_dir": false,
+    "size": "19.7 KiB",
+    "date": "20-Oct-2020 04:28"
+  },
+  {
+    "name": "NetBSD-9.1-ofppc.iso",
+    "href": "NetBSD-9.1-ofppc.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/9.1/NetBSD-9.1-ofppc.iso",
+    "is_dir": false,
+    "size": "253.7 MiB",
+    "date": "19-Oct-2020 04:54"
+  },
+  {
+    "name": "NetBSD-9.1-ofppc.iso.torrent",
+    "href": "NetBSD-9.1-ofppc.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/9.1/NetBSD-9.1-ofppc.iso.torrent",
+    "is_dir": false,
+    "size": "20.0 KiB",
+    "date": "20-Oct-2020 04:28"
+  },
+  {
+    "name": "NetBSD-9.1-pmax.iso",
+    "href": "NetBSD-9.1-pmax.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/9.1/NetBSD-9.1-pmax.iso",
+    "is_dir": false,
+    "size": "267.8 MiB",
+    "date": "19-Oct-2020 04:59"
+  },
+  {
+    "name": "NetBSD-9.1-pmax.iso.torrent",
+    "href": "NetBSD-9.1-pmax.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/9.1/NetBSD-9.1-pmax.iso.torrent",
+    "is_dir": false,
+    "size": "21.1 KiB",
+    "date": "20-Oct-2020 04:28"
+  },
+  {
+    "name": "NetBSD-9.1-prep.iso",
+    "href": "NetBSD-9.1-prep.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/9.1/NetBSD-9.1-prep.iso",
+    "is_dir": false,
+    "size": "269.1 MiB",
+    "date": "19-Oct-2020 04:55"
+  },
+  {
+    "name": "NetBSD-9.1-prep.iso.torrent",
+    "href": "NetBSD-9.1-prep.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/9.1/NetBSD-9.1-prep.iso.torrent",
+    "is_dir": false,
+    "size": "21.2 KiB",
+    "date": "20-Oct-2020 04:28"
+  },
+  {
+    "name": "NetBSD-9.1-sandpoint.iso",
+    "href": "NetBSD-9.1-sandpoint.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/9.1/NetBSD-9.1-sandpoint.iso",
+    "is_dir": false,
+    "size": "261.0 MiB",
+    "date": "19-Oct-2020 04:54"
+  },
+  {
+    "name": "NetBSD-9.1-sandpoint.iso.torrent",
+    "href": "NetBSD-9.1-sandpoint.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/9.1/NetBSD-9.1-sandpoint.iso.torrent",
+    "is_dir": false,
+    "size": "20.6 KiB",
+    "date": "20-Oct-2020 04:28"
+  },
+  {
+    "name": "NetBSD-9.1-sgimips.iso",
+    "href": "NetBSD-9.1-sgimips.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/9.1/NetBSD-9.1-sgimips.iso",
+    "is_dir": false,
+    "size": "291.5 MiB",
+    "date": "19-Oct-2020 05:25"
+  },
+  {
+    "name": "NetBSD-9.1-sgimips.iso.torrent",
+    "href": "NetBSD-9.1-sgimips.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/9.1/NetBSD-9.1-sgimips.iso.torrent",
+    "is_dir": false,
+    "size": "22.9 KiB",
+    "date": "20-Oct-2020 04:28"
+  },
+  {
+    "name": "NetBSD-9.1-shark.iso",
+    "href": "NetBSD-9.1-shark.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/9.1/NetBSD-9.1-shark.iso",
+    "is_dir": false,
+    "size": "287.3 MiB",
+    "date": "19-Oct-2020 05:40"
+  },
+  {
+    "name": "NetBSD-9.1-shark.iso.torrent",
+    "href": "NetBSD-9.1-shark.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/9.1/NetBSD-9.1-shark.iso.torrent",
+    "is_dir": false,
+    "size": "22.6 KiB",
+    "date": "20-Oct-2020 04:28"
+  },
+  {
+    "name": "NetBSD-9.1-sparc.iso",
+    "href": "NetBSD-9.1-sparc.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/9.1/NetBSD-9.1-sparc.iso",
+    "is_dir": false,
+    "size": "260.0 MiB",
+    "date": "19-Oct-2020 05:22"
+  },
+  {
+    "name": "NetBSD-9.1-sparc.iso.torrent",
+    "href": "NetBSD-9.1-sparc.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/9.1/NetBSD-9.1-sparc.iso.torrent",
+    "is_dir": false,
+    "size": "20.5 KiB",
+    "date": "20-Oct-2020 04:28"
+  },
+  {
+    "name": "NetBSD-9.1-sparc64.iso",
+    "href": "NetBSD-9.1-sparc64.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/9.1/NetBSD-9.1-sparc64.iso",
+    "is_dir": false,
+    "size": "348.8 MiB",
+    "date": "19-Oct-2020 05:48"
+  },
+  {
+    "name": "NetBSD-9.1-sparc64.iso.torrent",
+    "href": "NetBSD-9.1-sparc64.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/9.1/NetBSD-9.1-sparc64.iso.torrent",
+    "is_dir": false,
+    "size": "27.4 KiB",
+    "date": "20-Oct-2020 04:28"
+  },
+  {
+    "name": "NetBSD-9.1-sun2.iso",
+    "href": "NetBSD-9.1-sun2.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/9.1/NetBSD-9.1-sun2.iso",
+    "is_dir": false,
+    "size": "804.5 MiB",
+    "date": "19-Oct-2020 05:03"
+  },
+  {
+    "name": "NetBSD-9.1-sun2.iso.torrent",
+    "href": "NetBSD-9.1-sun2.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/9.1/NetBSD-9.1-sun2.iso.torrent",
+    "is_dir": false,
+    "size": "63.0 KiB",
+    "date": "20-Oct-2020 04:28"
+  },
+  {
+    "name": "NetBSD-9.1-sun3.iso",
+    "href": "NetBSD-9.1-sun3.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/9.1/NetBSD-9.1-sun3.iso",
+    "is_dir": false,
+    "size": "225.9 MiB",
+    "date": "19-Oct-2020 05:34"
+  },
+  {
+    "name": "NetBSD-9.1-sun3.iso.torrent",
+    "href": "NetBSD-9.1-sun3.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/9.1/NetBSD-9.1-sun3.iso.torrent",
+    "is_dir": false,
+    "size": "17.8 KiB",
+    "date": "20-Oct-2020 04:28"
+  },
+  {
+    "name": "NetBSD-9.1-vax.iso",
+    "href": "NetBSD-9.1-vax.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/9.1/NetBSD-9.1-vax.iso",
+    "is_dir": false,
+    "size": "326.4 MiB",
+    "date": "19-Oct-2020 05:31"
+  },
+  {
+    "name": "NetBSD-9.1-vax.iso.torrent",
+    "href": "NetBSD-9.1-vax.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/9.1/NetBSD-9.1-vax.iso.torrent",
+    "is_dir": false,
+    "size": "25.7 KiB",
+    "date": "20-Oct-2020 04:28"
+  },
+  {
+    "name": "NetBSD-9.1-x68k.iso",
+    "href": "NetBSD-9.1-x68k.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/9.1/NetBSD-9.1-x68k.iso",
+    "is_dir": false,
+    "size": "215.5 MiB",
+    "date": "19-Oct-2020 05:43"
+  },
+  {
+    "name": "NetBSD-9.1-x68k.iso.torrent",
+    "href": "NetBSD-9.1-x68k.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/9.1/NetBSD-9.1-x68k.iso.torrent",
+    "is_dir": false,
+    "size": "17.0 KiB",
+    "date": "20-Oct-2020 04:28"
+  },
+  {
+    "name": "NetBSD-9.1-zaurus.iso",
+    "href": "NetBSD-9.1-zaurus.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/9.1/NetBSD-9.1-zaurus.iso",
+    "is_dir": false,
+    "size": "290.1 MiB",
+    "date": "19-Oct-2020 05:54"
+  },
+  {
+    "name": "NetBSD-9.1-zaurus.iso.torrent",
+    "href": "NetBSD-9.1-zaurus.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/9.1/NetBSD-9.1-zaurus.iso.torrent",
+    "is_dir": false,
+    "size": "22.8 KiB",
+    "date": "20-Oct-2020 04:28"
+  },
+  {
+    "name": "SHA512",
+    "href": "SHA512",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/9.1/SHA512",
+    "is_dir": false,
+    "size": "9.1 KiB",
+    "date": "19-Oct-2020 08:07"
+  }
+]

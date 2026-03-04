@@ -1,0 +1,58 @@
+[
+  {
+    "name": "BSDSUM",
+    "href": "BSDSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/hpcmips/installation/BSDSUM",
+    "is_dir": false,
+    "size": "68 B",
+    "date": "18-Nov-2000 11:33"
+  },
+  {
+    "name": "CKSUM",
+    "href": "CKSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/hpcmips/installation/CKSUM",
+    "is_dir": false,
+    "size": "91 B",
+    "date": "18-Nov-2000 11:33"
+  },
+  {
+    "name": "MD5",
+    "href": "MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/hpcmips/installation/MD5",
+    "is_dir": false,
+    "size": "160 B",
+    "date": "18-Nov-2000 11:33"
+  },
+  {
+    "name": "SYSVSUM",
+    "href": "SYSVSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/hpcmips/installation/SYSVSUM",
+    "is_dir": false,
+    "size": "66 B",
+    "date": "18-Nov-2000 11:33"
+  },
+  {
+    "name": "netbsd.gz",
+    "href": "netbsd.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/hpcmips/installation/netbsd.gz",
+    "is_dir": false,
+    "size": "2.0 MiB",
+    "date": "18-Nov-2000 11:31"
+  },
+  {
+    "name": "pbsdboot.exe",
+    "href": "pbsdboot.exe",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/hpcmips/installation/pbsdboot.exe",
+    "is_dir": false,
+    "size": "119.0 KiB",
+    "date": "18-Nov-2000 11:45"
+  },
+  {
+    "name": "pbsdboot1.exe",
+    "href": "pbsdboot1.exe",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/hpcmips/installation/pbsdboot1.exe",
+    "is_dir": false,
+    "size": "130.5 KiB",
+    "date": "18-Nov-2000 11:45"
+  }
+]

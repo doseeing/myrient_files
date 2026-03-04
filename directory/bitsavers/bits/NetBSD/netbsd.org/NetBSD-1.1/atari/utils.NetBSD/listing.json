@@ -1,0 +1,58 @@
+[
+  {
+    "name": "CKSUMS",
+    "href": "CKSUMS",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/atari/utils.NetBSD/CKSUMS",
+    "is_dir": false,
+    "size": "171 B",
+    "date": "23-Nov-1995 15:46"
+  },
+  {
+    "name": "README",
+    "href": "README",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/atari/utils.NetBSD/README",
+    "is_dir": false,
+    "size": "1.1 KiB",
+    "date": "22-Nov-1995 14:43"
+  },
+  {
+    "name": "binpatch.cat8.gz",
+    "href": "binpatch.cat8.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/atari/utils.NetBSD/binpatch.cat8.gz",
+    "is_dir": false,
+    "size": "715 B",
+    "date": "30-Aug-1995 03:19"
+  },
+  {
+    "name": "binpatch.gz",
+    "href": "binpatch.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/atari/utils.NetBSD/binpatch.gz",
+    "is_dir": false,
+    "size": "17.7 KiB",
+    "date": "30-Aug-1995 03:19"
+  },
+  {
+    "name": "german.kbdmap.gz",
+    "href": "german.kbdmap.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/atari/utils.NetBSD/german.kbdmap.gz",
+    "is_dir": false,
+    "size": "429 B",
+    "date": "27-Aug-1995 01:52"
+  },
+  {
+    "name": "loadkmap.gz",
+    "href": "loadkmap.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/atari/utils.NetBSD/loadkmap.gz",
+    "is_dir": false,
+    "size": "2.2 KiB",
+    "date": "27-Aug-1995 01:45"
+  },
+  {
+    "name": "us.kbdmap.gz",
+    "href": "us.kbdmap.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/atari/utils.NetBSD/us.kbdmap.gz",
+    "is_dir": false,
+    "size": "385 B",
+    "date": "27-Aug-1995 01:52"
+  }
+]

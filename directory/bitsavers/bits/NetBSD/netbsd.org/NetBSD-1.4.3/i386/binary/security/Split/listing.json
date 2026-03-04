@@ -1,0 +1,66 @@
+[
+  {
+    "name": "BSDSUM",
+    "href": "BSDSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/i386/binary/security/Split/BSDSUM",
+    "is_dir": false,
+    "size": "72 B",
+    "date": "07-Nov-2000 12:25"
+  },
+  {
+    "name": "CKSUM",
+    "href": "CKSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/i386/binary/security/Split/CKSUM",
+    "is_dir": false,
+    "size": "102 B",
+    "date": "07-Nov-2000 12:25"
+  },
+  {
+    "name": "MD5",
+    "href": "MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/i386/binary/security/Split/MD5",
+    "is_dir": false,
+    "size": "196 B",
+    "date": "07-Nov-2000 12:25"
+  },
+  {
+    "name": "SYSVSUM",
+    "href": "SYSVSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/i386/binary/security/Split/SYSVSUM",
+    "is_dir": false,
+    "size": "71 B",
+    "date": "07-Nov-2000 12:25"
+  },
+  {
+    "name": "secr.aa",
+    "href": "secr.aa",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/i386/binary/security/Split/secr.aa",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "07-Nov-2000 12:22"
+  },
+  {
+    "name": "secr.ab",
+    "href": "secr.ab",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/i386/binary/security/Split/secr.ab",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "07-Nov-2000 12:22"
+  },
+  {
+    "name": "secr.ac",
+    "href": "secr.ac",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/i386/binary/security/Split/secr.ac",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "07-Nov-2000 12:22"
+  },
+  {
+    "name": "secr.ad",
+    "href": "secr.ad",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/i386/binary/security/Split/secr.ad",
+    "is_dir": false,
+    "size": "114.7 KiB",
+    "date": "07-Nov-2000 12:22"
+  }
+]

@@ -1,0 +1,170 @@
+[
+  {
+    "name": "adabugger.lisp.2",
+    "href": "adabugger.lisp.2",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/ct-ada/debug/adabugger.lisp.2",
+    "is_dir": false,
+    "size": "30.8 KiB",
+    "date": "21-Apr-2017 01:10"
+  },
+  {
+    "name": "codemon.lisp.1",
+    "href": "codemon.lisp.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/ct-ada/debug/codemon.lisp.1",
+    "is_dir": false,
+    "size": "13.4 KiB",
+    "date": "21-Apr-2017 01:10"
+  },
+  {
+    "name": "datades.lisp.1",
+    "href": "datades.lisp.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/ct-ada/debug/datades.lisp.1",
+    "is_dir": false,
+    "size": "13.4 KiB",
+    "date": "21-Apr-2017 01:10"
+  },
+  {
+    "name": "datamon.lisp.1",
+    "href": "datamon.lisp.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/ct-ada/debug/datamon.lisp.1",
+    "is_dir": false,
+    "size": "18.1 KiB",
+    "date": "21-Apr-2017 01:10"
+  },
+  {
+    "name": "dbutils.lisp.2",
+    "href": "dbutils.lisp.2",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/ct-ada/debug/dbutils.lisp.2",
+    "is_dir": false,
+    "size": "8.1 KiB",
+    "date": "21-Apr-2017 01:10"
+  },
+  {
+    "name": "dbwindow.lisp.1",
+    "href": "dbwindow.lisp.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/ct-ada/debug/dbwindow.lisp.1",
+    "is_dir": false,
+    "size": "39 B",
+    "date": "21-Apr-2017 01:10"
+  },
+  {
+    "name": "debugcmds.lisp.2",
+    "href": "debugcmds.lisp.2",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/ct-ada/debug/debugcmds.lisp.2",
+    "is_dir": false,
+    "size": "27.5 KiB",
+    "date": "21-Apr-2017 01:10"
+  },
+  {
+    "name": "debugger.lisp.1",
+    "href": "debugger.lisp.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/ct-ada/debug/debugger.lisp.1",
+    "is_dir": false,
+    "size": "4.5 KiB",
+    "date": "21-Apr-2017 01:10"
+  },
+  {
+    "name": "dfind.lisp.2",
+    "href": "dfind.lisp.2",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/ct-ada/debug/dfind.lisp.2",
+    "is_dir": false,
+    "size": "14.1 KiB",
+    "date": "21-Apr-2017 01:10"
+  },
+  {
+    "name": "dianades.lisp.1",
+    "href": "dianades.lisp.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/ct-ada/debug/dianades.lisp.1",
+    "is_dir": false,
+    "size": "32.0 KiB",
+    "date": "21-Apr-2017 01:10"
+  },
+  {
+    "name": "dianatags.lisp.1",
+    "href": "dianatags.lisp.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/ct-ada/debug/dianatags.lisp.1",
+    "is_dir": false,
+    "size": "9.6 KiB",
+    "date": "21-Apr-2017 01:10"
+  },
+  {
+    "name": "envirwalk.lisp.2",
+    "href": "envirwalk.lisp.2",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/ct-ada/debug/envirwalk.lisp.2",
+    "is_dir": false,
+    "size": "20.5 KiB",
+    "date": "21-Apr-2017 01:10"
+  },
+  {
+    "name": "inspector.lisp.1",
+    "href": "inspector.lisp.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/ct-ada/debug/inspector.lisp.1",
+    "is_dir": false,
+    "size": "47.3 KiB",
+    "date": "21-Apr-2017 01:10"
+  },
+  {
+    "name": "lmdbcmds.lisp.1",
+    "href": "lmdbcmds.lisp.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/ct-ada/debug/lmdbcmds.lisp.1",
+    "is_dir": false,
+    "size": "8.3 KiB",
+    "date": "21-Apr-2017 01:10"
+  },
+  {
+    "name": "lmscreens.lisp.14",
+    "href": "lmscreens.lisp.14",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/ct-ada/debug/lmscreens.lisp.14",
+    "is_dir": false,
+    "size": "75.9 KiB",
+    "date": "21-Apr-2017 01:10"
+  },
+  {
+    "name": "nodenum.lisp.1",
+    "href": "nodenum.lisp.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/ct-ada/debug/nodenum.lisp.1",
+    "is_dir": false,
+    "size": "6.6 KiB",
+    "date": "21-Apr-2017 01:10"
+  },
+  {
+    "name": "point.lisp.1",
+    "href": "point.lisp.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/ct-ada/debug/point.lisp.1",
+    "is_dir": false,
+    "size": "20.9 KiB",
+    "date": "21-Apr-2017 01:10"
+  },
+  {
+    "name": "screens.lisp.3",
+    "href": "screens.lisp.3",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/ct-ada/debug/screens.lisp.3",
+    "is_dir": false,
+    "size": "54.9 KiB",
+    "date": "21-Apr-2017 01:10"
+  },
+  {
+    "name": "scroll.lisp.1",
+    "href": "scroll.lisp.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/ct-ada/debug/scroll.lisp.1",
+    "is_dir": false,
+    "size": "45.9 KiB",
+    "date": "21-Apr-2017 01:10"
+  },
+  {
+    "name": "warnings.text.1",
+    "href": "warnings.text.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/ct-ada/debug/warnings.text.1",
+    "is_dir": false,
+    "size": "53.3 KiB",
+    "date": "21-Apr-2017 01:10"
+  },
+  {
+    "name": "windowfnc.lisp.2",
+    "href": "windowfnc.lisp.2",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/ct-ada/debug/windowfnc.lisp.2",
+    "is_dir": false,
+    "size": "33.7 KiB",
+    "date": "21-Apr-2017 01:10"
+  }
+]

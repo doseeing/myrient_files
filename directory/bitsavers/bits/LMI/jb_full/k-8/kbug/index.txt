@@ -1,0 +1,26 @@
+name	is_dir	size	date
+barefoot-diags.lisp.7	False	3.6 KiB	21-Apr-2017 01:19
+create-evironments.lisp.4	False	204 B	21-Apr-2017 01:19
+daisy-new-spy-utilities.lisp.5	False	32.0 KiB	21-Apr-2017 01:19
+debug-board.lisp.24	False	19.8 KiB	21-Apr-2017 01:19
+debug-crock0.lisp.7	False	219 B	21-Apr-2017 01:19
+debug-support.lisp.90	False	13.4 KiB	21-Apr-2017 01:19
+get-image.lisp.10	False	4.7 KiB	21-Apr-2017 01:19
+goto-compiler-pe.lisp.2	False	130 B	21-Apr-2017 01:19
+goto-debugger-pe.lisp.1	False	127 B	21-Apr-2017 01:19
+initialize-cold-loader.lisp.1	False	169 B	21-Apr-2017 01:19
+k-hacking-pe.lisp.7	False	211 B	21-Apr-2017 01:19
+kbug.lisp.138	False	48.1 KiB	21-Apr-2017 01:19
+make-cold-load-compiler.lisp.1	False	113 B	21-Apr-2017 01:19
+memory-tests.lisp.48	False	41.4 KiB	21-Apr-2017 01:19
+mini-cons.kbin.21	False	3.8 KiB	21-Apr-2017 01:19
+mini-cons.lisp.18	False	2.5 KiB	21-Apr-2017 01:19
+new-spy-utilities.lisp.73	False	40.7 KiB	21-Apr-2017 01:19
+new-spy-utilities.lqfasl.72	False	36.8 KiB	21-Apr-2017 01:19
+package-enviromnents.lisp.2	False	89.0 KiB	21-Apr-2017 01:19
+package-environments.lisp.18	False	95.5 KiB	21-Apr-2017 01:19
+package-hierarchies.lisp.5	False	1.5 KiB	21-Apr-2017 01:19
+spy-diags.lisp.51	False	69.9 KiB	21-Apr-2017 01:19
+state-save.lisp.1	False	395 B	21-Apr-2017 01:19
+test-vectors-support.lisp.16	False	39.4 KiB	21-Apr-2017 01:19
+test-vectors.lisp.105	False	52.4 KiB	21-Apr-2017 01:19

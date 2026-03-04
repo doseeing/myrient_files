@@ -1,0 +1,106 @@
+[
+  {
+    "name": "patch",
+    "href": "patch/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/serial-ip/patch/",
+    "is_dir": true,
+    "size": null,
+    "date": "21-Apr-2017 01:48"
+  },
+  {
+    "name": "tests",
+    "href": "tests/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/serial-ip/tests/",
+    "is_dir": true,
+    "size": null,
+    "date": "21-Apr-2017 01:48"
+  },
+  {
+    "name": "serial-ip.system.3",
+    "href": "serial-ip.system.3",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/serial-ip/serial-ip.system.3",
+    "is_dir": false,
+    "size": "173 B",
+    "date": "21-Apr-2017 01:46"
+  },
+  {
+    "name": "serial-ip.system.4",
+    "href": "serial-ip.system.4",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/serial-ip/serial-ip.system.4",
+    "is_dir": false,
+    "size": "131 B",
+    "date": "21-Apr-2017 01:46"
+  },
+  {
+    "name": "serial-ip.translations.3",
+    "href": "serial-ip.translations.3",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/serial-ip/serial-ip.translations.3",
+    "is_dir": false,
+    "size": "477 B",
+    "date": "21-Apr-2017 01:46"
+  },
+  {
+    "name": "serial-protocol.lisp.42",
+    "href": "serial-protocol.lisp.42",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/serial-ip/serial-protocol.lisp.42",
+    "is_dir": false,
+    "size": "16.6 KiB",
+    "date": "21-Apr-2017 01:46"
+  },
+  {
+    "name": "serial-protocol.save.22",
+    "href": "serial-protocol.save.22",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/serial-ip/serial-protocol.save.22",
+    "is_dir": false,
+    "size": "10.5 KiB",
+    "date": "21-Apr-2017 01:46"
+  },
+  {
+    "name": "serial-sites.lisp.31",
+    "href": "serial-sites.lisp.31",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/serial-ip/serial-sites.lisp.31",
+    "is_dir": false,
+    "size": "13.8 KiB",
+    "date": "21-Apr-2017 01:46"
+  },
+  {
+    "name": "serial.lisp.48",
+    "href": "serial.lisp.48",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/serial-ip/serial.lisp.48",
+    "is_dir": false,
+    "size": "17.1 KiB",
+    "date": "21-Apr-2017 01:46"
+  },
+  {
+    "name": "serial.lisp.49",
+    "href": "serial.lisp.49",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/serial-ip/serial.lisp.49",
+    "is_dir": false,
+    "size": "17.1 KiB",
+    "date": "21-Apr-2017 01:46"
+  },
+  {
+    "name": "sysdef.lisp.28",
+    "href": "sysdef.lisp.28",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/serial-ip/sysdef.lisp.28",
+    "is_dir": false,
+    "size": "1.4 KiB",
+    "date": "21-Apr-2017 01:46"
+  },
+  {
+    "name": "sysdef.lisp.29",
+    "href": "sysdef.lisp.29",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/serial-ip/sysdef.lisp.29",
+    "is_dir": false,
+    "size": "1.5 KiB",
+    "date": "21-Apr-2017 01:46"
+  },
+  {
+    "name": "wishlist.text.5",
+    "href": "wishlist.text.5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/serial-ip/wishlist.text.5",
+    "is_dir": false,
+    "size": "1.4 KiB",
+    "date": "21-Apr-2017 01:46"
+  }
+]

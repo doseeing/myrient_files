@@ -1,0 +1,138 @@
+[
+  {
+    "name": "copyright.text.2",
+    "href": "copyright.text.2",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/gjcx/pkg/copyright.text.2",
+    "is_dir": false,
+    "size": "1.2 KiB",
+    "date": "21-Apr-2017 01:29"
+  },
+  {
+    "name": "fs-extensions.lisp.3",
+    "href": "fs-extensions.lisp.3",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/gjcx/pkg/fs-extensions.lisp.3",
+    "is_dir": false,
+    "size": "3.2 KiB",
+    "date": "21-Apr-2017 01:29"
+  },
+  {
+    "name": "fs-fix.lisp.2",
+    "href": "fs-fix.lisp.2",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/gjcx/pkg/fs-fix.lisp.2",
+    "is_dir": false,
+    "size": "1.3 KiB",
+    "date": "21-Apr-2017 01:29"
+  },
+  {
+    "name": "load.lisp.15",
+    "href": "load.lisp.15",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/gjcx/pkg/load.lisp.15",
+    "is_dir": false,
+    "size": "1.7 KiB",
+    "date": "21-Apr-2017 01:29"
+  },
+  {
+    "name": "mount.lisp.14",
+    "href": "mount.lisp.14",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/gjcx/pkg/mount.lisp.14",
+    "is_dir": false,
+    "size": "4.6 KiB",
+    "date": "21-Apr-2017 01:29"
+  },
+  {
+    "name": "nfs-server.lisp.26",
+    "href": "nfs-server.lisp.26",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/gjcx/pkg/nfs-server.lisp.26",
+    "is_dir": false,
+    "size": "22.7 KiB",
+    "date": "21-Apr-2017 01:29"
+  },
+  {
+    "name": "nfs.lisp.10",
+    "href": "nfs.lisp.10",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/gjcx/pkg/nfs.lisp.10",
+    "is_dir": false,
+    "size": "4.4 KiB",
+    "date": "21-Apr-2017 01:29"
+  },
+  {
+    "name": "nfs.system.4",
+    "href": "nfs.system.4",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/gjcx/pkg/nfs.system.4",
+    "is_dir": false,
+    "size": "2.0 KiB",
+    "date": "21-Apr-2017 01:29"
+  },
+  {
+    "name": "pfix.lisp.4",
+    "href": "pfix.lisp.4",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/gjcx/pkg/pfix.lisp.4",
+    "is_dir": false,
+    "size": "3.5 KiB",
+    "date": "21-Apr-2017 01:29"
+  },
+  {
+    "name": "pkg.lisp.6",
+    "href": "pkg.lisp.6",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/gjcx/pkg/pkg.lisp.6",
+    "is_dir": false,
+    "size": "2.0 KiB",
+    "date": "21-Apr-2017 01:29"
+  },
+  {
+    "name": "port-mapper.lisp.17",
+    "href": "port-mapper.lisp.17",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/gjcx/pkg/port-mapper.lisp.17",
+    "is_dir": false,
+    "size": "8.6 KiB",
+    "date": "21-Apr-2017 01:29"
+  },
+  {
+    "name": "rp.lisp.8",
+    "href": "rp.lisp.8",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/gjcx/pkg/rp.lisp.8",
+    "is_dir": false,
+    "size": "1.8 KiB",
+    "date": "21-Apr-2017 01:29"
+  },
+  {
+    "name": "rpc.lisp.19",
+    "href": "rpc.lisp.19",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/gjcx/pkg/rpc.lisp.19",
+    "is_dir": false,
+    "size": "10.7 KiB",
+    "date": "21-Apr-2017 01:29"
+  },
+  {
+    "name": "server.lisp.4",
+    "href": "server.lisp.4",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/gjcx/pkg/server.lisp.4",
+    "is_dir": false,
+    "size": "5.3 KiB",
+    "date": "21-Apr-2017 01:29"
+  },
+  {
+    "name": "sysdef.lisp.7",
+    "href": "sysdef.lisp.7",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/gjcx/pkg/sysdef.lisp.7",
+    "is_dir": false,
+    "size": "386 B",
+    "date": "21-Apr-2017 01:29"
+  },
+  {
+    "name": "xdr.lisp.31",
+    "href": "xdr.lisp.31",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/gjcx/pkg/xdr.lisp.31",
+    "is_dir": false,
+    "size": "18.0 KiB",
+    "date": "21-Apr-2017 01:29"
+  },
+  {
+    "name": "xdr.notes.2",
+    "href": "xdr.notes.2",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/gjcx/pkg/xdr.notes.2",
+    "is_dir": false,
+    "size": "5.7 KiB",
+    "date": "21-Apr-2017 01:29"
+  }
+]

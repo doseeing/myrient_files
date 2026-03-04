@@ -1,0 +1,34 @@
+[
+  {
+    "name": "CKSUMS",
+    "href": "CKSUMS",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/x68k/utils/CKSUMS",
+    "is_dir": false,
+    "size": "82 B",
+    "date": "24-Sep-1996 02:32"
+  },
+  {
+    "name": "rawrite.doc",
+    "href": "rawrite.doc",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/x68k/utils/rawrite.doc",
+    "is_dir": false,
+    "size": "205 B",
+    "date": "24-Sep-1996 02:32"
+  },
+  {
+    "name": "rawrite.lzh",
+    "href": "rawrite.lzh",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/x68k/utils/rawrite.lzh",
+    "is_dir": false,
+    "size": "13.8 KiB",
+    "date": "24-Sep-1996 02:32"
+  },
+  {
+    "name": "rawrite.x",
+    "href": "rawrite.x",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/x68k/utils/rawrite.x",
+    "is_dir": false,
+    "size": "22.6 KiB",
+    "date": "24-Sep-1996 02:32"
+  }
+]

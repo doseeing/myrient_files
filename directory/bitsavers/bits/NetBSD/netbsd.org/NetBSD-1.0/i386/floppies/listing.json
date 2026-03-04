@@ -1,0 +1,74 @@
+[
+  {
+    "name": "CKSUMS",
+    "href": "CKSUMS",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.0/i386/floppies/CKSUMS",
+    "is_dir": false,
+    "size": "267 B",
+    "date": "23-Oct-1994 13:10"
+  },
+  {
+    "name": "inst-10.fs",
+    "href": "inst-10.fs",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.0/i386/floppies/inst-10.fs",
+    "is_dir": false,
+    "size": "1.2 MiB",
+    "date": "23-Oct-1994 13:06"
+  },
+  {
+    "name": "inst-10.fs.gz",
+    "href": "inst-10.fs.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.0/i386/floppies/inst-10.fs.gz",
+    "is_dir": false,
+    "size": "483.0 KiB",
+    "date": "23-Oct-1994 13:08"
+  },
+  {
+    "name": "kcaha-10.fs",
+    "href": "kcaha-10.fs",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.0/i386/floppies/kcaha-10.fs",
+    "is_dir": false,
+    "size": "1.2 MiB",
+    "date": "23-Oct-1994 13:06"
+  },
+  {
+    "name": "kcaha-10.fs.gz",
+    "href": "kcaha-10.fs.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.0/i386/floppies/kcaha-10.fs.gz",
+    "is_dir": false,
+    "size": "553.2 KiB",
+    "date": "23-Oct-1994 13:09"
+  },
+  {
+    "name": "kcbt-10.fs",
+    "href": "kcbt-10.fs",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.0/i386/floppies/kcbt-10.fs",
+    "is_dir": false,
+    "size": "1.2 MiB",
+    "date": "23-Oct-1994 13:06"
+  },
+  {
+    "name": "kcbt-10.fs.gz",
+    "href": "kcbt-10.fs.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.0/i386/floppies/kcbt-10.fs.gz",
+    "is_dir": false,
+    "size": "554.0 KiB",
+    "date": "23-Oct-1994 13:09"
+  },
+  {
+    "name": "upgr-10.fs",
+    "href": "upgr-10.fs",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.0/i386/floppies/upgr-10.fs",
+    "is_dir": false,
+    "size": "1.2 MiB",
+    "date": "23-Oct-1994 13:06"
+  },
+  {
+    "name": "upgr-10.fs.gz",
+    "href": "upgr-10.fs.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.0/i386/floppies/upgr-10.fs.gz",
+    "is_dir": false,
+    "size": "480.2 KiB",
+    "date": "23-Oct-1994 13:10"
+  }
+]

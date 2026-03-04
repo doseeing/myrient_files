@@ -1,0 +1,66 @@
+[
+  {
+    "name": "BSDSUM",
+    "href": "BSDSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/atari/binary/kernel/BSDSUM",
+    "is_dir": false,
+    "size": "104 B",
+    "date": "10-Apr-2000 12:46"
+  },
+  {
+    "name": "CKSUM",
+    "href": "CKSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/atari/binary/kernel/CKSUM",
+    "is_dir": false,
+    "size": "135 B",
+    "date": "10-Apr-2000 12:46"
+  },
+  {
+    "name": "MD5",
+    "href": "MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/atari/binary/kernel/MD5",
+    "is_dir": false,
+    "size": "229 B",
+    "date": "10-Apr-2000 12:46"
+  },
+  {
+    "name": "SYSVSUM",
+    "href": "SYSVSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/atari/binary/kernel/SYSVSUM",
+    "is_dir": false,
+    "size": "107 B",
+    "date": "10-Apr-2000 12:46"
+  },
+  {
+    "name": "netbsd.BOOT.gz",
+    "href": "netbsd.BOOT.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/atari/binary/kernel/netbsd.BOOT.gz",
+    "is_dir": false,
+    "size": "421.9 KiB",
+    "date": "15-Mar-2000 07:55"
+  },
+  {
+    "name": "netbsd.BOOTX.gz",
+    "href": "netbsd.BOOTX.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/atari/binary/kernel/netbsd.BOOTX.gz",
+    "is_dir": false,
+    "size": "424.0 KiB",
+    "date": "15-Mar-2000 07:56"
+  },
+  {
+    "name": "netbsd.GENERIC.gz",
+    "href": "netbsd.GENERIC.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/atari/binary/kernel/netbsd.GENERIC.gz",
+    "is_dir": false,
+    "size": "675.1 KiB",
+    "date": "14-Mar-2000 14:32"
+  },
+  {
+    "name": "netbsd.HADES.gz",
+    "href": "netbsd.HADES.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/atari/binary/kernel/netbsd.HADES.gz",
+    "is_dir": false,
+    "size": "527.4 KiB",
+    "date": "15-Mar-2000 07:59"
+  }
+]

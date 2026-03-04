@@ -1,0 +1,42 @@
+[
+  {
+    "name": "BSDSUM",
+    "href": "BSDSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/pc532/installation/floppies/BSDSUM",
+    "is_dir": false,
+    "size": "22 B",
+    "date": "22-Mar-2000 03:54"
+  },
+  {
+    "name": "CKSUM",
+    "href": "CKSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/pc532/installation/floppies/CKSUM",
+    "is_dir": false,
+    "size": "30 B",
+    "date": "22-Mar-2000 03:54"
+  },
+  {
+    "name": "MD5",
+    "href": "MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/pc532/installation/floppies/MD5",
+    "is_dir": false,
+    "size": "52 B",
+    "date": "22-Mar-2000 03:54"
+  },
+  {
+    "name": "SYSVSUM",
+    "href": "SYSVSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/pc532/installation/floppies/SYSVSUM",
+    "is_dir": false,
+    "size": "21 B",
+    "date": "22-Mar-2000 03:54"
+  },
+  {
+    "name": "inst.fs.gz",
+    "href": "inst.fs.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/pc532/installation/floppies/inst.fs.gz",
+    "is_dir": false,
+    "size": "1.1 MiB",
+    "date": "22-Mar-2000 03:54"
+  }
+]

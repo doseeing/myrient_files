@@ -1,0 +1,58 @@
+[
+  {
+    "name": "BSDSUM",
+    "href": "BSDSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/atari/installation/floppy/BSDSUM",
+    "is_dir": false,
+    "size": "63 B",
+    "date": "02-Apr-1998 07:54"
+  },
+  {
+    "name": "CKSUM",
+    "href": "CKSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/atari/installation/floppy/CKSUM",
+    "is_dir": false,
+    "size": "86 B",
+    "date": "02-Apr-1998 07:54"
+  },
+  {
+    "name": "MD5",
+    "href": "MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/atari/installation/floppy/MD5",
+    "is_dir": false,
+    "size": "158 B",
+    "date": "02-Apr-1998 07:54"
+  },
+  {
+    "name": "README",
+    "href": "README",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/atari/installation/floppy/README",
+    "is_dir": false,
+    "size": "284 B",
+    "date": "02-Apr-1998 07:35"
+  },
+  {
+    "name": "SYSVSUM",
+    "href": "SYSVSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/atari/installation/floppy/SYSVSUM",
+    "is_dir": false,
+    "size": "64 B",
+    "date": "02-Apr-1998 07:54"
+  },
+  {
+    "name": "boot.fs.gz",
+    "href": "boot.fs.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/atari/installation/floppy/boot.fs.gz",
+    "is_dir": false,
+    "size": "517.5 KiB",
+    "date": "02-Apr-1998 07:20"
+  },
+  {
+    "name": "hades-boot.fs.gz",
+    "href": "hades-boot.fs.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/atari/installation/floppy/hades-boot.fs.gz",
+    "is_dir": false,
+    "size": "482.0 KiB",
+    "date": "02-Apr-1998 07:23"
+  }
+]

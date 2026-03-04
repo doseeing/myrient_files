@@ -1,0 +1,66 @@
+[
+  {
+    "name": "CKSUMS",
+    "href": "CKSUMS",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/sun3/binary/CKSUMS",
+    "is_dir": false,
+    "size": "211 B",
+    "date": "03-Oct-1996 03:10"
+  },
+  {
+    "name": "base.tar.gz",
+    "href": "base.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/sun3/binary/base.tar.gz",
+    "is_dir": false,
+    "size": "7.4 MiB",
+    "date": "03-Oct-1996 02:53"
+  },
+  {
+    "name": "comp.tar.gz",
+    "href": "comp.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/sun3/binary/comp.tar.gz",
+    "is_dir": false,
+    "size": "5.1 MiB",
+    "date": "03-Oct-1996 02:54"
+  },
+  {
+    "name": "etc.tar.gz",
+    "href": "etc.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/sun3/binary/etc.tar.gz",
+    "is_dir": false,
+    "size": "66.3 KiB",
+    "date": "03-Oct-1996 02:54"
+  },
+  {
+    "name": "games.tar.gz",
+    "href": "games.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/sun3/binary/games.tar.gz",
+    "is_dir": false,
+    "size": "2.7 MiB",
+    "date": "19-Aug-1996 22:35"
+  },
+  {
+    "name": "man.tar.gz",
+    "href": "man.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/sun3/binary/man.tar.gz",
+    "is_dir": false,
+    "size": "875.2 KiB",
+    "date": "19-Aug-1996 22:37"
+  },
+  {
+    "name": "misc.tar.gz",
+    "href": "misc.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/sun3/binary/misc.tar.gz",
+    "is_dir": false,
+    "size": "1.8 MiB",
+    "date": "19-Aug-1996 22:42"
+  },
+  {
+    "name": "text.tar.gz",
+    "href": "text.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/sun3/binary/text.tar.gz",
+    "is_dir": false,
+    "size": "759.9 KiB",
+    "date": "19-Aug-1996 22:45"
+  }
+]

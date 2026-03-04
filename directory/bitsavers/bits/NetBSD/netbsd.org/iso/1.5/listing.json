@@ -1,0 +1,50 @@
+[
+  {
+    "name": "BSDSUM",
+    "href": "BSDSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/1.5/BSDSUM",
+    "is_dir": false,
+    "size": "23 B",
+    "date": "21-Dec-2005 18:43"
+  },
+  {
+    "name": "CKSUM",
+    "href": "CKSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/1.5/CKSUM",
+    "is_dir": false,
+    "size": "32 B",
+    "date": "21-Dec-2005 18:44"
+  },
+  {
+    "name": "MD5",
+    "href": "MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/1.5/MD5",
+    "is_dir": false,
+    "size": "53 B",
+    "date": "21-Dec-2005 18:44"
+  },
+  {
+    "name": "README",
+    "href": "README",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/1.5/README",
+    "is_dir": false,
+    "size": "59 B",
+    "date": "21-Dec-2005 18:49"
+  },
+  {
+    "name": "SYSVSUM",
+    "href": "SYSVSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/1.5/SYSVSUM",
+    "is_dir": false,
+    "size": "24 B",
+    "date": "21-Dec-2005 18:45"
+  },
+  {
+    "name": "pc532cd.iso",
+    "href": "pc532cd.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/1.5/pc532cd.iso",
+    "is_dir": false,
+    "size": "41.7 MiB",
+    "date": "08-May-2004 06:29"
+  }
+]

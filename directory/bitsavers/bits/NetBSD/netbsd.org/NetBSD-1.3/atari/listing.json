@@ -1,0 +1,58 @@
+[
+  {
+    "name": "binary",
+    "href": "binary/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/atari/binary/",
+    "is_dir": true,
+    "size": null,
+    "date": "30-Sep-2023 17:20"
+  },
+  {
+    "name": "installation",
+    "href": "installation/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/atari/installation/",
+    "is_dir": true,
+    "size": null,
+    "date": "30-Sep-2023 17:20"
+  },
+  {
+    "name": "progs",
+    "href": "progs/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/atari/progs/",
+    "is_dir": true,
+    "size": null,
+    "date": "30-Sep-2023 17:20"
+  },
+  {
+    "name": "BEGINNER.INSTALL",
+    "href": "BEGINNER.INSTALL",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/atari/BEGINNER.INSTALL",
+    "is_dir": false,
+    "size": "15.3 KiB",
+    "date": "05-Jan-1998 09:45"
+  },
+  {
+    "name": "FAQ",
+    "href": "FAQ",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/atari/FAQ",
+    "is_dir": false,
+    "size": "28.3 KiB",
+    "date": "05-Jan-1998 11:59"
+  },
+  {
+    "name": "INSTALL",
+    "href": "INSTALL",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/atari/INSTALL",
+    "is_dir": false,
+    "size": "61.3 KiB",
+    "date": "20-Jan-1998 08:36"
+  },
+  {
+    "name": "README",
+    "href": "README",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/atari/README",
+    "is_dir": false,
+    "size": "2.4 KiB",
+    "date": "05-Jan-1998 10:27"
+  }
+]

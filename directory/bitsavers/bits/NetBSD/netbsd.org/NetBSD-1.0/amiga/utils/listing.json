@@ -1,0 +1,42 @@
+[
+  {
+    "name": "README",
+    "href": "README",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.0/amiga/utils/README",
+    "is_dir": false,
+    "size": "235 B",
+    "date": "28-Oct-1994 06:37"
+  },
+  {
+    "name": "loadbsd",
+    "href": "loadbsd",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.0/amiga/utils/loadbsd",
+    "is_dir": false,
+    "size": "8.4 KiB",
+    "date": "28-Oct-1994 06:37"
+  },
+  {
+    "name": "loadbsd.gz",
+    "href": "loadbsd.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.0/amiga/utils/loadbsd.gz",
+    "is_dir": false,
+    "size": "4.8 KiB",
+    "date": "28-Oct-1994 06:37"
+  },
+  {
+    "name": "rawwrite",
+    "href": "rawwrite",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.0/amiga/utils/rawwrite",
+    "is_dir": false,
+    "size": "12.9 KiB",
+    "date": "28-Oct-1994 06:37"
+  },
+  {
+    "name": "rawwrite.gz",
+    "href": "rawwrite.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.0/amiga/utils/rawwrite.gz",
+    "is_dir": false,
+    "size": "7.9 KiB",
+    "date": "28-Oct-1994 06:37"
+  }
+]

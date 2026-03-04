@@ -1,0 +1,58 @@
+[
+  {
+    "name": "dbg.rz0.aout",
+    "href": "dbg.rz0.aout",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/pmax/kernels/dbg.rz0.aout",
+    "is_dir": false,
+    "size": "1.6 MiB",
+    "date": "25-Nov-1995 05:56"
+  },
+  {
+    "name": "dbg.rz1.aout",
+    "href": "dbg.rz1.aout",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/pmax/kernels/dbg.rz1.aout",
+    "is_dir": false,
+    "size": "1.6 MiB",
+    "date": "25-Nov-1995 05:57"
+  },
+  {
+    "name": "dbg.rz2.aout",
+    "href": "dbg.rz2.aout",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/pmax/kernels/dbg.rz2.aout",
+    "is_dir": false,
+    "size": "1.6 MiB",
+    "date": "25-Nov-1995 05:59"
+  },
+  {
+    "name": "gennetbsd.aout",
+    "href": "gennetbsd.aout",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/pmax/kernels/gennetbsd.aout",
+    "is_dir": false,
+    "size": "971.8 KiB",
+    "date": "25-Nov-1995 05:59"
+  },
+  {
+    "name": "rz0netbsd.aout",
+    "href": "rz0netbsd.aout",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/pmax/kernels/rz0netbsd.aout",
+    "is_dir": false,
+    "size": "970.4 KiB",
+    "date": "25-Nov-1995 06:05"
+  },
+  {
+    "name": "rz1netbsd.aout",
+    "href": "rz1netbsd.aout",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/pmax/kernels/rz1netbsd.aout",
+    "is_dir": false,
+    "size": "970.4 KiB",
+    "date": "25-Nov-1995 06:06"
+  },
+  {
+    "name": "rz2netbsd.aout",
+    "href": "rz2netbsd.aout",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/pmax/kernels/rz2netbsd.aout",
+    "is_dir": false,
+    "size": "970.4 KiB",
+    "date": "25-Nov-1995 06:06"
+  }
+]

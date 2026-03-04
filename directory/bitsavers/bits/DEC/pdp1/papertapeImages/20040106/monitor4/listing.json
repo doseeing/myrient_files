@@ -1,0 +1,210 @@
+[
+  {
+    "name": "_text",
+    "href": "_text/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp1/papertapeImages/20040106/monitor4/_text/",
+    "is_dir": true,
+    "size": null,
+    "date": "27-Oct-2004 00:26"
+  },
+  {
+    "name": "caar.bin",
+    "href": "caar.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp1/papertapeImages/20040106/monitor4/caar.bin",
+    "is_dir": false,
+    "size": "997 B",
+    "date": "07-Jan-2004 06:07"
+  },
+  {
+    "name": "cardXfleObjAndSyms.bin",
+    "href": "cardXfleObjAndSyms.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp1/papertapeImages/20040106/monitor4/cardXfleObjAndSyms.bin",
+    "is_dir": false,
+    "size": "4.3 KiB",
+    "date": "07-Jan-2004 05:52"
+  },
+  {
+    "name": "cardXflexWrtup.bin",
+    "href": "cardXflexWrtup.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp1/papertapeImages/20040106/monitor4/cardXflexWrtup.bin",
+    "is_dir": false,
+    "size": "4.2 KiB",
+    "date": "07-Jan-2004 05:51"
+  },
+  {
+    "name": "console.bin",
+    "href": "console.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp1/papertapeImages/20040106/monitor4/console.bin",
+    "is_dir": false,
+    "size": "1.5 KiB",
+    "date": "07-Jan-2004 06:06"
+  },
+  {
+    "name": "consoleSyms.bin",
+    "href": "consoleSyms.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp1/papertapeImages/20040106/monitor4/consoleSyms.bin",
+    "is_dir": false,
+    "size": "1.3 KiB",
+    "date": "07-Jan-2004 06:05"
+  },
+  {
+    "name": "console_src.bin",
+    "href": "console_src.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp1/papertapeImages/20040106/monitor4/console_src.bin",
+    "is_dir": false,
+    "size": "2.8 KiB",
+    "date": "07-Jan-2004 06:04"
+  },
+  {
+    "name": "dex.bin",
+    "href": "dex.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp1/papertapeImages/20040106/monitor4/dex.bin",
+    "is_dir": false,
+    "size": "401 B",
+    "date": "07-Jan-2004 06:10"
+  },
+  {
+    "name": "eddt.bin",
+    "href": "eddt.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp1/papertapeImages/20040106/monitor4/eddt.bin",
+    "is_dir": false,
+    "size": "6.6 KiB",
+    "date": "07-Jan-2004 05:59"
+  },
+  {
+    "name": "eddt_3-8-66.bin",
+    "href": "eddt_3-8-66.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp1/papertapeImages/20040106/monitor4/eddt_3-8-66.bin",
+    "is_dir": false,
+    "size": "6.6 KiB",
+    "date": "07-Jan-2004 05:50"
+  },
+  {
+    "name": "edit.bin",
+    "href": "edit.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp1/papertapeImages/20040106/monitor4/edit.bin",
+    "is_dir": false,
+    "size": "8.5 KiB",
+    "date": "07-Jan-2004 06:03"
+  },
+  {
+    "name": "lineFlexWriteup.bin",
+    "href": "lineFlexWriteup.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp1/papertapeImages/20040106/monitor4/lineFlexWriteup.bin",
+    "is_dir": false,
+    "size": "4.3 KiB",
+    "date": "07-Jan-2004 06:08"
+  },
+  {
+    "name": "lineXferWriteups.bin",
+    "href": "lineXferWriteups.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp1/papertapeImages/20040106/monitor4/lineXferWriteups.bin",
+    "is_dir": false,
+    "size": "4.2 KiB",
+    "date": "07-Jan-2004 05:56"
+  },
+  {
+    "name": "lineXflexAndSyms.bin",
+    "href": "lineXflexAndSyms.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp1/papertapeImages/20040106/monitor4/lineXflexAndSyms.bin",
+    "is_dir": false,
+    "size": "3.8 KiB",
+    "date": "07-Jan-2004 05:58"
+  },
+  {
+    "name": "lineXflexSrc.bin",
+    "href": "lineXflexSrc.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp1/papertapeImages/20040106/monitor4/lineXflexSrc.bin",
+    "is_dir": false,
+    "size": "5.4 KiB",
+    "date": "07-Jan-2004 05:54"
+  },
+  {
+    "name": "lispLib1.bin",
+    "href": "lispLib1.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp1/papertapeImages/20040106/monitor4/lispLib1.bin",
+    "is_dir": false,
+    "size": "6.0 KiB",
+    "date": "07-Jan-2004 06:09"
+  },
+  {
+    "name": "lispLib2.bin",
+    "href": "lispLib2.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp1/papertapeImages/20040106/monitor4/lispLib2.bin",
+    "is_dir": false,
+    "size": "1.8 KiB",
+    "date": "07-Jan-2004 06:09"
+  },
+  {
+    "name": "macro.bin",
+    "href": "macro.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp1/papertapeImages/20040106/monitor4/macro.bin",
+    "is_dir": false,
+    "size": "8.6 KiB",
+    "date": "07-Jan-2004 06:00"
+  },
+  {
+    "name": "macroSyms.bin",
+    "href": "macroSyms.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp1/papertapeImages/20040106/monitor4/macroSyms.bin",
+    "is_dir": false,
+    "size": "3.5 KiB",
+    "date": "07-Jan-2004 06:01"
+  },
+  {
+    "name": "mon-a-4-plus.bin",
+    "href": "mon-a-4-plus.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp1/papertapeImages/20040106/monitor4/mon-a-4-plus.bin",
+    "is_dir": false,
+    "size": "4.3 KiB",
+    "date": "07-Jan-2004 05:47"
+  },
+  {
+    "name": "paperTapeDup.bin",
+    "href": "paperTapeDup.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp1/papertapeImages/20040106/monitor4/paperTapeDup.bin",
+    "is_dir": false,
+    "size": "1.0 KiB",
+    "date": "07-Jan-2004 05:53"
+  },
+  {
+    "name": "tsarII_readin_bnk1.bin",
+    "href": "tsarII_readin_bnk1.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp1/papertapeImages/20040106/monitor4/tsarII_readin_bnk1.bin",
+    "is_dir": false,
+    "size": "593 B",
+    "date": "07-Jan-2004 06:06"
+  },
+  {
+    "name": "tsar_readin_bnk1",
+    "href": "tsar_readin_bnk1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp1/papertapeImages/20040106/monitor4/tsar_readin_bnk1",
+    "is_dir": false,
+    "size": "617 B",
+    "date": "07-Jan-2004 06:04"
+  },
+  {
+    "name": "xflexObj.bin",
+    "href": "xflexObj.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp1/papertapeImages/20040106/monitor4/xflexObj.bin",
+    "is_dir": false,
+    "size": "2.5 KiB",
+    "date": "07-Jan-2004 05:51"
+  },
+  {
+    "name": "xflexSymbols.bin",
+    "href": "xflexSymbols.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp1/papertapeImages/20040106/monitor4/xflexSymbols.bin",
+    "is_dir": false,
+    "size": "1.3 KiB",
+    "date": "07-Jan-2004 05:57"
+  },
+  {
+    "name": "xflexsrc.bin",
+    "href": "xflexsrc.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp1/papertapeImages/20040106/monitor4/xflexsrc.bin",
+    "is_dir": false,
+    "size": "6.7 KiB",
+    "date": "07-Jan-2004 05:55"
+  }
+]

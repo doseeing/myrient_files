@@ -1,0 +1,66 @@
+[
+  {
+    "name": "CKSUMS",
+    "href": "CKSUMS",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/sparc/install/CKSUMS",
+    "is_dir": false,
+    "size": "195 B",
+    "date": "26-Nov-1995 21:37"
+  },
+  {
+    "name": "gtar",
+    "href": "gtar",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/sparc/install/gtar",
+    "is_dir": false,
+    "size": "192.0 KiB",
+    "date": "30-Oct-1994 02:44"
+  },
+  {
+    "name": "gzip",
+    "href": "gzip",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/sparc/install/gzip",
+    "is_dir": false,
+    "size": "184.0 KiB",
+    "date": "30-Oct-1994 02:44"
+  },
+  {
+    "name": "install.sh",
+    "href": "install.sh",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/sparc/install/install.sh",
+    "is_dir": false,
+    "size": "29.2 KiB",
+    "date": "22-Nov-1995 09:49"
+  },
+  {
+    "name": "install_from_sunos.sh",
+    "href": "install_from_sunos.sh",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/sparc/install/install_from_sunos.sh",
+    "is_dir": false,
+    "size": "489 B",
+    "date": "16-Nov-1995 22:39"
+  },
+  {
+    "name": "netbsd",
+    "href": "netbsd",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/sparc/install/netbsd",
+    "is_dir": false,
+    "size": "1.1 MiB",
+    "date": "22-Nov-1995 09:48"
+  },
+  {
+    "name": "netbsd.GENERIC",
+    "href": "netbsd.GENERIC",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/sparc/install/netbsd.GENERIC",
+    "is_dir": false,
+    "size": "1.1 MiB",
+    "date": "22-Nov-1995 09:47"
+  },
+  {
+    "name": "upgrade.sh",
+    "href": "upgrade.sh",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/sparc/install/upgrade.sh",
+    "is_dir": false,
+    "size": "23.5 KiB",
+    "date": "22-Nov-1995 09:49"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "name": "BSDSUM",
+    "href": "BSDSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/pmax/installation/netboot/BSDSUM",
+    "is_dir": false,
+    "size": "24 B",
+    "date": "06-Nov-2000 01:54"
+  },
+  {
+    "name": "CKSUM",
+    "href": "CKSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/pmax/installation/netboot/CKSUM",
+    "is_dir": false,
+    "size": "32 B",
+    "date": "06-Nov-2000 01:54"
+  },
+  {
+    "name": "MD5",
+    "href": "MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/pmax/installation/netboot/MD5",
+    "is_dir": false,
+    "size": "55 B",
+    "date": "06-Nov-2000 01:54"
+  },
+  {
+    "name": "SYSVSUM",
+    "href": "SYSVSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/pmax/installation/netboot/SYSVSUM",
+    "is_dir": false,
+    "size": "25 B",
+    "date": "06-Nov-2000 01:54"
+  },
+  {
+    "name": "diskimage.tgz",
+    "href": "diskimage.tgz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/pmax/installation/netboot/diskimage.tgz",
+    "is_dir": false,
+    "size": "599.0 KiB",
+    "date": "26-Oct-2000 16:52"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "name": "CKSUMS",
+    "href": "CKSUMS",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/i386/binary/text12/CKSUMS",
+    "is_dir": false,
+    "size": "109 B",
+    "date": "16-Sep-1996 00:49"
+  },
+  {
+    "name": "text12.aa",
+    "href": "text12.aa",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/i386/binary/text12/text12.aa",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "16-Sep-1996 00:45"
+  },
+  {
+    "name": "text12.ab",
+    "href": "text12.ab",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/i386/binary/text12/text12.ab",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "16-Sep-1996 00:45"
+  },
+  {
+    "name": "text12.ac",
+    "href": "text12.ac",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/i386/binary/text12/text12.ac",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "16-Sep-1996 00:45"
+  },
+  {
+    "name": "text12.ad",
+    "href": "text12.ad",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/i386/binary/text12/text12.ad",
+    "is_dir": false,
+    "size": "58.8 KiB",
+    "date": "16-Sep-1996 00:45"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "name": "BSDSUM",
+    "href": "BSDSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/pmax/installation/misc/BSDSUM",
+    "is_dir": false,
+    "size": "48 B",
+    "date": "20-Nov-2000 14:34"
+  },
+  {
+    "name": "CKSUM",
+    "href": "CKSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/pmax/installation/misc/CKSUM",
+    "is_dir": false,
+    "size": "64 B",
+    "date": "20-Nov-2000 14:34"
+  },
+  {
+    "name": "MD5",
+    "href": "MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/pmax/installation/misc/MD5",
+    "is_dir": false,
+    "size": "111 B",
+    "date": "20-Nov-2000 14:34"
+  },
+  {
+    "name": "README",
+    "href": "README",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/pmax/installation/misc/README",
+    "is_dir": false,
+    "size": "577 B",
+    "date": "25-Oct-2000 19:04"
+  },
+  {
+    "name": "SYSVSUM",
+    "href": "SYSVSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/pmax/installation/misc/SYSVSUM",
+    "is_dir": false,
+    "size": "47 B",
+    "date": "20-Nov-2000 14:34"
+  },
+  {
+    "name": "bootblocks.tgz",
+    "href": "bootblocks.tgz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/pmax/installation/misc/bootblocks.tgz",
+    "is_dir": false,
+    "size": "39.8 KiB",
+    "date": "07-Mar-2000 03:07"
+  },
+  {
+    "name": "gunzip.ultrix",
+    "href": "gunzip.ultrix",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/pmax/installation/misc/gunzip.ultrix",
+    "is_dir": false,
+    "size": "140.1 KiB",
+    "date": "19-Dec-1995 05:48"
+  }
+]

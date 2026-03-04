@@ -1,0 +1,90 @@
+[
+  {
+    "name": "binary",
+    "href": "binary/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/amiga/binary/",
+    "is_dir": true,
+    "size": null,
+    "date": "30-Sep-2023 17:23"
+  },
+  {
+    "name": "installation",
+    "href": "installation/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/amiga/installation/",
+    "is_dir": true,
+    "size": null,
+    "date": "30-Sep-2023 17:20"
+  },
+  {
+    "name": "BSDSUM",
+    "href": "BSDSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/amiga/BSDSUM",
+    "is_dir": false,
+    "size": "99 B",
+    "date": "27-Mar-1998 13:06"
+  },
+  {
+    "name": "CKSUM",
+    "href": "CKSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/amiga/CKSUM",
+    "is_dir": false,
+    "size": "138 B",
+    "date": "27-Mar-1998 13:06"
+  },
+  {
+    "name": "INSTALL",
+    "href": "INSTALL",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/amiga/INSTALL",
+    "is_dir": false,
+    "size": "66.9 KiB",
+    "date": "24-Mar-1998 19:23"
+  },
+  {
+    "name": "INSTALL.X11",
+    "href": "INSTALL.X11",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/amiga/INSTALL.X11",
+    "is_dir": false,
+    "size": "23.0 KiB",
+    "date": "26-Mar-1998 21:52"
+  },
+  {
+    "name": "MD5",
+    "href": "MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/amiga/MD5",
+    "is_dir": false,
+    "size": "263 B",
+    "date": "27-Mar-1998 13:06"
+  },
+  {
+    "name": "README.Ariadne",
+    "href": "README.Ariadne",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/amiga/README.Ariadne",
+    "is_dir": false,
+    "size": "499 B",
+    "date": "27-Mar-1998 12:06"
+  },
+  {
+    "name": "README.first",
+    "href": "README.first",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/amiga/README.first",
+    "is_dir": false,
+    "size": "1010 B",
+    "date": "26-Mar-1998 22:08"
+  },
+  {
+    "name": "SYSVSUM",
+    "href": "SYSVSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/amiga/SYSVSUM",
+    "is_dir": false,
+    "size": "102 B",
+    "date": "27-Mar-1998 13:06"
+  },
+  {
+    "name": "release.0",
+    "href": "release.0",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/amiga/release.0",
+    "is_dir": false,
+    "size": "8.2 KiB",
+    "date": "26-Mar-1998 21:52"
+  }
+]

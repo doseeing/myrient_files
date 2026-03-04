@@ -1,0 +1,58 @@
+[
+  {
+    "name": "BSDSUM",
+    "href": "BSDSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/arm32/installation/misc/BSDSUM",
+    "is_dir": false,
+    "size": "27 B",
+    "date": "17-Nov-2000 18:09"
+  },
+  {
+    "name": "CKSUM",
+    "href": "CKSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/arm32/installation/misc/CKSUM",
+    "is_dir": false,
+    "size": "34 B",
+    "date": "17-Nov-2000 18:09"
+  },
+  {
+    "name": "MD5",
+    "href": "MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/arm32/installation/misc/MD5",
+    "is_dir": false,
+    "size": "58 B",
+    "date": "17-Nov-2000 18:09"
+  },
+  {
+    "name": "SYSVSUM",
+    "href": "SYSVSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/arm32/installation/misc/SYSVSUM",
+    "is_dir": false,
+    "size": "28 B",
+    "date": "17-Nov-2000 18:09"
+  },
+  {
+    "name": "loader.zip",
+    "href": "loader.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/arm32/installation/misc/loader.zip",
+    "is_dir": false,
+    "size": "215.3 KiB",
+    "date": "22-Nov-2000 21:28"
+  },
+  {
+    "name": "ramdisk-15.fs.gz",
+    "href": "ramdisk-15.fs.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/arm32/installation/misc/ramdisk-15.fs.gz",
+    "is_dir": false,
+    "size": "753.7 KiB",
+    "date": "17-Nov-2000 18:09"
+  },
+  {
+    "name": "splug.bas",
+    "href": "splug.bas",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/arm32/installation/misc/splug.bas",
+    "is_dir": false,
+    "size": "80.7 KiB",
+    "date": "22-Nov-2000 21:28"
+  }
+]

@@ -1,0 +1,138 @@
+[
+  {
+    "name": "BSDSUM",
+    "href": "BSDSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/macppc/binary/sets/BSDSUM",
+    "is_dir": false,
+    "size": "261 B",
+    "date": "11-Aug-1999 11:41"
+  },
+  {
+    "name": "CKSUM",
+    "href": "CKSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/macppc/binary/sets/CKSUM",
+    "is_dir": false,
+    "size": "365 B",
+    "date": "11-Aug-1999 11:41"
+  },
+  {
+    "name": "MD5",
+    "href": "MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/macppc/binary/sets/MD5",
+    "is_dir": false,
+    "size": "659 B",
+    "date": "11-Aug-1999 11:41"
+  },
+  {
+    "name": "SYSVSUM",
+    "href": "SYSVSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/macppc/binary/sets/SYSVSUM",
+    "is_dir": false,
+    "size": "265 B",
+    "date": "11-Aug-1999 11:41"
+  },
+  {
+    "name": "base.tgz",
+    "href": "base.tgz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/macppc/binary/sets/base.tgz",
+    "is_dir": false,
+    "size": "11.0 MiB",
+    "date": "19-Jul-1999 18:19"
+  },
+  {
+    "name": "comp.tgz",
+    "href": "comp.tgz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/macppc/binary/sets/comp.tgz",
+    "is_dir": false,
+    "size": "8.5 MiB",
+    "date": "19-Jul-1999 18:19"
+  },
+  {
+    "name": "etc.tgz",
+    "href": "etc.tgz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/macppc/binary/sets/etc.tgz",
+    "is_dir": false,
+    "size": "56.1 KiB",
+    "date": "19-Jul-1999 18:19"
+  },
+  {
+    "name": "games.tgz",
+    "href": "games.tgz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/macppc/binary/sets/games.tgz",
+    "is_dir": false,
+    "size": "2.8 MiB",
+    "date": "19-Jul-1999 18:19"
+  },
+  {
+    "name": "kern.tgz",
+    "href": "kern.tgz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/macppc/binary/sets/kern.tgz",
+    "is_dir": false,
+    "size": "858.3 KiB",
+    "date": "11-Aug-1999 11:41"
+  },
+  {
+    "name": "man.tgz",
+    "href": "man.tgz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/macppc/binary/sets/man.tgz",
+    "is_dir": false,
+    "size": "3.8 MiB",
+    "date": "19-Jul-1999 18:19"
+  },
+  {
+    "name": "misc.tgz",
+    "href": "misc.tgz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/macppc/binary/sets/misc.tgz",
+    "is_dir": false,
+    "size": "2.2 MiB",
+    "date": "19-Jul-1999 18:19"
+  },
+  {
+    "name": "text.tgz",
+    "href": "text.tgz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/macppc/binary/sets/text.tgz",
+    "is_dir": false,
+    "size": "1.2 MiB",
+    "date": "19-Jul-1999 18:19"
+  },
+  {
+    "name": "xbase.tgz",
+    "href": "xbase.tgz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/macppc/binary/sets/xbase.tgz",
+    "is_dir": false,
+    "size": "2.8 MiB",
+    "date": "19-Jul-1999 18:19"
+  },
+  {
+    "name": "xcomp.tgz",
+    "href": "xcomp.tgz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/macppc/binary/sets/xcomp.tgz",
+    "is_dir": false,
+    "size": "1.9 MiB",
+    "date": "19-Jul-1999 18:19"
+  },
+  {
+    "name": "xcontrib.tgz",
+    "href": "xcontrib.tgz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/macppc/binary/sets/xcontrib.tgz",
+    "is_dir": false,
+    "size": "187.9 KiB",
+    "date": "19-Jul-1999 18:19"
+  },
+  {
+    "name": "xfont.tgz",
+    "href": "xfont.tgz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/macppc/binary/sets/xfont.tgz",
+    "is_dir": false,
+    "size": "5.7 MiB",
+    "date": "19-Jul-1999 18:19"
+  },
+  {
+    "name": "xserver.tgz",
+    "href": "xserver.tgz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/macppc/binary/sets/xserver.tgz",
+    "is_dir": false,
+    "size": "1.7 MiB",
+    "date": "19-Jul-1999 18:19"
+  }
+]

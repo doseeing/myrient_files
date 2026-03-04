@@ -1,0 +1,58 @@
+[
+  {
+    "name": "binary",
+    "href": "binary/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/amiga/binary/",
+    "is_dir": true,
+    "size": null,
+    "date": "01-Oct-2023 18:33"
+  },
+  {
+    "name": "installation",
+    "href": "installation/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/amiga/installation/",
+    "is_dir": true,
+    "size": null,
+    "date": "01-Oct-2023 18:33"
+  },
+  {
+    "name": "INSTALL.X11",
+    "href": "INSTALL.X11",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/amiga/INSTALL.X11",
+    "is_dir": false,
+    "size": "23.7 KiB",
+    "date": "17-Nov-2000 07:19"
+  },
+  {
+    "name": "INSTALL.html",
+    "href": "INSTALL.html",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/amiga/INSTALL.html",
+    "is_dir": false,
+    "size": "113.9 KiB",
+    "date": "17-Nov-2000 01:32"
+  },
+  {
+    "name": "INSTALL.more",
+    "href": "INSTALL.more",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/amiga/INSTALL.more",
+    "is_dir": false,
+    "size": "106.3 KiB",
+    "date": "17-Nov-2000 01:33"
+  },
+  {
+    "name": "INSTALL.ps",
+    "href": "INSTALL.ps",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/amiga/INSTALL.ps",
+    "is_dir": false,
+    "size": "166.6 KiB",
+    "date": "17-Nov-2000 01:30"
+  },
+  {
+    "name": "INSTALL.txt",
+    "href": "INSTALL.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/amiga/INSTALL.txt",
+    "is_dir": false,
+    "size": "99.9 KiB",
+    "date": "17-Nov-2000 01:31"
+  }
+]

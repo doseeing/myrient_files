@@ -1,0 +1,26 @@
+[
+  {
+    "name": "CKSUMS",
+    "href": "CKSUMS",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/hp300/security/CKSUMS",
+    "is_dir": false,
+    "size": "32 B",
+    "date": "23-Nov-1995 07:42"
+  },
+  {
+    "name": "README.export-control",
+    "href": "README.export-control",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/hp300/security/README.export-control",
+    "is_dir": false,
+    "size": "791 B",
+    "date": "26-Nov-1995 05:57"
+  },
+  {
+    "name": "secr11.tar.gz",
+    "href": "secr11.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/hp300/security/secr11.tar.gz",
+    "is_dir": false,
+    "size": "125.1 KiB",
+    "date": "17-Nov-1995 14:48"
+  }
+]

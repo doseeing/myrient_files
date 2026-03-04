@@ -1,0 +1,218 @@
+[
+  {
+    "name": "alpha.lisp.141",
+    "href": "alpha.lisp.141",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-11/fleabit/front-end/alpha.lisp.141",
+    "is_dir": false,
+    "size": "29.8 KiB",
+    "date": "21-Apr-2017 01:41"
+  },
+  {
+    "name": "analyze.lisp.6",
+    "href": "analyze.lisp.6",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-11/fleabit/front-end/analyze.lisp.6",
+    "is_dir": false,
+    "size": "10.4 KiB",
+    "date": "21-Apr-2017 01:41"
+  },
+  {
+    "name": "assign.lisp.3",
+    "href": "assign.lisp.3",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-11/fleabit/front-end/assign.lisp.3",
+    "is_dir": false,
+    "size": "4.2 KiB",
+    "date": "21-Apr-2017 01:41"
+  },
+  {
+    "name": "compilators.lisp.49",
+    "href": "compilators.lisp.49",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-11/fleabit/front-end/compilators.lisp.49",
+    "is_dir": false,
+    "size": "12.9 KiB",
+    "date": "21-Apr-2017 01:41"
+  },
+  {
+    "name": "compiler-env.lisp.2",
+    "href": "compiler-env.lisp.2",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-11/fleabit/front-end/compiler-env.lisp.2",
+    "is_dir": false,
+    "size": "2.0 KiB",
+    "date": "21-Apr-2017 01:41"
+  },
+  {
+    "name": "envs.lisp.11",
+    "href": "envs.lisp.11",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-11/fleabit/front-end/envs.lisp.11",
+    "is_dir": false,
+    "size": "13.8 KiB",
+    "date": "21-Apr-2017 01:41"
+  },
+  {
+    "name": "fixup.lisp.9",
+    "href": "fixup.lisp.9",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-11/fleabit/front-end/fixup.lisp.9",
+    "is_dir": false,
+    "size": "7.0 KiB",
+    "date": "21-Apr-2017 01:41"
+  },
+  {
+    "name": "front.lisp.9",
+    "href": "front.lisp.9",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-11/fleabit/front-end/front.lisp.9",
+    "is_dir": false,
+    "size": "7.7 KiB",
+    "date": "21-Apr-2017 01:41"
+  },
+  {
+    "name": "gen-interface.lisp.1",
+    "href": "gen-interface.lisp.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-11/fleabit/front-end/gen-interface.lisp.1",
+    "is_dir": false,
+    "size": "2.5 KiB",
+    "date": "21-Apr-2017 01:41"
+  },
+  {
+    "name": "module.lisp.33",
+    "href": "module.lisp.33",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-11/fleabit/front-end/module.lisp.33",
+    "is_dir": false,
+    "size": "10.9 KiB",
+    "date": "21-Apr-2017 01:41"
+  },
+  {
+    "name": "new-primitive.lisp.15",
+    "href": "new-primitive.lisp.15",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-11/fleabit/front-end/new-primitive.lisp.15",
+    "is_dir": false,
+    "size": "13.9 KiB",
+    "date": "21-Apr-2017 01:41"
+  },
+  {
+    "name": "nfront.lisp.8",
+    "href": "nfront.lisp.8",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-11/fleabit/front-end/nfront.lisp.8",
+    "is_dir": false,
+    "size": "1.3 KiB",
+    "date": "21-Apr-2017 01:41"
+  },
+  {
+    "name": "node.lisp.31",
+    "href": "node.lisp.31",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-11/fleabit/front-end/node.lisp.31",
+    "is_dir": false,
+    "size": "11.4 KiB",
+    "date": "21-Apr-2017 01:41"
+  },
+  {
+    "name": "nodestuff.lisp.16",
+    "href": "nodestuff.lisp.16",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-11/fleabit/front-end/nodestuff.lisp.16",
+    "is_dir": false,
+    "size": "19.6 KiB",
+    "date": "21-Apr-2017 01:41"
+  },
+  {
+    "name": "nsimplify-y.lisp.6",
+    "href": "nsimplify-y.lisp.6",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-11/fleabit/front-end/nsimplify-y.lisp.6",
+    "is_dir": false,
+    "size": "2.0 KiB",
+    "date": "21-Apr-2017 01:41"
+  },
+  {
+    "name": "oprimops.lisp.5",
+    "href": "oprimops.lisp.5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-11/fleabit/front-end/oprimops.lisp.5",
+    "is_dir": false,
+    "size": "9.7 KiB",
+    "date": "21-Apr-2017 01:41"
+  },
+  {
+    "name": "param.lisp.4",
+    "href": "param.lisp.4",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-11/fleabit/front-end/param.lisp.4",
+    "is_dir": false,
+    "size": "5.8 KiB",
+    "date": "21-Apr-2017 01:41"
+  },
+  {
+    "name": "primitive.lisp.53",
+    "href": "primitive.lisp.53",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-11/fleabit/front-end/primitive.lisp.53",
+    "is_dir": false,
+    "size": "15.9 KiB",
+    "date": "21-Apr-2017 01:41"
+  },
+  {
+    "name": "primitives.lisp.37",
+    "href": "primitives.lisp.37",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-11/fleabit/front-end/primitives.lisp.37",
+    "is_dir": false,
+    "size": "18.4 KiB",
+    "date": "21-Apr-2017 01:41"
+  },
+  {
+    "name": "primop-defs.lisp.9",
+    "href": "primop-defs.lisp.9",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-11/fleabit/front-end/primop-defs.lisp.9",
+    "is_dir": false,
+    "size": "8.8 KiB",
+    "date": "21-Apr-2017 01:41"
+  },
+  {
+    "name": "simplifiers.lisp.20",
+    "href": "simplifiers.lisp.20",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-11/fleabit/front-end/simplifiers.lisp.20",
+    "is_dir": false,
+    "size": "14.4 KiB",
+    "date": "21-Apr-2017 01:41"
+  },
+  {
+    "name": "simplify-call.lisp.22",
+    "href": "simplify-call.lisp.22",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-11/fleabit/front-end/simplify-call.lisp.22",
+    "is_dir": false,
+    "size": "7.6 KiB",
+    "date": "21-Apr-2017 01:41"
+  },
+  {
+    "name": "simplify-let.lisp.24",
+    "href": "simplify-let.lisp.24",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-11/fleabit/front-end/simplify-let.lisp.24",
+    "is_dir": false,
+    "size": "13.2 KiB",
+    "date": "21-Apr-2017 01:41"
+  },
+  {
+    "name": "simplify-y.lisp.5",
+    "href": "simplify-y.lisp.5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-11/fleabit/front-end/simplify-y.lisp.5",
+    "is_dir": false,
+    "size": "4.1 KiB",
+    "date": "21-Apr-2017 01:41"
+  },
+  {
+    "name": "simplify.lisp.8",
+    "href": "simplify.lisp.8",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-11/fleabit/front-end/simplify.lisp.8",
+    "is_dir": false,
+    "size": "3.4 KiB",
+    "date": "21-Apr-2017 01:41"
+  },
+  {
+    "name": "test-tak.lisp.1",
+    "href": "test-tak.lisp.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-11/fleabit/front-end/test-tak.lisp.1",
+    "is_dir": false,
+    "size": "655 B",
+    "date": "21-Apr-2017 01:41"
+  },
+  {
+    "name": "type.lisp.1",
+    "href": "type.lisp.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-11/fleabit/front-end/type.lisp.1",
+    "is_dir": false,
+    "size": "2.5 KiB",
+    "date": "21-Apr-2017 01:41"
+  }
+]

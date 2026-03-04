@@ -1,0 +1,114 @@
+[
+  {
+    "name": "bytes.lisp.8",
+    "href": "bytes.lisp.8",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/ip-tcp/server/bytes.lisp.8",
+    "is_dir": false,
+    "size": "2.0 KiB",
+    "date": "21-Apr-2017 01:47"
+  },
+  {
+    "name": "disk.lisp.24",
+    "href": "disk.lisp.24",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/ip-tcp/server/disk.lisp.24",
+    "is_dir": false,
+    "size": "7.5 KiB",
+    "date": "21-Apr-2017 01:47"
+  },
+  {
+    "name": "finger.lisp.23",
+    "href": "finger.lisp.23",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/ip-tcp/server/finger.lisp.23",
+    "is_dir": false,
+    "size": "2.4 KiB",
+    "date": "21-Apr-2017 01:47"
+  },
+  {
+    "name": "ftp-manpage.lisp.2",
+    "href": "ftp-manpage.lisp.2",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/ip-tcp/server/ftp-manpage.lisp.2",
+    "is_dir": false,
+    "size": "8.3 KiB",
+    "date": "21-Apr-2017 01:47"
+  },
+  {
+    "name": "ftp.lisp.85",
+    "href": "ftp.lisp.85",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/ip-tcp/server/ftp.lisp.85",
+    "is_dir": false,
+    "size": "36.4 KiB",
+    "date": "21-Apr-2017 01:47"
+  },
+  {
+    "name": "ftp.lisp.86",
+    "href": "ftp.lisp.86",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/ip-tcp/server/ftp.lisp.86",
+    "is_dir": false,
+    "size": "36.5 KiB",
+    "date": "21-Apr-2017 01:47"
+  },
+  {
+    "name": "ftp.lisp.87",
+    "href": "ftp.lisp.87",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/ip-tcp/server/ftp.lisp.87",
+    "is_dir": false,
+    "size": "36.5 KiB",
+    "date": "21-Apr-2017 01:47"
+  },
+  {
+    "name": "smtp.lisp.24",
+    "href": "smtp.lisp.24",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/ip-tcp/server/smtp.lisp.24",
+    "is_dir": false,
+    "size": "12.8 KiB",
+    "date": "21-Apr-2017 01:47"
+  },
+  {
+    "name": "telnet-utilities.lisp.16",
+    "href": "telnet-utilities.lisp.16",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/ip-tcp/server/telnet-utilities.lisp.16",
+    "is_dir": false,
+    "size": "4.5 KiB",
+    "date": "21-Apr-2017 01:47"
+  },
+  {
+    "name": "telnet.lisp.116",
+    "href": "telnet.lisp.116",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/ip-tcp/server/telnet.lisp.116",
+    "is_dir": false,
+    "size": "14.8 KiB",
+    "date": "21-Apr-2017 01:47"
+  },
+  {
+    "name": "termcap.lisp.97",
+    "href": "termcap.lisp.97",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/ip-tcp/server/termcap.lisp.97",
+    "is_dir": false,
+    "size": "49.3 KiB",
+    "date": "21-Apr-2017 01:47"
+  },
+  {
+    "name": "time.lisp.18",
+    "href": "time.lisp.18",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/ip-tcp/server/time.lisp.18",
+    "is_dir": false,
+    "size": "2.3 KiB",
+    "date": "21-Apr-2017 01:47"
+  },
+  {
+    "name": "udp-namespace-server.lisp.6",
+    "href": "udp-namespace-server.lisp.6",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/ip-tcp/server/udp-namespace-server.lisp.6",
+    "is_dir": false,
+    "size": "5.4 KiB",
+    "date": "21-Apr-2017 01:47"
+  },
+  {
+    "name": "udp-rwho-server.lisp.34",
+    "href": "udp-rwho-server.lisp.34",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/ip-tcp/server/udp-rwho-server.lisp.34",
+    "is_dir": false,
+    "size": "13.2 KiB",
+    "date": "21-Apr-2017 01:48"
+  }
+]

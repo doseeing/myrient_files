@@ -1,0 +1,74 @@
+[
+  {
+    "name": "BSDSUM",
+    "href": "BSDSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/i386/binary/kernel/BSDSUM",
+    "is_dir": false,
+    "size": "157 B",
+    "date": "01-Nov-2000 01:13"
+  },
+  {
+    "name": "CKSUM",
+    "href": "CKSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/i386/binary/kernel/CKSUM",
+    "is_dir": false,
+    "size": "196 B",
+    "date": "01-Nov-2000 01:13"
+  },
+  {
+    "name": "MD5",
+    "href": "MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/i386/binary/kernel/MD5",
+    "is_dir": false,
+    "size": "311 B",
+    "date": "01-Nov-2000 01:13"
+  },
+  {
+    "name": "SYSVSUM",
+    "href": "SYSVSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/i386/binary/kernel/SYSVSUM",
+    "is_dir": false,
+    "size": "161 B",
+    "date": "01-Nov-2000 01:13"
+  },
+  {
+    "name": "netbsd.GENERIC.gz",
+    "href": "netbsd.GENERIC.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/i386/binary/kernel/netbsd.GENERIC.gz",
+    "is_dir": false,
+    "size": "1.6 MiB",
+    "date": "01-Nov-2000 01:03"
+  },
+  {
+    "name": "netbsd.GENERIC_TINY.gz",
+    "href": "netbsd.GENERIC_TINY.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/i386/binary/kernel/netbsd.GENERIC_TINY.gz",
+    "is_dir": false,
+    "size": "728.4 KiB",
+    "date": "01-Nov-2000 01:03"
+  },
+  {
+    "name": "netbsd.INSTALL.gz",
+    "href": "netbsd.INSTALL.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/i386/binary/kernel/netbsd.INSTALL.gz",
+    "is_dir": false,
+    "size": "952.2 KiB",
+    "date": "01-Nov-2000 00:51"
+  },
+  {
+    "name": "netbsd.INSTALL_SMALL.gz",
+    "href": "netbsd.INSTALL_SMALL.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/i386/binary/kernel/netbsd.INSTALL_SMALL.gz",
+    "is_dir": false,
+    "size": "605.5 KiB",
+    "date": "01-Nov-2000 01:03"
+  },
+  {
+    "name": "netbsd.INSTALL_TINY.gz",
+    "href": "netbsd.INSTALL_TINY.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/i386/binary/kernel/netbsd.INSTALL_TINY.gz",
+    "is_dir": false,
+    "size": "508.6 KiB",
+    "date": "01-Nov-2000 00:57"
+  }
+]

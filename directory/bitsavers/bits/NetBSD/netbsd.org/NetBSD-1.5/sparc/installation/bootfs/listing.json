@@ -1,0 +1,58 @@
+[
+  {
+    "name": "BSDSUM",
+    "href": "BSDSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/sparc/installation/bootfs/BSDSUM",
+    "is_dir": false,
+    "size": "72 B",
+    "date": "24-Nov-2000 12:55"
+  },
+  {
+    "name": "CKSUM",
+    "href": "CKSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/sparc/installation/bootfs/CKSUM",
+    "is_dir": false,
+    "size": "95 B",
+    "date": "24-Nov-2000 12:55"
+  },
+  {
+    "name": "MD5",
+    "href": "MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/sparc/installation/bootfs/MD5",
+    "is_dir": false,
+    "size": "164 B",
+    "date": "24-Nov-2000 12:55"
+  },
+  {
+    "name": "SYSVSUM",
+    "href": "SYSVSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/sparc/installation/bootfs/SYSVSUM",
+    "is_dir": false,
+    "size": "74 B",
+    "date": "24-Nov-2000 12:55"
+  },
+  {
+    "name": "boot.fs.gz",
+    "href": "boot.fs.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/sparc/installation/bootfs/boot.fs.gz",
+    "is_dir": false,
+    "size": "872.0 KiB",
+    "date": "24-Nov-2000 12:54"
+  },
+  {
+    "name": "instfs.tgz",
+    "href": "instfs.tgz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/sparc/installation/bootfs/instfs.tgz",
+    "is_dir": false,
+    "size": "1.3 MiB",
+    "date": "24-Nov-2000 12:55"
+  },
+  {
+    "name": "netbsd.ram.aout.gz",
+    "href": "netbsd.ram.aout.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/sparc/installation/bootfs/netbsd.ram.aout.gz",
+    "is_dir": false,
+    "size": "839.7 KiB",
+    "date": "24-Nov-2000 12:55"
+  }
+]

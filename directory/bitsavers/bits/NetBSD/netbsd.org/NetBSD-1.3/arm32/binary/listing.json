@@ -1,0 +1,26 @@
+[
+  {
+    "name": "kernel",
+    "href": "kernel/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/arm32/binary/kernel/",
+    "is_dir": true,
+    "size": null,
+    "date": "30-Sep-2023 17:20"
+  },
+  {
+    "name": "security",
+    "href": "security/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/arm32/binary/security/",
+    "is_dir": true,
+    "size": null,
+    "date": "30-Sep-2023 17:20"
+  },
+  {
+    "name": "sets",
+    "href": "sets/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/arm32/binary/sets/",
+    "is_dir": true,
+    "size": null,
+    "date": "30-Sep-2023 17:20"
+  }
+]

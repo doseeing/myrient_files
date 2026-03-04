@@ -1,0 +1,58 @@
+[
+  {
+    "name": "am29332-alu-opcodes.lisp.8",
+    "href": "am29332-alu-opcodes.lisp.8",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-nubus/opcodes/am29332-alu-opcodes.lisp.8",
+    "is_dir": false,
+    "size": "10.9 KiB",
+    "date": "21-Apr-2017 01:23"
+  },
+  {
+    "name": "generate-opcode-masks.lisp.2",
+    "href": "generate-opcode-masks.lisp.2",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-nubus/opcodes/generate-opcode-masks.lisp.2",
+    "is_dir": false,
+    "size": "1.3 KiB",
+    "date": "21-Apr-2017 01:23"
+  },
+  {
+    "name": "hack-opcode-defs.lisp.8",
+    "href": "hack-opcode-defs.lisp.8",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-nubus/opcodes/hack-opcode-defs.lisp.8",
+    "is_dir": false,
+    "size": "4.8 KiB",
+    "date": "21-Apr-2017 01:23"
+  },
+  {
+    "name": "opcode-field-defs.lisp.4",
+    "href": "opcode-field-defs.lisp.4",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-nubus/opcodes/opcode-field-defs.lisp.4",
+    "is_dir": false,
+    "size": "3.5 KiB",
+    "date": "21-Apr-2017 01:23"
+  },
+  {
+    "name": "opcode-field-values.lisp.2",
+    "href": "opcode-field-values.lisp.2",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-nubus/opcodes/opcode-field-values.lisp.2",
+    "is_dir": false,
+    "size": "1.1 KiB",
+    "date": "21-Apr-2017 01:23"
+  },
+  {
+    "name": "opcode-fields.lisp.10",
+    "href": "opcode-fields.lisp.10",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-nubus/opcodes/opcode-fields.lisp.10",
+    "is_dir": false,
+    "size": "7.5 KiB",
+    "date": "21-Apr-2017 01:23"
+  },
+  {
+    "name": "weitek-fp-opcodes.lisp.9",
+    "href": "weitek-fp-opcodes.lisp.9",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-nubus/opcodes/weitek-fp-opcodes.lisp.9",
+    "is_dir": false,
+    "size": "8.9 KiB",
+    "date": "21-Apr-2017 01:23"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "name": "pdp11",
+    "href": "pdp11/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/stdio/pdp11/",
+    "is_dir": true,
+    "size": null,
+    "date": "10-Mar-2006 08:08"
+  },
+  {
+    "name": "src",
+    "href": "src/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/stdio/src/",
+    "is_dir": true,
+    "size": null,
+    "date": "10-Mar-2006 08:08"
+  },
+  {
+    "name": "READ_ME",
+    "href": "READ_ME",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/stdio/READ_ME",
+    "is_dir": false,
+    "size": "252 B",
+    "date": "01-Aug-1978 08:10"
+  },
+  {
+    "name": "install",
+    "href": "install",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/stdio/install",
+    "is_dir": false,
+    "size": "42 B",
+    "date": "12-Nov-1978 17:27"
+  },
+  {
+    "name": "make",
+    "href": "make",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/stdio/make",
+    "is_dir": false,
+    "size": "44 B",
+    "date": "12-Nov-1978 17:27"
+  }
+]

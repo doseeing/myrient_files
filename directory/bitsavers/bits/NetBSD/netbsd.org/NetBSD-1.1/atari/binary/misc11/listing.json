@@ -1,0 +1,34 @@
+[
+  {
+    "name": "CKSUMS",
+    "href": "CKSUMS",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/atari/binary/misc11/CKSUMS",
+    "is_dir": false,
+    "size": "83 B",
+    "date": "21-Nov-1995 08:08"
+  },
+  {
+    "name": "misc11.aa",
+    "href": "misc11.aa",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/atari/binary/misc11/misc11.aa",
+    "is_dir": false,
+    "size": "720.0 KiB",
+    "date": "21-Nov-1995 08:08"
+  },
+  {
+    "name": "misc11.ab",
+    "href": "misc11.ab",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/atari/binary/misc11/misc11.ab",
+    "is_dir": false,
+    "size": "720.0 KiB",
+    "date": "21-Nov-1995 08:08"
+  },
+  {
+    "name": "misc11.ac",
+    "href": "misc11.ac",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/atari/binary/misc11/misc11.ac",
+    "is_dir": false,
+    "size": "416.9 KiB",
+    "date": "21-Nov-1995 08:08"
+  }
+]

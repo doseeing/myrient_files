@@ -1,0 +1,130 @@
+[
+  {
+    "name": "BSDSUM",
+    "href": "BSDSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/x68k/installation/misc/BSDSUM",
+    "is_dir": false,
+    "size": "227 B",
+    "date": "07-Mar-2000 10:10"
+  },
+  {
+    "name": "CKSUM",
+    "href": "CKSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/x68k/installation/misc/CKSUM",
+    "is_dir": false,
+    "size": "320 B",
+    "date": "07-Mar-2000 10:10"
+  },
+  {
+    "name": "MD5",
+    "href": "MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/x68k/installation/misc/MD5",
+    "is_dir": false,
+    "size": "613 B",
+    "date": "07-Mar-2000 10:10"
+  },
+  {
+    "name": "README",
+    "href": "README",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/x68k/installation/misc/README",
+    "is_dir": false,
+    "size": "372 B",
+    "date": "07-Mar-2000 10:09"
+  },
+  {
+    "name": "SYSVSUM",
+    "href": "SYSVSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/x68k/installation/misc/SYSVSUM",
+    "is_dir": false,
+    "size": "229 B",
+    "date": "07-Mar-2000 10:10"
+  },
+  {
+    "name": "gz124x5f.lzh",
+    "href": "gz124x5f.lzh",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/x68k/installation/misc/gz124x5f.lzh",
+    "is_dir": false,
+    "size": "157.5 KiB",
+    "date": "15-Jan-1995 09:00"
+  },
+  {
+    "name": "gzip.x",
+    "href": "gzip.x",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/x68k/installation/misc/gzip.x",
+    "is_dir": false,
+    "size": "99.3 KiB",
+    "date": "14-Feb-1999 04:37"
+  },
+  {
+    "name": "loadbsd.0",
+    "href": "loadbsd.0",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/x68k/installation/misc/loadbsd.0",
+    "is_dir": false,
+    "size": "2.7 KiB",
+    "date": "05-Mar-2000 12:12"
+  },
+  {
+    "name": "loadbsd.gz",
+    "href": "loadbsd.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/x68k/installation/misc/loadbsd.gz",
+    "is_dir": false,
+    "size": "4.7 KiB",
+    "date": "05-Mar-2000 12:18"
+  },
+  {
+    "name": "loadbsd.txt",
+    "href": "loadbsd.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/x68k/installation/misc/loadbsd.txt",
+    "is_dir": false,
+    "size": "2.4 KiB",
+    "date": "07-Mar-2000 10:08"
+  },
+  {
+    "name": "loadbsd.x",
+    "href": "loadbsd.x",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/x68k/installation/misc/loadbsd.x",
+    "is_dir": false,
+    "size": "7.9 KiB",
+    "date": "05-Mar-2000 12:18"
+  },
+  {
+    "name": "netbsd",
+    "href": "netbsd",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/x68k/installation/misc/netbsd",
+    "is_dir": false,
+    "size": "933.8 KiB",
+    "date": "06-Mar-2000 15:00"
+  },
+  {
+    "name": "netbsd.gz",
+    "href": "netbsd.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/x68k/installation/misc/netbsd.gz",
+    "is_dir": false,
+    "size": "933.8 KiB",
+    "date": "06-Mar-2000 15:00"
+  },
+  {
+    "name": "rawrite.doc",
+    "href": "rawrite.doc",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/x68k/installation/misc/rawrite.doc",
+    "is_dir": false,
+    "size": "206 B",
+    "date": "09-May-1999 23:26"
+  },
+  {
+    "name": "rawrite.lzh",
+    "href": "rawrite.lzh",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/x68k/installation/misc/rawrite.lzh",
+    "is_dir": false,
+    "size": "13.8 KiB",
+    "date": "14-Dec-1998 09:28"
+  },
+  {
+    "name": "rawrite.x",
+    "href": "rawrite.x",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/x68k/installation/misc/rawrite.x",
+    "is_dir": false,
+    "size": "22.6 KiB",
+    "date": "14-Dec-1998 09:28"
+  }
+]

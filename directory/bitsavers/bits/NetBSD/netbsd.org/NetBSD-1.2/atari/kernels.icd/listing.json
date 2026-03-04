@@ -1,0 +1,42 @@
+[
+  {
+    "name": "BOOT.icd.gz",
+    "href": "BOOT.icd.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/atari/kernels.icd/BOOT.icd.gz",
+    "is_dir": false,
+    "size": "344.7 KiB",
+    "date": "03-Oct-1996 06:51"
+  },
+  {
+    "name": "BOOTX.icd.gz",
+    "href": "BOOTX.icd.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/atari/kernels.icd/BOOTX.icd.gz",
+    "is_dir": false,
+    "size": "345.7 KiB",
+    "date": "07-Oct-1996 06:50"
+  },
+  {
+    "name": "CKSUMS",
+    "href": "CKSUMS",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/atari/kernels.icd/CKSUMS",
+    "is_dir": false,
+    "size": "115 B",
+    "date": "07-Oct-1996 06:55"
+  },
+  {
+    "name": "GENERIC.icd.gz",
+    "href": "GENERIC.icd.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/atari/kernels.icd/GENERIC.icd.gz",
+    "is_dir": false,
+    "size": "444.0 KiB",
+    "date": "07-Oct-1996 06:53"
+  },
+  {
+    "name": "README",
+    "href": "README",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/atari/kernels.icd/README",
+    "is_dir": false,
+    "size": "378 B",
+    "date": "03-Oct-1996 07:07"
+  }
+]

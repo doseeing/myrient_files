@@ -1,0 +1,74 @@
+[
+  {
+    "name": "binary",
+    "href": "binary/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/sun3/binary/",
+    "is_dir": true,
+    "size": null,
+    "date": "30-Sep-2023 17:20"
+  },
+  {
+    "name": "installation",
+    "href": "installation/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/sun3/installation/",
+    "is_dir": true,
+    "size": null,
+    "date": "30-Sep-2023 17:20"
+  },
+  {
+    "name": "BSDSUM",
+    "href": "BSDSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/sun3/BSDSUM",
+    "is_dir": false,
+    "size": "54 B",
+    "date": "23-Mar-1998 22:51"
+  },
+  {
+    "name": "CKSUM",
+    "href": "CKSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/sun3/CKSUM",
+    "is_dir": false,
+    "size": "75 B",
+    "date": "23-Mar-1998 22:51"
+  },
+  {
+    "name": "INSTALL",
+    "href": "INSTALL",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/sun3/INSTALL",
+    "is_dir": false,
+    "size": "53.5 KiB",
+    "date": "23-Mar-1998 22:34"
+  },
+  {
+    "name": "MD5",
+    "href": "MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/sun3/MD5",
+    "is_dir": false,
+    "size": "151 B",
+    "date": "23-Mar-1998 22:51"
+  },
+  {
+    "name": "PATCHES",
+    "href": "PATCHES",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/sun3/PATCHES",
+    "is_dir": false,
+    "size": "10.0 KiB",
+    "date": "23-Mar-1998 22:42"
+  },
+  {
+    "name": "SOURCE_DATE",
+    "href": "SOURCE_DATE",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/sun3/SOURCE_DATE",
+    "is_dir": false,
+    "size": "29 B",
+    "date": "14-Mar-1998 18:58"
+  },
+  {
+    "name": "SYSVSUM",
+    "href": "SYSVSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/sun3/SYSVSUM",
+    "is_dir": false,
+    "size": "53 B",
+    "date": "23-Mar-1998 22:51"
+  }
+]

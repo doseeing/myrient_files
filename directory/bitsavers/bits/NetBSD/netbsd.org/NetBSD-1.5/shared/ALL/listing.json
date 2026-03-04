@@ -1,0 +1,58 @@
+[
+  {
+    "name": "BSDSUM",
+    "href": "BSDSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/shared/ALL/BSDSUM",
+    "is_dir": false,
+    "size": "60 B",
+    "date": "17-Nov-2000 21:26"
+  },
+  {
+    "name": "CKSUM",
+    "href": "CKSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/shared/ALL/CKSUM",
+    "is_dir": false,
+    "size": "84 B",
+    "date": "17-Nov-2000 21:26"
+  },
+  {
+    "name": "MD5",
+    "href": "MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/shared/ALL/MD5",
+    "is_dir": false,
+    "size": "150 B",
+    "date": "17-Nov-2000 21:26"
+  },
+  {
+    "name": "SYSVSUM",
+    "href": "SYSVSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/shared/ALL/SYSVSUM",
+    "is_dir": false,
+    "size": "62 B",
+    "date": "17-Nov-2000 21:26"
+  },
+  {
+    "name": "man.tgz",
+    "href": "man.tgz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/shared/ALL/man.tgz",
+    "is_dir": false,
+    "size": "5.4 MiB",
+    "date": "17-Nov-2000 14:33"
+  },
+  {
+    "name": "misc.tgz",
+    "href": "misc.tgz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/shared/ALL/misc.tgz",
+    "is_dir": false,
+    "size": "2.1 MiB",
+    "date": "17-Nov-2000 14:34"
+  },
+  {
+    "name": "xfont.tgz",
+    "href": "xfont.tgz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/shared/ALL/xfont.tgz",
+    "is_dir": false,
+    "size": "5.9 MiB",
+    "date": "17-Nov-2000 14:34"
+  }
+]

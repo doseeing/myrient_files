@@ -1,0 +1,98 @@
+[
+  {
+    "name": "binary",
+    "href": "binary/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/atari/binary/",
+    "is_dir": true,
+    "size": null,
+    "date": "01-Oct-2023 18:33"
+  },
+  {
+    "name": "installation",
+    "href": "installation/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/atari/installation/",
+    "is_dir": true,
+    "size": null,
+    "date": "01-Oct-2023 18:33"
+  },
+  {
+    "name": "misc",
+    "href": "misc/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/atari/misc/",
+    "is_dir": true,
+    "size": null,
+    "date": "01-Oct-2023 18:33"
+  },
+  {
+    "name": "BSDSUM",
+    "href": "BSDSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/atari/BSDSUM",
+    "is_dir": false,
+    "size": "104 B",
+    "date": "10-Apr-2000 12:46"
+  },
+  {
+    "name": "CKSUM",
+    "href": "CKSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/atari/CKSUM",
+    "is_dir": false,
+    "size": "144 B",
+    "date": "10-Apr-2000 12:46"
+  },
+  {
+    "name": "INSTALL.html",
+    "href": "INSTALL.html",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/atari/INSTALL.html",
+    "is_dir": false,
+    "size": "90.4 KiB",
+    "date": "15-Mar-2000 14:32"
+  },
+  {
+    "name": "INSTALL.more",
+    "href": "INSTALL.more",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/atari/INSTALL.more",
+    "is_dir": false,
+    "size": "86.9 KiB",
+    "date": "15-Mar-2000 14:32"
+  },
+  {
+    "name": "INSTALL.ps",
+    "href": "INSTALL.ps",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/atari/INSTALL.ps",
+    "is_dir": false,
+    "size": "136.0 KiB",
+    "date": "15-Mar-2000 14:32"
+  },
+  {
+    "name": "INSTALL.txt",
+    "href": "INSTALL.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/atari/INSTALL.txt",
+    "is_dir": false,
+    "size": "82.3 KiB",
+    "date": "15-Mar-2000 14:32"
+  },
+  {
+    "name": "MD5",
+    "href": "MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/atari/MD5",
+    "is_dir": false,
+    "size": "265 B",
+    "date": "10-Apr-2000 12:46"
+  },
+  {
+    "name": "README.X11",
+    "href": "README.X11",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/atari/README.X11",
+    "is_dir": false,
+    "size": "271 B",
+    "date": "10-Apr-2000 12:28"
+  },
+  {
+    "name": "SYSVSUM",
+    "href": "SYSVSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/atari/SYSVSUM",
+    "is_dir": false,
+    "size": "106 B",
+    "date": "10-Apr-2000 12:46"
+  }
+]

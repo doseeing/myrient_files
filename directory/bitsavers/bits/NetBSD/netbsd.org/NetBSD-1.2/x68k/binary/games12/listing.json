@@ -1,0 +1,34 @@
+[
+  {
+    "name": "CKSUMS",
+    "href": "CKSUMS",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/x68k/binary/games12/CKSUMS",
+    "is_dir": false,
+    "size": "89 B",
+    "date": "24-Sep-1996 02:32"
+  },
+  {
+    "name": "games12.aa",
+    "href": "games12.aa",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/x68k/binary/games12/games12.aa",
+    "is_dir": false,
+    "size": "1.2 MiB",
+    "date": "24-Sep-1996 02:32"
+  },
+  {
+    "name": "games12.ab",
+    "href": "games12.ab",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/x68k/binary/games12/games12.ab",
+    "is_dir": false,
+    "size": "1.2 MiB",
+    "date": "24-Sep-1996 02:32"
+  },
+  {
+    "name": "games12.ac",
+    "href": "games12.ac",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/x68k/binary/games12/games12.ac",
+    "is_dir": false,
+    "size": "382.9 KiB",
+    "date": "24-Sep-1996 02:32"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "name": "CKSUMS",
+    "href": "CKSUMS",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/i386/binary/Tarfiles/CKSUMS",
+    "is_dir": false,
+    "size": "223 B",
+    "date": "26-Nov-1995 20:29"
+  },
+  {
+    "name": "base11.tar.gz",
+    "href": "base11.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/i386/binary/Tarfiles/base11.tar.gz",
+    "is_dir": false,
+    "size": "7.2 MiB",
+    "date": "26-Nov-1995 20:25"
+  },
+  {
+    "name": "comp11.tar.gz",
+    "href": "comp11.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/i386/binary/Tarfiles/comp11.tar.gz",
+    "is_dir": false,
+    "size": "4.7 MiB",
+    "date": "25-Nov-1995 08:07"
+  },
+  {
+    "name": "etc11.tar.gz",
+    "href": "etc11.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/i386/binary/Tarfiles/etc11.tar.gz",
+    "is_dir": false,
+    "size": "61.6 KiB",
+    "date": "25-Nov-1995 08:08"
+  },
+  {
+    "name": "games11.tar.gz",
+    "href": "games11.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/i386/binary/Tarfiles/games11.tar.gz",
+    "is_dir": false,
+    "size": "2.7 MiB",
+    "date": "25-Nov-1995 08:30"
+  },
+  {
+    "name": "man11.tar.gz",
+    "href": "man11.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/i386/binary/Tarfiles/man11.tar.gz",
+    "is_dir": false,
+    "size": "824.6 KiB",
+    "date": "25-Nov-1995 09:06"
+  },
+  {
+    "name": "misc11.tar.gz",
+    "href": "misc11.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/i386/binary/Tarfiles/misc11.tar.gz",
+    "is_dir": false,
+    "size": "1.8 MiB",
+    "date": "25-Nov-1995 09:21"
+  },
+  {
+    "name": "text11.tar.gz",
+    "href": "text11.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/i386/binary/Tarfiles/text11.tar.gz",
+    "is_dir": false,
+    "size": "761.1 KiB",
+    "date": "25-Nov-1995 09:39"
+  }
+]

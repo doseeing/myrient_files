@@ -1,0 +1,138 @@
+[
+  {
+    "name": "CKSUMS",
+    "href": "CKSUMS",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.0/mac68k/binary/CKSUMS",
+    "is_dir": false,
+    "size": "438 B",
+    "date": "30-Oct-1994 01:23"
+  },
+  {
+    "name": "base10",
+    "href": "base10",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.0/mac68k/binary/base10",
+    "is_dir": false,
+    "size": "6.2 MiB",
+    "date": "30-Oct-1994 01:19"
+  },
+  {
+    "name": "base10.hqx",
+    "href": "base10.hqx",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.0/mac68k/binary/base10.hqx",
+    "is_dir": false,
+    "size": "8.4 MiB",
+    "date": "30-Oct-1994 01:20"
+  },
+  {
+    "name": "comp10",
+    "href": "comp10",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.0/mac68k/binary/comp10",
+    "is_dir": false,
+    "size": "4.0 MiB",
+    "date": "30-Oct-1994 01:21"
+  },
+  {
+    "name": "comp10.hqx",
+    "href": "comp10.hqx",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.0/mac68k/binary/comp10.hqx",
+    "is_dir": false,
+    "size": "5.5 MiB",
+    "date": "30-Oct-1994 01:22"
+  },
+  {
+    "name": "etc10",
+    "href": "etc10",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.0/mac68k/binary/etc10",
+    "is_dir": false,
+    "size": "49.7 KiB",
+    "date": "30-Oct-1994 01:22"
+  },
+  {
+    "name": "etc10.hqx",
+    "href": "etc10.hqx",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.0/mac68k/binary/etc10.hqx",
+    "is_dir": false,
+    "size": "67.6 KiB",
+    "date": "30-Oct-1994 01:22"
+  },
+  {
+    "name": "games10",
+    "href": "games10",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.0/mac68k/binary/games10",
+    "is_dir": false,
+    "size": "1.0 MiB",
+    "date": "30-Oct-1994 01:22"
+  },
+  {
+    "name": "games10.hqx",
+    "href": "games10.hqx",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.0/mac68k/binary/games10.hqx",
+    "is_dir": false,
+    "size": "1.4 MiB",
+    "date": "30-Oct-1994 01:22"
+  },
+  {
+    "name": "man10",
+    "href": "man10",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.0/mac68k/binary/man10",
+    "is_dir": false,
+    "size": "728.5 KiB",
+    "date": "30-Oct-1994 01:22"
+  },
+  {
+    "name": "man10.hqx",
+    "href": "man10.hqx",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.0/mac68k/binary/man10.hqx",
+    "is_dir": false,
+    "size": "990.4 KiB",
+    "date": "30-Oct-1994 01:22"
+  },
+  {
+    "name": "misc10",
+    "href": "misc10",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.0/mac68k/binary/misc10",
+    "is_dir": false,
+    "size": "1.6 MiB",
+    "date": "30-Oct-1994 01:22"
+  },
+  {
+    "name": "misc10.hqx",
+    "href": "misc10.hqx",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.0/mac68k/binary/misc10.hqx",
+    "is_dir": false,
+    "size": "2.2 MiB",
+    "date": "30-Oct-1994 01:23"
+  },
+  {
+    "name": "netbsd10",
+    "href": "netbsd10",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.0/mac68k/binary/netbsd10",
+    "is_dir": false,
+    "size": "306.9 KiB",
+    "date": "30-Oct-1994 01:23"
+  },
+  {
+    "name": "netbsd10.hqx",
+    "href": "netbsd10.hqx",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.0/mac68k/binary/netbsd10.hqx",
+    "is_dir": false,
+    "size": "417.2 KiB",
+    "date": "30-Oct-1994 01:23"
+  },
+  {
+    "name": "text10",
+    "href": "text10",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.0/mac68k/binary/text10",
+    "is_dir": false,
+    "size": "784.7 KiB",
+    "date": "30-Oct-1994 01:23"
+  },
+  {
+    "name": "text10.hqx",
+    "href": "text10.hqx",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.0/mac68k/binary/text10.hqx",
+    "is_dir": false,
+    "size": "1.0 MiB",
+    "date": "30-Oct-1994 01:23"
+  }
+]

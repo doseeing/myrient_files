@@ -1,0 +1,26 @@
+[
+  {
+    "name": "kbd_8051.bin",
+    "href": "kbd_8051.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/telex/terminal/keyboard/212694-001_122RX43S-40E_Hwell_5250_199511/firmware/kbd_8051.bin",
+    "is_dir": false,
+    "size": "4.0 KiB",
+    "date": "06-Feb-2022 01:57"
+  },
+  {
+    "name": "kbd_8051.hex",
+    "href": "kbd_8051.hex",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/telex/terminal/keyboard/212694-001_122RX43S-40E_Hwell_5250_199511/firmware/kbd_8051.hex",
+    "is_dir": false,
+    "size": "11.0 KiB",
+    "date": "06-Feb-2022 01:57"
+  },
+  {
+    "name": "kbd_93C46.bin",
+    "href": "kbd_93C46.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/telex/terminal/keyboard/212694-001_122RX43S-40E_Hwell_5250_199511/firmware/kbd_93C46.bin",
+    "is_dir": false,
+    "size": "128 B",
+    "date": "06-Feb-2022 01:57"
+  }
+]

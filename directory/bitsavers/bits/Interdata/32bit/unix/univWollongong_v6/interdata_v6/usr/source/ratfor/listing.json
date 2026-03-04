@@ -1,0 +1,50 @@
+[
+  {
+    "name": "lib",
+    "href": "lib/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/ratfor/lib/",
+    "is_dir": true,
+    "size": null,
+    "date": "10-Mar-2006 08:08"
+  },
+  {
+    "name": "ratinc",
+    "href": "ratinc/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/ratfor/ratinc/",
+    "is_dir": true,
+    "size": null,
+    "date": "10-Mar-2006 08:08"
+  },
+  {
+    "name": "READ_ME",
+    "href": "READ_ME",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/ratfor/READ_ME",
+    "is_dir": false,
+    "size": "286 B",
+    "date": "13-Nov-1978 15:50"
+  },
+  {
+    "name": "install",
+    "href": "install",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/ratfor/install",
+    "is_dir": false,
+    "size": "114 B",
+    "date": "13-Nov-1978 14:57"
+  },
+  {
+    "name": "make",
+    "href": "make",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/ratfor/make",
+    "is_dir": false,
+    "size": "171 B",
+    "date": "13-Nov-1978 14:56"
+  },
+  {
+    "name": "rc.c",
+    "href": "rc.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/ratfor/rc.c",
+    "is_dir": false,
+    "size": "4.8 KiB",
+    "date": "12-Jun-1978 16:32"
+  }
+]

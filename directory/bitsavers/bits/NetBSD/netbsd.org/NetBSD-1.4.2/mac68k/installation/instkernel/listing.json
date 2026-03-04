@@ -1,0 +1,50 @@
+[
+  {
+    "name": "BSDSUM",
+    "href": "BSDSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/mac68k/installation/instkernel/BSDSUM",
+    "is_dir": false,
+    "size": "61 B",
+    "date": "04-Mar-2000 18:40"
+  },
+  {
+    "name": "CKSUM",
+    "href": "CKSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/mac68k/installation/instkernel/CKSUM",
+    "is_dir": false,
+    "size": "77 B",
+    "date": "04-Mar-2000 18:40"
+  },
+  {
+    "name": "MD5",
+    "href": "MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/mac68k/installation/instkernel/MD5",
+    "is_dir": false,
+    "size": "121 B",
+    "date": "04-Mar-2000 18:40"
+  },
+  {
+    "name": "SYSVSUM",
+    "href": "SYSVSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/mac68k/installation/instkernel/SYSVSUM",
+    "is_dir": false,
+    "size": "61 B",
+    "date": "04-Mar-2000 18:40"
+  },
+  {
+    "name": "netbsd-INSTALL.gz",
+    "href": "netbsd-INSTALL.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/mac68k/installation/instkernel/netbsd-INSTALL.gz",
+    "is_dir": false,
+    "size": "1.1 MiB",
+    "date": "04-Mar-2000 18:40"
+  },
+  {
+    "name": "netbsd-INSTALLSBC.gz",
+    "href": "netbsd-INSTALLSBC.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/mac68k/installation/instkernel/netbsd-INSTALLSBC.gz",
+    "is_dir": false,
+    "size": "1.1 MiB",
+    "date": "04-Mar-2000 18:40"
+  }
+]

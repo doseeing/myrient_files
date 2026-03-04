@@ -1,0 +1,66 @@
+[
+  {
+    "name": "CKSUMS",
+    "href": "CKSUMS",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2.1/atari/binary/CKSUMS",
+    "is_dir": false,
+    "size": "208 B",
+    "date": "15-Apr-1997 12:53"
+  },
+  {
+    "name": "base.tar.gz",
+    "href": "base.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2.1/atari/binary/base.tar.gz",
+    "is_dir": false,
+    "size": "7.3 MiB",
+    "date": "15-Apr-1997 12:51"
+  },
+  {
+    "name": "comp.tar.gz",
+    "href": "comp.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2.1/atari/binary/comp.tar.gz",
+    "is_dir": false,
+    "size": "5.1 MiB",
+    "date": "15-Apr-1997 12:51"
+  },
+  {
+    "name": "etc.tar.gz",
+    "href": "etc.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2.1/atari/binary/etc.tar.gz",
+    "is_dir": false,
+    "size": "67.2 KiB",
+    "date": "15-Apr-1997 12:51"
+  },
+  {
+    "name": "games.tar.gz",
+    "href": "games.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2.1/atari/binary/games.tar.gz",
+    "is_dir": false,
+    "size": "2.7 MiB",
+    "date": "15-Apr-1997 12:51"
+  },
+  {
+    "name": "man.tar.gz",
+    "href": "man.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2.1/atari/binary/man.tar.gz",
+    "is_dir": false,
+    "size": "879.8 KiB",
+    "date": "15-Apr-1997 12:51"
+  },
+  {
+    "name": "misc.tar.gz",
+    "href": "misc.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2.1/atari/binary/misc.tar.gz",
+    "is_dir": false,
+    "size": "1.8 MiB",
+    "date": "15-Apr-1997 12:51"
+  },
+  {
+    "name": "text.tar.gz",
+    "href": "text.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2.1/atari/binary/text.tar.gz",
+    "is_dir": false,
+    "size": "762.1 KiB",
+    "date": "15-Apr-1997 12:51"
+  }
+]

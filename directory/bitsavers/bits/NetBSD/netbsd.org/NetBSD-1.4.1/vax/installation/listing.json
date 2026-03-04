@@ -1,0 +1,26 @@
+[
+  {
+    "name": "bootfs",
+    "href": "bootfs/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/vax/installation/bootfs/",
+    "is_dir": true,
+    "size": null,
+    "date": "01-Oct-2023 18:33"
+  },
+  {
+    "name": "netboot",
+    "href": "netboot/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/vax/installation/netboot/",
+    "is_dir": true,
+    "size": null,
+    "date": "01-Oct-2023 18:33"
+  },
+  {
+    "name": "README.files",
+    "href": "README.files",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/vax/installation/README.files",
+    "is_dir": false,
+    "size": "612 B",
+    "date": "18-Aug-1999 19:48"
+  }
+]

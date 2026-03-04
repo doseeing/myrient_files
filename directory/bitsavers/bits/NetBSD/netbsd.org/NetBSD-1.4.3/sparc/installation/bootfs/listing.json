@@ -1,0 +1,18 @@
+[
+  {
+    "name": "boot-143.fs.gz",
+    "href": "boot-143.fs.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/sparc/installation/bootfs/boot-143.fs.gz",
+    "is_dir": false,
+    "size": "1.2 MiB",
+    "date": "02-Nov-2000 10:10"
+  },
+  {
+    "name": "syboot-143.fs.gz",
+    "href": "syboot-143.fs.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/sparc/installation/bootfs/syboot-143.fs.gz",
+    "is_dir": false,
+    "size": "1.2 MiB",
+    "date": "02-Nov-2000 10:11"
+  }
+]

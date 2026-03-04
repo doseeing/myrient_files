@@ -1,0 +1,50 @@
+[
+  {
+    "name": "CKSUMS",
+    "href": "CKSUMS",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2.1/x68k/binary/comp121/CKSUMS",
+    "is_dir": false,
+    "size": "144 B",
+    "date": "22-Mar-1997 01:56"
+  },
+  {
+    "name": "comp121aa",
+    "href": "comp121aa",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2.1/x68k/binary/comp121/comp121aa",
+    "is_dir": false,
+    "size": "1.2 MiB",
+    "date": "22-Mar-1997 01:55"
+  },
+  {
+    "name": "comp121ab",
+    "href": "comp121ab",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2.1/x68k/binary/comp121/comp121ab",
+    "is_dir": false,
+    "size": "1.2 MiB",
+    "date": "22-Mar-1997 01:55"
+  },
+  {
+    "name": "comp121ac",
+    "href": "comp121ac",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2.1/x68k/binary/comp121/comp121ac",
+    "is_dir": false,
+    "size": "1.2 MiB",
+    "date": "22-Mar-1997 01:55"
+  },
+  {
+    "name": "comp121ad",
+    "href": "comp121ad",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2.1/x68k/binary/comp121/comp121ad",
+    "is_dir": false,
+    "size": "1.2 MiB",
+    "date": "22-Mar-1997 01:55"
+  },
+  {
+    "name": "comp121ae",
+    "href": "comp121ae",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2.1/x68k/binary/comp121/comp121ae",
+    "is_dir": false,
+    "size": "420.7 KiB",
+    "date": "22-Mar-1997 01:55"
+  }
+]

@@ -1,0 +1,666 @@
+[
+  {
+    "name": "dec-08-afa2-pb.bin",
+    "href": "dec-08-afa2-pb.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/papertapeImages/set8_20040316/tray3/dec-08-afa2-pb.bin",
+    "is_dir": false,
+    "size": "1.2 KiB",
+    "date": "17-Mar-2004 03:49"
+  },
+  {
+    "name": "dec-08-afc1-pb.bin",
+    "href": "dec-08-afc1-pb.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/papertapeImages/set8_20040316/tray3/dec-08-afc1-pb.bin",
+    "is_dir": false,
+    "size": "6.6 KiB",
+    "date": "17-Mar-2004 03:50"
+  },
+  {
+    "name": "dec-08-afc3-pb.bin",
+    "href": "dec-08-afc3-pb.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/papertapeImages/set8_20040316/tray3/dec-08-afc3-pb.bin",
+    "is_dir": false,
+    "size": "6.3 KiB",
+    "date": "17-Mar-2004 03:54"
+  },
+  {
+    "name": "dec-08-ajab-pb.bin",
+    "href": "dec-08-ajab-pb.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/papertapeImages/set8_20040316/tray3/dec-08-ajab-pb.bin",
+    "is_dir": false,
+    "size": "8.2 KiB",
+    "date": "17-Mar-2004 03:45"
+  },
+  {
+    "name": "dec-08-asb1-pb.bin",
+    "href": "dec-08-asb1-pb.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/papertapeImages/set8_20040316/tray3/dec-08-asb1-pb.bin",
+    "is_dir": false,
+    "size": "3.4 KiB",
+    "date": "17-Mar-2004 04:03"
+  },
+  {
+    "name": "dec-08-asb2-pa-ascii.txt",
+    "href": "dec-08-asb2-pa-ascii.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/papertapeImages/set8_20040316/tray3/dec-08-asb2-pa-ascii.txt",
+    "is_dir": false,
+    "size": "3.4 KiB",
+    "date": "17-Mar-2004 03:51"
+  },
+  {
+    "name": "dec-08-c0c1-pb.bin",
+    "href": "dec-08-c0c1-pb.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/papertapeImages/set8_20040316/tray3/dec-08-c0c1-pb.bin",
+    "is_dir": false,
+    "size": "1.1 KiB",
+    "date": "17-Mar-2004 03:53"
+  },
+  {
+    "name": "dec-08-cma1-pb.bin",
+    "href": "dec-08-cma1-pb.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/papertapeImages/set8_20040316/tray3/dec-08-cma1-pb.bin",
+    "is_dir": false,
+    "size": "6.8 KiB",
+    "date": "17-Mar-2004 04:02"
+  },
+  {
+    "name": "dec-08-esab-pb.bin",
+    "href": "dec-08-esab-pb.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/papertapeImages/set8_20040316/tray3/dec-08-esab-pb.bin",
+    "is_dir": false,
+    "size": "2.3 KiB",
+    "date": "17-Mar-2004 04:03"
+  },
+  {
+    "name": "dec-08-yq1a-pb.bin",
+    "href": "dec-08-yq1a-pb.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/papertapeImages/set8_20040316/tray3/dec-08-yq1a-pb.bin",
+    "is_dir": false,
+    "size": "3.1 KiB",
+    "date": "17-Mar-2004 03:55"
+  },
+  {
+    "name": "dec-08-yq2a-pb.bin",
+    "href": "dec-08-yq2a-pb.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/papertapeImages/set8_20040316/tray3/dec-08-yq2a-pb.bin",
+    "is_dir": false,
+    "size": "3.2 KiB",
+    "date": "17-Mar-2004 03:56"
+  },
+  {
+    "name": "dec-08-yq3a-pb.bin",
+    "href": "dec-08-yq3a-pb.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/papertapeImages/set8_20040316/tray3/dec-08-yq3a-pb.bin",
+    "is_dir": false,
+    "size": "3.8 KiB",
+    "date": "17-Mar-2004 05:09"
+  },
+  {
+    "name": "dec-08-yq4a-pb.bin",
+    "href": "dec-08-yq4a-pb.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/papertapeImages/set8_20040316/tray3/dec-08-yq4a-pb.bin",
+    "is_dir": false,
+    "size": "4.0 KiB",
+    "date": "17-Mar-2004 03:58"
+  },
+  {
+    "name": "dec-d8-afa1-pb.bin",
+    "href": "dec-d8-afa1-pb.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/papertapeImages/set8_20040316/tray3/dec-d8-afa1-pb.bin",
+    "is_dir": false,
+    "size": "2.3 KiB",
+    "date": "17-Mar-2004 03:47"
+  },
+  {
+    "name": "dec-d8-afa2-pb.bin",
+    "href": "dec-d8-afa2-pb.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/papertapeImages/set8_20040316/tray3/dec-d8-afa2-pb.bin",
+    "is_dir": false,
+    "size": "6.0 KiB",
+    "date": "17-Mar-2004 03:52"
+  },
+  {
+    "name": "dec-d8-afa3-pb.bin",
+    "href": "dec-d8-afa3-pb.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/papertapeImages/set8_20040316/tray3/dec-d8-afa3-pb.bin",
+    "is_dir": false,
+    "size": "2.3 KiB",
+    "date": "17-Mar-2004 03:48"
+  },
+  {
+    "name": "dec-d8-afa4-pb.bin",
+    "href": "dec-d8-afa4-pb.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/papertapeImages/set8_20040316/tray3/dec-d8-afa4-pb.bin",
+    "is_dir": false,
+    "size": "6.0 KiB",
+    "date": "17-Mar-2004 03:44"
+  },
+  {
+    "name": "dec-d8-afa5-pb.bin",
+    "href": "dec-d8-afa5-pb.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/papertapeImages/set8_20040316/tray3/dec-d8-afa5-pb.bin",
+    "is_dir": false,
+    "size": "809 B",
+    "date": "17-Mar-2004 03:46"
+  },
+  {
+    "name": "dec-d8-afa6-pb.bin",
+    "href": "dec-d8-afa6-pb.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/papertapeImages/set8_20040316/tray3/dec-d8-afa6-pb.bin",
+    "is_dir": false,
+    "size": "1.3 KiB",
+    "date": "17-Mar-2004 03:48"
+  },
+  {
+    "name": "dec-d8-asa-pb.bin",
+    "href": "dec-d8-asa-pb.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/papertapeImages/set8_20040316/tray3/dec-d8-asa-pb.bin",
+    "is_dir": false,
+    "size": "5.9 KiB",
+    "date": "17-Mar-2004 04:01"
+  },
+  {
+    "name": "decus_5-1.1.bin",
+    "href": "decus_5-1.1.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/papertapeImages/set8_20040316/tray3/decus_5-1.1.bin",
+    "is_dir": false,
+    "size": "915 B",
+    "date": "17-Mar-2004 04:42"
+  },
+  {
+    "name": "decus_5-11.bin",
+    "href": "decus_5-11.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/papertapeImages/set8_20040316/tray3/decus_5-11.bin",
+    "is_dir": false,
+    "size": "1.3 KiB",
+    "date": "17-Mar-2004 05:47"
+  },
+  {
+    "name": "decus_5-12.bin",
+    "href": "decus_5-12.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/papertapeImages/set8_20040316/tray3/decus_5-12.bin",
+    "is_dir": false,
+    "size": "1002 B",
+    "date": "17-Mar-2004 05:57"
+  },
+  {
+    "name": "decus_5-14.bin",
+    "href": "decus_5-14.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/papertapeImages/set8_20040316/tray3/decus_5-14.bin",
+    "is_dir": false,
+    "size": "1.9 KiB",
+    "date": "17-Mar-2004 05:15"
+  },
+  {
+    "name": "decus_5-16.bin",
+    "href": "decus_5-16.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/papertapeImages/set8_20040316/tray3/decus_5-16.bin",
+    "is_dir": false,
+    "size": "1.7 KiB",
+    "date": "17-Mar-2004 04:52"
+  },
+  {
+    "name": "decus_5-18b.bin",
+    "href": "decus_5-18b.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/papertapeImages/set8_20040316/tray3/decus_5-18b.bin",
+    "is_dir": false,
+    "size": "2.1 KiB",
+    "date": "17-Mar-2004 05:28"
+  },
+  {
+    "name": "decus_5-2.1.bin",
+    "href": "decus_5-2.1.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/papertapeImages/set8_20040316/tray3/decus_5-2.1.bin",
+    "is_dir": false,
+    "size": "1.8 KiB",
+    "date": "17-Mar-2004 04:19"
+  },
+  {
+    "name": "decus_5-20.bin",
+    "href": "decus_5-20.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/papertapeImages/set8_20040316/tray3/decus_5-20.bin",
+    "is_dir": false,
+    "size": "574 B",
+    "date": "17-Mar-2004 06:01"
+  },
+  {
+    "name": "decus_5-21.bin",
+    "href": "decus_5-21.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/papertapeImages/set8_20040316/tray3/decus_5-21.bin",
+    "is_dir": false,
+    "size": "857 B",
+    "date": "17-Mar-2004 05:59"
+  },
+  {
+    "name": "decus_5-22.bin",
+    "href": "decus_5-22.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/papertapeImages/set8_20040316/tray3/decus_5-22.bin",
+    "is_dir": false,
+    "size": "456 B",
+    "date": "17-Mar-2004 06:00"
+  },
+  {
+    "name": "decus_5-26.bin",
+    "href": "decus_5-26.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/papertapeImages/set8_20040316/tray3/decus_5-26.bin",
+    "is_dir": false,
+    "size": "2.7 KiB",
+    "date": "17-Mar-2004 04:22"
+  },
+  {
+    "name": "decus_5-27.bin",
+    "href": "decus_5-27.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/papertapeImages/set8_20040316/tray3/decus_5-27.bin",
+    "is_dir": false,
+    "size": "471 B",
+    "date": "17-Mar-2004 04:13"
+  },
+  {
+    "name": "decus_5-3.bin",
+    "href": "decus_5-3.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/papertapeImages/set8_20040316/tray3/decus_5-3.bin",
+    "is_dir": false,
+    "size": "2.1 KiB",
+    "date": "17-Mar-2004 04:31"
+  },
+  {
+    "name": "decus_5-30.bin",
+    "href": "decus_5-30.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/papertapeImages/set8_20040316/tray3/decus_5-30.bin",
+    "is_dir": false,
+    "size": "980 B",
+    "date": "17-Mar-2004 04:50"
+  },
+  {
+    "name": "decus_5-34_bin",
+    "href": "decus_5-34_bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/papertapeImages/set8_20040316/tray3/decus_5-34_bin",
+    "is_dir": false,
+    "size": "419 B",
+    "date": "17-Mar-2004 04:36"
+  },
+  {
+    "name": "decus_5-36.bin",
+    "href": "decus_5-36.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/papertapeImages/set8_20040316/tray3/decus_5-36.bin",
+    "is_dir": false,
+    "size": "533 B",
+    "date": "17-Mar-2004 04:19"
+  },
+  {
+    "name": "decus_5-38.bin",
+    "href": "decus_5-38.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/papertapeImages/set8_20040316/tray3/decus_5-38.bin",
+    "is_dir": false,
+    "size": "482 B",
+    "date": "17-Mar-2004 05:44"
+  },
+  {
+    "name": "decus_5-40.bin",
+    "href": "decus_5-40.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/papertapeImages/set8_20040316/tray3/decus_5-40.bin",
+    "is_dir": false,
+    "size": "456 B",
+    "date": "17-Mar-2004 05:48"
+  },
+  {
+    "name": "decus_5-41.bin",
+    "href": "decus_5-41.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/papertapeImages/set8_20040316/tray3/decus_5-41.bin",
+    "is_dir": false,
+    "size": "341 B",
+    "date": "17-Mar-2004 05:19"
+  },
+  {
+    "name": "decus_5-42.bin",
+    "href": "decus_5-42.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/papertapeImages/set8_20040316/tray3/decus_5-42.bin",
+    "is_dir": false,
+    "size": "463 B",
+    "date": "17-Mar-2004 04:26"
+  },
+  {
+    "name": "decus_5-46.bin",
+    "href": "decus_5-46.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/papertapeImages/set8_20040316/tray3/decus_5-46.bin",
+    "is_dir": false,
+    "size": "2.2 KiB",
+    "date": "17-Mar-2004 04:54"
+  },
+  {
+    "name": "decus_5-48.bin",
+    "href": "decus_5-48.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/papertapeImages/set8_20040316/tray3/decus_5-48.bin",
+    "is_dir": false,
+    "size": "752 B",
+    "date": "17-Mar-2004 05:46"
+  },
+  {
+    "name": "decus_5-50.bin",
+    "href": "decus_5-50.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/papertapeImages/set8_20040316/tray3/decus_5-50.bin",
+    "is_dir": false,
+    "size": "517 B",
+    "date": "17-Mar-2004 05:22"
+  },
+  {
+    "name": "decus_5-51.bin",
+    "href": "decus_5-51.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/papertapeImages/set8_20040316/tray3/decus_5-51.bin",
+    "is_dir": false,
+    "size": "413 B",
+    "date": "17-Mar-2004 05:10"
+  },
+  {
+    "name": "decus_5-8.bin",
+    "href": "decus_5-8.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/papertapeImages/set8_20040316/tray3/decus_5-8.bin",
+    "is_dir": false,
+    "size": "312 B",
+    "date": "17-Mar-2004 05:31"
+  },
+  {
+    "name": "decus_5-8a.bin",
+    "href": "decus_5-8a.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/papertapeImages/set8_20040316/tray3/decus_5-8a.bin",
+    "is_dir": false,
+    "size": "265 B",
+    "date": "17-Mar-2004 05:41"
+  },
+  {
+    "name": "decus_5-9.bin",
+    "href": "decus_5-9.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/papertapeImages/set8_20040316/tray3/decus_5-9.bin",
+    "is_dir": false,
+    "size": "1.9 KiB",
+    "date": "17-Mar-2004 04:48"
+  },
+  {
+    "name": "decus_8-105.bin",
+    "href": "decus_8-105.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/papertapeImages/set8_20040316/tray3/decus_8-105.bin",
+    "is_dir": false,
+    "size": "1.2 KiB",
+    "date": "17-Mar-2004 04:49"
+  },
+  {
+    "name": "decus_8-110.bin",
+    "href": "decus_8-110.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/papertapeImages/set8_20040316/tray3/decus_8-110.bin",
+    "is_dir": false,
+    "size": "985 B",
+    "date": "17-Mar-2004 05:24"
+  },
+  {
+    "name": "decus_8-120.bin",
+    "href": "decus_8-120.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/papertapeImages/set8_20040316/tray3/decus_8-120.bin",
+    "is_dir": false,
+    "size": "1.7 KiB",
+    "date": "17-Mar-2004 06:02"
+  },
+  {
+    "name": "decus_8-26a.bin",
+    "href": "decus_8-26a.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/papertapeImages/set8_20040316/tray3/decus_8-26a.bin",
+    "is_dir": false,
+    "size": "746 B",
+    "date": "17-Mar-2004 05:32"
+  },
+  {
+    "name": "decus_8-26b.bin",
+    "href": "decus_8-26b.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/papertapeImages/set8_20040316/tray3/decus_8-26b.bin",
+    "is_dir": false,
+    "size": "725 B",
+    "date": "17-Mar-2004 05:43"
+  },
+  {
+    "name": "decus_8-26c.bin",
+    "href": "decus_8-26c.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/papertapeImages/set8_20040316/tray3/decus_8-26c.bin",
+    "is_dir": false,
+    "size": "693 B",
+    "date": "17-Mar-2004 05:58"
+  },
+  {
+    "name": "decus_8-26d.bin",
+    "href": "decus_8-26d.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/papertapeImages/set8_20040316/tray3/decus_8-26d.bin",
+    "is_dir": false,
+    "size": "714 B",
+    "date": "17-Mar-2004 05:52"
+  },
+  {
+    "name": "decus_8-29.bin",
+    "href": "decus_8-29.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/papertapeImages/set8_20040316/tray3/decus_8-29.bin",
+    "is_dir": false,
+    "size": "241 B",
+    "date": "17-Mar-2004 05:35"
+  },
+  {
+    "name": "decus_8-44.bin",
+    "href": "decus_8-44.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/papertapeImages/set8_20040316/tray3/decus_8-44.bin",
+    "is_dir": false,
+    "size": "650 B",
+    "date": "17-Mar-2004 05:20"
+  },
+  {
+    "name": "decus_8-47.bin",
+    "href": "decus_8-47.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/papertapeImages/set8_20040316/tray3/decus_8-47.bin",
+    "is_dir": false,
+    "size": "587 B",
+    "date": "17-Mar-2004 05:56"
+  },
+  {
+    "name": "decus_8-52.bin",
+    "href": "decus_8-52.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/papertapeImages/set8_20040316/tray3/decus_8-52.bin",
+    "is_dir": false,
+    "size": "762 B",
+    "date": "17-Mar-2004 05:25"
+  },
+  {
+    "name": "decus_8-65.bin",
+    "href": "decus_8-65.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/papertapeImages/set8_20040316/tray3/decus_8-65.bin",
+    "is_dir": false,
+    "size": "2.5 KiB",
+    "date": "17-Mar-2004 04:44"
+  },
+  {
+    "name": "decus_8-66.bin",
+    "href": "decus_8-66.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/papertapeImages/set8_20040316/tray3/decus_8-66.bin",
+    "is_dir": false,
+    "size": "1.4 KiB",
+    "date": "17-Mar-2004 04:24"
+  },
+  {
+    "name": "decus_8-67.bin",
+    "href": "decus_8-67.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/papertapeImages/set8_20040316/tray3/decus_8-67.bin",
+    "is_dir": false,
+    "size": "1.0 KiB",
+    "date": "17-Mar-2004 05:38"
+  },
+  {
+    "name": "decus_8-71.bin",
+    "href": "decus_8-71.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/papertapeImages/set8_20040316/tray3/decus_8-71.bin",
+    "is_dir": false,
+    "size": "1.7 KiB",
+    "date": "17-Mar-2004 05:40"
+  },
+  {
+    "name": "decus_8-72.txt",
+    "href": "decus_8-72.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/papertapeImages/set8_20040316/tray3/decus_8-72.txt",
+    "is_dir": false,
+    "size": "1.9 KiB",
+    "date": "17-Mar-2004 05:03"
+  },
+  {
+    "name": "decus_8-73.bin",
+    "href": "decus_8-73.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/papertapeImages/set8_20040316/tray3/decus_8-73.bin",
+    "is_dir": false,
+    "size": "2.0 KiB",
+    "date": "17-Mar-2004 05:06"
+  },
+  {
+    "name": "decus_8-74.bin",
+    "href": "decus_8-74.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/papertapeImages/set8_20040316/tray3/decus_8-74.bin",
+    "is_dir": false,
+    "size": "2.3 KiB",
+    "date": "17-Mar-2004 04:59"
+  },
+  {
+    "name": "decus_8-75.bin",
+    "href": "decus_8-75.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/papertapeImages/set8_20040316/tray3/decus_8-75.bin",
+    "is_dir": false,
+    "size": "1.6 KiB",
+    "date": "17-Mar-2004 05:27"
+  },
+  {
+    "name": "decus_8-76.bin",
+    "href": "decus_8-76.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/papertapeImages/set8_20040316/tray3/decus_8-76.bin",
+    "is_dir": false,
+    "size": "3.8 KiB",
+    "date": "17-Mar-2004 04:08"
+  },
+  {
+    "name": "decus_8-76.txt",
+    "href": "decus_8-76.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/papertapeImages/set8_20040316/tray3/decus_8-76.txt",
+    "is_dir": false,
+    "size": "423 B",
+    "date": "17-Mar-2004 04:33"
+  },
+  {
+    "name": "decus_8-79.bin",
+    "href": "decus_8-79.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/papertapeImages/set8_20040316/tray3/decus_8-79.bin",
+    "is_dir": false,
+    "size": "2.6 KiB",
+    "date": "17-Mar-2004 05:33"
+  },
+  {
+    "name": "decus_8-79a.bin",
+    "href": "decus_8-79a.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/papertapeImages/set8_20040316/tray3/decus_8-79a.bin",
+    "is_dir": false,
+    "size": "169 B",
+    "date": "17-Mar-2004 05:37"
+  },
+  {
+    "name": "decus_8-80.bin",
+    "href": "decus_8-80.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/papertapeImages/set8_20040316/tray3/decus_8-80.bin",
+    "is_dir": false,
+    "size": "2.1 KiB",
+    "date": "17-Mar-2004 04:39"
+  },
+  {
+    "name": "decus_8-80_2.bin",
+    "href": "decus_8-80_2.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/papertapeImages/set8_20040316/tray3/decus_8-80_2.bin",
+    "is_dir": false,
+    "size": "1.6 KiB",
+    "date": "17-Mar-2004 04:40"
+  },
+  {
+    "name": "decus_8-81.bin",
+    "href": "decus_8-81.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/papertapeImages/set8_20040316/tray3/decus_8-81.bin",
+    "is_dir": false,
+    "size": "830 B",
+    "date": "17-Mar-2004 05:50"
+  },
+  {
+    "name": "decus_8-83.bin",
+    "href": "decus_8-83.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/papertapeImages/set8_20040316/tray3/decus_8-83.bin",
+    "is_dir": false,
+    "size": "1.6 KiB",
+    "date": "17-Mar-2004 04:28"
+  },
+  {
+    "name": "decus_8-83a.bin",
+    "href": "decus_8-83a.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/papertapeImages/set8_20040316/tray3/decus_8-83a.bin",
+    "is_dir": false,
+    "size": "1.3 KiB",
+    "date": "17-Mar-2004 04:53"
+  },
+  {
+    "name": "decus_8-83b.bin",
+    "href": "decus_8-83b.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/papertapeImages/set8_20040316/tray3/decus_8-83b.bin",
+    "is_dir": false,
+    "size": "1.7 KiB",
+    "date": "17-Mar-2004 05:12"
+  },
+  {
+    "name": "decus_8-89.bin",
+    "href": "decus_8-89.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/papertapeImages/set8_20040316/tray3/decus_8-89.bin",
+    "is_dir": false,
+    "size": "1.4 KiB",
+    "date": "17-Mar-2004 05:51"
+  },
+  {
+    "name": "decus_8-91.bin",
+    "href": "decus_8-91.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/papertapeImages/set8_20040316/tray3/decus_8-91.bin",
+    "is_dir": false,
+    "size": "1.5 KiB",
+    "date": "17-Mar-2004 04:34"
+  },
+  {
+    "name": "decus_8-96.bin",
+    "href": "decus_8-96.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/papertapeImages/set8_20040316/tray3/decus_8-96.bin",
+    "is_dir": false,
+    "size": "1.8 KiB",
+    "date": "17-Mar-2004 05:35"
+  },
+  {
+    "name": "decus_8-99.bin",
+    "href": "decus_8-99.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/papertapeImages/set8_20040316/tray3/decus_8-99.bin",
+    "is_dir": false,
+    "size": "478 B",
+    "date": "17-Mar-2004 05:55"
+  },
+  {
+    "name": "digital-8-12-s-bin.bin",
+    "href": "digital-8-12-s-bin.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/papertapeImages/set8_20040316/tray3/digital-8-12-s-bin.bin",
+    "is_dir": false,
+    "size": "1.1 KiB",
+    "date": "17-Mar-2004 05:00"
+  },
+  {
+    "name": "digital-8-3-s.bin",
+    "href": "digital-8-3-s.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/papertapeImages/set8_20040316/tray3/digital-8-3-s.bin",
+    "is_dir": false,
+    "size": "3.2 KiB",
+    "date": "17-Mar-2004 04:05"
+  },
+  {
+    "name": "samplePgmDeskCalc.bin",
+    "href": "samplePgmDeskCalc.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/papertapeImages/set8_20040316/tray3/samplePgmDeskCalc.bin",
+    "is_dir": false,
+    "size": "1.2 KiB",
+    "date": "17-Mar-2004 03:46"
+  }
+]

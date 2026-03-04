@@ -1,0 +1,58 @@
+[
+  {
+    "name": "binary",
+    "href": "binary/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/hp300/binary/",
+    "is_dir": true,
+    "size": null,
+    "date": "01-Oct-2023 18:33"
+  },
+  {
+    "name": "installation",
+    "href": "installation/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/hp300/installation/",
+    "is_dir": true,
+    "size": null,
+    "date": "01-Oct-2023 18:33"
+  },
+  {
+    "name": "INSTALL.X11",
+    "href": "INSTALL.X11",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/hp300/INSTALL.X11",
+    "is_dir": false,
+    "size": "201 B",
+    "date": "17-Mar-2000 01:43"
+  },
+  {
+    "name": "INSTALL.html",
+    "href": "INSTALL.html",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/hp300/INSTALL.html",
+    "is_dir": false,
+    "size": "87.7 KiB",
+    "date": "08-Mar-2000 04:44"
+  },
+  {
+    "name": "INSTALL.more",
+    "href": "INSTALL.more",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/hp300/INSTALL.more",
+    "is_dir": false,
+    "size": "82.6 KiB",
+    "date": "08-Mar-2000 04:45"
+  },
+  {
+    "name": "INSTALL.ps",
+    "href": "INSTALL.ps",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/hp300/INSTALL.ps",
+    "is_dir": false,
+    "size": "126.4 KiB",
+    "date": "08-Mar-2000 04:45"
+  },
+  {
+    "name": "INSTALL.txt",
+    "href": "INSTALL.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/hp300/INSTALL.txt",
+    "is_dir": false,
+    "size": "77.5 KiB",
+    "date": "08-Mar-2000 04:45"
+  }
+]

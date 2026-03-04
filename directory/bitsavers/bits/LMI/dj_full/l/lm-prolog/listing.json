@@ -1,0 +1,130 @@
+[
+  {
+    "name": "botex",
+    "href": "botex/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/lm-prolog/botex/",
+    "is_dir": true,
+    "size": null,
+    "date": "21-Apr-2017 01:45"
+  },
+  {
+    "name": "compatibility",
+    "href": "compatibility/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/lm-prolog/compatibility/",
+    "is_dir": true,
+    "size": null,
+    "date": "21-Apr-2017 01:45"
+  },
+  {
+    "name": "experimental",
+    "href": "experimental/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/lm-prolog/experimental/",
+    "is_dir": true,
+    "size": null,
+    "date": "21-Apr-2017 01:45"
+  },
+  {
+    "name": "kernel",
+    "href": "kernel/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/lm-prolog/kernel/",
+    "is_dir": true,
+    "size": null,
+    "date": "21-Apr-2017 01:45"
+  },
+  {
+    "name": "library",
+    "href": "library/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/lm-prolog/library/",
+    "is_dir": true,
+    "size": null,
+    "date": "21-Apr-2017 01:45"
+  },
+  {
+    "name": "lisp-library",
+    "href": "lisp-library/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/lm-prolog/lisp-library/",
+    "is_dir": true,
+    "size": null,
+    "date": "21-Apr-2017 01:45"
+  },
+  {
+    "name": "predicates",
+    "href": "predicates/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/lm-prolog/predicates/",
+    "is_dir": true,
+    "size": null,
+    "date": "21-Apr-2017 01:45"
+  },
+  {
+    "name": "global.lisp.21",
+    "href": "global.lisp.21",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/lm-prolog/global.lisp.21",
+    "is_dir": false,
+    "size": "2.7 KiB",
+    "date": "21-Apr-2017 01:33"
+  },
+  {
+    "name": "keyboard.lisp.5",
+    "href": "keyboard.lisp.5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/lm-prolog/keyboard.lisp.5",
+    "is_dir": false,
+    "size": "663 B",
+    "date": "21-Apr-2017 01:33"
+  },
+  {
+    "name": "lispm-init.lisp.9",
+    "href": "lispm-init.lisp.9",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/lm-prolog/lispm-init.lisp.9",
+    "is_dir": false,
+    "size": "351 B",
+    "date": "21-Apr-2017 01:33"
+  },
+  {
+    "name": "lispm.init.16",
+    "href": "lispm.init.16",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/lm-prolog/lispm.init.16",
+    "is_dir": false,
+    "size": "20 B",
+    "date": "21-Apr-2017 01:33"
+  },
+  {
+    "name": "lm-prolog-1.patch-directory.1",
+    "href": "lm-prolog-1.patch-directory.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/lm-prolog/lm-prolog-1.patch-directory.1",
+    "is_dir": false,
+    "size": "535 B",
+    "date": "21-Apr-2017 01:33"
+  },
+  {
+    "name": "lm-prolog-2.patch-directory.1",
+    "href": "lm-prolog-2.patch-directory.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/lm-prolog/lm-prolog-2.patch-directory.1",
+    "is_dir": false,
+    "size": "406 B",
+    "date": "21-Apr-2017 01:33"
+  },
+  {
+    "name": "lm-prolog.patch-directory.2",
+    "href": "lm-prolog.patch-directory.2",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/lm-prolog/lm-prolog.patch-directory.2",
+    "is_dir": false,
+    "size": "319 B",
+    "date": "21-Apr-2017 01:33"
+  },
+  {
+    "name": "load.lisp.31",
+    "href": "load.lisp.31",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/lm-prolog/load.lisp.31",
+    "is_dir": false,
+    "size": "7.6 KiB",
+    "date": "21-Apr-2017 01:33"
+  },
+  {
+    "name": "loaded.lisp.5",
+    "href": "loaded.lisp.5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/lm-prolog/loaded.lisp.5",
+    "is_dir": false,
+    "size": "554 B",
+    "date": "21-Apr-2017 01:33"
+  }
+]

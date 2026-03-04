@@ -1,0 +1,202 @@
+[
+  {
+    "name": "barefoot-diags.lisp.7",
+    "href": "barefoot-diags.lisp.7",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-5/kbug/barefoot-diags.lisp.7",
+    "is_dir": false,
+    "size": "3.6 KiB",
+    "date": "21-Apr-2017 01:18"
+  },
+  {
+    "name": "create-evironments.lisp.4",
+    "href": "create-evironments.lisp.4",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-5/kbug/create-evironments.lisp.4",
+    "is_dir": false,
+    "size": "204 B",
+    "date": "21-Apr-2017 01:18"
+  },
+  {
+    "name": "daisy-new-spy-utilities.lisp.5",
+    "href": "daisy-new-spy-utilities.lisp.5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-5/kbug/daisy-new-spy-utilities.lisp.5",
+    "is_dir": false,
+    "size": "32.0 KiB",
+    "date": "21-Apr-2017 01:18"
+  },
+  {
+    "name": "debug-board.lisp.24",
+    "href": "debug-board.lisp.24",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-5/kbug/debug-board.lisp.24",
+    "is_dir": false,
+    "size": "19.8 KiB",
+    "date": "21-Apr-2017 01:18"
+  },
+  {
+    "name": "debug-crock0.lisp.7",
+    "href": "debug-crock0.lisp.7",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-5/kbug/debug-crock0.lisp.7",
+    "is_dir": false,
+    "size": "219 B",
+    "date": "21-Apr-2017 01:18"
+  },
+  {
+    "name": "debug-support.lisp.88",
+    "href": "debug-support.lisp.88",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-5/kbug/debug-support.lisp.88",
+    "is_dir": false,
+    "size": "13.3 KiB",
+    "date": "21-Apr-2017 01:18"
+  },
+  {
+    "name": "get-image.lisp.10",
+    "href": "get-image.lisp.10",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-5/kbug/get-image.lisp.10",
+    "is_dir": false,
+    "size": "4.7 KiB",
+    "date": "21-Apr-2017 01:18"
+  },
+  {
+    "name": "goto-compiler-pe.lisp.2",
+    "href": "goto-compiler-pe.lisp.2",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-5/kbug/goto-compiler-pe.lisp.2",
+    "is_dir": false,
+    "size": "130 B",
+    "date": "21-Apr-2017 01:18"
+  },
+  {
+    "name": "goto-debugger-pe.lisp.1",
+    "href": "goto-debugger-pe.lisp.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-5/kbug/goto-debugger-pe.lisp.1",
+    "is_dir": false,
+    "size": "127 B",
+    "date": "21-Apr-2017 01:18"
+  },
+  {
+    "name": "initialize-cold-loader.lisp.1",
+    "href": "initialize-cold-loader.lisp.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-5/kbug/initialize-cold-loader.lisp.1",
+    "is_dir": false,
+    "size": "169 B",
+    "date": "21-Apr-2017 01:18"
+  },
+  {
+    "name": "k-hacking-pe.lisp.7",
+    "href": "k-hacking-pe.lisp.7",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-5/kbug/k-hacking-pe.lisp.7",
+    "is_dir": false,
+    "size": "211 B",
+    "date": "21-Apr-2017 01:18"
+  },
+  {
+    "name": "kbug.lisp.138",
+    "href": "kbug.lisp.138",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-5/kbug/kbug.lisp.138",
+    "is_dir": false,
+    "size": "48.1 KiB",
+    "date": "21-Apr-2017 01:18"
+  },
+  {
+    "name": "make-cold-load-compiler.lisp.1",
+    "href": "make-cold-load-compiler.lisp.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-5/kbug/make-cold-load-compiler.lisp.1",
+    "is_dir": false,
+    "size": "113 B",
+    "date": "21-Apr-2017 01:18"
+  },
+  {
+    "name": "memory-tests.lisp.48",
+    "href": "memory-tests.lisp.48",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-5/kbug/memory-tests.lisp.48",
+    "is_dir": false,
+    "size": "41.4 KiB",
+    "date": "21-Apr-2017 01:18"
+  },
+  {
+    "name": "mini-cons.kbin.21",
+    "href": "mini-cons.kbin.21",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-5/kbug/mini-cons.kbin.21",
+    "is_dir": false,
+    "size": "3.8 KiB",
+    "date": "21-Apr-2017 01:18"
+  },
+  {
+    "name": "mini-cons.lisp.18",
+    "href": "mini-cons.lisp.18",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-5/kbug/mini-cons.lisp.18",
+    "is_dir": false,
+    "size": "2.5 KiB",
+    "date": "21-Apr-2017 01:18"
+  },
+  {
+    "name": "new-spy-utilities.lisp.72",
+    "href": "new-spy-utilities.lisp.72",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-5/kbug/new-spy-utilities.lisp.72",
+    "is_dir": false,
+    "size": "40.6 KiB",
+    "date": "21-Apr-2017 01:18"
+  },
+  {
+    "name": "new-spy-utilities.lqfasl.72",
+    "href": "new-spy-utilities.lqfasl.72",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-5/kbug/new-spy-utilities.lqfasl.72",
+    "is_dir": false,
+    "size": "36.8 KiB",
+    "date": "21-Apr-2017 01:18"
+  },
+  {
+    "name": "package-enviromnents.lisp.2",
+    "href": "package-enviromnents.lisp.2",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-5/kbug/package-enviromnents.lisp.2",
+    "is_dir": false,
+    "size": "89.0 KiB",
+    "date": "21-Apr-2017 01:18"
+  },
+  {
+    "name": "package-environments.lisp.18",
+    "href": "package-environments.lisp.18",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-5/kbug/package-environments.lisp.18",
+    "is_dir": false,
+    "size": "95.5 KiB",
+    "date": "21-Apr-2017 01:18"
+  },
+  {
+    "name": "package-hierarchies.lisp.5",
+    "href": "package-hierarchies.lisp.5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-5/kbug/package-hierarchies.lisp.5",
+    "is_dir": false,
+    "size": "1.5 KiB",
+    "date": "21-Apr-2017 01:18"
+  },
+  {
+    "name": "spy-diags.lisp.50",
+    "href": "spy-diags.lisp.50",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-5/kbug/spy-diags.lisp.50",
+    "is_dir": false,
+    "size": "69.9 KiB",
+    "date": "21-Apr-2017 01:18"
+  },
+  {
+    "name": "state-save.lisp.1",
+    "href": "state-save.lisp.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-5/kbug/state-save.lisp.1",
+    "is_dir": false,
+    "size": "395 B",
+    "date": "21-Apr-2017 01:18"
+  },
+  {
+    "name": "test-vectors-support.lisp.13",
+    "href": "test-vectors-support.lisp.13",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-5/kbug/test-vectors-support.lisp.13",
+    "is_dir": false,
+    "size": "35.0 KiB",
+    "date": "21-Apr-2017 01:18"
+  },
+  {
+    "name": "test-vectors.lisp.97",
+    "href": "test-vectors.lisp.97",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-5/kbug/test-vectors.lisp.97",
+    "is_dir": false,
+    "size": "50.4 KiB",
+    "date": "21-Apr-2017 01:18"
+  }
+]

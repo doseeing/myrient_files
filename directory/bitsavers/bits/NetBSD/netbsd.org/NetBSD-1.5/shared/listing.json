@@ -1,0 +1,26 @@
+[
+  {
+    "name": "ALL",
+    "href": "ALL/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/shared/ALL/",
+    "is_dir": true,
+    "size": null,
+    "date": "01-Oct-2023 18:33"
+  },
+  {
+    "name": "m68k",
+    "href": "m68k/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/shared/m68k/",
+    "is_dir": true,
+    "size": null,
+    "date": "01-Oct-2023 18:33"
+  },
+  {
+    "name": "mipsel",
+    "href": "mipsel/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/shared/mipsel/",
+    "is_dir": true,
+    "size": null,
+    "date": "01-Oct-2023 18:33"
+  }
+]

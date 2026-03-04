@@ -1,0 +1,194 @@
+[
+  {
+    "name": "a.out.h",
+    "href": "a.out.h",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/trix/sys/h/a.out.h",
+    "is_dir": false,
+    "size": "4.7 KiB",
+    "date": "11-Oct-1986 22:50"
+  },
+  {
+    "name": "args.h",
+    "href": "args.h",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/trix/sys/h/args.h",
+    "is_dir": false,
+    "size": "3.4 KiB",
+    "date": "11-Oct-1986 22:50"
+  },
+  {
+    "name": "assert.h",
+    "href": "assert.h",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/trix/sys/h/assert.h",
+    "is_dir": false,
+    "size": "2.5 KiB",
+    "date": "11-Oct-1986 22:50"
+  },
+  {
+    "name": "calls.h",
+    "href": "calls.h",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/trix/sys/h/calls.h",
+    "is_dir": false,
+    "size": "6.4 KiB",
+    "date": "11-Oct-1986 22:50"
+  },
+  {
+    "name": "cbuf.h",
+    "href": "cbuf.h",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/trix/sys/h/cbuf.h",
+    "is_dir": false,
+    "size": "2.7 KiB",
+    "date": "11-Oct-1986 22:50"
+  },
+  {
+    "name": "com.h",
+    "href": "com.h",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/trix/sys/h/com.h",
+    "is_dir": false,
+    "size": "3.1 KiB",
+    "date": "11-Oct-1986 22:50"
+  },
+  {
+    "name": "devmap.h",
+    "href": "devmap.h",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/trix/sys/h/devmap.h",
+    "is_dir": false,
+    "size": "4.6 KiB",
+    "date": "11-Oct-1986 22:50"
+  },
+  {
+    "name": "domain.h",
+    "href": "domain.h",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/trix/sys/h/domain.h",
+    "is_dir": false,
+    "size": "3.5 KiB",
+    "date": "11-Oct-1986 22:50"
+  },
+  {
+    "name": "fsys.h",
+    "href": "fsys.h",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/trix/sys/h/fsys.h",
+    "is_dir": false,
+    "size": "4.6 KiB",
+    "date": "11-Oct-1986 22:50"
+  },
+  {
+    "name": "global.h",
+    "href": "global.h",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/trix/sys/h/global.h",
+    "is_dir": false,
+    "size": "3.2 KiB",
+    "date": "11-Oct-1986 22:50"
+  },
+  {
+    "name": "inode.h",
+    "href": "inode.h",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/trix/sys/h/inode.h",
+    "is_dir": false,
+    "size": "5.0 KiB",
+    "date": "11-Oct-1986 22:50"
+  },
+  {
+    "name": "link.h",
+    "href": "link.h",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/trix/sys/h/link.h",
+    "is_dir": false,
+    "size": "4.6 KiB",
+    "date": "11-Oct-1986 22:50"
+  },
+  {
+    "name": "memory.h",
+    "href": "memory.h",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/trix/sys/h/memory.h",
+    "is_dir": false,
+    "size": "4.5 KiB",
+    "date": "11-Oct-1986 22:50"
+  },
+  {
+    "name": "mouse.h",
+    "href": "mouse.h",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/trix/sys/h/mouse.h",
+    "is_dir": false,
+    "size": "2.8 KiB",
+    "date": "11-Oct-1986 22:50"
+  },
+  {
+    "name": "param.h",
+    "href": "param.h",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/trix/sys/h/param.h",
+    "is_dir": false,
+    "size": "2.4 KiB",
+    "date": "11-Oct-1986 22:50"
+  },
+  {
+    "name": "paramsav.h",
+    "href": "paramsav.h",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/trix/sys/h/paramsav.h",
+    "is_dir": false,
+    "size": "2.5 KiB",
+    "date": "11-Oct-1986 22:50"
+  },
+  {
+    "name": "protocol.h",
+    "href": "protocol.h",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/trix/sys/h/protocol.h",
+    "is_dir": false,
+    "size": "2.4 KiB",
+    "date": "11-Oct-1986 22:50"
+  },
+  {
+    "name": "scline.h",
+    "href": "scline.h",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/trix/sys/h/scline.h",
+    "is_dir": false,
+    "size": "3.6 KiB",
+    "date": "11-Oct-1986 22:50"
+  },
+  {
+    "name": "silo.h",
+    "href": "silo.h",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/trix/sys/h/silo.h",
+    "is_dir": false,
+    "size": "2.6 KiB",
+    "date": "11-Oct-1986 22:50"
+  },
+  {
+    "name": "stat.h",
+    "href": "stat.h",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/trix/sys/h/stat.h",
+    "is_dir": false,
+    "size": "3.0 KiB",
+    "date": "11-Oct-1986 22:50"
+  },
+  {
+    "name": "status.h",
+    "href": "status.h",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/trix/sys/h/status.h",
+    "is_dir": false,
+    "size": "4.7 KiB",
+    "date": "11-Oct-1986 22:50"
+  },
+  {
+    "name": "thread.h",
+    "href": "thread.h",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/trix/sys/h/thread.h",
+    "is_dir": false,
+    "size": "8.8 KiB",
+    "date": "11-Oct-1986 22:50"
+  },
+  {
+    "name": "unixtypes.h",
+    "href": "unixtypes.h",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/trix/sys/h/unixtypes.h",
+    "is_dir": false,
+    "size": "2.3 KiB",
+    "date": "11-Oct-1986 22:51"
+  },
+  {
+    "name": "vcmem.h",
+    "href": "vcmem.h",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/trix/sys/h/vcmem.h",
+    "is_dir": false,
+    "size": "8.0 KiB",
+    "date": "11-Oct-1986 22:51"
+  }
+]

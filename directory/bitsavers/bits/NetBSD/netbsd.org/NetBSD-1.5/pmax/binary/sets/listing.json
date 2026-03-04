@@ -1,0 +1,146 @@
+[
+  {
+    "name": "BSDSUM",
+    "href": "BSDSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/pmax/binary/sets/BSDSUM",
+    "is_dir": false,
+    "size": "285 B",
+    "date": "22-Nov-2000 16:30"
+  },
+  {
+    "name": "CKSUM",
+    "href": "CKSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/pmax/binary/sets/CKSUM",
+    "is_dir": false,
+    "size": "396 B",
+    "date": "22-Nov-2000 16:34"
+  },
+  {
+    "name": "MD5",
+    "href": "MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/pmax/binary/sets/MD5",
+    "is_dir": false,
+    "size": "710 B",
+    "date": "22-Nov-2000 16:25"
+  },
+  {
+    "name": "SYSVSUM",
+    "href": "SYSVSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/pmax/binary/sets/SYSVSUM",
+    "is_dir": false,
+    "size": "290 B",
+    "date": "22-Nov-2000 16:37"
+  },
+  {
+    "name": "base.tgz",
+    "href": "base.tgz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/pmax/binary/sets/base.tgz",
+    "is_dir": false,
+    "size": "19.0 MiB",
+    "date": "18-Nov-2000 18:20"
+  },
+  {
+    "name": "comp.tgz",
+    "href": "comp.tgz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/pmax/binary/sets/comp.tgz",
+    "is_dir": false,
+    "size": "13.4 MiB",
+    "date": "18-Nov-2000 18:40"
+  },
+  {
+    "name": "etc.tgz",
+    "href": "etc.tgz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/pmax/binary/sets/etc.tgz",
+    "is_dir": false,
+    "size": "107.8 KiB",
+    "date": "18-Nov-2000 18:40"
+  },
+  {
+    "name": "games.tgz",
+    "href": "games.tgz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/pmax/binary/sets/games.tgz",
+    "is_dir": false,
+    "size": "2.9 MiB",
+    "date": "19-Nov-2000 15:55"
+  },
+  {
+    "name": "kern.tgz",
+    "href": "kern.tgz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/pmax/binary/sets/kern.tgz",
+    "is_dir": false,
+    "size": "1.0 MiB",
+    "date": "19-Nov-2000 21:33"
+  },
+  {
+    "name": "man.tgz",
+    "href": "man.tgz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/pmax/binary/sets/man.tgz",
+    "is_dir": false,
+    "size": "5.4 MiB",
+    "date": "17-Nov-2000 14:33"
+  },
+  {
+    "name": "misc.tgz",
+    "href": "misc.tgz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/pmax/binary/sets/misc.tgz",
+    "is_dir": false,
+    "size": "2.1 MiB",
+    "date": "17-Nov-2000 14:34"
+  },
+  {
+    "name": "text.tgz",
+    "href": "text.tgz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/pmax/binary/sets/text.tgz",
+    "is_dir": false,
+    "size": "1.3 MiB",
+    "date": "19-Nov-2000 15:55"
+  },
+  {
+    "name": "xbase.tgz",
+    "href": "xbase.tgz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/pmax/binary/sets/xbase.tgz",
+    "is_dir": false,
+    "size": "3.1 MiB",
+    "date": "19-Nov-2000 15:55"
+  },
+  {
+    "name": "xcomp.tgz",
+    "href": "xcomp.tgz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/pmax/binary/sets/xcomp.tgz",
+    "is_dir": false,
+    "size": "2.1 MiB",
+    "date": "19-Nov-2000 15:55"
+  },
+  {
+    "name": "xcontrib.tgz",
+    "href": "xcontrib.tgz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/pmax/binary/sets/xcontrib.tgz",
+    "is_dir": false,
+    "size": "204.5 KiB",
+    "date": "19-Nov-2000 15:55"
+  },
+  {
+    "name": "xfont.tgz",
+    "href": "xfont.tgz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/pmax/binary/sets/xfont.tgz",
+    "is_dir": false,
+    "size": "5.9 MiB",
+    "date": "17-Nov-2000 14:34"
+  },
+  {
+    "name": "xmisc.tgz",
+    "href": "xmisc.tgz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/pmax/binary/sets/xmisc.tgz",
+    "is_dir": false,
+    "size": "13.4 KiB",
+    "date": "19-Nov-2000 15:55"
+  },
+  {
+    "name": "xserver.tgz",
+    "href": "xserver.tgz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/pmax/binary/sets/xserver.tgz",
+    "is_dir": false,
+    "size": "1.8 MiB",
+    "date": "19-Nov-2000 08:00"
+  }
+]

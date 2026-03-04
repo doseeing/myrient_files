@@ -1,0 +1,26 @@
+[
+  {
+    "name": "CKSUMS",
+    "href": "CKSUMS",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/i386/security/Tarfiles/CKSUMS",
+    "is_dir": false,
+    "size": "68 B",
+    "date": "16-Sep-1996 00:06"
+  },
+  {
+    "name": "README.export-control",
+    "href": "README.export-control",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/i386/security/Tarfiles/README.export-control",
+    "is_dir": false,
+    "size": "791 B",
+    "date": "15-Sep-1996 23:58"
+  },
+  {
+    "name": "secr12.tar.gz",
+    "href": "secr12.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/i386/security/Tarfiles/secr12.tar.gz",
+    "is_dir": false,
+    "size": "648.6 KiB",
+    "date": "16-Sep-1996 00:06"
+  }
+]

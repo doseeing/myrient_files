@@ -1,0 +1,42 @@
+[
+  {
+    "name": "tray1",
+    "href": "tray1/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp1/papertapeImages/20040127/tray1/",
+    "is_dir": true,
+    "size": null,
+    "date": "27-Oct-2004 00:27"
+  },
+  {
+    "name": "tray2",
+    "href": "tray2/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp1/papertapeImages/20040127/tray2/",
+    "is_dir": true,
+    "size": null,
+    "date": "27-Oct-2004 00:28"
+  },
+  {
+    "name": "Notes.txt",
+    "href": "Notes.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp1/papertapeImages/20040127/Notes.txt",
+    "is_dir": false,
+    "size": "500 B",
+    "date": "29-Jan-2004 22:07"
+  },
+  {
+    "name": "tapeboxLabels.txt",
+    "href": "tapeboxLabels.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp1/papertapeImages/20040127/tapeboxLabels.txt",
+    "is_dir": false,
+    "size": "1.1 KiB",
+    "date": "28-Jan-2004 02:45"
+  },
+  {
+    "name": "tss8trac.bin",
+    "href": "tss8trac.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp1/papertapeImages/20040127/tss8trac.bin",
+    "is_dir": false,
+    "size": "533 B",
+    "date": "28-Jan-2004 03:46"
+  }
+]

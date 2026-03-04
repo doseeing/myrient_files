@@ -1,0 +1,42 @@
+[
+  {
+    "name": "BSDSUM",
+    "href": "BSDSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/alpha/misc/BSDSUM",
+    "is_dir": false,
+    "size": "22 B",
+    "date": "14-Sep-1999 05:11"
+  },
+  {
+    "name": "CKSUM",
+    "href": "CKSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/alpha/misc/CKSUM",
+    "is_dir": false,
+    "size": "30 B",
+    "date": "14-Sep-1999 05:11"
+  },
+  {
+    "name": "GENERIC.fs",
+    "href": "GENERIC.fs",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/alpha/misc/GENERIC.fs",
+    "is_dir": false,
+    "size": "1.4 MiB",
+    "date": "14-Sep-1999 04:57"
+  },
+  {
+    "name": "MD5",
+    "href": "MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/alpha/misc/MD5",
+    "is_dir": false,
+    "size": "52 B",
+    "date": "14-Sep-1999 05:11"
+  },
+  {
+    "name": "SYSVSUM",
+    "href": "SYSVSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/alpha/misc/SYSVSUM",
+    "is_dir": false,
+    "size": "22 B",
+    "date": "14-Sep-1999 05:11"
+  }
+]

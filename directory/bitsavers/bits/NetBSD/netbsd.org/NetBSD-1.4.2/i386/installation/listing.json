@@ -1,0 +1,18 @@
+[
+  {
+    "name": "floppy",
+    "href": "floppy/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/i386/installation/floppy/",
+    "is_dir": true,
+    "size": null,
+    "date": "01-Oct-2023 18:33"
+  },
+  {
+    "name": "misc",
+    "href": "misc/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/i386/installation/misc/",
+    "is_dir": true,
+    "size": null,
+    "date": "01-Oct-2023 18:33"
+  }
+]

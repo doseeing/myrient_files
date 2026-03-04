@@ -1,0 +1,42 @@
+[
+  {
+    "name": "AP-2753G-BC_RSTSE_V7.0_SYSLIB_1of2.tap.gz",
+    "href": "AP-2753G-BC_RSTSE_V7.0_SYSLIB_1of2.tap.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp11/magtapes/rsts_e_7.0/AP-2753G-BC_RSTSE_V7.0_SYSLIB_1of2.tap.gz",
+    "is_dir": false,
+    "size": "650.6 KiB",
+    "date": "03-Aug-2006 18:28"
+  },
+  {
+    "name": "AP-2773G-BC_RSTSE_V7.0_SYSGEN.tap.gz",
+    "href": "AP-2773G-BC_RSTSE_V7.0_SYSGEN.tap.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp11/magtapes/rsts_e_7.0/AP-2773G-BC_RSTSE_V7.0_SYSGEN.tap.gz",
+    "is_dir": false,
+    "size": "694.1 KiB",
+    "date": "03-Aug-2006 18:29"
+  },
+  {
+    "name": "AP-5226D-BC_RSTSE_V7.0_RMS_RTS.tap.gz",
+    "href": "AP-5226D-BC_RSTSE_V7.0_RMS_RTS.tap.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp11/magtapes/rsts_e_7.0/AP-5226D-BC_RSTSE_V7.0_RMS_RTS.tap.gz",
+    "is_dir": false,
+    "size": "596.6 KiB",
+    "date": "03-Aug-2006 18:30"
+  },
+  {
+    "name": "AP-C725G-BC_RSTSE_V7.0_SYSLIB_2of2.tap.gz",
+    "href": "AP-C725G-BC_RSTSE_V7.0_SYSLIB_2of2.tap.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp11/magtapes/rsts_e_7.0/AP-C725G-BC_RSTSE_V7.0_SYSLIB_2of2.tap.gz",
+    "is_dir": false,
+    "size": "645.5 KiB",
+    "date": "03-Aug-2006 18:31"
+  },
+  {
+    "name": "AP-C883B-BC_RSTSE_V7.0_RSX_RTS.tap.gz",
+    "href": "AP-C883B-BC_RSTSE_V7.0_RSX_RTS.tap.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp11/magtapes/rsts_e_7.0/AP-C883B-BC_RSTSE_V7.0_RSX_RTS.tap.gz",
+    "is_dir": false,
+    "size": "902.4 KiB",
+    "date": "03-Aug-2006 18:32"
+  }
+]

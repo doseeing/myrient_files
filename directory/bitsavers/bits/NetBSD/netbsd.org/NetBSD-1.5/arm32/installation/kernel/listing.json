@@ -1,0 +1,66 @@
+[
+  {
+    "name": "BSDSUM",
+    "href": "BSDSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/arm32/installation/kernel/BSDSUM",
+    "is_dir": false,
+    "size": "117 B",
+    "date": "22-Nov-2000 16:02"
+  },
+  {
+    "name": "CKSUM",
+    "href": "CKSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/arm32/installation/kernel/CKSUM",
+    "is_dir": false,
+    "size": "149 B",
+    "date": "22-Nov-2000 16:02"
+  },
+  {
+    "name": "MD5",
+    "href": "MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/arm32/installation/kernel/MD5",
+    "is_dir": false,
+    "size": "238 B",
+    "date": "22-Nov-2000 16:02"
+  },
+  {
+    "name": "SYSVSUM",
+    "href": "SYSVSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/arm32/installation/kernel/SYSVSUM",
+    "is_dir": false,
+    "size": "118 B",
+    "date": "22-Nov-2000 16:02"
+  },
+  {
+    "name": "netbsd.A7INST.gz",
+    "href": "netbsd.A7INST.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/arm32/installation/kernel/netbsd.A7INST.gz",
+    "is_dir": false,
+    "size": "1.3 MiB",
+    "date": "17-Nov-2000 18:09"
+  },
+  {
+    "name": "netbsd.CATSINST.gz",
+    "href": "netbsd.CATSINST.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/arm32/installation/kernel/netbsd.CATSINST.gz",
+    "is_dir": false,
+    "size": "1.6 MiB",
+    "date": "17-Nov-2000 18:09"
+  },
+  {
+    "name": "netbsd.RPCINST.gz",
+    "href": "netbsd.RPCINST.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/arm32/installation/kernel/netbsd.RPCINST.gz",
+    "is_dir": false,
+    "size": "1.3 MiB",
+    "date": "17-Nov-2000 18:09"
+  },
+  {
+    "name": "netbsd.SHARKINST.gz",
+    "href": "netbsd.SHARKINST.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/arm32/installation/kernel/netbsd.SHARKINST.gz",
+    "is_dir": false,
+    "size": "1.3 MiB",
+    "date": "17-Nov-2000 18:09"
+  }
+]

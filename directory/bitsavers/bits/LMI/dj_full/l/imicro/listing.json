@@ -1,0 +1,186 @@
+[
+  {
+    "name": "ed.lisp.1",
+    "href": "ed.lisp.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/imicro/ed.lisp.1",
+    "is_dir": false,
+    "size": "34.5 KiB",
+    "date": "21-Apr-2017 01:32"
+  },
+  {
+    "name": "imicro-17.patch-directory.1",
+    "href": "imicro-17.patch-directory.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/imicro/imicro-17.patch-directory.1",
+    "is_dir": false,
+    "size": "588 B",
+    "date": "21-Apr-2017 01:32"
+  },
+  {
+    "name": "imicro-18.patch-directory.1",
+    "href": "imicro-18.patch-directory.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/imicro/imicro-18.patch-directory.1",
+    "is_dir": false,
+    "size": "456 B",
+    "date": "21-Apr-2017 01:32"
+  },
+  {
+    "name": "imicro-19.patch-directory.1",
+    "href": "imicro-19.patch-directory.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/imicro/imicro-19.patch-directory.1",
+    "is_dir": false,
+    "size": "502 B",
+    "date": "21-Apr-2017 01:32"
+  },
+  {
+    "name": "imicro-20.patch-directory.1",
+    "href": "imicro-20.patch-directory.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/imicro/imicro-20.patch-directory.1",
+    "is_dir": false,
+    "size": "586 B",
+    "date": "21-Apr-2017 01:32"
+  },
+  {
+    "name": "imicro-sysdef.lisp.7",
+    "href": "imicro-sysdef.lisp.7",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/imicro/imicro-sysdef.lisp.7",
+    "is_dir": false,
+    "size": "1.2 KiB",
+    "date": "21-Apr-2017 01:32"
+  },
+  {
+    "name": "imicro-sysdef.lisp.8",
+    "href": "imicro-sysdef.lisp.8",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/imicro/imicro-sysdef.lisp.8",
+    "is_dir": false,
+    "size": "633 B",
+    "date": "21-Apr-2017 01:32"
+  },
+  {
+    "name": "imicro.lisp.62",
+    "href": "imicro.lisp.62",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/imicro/imicro.lisp.62",
+    "is_dir": false,
+    "size": "68.2 KiB",
+    "date": "21-Apr-2017 01:32"
+  },
+  {
+    "name": "imicro.lisp.63",
+    "href": "imicro.lisp.63",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/imicro/imicro.lisp.63",
+    "is_dir": false,
+    "size": "68.3 KiB",
+    "date": "21-Apr-2017 01:32"
+  },
+  {
+    "name": "imicro.patch-directory.19",
+    "href": "imicro.patch-directory.19",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/imicro/imicro.patch-directory.19",
+    "is_dir": false,
+    "size": "425 B",
+    "date": "21-Apr-2017 01:32"
+  },
+  {
+    "name": "imicro.patch-directory.20",
+    "href": "imicro.patch-directory.20",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/imicro/imicro.patch-directory.20",
+    "is_dir": false,
+    "size": "509 B",
+    "date": "21-Apr-2017 01:32"
+  },
+  {
+    "name": "lambda-components.lisp.26",
+    "href": "lambda-components.lisp.26",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/imicro/lambda-components.lisp.26",
+    "is_dir": false,
+    "size": "30.3 KiB",
+    "date": "21-Apr-2017 01:32"
+  },
+  {
+    "name": "lambda-components.lisp.27",
+    "href": "lambda-components.lisp.27",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/imicro/lambda-components.lisp.27",
+    "is_dir": false,
+    "size": "30.4 KiB",
+    "date": "21-Apr-2017 01:32"
+  },
+  {
+    "name": "mapping-regs.lisp.1",
+    "href": "mapping-regs.lisp.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/imicro/mapping-regs.lisp.1",
+    "is_dir": false,
+    "size": "426 B",
+    "date": "21-Apr-2017 01:32"
+  },
+  {
+    "name": "mapping-regs.lisp.2",
+    "href": "mapping-regs.lisp.2",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/imicro/mapping-regs.lisp.2",
+    "is_dir": false,
+    "size": "425 B",
+    "date": "21-Apr-2017 01:32"
+  },
+  {
+    "name": "news.text.1",
+    "href": "news.text.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/imicro/news.text.1",
+    "is_dir": false,
+    "size": "4 B",
+    "date": "21-Apr-2017 01:32"
+  },
+  {
+    "name": "news.text.2",
+    "href": "news.text.2",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/imicro/news.text.2",
+    "is_dir": false,
+    "size": "2.9 KiB",
+    "date": "21-Apr-2017 01:32"
+  },
+  {
+    "name": "support-microcode.lisp.1",
+    "href": "support-microcode.lisp.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/imicro/support-microcode.lisp.1",
+    "is_dir": false,
+    "size": "698 B",
+    "date": "21-Apr-2017 01:32"
+  },
+  {
+    "name": "support-microcode.lisp.2",
+    "href": "support-microcode.lisp.2",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/imicro/support-microcode.lisp.2",
+    "is_dir": false,
+    "size": "729 B",
+    "date": "21-Apr-2017 01:32"
+  },
+  {
+    "name": "symbol-table.lisp.6",
+    "href": "symbol-table.lisp.6",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/imicro/symbol-table.lisp.6",
+    "is_dir": false,
+    "size": "5.3 KiB",
+    "date": "21-Apr-2017 01:32"
+  },
+  {
+    "name": "symbol-table.lisp.7",
+    "href": "symbol-table.lisp.7",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/imicro/symbol-table.lisp.7",
+    "is_dir": false,
+    "size": "5.4 KiB",
+    "date": "21-Apr-2017 01:32"
+  },
+  {
+    "name": "test.lisp.70",
+    "href": "test.lisp.70",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/imicro/test.lisp.70",
+    "is_dir": false,
+    "size": "14.9 KiB",
+    "date": "21-Apr-2017 01:32"
+  },
+  {
+    "name": "test.lisp.71",
+    "href": "test.lisp.71",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/imicro/test.lisp.71",
+    "is_dir": false,
+    "size": "14.3 KiB",
+    "date": "21-Apr-2017 01:32"
+  }
+]

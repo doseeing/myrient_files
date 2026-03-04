@@ -1,0 +1,122 @@
+[
+  {
+    "name": "disks",
+    "href": "disks/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/TI/990/www.cozx.com/dpitts/disks/",
+    "is_dir": true,
+    "size": null,
+    "date": "25-Aug-2005 07:01"
+  },
+  {
+    "name": "pix",
+    "href": "pix/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/TI/990/www.cozx.com/dpitts/pix/",
+    "is_dir": true,
+    "size": null,
+    "date": "25-Aug-2005 07:01"
+  },
+  {
+    "name": "tapes",
+    "href": "tapes/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/TI/990/www.cozx.com/dpitts/tapes/",
+    "is_dir": true,
+    "size": null,
+    "date": "25-Aug-2005 07:01"
+  },
+  {
+    "name": "asm990-1.3.0.tar.gz",
+    "href": "asm990-1.3.0.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/TI/990/www.cozx.com/dpitts/asm990-1.3.0.tar.gz",
+    "is_dir": false,
+    "size": "54.6 KiB",
+    "date": "31-Mar-2005 17:48"
+  },
+  {
+    "name": "asm990.tar.gz",
+    "href": "asm990.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/TI/990/www.cozx.com/dpitts/asm990.tar.gz",
+    "is_dir": false,
+    "size": "54.4 KiB",
+    "date": "27-Oct-2004 21:24"
+  },
+  {
+    "name": "lnk990-1.1.2.tar.gz",
+    "href": "lnk990-1.1.2.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/TI/990/www.cozx.com/dpitts/lnk990-1.1.2.tar.gz",
+    "is_dir": false,
+    "size": "8.1 KiB",
+    "date": "31-Mar-2005 17:48"
+  },
+  {
+    "name": "lnk990.tar.gz",
+    "href": "lnk990.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/TI/990/www.cozx.com/dpitts/lnk990.tar.gz",
+    "is_dir": false,
+    "size": "8.1 KiB",
+    "date": "27-Oct-2004 21:20"
+  },
+  {
+    "name": "sim990-1.4.2.tar.gz",
+    "href": "sim990-1.4.2.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/TI/990/www.cozx.com/dpitts/sim990-1.4.2.tar.gz",
+    "is_dir": false,
+    "size": "66.3 KiB",
+    "date": "31-Mar-2005 17:48"
+  },
+  {
+    "name": "sim990-1.4.3.tar.gz",
+    "href": "sim990-1.4.3.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/TI/990/www.cozx.com/dpitts/sim990-1.4.3.tar.gz",
+    "is_dir": false,
+    "size": "66.9 KiB",
+    "date": "05-Apr-2005 19:03"
+  },
+  {
+    "name": "sim990-1.5.0.tar.gz",
+    "href": "sim990-1.5.0.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/TI/990/www.cozx.com/dpitts/sim990-1.5.0.tar.gz",
+    "is_dir": false,
+    "size": "68.9 KiB",
+    "date": "27-Apr-2005 16:10"
+  },
+  {
+    "name": "sim990.tar.gz",
+    "href": "sim990.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/TI/990/www.cozx.com/dpitts/sim990.tar.gz",
+    "is_dir": false,
+    "size": "62.9 KiB",
+    "date": "27-Oct-2004 21:23"
+  },
+  {
+    "name": "ti990-10.rom",
+    "href": "ti990-10.rom",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/TI/990/www.cozx.com/dpitts/ti990-10.rom",
+    "is_dir": false,
+    "size": "1.0 KiB",
+    "date": "06-May-2004 16:21"
+  },
+  {
+    "name": "ti990-4.rom",
+    "href": "ti990-4.rom",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/TI/990/www.cozx.com/dpitts/ti990-4.rom",
+    "is_dir": false,
+    "size": "1.0 KiB",
+    "date": "06-May-2004 16:21"
+  },
+  {
+    "name": "ti990.html",
+    "href": "ti990.html",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/TI/990/www.cozx.com/dpitts/ti990.html",
+    "is_dir": false,
+    "size": "4.1 KiB",
+    "date": "05-Apr-2005 19:04"
+  },
+  {
+    "name": "utils-1.0.0.tar.gz",
+    "href": "utils-1.0.0.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/TI/990/www.cozx.com/dpitts/utils-1.0.0.tar.gz",
+    "is_dir": false,
+    "size": "16.2 KiB",
+    "date": "31-Mar-2005 19:19"
+  }
+]

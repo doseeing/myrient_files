@@ -1,0 +1,42 @@
+[
+  {
+    "name": "CKSUMS",
+    "href": "CKSUMS",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/amiga/miniroot/CKSUMS",
+    "is_dir": false,
+    "size": "142 B",
+    "date": "25-Nov-1995 03:39"
+  },
+  {
+    "name": "inst-11.fs",
+    "href": "inst-11.fs",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/amiga/miniroot/inst-11.fs",
+    "is_dir": false,
+    "size": "4.0 MiB",
+    "date": "25-Nov-1995 03:34"
+  },
+  {
+    "name": "inst-11.fs.gz",
+    "href": "inst-11.fs.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/amiga/miniroot/inst-11.fs.gz",
+    "is_dir": false,
+    "size": "859.1 KiB",
+    "date": "25-Nov-1995 03:26"
+  },
+  {
+    "name": "upgr-11.fs",
+    "href": "upgr-11.fs",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/amiga/miniroot/upgr-11.fs",
+    "is_dir": false,
+    "size": "4.0 MiB",
+    "date": "25-Nov-1995 03:35"
+  },
+  {
+    "name": "upgr-11.fs.gz",
+    "href": "upgr-11.fs.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/amiga/miniroot/upgr-11.fs.gz",
+    "is_dir": false,
+    "size": "857.9 KiB",
+    "date": "25-Nov-1995 03:18"
+  }
+]

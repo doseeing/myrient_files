@@ -1,0 +1,58 @@
+[
+  {
+    "name": "$BDXM1",
+    "href": "%24BDXM1/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/system3/basic/5703-XM1_BASIC_V1.5/UTILS/%24BDXM1/",
+    "is_dir": true,
+    "size": null,
+    "date": "22-Mar-2024 12:56"
+  },
+  {
+    "name": "PTF",
+    "href": "PTF/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/system3/basic/5703-XM1_BASIC_V1.5/UTILS/PTF/",
+    "is_dir": true,
+    "size": null,
+    "date": "22-Mar-2024 12:57"
+  },
+  {
+    "name": "$bdxm1_V3.bld.ocl",
+    "href": "%24bdxm1_V3.bld.ocl",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/system3/basic/5703-XM1_BASIC_V1.5/UTILS/%24bdxm1_V3.bld.ocl",
+    "is_dir": false,
+    "size": "4.6 KiB",
+    "date": "22-Mar-2024 12:56"
+  },
+  {
+    "name": "5703-XM1_BASIC_modules.xlsx",
+    "href": "5703-XM1_BASIC_modules.xlsx",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/system3/basic/5703-XM1_BASIC_V1.5/UTILS/5703-XM1_BASIC_modules.xlsx",
+    "is_dir": false,
+    "size": "21.9 KiB",
+    "date": "22-Mar-2024 12:56"
+  },
+  {
+    "name": "5703-XM1_IDE_setup.xlsx",
+    "href": "5703-XM1_IDE_setup.xlsx",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/system3/basic/5703-XM1_BASIC_V1.5/UTILS/5703-XM1_IDE_setup.xlsx",
+    "is_dir": false,
+    "size": "10.5 KiB",
+    "date": "22-Mar-2024 12:56"
+  },
+  {
+    "name": "Disk_Addr.txt",
+    "href": "Disk_Addr.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/system3/basic/5703-XM1_BASIC_V1.5/UTILS/Disk_Addr.txt",
+    "is_dir": false,
+    "size": "10.2 KiB",
+    "date": "22-Mar-2024 12:56"
+  },
+  {
+    "name": "README.txt",
+    "href": "README.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/system3/basic/5703-XM1_BASIC_V1.5/UTILS/README.txt",
+    "is_dir": false,
+    "size": "3.8 KiB",
+    "date": "22-Mar-2024 12:56"
+  }
+]

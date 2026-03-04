@@ -1,0 +1,58 @@
+[
+  {
+    "name": "BSDSUM",
+    "href": "BSDSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/hp300/installation/misc/BSDSUM",
+    "is_dir": false,
+    "size": "57 B",
+    "date": "17-Mar-2000 01:37"
+  },
+  {
+    "name": "CKSUM",
+    "href": "CKSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/hp300/installation/misc/CKSUM",
+    "is_dir": false,
+    "size": "81 B",
+    "date": "17-Mar-2000 01:37"
+  },
+  {
+    "name": "MD5",
+    "href": "MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/hp300/installation/misc/MD5",
+    "is_dir": false,
+    "size": "153 B",
+    "date": "17-Mar-2000 01:37"
+  },
+  {
+    "name": "SYSVSUM",
+    "href": "SYSVSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/hp300/installation/misc/SYSVSUM",
+    "is_dir": false,
+    "size": "59 B",
+    "date": "17-Mar-2000 01:37"
+  },
+  {
+    "name": "SYS_INST",
+    "href": "SYS_INST",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/hp300/installation/misc/SYS_INST",
+    "is_dir": false,
+    "size": "85.4 KiB",
+    "date": "05-Mar-2000 18:54"
+  },
+  {
+    "name": "SYS_UBOOT",
+    "href": "SYS_UBOOT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/hp300/installation/misc/SYS_UBOOT",
+    "is_dir": false,
+    "size": "78.4 KiB",
+    "date": "05-Mar-2000 18:54"
+  },
+  {
+    "name": "rbootd.tgz",
+    "href": "rbootd.tgz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/hp300/installation/misc/rbootd.tgz",
+    "is_dir": false,
+    "size": "22.1 KiB",
+    "date": "05-Mar-2000 19:50"
+  }
+]

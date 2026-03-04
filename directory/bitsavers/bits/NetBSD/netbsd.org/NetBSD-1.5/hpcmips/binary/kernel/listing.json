@@ -1,0 +1,58 @@
+[
+  {
+    "name": "BSDSUM",
+    "href": "BSDSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/hpcmips/binary/kernel/BSDSUM",
+    "is_dir": false,
+    "size": "82 B",
+    "date": "22-Nov-2000 16:08"
+  },
+  {
+    "name": "CKSUM",
+    "href": "CKSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/hpcmips/binary/kernel/CKSUM",
+    "is_dir": false,
+    "size": "109 B",
+    "date": "22-Nov-2000 16:08"
+  },
+  {
+    "name": "MD5",
+    "href": "MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/hpcmips/binary/kernel/MD5",
+    "is_dir": false,
+    "size": "175 B",
+    "date": "22-Nov-2000 16:07"
+  },
+  {
+    "name": "SYSVSUM",
+    "href": "SYSVSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/hpcmips/binary/kernel/SYSVSUM",
+    "is_dir": false,
+    "size": "84 B",
+    "date": "22-Nov-2000 16:08"
+  },
+  {
+    "name": "netbsd.GENERIC.gz",
+    "href": "netbsd.GENERIC.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/hpcmips/binary/kernel/netbsd.GENERIC.gz",
+    "is_dir": false,
+    "size": "995.8 KiB",
+    "date": "19-Nov-2000 22:35"
+  },
+  {
+    "name": "netbsd.TX3912.gz",
+    "href": "netbsd.TX3912.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/hpcmips/binary/kernel/netbsd.TX3912.gz",
+    "is_dir": false,
+    "size": "978.8 KiB",
+    "date": "19-Nov-2000 22:36"
+  },
+  {
+    "name": "netbsd.TX3922.gz",
+    "href": "netbsd.TX3922.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/hpcmips/binary/kernel/netbsd.TX3922.gz",
+    "is_dir": false,
+    "size": "1.1 MiB",
+    "date": "19-Nov-2000 22:37"
+  }
+]

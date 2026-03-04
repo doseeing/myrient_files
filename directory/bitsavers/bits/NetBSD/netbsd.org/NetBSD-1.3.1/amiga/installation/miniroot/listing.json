@@ -1,0 +1,74 @@
+[
+  {
+    "name": "BSDSUM",
+    "href": "BSDSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/amiga/installation/miniroot/BSDSUM",
+    "is_dir": false,
+    "size": "155 B",
+    "date": "27-Mar-1998 13:00"
+  },
+  {
+    "name": "CKSUM",
+    "href": "CKSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/amiga/installation/miniroot/CKSUM",
+    "is_dir": false,
+    "size": "194 B",
+    "date": "27-Mar-1998 13:00"
+  },
+  {
+    "name": "MD5",
+    "href": "MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/amiga/installation/miniroot/MD5",
+    "is_dir": false,
+    "size": "308 B",
+    "date": "27-Mar-1998 13:01"
+  },
+  {
+    "name": "README.ariadne",
+    "href": "README.ariadne",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/amiga/installation/miniroot/README.ariadne",
+    "is_dir": false,
+    "size": "206 B",
+    "date": "26-Mar-1998 21:43"
+  },
+  {
+    "name": "SYSVSUM",
+    "href": "SYSVSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/amiga/installation/miniroot/SYSVSUM",
+    "is_dir": false,
+    "size": "154 B",
+    "date": "27-Mar-1998 13:00"
+  },
+  {
+    "name": "miniroot-with-ariadne-fix.fs",
+    "href": "miniroot-with-ariadne-fix.fs",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/amiga/installation/miniroot/miniroot-with-ariadne-fix.fs",
+    "is_dir": false,
+    "size": "4.0 MiB",
+    "date": "24-Mar-1998 21:34"
+  },
+  {
+    "name": "miniroot-with-ariadne-fix.fs.gz",
+    "href": "miniroot-with-ariadne-fix.fs.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/amiga/installation/miniroot/miniroot-with-ariadne-fix.fs.gz",
+    "is_dir": false,
+    "size": "1.4 MiB",
+    "date": "24-Mar-1998 21:42"
+  },
+  {
+    "name": "miniroot.fs",
+    "href": "miniroot.fs",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/amiga/installation/miniroot/miniroot.fs",
+    "is_dir": false,
+    "size": "4.0 MiB",
+    "date": "26-Mar-1998 21:41"
+  },
+  {
+    "name": "miniroot.fs.gz",
+    "href": "miniroot.fs.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/amiga/installation/miniroot/miniroot.fs.gz",
+    "is_dir": false,
+    "size": "1.4 MiB",
+    "date": "26-Mar-1998 21:41"
+  }
+]

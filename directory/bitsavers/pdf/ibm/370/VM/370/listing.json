@@ -1,0 +1,74 @@
+[
+  {
+    "name": "IPCS",
+    "href": "IPCS/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/370/VM/370/IPCS/",
+    "is_dir": true,
+    "size": null,
+    "date": "29-Mar-2013 04:04"
+  },
+  {
+    "name": "RSCS",
+    "href": "RSCS/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/370/VM/370/RSCS/",
+    "is_dir": true,
+    "size": null,
+    "date": "04-Aug-2025 04:16"
+  },
+  {
+    "name": "Release_1",
+    "href": "Release_1/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/370/VM/370/Release_1/",
+    "is_dir": true,
+    "size": null,
+    "date": "03-Nov-2019 01:46"
+  },
+  {
+    "name": "Release_2",
+    "href": "Release_2/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/370/VM/370/Release_2/",
+    "is_dir": true,
+    "size": null,
+    "date": "25-Nov-2020 02:43"
+  },
+  {
+    "name": "Release_3",
+    "href": "Release_3/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/370/VM/370/Release_3/",
+    "is_dir": true,
+    "size": null,
+    "date": "08-Jun-2012 15:59"
+  },
+  {
+    "name": "Release_6",
+    "href": "Release_6/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/370/VM/370/Release_6/",
+    "is_dir": true,
+    "size": null,
+    "date": "04-Aug-2025 04:16"
+  },
+  {
+    "name": "plm",
+    "href": "plm/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/370/VM/370/plm/",
+    "is_dir": true,
+    "size": null,
+    "date": "28-Jul-2021 18:29"
+  },
+  {
+    "name": "GA22-7074-0_Virtual-Machine_Assist_and_Shadow-Table-Bypass_Assist_May80.pdf",
+    "href": "GA22-7074-0_Virtual-Machine_Assist_and_Shadow-Table-Bypass_Assist_May80.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/370/VM/370/GA22-7074-0_Virtual-Machine_Assist_and_Shadow-Table-Bypass_Assist_May80.pdf",
+    "is_dir": false,
+    "size": "3.6 MiB",
+    "date": "03-Jun-2012 14:38"
+  },
+  {
+    "name": "GR20-4260-1_Introduction_To_Virtual_Storage_In_System_370_Feb73.pdf",
+    "href": "GR20-4260-1_Introduction_To_Virtual_Storage_In_System_370_Feb73.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/ibm/370/VM/370/GR20-4260-1_Introduction_To_Virtual_Storage_In_System_370_Feb73.pdf",
+    "is_dir": false,
+    "size": "6.9 MiB",
+    "date": "11-Sep-2009 22:56"
+  }
+]

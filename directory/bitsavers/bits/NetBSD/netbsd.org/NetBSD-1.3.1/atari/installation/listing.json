@@ -1,0 +1,66 @@
+[
+  {
+    "name": "floppy",
+    "href": "floppy/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/atari/installation/floppy/",
+    "is_dir": true,
+    "size": null,
+    "date": "30-Sep-2023 17:20"
+  },
+  {
+    "name": "miniroot",
+    "href": "miniroot/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/atari/installation/miniroot/",
+    "is_dir": true,
+    "size": null,
+    "date": "30-Sep-2023 17:20"
+  },
+  {
+    "name": "misc",
+    "href": "misc/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/atari/installation/misc/",
+    "is_dir": true,
+    "size": null,
+    "date": "30-Sep-2023 17:20"
+  },
+  {
+    "name": "BSDSUM",
+    "href": "BSDSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/atari/installation/BSDSUM",
+    "is_dir": false,
+    "size": "15 B",
+    "date": "02-Apr-1998 07:54"
+  },
+  {
+    "name": "CKSUM",
+    "href": "CKSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/atari/installation/CKSUM",
+    "is_dir": false,
+    "size": "22 B",
+    "date": "02-Apr-1998 07:54"
+  },
+  {
+    "name": "MD5",
+    "href": "MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/atari/installation/MD5",
+    "is_dir": false,
+    "size": "48 B",
+    "date": "02-Apr-1998 07:54"
+  },
+  {
+    "name": "README",
+    "href": "README",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/atari/installation/README",
+    "is_dir": false,
+    "size": "558 B",
+    "date": "05-Jan-1998 08:18"
+  },
+  {
+    "name": "SYSVSUM",
+    "href": "SYSVSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/atari/installation/SYSVSUM",
+    "is_dir": false,
+    "size": "15 B",
+    "date": "02-Apr-1998 07:54"
+  }
+]

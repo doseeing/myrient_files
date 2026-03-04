@@ -1,0 +1,186 @@
+[
+  {
+    "name": "Makefile",
+    "href": "Makefile",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/trix/sys/kdev/Makefile",
+    "is_dir": false,
+    "size": "502 B",
+    "date": "11-Oct-1986 22:50"
+  },
+  {
+    "name": "arp.h",
+    "href": "arp.h",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/trix/sys/kdev/arp.h",
+    "is_dir": false,
+    "size": "3.4 KiB",
+    "date": "11-Oct-1986 22:50"
+  },
+  {
+    "name": "cache.c",
+    "href": "cache.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/trix/sys/kdev/cache.c",
+    "is_dir": false,
+    "size": "13.8 KiB",
+    "date": "11-Oct-1986 22:50"
+  },
+  {
+    "name": "cache.h",
+    "href": "cache.h",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/trix/sys/kdev/cache.h",
+    "is_dir": false,
+    "size": "3.4 KiB",
+    "date": "11-Oct-1986 22:50"
+  },
+  {
+    "name": "clock.c",
+    "href": "clock.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/trix/sys/kdev/clock.c",
+    "is_dir": false,
+    "size": "5.4 KiB",
+    "date": "11-Oct-1986 22:50"
+  },
+  {
+    "name": "confram.h",
+    "href": "confram.h",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/trix/sys/kdev/confram.h",
+    "is_dir": false,
+    "size": "4.2 KiB",
+    "date": "11-Oct-1986 22:50"
+  },
+  {
+    "name": "eth.c",
+    "href": "eth.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/trix/sys/kdev/eth.c",
+    "is_dir": false,
+    "size": "9.9 KiB",
+    "date": "11-Oct-1986 22:50"
+  },
+  {
+    "name": "fsys.h",
+    "href": "fsys.h",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/trix/sys/kdev/fsys.h",
+    "is_dir": false,
+    "size": "4.6 KiB",
+    "date": "11-Oct-1986 22:50"
+  },
+  {
+    "name": "inode.h",
+    "href": "inode.h",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/trix/sys/kdev/inode.h",
+    "is_dir": false,
+    "size": "5.0 KiB",
+    "date": "11-Oct-1986 22:50"
+  },
+  {
+    "name": "kdev.c",
+    "href": "kdev.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/trix/sys/kdev/kdev.c",
+    "is_dir": false,
+    "size": "3.9 KiB",
+    "date": "11-Oct-1986 22:50"
+  },
+  {
+    "name": "key.h",
+    "href": "key.h",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/trix/sys/kdev/key.h",
+    "is_dir": false,
+    "size": "4.3 KiB",
+    "date": "11-Oct-1986 22:50"
+  },
+  {
+    "name": "net.c",
+    "href": "net.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/trix/sys/kdev/net.c",
+    "is_dir": false,
+    "size": "10.0 KiB",
+    "date": "11-Oct-1986 22:50"
+  },
+  {
+    "name": "net.h",
+    "href": "net.h",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/trix/sys/kdev/net.h",
+    "is_dir": false,
+    "size": "4.6 KiB",
+    "date": "11-Oct-1986 22:50"
+  },
+  {
+    "name": "param.h",
+    "href": "param.h",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/trix/sys/kdev/param.h",
+    "is_dir": false,
+    "size": "2.4 KiB",
+    "date": "11-Oct-1986 22:50"
+  },
+  {
+    "name": "pci.c",
+    "href": "pci.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/trix/sys/kdev/pci.c",
+    "is_dir": false,
+    "size": "9.5 KiB",
+    "date": "11-Oct-1986 22:50"
+  },
+  {
+    "name": "pci.h",
+    "href": "pci.h",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/trix/sys/kdev/pci.h",
+    "is_dir": false,
+    "size": "3.5 KiB",
+    "date": "11-Oct-1986 22:50"
+  },
+  {
+    "name": "peg.c",
+    "href": "peg.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/trix/sys/kdev/peg.c",
+    "is_dir": false,
+    "size": "11.1 KiB",
+    "date": "11-Oct-1986 22:50"
+  },
+  {
+    "name": "peg.h",
+    "href": "peg.h",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/trix/sys/kdev/peg.h",
+    "is_dir": false,
+    "size": "3.4 KiB",
+    "date": "11-Oct-1986 22:50"
+  },
+  {
+    "name": "smd.c",
+    "href": "smd.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/trix/sys/kdev/smd.c",
+    "is_dir": false,
+    "size": "11.3 KiB",
+    "date": "11-Oct-1986 22:50"
+  },
+  {
+    "name": "smd.h",
+    "href": "smd.h",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/trix/sys/kdev/smd.h",
+    "is_dir": false,
+    "size": "6.0 KiB",
+    "date": "11-Oct-1986 22:50"
+  },
+  {
+    "name": "sync.c",
+    "href": "sync.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/trix/sys/kdev/sync.c",
+    "is_dir": false,
+    "size": "3.4 KiB",
+    "date": "11-Oct-1986 22:50"
+  },
+  {
+    "name": "test.c",
+    "href": "test.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/trix/sys/kdev/test.c",
+    "is_dir": false,
+    "size": "2.5 KiB",
+    "date": "11-Oct-1986 22:50"
+  },
+  {
+    "name": "timer.c",
+    "href": "timer.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/trix/sys/kdev/timer.c",
+    "is_dir": false,
+    "size": "6.4 KiB",
+    "date": "11-Oct-1986 22:50"
+  }
+]

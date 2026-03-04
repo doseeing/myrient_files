@@ -1,0 +1,58 @@
+[
+  {
+    "name": "BSDSUM",
+    "href": "BSDSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/source/patches/BSDSUM",
+    "is_dir": false,
+    "size": "61 B",
+    "date": "14-Mar-2000 09:57"
+  },
+  {
+    "name": "CKSUM",
+    "href": "CKSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/source/patches/CKSUM",
+    "is_dir": false,
+    "size": "77 B",
+    "date": "14-Mar-2000 09:57"
+  },
+  {
+    "name": "MD5",
+    "href": "MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/source/patches/MD5",
+    "is_dir": false,
+    "size": "125 B",
+    "date": "14-Mar-2000 09:57"
+  },
+  {
+    "name": "README",
+    "href": "README",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/source/patches/README",
+    "is_dir": false,
+    "size": "656 B",
+    "date": "14-Mar-2000 10:19"
+  },
+  {
+    "name": "SYSVSUM",
+    "href": "SYSVSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/source/patches/SYSVSUM",
+    "is_dir": false,
+    "size": "61 B",
+    "date": "14-Mar-2000 09:57"
+  },
+  {
+    "name": "diff-1.4.1-to-1.4.2.gz",
+    "href": "diff-1.4.1-to-1.4.2.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/source/patches/diff-1.4.1-to-1.4.2.gz",
+    "is_dir": false,
+    "size": "2.9 MiB",
+    "date": "05-Mar-2000 23:46"
+  },
+  {
+    "name": "lfs-vs-netboot.diff",
+    "href": "lfs-vs-netboot.diff",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/source/patches/lfs-vs-netboot.diff",
+    "is_dir": false,
+    "size": "1.1 KiB",
+    "date": "14-Mar-2000 09:55"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "name": "source",
+    "href": "source/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/hp/terminal/264x/264x_firmware/source/",
+    "is_dir": true,
+    "size": null,
+    "date": "01-May-2010 16:08"
+  },
+  {
+    "name": "2640B.hex",
+    "href": "2640B.hex",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/hp/terminal/264x/264x_firmware/2640B.hex",
+    "is_dir": false,
+    "size": "22.0 KiB",
+    "date": "05-Dec-2017 22:20"
+  },
+  {
+    "name": "HP-2641_2642_2649.zip",
+    "href": "HP-2641_2642_2649.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/hp/terminal/264x/264x_firmware/HP-2641_2642_2649.zip",
+    "is_dir": false,
+    "size": "4.3 MiB",
+    "date": "11-Sep-2016 20:09"
+  },
+  {
+    "name": "HP-2647F.zip",
+    "href": "HP-2647F.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/hp/terminal/264x/264x_firmware/HP-2647F.zip",
+    "is_dir": false,
+    "size": "1.4 MiB",
+    "date": "11-Sep-2016 20:09"
+  },
+  {
+    "name": "HP2648A_Graphics-M-Controller_02640-60125.zip",
+    "href": "HP2648A_Graphics-M-Controller_02640-60125.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/hp/terminal/264x/264x_firmware/HP2648A_Graphics-M-Controller_02640-60125.zip",
+    "is_dir": false,
+    "size": "1.9 KiB",
+    "date": "08-Aug-2020 15:25"
+  },
+  {
+    "name": "HP_2640A.zip",
+    "href": "HP_2640A.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/hp/terminal/264x/264x_firmware/HP_2640A.zip",
+    "is_dir": false,
+    "size": "10.5 KiB",
+    "date": "13-Dec-2020 16:01"
+  },
+  {
+    "name": "HP_2645A.zip",
+    "href": "HP_2645A.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/hp/terminal/264x/264x_firmware/HP_2645A.zip",
+    "is_dir": false,
+    "size": "1.1 MiB",
+    "date": "05-Sep-2016 19:14"
+  },
+  {
+    "name": "HP_2647A.zip",
+    "href": "HP_2647A.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/hp/terminal/264x/264x_firmware/HP_2647A.zip",
+    "is_dir": false,
+    "size": "935.5 KiB",
+    "date": "05-Sep-2016 20:55"
+  },
+  {
+    "name": "HP_2648A.zip",
+    "href": "HP_2648A.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/hp/terminal/264x/264x_firmware/HP_2648A.zip",
+    "is_dir": false,
+    "size": "863.6 KiB",
+    "date": "05-Sep-2016 19:58"
+  },
+  {
+    "name": "hp2640b-chargen-1816-0612.hex",
+    "href": "hp2640b-chargen-1816-0612.hex",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/hp/terminal/264x/264x_firmware/hp2640b-chargen-1816-0612.hex",
+    "is_dir": false,
+    "size": "2.8 KiB",
+    "date": "05-Dec-2017 22:26"
+  },
+  {
+    "name": "hp2640b-chargen-1816-0613.hex",
+    "href": "hp2640b-chargen-1816-0613.hex",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/hp/terminal/264x/264x_firmware/hp2640b-chargen-1816-0613.hex",
+    "is_dir": false,
+    "size": "2.8 KiB",
+    "date": "05-Dec-2017 22:26"
+  }
+]

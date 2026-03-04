@@ -1,0 +1,90 @@
+[
+  {
+    "name": "BSDSUM",
+    "href": "BSDSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/mvme68k/binary/sets/BSDSUM",
+    "is_dir": false,
+    "size": "135 B",
+    "date": "04-Apr-1998 00:37"
+  },
+  {
+    "name": "CKSUM",
+    "href": "CKSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/mvme68k/binary/sets/CKSUM",
+    "is_dir": false,
+    "size": "192 B",
+    "date": "04-Apr-1998 00:37"
+  },
+  {
+    "name": "MD5",
+    "href": "MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/mvme68k/binary/sets/MD5",
+    "is_dir": false,
+    "size": "349 B",
+    "date": "04-Apr-1998 00:37"
+  },
+  {
+    "name": "SYSVSUM",
+    "href": "SYSVSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/mvme68k/binary/sets/SYSVSUM",
+    "is_dir": false,
+    "size": "139 B",
+    "date": "04-Apr-1998 00:37"
+  },
+  {
+    "name": "base.tgz",
+    "href": "base.tgz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/mvme68k/binary/sets/base.tgz",
+    "is_dir": false,
+    "size": "8.7 MiB",
+    "date": "03-Apr-1998 23:33"
+  },
+  {
+    "name": "comp.tgz",
+    "href": "comp.tgz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/mvme68k/binary/sets/comp.tgz",
+    "is_dir": false,
+    "size": "6.6 MiB",
+    "date": "03-Apr-1998 23:37"
+  },
+  {
+    "name": "etc.tgz",
+    "href": "etc.tgz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/mvme68k/binary/sets/etc.tgz",
+    "is_dir": false,
+    "size": "52.1 KiB",
+    "date": "03-Apr-1998 23:37"
+  },
+  {
+    "name": "games.tgz",
+    "href": "games.tgz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/mvme68k/binary/sets/games.tgz",
+    "is_dir": false,
+    "size": "2.8 MiB",
+    "date": "14-Mar-1998 15:10"
+  },
+  {
+    "name": "man.tgz",
+    "href": "man.tgz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/mvme68k/binary/sets/man.tgz",
+    "is_dir": false,
+    "size": "2.3 MiB",
+    "date": "03-Apr-1998 23:41"
+  },
+  {
+    "name": "misc.tgz",
+    "href": "misc.tgz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/mvme68k/binary/sets/misc.tgz",
+    "is_dir": false,
+    "size": "2.2 MiB",
+    "date": "03-Apr-1998 23:42"
+  },
+  {
+    "name": "text.tgz",
+    "href": "text.tgz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/mvme68k/binary/sets/text.tgz",
+    "is_dir": false,
+    "size": "984.2 KiB",
+    "date": "14-Mar-1998 15:26"
+  }
+]

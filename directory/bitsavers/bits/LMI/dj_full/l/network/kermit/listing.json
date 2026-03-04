@@ -1,0 +1,802 @@
+[
+  {
+    "name": "calls.lisp.58",
+    "href": "calls.lisp.58",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/kermit/calls.lisp.58",
+    "is_dir": false,
+    "size": "13.0 KiB",
+    "date": "21-Apr-2017 01:45"
+  },
+  {
+    "name": "calls.lisp.62",
+    "href": "calls.lisp.62",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/kermit/calls.lisp.62",
+    "is_dir": false,
+    "size": "14.5 KiB",
+    "date": "21-Apr-2017 01:45"
+  },
+  {
+    "name": "calls.lisp.63",
+    "href": "calls.lisp.63",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/kermit/calls.lisp.63",
+    "is_dir": false,
+    "size": "14.5 KiB",
+    "date": "21-Apr-2017 01:45"
+  },
+  {
+    "name": "calls.lisp.64",
+    "href": "calls.lisp.64",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/kermit/calls.lisp.64",
+    "is_dir": false,
+    "size": "14.5 KiB",
+    "date": "21-Apr-2017 01:45"
+  },
+  {
+    "name": "calls.lisp.65",
+    "href": "calls.lisp.65",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/kermit/calls.lisp.65",
+    "is_dir": false,
+    "size": "15.0 KiB",
+    "date": "21-Apr-2017 01:45"
+  },
+  {
+    "name": "calls.lisp.66",
+    "href": "calls.lisp.66",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/kermit/calls.lisp.66",
+    "is_dir": false,
+    "size": "15.3 KiB",
+    "date": "21-Apr-2017 01:45"
+  },
+  {
+    "name": "copyright.text.1",
+    "href": "copyright.text.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/kermit/copyright.text.1",
+    "is_dir": false,
+    "size": "394 B",
+    "date": "21-Apr-2017 01:45"
+  },
+  {
+    "name": "kermit-28.patch-directory.1",
+    "href": "kermit-28.patch-directory.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/kermit/kermit-28.patch-directory.1",
+    "is_dir": false,
+    "size": "426 B",
+    "date": "21-Apr-2017 01:45"
+  },
+  {
+    "name": "kermit-29.patch-directory.1",
+    "href": "kermit-29.patch-directory.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/kermit/kermit-29.patch-directory.1",
+    "is_dir": false,
+    "size": "426 B",
+    "date": "21-Apr-2017 01:45"
+  },
+  {
+    "name": "kermit-30.patch-directory.1",
+    "href": "kermit-30.patch-directory.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/kermit/kermit-30.patch-directory.1",
+    "is_dir": false,
+    "size": "480 B",
+    "date": "21-Apr-2017 01:45"
+  },
+  {
+    "name": "kermit-31-1.lisp.1",
+    "href": "kermit-31-1.lisp.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/kermit/kermit-31-1.lisp.1",
+    "is_dir": false,
+    "size": "6.9 KiB",
+    "date": "21-Apr-2017 01:45"
+  },
+  {
+    "name": "kermit-31-2.lisp.1",
+    "href": "kermit-31-2.lisp.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/kermit/kermit-31-2.lisp.1",
+    "is_dir": false,
+    "size": "6.6 KiB",
+    "date": "21-Apr-2017 01:45"
+  },
+  {
+    "name": "kermit-31-3.lisp.1",
+    "href": "kermit-31-3.lisp.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/kermit/kermit-31-3.lisp.1",
+    "is_dir": false,
+    "size": "6.8 KiB",
+    "date": "21-Apr-2017 01:45"
+  },
+  {
+    "name": "kermit-31.patch-directory.1",
+    "href": "kermit-31.patch-directory.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/kermit/kermit-31.patch-directory.1",
+    "is_dir": false,
+    "size": "506 B",
+    "date": "21-Apr-2017 01:45"
+  },
+  {
+    "name": "kermit-31.patch-directory.6",
+    "href": "kermit-31.patch-directory.6",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/kermit/kermit-31.patch-directory.6",
+    "is_dir": false,
+    "size": "1.1 KiB",
+    "date": "21-Apr-2017 01:46"
+  },
+  {
+    "name": "kermit-31.patch-directory.7",
+    "href": "kermit-31.patch-directory.7",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/kermit/kermit-31.patch-directory.7",
+    "is_dir": false,
+    "size": "1.1 KiB",
+    "date": "21-Apr-2017 01:46"
+  },
+  {
+    "name": "kermit-32.patch-directory.1",
+    "href": "kermit-32.patch-directory.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/kermit/kermit-32.patch-directory.1",
+    "is_dir": false,
+    "size": "508 B",
+    "date": "21-Apr-2017 01:46"
+  },
+  {
+    "name": "kermit-33-1.lisp.1",
+    "href": "kermit-33-1.lisp.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/kermit/kermit-33-1.lisp.1",
+    "is_dir": false,
+    "size": "2.5 KiB",
+    "date": "21-Apr-2017 01:46"
+  },
+  {
+    "name": "kermit-33.patch-directory.2",
+    "href": "kermit-33.patch-directory.2",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/kermit/kermit-33.patch-directory.2",
+    "is_dir": false,
+    "size": "644 B",
+    "date": "21-Apr-2017 01:46"
+  },
+  {
+    "name": "kermit-33.patch-directory.3",
+    "href": "kermit-33.patch-directory.3",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/kermit/kermit-33.patch-directory.3",
+    "is_dir": false,
+    "size": "717 B",
+    "date": "21-Apr-2017 01:46"
+  },
+  {
+    "name": "kermit-34-1.lisp.2",
+    "href": "kermit-34-1.lisp.2",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/kermit/kermit-34-1.lisp.2",
+    "is_dir": false,
+    "size": "7.3 KiB",
+    "date": "21-Apr-2017 01:46"
+  },
+  {
+    "name": "kermit-34-2.lisp.1",
+    "href": "kermit-34-2.lisp.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/kermit/kermit-34-2.lisp.1",
+    "is_dir": false,
+    "size": "2.7 KiB",
+    "date": "21-Apr-2017 01:46"
+  },
+  {
+    "name": "kermit-34-3.lisp.1",
+    "href": "kermit-34-3.lisp.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/kermit/kermit-34-3.lisp.1",
+    "is_dir": false,
+    "size": "2.3 KiB",
+    "date": "21-Apr-2017 01:46"
+  },
+  {
+    "name": "kermit-34.patch-directory.7",
+    "href": "kermit-34.patch-directory.7",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/kermit/kermit-34.patch-directory.7",
+    "is_dir": false,
+    "size": "1.1 KiB",
+    "date": "21-Apr-2017 01:46"
+  },
+  {
+    "name": "kermit-35-1.lisp.1",
+    "href": "kermit-35-1.lisp.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/kermit/kermit-35-1.lisp.1",
+    "is_dir": false,
+    "size": "11.5 KiB",
+    "date": "21-Apr-2017 01:46"
+  },
+  {
+    "name": "kermit-35-2.lisp.1",
+    "href": "kermit-35-2.lisp.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/kermit/kermit-35-2.lisp.1",
+    "is_dir": false,
+    "size": "1.0 KiB",
+    "date": "21-Apr-2017 01:46"
+  },
+  {
+    "name": "kermit-35-3.lisp.1",
+    "href": "kermit-35-3.lisp.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/kermit/kermit-35-3.lisp.1",
+    "is_dir": false,
+    "size": "7.2 KiB",
+    "date": "21-Apr-2017 01:46"
+  },
+  {
+    "name": "kermit-35-4.lisp.1",
+    "href": "kermit-35-4.lisp.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/kermit/kermit-35-4.lisp.1",
+    "is_dir": false,
+    "size": "15.2 KiB",
+    "date": "21-Apr-2017 01:46"
+  },
+  {
+    "name": "kermit-35-5.lisp.1",
+    "href": "kermit-35-5.lisp.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/kermit/kermit-35-5.lisp.1",
+    "is_dir": false,
+    "size": "1.3 KiB",
+    "date": "21-Apr-2017 01:46"
+  },
+  {
+    "name": "kermit-35-6.lisp.1",
+    "href": "kermit-35-6.lisp.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/kermit/kermit-35-6.lisp.1",
+    "is_dir": false,
+    "size": "6.4 KiB",
+    "date": "21-Apr-2017 01:46"
+  },
+  {
+    "name": "kermit-35-6.lisp.2",
+    "href": "kermit-35-6.lisp.2",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/kermit/kermit-35-6.lisp.2",
+    "is_dir": false,
+    "size": "8.9 KiB",
+    "date": "21-Apr-2017 01:46"
+  },
+  {
+    "name": "kermit-35.patch-directory.10",
+    "href": "kermit-35.patch-directory.10",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/kermit/kermit-35.patch-directory.10",
+    "is_dir": false,
+    "size": "1.5 KiB",
+    "date": "21-Apr-2017 01:46"
+  },
+  {
+    "name": "kermit-35.patch-directory.11",
+    "href": "kermit-35.patch-directory.11",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/kermit/kermit-35.patch-directory.11",
+    "is_dir": false,
+    "size": "1.7 KiB",
+    "date": "21-Apr-2017 01:46"
+  },
+  {
+    "name": "kermit-35.patch-directory.12",
+    "href": "kermit-35.patch-directory.12",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/kermit/kermit-35.patch-directory.12",
+    "is_dir": false,
+    "size": "1.7 KiB",
+    "date": "21-Apr-2017 01:46"
+  },
+  {
+    "name": "kermit-35.patch-directory.13",
+    "href": "kermit-35.patch-directory.13",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/kermit/kermit-35.patch-directory.13",
+    "is_dir": false,
+    "size": "1.7 KiB",
+    "date": "21-Apr-2017 01:46"
+  },
+  {
+    "name": "kermit-35.patch-directory.14",
+    "href": "kermit-35.patch-directory.14",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/kermit/kermit-35.patch-directory.14",
+    "is_dir": false,
+    "size": "1.8 KiB",
+    "date": "21-Apr-2017 01:46"
+  },
+  {
+    "name": "kermit-35.patch-directory.2",
+    "href": "kermit-35.patch-directory.2",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/kermit/kermit-35.patch-directory.2",
+    "is_dir": false,
+    "size": "535 B",
+    "date": "21-Apr-2017 01:46"
+  },
+  {
+    "name": "kermit-35.patch-directory.3",
+    "href": "kermit-35.patch-directory.3",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/kermit/kermit-35.patch-directory.3",
+    "is_dir": false,
+    "size": "800 B",
+    "date": "21-Apr-2017 01:46"
+  },
+  {
+    "name": "kermit-35.patch-directory.4",
+    "href": "kermit-35.patch-directory.4",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/kermit/kermit-35.patch-directory.4",
+    "is_dir": false,
+    "size": "822 B",
+    "date": "21-Apr-2017 01:46"
+  },
+  {
+    "name": "kermit-35.patch-directory.5",
+    "href": "kermit-35.patch-directory.5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/kermit/kermit-35.patch-directory.5",
+    "is_dir": false,
+    "size": "955 B",
+    "date": "21-Apr-2017 01:46"
+  },
+  {
+    "name": "kermit-35.patch-directory.6",
+    "href": "kermit-35.patch-directory.6",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/kermit/kermit-35.patch-directory.6",
+    "is_dir": false,
+    "size": "977 B",
+    "date": "21-Apr-2017 01:46"
+  },
+  {
+    "name": "kermit-35.patch-directory.7",
+    "href": "kermit-35.patch-directory.7",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/kermit/kermit-35.patch-directory.7",
+    "is_dir": false,
+    "size": "1.4 KiB",
+    "date": "21-Apr-2017 01:46"
+  },
+  {
+    "name": "kermit-35.patch-directory.8",
+    "href": "kermit-35.patch-directory.8",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/kermit/kermit-35.patch-directory.8",
+    "is_dir": false,
+    "size": "1.4 KiB",
+    "date": "21-Apr-2017 01:46"
+  },
+  {
+    "name": "kermit-35.patch-directory.9",
+    "href": "kermit-35.patch-directory.9",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/kermit/kermit-35.patch-directory.9",
+    "is_dir": false,
+    "size": "1.5 KiB",
+    "date": "21-Apr-2017 01:46"
+  },
+  {
+    "name": "kermit-36-1.lisp.1",
+    "href": "kermit-36-1.lisp.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/kermit/kermit-36-1.lisp.1",
+    "is_dir": false,
+    "size": "20.0 KiB",
+    "date": "21-Apr-2017 01:46"
+  },
+  {
+    "name": "kermit-36-2.lisp.1",
+    "href": "kermit-36-2.lisp.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/kermit/kermit-36-2.lisp.1",
+    "is_dir": false,
+    "size": "6.3 KiB",
+    "date": "21-Apr-2017 01:46"
+  },
+  {
+    "name": "kermit-36-3.lisp.1",
+    "href": "kermit-36-3.lisp.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/kermit/kermit-36-3.lisp.1",
+    "is_dir": false,
+    "size": "7.6 KiB",
+    "date": "21-Apr-2017 01:46"
+  },
+  {
+    "name": "kermit-36-4.lisp.1",
+    "href": "kermit-36-4.lisp.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/kermit/kermit-36-4.lisp.1",
+    "is_dir": false,
+    "size": "12.9 KiB",
+    "date": "21-Apr-2017 01:46"
+  },
+  {
+    "name": "kermit-36-5.lisp.1",
+    "href": "kermit-36-5.lisp.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/kermit/kermit-36-5.lisp.1",
+    "is_dir": false,
+    "size": "7.4 KiB",
+    "date": "21-Apr-2017 01:46"
+  },
+  {
+    "name": "kermit-36.patch-directory.1",
+    "href": "kermit-36.patch-directory.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/kermit/kermit-36.patch-directory.1",
+    "is_dir": false,
+    "size": "495 B",
+    "date": "21-Apr-2017 01:46"
+  },
+  {
+    "name": "kermit-36.patch-directory.10",
+    "href": "kermit-36.patch-directory.10",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/kermit/kermit-36.patch-directory.10",
+    "is_dir": false,
+    "size": "940 B",
+    "date": "21-Apr-2017 01:46"
+  },
+  {
+    "name": "kermit-36.patch-directory.11",
+    "href": "kermit-36.patch-directory.11",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/kermit/kermit-36.patch-directory.11",
+    "is_dir": false,
+    "size": "1.5 KiB",
+    "date": "21-Apr-2017 01:46"
+  },
+  {
+    "name": "kermit-36.patch-directory.12",
+    "href": "kermit-36.patch-directory.12",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/kermit/kermit-36.patch-directory.12",
+    "is_dir": false,
+    "size": "1.5 KiB",
+    "date": "21-Apr-2017 01:46"
+  },
+  {
+    "name": "kermit-36.patch-directory.13",
+    "href": "kermit-36.patch-directory.13",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/kermit/kermit-36.patch-directory.13",
+    "is_dir": false,
+    "size": "2.0 KiB",
+    "date": "21-Apr-2017 01:46"
+  },
+  {
+    "name": "kermit-36.patch-directory.2",
+    "href": "kermit-36.patch-directory.2",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/kermit/kermit-36.patch-directory.2",
+    "is_dir": false,
+    "size": "543 B",
+    "date": "21-Apr-2017 01:46"
+  },
+  {
+    "name": "kermit-36.patch-directory.3",
+    "href": "kermit-36.patch-directory.3",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/kermit/kermit-36.patch-directory.3",
+    "is_dir": false,
+    "size": "521 B",
+    "date": "21-Apr-2017 01:46"
+  },
+  {
+    "name": "kermit-36.patch-directory.4",
+    "href": "kermit-36.patch-directory.4",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/kermit/kermit-36.patch-directory.4",
+    "is_dir": false,
+    "size": "543 B",
+    "date": "21-Apr-2017 01:46"
+  },
+  {
+    "name": "kermit-36.patch-directory.5",
+    "href": "kermit-36.patch-directory.5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/kermit/kermit-36.patch-directory.5",
+    "is_dir": false,
+    "size": "742 B",
+    "date": "21-Apr-2017 01:46"
+  },
+  {
+    "name": "kermit-36.patch-directory.6",
+    "href": "kermit-36.patch-directory.6",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/kermit/kermit-36.patch-directory.6",
+    "is_dir": false,
+    "size": "747 B",
+    "date": "21-Apr-2017 01:46"
+  },
+  {
+    "name": "kermit-36.patch-directory.7",
+    "href": "kermit-36.patch-directory.7",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/kermit/kermit-36.patch-directory.7",
+    "is_dir": false,
+    "size": "782 B",
+    "date": "21-Apr-2017 01:46"
+  },
+  {
+    "name": "kermit-36.patch-directory.8",
+    "href": "kermit-36.patch-directory.8",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/kermit/kermit-36.patch-directory.8",
+    "is_dir": false,
+    "size": "850 B",
+    "date": "21-Apr-2017 01:46"
+  },
+  {
+    "name": "kermit-36.patch-directory.9",
+    "href": "kermit-36.patch-directory.9",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/kermit/kermit-36.patch-directory.9",
+    "is_dir": false,
+    "size": "918 B",
+    "date": "21-Apr-2017 01:46"
+  },
+  {
+    "name": "kermit-37.patch-directory.1",
+    "href": "kermit-37.patch-directory.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/kermit/kermit-37.patch-directory.1",
+    "is_dir": false,
+    "size": "499 B",
+    "date": "21-Apr-2017 01:46"
+  },
+  {
+    "name": "kermit-38.patch-directory.1",
+    "href": "kermit-38.patch-directory.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/kermit/kermit-38.patch-directory.1",
+    "is_dir": false,
+    "size": "484 B",
+    "date": "21-Apr-2017 01:46"
+  },
+  {
+    "name": "kermit-cwarns.lisp.1",
+    "href": "kermit-cwarns.lisp.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/kermit/kermit-cwarns.lisp.1",
+    "is_dir": false,
+    "size": "95 B",
+    "date": "21-Apr-2017 01:46"
+  },
+  {
+    "name": "kermit-cwarns.lisp.2",
+    "href": "kermit-cwarns.lisp.2",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/kermit/kermit-cwarns.lisp.2",
+    "is_dir": false,
+    "size": "5.0 KiB",
+    "date": "21-Apr-2017 01:46"
+  },
+  {
+    "name": "kermit-cwarns.lisp.3",
+    "href": "kermit-cwarns.lisp.3",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/kermit/kermit-cwarns.lisp.3",
+    "is_dir": false,
+    "size": "6.4 KiB",
+    "date": "21-Apr-2017 01:46"
+  },
+  {
+    "name": "kermit.patch-directory.37",
+    "href": "kermit.patch-directory.37",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/kermit/kermit.patch-directory.37",
+    "is_dir": false,
+    "size": "500 B",
+    "date": "21-Apr-2017 01:46"
+  },
+  {
+    "name": "kermit.patch-directory.38",
+    "href": "kermit.patch-directory.38",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/kermit/kermit.patch-directory.38",
+    "is_dir": false,
+    "size": "415 B",
+    "date": "21-Apr-2017 01:46"
+  },
+  {
+    "name": "kermit.patch-directory.39",
+    "href": "kermit.patch-directory.39",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/kermit/kermit.patch-directory.39",
+    "is_dir": false,
+    "size": "419 B",
+    "date": "21-Apr-2017 01:46"
+  },
+  {
+    "name": "kermit.patch-directory.40",
+    "href": "kermit.patch-directory.40",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/kermit/kermit.patch-directory.40",
+    "is_dir": false,
+    "size": "406 B",
+    "date": "21-Apr-2017 01:46"
+  },
+  {
+    "name": "lambda-sdu-serial.lisp.1",
+    "href": "lambda-sdu-serial.lisp.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/kermit/lambda-sdu-serial.lisp.1",
+    "is_dir": false,
+    "size": "1.4 KiB",
+    "date": "21-Apr-2017 01:46"
+  },
+  {
+    "name": "lambda-sdu-serial.lisp.2",
+    "href": "lambda-sdu-serial.lisp.2",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/kermit/lambda-sdu-serial.lisp.2",
+    "is_dir": false,
+    "size": "1.5 KiB",
+    "date": "21-Apr-2017 01:46"
+  },
+  {
+    "name": "lambda-sdu-serial.lisp.3",
+    "href": "lambda-sdu-serial.lisp.3",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/kermit/lambda-sdu-serial.lisp.3",
+    "is_dir": false,
+    "size": "1.7 KiB",
+    "date": "21-Apr-2017 01:46"
+  },
+  {
+    "name": "lambda-sdu-serial.lisp.4",
+    "href": "lambda-sdu-serial.lisp.4",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/kermit/lambda-sdu-serial.lisp.4",
+    "is_dir": false,
+    "size": "2.3 KiB",
+    "date": "21-Apr-2017 01:46"
+  },
+  {
+    "name": "open.lisp.14",
+    "href": "open.lisp.14",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/kermit/open.lisp.14",
+    "is_dir": false,
+    "size": "3.6 KiB",
+    "date": "21-Apr-2017 01:46"
+  },
+  {
+    "name": "proto.lisp.35",
+    "href": "proto.lisp.35",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/kermit/proto.lisp.35",
+    "is_dir": false,
+    "size": "42.2 KiB",
+    "date": "21-Apr-2017 01:46"
+  },
+  {
+    "name": "s-term.lisp.23",
+    "href": "s-term.lisp.23",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/kermit/s-term.lisp.23",
+    "is_dir": false,
+    "size": "22.1 KiB",
+    "date": "21-Apr-2017 01:46"
+  },
+  {
+    "name": "s-term.lisp.24",
+    "href": "s-term.lisp.24",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/kermit/s-term.lisp.24",
+    "is_dir": false,
+    "size": "22.1 KiB",
+    "date": "21-Apr-2017 01:46"
+  },
+  {
+    "name": "s-term.lisp.25",
+    "href": "s-term.lisp.25",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/kermit/s-term.lisp.25",
+    "is_dir": false,
+    "size": "22.2 KiB",
+    "date": "21-Apr-2017 01:46"
+  },
+  {
+    "name": "server.lisp.12",
+    "href": "server.lisp.12",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/kermit/server.lisp.12",
+    "is_dir": false,
+    "size": "5.0 KiB",
+    "date": "21-Apr-2017 01:46"
+  },
+  {
+    "name": "sysdef.lisp.3",
+    "href": "sysdef.lisp.3",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/kermit/sysdef.lisp.3",
+    "is_dir": false,
+    "size": "2.2 KiB",
+    "date": "21-Apr-2017 01:46"
+  },
+  {
+    "name": "sysdef.lisp.4",
+    "href": "sysdef.lisp.4",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/kermit/sysdef.lisp.4",
+    "is_dir": false,
+    "size": "2.3 KiB",
+    "date": "21-Apr-2017 01:46"
+  },
+  {
+    "name": "sysdef.lisp.5",
+    "href": "sysdef.lisp.5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/kermit/sysdef.lisp.5",
+    "is_dir": false,
+    "size": "2.6 KiB",
+    "date": "21-Apr-2017 01:46"
+  },
+  {
+    "name": "sysdef.lisp.6",
+    "href": "sysdef.lisp.6",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/kermit/sysdef.lisp.6",
+    "is_dir": false,
+    "size": "2.6 KiB",
+    "date": "21-Apr-2017 01:46"
+  },
+  {
+    "name": "term.lisp.66",
+    "href": "term.lisp.66",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/kermit/term.lisp.66",
+    "is_dir": false,
+    "size": "43.1 KiB",
+    "date": "21-Apr-2017 01:46"
+  },
+  {
+    "name": "term.lisp.68",
+    "href": "term.lisp.68",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/kermit/term.lisp.68",
+    "is_dir": false,
+    "size": "39.8 KiB",
+    "date": "21-Apr-2017 01:46"
+  },
+  {
+    "name": "term.lisp.69",
+    "href": "term.lisp.69",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/kermit/term.lisp.69",
+    "is_dir": false,
+    "size": "39.8 KiB",
+    "date": "21-Apr-2017 01:46"
+  },
+  {
+    "name": "term.lisp.70",
+    "href": "term.lisp.70",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/kermit/term.lisp.70",
+    "is_dir": false,
+    "size": "39.7 KiB",
+    "date": "21-Apr-2017 01:46"
+  },
+  {
+    "name": "window.lisp.72",
+    "href": "window.lisp.72",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/kermit/window.lisp.72",
+    "is_dir": false,
+    "size": "28.8 KiB",
+    "date": "21-Apr-2017 01:46"
+  },
+  {
+    "name": "window.lisp.74",
+    "href": "window.lisp.74",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/kermit/window.lisp.74",
+    "is_dir": false,
+    "size": "28.6 KiB",
+    "date": "21-Apr-2017 01:46"
+  },
+  {
+    "name": "window.lisp.75",
+    "href": "window.lisp.75",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/kermit/window.lisp.75",
+    "is_dir": false,
+    "size": "28.8 KiB",
+    "date": "21-Apr-2017 01:46"
+  },
+  {
+    "name": "window.lisp.76",
+    "href": "window.lisp.76",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/kermit/window.lisp.76",
+    "is_dir": false,
+    "size": "29.3 KiB",
+    "date": "21-Apr-2017 01:46"
+  },
+  {
+    "name": "window.lisp.77",
+    "href": "window.lisp.77",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/kermit/window.lisp.77",
+    "is_dir": false,
+    "size": "29.8 KiB",
+    "date": "21-Apr-2017 01:46"
+  },
+  {
+    "name": "window.lisp.78",
+    "href": "window.lisp.78",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/kermit/window.lisp.78",
+    "is_dir": false,
+    "size": "29.8 KiB",
+    "date": "21-Apr-2017 01:46"
+  },
+  {
+    "name": "window.lisp.79",
+    "href": "window.lisp.79",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/kermit/window.lisp.79",
+    "is_dir": false,
+    "size": "30.2 KiB",
+    "date": "21-Apr-2017 01:46"
+  },
+  {
+    "name": "window.lisp.80",
+    "href": "window.lisp.80",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/kermit/window.lisp.80",
+    "is_dir": false,
+    "size": "30.1 KiB",
+    "date": "21-Apr-2017 01:46"
+  },
+  {
+    "name": "window.lisp.81",
+    "href": "window.lisp.81",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/kermit/window.lisp.81",
+    "is_dir": false,
+    "size": "30.1 KiB",
+    "date": "21-Apr-2017 01:46"
+  },
+  {
+    "name": "window.lisp.82",
+    "href": "window.lisp.82",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/kermit/window.lisp.82",
+    "is_dir": false,
+    "size": "30.1 KiB",
+    "date": "21-Apr-2017 01:46"
+  },
+  {
+    "name": "window.lisp.83",
+    "href": "window.lisp.83",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/kermit/window.lisp.83",
+    "is_dir": false,
+    "size": "31.1 KiB",
+    "date": "21-Apr-2017 01:46"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Split",
+    "href": "Split/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/source/security/Split/",
+    "is_dir": true,
+    "size": null,
+    "date": "01-Oct-2023 18:33"
+  },
+  {
+    "name": "BSDSUM",
+    "href": "BSDSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/source/security/BSDSUM",
+    "is_dir": false,
+    "size": "22 B",
+    "date": "11-Mar-2000 17:27"
+  },
+  {
+    "name": "CKSUM",
+    "href": "CKSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/source/security/CKSUM",
+    "is_dir": false,
+    "size": "30 B",
+    "date": "11-Mar-2000 17:27"
+  },
+  {
+    "name": "MD5",
+    "href": "MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/source/security/MD5",
+    "is_dir": false,
+    "size": "53 B",
+    "date": "11-Mar-2000 17:27"
+  },
+  {
+    "name": "README.export-control",
+    "href": "README.export-control",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/source/security/README.export-control",
+    "is_dir": false,
+    "size": "611 B",
+    "date": "07-Jun-2000 04:48"
+  },
+  {
+    "name": "SYSVSUM",
+    "href": "SYSVSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/source/security/SYSVSUM",
+    "is_dir": false,
+    "size": "22 B",
+    "date": "11-Mar-2000 17:27"
+  },
+  {
+    "name": "secrsrc.tgz",
+    "href": "secrsrc.tgz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/source/security/secrsrc.tgz",
+    "is_dir": false,
+    "size": "421.9 KiB",
+    "date": "05-Mar-2000 23:29"
+  }
+]

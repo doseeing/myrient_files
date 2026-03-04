@@ -1,0 +1,42 @@
+[
+  {
+    "name": "BSDSUM",
+    "href": "BSDSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/arm32/installation/misc/BSDSUM",
+    "is_dir": false,
+    "size": "28 B",
+    "date": "16-Mar-2000 08:11"
+  },
+  {
+    "name": "CKSUM",
+    "href": "CKSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/arm32/installation/misc/CKSUM",
+    "is_dir": false,
+    "size": "36 B",
+    "date": "16-Mar-2000 08:11"
+  },
+  {
+    "name": "MD5",
+    "href": "MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/arm32/installation/misc/MD5",
+    "is_dir": false,
+    "size": "59 B",
+    "date": "16-Mar-2000 08:11"
+  },
+  {
+    "name": "SYSVSUM",
+    "href": "SYSVSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/arm32/installation/misc/SYSVSUM",
+    "is_dir": false,
+    "size": "29 B",
+    "date": "16-Mar-2000 08:11"
+  },
+  {
+    "name": "ramdisk-142.fs.gz",
+    "href": "ramdisk-142.fs.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/arm32/installation/misc/ramdisk-142.fs.gz",
+    "is_dir": false,
+    "size": "647.0 KiB",
+    "date": "16-Mar-2000 08:06"
+  }
+]

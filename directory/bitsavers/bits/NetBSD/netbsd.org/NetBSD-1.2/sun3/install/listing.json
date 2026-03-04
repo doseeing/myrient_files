@@ -1,0 +1,58 @@
+[
+  {
+    "name": "CKSUMS",
+    "href": "CKSUMS",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/sun3/install/CKSUMS",
+    "is_dir": false,
+    "size": "193 B",
+    "date": "08-Oct-1996 16:41"
+  },
+  {
+    "name": "MakeBootTape",
+    "href": "MakeBootTape",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/sun3/install/MakeBootTape",
+    "is_dir": false,
+    "size": "463 B",
+    "date": "29-Aug-1996 17:55"
+  },
+  {
+    "name": "miniroot.gz",
+    "href": "miniroot.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/sun3/install/miniroot.gz",
+    "is_dir": false,
+    "size": "3.3 MiB",
+    "date": "08-Oct-1996 14:23"
+  },
+  {
+    "name": "netboot",
+    "href": "netboot",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/sun3/install/netboot",
+    "is_dir": false,
+    "size": "14.0 KiB",
+    "date": "28-Aug-1996 15:35"
+  },
+  {
+    "name": "netbsd-gen.gz",
+    "href": "netbsd-gen.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/sun3/install/netbsd-gen.gz",
+    "is_dir": false,
+    "size": "417.0 KiB",
+    "date": "03-Oct-1996 22:57"
+  },
+  {
+    "name": "netbsd-rd.gz",
+    "href": "netbsd-rd.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/sun3/install/netbsd-rd.gz",
+    "is_dir": false,
+    "size": "405.7 KiB",
+    "date": "03-Oct-1996 22:57"
+  },
+  {
+    "name": "tapeboot",
+    "href": "tapeboot",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/sun3/install/tapeboot",
+    "is_dir": false,
+    "size": "6.0 KiB",
+    "date": "28-Aug-1996 15:35"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "name": "BSDSUM",
+    "href": "BSDSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/atari/progs/BSDSUM",
+    "is_dir": false,
+    "size": "196 B",
+    "date": "05-Jan-1998 10:34"
+  },
+  {
+    "name": "CKSUM",
+    "href": "CKSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/atari/progs/CKSUM",
+    "is_dir": false,
+    "size": "257 B",
+    "date": "05-Jan-1998 10:34"
+  },
+  {
+    "name": "MD5",
+    "href": "MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/atari/progs/MD5",
+    "is_dir": false,
+    "size": "449 B",
+    "date": "05-Jan-1998 10:34"
+  },
+  {
+    "name": "README",
+    "href": "README",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/atari/progs/README",
+    "is_dir": false,
+    "size": "579 B",
+    "date": "05-Jan-1998 10:29"
+  },
+  {
+    "name": "README.Xdaniver",
+    "href": "README.Xdaniver",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/atari/progs/README.Xdaniver",
+    "is_dir": false,
+    "size": "1.2 KiB",
+    "date": "16-Jan-1996 07:36"
+  },
+  {
+    "name": "SYSVSUM",
+    "href": "SYSVSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/atari/progs/SYSVSUM",
+    "is_dir": false,
+    "size": "195 B",
+    "date": "05-Jan-1998 10:34"
+  },
+  {
+    "name": "XF68_W32.gz",
+    "href": "XF68_W32.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/atari/progs/XF68_W32.gz",
+    "is_dir": false,
+    "size": "540.8 KiB",
+    "date": "26-May-1997 20:33"
+  },
+  {
+    "name": "Xdaniver-atari-1.01.tar.gz",
+    "href": "Xdaniver-atari-1.01.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/atari/progs/Xdaniver-atari-1.01.tar.gz",
+    "is_dir": false,
+    "size": "1.8 MiB",
+    "date": "16-Jan-1996 07:58"
+  },
+  {
+    "name": "Xdaniver-ipl.gz",
+    "href": "Xdaniver-ipl.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/atari/progs/Xdaniver-ipl.gz",
+    "is_dir": false,
+    "size": "395.7 KiB",
+    "date": "16-Jan-1996 07:36"
+  },
+  {
+    "name": "Xdaniver-mfb.gz",
+    "href": "Xdaniver-mfb.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/atari/progs/Xdaniver-mfb.gz",
+    "is_dir": false,
+    "size": "308.2 KiB",
+    "date": "16-Jan-1996 07:39"
+  },
+  {
+    "name": "Xdaniver.diffs",
+    "href": "Xdaniver.diffs",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/atari/progs/Xdaniver.diffs",
+    "is_dir": false,
+    "size": "1.5 KiB",
+    "date": "09-Oct-1997 15:01"
+  },
+  {
+    "name": "Xdaniver.gz",
+    "href": "Xdaniver.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/atari/progs/Xdaniver.gz",
+    "is_dir": false,
+    "size": "392.9 KiB",
+    "date": "09-Oct-1997 15:03"
+  }
+]

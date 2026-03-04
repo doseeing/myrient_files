@@ -1,0 +1,554 @@
+[
+  {
+    "name": "BreakPt.mesa_Sep78.pdf",
+    "href": "BreakPt.mesa_Sep78.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/4.0_1978/listing/Mesa_4_Debug/BreakPt.mesa_Sep78.pdf",
+    "is_dir": false,
+    "size": "677.3 KiB",
+    "date": "30-Oct-2010 02:11"
+  },
+  {
+    "name": "Command.mesa_Sep78.pdf",
+    "href": "Command.mesa_Sep78.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/4.0_1978/listing/Mesa_4_Debug/Command.mesa_Sep78.pdf",
+    "is_dir": false,
+    "size": "794.3 KiB",
+    "date": "30-Oct-2010 02:11"
+  },
+  {
+    "name": "CommandDefs.mesa_Sep78.pdf",
+    "href": "CommandDefs.mesa_Sep78.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/4.0_1978/listing/Mesa_4_Debug/CommandDefs.mesa_Sep78.pdf",
+    "is_dir": false,
+    "size": "53.2 KiB",
+    "date": "30-Oct-2010 02:11"
+  },
+  {
+    "name": "CommandTabDefs.mesa_Sep78.pdf",
+    "href": "CommandTabDefs.mesa_Sep78.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/4.0_1978/listing/Mesa_4_Debug/CommandTabDefs.mesa_Sep78.pdf",
+    "is_dir": false,
+    "size": "29.1 KiB",
+    "date": "30-Oct-2010 02:11"
+  },
+  {
+    "name": "CommandTable.mesa_Sep78.pdf",
+    "href": "CommandTable.mesa_Sep78.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/4.0_1978/listing/Mesa_4_Debug/CommandTable.mesa_Sep78.pdf",
+    "is_dir": false,
+    "size": "76.1 KiB",
+    "date": "30-Oct-2010 02:11"
+  },
+  {
+    "name": "CoreMap.mesa_Sep78.pdf",
+    "href": "CoreMap.mesa_Sep78.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/4.0_1978/listing/Mesa_4_Debug/CoreMap.mesa_Sep78.pdf",
+    "is_dir": false,
+    "size": "332.1 KiB",
+    "date": "30-Oct-2010 02:11"
+  },
+  {
+    "name": "DI.grammar.mesa_Sep78.pdf",
+    "href": "DI.grammar.mesa_Sep78.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/4.0_1978/listing/Mesa_4_Debug/DI.grammar.mesa_Sep78.pdf",
+    "is_dir": false,
+    "size": "48.1 KiB",
+    "date": "30-Oct-2010 02:11"
+  },
+  {
+    "name": "DI.summary_Sep78.pdf",
+    "href": "DI.summary_Sep78.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/4.0_1978/listing/Mesa_4_Debug/DI.summary_Sep78.pdf",
+    "is_dir": false,
+    "size": "108.3 KiB",
+    "date": "30-Oct-2010 02:11"
+  },
+  {
+    "name": "DIActionDefs.mesa_Sep78.pdf",
+    "href": "DIActionDefs.mesa_Sep78.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/4.0_1978/listing/Mesa_4_Debug/DIActionDefs.mesa_Sep78.pdf",
+    "is_dir": false,
+    "size": "144.1 KiB",
+    "date": "30-Oct-2010 02:11"
+  },
+  {
+    "name": "DIActionsCold.mesa_Sep78.pdf",
+    "href": "DIActionsCold.mesa_Sep78.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/4.0_1978/listing/Mesa_4_Debug/DIActionsCold.mesa_Sep78.pdf",
+    "is_dir": false,
+    "size": "417.7 KiB",
+    "date": "30-Oct-2010 02:11"
+  },
+  {
+    "name": "DIActionsHot.mesa_Sep78.pdf",
+    "href": "DIActionsHot.mesa_Sep78.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/4.0_1978/listing/Mesa_4_Debug/DIActionsHot.mesa_Sep78.pdf",
+    "is_dir": false,
+    "size": "713.0 KiB",
+    "date": "30-Oct-2010 02:11"
+  },
+  {
+    "name": "DIActionsMed.mesa_Sep78.pdf",
+    "href": "DIActionsMed.mesa_Sep78.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/4.0_1978/listing/Mesa_4_Debug/DIActionsMed.mesa_Sep78.pdf",
+    "is_dir": false,
+    "size": "446.8 KiB",
+    "date": "30-Oct-2010 02:11"
+  },
+  {
+    "name": "DIDefs.mesa_Sep78.pdf",
+    "href": "DIDefs.mesa_Sep78.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/4.0_1978/listing/Mesa_4_Debug/DIDefs.mesa_Sep78.pdf",
+    "is_dir": false,
+    "size": "92.0 KiB",
+    "date": "30-Oct-2010 02:11"
+  },
+  {
+    "name": "DIInterpreter.mesa_Sep78.pdf",
+    "href": "DIInterpreter.mesa_Sep78.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/4.0_1978/listing/Mesa_4_Debug/DIInterpreter.mesa_Sep78.pdf",
+    "is_dir": false,
+    "size": "349.6 KiB",
+    "date": "30-Oct-2010 02:11"
+  },
+  {
+    "name": "DILALRDefs.mesa_Sep78.pdf",
+    "href": "DILALRDefs.mesa_Sep78.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/4.0_1978/listing/Mesa_4_Debug/DILALRDefs.mesa_Sep78.pdf",
+    "is_dir": false,
+    "size": "67.3 KiB",
+    "date": "30-Oct-2010 02:11"
+  },
+  {
+    "name": "DILitDefs.mesa_Sep78.pdf",
+    "href": "DILitDefs.mesa_Sep78.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/4.0_1978/listing/Mesa_4_Debug/DILitDefs.mesa_Sep78.pdf",
+    "is_dir": false,
+    "size": "54.2 KiB",
+    "date": "30-Oct-2010 02:11"
+  },
+  {
+    "name": "DILiterals.mesa_Sep78.pdf",
+    "href": "DILiterals.mesa_Sep78.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/4.0_1978/listing/Mesa_4_Debug/DILiterals.mesa_Sep78.pdf",
+    "is_dir": false,
+    "size": "151.8 KiB",
+    "date": "30-Oct-2010 02:11"
+  },
+  {
+    "name": "DIParser.mesa_Sep78.pdf",
+    "href": "DIParser.mesa_Sep78.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/4.0_1978/listing/Mesa_4_Debug/DIParser.mesa_Sep78.pdf",
+    "is_dir": false,
+    "size": "212.0 KiB",
+    "date": "30-Oct-2010 02:11"
+  },
+  {
+    "name": "DIScanner.mesa_Sep78.pdf",
+    "href": "DIScanner.mesa_Sep78.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/4.0_1978/listing/Mesa_4_Debug/DIScanner.mesa_Sep78.pdf",
+    "is_dir": false,
+    "size": "202.6 KiB",
+    "date": "30-Oct-2010 02:11"
+  },
+  {
+    "name": "DIType.mesa_Sep78.pdf",
+    "href": "DIType.mesa_Sep78.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/4.0_1978/listing/Mesa_4_Debug/DIType.mesa_Sep78.pdf",
+    "is_dir": false,
+    "size": "271.8 KiB",
+    "date": "30-Oct-2010 02:11"
+  },
+  {
+    "name": "DITypeDefs.mesa_Sep78.pdf",
+    "href": "DITypeDefs.mesa_Sep78.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/4.0_1978/listing/Mesa_4_Debug/DITypeDefs.mesa_Sep78.pdf",
+    "is_dir": false,
+    "size": "65.9 KiB",
+    "date": "30-Oct-2010 02:11"
+  },
+  {
+    "name": "DUserProc.mesa_Sep78.pdf",
+    "href": "DUserProc.mesa_Sep78.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/4.0_1978/listing/Mesa_4_Debug/DUserProc.mesa_Sep78.pdf",
+    "is_dir": false,
+    "size": "130.8 KiB",
+    "date": "30-Oct-2010 02:11"
+  },
+  {
+    "name": "DebugBreakptDefs.mesa_Sep78.pdf",
+    "href": "DebugBreakptDefs.mesa_Sep78.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/4.0_1978/listing/Mesa_4_Debug/DebugBreakptDefs.mesa_Sep78.pdf",
+    "is_dir": false,
+    "size": "92.4 KiB",
+    "date": "30-Oct-2010 02:11"
+  },
+  {
+    "name": "DebugCache.mesa_Sep78.pdf",
+    "href": "DebugCache.mesa_Sep78.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/4.0_1978/listing/Mesa_4_Debug/DebugCache.mesa_Sep78.pdf",
+    "is_dir": false,
+    "size": "389.0 KiB",
+    "date": "30-Oct-2010 02:11"
+  },
+  {
+    "name": "DebugCacheDefs.mesa_Sep78.pdf",
+    "href": "DebugCacheDefs.mesa_Sep78.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/4.0_1978/listing/Mesa_4_Debug/DebugCacheDefs.mesa_Sep78.pdf",
+    "is_dir": false,
+    "size": "34.1 KiB",
+    "date": "30-Oct-2010 02:11"
+  },
+  {
+    "name": "DebugConfig.mesa_Sep78.pdf",
+    "href": "DebugConfig.mesa_Sep78.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/4.0_1978/listing/Mesa_4_Debug/DebugConfig.mesa_Sep78.pdf",
+    "is_dir": false,
+    "size": "539.1 KiB",
+    "date": "30-Oct-2010 02:11"
+  },
+  {
+    "name": "DebugContext.mesa_Sep78.pdf",
+    "href": "DebugContext.mesa_Sep78.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/4.0_1978/listing/Mesa_4_Debug/DebugContext.mesa_Sep78.pdf",
+    "is_dir": false,
+    "size": "467.8 KiB",
+    "date": "30-Oct-2010 02:11"
+  },
+  {
+    "name": "DebugContextDefs.mesa_Sep78.pdf",
+    "href": "DebugContextDefs.mesa_Sep78.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/4.0_1978/listing/Mesa_4_Debug/DebugContextDefs.mesa_Sep78.pdf",
+    "is_dir": false,
+    "size": "84.1 KiB",
+    "date": "30-Oct-2010 02:11"
+  },
+  {
+    "name": "DebugData.mesa_Sep78.pdf",
+    "href": "DebugData.mesa_Sep78.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/4.0_1978/listing/Mesa_4_Debug/DebugData.mesa_Sep78.pdf",
+    "is_dir": false,
+    "size": "55.6 KiB",
+    "date": "30-Oct-2010 02:11"
+  },
+  {
+    "name": "DebugFTP.mesa_Sep78.pdf",
+    "href": "DebugFTP.mesa_Sep78.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/4.0_1978/listing/Mesa_4_Debug/DebugFTP.mesa_Sep78.pdf",
+    "is_dir": false,
+    "size": "184.0 KiB",
+    "date": "30-Oct-2010 02:11"
+  },
+  {
+    "name": "DebugInit.mesa_Sep78.pdf",
+    "href": "DebugInit.mesa_Sep78.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/4.0_1978/listing/Mesa_4_Debug/DebugInit.mesa_Sep78.pdf",
+    "is_dir": false,
+    "size": "313.5 KiB",
+    "date": "30-Oct-2010 02:11"
+  },
+  {
+    "name": "DebugInterpretDefs.mesa_Sep78.pdf",
+    "href": "DebugInterpretDefs.mesa_Sep78.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/4.0_1978/listing/Mesa_4_Debug/DebugInterpretDefs.mesa_Sep78.pdf",
+    "is_dir": false,
+    "size": "24.4 KiB",
+    "date": "30-Oct-2010 02:11"
+  },
+  {
+    "name": "DebugMiscDefs.mesa_Sep78.pdf",
+    "href": "DebugMiscDefs.mesa_Sep78.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/4.0_1978/listing/Mesa_4_Debug/DebugMiscDefs.mesa_Sep78.pdf",
+    "is_dir": false,
+    "size": "66.5 KiB",
+    "date": "30-Oct-2010 02:11"
+  },
+  {
+    "name": "DebugPilotCache.mesa_Sep78.pdf",
+    "href": "DebugPilotCache.mesa_Sep78.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/4.0_1978/listing/Mesa_4_Debug/DebugPilotCache.mesa_Sep78.pdf",
+    "is_dir": false,
+    "size": "225.8 KiB",
+    "date": "30-Oct-2010 02:11"
+  },
+  {
+    "name": "DebugProcess.mesa_Sep78.pdf",
+    "href": "DebugProcess.mesa_Sep78.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/4.0_1978/listing/Mesa_4_Debug/DebugProcess.mesa_Sep78.pdf",
+    "is_dir": false,
+    "size": "353.7 KiB",
+    "date": "30-Oct-2010 02:11"
+  },
+  {
+    "name": "DebugSymbolDefs.mesa_Sep78.pdf",
+    "href": "DebugSymbolDefs.mesa_Sep78.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/4.0_1978/listing/Mesa_4_Debug/DebugSymbolDefs.mesa_Sep78.pdf",
+    "is_dir": false,
+    "size": "40.3 KiB",
+    "date": "30-Oct-2010 02:11"
+  },
+  {
+    "name": "DebugSymbols.mesa_Sep78.pdf",
+    "href": "DebugSymbols.mesa_Sep78.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/4.0_1978/listing/Mesa_4_Debug/DebugSymbols.mesa_Sep78.pdf",
+    "is_dir": false,
+    "size": "263.2 KiB",
+    "date": "30-Oct-2010 02:11"
+  },
+  {
+    "name": "DebugTable.mesa_Sep78.pdf",
+    "href": "DebugTable.mesa_Sep78.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/4.0_1978/listing/Mesa_4_Debug/DebugTable.mesa_Sep78.pdf",
+    "is_dir": false,
+    "size": "120.4 KiB",
+    "date": "30-Oct-2010 02:11"
+  },
+  {
+    "name": "DebugUtilities.mesa_Sep78.pdf",
+    "href": "DebugUtilities.mesa_Sep78.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/4.0_1978/listing/Mesa_4_Debug/DebugUtilities.mesa_Sep78.pdf",
+    "is_dir": false,
+    "size": "238.5 KiB",
+    "date": "30-Oct-2010 02:11"
+  },
+  {
+    "name": "DebugUtilityDefs.mesa_Sep78.pdf",
+    "href": "DebugUtilityDefs.mesa_Sep78.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/4.0_1978/listing/Mesa_4_Debug/DebugUtilityDefs.mesa_Sep78.pdf",
+    "is_dir": false,
+    "size": "136.2 KiB",
+    "date": "30-Oct-2010 02:11"
+  },
+  {
+    "name": "Debugger.mesa_Sep78.pdf",
+    "href": "Debugger.mesa_Sep78.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/4.0_1978/listing/Mesa_4_Debug/Debugger.mesa_Sep78.pdf",
+    "is_dir": false,
+    "size": "636.4 KiB",
+    "date": "30-Oct-2010 02:12"
+  },
+  {
+    "name": "DebuggerDefs.mesa_Sep78.pdf",
+    "href": "DebuggerDefs.mesa_Sep78.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/4.0_1978/listing/Mesa_4_Debug/DebuggerDefs.mesa_Sep78.pdf",
+    "is_dir": false,
+    "size": "181.5 KiB",
+    "date": "30-Oct-2010 02:12"
+  },
+  {
+    "name": "DumpFrames.mesa_Sep78.pdf",
+    "href": "DumpFrames.mesa_Sep78.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/4.0_1978/listing/Mesa_4_Debug/DumpFrames.mesa_Sep78.pdf",
+    "is_dir": false,
+    "size": "535.9 KiB",
+    "date": "30-Oct-2010 02:12"
+  },
+  {
+    "name": "DumpUtils.mesa_Sep78.pdf",
+    "href": "DumpUtils.mesa_Sep78.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/4.0_1978/listing/Mesa_4_Debug/DumpUtils.mesa_Sep78.pdf",
+    "is_dir": false,
+    "size": "426.1 KiB",
+    "date": "30-Oct-2010 02:12"
+  },
+  {
+    "name": "DumpVars.mesa_Sep78.pdf",
+    "href": "DumpVars.mesa_Sep78.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/4.0_1978/listing/Mesa_4_Debug/DumpVars.mesa_Sep78.pdf",
+    "is_dir": false,
+    "size": "802.6 KiB",
+    "date": "30-Oct-2010 02:12"
+  },
+  {
+    "name": "ExternalCache.mesa_Sep78.pdf",
+    "href": "ExternalCache.mesa_Sep78.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/4.0_1978/listing/Mesa_4_Debug/ExternalCache.mesa_Sep78.pdf",
+    "is_dir": false,
+    "size": "397.7 KiB",
+    "date": "30-Oct-2010 02:12"
+  },
+  {
+    "name": "ExternalLoadState.mesa_Sep78.pdf",
+    "href": "ExternalLoadState.mesa_Sep78.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/4.0_1978/listing/Mesa_4_Debug/ExternalLoadState.mesa_Sep78.pdf",
+    "is_dir": false,
+    "size": "165.8 KiB",
+    "date": "30-Oct-2010 02:12"
+  },
+  {
+    "name": "ExternalUtilities.mesa_Sep78.pdf",
+    "href": "ExternalUtilities.mesa_Sep78.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/4.0_1978/listing/Mesa_4_Debug/ExternalUtilities.mesa_Sep78.pdf",
+    "is_dir": false,
+    "size": "417.4 KiB",
+    "date": "30-Oct-2010 02:12"
+  },
+  {
+    "name": "FileCache.mesa_Sep78.pdf",
+    "href": "FileCache.mesa_Sep78.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/4.0_1978/listing/Mesa_4_Debug/FileCache.mesa_Sep78.pdf",
+    "is_dir": false,
+    "size": "209.9 KiB",
+    "date": "30-Oct-2010 02:12"
+  },
+  {
+    "name": "InternalNub.mesa_Sep78.pdf",
+    "href": "InternalNub.mesa_Sep78.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/4.0_1978/listing/Mesa_4_Debug/InternalNub.mesa_Sep78.pdf",
+    "is_dir": false,
+    "size": "575.3 KiB",
+    "date": "30-Oct-2010 02:12"
+  },
+  {
+    "name": "InternalNubControl_Sep78.pdf",
+    "href": "InternalNubControl_Sep78.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/4.0_1978/listing/Mesa_4_Debug/InternalNubControl_Sep78.pdf",
+    "is_dir": false,
+    "size": "532.4 KiB",
+    "date": "30-Oct-2010 02:12"
+  },
+  {
+    "name": "InternalNubDefs.mesa_Sep78.pdf",
+    "href": "InternalNubDefs.mesa_Sep78.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/4.0_1978/listing/Mesa_4_Debug/InternalNubDefs.mesa_Sep78.pdf",
+    "is_dir": false,
+    "size": "23.4 KiB",
+    "date": "30-Oct-2010 02:12"
+  },
+  {
+    "name": "Interpret.mesa_Sep78.pdf",
+    "href": "Interpret.mesa_Sep78.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/4.0_1978/listing/Mesa_4_Debug/Interpret.mesa_Sep78.pdf",
+    "is_dir": false,
+    "size": "366.0 KiB",
+    "date": "30-Oct-2010 02:12"
+  },
+  {
+    "name": "StmtMap.mesa_Sep78.pdf",
+    "href": "StmtMap.mesa_Sep78.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/4.0_1978/listing/Mesa_4_Debug/StmtMap.mesa_Sep78.pdf",
+    "is_dir": false,
+    "size": "318.6 KiB",
+    "date": "30-Oct-2010 02:12"
+  },
+  {
+    "name": "TypePack.mesa_Sep78.pdf",
+    "href": "TypePack.mesa_Sep78.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/4.0_1978/listing/Mesa_4_Debug/TypePack.mesa_Sep78.pdf",
+    "is_dir": false,
+    "size": "271.4 KiB",
+    "date": "30-Oct-2010 02:12"
+  },
+  {
+    "name": "TypePackDefs.mesa_Sep78.pdf",
+    "href": "TypePackDefs.mesa_Sep78.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/4.0_1978/listing/Mesa_4_Debug/TypePackDefs.mesa_Sep78.pdf",
+    "is_dir": false,
+    "size": "28.0 KiB",
+    "date": "30-Oct-2010 02:12"
+  },
+  {
+    "name": "UserSegments.mesa_Sep78.pdf",
+    "href": "UserSegments.mesa_Sep78.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/4.0_1978/listing/Mesa_4_Debug/UserSegments.mesa_Sep78.pdf",
+    "is_dir": false,
+    "size": "588.0 KiB",
+    "date": "30-Oct-2010 02:12"
+  },
+  {
+    "name": "WEBreak.mesa_Sep78.pdf",
+    "href": "WEBreak.mesa_Sep78.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/4.0_1978/listing/Mesa_4_Debug/WEBreak.mesa_Sep78.pdf",
+    "is_dir": false,
+    "size": "308.5 KiB",
+    "date": "30-Oct-2010 02:12"
+  },
+  {
+    "name": "WEControl.mesa_Sep78.pdf",
+    "href": "WEControl.mesa_Sep78.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/4.0_1978/listing/Mesa_4_Debug/WEControl.mesa_Sep78.pdf",
+    "is_dir": false,
+    "size": "208.9 KiB",
+    "date": "30-Oct-2010 02:12"
+  },
+  {
+    "name": "WEMain.mesa_Sep78.pdf",
+    "href": "WEMain.mesa_Sep78.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/4.0_1978/listing/Mesa_4_Debug/WEMain.mesa_Sep78.pdf",
+    "is_dir": false,
+    "size": "283.8 KiB",
+    "date": "30-Oct-2010 02:12"
+  },
+  {
+    "name": "WEPosition.mesa_Sep78.pdf",
+    "href": "WEPosition.mesa_Sep78.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/4.0_1978/listing/Mesa_4_Debug/WEPosition.mesa_Sep78.pdf",
+    "is_dir": false,
+    "size": "255.1 KiB",
+    "date": "30-Oct-2010 02:12"
+  },
+  {
+    "name": "WESelection.mesa_Sep78.pdf",
+    "href": "WESelection.mesa_Sep78.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/4.0_1978/listing/Mesa_4_Debug/WESelection.mesa_Sep78.pdf",
+    "is_dir": false,
+    "size": "183.8 KiB",
+    "date": "30-Oct-2010 02:12"
+  },
+  {
+    "name": "WEWindows.mesa_Sep78.pdf",
+    "href": "WEWindows.mesa_Sep78.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/4.0_1978/listing/Mesa_4_Debug/WEWindows.mesa_Sep78.pdf",
+    "is_dir": false,
+    "size": "391.8 KiB",
+    "date": "30-Oct-2010 02:12"
+  },
+  {
+    "name": "WindExDefs.mesa_Sep78.pdf",
+    "href": "WindExDefs.mesa_Sep78.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/4.0_1978/listing/Mesa_4_Debug/WindExDefs.mesa_Sep78.pdf",
+    "is_dir": false,
+    "size": "134.3 KiB",
+    "date": "30-Oct-2010 02:12"
+  },
+  {
+    "name": "Windex.config_Sep78.pdf",
+    "href": "Windex.config_Sep78.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/4.0_1978/listing/Mesa_4_Debug/Windex.config_Sep78.pdf",
+    "is_dir": false,
+    "size": "21.7 KiB",
+    "date": "30-Oct-2010 02:12"
+  },
+  {
+    "name": "XDebug.bootmesa_Sep78.pdf",
+    "href": "XDebug.bootmesa_Sep78.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/4.0_1978/listing/Mesa_4_Debug/XDebug.bootmesa_Sep78.pdf",
+    "is_dir": false,
+    "size": "31.9 KiB",
+    "date": "30-Oct-2010 02:12"
+  },
+  {
+    "name": "Xdebug.config_Sep78.pdf",
+    "href": "Xdebug.config_Sep78.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/4.0_1978/listing/Mesa_4_Debug/Xdebug.config_Sep78.pdf",
+    "is_dir": false,
+    "size": "90.6 KiB",
+    "date": "30-Oct-2010 02:12"
+  },
+  {
+    "name": "xdebug.loadmap_Sep78.pdf",
+    "href": "xdebug.loadmap_Sep78.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/4.0_1978/listing/Mesa_4_Debug/xdebug.loadmap_Sep78.pdf",
+    "is_dir": false,
+    "size": "161.5 KiB",
+    "date": "30-Oct-2010 02:12"
+  },
+  {
+    "name": "xdebug.signals_Sep78.pdf",
+    "href": "xdebug.signals_Sep78.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/4.0_1978/listing/Mesa_4_Debug/xdebug.signals_Sep78.pdf",
+    "is_dir": false,
+    "size": "134.4 KiB",
+    "date": "30-Oct-2010 02:12"
+  }
+]

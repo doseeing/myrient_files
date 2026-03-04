@@ -1,0 +1,50 @@
+[
+  {
+    "name": "BSDSUM",
+    "href": "BSDSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/sparc/installation/misc/BSDSUM",
+    "is_dir": false,
+    "size": "30 B",
+    "date": "20-Jul-1999 15:16"
+  },
+  {
+    "name": "CKSUM",
+    "href": "CKSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/sparc/installation/misc/CKSUM",
+    "is_dir": false,
+    "size": "46 B",
+    "date": "20-Jul-1999 15:16"
+  },
+  {
+    "name": "MD5",
+    "href": "MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/sparc/installation/misc/MD5",
+    "is_dir": false,
+    "size": "92 B",
+    "date": "20-Jul-1999 15:16"
+  },
+  {
+    "name": "SYSVSUM",
+    "href": "SYSVSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/sparc/installation/misc/SYSVSUM",
+    "is_dir": false,
+    "size": "31 B",
+    "date": "20-Jul-1999 15:16"
+  },
+  {
+    "name": "gtar",
+    "href": "gtar",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/sparc/installation/misc/gtar",
+    "is_dir": false,
+    "size": "696.0 KiB",
+    "date": "20-Jul-1999 15:09"
+  },
+  {
+    "name": "gzip",
+    "href": "gzip",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/sparc/installation/misc/gzip",
+    "is_dir": false,
+    "size": "184.0 KiB",
+    "date": "20-Jul-1999 15:09"
+  }
+]

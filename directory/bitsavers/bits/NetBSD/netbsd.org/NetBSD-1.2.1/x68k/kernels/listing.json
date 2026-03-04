@@ -1,0 +1,26 @@
+[
+  {
+    "name": "CKSUMS",
+    "href": "CKSUMS",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2.1/x68k/kernels/CKSUMS",
+    "is_dir": false,
+    "size": "67 B",
+    "date": "24-Mar-1997 16:33"
+  },
+  {
+    "name": "netbsd-all.gz",
+    "href": "netbsd-all.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2.1/x68k/kernels/netbsd-all.gz",
+    "is_dir": false,
+    "size": "490.3 KiB",
+    "date": "24-Mar-1997 16:32"
+  },
+  {
+    "name": "netbsd-generic.gz",
+    "href": "netbsd-generic.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2.1/x68k/kernels/netbsd-generic.gz",
+    "is_dir": false,
+    "size": "358.0 KiB",
+    "date": "24-Mar-1997 15:28"
+  }
+]

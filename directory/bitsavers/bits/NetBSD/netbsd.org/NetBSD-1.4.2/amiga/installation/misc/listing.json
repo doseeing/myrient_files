@@ -1,0 +1,114 @@
+[
+  {
+    "name": "BSDSUM",
+    "href": "BSDSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/amiga/installation/misc/BSDSUM",
+    "is_dir": false,
+    "size": "212 B",
+    "date": "24-Jul-1999 21:57"
+  },
+  {
+    "name": "CKSUM",
+    "href": "CKSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/amiga/installation/misc/CKSUM",
+    "is_dir": false,
+    "size": "291 B",
+    "date": "24-Jul-1999 21:57"
+  },
+  {
+    "name": "MD5",
+    "href": "MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/amiga/installation/misc/MD5",
+    "is_dir": false,
+    "size": "535 B",
+    "date": "24-Jul-1999 21:57"
+  },
+  {
+    "name": "README",
+    "href": "README",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/amiga/installation/misc/README",
+    "is_dir": false,
+    "size": "724 B",
+    "date": "24-Jul-1999 21:57"
+  },
+  {
+    "name": "SYSVSUM",
+    "href": "SYSVSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/amiga/installation/misc/SYSVSUM",
+    "is_dir": false,
+    "size": "213 B",
+    "date": "24-Jul-1999 21:57"
+  },
+  {
+    "name": "device-streams.tar.gz",
+    "href": "device-streams.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/amiga/installation/misc/device-streams.tar.gz",
+    "is_dir": false,
+    "size": "69.6 KiB",
+    "date": "24-Jul-1999 21:57"
+  },
+  {
+    "name": "loadbsd",
+    "href": "loadbsd",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/amiga/installation/misc/loadbsd",
+    "is_dir": false,
+    "size": "8.7 KiB",
+    "date": "24-Jul-1999 21:57"
+  },
+  {
+    "name": "loadbsd-2.14",
+    "href": "loadbsd-2.14",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/amiga/installation/misc/loadbsd-2.14",
+    "is_dir": false,
+    "size": "22.2 KiB",
+    "date": "24-Jul-1999 21:57"
+  },
+  {
+    "name": "loadbsd-2.14.gz",
+    "href": "loadbsd-2.14.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/amiga/installation/misc/loadbsd-2.14.gz",
+    "is_dir": false,
+    "size": "12.2 KiB",
+    "date": "24-Jul-1999 21:57"
+  },
+  {
+    "name": "loadbsd.gz",
+    "href": "loadbsd.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/amiga/installation/misc/loadbsd.gz",
+    "is_dir": false,
+    "size": "5.2 KiB",
+    "date": "24-Jul-1999 21:57"
+  },
+  {
+    "name": "rdbinfo",
+    "href": "rdbinfo",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/amiga/installation/misc/rdbinfo",
+    "is_dir": false,
+    "size": "18.9 KiB",
+    "date": "24-Jul-1999 21:57"
+  },
+  {
+    "name": "rdbinfo.gz",
+    "href": "rdbinfo.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/amiga/installation/misc/rdbinfo.gz",
+    "is_dir": false,
+    "size": "11.3 KiB",
+    "date": "24-Jul-1999 21:57"
+  },
+  {
+    "name": "xstreamtodev",
+    "href": "xstreamtodev",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/amiga/installation/misc/xstreamtodev",
+    "is_dir": false,
+    "size": "22.5 KiB",
+    "date": "24-Jul-1999 21:57"
+  },
+  {
+    "name": "xstreamtodev.gz",
+    "href": "xstreamtodev.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/amiga/installation/misc/xstreamtodev.gz",
+    "is_dir": false,
+    "size": "13.3 KiB",
+    "date": "24-Jul-1999 21:57"
+  }
+]

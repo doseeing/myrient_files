@@ -1,0 +1,34 @@
+[
+  {
+    "name": "firmware",
+    "href": "firmware/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/apple/mac/prototypes/1985_YACC/firmware/",
+    "is_dir": true,
+    "size": null,
+    "date": "22-Jan-2023 08:17"
+  },
+  {
+    "name": "pictures",
+    "href": "pictures/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/apple/mac/prototypes/1985_YACC/pictures/",
+    "is_dir": true,
+    "size": null,
+    "date": "23-Jan-2023 00:23"
+  },
+  {
+    "name": "YACC_Description.pdf",
+    "href": "YACC_Description.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/apple/mac/prototypes/1985_YACC/YACC_Description.pdf",
+    "is_dir": false,
+    "size": "440.9 KiB",
+    "date": "25-Dec-2022 23:46"
+  },
+  {
+    "name": "YACC_Schematics_Jan85.pdf",
+    "href": "YACC_Schematics_Jan85.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/apple/mac/prototypes/1985_YACC/YACC_Schematics_Jan85.pdf",
+    "is_dir": false,
+    "size": "2.5 MiB",
+    "date": "21-Jan-2023 18:20"
+  }
+]

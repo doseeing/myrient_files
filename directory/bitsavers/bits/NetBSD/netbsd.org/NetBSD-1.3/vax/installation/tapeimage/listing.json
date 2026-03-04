@@ -1,0 +1,50 @@
+[
+  {
+    "name": "BSDSUM",
+    "href": "BSDSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/vax/installation/tapeimage/BSDSUM",
+    "is_dir": false,
+    "size": "61 B",
+    "date": "16-Jan-1998 19:00"
+  },
+  {
+    "name": "CKSUM",
+    "href": "CKSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/vax/installation/tapeimage/CKSUM",
+    "is_dir": false,
+    "size": "67 B",
+    "date": "16-Jan-1998 19:00"
+  },
+  {
+    "name": "MD5",
+    "href": "MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/vax/installation/tapeimage/MD5",
+    "is_dir": false,
+    "size": "112 B",
+    "date": "16-Jan-1998 19:00"
+  },
+  {
+    "name": "SYSVSUM",
+    "href": "SYSVSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/vax/installation/tapeimage/SYSVSUM",
+    "is_dir": false,
+    "size": "50 B",
+    "date": "16-Jan-1998 19:00"
+  },
+  {
+    "name": "tk50-file1-13A",
+    "href": "tk50-file1-13A",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/vax/installation/tapeimage/tk50-file1-13A",
+    "is_dir": false,
+    "size": "256.0 KiB",
+    "date": "16-Jan-1998 18:58"
+  },
+  {
+    "name": "tk50-file2-13A",
+    "href": "tk50-file2-13A",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/vax/installation/tapeimage/tk50-file2-13A",
+    "is_dir": false,
+    "size": "2.0 MiB",
+    "date": "16-Jan-1998 19:00"
+  }
+]

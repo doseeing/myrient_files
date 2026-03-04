@@ -1,0 +1,74 @@
+[
+  {
+    "name": "binary",
+    "href": "binary/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/amiga/binary/",
+    "is_dir": true,
+    "size": null,
+    "date": "01-Oct-2023 18:33"
+  },
+  {
+    "name": "installation",
+    "href": "installation/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/amiga/installation/",
+    "is_dir": true,
+    "size": null,
+    "date": "01-Oct-2023 18:33"
+  },
+  {
+    "name": "INSTALL.X11",
+    "href": "INSTALL.X11",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/amiga/INSTALL.X11",
+    "is_dir": false,
+    "size": "23.7 KiB",
+    "date": "08-Mar-2000 11:00"
+  },
+  {
+    "name": "INSTALL.html",
+    "href": "INSTALL.html",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/amiga/INSTALL.html",
+    "is_dir": false,
+    "size": "102.0 KiB",
+    "date": "08-Mar-2000 10:54"
+  },
+  {
+    "name": "INSTALL.more",
+    "href": "INSTALL.more",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/amiga/INSTALL.more",
+    "is_dir": false,
+    "size": "96.8 KiB",
+    "date": "08-Mar-2000 10:54"
+  },
+  {
+    "name": "INSTALL.ps",
+    "href": "INSTALL.ps",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/amiga/INSTALL.ps",
+    "is_dir": false,
+    "size": "151.6 KiB",
+    "date": "08-Mar-2000 10:54"
+  },
+  {
+    "name": "INSTALL.txt",
+    "href": "INSTALL.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/amiga/INSTALL.txt",
+    "is_dir": false,
+    "size": "92.0 KiB",
+    "date": "08-Mar-2000 10:54"
+  },
+  {
+    "name": "SOURCE_DATE",
+    "href": "SOURCE_DATE",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/amiga/SOURCE_DATE",
+    "is_dir": false,
+    "size": "29 B",
+    "date": "16-Mar-2000 20:07"
+  },
+  {
+    "name": "release.0",
+    "href": "release.0",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/amiga/release.0",
+    "is_dir": false,
+    "size": "15.4 KiB",
+    "date": "08-Mar-2000 11:09"
+  }
+]

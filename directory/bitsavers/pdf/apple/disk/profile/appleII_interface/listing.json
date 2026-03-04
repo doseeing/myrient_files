@@ -1,0 +1,34 @@
+[
+  {
+    "name": "firmware",
+    "href": "firmware/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/apple/disk/profile/appleII_interface/firmware/",
+    "is_dir": true,
+    "size": null,
+    "date": "19-Aug-2023 15:04"
+  },
+  {
+    "name": "AII_Profile_Boot_Prom_198402.pdf",
+    "href": "AII_Profile_Boot_Prom_198402.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/apple/disk/profile/appleII_interface/AII_Profile_Boot_Prom_198402.pdf",
+    "is_dir": false,
+    "size": "7.8 MiB",
+    "date": "19-Aug-2023 05:10"
+  },
+  {
+    "name": "proto_15_b.JPG",
+    "href": "proto_15_b.JPG",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/apple/disk/profile/appleII_interface/proto_15_b.JPG",
+    "is_dir": false,
+    "size": "583.6 KiB",
+    "date": "19-Aug-2023 15:04"
+  },
+  {
+    "name": "proto_15_t.JPG",
+    "href": "proto_15_t.JPG",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/apple/disk/profile/appleII_interface/proto_15_t.JPG",
+    "is_dir": false,
+    "size": "498.3 KiB",
+    "date": "19-Aug-2023 15:04"
+  }
+]

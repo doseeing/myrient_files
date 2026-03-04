@@ -1,0 +1,882 @@
+[
+  {
+    "name": "MD5",
+    "href": "MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.2/MD5",
+    "is_dir": false,
+    "size": "3.4 KiB",
+    "date": "31-Mar-2020 13:57"
+  },
+  {
+    "name": "NetBSD-8.2-acorn32.iso",
+    "href": "NetBSD-8.2-acorn32.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.2/NetBSD-8.2-acorn32.iso",
+    "is_dir": false,
+    "size": "309.2 MiB",
+    "date": "31-Mar-2020 08:17"
+  },
+  {
+    "name": "NetBSD-8.2-acorn32.iso.torrent",
+    "href": "NetBSD-8.2-acorn32.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.2/NetBSD-8.2-acorn32.iso.torrent",
+    "is_dir": false,
+    "size": "24.3 KiB",
+    "date": "01-Apr-2020 09:31"
+  },
+  {
+    "name": "NetBSD-8.2-alpha.iso",
+    "href": "NetBSD-8.2-alpha.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.2/NetBSD-8.2-alpha.iso",
+    "is_dir": false,
+    "size": "375.5 MiB",
+    "date": "31-Mar-2020 08:12"
+  },
+  {
+    "name": "NetBSD-8.2-alpha.iso.torrent",
+    "href": "NetBSD-8.2-alpha.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.2/NetBSD-8.2-alpha.iso.torrent",
+    "is_dir": false,
+    "size": "29.5 KiB",
+    "date": "01-Apr-2020 09:31"
+  },
+  {
+    "name": "NetBSD-8.2-amd64-install.img.gz",
+    "href": "NetBSD-8.2-amd64-install.img.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.2/NetBSD-8.2-amd64-install.img.gz",
+    "is_dir": false,
+    "size": "983.7 MiB",
+    "date": "31-Mar-2020 08:40"
+  },
+  {
+    "name": "NetBSD-8.2-amd64-install.img.gz.torrent",
+    "href": "NetBSD-8.2-amd64-install.img.gz.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.2/NetBSD-8.2-amd64-install.img.gz.torrent",
+    "is_dir": false,
+    "size": "77.0 KiB",
+    "date": "01-Apr-2020 09:31"
+  },
+  {
+    "name": "NetBSD-8.2-amd64-uefi-install.img.gz",
+    "href": "NetBSD-8.2-amd64-uefi-install.img.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.2/NetBSD-8.2-amd64-uefi-install.img.gz",
+    "is_dir": false,
+    "size": "983.8 MiB",
+    "date": "31-Mar-2020 08:43"
+  },
+  {
+    "name": "NetBSD-8.2-amd64-uefi-install.img.gz.torrent",
+    "href": "NetBSD-8.2-amd64-uefi-install.img.gz.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.2/NetBSD-8.2-amd64-uefi-install.img.gz.torrent",
+    "is_dir": false,
+    "size": "77.1 KiB",
+    "date": "01-Apr-2020 09:32"
+  },
+  {
+    "name": "NetBSD-8.2-amd64.iso",
+    "href": "NetBSD-8.2-amd64.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.2/NetBSD-8.2-amd64.iso",
+    "is_dir": false,
+    "size": "722.7 MiB",
+    "date": "31-Mar-2020 08:37"
+  },
+  {
+    "name": "NetBSD-8.2-amd64.iso.torrent",
+    "href": "NetBSD-8.2-amd64.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.2/NetBSD-8.2-amd64.iso.torrent",
+    "is_dir": false,
+    "size": "56.6 KiB",
+    "date": "01-Apr-2020 09:32"
+  },
+  {
+    "name": "NetBSD-8.2-amiga.iso",
+    "href": "NetBSD-8.2-amiga.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.2/NetBSD-8.2-amiga.iso",
+    "is_dir": false,
+    "size": "302.9 MiB",
+    "date": "31-Mar-2020 07:54"
+  },
+  {
+    "name": "NetBSD-8.2-amiga.iso.torrent",
+    "href": "NetBSD-8.2-amiga.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.2/NetBSD-8.2-amiga.iso.torrent",
+    "is_dir": false,
+    "size": "23.8 KiB",
+    "date": "01-Apr-2020 09:32"
+  },
+  {
+    "name": "NetBSD-8.2-arc.iso",
+    "href": "NetBSD-8.2-arc.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.2/NetBSD-8.2-arc.iso",
+    "is_dir": false,
+    "size": "330.4 MiB",
+    "date": "31-Mar-2020 08:11"
+  },
+  {
+    "name": "NetBSD-8.2-arc.iso.torrent",
+    "href": "NetBSD-8.2-arc.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.2/NetBSD-8.2-arc.iso.torrent",
+    "is_dir": false,
+    "size": "26.0 KiB",
+    "date": "01-Apr-2020 09:32"
+  },
+  {
+    "name": "NetBSD-8.2-atari.iso",
+    "href": "NetBSD-8.2-atari.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.2/NetBSD-8.2-atari.iso",
+    "is_dir": false,
+    "size": "297.2 MiB",
+    "date": "31-Mar-2020 08:05"
+  },
+  {
+    "name": "NetBSD-8.2-atari.iso.torrent",
+    "href": "NetBSD-8.2-atari.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.2/NetBSD-8.2-atari.iso.torrent",
+    "is_dir": false,
+    "size": "23.4 KiB",
+    "date": "01-Apr-2020 09:32"
+  },
+  {
+    "name": "NetBSD-8.2-cats.iso",
+    "href": "NetBSD-8.2-cats.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.2/NetBSD-8.2-cats.iso",
+    "is_dir": false,
+    "size": "442.8 MiB",
+    "date": "31-Mar-2020 08:29"
+  },
+  {
+    "name": "NetBSD-8.2-cats.iso.torrent",
+    "href": "NetBSD-8.2-cats.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.2/NetBSD-8.2-cats.iso.torrent",
+    "is_dir": false,
+    "size": "34.8 KiB",
+    "date": "01-Apr-2020 09:32"
+  },
+  {
+    "name": "NetBSD-8.2-cobalt.iso",
+    "href": "NetBSD-8.2-cobalt.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.2/NetBSD-8.2-cobalt.iso",
+    "is_dir": false,
+    "size": "329.4 MiB",
+    "date": "31-Mar-2020 08:12"
+  },
+  {
+    "name": "NetBSD-8.2-cobalt.iso.torrent",
+    "href": "NetBSD-8.2-cobalt.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.2/NetBSD-8.2-cobalt.iso.torrent",
+    "is_dir": false,
+    "size": "25.9 KiB",
+    "date": "01-Apr-2020 09:32"
+  },
+  {
+    "name": "NetBSD-8.2-dreamcast.iso",
+    "href": "NetBSD-8.2-dreamcast.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.2/NetBSD-8.2-dreamcast.iso",
+    "is_dir": false,
+    "size": "300.0 MiB",
+    "date": "31-Mar-2020 08:08"
+  },
+  {
+    "name": "NetBSD-8.2-dreamcast.iso.torrent",
+    "href": "NetBSD-8.2-dreamcast.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.2/NetBSD-8.2-dreamcast.iso.torrent",
+    "is_dir": false,
+    "size": "23.6 KiB",
+    "date": "01-Apr-2020 09:32"
+  },
+  {
+    "name": "NetBSD-8.2-emips.iso",
+    "href": "NetBSD-8.2-emips.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.2/NetBSD-8.2-emips.iso",
+    "is_dir": false,
+    "size": "343.4 MiB",
+    "date": "31-Mar-2020 08:12"
+  },
+  {
+    "name": "NetBSD-8.2-emips.iso.torrent",
+    "href": "NetBSD-8.2-emips.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.2/NetBSD-8.2-emips.iso.torrent",
+    "is_dir": false,
+    "size": "27.0 KiB",
+    "date": "01-Apr-2020 09:32"
+  },
+  {
+    "name": "NetBSD-8.2-evbarm-earm.iso",
+    "href": "NetBSD-8.2-evbarm-earm.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.2/NetBSD-8.2-evbarm-earm.iso",
+    "is_dir": false,
+    "size": "2.2 GiB",
+    "date": "31-Mar-2020 09:34"
+  },
+  {
+    "name": "NetBSD-8.2-evbarm-earm.iso.torrent",
+    "href": "NetBSD-8.2-evbarm-earm.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.2/NetBSD-8.2-evbarm-earm.iso.torrent",
+    "is_dir": false,
+    "size": "178.9 KiB",
+    "date": "01-Apr-2020 09:32"
+  },
+  {
+    "name": "NetBSD-8.2-evbarm-earmeb.iso",
+    "href": "NetBSD-8.2-evbarm-earmeb.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.2/NetBSD-8.2-evbarm-earmeb.iso",
+    "is_dir": false,
+    "size": "523.5 MiB",
+    "date": "31-Mar-2020 09:24"
+  },
+  {
+    "name": "NetBSD-8.2-evbarm-earmeb.iso.torrent",
+    "href": "NetBSD-8.2-evbarm-earmeb.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.2/NetBSD-8.2-evbarm-earmeb.iso.torrent",
+    "is_dir": false,
+    "size": "41.1 KiB",
+    "date": "01-Apr-2020 09:32"
+  },
+  {
+    "name": "NetBSD-8.2-evbarm-earmv6hf.iso",
+    "href": "NetBSD-8.2-evbarm-earmv6hf.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.2/NetBSD-8.2-evbarm-earmv6hf.iso",
+    "is_dir": false,
+    "size": "954.9 MiB",
+    "date": "31-Mar-2020 09:27"
+  },
+  {
+    "name": "NetBSD-8.2-evbarm-earmv6hf.iso.torrent",
+    "href": "NetBSD-8.2-evbarm-earmv6hf.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.2/NetBSD-8.2-evbarm-earmv6hf.iso.torrent",
+    "is_dir": false,
+    "size": "74.8 KiB",
+    "date": "01-Apr-2020 09:32"
+  },
+  {
+    "name": "NetBSD-8.2-evbarm-earmv7hf.iso",
+    "href": "NetBSD-8.2-evbarm-earmv7hf.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.2/NetBSD-8.2-evbarm-earmv7hf.iso",
+    "is_dir": false,
+    "size": "1.5 GiB",
+    "date": "31-Mar-2020 09:58"
+  },
+  {
+    "name": "NetBSD-8.2-evbarm-earmv7hf.iso.torrent",
+    "href": "NetBSD-8.2-evbarm-earmv7hf.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.2/NetBSD-8.2-evbarm-earmv7hf.iso.torrent",
+    "is_dir": false,
+    "size": "117.3 KiB",
+    "date": "01-Apr-2020 09:32"
+  },
+  {
+    "name": "NetBSD-8.2-evbarm-earmv7hfeb.iso",
+    "href": "NetBSD-8.2-evbarm-earmv7hfeb.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.2/NetBSD-8.2-evbarm-earmv7hfeb.iso",
+    "is_dir": false,
+    "size": "993.2 MiB",
+    "date": "31-Mar-2020 09:40"
+  },
+  {
+    "name": "NetBSD-8.2-evbarm-earmv7hfeb.iso.torrent",
+    "href": "NetBSD-8.2-evbarm-earmv7hfeb.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.2/NetBSD-8.2-evbarm-earmv7hfeb.iso.torrent",
+    "is_dir": false,
+    "size": "77.8 KiB",
+    "date": "01-Apr-2020 09:33"
+  },
+  {
+    "name": "NetBSD-8.2-evbmips-mips64eb.iso",
+    "href": "NetBSD-8.2-evbmips-mips64eb.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.2/NetBSD-8.2-evbmips-mips64eb.iso",
+    "is_dir": false,
+    "size": "588.5 MiB",
+    "date": "31-Mar-2020 09:38"
+  },
+  {
+    "name": "NetBSD-8.2-evbmips-mips64eb.iso.torrent",
+    "href": "NetBSD-8.2-evbmips-mips64eb.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.2/NetBSD-8.2-evbmips-mips64eb.iso.torrent",
+    "is_dir": false,
+    "size": "46.2 KiB",
+    "date": "01-Apr-2020 09:33"
+  },
+  {
+    "name": "NetBSD-8.2-evbmips-mips64el.iso",
+    "href": "NetBSD-8.2-evbmips-mips64el.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.2/NetBSD-8.2-evbmips-mips64el.iso",
+    "is_dir": false,
+    "size": "604.9 MiB",
+    "date": "31-Mar-2020 09:41"
+  },
+  {
+    "name": "NetBSD-8.2-evbmips-mips64el.iso.torrent",
+    "href": "NetBSD-8.2-evbmips-mips64el.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.2/NetBSD-8.2-evbmips-mips64el.iso.torrent",
+    "is_dir": false,
+    "size": "47.4 KiB",
+    "date": "01-Apr-2020 09:33"
+  },
+  {
+    "name": "NetBSD-8.2-evbmips-mipseb.iso",
+    "href": "NetBSD-8.2-evbmips-mipseb.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.2/NetBSD-8.2-evbmips-mipseb.iso",
+    "is_dir": false,
+    "size": "372.5 MiB",
+    "date": "31-Mar-2020 09:15"
+  },
+  {
+    "name": "NetBSD-8.2-evbmips-mipseb.iso.torrent",
+    "href": "NetBSD-8.2-evbmips-mipseb.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.2/NetBSD-8.2-evbmips-mipseb.iso.torrent",
+    "is_dir": false,
+    "size": "29.3 KiB",
+    "date": "01-Apr-2020 09:33"
+  },
+  {
+    "name": "NetBSD-8.2-evbmips-mipsel.iso",
+    "href": "NetBSD-8.2-evbmips-mipsel.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.2/NetBSD-8.2-evbmips-mipsel.iso",
+    "is_dir": false,
+    "size": "431.7 MiB",
+    "date": "31-Mar-2020 09:21"
+  },
+  {
+    "name": "NetBSD-8.2-evbmips-mipsel.iso.torrent",
+    "href": "NetBSD-8.2-evbmips-mipsel.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.2/NetBSD-8.2-evbmips-mipsel.iso.torrent",
+    "is_dir": false,
+    "size": "33.9 KiB",
+    "date": "01-Apr-2020 09:33"
+  },
+  {
+    "name": "NetBSD-8.2-evbppc.iso",
+    "href": "NetBSD-8.2-evbppc.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.2/NetBSD-8.2-evbppc.iso",
+    "is_dir": false,
+    "size": "488.1 MiB",
+    "date": "31-Mar-2020 09:25"
+  },
+  {
+    "name": "NetBSD-8.2-evbppc.iso.torrent",
+    "href": "NetBSD-8.2-evbppc.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.2/NetBSD-8.2-evbppc.iso.torrent",
+    "is_dir": false,
+    "size": "38.3 KiB",
+    "date": "01-Apr-2020 09:33"
+  },
+  {
+    "name": "NetBSD-8.2-evbsh3-sh3eb.iso",
+    "href": "NetBSD-8.2-evbsh3-sh3eb.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.2/NetBSD-8.2-evbsh3-sh3eb.iso",
+    "is_dir": false,
+    "size": "300.5 MiB",
+    "date": "31-Mar-2020 09:10"
+  },
+  {
+    "name": "NetBSD-8.2-evbsh3-sh3eb.iso.torrent",
+    "href": "NetBSD-8.2-evbsh3-sh3eb.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.2/NetBSD-8.2-evbsh3-sh3eb.iso.torrent",
+    "is_dir": false,
+    "size": "23.7 KiB",
+    "date": "01-Apr-2020 09:33"
+  },
+  {
+    "name": "NetBSD-8.2-evbsh3-sh3el.iso",
+    "href": "NetBSD-8.2-evbsh3-sh3el.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.2/NetBSD-8.2-evbsh3-sh3el.iso",
+    "is_dir": false,
+    "size": "320.9 MiB",
+    "date": "31-Mar-2020 09:15"
+  },
+  {
+    "name": "NetBSD-8.2-evbsh3-sh3el.iso.torrent",
+    "href": "NetBSD-8.2-evbsh3-sh3el.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.2/NetBSD-8.2-evbsh3-sh3el.iso.torrent",
+    "is_dir": false,
+    "size": "25.3 KiB",
+    "date": "01-Apr-2020 09:33"
+  },
+  {
+    "name": "NetBSD-8.2-ews4800mips.iso",
+    "href": "NetBSD-8.2-ews4800mips.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.2/NetBSD-8.2-ews4800mips.iso",
+    "is_dir": false,
+    "size": "337.4 MiB",
+    "date": "31-Mar-2020 09:19"
+  },
+  {
+    "name": "NetBSD-8.2-ews4800mips.iso.torrent",
+    "href": "NetBSD-8.2-ews4800mips.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.2/NetBSD-8.2-ews4800mips.iso.torrent",
+    "is_dir": false,
+    "size": "26.5 KiB",
+    "date": "01-Apr-2020 09:33"
+  },
+  {
+    "name": "NetBSD-8.2-hp300.iso",
+    "href": "NetBSD-8.2-hp300.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.2/NetBSD-8.2-hp300.iso",
+    "is_dir": false,
+    "size": "289.2 MiB",
+    "date": "31-Mar-2020 09:24"
+  },
+  {
+    "name": "NetBSD-8.2-hp300.iso.torrent",
+    "href": "NetBSD-8.2-hp300.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.2/NetBSD-8.2-hp300.iso.torrent",
+    "is_dir": false,
+    "size": "22.8 KiB",
+    "date": "01-Apr-2020 09:33"
+  },
+  {
+    "name": "NetBSD-8.2-hpcarm.iso",
+    "href": "NetBSD-8.2-hpcarm.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.2/NetBSD-8.2-hpcarm.iso",
+    "is_dir": false,
+    "size": "441.6 MiB",
+    "date": "31-Mar-2020 10:31"
+  },
+  {
+    "name": "NetBSD-8.2-hpcarm.iso.torrent",
+    "href": "NetBSD-8.2-hpcarm.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.2/NetBSD-8.2-hpcarm.iso.torrent",
+    "is_dir": false,
+    "size": "34.7 KiB",
+    "date": "01-Apr-2020 09:33"
+  },
+  {
+    "name": "NetBSD-8.2-hpcmips.iso",
+    "href": "NetBSD-8.2-hpcmips.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.2/NetBSD-8.2-hpcmips.iso",
+    "is_dir": false,
+    "size": "337.1 MiB",
+    "date": "31-Mar-2020 10:12"
+  },
+  {
+    "name": "NetBSD-8.2-hpcmips.iso.torrent",
+    "href": "NetBSD-8.2-hpcmips.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.2/NetBSD-8.2-hpcmips.iso.torrent",
+    "is_dir": false,
+    "size": "26.5 KiB",
+    "date": "01-Apr-2020 09:33"
+  },
+  {
+    "name": "NetBSD-8.2-hpcsh.iso",
+    "href": "NetBSD-8.2-hpcsh.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.2/NetBSD-8.2-hpcsh.iso",
+    "is_dir": false,
+    "size": "299.9 MiB",
+    "date": "31-Mar-2020 10:15"
+  },
+  {
+    "name": "NetBSD-8.2-hpcsh.iso.torrent",
+    "href": "NetBSD-8.2-hpcsh.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.2/NetBSD-8.2-hpcsh.iso.torrent",
+    "is_dir": false,
+    "size": "23.6 KiB",
+    "date": "01-Apr-2020 09:33"
+  },
+  {
+    "name": "NetBSD-8.2-hppa.iso",
+    "href": "NetBSD-8.2-hppa.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.2/NetBSD-8.2-hppa.iso",
+    "is_dir": false,
+    "size": "384.2 MiB",
+    "date": "31-Mar-2020 09:45"
+  },
+  {
+    "name": "NetBSD-8.2-hppa.iso.torrent",
+    "href": "NetBSD-8.2-hppa.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.2/NetBSD-8.2-hppa.iso.torrent",
+    "is_dir": false,
+    "size": "30.2 KiB",
+    "date": "01-Apr-2020 09:33"
+  },
+  {
+    "name": "NetBSD-8.2-i386-install.img.gz",
+    "href": "NetBSD-8.2-i386-install.img.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.2/NetBSD-8.2-i386-install.img.gz",
+    "is_dir": false,
+    "size": "910.3 MiB",
+    "date": "31-Mar-2020 10:43"
+  },
+  {
+    "name": "NetBSD-8.2-i386-install.img.gz.torrent",
+    "href": "NetBSD-8.2-i386-install.img.gz.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.2/NetBSD-8.2-i386-install.img.gz.torrent",
+    "is_dir": false,
+    "size": "71.3 KiB",
+    "date": "01-Apr-2020 09:33"
+  },
+  {
+    "name": "NetBSD-8.2-i386.iso",
+    "href": "NetBSD-8.2-i386.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.2/NetBSD-8.2-i386.iso",
+    "is_dir": false,
+    "size": "682.5 MiB",
+    "date": "31-Mar-2020 10:40"
+  },
+  {
+    "name": "NetBSD-8.2-i386.iso.torrent",
+    "href": "NetBSD-8.2-i386.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.2/NetBSD-8.2-i386.iso.torrent",
+    "is_dir": false,
+    "size": "53.5 KiB",
+    "date": "01-Apr-2020 09:33"
+  },
+  {
+    "name": "NetBSD-8.2-ibmnws.iso",
+    "href": "NetBSD-8.2-ibmnws.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.2/NetBSD-8.2-ibmnws.iso",
+    "is_dir": false,
+    "size": "318.6 MiB",
+    "date": "31-Mar-2020 10:13"
+  },
+  {
+    "name": "NetBSD-8.2-ibmnws.iso.torrent",
+    "href": "NetBSD-8.2-ibmnws.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.2/NetBSD-8.2-ibmnws.iso.torrent",
+    "is_dir": false,
+    "size": "25.1 KiB",
+    "date": "01-Apr-2020 09:33"
+  },
+  {
+    "name": "NetBSD-8.2-luna68k.iso",
+    "href": "NetBSD-8.2-luna68k.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.2/NetBSD-8.2-luna68k.iso",
+    "is_dir": false,
+    "size": "285.2 MiB",
+    "date": "31-Mar-2020 10:19"
+  },
+  {
+    "name": "NetBSD-8.2-luna68k.iso.torrent",
+    "href": "NetBSD-8.2-luna68k.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.2/NetBSD-8.2-luna68k.iso.torrent",
+    "is_dir": false,
+    "size": "22.5 KiB",
+    "date": "01-Apr-2020 09:33"
+  },
+  {
+    "name": "NetBSD-8.2-mac68k.iso",
+    "href": "NetBSD-8.2-mac68k.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.2/NetBSD-8.2-mac68k.iso",
+    "is_dir": false,
+    "size": "310.3 MiB",
+    "date": "31-Mar-2020 13:53"
+  },
+  {
+    "name": "NetBSD-8.2-mac68k.iso.torrent",
+    "href": "NetBSD-8.2-mac68k.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.2/NetBSD-8.2-mac68k.iso.torrent",
+    "is_dir": false,
+    "size": "24.4 KiB",
+    "date": "01-Apr-2020 09:33"
+  },
+  {
+    "name": "NetBSD-8.2-macppc.iso",
+    "href": "NetBSD-8.2-macppc.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.2/NetBSD-8.2-macppc.iso",
+    "is_dir": false,
+    "size": "443.3 MiB",
+    "date": "31-Mar-2020 13:53"
+  },
+  {
+    "name": "NetBSD-8.2-macppc.iso.torrent",
+    "href": "NetBSD-8.2-macppc.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.2/NetBSD-8.2-macppc.iso.torrent",
+    "is_dir": false,
+    "size": "34.8 KiB",
+    "date": "01-Apr-2020 09:33"
+  },
+  {
+    "name": "NetBSD-8.2-mipsco.iso",
+    "href": "NetBSD-8.2-mipsco.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.2/NetBSD-8.2-mipsco.iso",
+    "is_dir": false,
+    "size": "333.6 MiB",
+    "date": "31-Mar-2020 10:36"
+  },
+  {
+    "name": "NetBSD-8.2-mipsco.iso.torrent",
+    "href": "NetBSD-8.2-mipsco.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.2/NetBSD-8.2-mipsco.iso.torrent",
+    "is_dir": false,
+    "size": "26.2 KiB",
+    "date": "01-Apr-2020 09:34"
+  },
+  {
+    "name": "NetBSD-8.2-mvme68k.iso",
+    "href": "NetBSD-8.2-mvme68k.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.2/NetBSD-8.2-mvme68k.iso",
+    "is_dir": false,
+    "size": "296.2 MiB",
+    "date": "31-Mar-2020 10:33"
+  },
+  {
+    "name": "NetBSD-8.2-mvme68k.iso.torrent",
+    "href": "NetBSD-8.2-mvme68k.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.2/NetBSD-8.2-mvme68k.iso.torrent",
+    "is_dir": false,
+    "size": "23.3 KiB",
+    "date": "01-Apr-2020 09:34"
+  },
+  {
+    "name": "NetBSD-8.2-mvmeppc.iso",
+    "href": "NetBSD-8.2-mvmeppc.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.2/NetBSD-8.2-mvmeppc.iso",
+    "is_dir": false,
+    "size": "315.6 MiB",
+    "date": "31-Mar-2020 10:43"
+  },
+  {
+    "name": "NetBSD-8.2-mvmeppc.iso.torrent",
+    "href": "NetBSD-8.2-mvmeppc.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.2/NetBSD-8.2-mvmeppc.iso.torrent",
+    "is_dir": false,
+    "size": "24.8 KiB",
+    "date": "01-Apr-2020 09:34"
+  },
+  {
+    "name": "NetBSD-8.2-news68k.iso",
+    "href": "NetBSD-8.2-news68k.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.2/NetBSD-8.2-news68k.iso",
+    "is_dir": false,
+    "size": "288.3 MiB",
+    "date": "31-Mar-2020 11:02"
+  },
+  {
+    "name": "NetBSD-8.2-news68k.iso.torrent",
+    "href": "NetBSD-8.2-news68k.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.2/NetBSD-8.2-news68k.iso.torrent",
+    "is_dir": false,
+    "size": "22.7 KiB",
+    "date": "01-Apr-2020 09:34"
+  },
+  {
+    "name": "NetBSD-8.2-newsmips.iso",
+    "href": "NetBSD-8.2-newsmips.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.2/NetBSD-8.2-newsmips.iso",
+    "is_dir": false,
+    "size": "334.0 MiB",
+    "date": "31-Mar-2020 11:08"
+  },
+  {
+    "name": "NetBSD-8.2-newsmips.iso.torrent",
+    "href": "NetBSD-8.2-newsmips.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.2/NetBSD-8.2-newsmips.iso.torrent",
+    "is_dir": false,
+    "size": "26.3 KiB",
+    "date": "01-Apr-2020 09:34"
+  },
+  {
+    "name": "NetBSD-8.2-ofppc.iso",
+    "href": "NetBSD-8.2-ofppc.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.2/NetBSD-8.2-ofppc.iso",
+    "is_dir": false,
+    "size": "330.7 MiB",
+    "date": "31-Mar-2020 11:18"
+  },
+  {
+    "name": "NetBSD-8.2-ofppc.iso.torrent",
+    "href": "NetBSD-8.2-ofppc.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.2/NetBSD-8.2-ofppc.iso.torrent",
+    "is_dir": false,
+    "size": "26.0 KiB",
+    "date": "01-Apr-2020 09:34"
+  },
+  {
+    "name": "NetBSD-8.2-pmax.iso",
+    "href": "NetBSD-8.2-pmax.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.2/NetBSD-8.2-pmax.iso",
+    "is_dir": false,
+    "size": "346.9 MiB",
+    "date": "31-Mar-2020 11:19"
+  },
+  {
+    "name": "NetBSD-8.2-pmax.iso.torrent",
+    "href": "NetBSD-8.2-pmax.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.2/NetBSD-8.2-pmax.iso.torrent",
+    "is_dir": false,
+    "size": "27.3 KiB",
+    "date": "01-Apr-2020 09:34"
+  },
+  {
+    "name": "NetBSD-8.2-prep.iso",
+    "href": "NetBSD-8.2-prep.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.2/NetBSD-8.2-prep.iso",
+    "is_dir": false,
+    "size": "345.2 MiB",
+    "date": "31-Mar-2020 11:21"
+  },
+  {
+    "name": "NetBSD-8.2-prep.iso.torrent",
+    "href": "NetBSD-8.2-prep.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.2/NetBSD-8.2-prep.iso.torrent",
+    "is_dir": false,
+    "size": "27.1 KiB",
+    "date": "01-Apr-2020 09:34"
+  },
+  {
+    "name": "NetBSD-8.2-sandpoint.iso",
+    "href": "NetBSD-8.2-sandpoint.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.2/NetBSD-8.2-sandpoint.iso",
+    "is_dir": false,
+    "size": "327.5 MiB",
+    "date": "31-Mar-2020 11:31"
+  },
+  {
+    "name": "NetBSD-8.2-sandpoint.iso.torrent",
+    "href": "NetBSD-8.2-sandpoint.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.2/NetBSD-8.2-sandpoint.iso.torrent",
+    "is_dir": false,
+    "size": "25.8 KiB",
+    "date": "01-Apr-2020 09:34"
+  },
+  {
+    "name": "NetBSD-8.2-sgimips.iso",
+    "href": "NetBSD-8.2-sgimips.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.2/NetBSD-8.2-sgimips.iso",
+    "is_dir": false,
+    "size": "371.6 MiB",
+    "date": "31-Mar-2020 11:28"
+  },
+  {
+    "name": "NetBSD-8.2-sgimips.iso.torrent",
+    "href": "NetBSD-8.2-sgimips.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.2/NetBSD-8.2-sgimips.iso.torrent",
+    "is_dir": false,
+    "size": "29.2 KiB",
+    "date": "01-Apr-2020 09:34"
+  },
+  {
+    "name": "NetBSD-8.2-shark.iso",
+    "href": "NetBSD-8.2-shark.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.2/NetBSD-8.2-shark.iso",
+    "is_dir": false,
+    "size": "431.6 MiB",
+    "date": "31-Mar-2020 11:38"
+  },
+  {
+    "name": "NetBSD-8.2-shark.iso.torrent",
+    "href": "NetBSD-8.2-shark.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.2/NetBSD-8.2-shark.iso.torrent",
+    "is_dir": false,
+    "size": "33.9 KiB",
+    "date": "01-Apr-2020 09:34"
+  },
+  {
+    "name": "NetBSD-8.2-sparc.iso",
+    "href": "NetBSD-8.2-sparc.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.2/NetBSD-8.2-sparc.iso",
+    "is_dir": false,
+    "size": "337.8 MiB",
+    "date": "31-Mar-2020 11:40"
+  },
+  {
+    "name": "NetBSD-8.2-sparc.iso.torrent",
+    "href": "NetBSD-8.2-sparc.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.2/NetBSD-8.2-sparc.iso.torrent",
+    "is_dir": false,
+    "size": "26.6 KiB",
+    "date": "01-Apr-2020 09:34"
+  },
+  {
+    "name": "NetBSD-8.2-sparc64.iso",
+    "href": "NetBSD-8.2-sparc64.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.2/NetBSD-8.2-sparc64.iso",
+    "is_dir": false,
+    "size": "609.1 MiB",
+    "date": "31-Mar-2020 11:41"
+  },
+  {
+    "name": "NetBSD-8.2-sparc64.iso.torrent",
+    "href": "NetBSD-8.2-sparc64.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.2/NetBSD-8.2-sparc64.iso.torrent",
+    "is_dir": false,
+    "size": "47.8 KiB",
+    "date": "01-Apr-2020 09:34"
+  },
+  {
+    "name": "NetBSD-8.2-sun2.iso",
+    "href": "NetBSD-8.2-sun2.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.2/NetBSD-8.2-sun2.iso",
+    "is_dir": false,
+    "size": "542.3 MiB",
+    "date": "31-Mar-2020 11:22"
+  },
+  {
+    "name": "NetBSD-8.2-sun2.iso.torrent",
+    "href": "NetBSD-8.2-sun2.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.2/NetBSD-8.2-sun2.iso.torrent",
+    "is_dir": false,
+    "size": "42.6 KiB",
+    "date": "01-Apr-2020 09:34"
+  },
+  {
+    "name": "NetBSD-8.2-sun3.iso",
+    "href": "NetBSD-8.2-sun3.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.2/NetBSD-8.2-sun3.iso",
+    "is_dir": false,
+    "size": "299.4 MiB",
+    "date": "31-Mar-2020 11:39"
+  },
+  {
+    "name": "NetBSD-8.2-sun3.iso.torrent",
+    "href": "NetBSD-8.2-sun3.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.2/NetBSD-8.2-sun3.iso.torrent",
+    "is_dir": false,
+    "size": "23.6 KiB",
+    "date": "01-Apr-2020 09:34"
+  },
+  {
+    "name": "NetBSD-8.2-vax.iso",
+    "href": "NetBSD-8.2-vax.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.2/NetBSD-8.2-vax.iso",
+    "is_dir": false,
+    "size": "346.5 MiB",
+    "date": "31-Mar-2020 11:41"
+  },
+  {
+    "name": "NetBSD-8.2-vax.iso.torrent",
+    "href": "NetBSD-8.2-vax.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.2/NetBSD-8.2-vax.iso.torrent",
+    "is_dir": false,
+    "size": "27.2 KiB",
+    "date": "01-Apr-2020 09:34"
+  },
+  {
+    "name": "NetBSD-8.2-x68k.iso",
+    "href": "NetBSD-8.2-x68k.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.2/NetBSD-8.2-x68k.iso",
+    "is_dir": false,
+    "size": "290.0 MiB",
+    "date": "31-Mar-2020 11:44"
+  },
+  {
+    "name": "NetBSD-8.2-x68k.iso.torrent",
+    "href": "NetBSD-8.2-x68k.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.2/NetBSD-8.2-x68k.iso.torrent",
+    "is_dir": false,
+    "size": "22.8 KiB",
+    "date": "01-Apr-2020 09:34"
+  },
+  {
+    "name": "NetBSD-8.2-zaurus.iso",
+    "href": "NetBSD-8.2-zaurus.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.2/NetBSD-8.2-zaurus.iso",
+    "is_dir": false,
+    "size": "435.3 MiB",
+    "date": "31-Mar-2020 12:17"
+  },
+  {
+    "name": "NetBSD-8.2-zaurus.iso.torrent",
+    "href": "NetBSD-8.2-zaurus.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.2/NetBSD-8.2-zaurus.iso.torrent",
+    "is_dir": false,
+    "size": "34.2 KiB",
+    "date": "01-Apr-2020 09:34"
+  },
+  {
+    "name": "SHA512",
+    "href": "SHA512",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.2/SHA512",
+    "is_dir": false,
+    "size": "8.7 KiB",
+    "date": "31-Mar-2020 14:05"
+  }
+]

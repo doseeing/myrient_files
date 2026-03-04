@@ -1,0 +1,50 @@
+[
+  {
+    "name": "BSDSUM",
+    "href": "BSDSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/macppc/binary/kernel/BSDSUM",
+    "is_dir": false,
+    "size": "53 B",
+    "date": "11-Aug-1999 11:38"
+  },
+  {
+    "name": "CKSUM",
+    "href": "CKSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/macppc/binary/kernel/CKSUM",
+    "is_dir": false,
+    "size": "69 B",
+    "date": "11-Aug-1999 11:38"
+  },
+  {
+    "name": "MD5",
+    "href": "MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/macppc/binary/kernel/MD5",
+    "is_dir": false,
+    "size": "115 B",
+    "date": "11-Aug-1999 11:38"
+  },
+  {
+    "name": "SYSVSUM",
+    "href": "SYSVSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/macppc/binary/kernel/SYSVSUM",
+    "is_dir": false,
+    "size": "54 B",
+    "date": "11-Aug-1999 11:38"
+  },
+  {
+    "name": "netbsd-GENERIC_MD.gz",
+    "href": "netbsd-GENERIC_MD.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/macppc/binary/kernel/netbsd-GENERIC_MD.gz",
+    "is_dir": false,
+    "size": "1.4 MiB",
+    "date": "11-Aug-1999 11:38"
+  },
+  {
+    "name": "ofwboot.elf",
+    "href": "ofwboot.elf",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/macppc/binary/kernel/ofwboot.elf",
+    "is_dir": false,
+    "size": "57.8 KiB",
+    "date": "11-Aug-1999 11:38"
+  }
+]

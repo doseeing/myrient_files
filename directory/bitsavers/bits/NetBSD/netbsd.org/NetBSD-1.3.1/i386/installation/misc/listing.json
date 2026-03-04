@@ -1,0 +1,106 @@
+[
+  {
+    "name": "BSDSUM",
+    "href": "BSDSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/installation/misc/BSDSUM",
+    "is_dir": false,
+    "size": "184 B",
+    "date": "08-Apr-1998 16:01"
+  },
+  {
+    "name": "CKSUM",
+    "href": "CKSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/installation/misc/CKSUM",
+    "is_dir": false,
+    "size": "248 B",
+    "date": "08-Apr-1998 16:01"
+  },
+  {
+    "name": "MD5",
+    "href": "MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/installation/misc/MD5",
+    "is_dir": false,
+    "size": "476 B",
+    "date": "08-Apr-1998 16:01"
+  },
+  {
+    "name": "README.files",
+    "href": "README.files",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/installation/misc/README.files",
+    "is_dir": false,
+    "size": "1.2 KiB",
+    "date": "08-Apr-1998 15:59"
+  },
+  {
+    "name": "SYSVSUM",
+    "href": "SYSVSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/installation/misc/SYSVSUM",
+    "is_dir": false,
+    "size": "186 B",
+    "date": "08-Apr-1998 16:01"
+  },
+  {
+    "name": "osbs135.exe",
+    "href": "osbs135.exe",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/installation/misc/osbs135.exe",
+    "is_dir": false,
+    "size": "30.6 KiB",
+    "date": "08-Apr-1998 15:59"
+  },
+  {
+    "name": "osbsbeta.exe",
+    "href": "osbsbeta.exe",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/installation/misc/osbsbeta.exe",
+    "is_dir": false,
+    "size": "40.1 KiB",
+    "date": "08-Apr-1998 15:59"
+  },
+  {
+    "name": "pfdisk.doc",
+    "href": "pfdisk.doc",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/installation/misc/pfdisk.doc",
+    "is_dir": false,
+    "size": "6.9 KiB",
+    "date": "08-Apr-1998 15:59"
+  },
+  {
+    "name": "pfdisk.exe",
+    "href": "pfdisk.exe",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/installation/misc/pfdisk.exe",
+    "is_dir": false,
+    "size": "17.1 KiB",
+    "date": "08-Apr-1998 15:59"
+  },
+  {
+    "name": "pfdisktc.zip",
+    "href": "pfdisktc.zip",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/installation/misc/pfdisktc.zip",
+    "is_dir": false,
+    "size": "23.1 KiB",
+    "date": "08-Apr-1998 15:59"
+  },
+  {
+    "name": "rawrite.c",
+    "href": "rawrite.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/installation/misc/rawrite.c",
+    "is_dir": false,
+    "size": "5.0 KiB",
+    "date": "08-Apr-1998 15:59"
+  },
+  {
+    "name": "rawrite.doc",
+    "href": "rawrite.doc",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/installation/misc/rawrite.doc",
+    "is_dir": false,
+    "size": "2.1 KiB",
+    "date": "08-Apr-1998 15:59"
+  },
+  {
+    "name": "rawrite.exe",
+    "href": "rawrite.exe",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/installation/misc/rawrite.exe",
+    "is_dir": false,
+    "size": "12.7 KiB",
+    "date": "08-Apr-1998 15:59"
+  }
+]

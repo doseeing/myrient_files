@@ -1,0 +1,50 @@
+[
+  {
+    "name": "BSDSUM",
+    "href": "BSDSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/vax/installation/bootfs/BSDSUM",
+    "is_dir": false,
+    "size": "49 B",
+    "date": "16-Mar-2000 10:15"
+  },
+  {
+    "name": "CKSUM",
+    "href": "CKSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/vax/installation/bootfs/CKSUM",
+    "is_dir": false,
+    "size": "65 B",
+    "date": "16-Mar-2000 10:15"
+  },
+  {
+    "name": "MD5",
+    "href": "MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/vax/installation/bootfs/MD5",
+    "is_dir": false,
+    "size": "112 B",
+    "date": "16-Mar-2000 10:15"
+  },
+  {
+    "name": "SYSVSUM",
+    "href": "SYSVSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/vax/installation/bootfs/SYSVSUM",
+    "is_dir": false,
+    "size": "50 B",
+    "date": "16-Mar-2000 10:15"
+  },
+  {
+    "name": "boot.fs.gz",
+    "href": "boot.fs.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/vax/installation/bootfs/boot.fs.gz",
+    "is_dir": false,
+    "size": "910.0 KiB",
+    "date": "16-Mar-2000 09:33"
+  },
+  {
+    "name": "bootroot-142.fs.gz",
+    "href": "bootroot-142.fs.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/vax/installation/bootfs/bootroot-142.fs.gz",
+    "is_dir": false,
+    "size": "33.4 KiB",
+    "date": "16-Mar-2000 09:34"
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "name": "BSDSUM",
+    "href": "BSDSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/i386/installation/floppy/BSDSUM",
+    "is_dir": false,
+    "size": "232 B",
+    "date": "30-Nov-2000 13:23"
+  },
+  {
+    "name": "CKSUM",
+    "href": "CKSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/i386/installation/floppy/CKSUM",
+    "is_dir": false,
+    "size": "312 B",
+    "date": "30-Nov-2000 13:24"
+  },
+  {
+    "name": "MD5",
+    "href": "MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/i386/installation/floppy/MD5",
+    "is_dir": false,
+    "size": "537 B",
+    "date": "30-Nov-2000 13:24"
+  },
+  {
+    "name": "SYSVSUM",
+    "href": "SYSVSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/i386/installation/floppy/SYSVSUM",
+    "is_dir": false,
+    "size": "232 B",
+    "date": "30-Nov-2000 13:24"
+  },
+  {
+    "name": "boot-big.fs",
+    "href": "boot-big.fs",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/i386/installation/floppy/boot-big.fs",
+    "is_dir": false,
+    "size": "2.8 MiB",
+    "date": "30-Nov-2000 13:23"
+  },
+  {
+    "name": "boot-big.fs.gz",
+    "href": "boot-big.fs.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/i386/installation/floppy/boot-big.fs.gz",
+    "is_dir": false,
+    "size": "2.0 MiB",
+    "date": "23-Nov-2000 15:44"
+  },
+  {
+    "name": "boot-small.fs",
+    "href": "boot-small.fs",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/i386/installation/floppy/boot-small.fs",
+    "is_dir": false,
+    "size": "1.2 MiB",
+    "date": "23-Nov-2000 15:53"
+  },
+  {
+    "name": "boot-tiny.fs",
+    "href": "boot-tiny.fs",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/i386/installation/floppy/boot-tiny.fs",
+    "is_dir": false,
+    "size": "1.1 MiB",
+    "date": "23-Nov-2000 15:58"
+  },
+  {
+    "name": "boot1.fs",
+    "href": "boot1.fs",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/i386/installation/floppy/boot1.fs",
+    "is_dir": false,
+    "size": "1.4 MiB",
+    "date": "23-Nov-2000 16:04"
+  },
+  {
+    "name": "boot2.fs",
+    "href": "boot2.fs",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/i386/installation/floppy/boot2.fs",
+    "is_dir": false,
+    "size": "616.0 KiB",
+    "date": "23-Nov-2000 16:07"
+  },
+  {
+    "name": "bootlap1.fs",
+    "href": "bootlap1.fs",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/i386/installation/floppy/bootlap1.fs",
+    "is_dir": false,
+    "size": "1.4 MiB",
+    "date": "23-Nov-2000 16:12"
+  },
+  {
+    "name": "bootlap2.fs",
+    "href": "bootlap2.fs",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/i386/installation/floppy/bootlap2.fs",
+    "is_dir": false,
+    "size": "232.0 KiB",
+    "date": "23-Nov-2000 16:15"
+  },
+  {
+    "name": "rescue-small.fs",
+    "href": "rescue-small.fs",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/i386/installation/floppy/rescue-small.fs",
+    "is_dir": false,
+    "size": "1.2 MiB",
+    "date": "23-Nov-2000 16:19"
+  },
+  {
+    "name": "rescue-tiny.fs",
+    "href": "rescue-tiny.fs",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/i386/installation/floppy/rescue-tiny.fs",
+    "is_dir": false,
+    "size": "1.1 MiB",
+    "date": "23-Nov-2000 16:26"
+  }
+]

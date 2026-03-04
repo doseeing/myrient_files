@@ -1,0 +1,50 @@
+[
+  {
+    "name": "BSDSUM",
+    "href": "BSDSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/vax/installation/netboot/BSDSUM",
+    "is_dir": false,
+    "size": "44 B",
+    "date": "18-Aug-1999 19:17"
+  },
+  {
+    "name": "CKSUM",
+    "href": "CKSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/vax/installation/netboot/CKSUM",
+    "is_dir": false,
+    "size": "61 B",
+    "date": "18-Aug-1999 19:17"
+  },
+  {
+    "name": "MD5",
+    "href": "MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/vax/installation/netboot/MD5",
+    "is_dir": false,
+    "size": "108 B",
+    "date": "18-Aug-1999 19:17"
+  },
+  {
+    "name": "SYSVSUM",
+    "href": "SYSVSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/vax/installation/netboot/SYSVSUM",
+    "is_dir": false,
+    "size": "46 B",
+    "date": "18-Aug-1999 19:17"
+  },
+  {
+    "name": "boot.mop.gz",
+    "href": "boot.mop.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/vax/installation/netboot/boot.mop.gz",
+    "is_dir": false,
+    "size": "28.1 KiB",
+    "date": "18-Aug-1999 17:45"
+  },
+  {
+    "name": "netbsd.ram.gz",
+    "href": "netbsd.ram.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/vax/installation/netboot/netbsd.ram.gz",
+    "is_dir": false,
+    "size": "873.3 KiB",
+    "date": "18-Aug-1999 17:44"
+  }
+]

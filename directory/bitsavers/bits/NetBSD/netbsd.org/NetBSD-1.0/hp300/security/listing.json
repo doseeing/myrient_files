@@ -1,0 +1,18 @@
+[
+  {
+    "name": "CKSUMS",
+    "href": "CKSUMS",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.0/hp300/security/CKSUMS",
+    "is_dir": false,
+    "size": "32 B",
+    "date": "15-Nov-1994 05:27"
+  },
+  {
+    "name": "secr10.tar.gz",
+    "href": "secr10.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.0/hp300/security/secr10.tar.gz",
+    "is_dir": false,
+    "size": "118.6 KiB",
+    "date": "12-Nov-1994 12:19"
+  }
+]

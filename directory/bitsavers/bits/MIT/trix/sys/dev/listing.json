@@ -1,0 +1,90 @@
+[
+  {
+    "name": "Makefile",
+    "href": "Makefile",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/trix/sys/dev/Makefile",
+    "is_dir": false,
+    "size": "430 B",
+    "date": "11-Oct-1986 22:50"
+  },
+  {
+    "name": "dev.c",
+    "href": "dev.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/trix/sys/dev/dev.c",
+    "is_dir": false,
+    "size": "2.2 KiB",
+    "date": "11-Oct-1986 22:50"
+  },
+  {
+    "name": "devi.s",
+    "href": "devi.s",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/trix/sys/dev/devi.s",
+    "is_dir": false,
+    "size": "434 B",
+    "date": "11-Oct-1986 22:50"
+  },
+  {
+    "name": "profile.c",
+    "href": "profile.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/trix/sys/dev/profile.c",
+    "is_dir": false,
+    "size": "2.5 KiB",
+    "date": "11-Oct-1986 22:50"
+  },
+  {
+    "name": "profilei.s",
+    "href": "profilei.s",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/trix/sys/dev/profilei.s",
+    "is_dir": false,
+    "size": "1.4 KiB",
+    "date": "11-Oct-1986 22:50"
+  },
+  {
+    "name": "qtr.c",
+    "href": "qtr.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/trix/sys/dev/qtr.c",
+    "is_dir": false,
+    "size": "20.6 KiB",
+    "date": "11-Oct-1986 22:50"
+  },
+  {
+    "name": "qtr.h",
+    "href": "qtr.h",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/trix/sys/dev/qtr.h",
+    "is_dir": false,
+    "size": "5.7 KiB",
+    "date": "11-Oct-1986 22:50"
+  },
+  {
+    "name": "reg.h",
+    "href": "reg.h",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/trix/sys/dev/reg.h",
+    "is_dir": false,
+    "size": "5.5 KiB",
+    "date": "11-Oct-1986 22:50"
+  },
+  {
+    "name": "smdti.c",
+    "href": "smdti.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/trix/sys/dev/smdti.c",
+    "is_dir": false,
+    "size": "24.7 KiB",
+    "date": "11-Oct-1986 22:50"
+  },
+  {
+    "name": "test.csav",
+    "href": "test.csav",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/trix/sys/dev/test.csav",
+    "is_dir": false,
+    "size": "234 B",
+    "date": "11-Oct-1986 22:50"
+  },
+  {
+    "name": "video.c",
+    "href": "video.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/trix/sys/dev/video.c",
+    "is_dir": false,
+    "size": "11.2 KiB",
+    "date": "11-Oct-1986 22:50"
+  }
+]

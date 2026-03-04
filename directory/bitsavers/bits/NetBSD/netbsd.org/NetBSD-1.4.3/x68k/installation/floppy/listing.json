@@ -1,0 +1,50 @@
+[
+  {
+    "name": "BSDSUM",
+    "href": "BSDSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/x68k/installation/floppy/BSDSUM",
+    "is_dir": false,
+    "size": "39 B",
+    "date": "07-Nov-2000 00:38"
+  },
+  {
+    "name": "CKSUM",
+    "href": "CKSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/x68k/installation/floppy/CKSUM",
+    "is_dir": false,
+    "size": "55 B",
+    "date": "07-Nov-2000 00:38"
+  },
+  {
+    "name": "MD5",
+    "href": "MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/x68k/installation/floppy/MD5",
+    "is_dir": false,
+    "size": "101 B",
+    "date": "07-Nov-2000 00:38"
+  },
+  {
+    "name": "SYSVSUM",
+    "href": "SYSVSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/x68k/installation/floppy/SYSVSUM",
+    "is_dir": false,
+    "size": "40 B",
+    "date": "07-Nov-2000 00:38"
+  },
+  {
+    "name": "boot.fs",
+    "href": "boot.fs",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/x68k/installation/floppy/boot.fs",
+    "is_dir": false,
+    "size": "1.2 MiB",
+    "date": "07-Nov-2000 00:35"
+  },
+  {
+    "name": "boot.fs.gz",
+    "href": "boot.fs.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/x68k/installation/floppy/boot.fs.gz",
+    "is_dir": false,
+    "size": "940.8 KiB",
+    "date": "07-Nov-2000 00:38"
+  }
+]

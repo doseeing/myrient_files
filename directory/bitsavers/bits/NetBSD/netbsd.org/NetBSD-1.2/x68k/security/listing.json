@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Tarfiles",
+    "href": "Tarfiles/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/x68k/security/Tarfiles/",
+    "is_dir": true,
+    "size": null,
+    "date": "30-Sep-2023 17:20"
+  },
+  {
+    "name": "secr12",
+    "href": "secr12/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/x68k/security/secr12/",
+    "is_dir": true,
+    "size": null,
+    "date": "30-Sep-2023 17:20"
+  },
+  {
+    "name": "CKSUMS",
+    "href": "CKSUMS",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/x68k/security/CKSUMS",
+    "is_dir": false,
+    "size": "83 B",
+    "date": "24-Sep-1996 02:32"
+  },
+  {
+    "name": "README.export-control",
+    "href": "README.export-control",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/x68k/security/README.export-control",
+    "is_dir": false,
+    "size": "791 B",
+    "date": "24-Sep-1996 02:32"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "boot.fs.gz",
+    "href": "boot.fs.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/vax/installation/bootfs/boot.fs.gz",
+    "is_dir": false,
+    "size": "913.5 KiB",
+    "date": "21-Nov-2000 19:40"
+  },
+  {
+    "name": "bootroot-143.fs.gz",
+    "href": "bootroot-143.fs.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/vax/installation/bootfs/bootroot-143.fs.gz",
+    "is_dir": false,
+    "size": "33.4 KiB",
+    "date": "21-Nov-2000 19:40"
+  }
+]

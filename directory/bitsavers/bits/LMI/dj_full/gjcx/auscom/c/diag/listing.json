@@ -1,0 +1,162 @@
+[
+  {
+    "name": "cioasm.s.1",
+    "href": "cioasm.s.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/gjcx/auscom/c/diag/cioasm.s.1",
+    "is_dir": false,
+    "size": "1.1 KiB",
+    "date": "21-Apr-2017 01:47"
+  },
+  {
+    "name": "d86asm.s.1",
+    "href": "d86asm.s.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/gjcx/auscom/c/diag/d86asm.s.1",
+    "is_dir": false,
+    "size": "9.0 KiB",
+    "date": "21-Apr-2017 01:47"
+  },
+  {
+    "name": "d86l1.c.1",
+    "href": "d86l1.c.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/gjcx/auscom/c/diag/d86l1.c.1",
+    "is_dir": false,
+    "size": "12.5 KiB",
+    "date": "21-Apr-2017 01:47"
+  },
+  {
+    "name": "d86l2.c.1",
+    "href": "d86l2.c.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/gjcx/auscom/c/diag/d86l2.c.1",
+    "is_dir": false,
+    "size": "19.5 KiB",
+    "date": "21-Apr-2017 01:47"
+  },
+  {
+    "name": "d86l3.c.1",
+    "href": "d86l3.c.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/gjcx/auscom/c/diag/d86l3.c.1",
+    "is_dir": false,
+    "size": "23.0 KiB",
+    "date": "21-Apr-2017 01:47"
+  },
+  {
+    "name": "d86lp.c.1",
+    "href": "d86lp.c.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/gjcx/auscom/c/diag/d86lp.c.1",
+    "is_dir": false,
+    "size": "17.5 KiB",
+    "date": "21-Apr-2017 01:47"
+  },
+  {
+    "name": "d86mn.c.1",
+    "href": "d86mn.c.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/gjcx/auscom/c/diag/d86mn.c.1",
+    "is_dir": false,
+    "size": "9.8 KiB",
+    "date": "21-Apr-2017 01:47"
+  },
+  {
+    "name": "diag.h.1",
+    "href": "diag.h.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/gjcx/auscom/c/diag/diag.h.1",
+    "is_dir": false,
+    "size": "5.0 KiB",
+    "date": "21-Apr-2017 01:47"
+  },
+  {
+    "name": "diagdat.h.1",
+    "href": "diagdat.h.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/gjcx/auscom/c/diag/diagdat.h.1",
+    "is_dir": false,
+    "size": "512 B",
+    "date": "21-Apr-2017 01:47"
+  },
+  {
+    "name": "hkinit.c.1",
+    "href": "hkinit.c.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/gjcx/auscom/c/diag/hkinit.c.1",
+    "is_dir": false,
+    "size": "2.5 KiB",
+    "date": "21-Apr-2017 01:47"
+  },
+  {
+    "name": "kdsio.c.1",
+    "href": "kdsio.c.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/gjcx/auscom/c/diag/kdsio.c.1",
+    "is_dir": false,
+    "size": "4.5 KiB",
+    "date": "21-Apr-2017 01:47"
+  },
+  {
+    "name": "kiwi.h.1",
+    "href": "kiwi.h.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/gjcx/auscom/c/diag/kiwi.h.1",
+    "is_dir": false,
+    "size": "1.5 KiB",
+    "date": "21-Apr-2017 01:47"
+  },
+  {
+    "name": "kiwisubs.c.1",
+    "href": "kiwisubs.c.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/gjcx/auscom/c/diag/kiwisubs.c.1",
+    "is_dir": false,
+    "size": "6.5 KiB",
+    "date": "21-Apr-2017 01:47"
+  },
+  {
+    "name": "makediag.text.1",
+    "href": "makediag.text.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/gjcx/auscom/c/diag/makediag.text.1",
+    "is_dir": false,
+    "size": "1.5 KiB",
+    "date": "21-Apr-2017 01:47"
+  },
+  {
+    "name": "maketst.text.1",
+    "href": "maketst.text.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/gjcx/auscom/c/diag/maketst.text.1",
+    "is_dir": false,
+    "size": "734 B",
+    "date": "21-Apr-2017 01:47"
+  },
+  {
+    "name": "mdiag5.c.1",
+    "href": "mdiag5.c.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/gjcx/auscom/c/diag/mdiag5.c.1",
+    "is_dir": false,
+    "size": "16.0 KiB",
+    "date": "21-Apr-2017 01:47"
+  },
+  {
+    "name": "msgs.h.1",
+    "href": "msgs.h.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/gjcx/auscom/c/diag/msgs.h.1",
+    "is_dir": false,
+    "size": "6.0 KiB",
+    "date": "21-Apr-2017 01:47"
+  },
+  {
+    "name": "rabits.h.1",
+    "href": "rabits.h.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/gjcx/auscom/c/diag/rabits.h.1",
+    "is_dir": false,
+    "size": "3.5 KiB",
+    "date": "21-Apr-2017 01:47"
+  },
+  {
+    "name": "tst360.c.1",
+    "href": "tst360.c.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/gjcx/auscom/c/diag/tst360.c.1",
+    "is_dir": false,
+    "size": "17.7 KiB",
+    "date": "21-Apr-2017 01:47"
+  },
+  {
+    "name": "uc86d.c.1",
+    "href": "uc86d.c.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/gjcx/auscom/c/diag/uc86d.c.1",
+    "is_dir": false,
+    "size": "39.5 KiB",
+    "date": "21-Apr-2017 01:47"
+  }
+]

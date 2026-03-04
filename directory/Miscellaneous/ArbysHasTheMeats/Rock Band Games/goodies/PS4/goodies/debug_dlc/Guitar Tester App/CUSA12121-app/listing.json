@@ -1,0 +1,34 @@
+[
+  {
+    "name": "sce_module",
+    "href": "sce_module/",
+    "url": "https://myrient.erista.me/files/Miscellaneous/ArbysHasTheMeats/Rock%20Band%20Games/goodies/PS4/goodies/debug_dlc/Guitar%20Tester%20App/CUSA12121-app/sce_module/",
+    "is_dir": true,
+    "size": null,
+    "date": "04-Oct-2025 20:23"
+  },
+  {
+    "name": "sce_sys",
+    "href": "sce_sys/",
+    "url": "https://myrient.erista.me/files/Miscellaneous/ArbysHasTheMeats/Rock%20Band%20Games/goodies/PS4/goodies/debug_dlc/Guitar%20Tester%20App/CUSA12121-app/sce_sys/",
+    "is_dir": true,
+    "size": null,
+    "date": "04-Oct-2025 20:26"
+  },
+  {
+    "name": "eboot.bin",
+    "href": "eboot.bin",
+    "url": "https://myrient.erista.me/files/Miscellaneous/ArbysHasTheMeats/Rock%20Band%20Games/goodies/PS4/goodies/debug_dlc/Guitar%20Tester%20App/CUSA12121-app/eboot.bin",
+    "is_dir": false,
+    "size": "2.7 MiB",
+    "date": "04-Sep-2022 03:08"
+  },
+  {
+    "name": "sce_discmap.plt",
+    "href": "sce_discmap.plt",
+    "url": "https://myrient.erista.me/files/Miscellaneous/ArbysHasTheMeats/Rock%20Band%20Games/goodies/PS4/goodies/debug_dlc/Guitar%20Tester%20App/CUSA12121-app/sce_discmap.plt",
+    "is_dir": false,
+    "size": "3.1 MiB",
+    "date": "04-Sep-2022 03:08"
+  }
+]

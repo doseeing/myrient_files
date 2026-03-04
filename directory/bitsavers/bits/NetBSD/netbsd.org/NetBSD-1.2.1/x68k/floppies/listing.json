@@ -1,0 +1,58 @@
+[
+  {
+    "name": "CKSUMS",
+    "href": "CKSUMS",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2.1/x68k/floppies/CKSUMS",
+    "is_dir": false,
+    "size": "182 B",
+    "date": "24-Mar-1997 15:26"
+  },
+  {
+    "name": "inst121.fs",
+    "href": "inst121.fs",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2.1/x68k/floppies/inst121.fs",
+    "is_dir": false,
+    "size": "1.2 MiB",
+    "date": "22-Mar-1997 01:50"
+  },
+  {
+    "name": "inst121.fs.gz",
+    "href": "inst121.fs.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2.1/x68k/floppies/inst121.fs.gz",
+    "is_dir": false,
+    "size": "470.0 KiB",
+    "date": "22-Mar-1997 02:01"
+  },
+  {
+    "name": "kc121.fs",
+    "href": "kc121.fs",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2.1/x68k/floppies/kc121.fs",
+    "is_dir": false,
+    "size": "1.2 MiB",
+    "date": "22-Mar-1997 01:50"
+  },
+  {
+    "name": "kc121.fs.gz",
+    "href": "kc121.fs.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2.1/x68k/floppies/kc121.fs.gz",
+    "is_dir": false,
+    "size": "563.6 KiB",
+    "date": "22-Mar-1997 02:01"
+  },
+  {
+    "name": "upgr121.fs",
+    "href": "upgr121.fs",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2.1/x68k/floppies/upgr121.fs",
+    "is_dir": false,
+    "size": "1.2 MiB",
+    "date": "22-Mar-1997 01:50"
+  },
+  {
+    "name": "upgr121.fs.gz",
+    "href": "upgr121.fs.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2.1/x68k/floppies/upgr121.fs.gz",
+    "is_dir": false,
+    "size": "467.2 KiB",
+    "date": "22-Mar-1997 02:01"
+  }
+]

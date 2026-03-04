@@ -1,0 +1,66 @@
+[
+  {
+    "name": "CKSUMS",
+    "href": "CKSUMS",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/x68k/binary/Tarfiles/CKSUMS",
+    "is_dir": false,
+    "size": "225 B",
+    "date": "24-Sep-1996 02:34"
+  },
+  {
+    "name": "base12.tar.gz",
+    "href": "base12.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/x68k/binary/Tarfiles/base12.tar.gz",
+    "is_dir": false,
+    "size": "7.2 MiB",
+    "date": "24-Sep-1996 02:35"
+  },
+  {
+    "name": "comp12.tar.gz",
+    "href": "comp12.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/x68k/binary/Tarfiles/comp12.tar.gz",
+    "is_dir": false,
+    "size": "5.1 MiB",
+    "date": "24-Sep-1996 02:34"
+  },
+  {
+    "name": "etc12.tar.gz",
+    "href": "etc12.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/x68k/binary/Tarfiles/etc12.tar.gz",
+    "is_dir": false,
+    "size": "66.6 KiB",
+    "date": "24-Sep-1996 02:34"
+  },
+  {
+    "name": "games12.tar.gz",
+    "href": "games12.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/x68k/binary/Tarfiles/games12.tar.gz",
+    "is_dir": false,
+    "size": "2.7 MiB",
+    "date": "24-Sep-1996 02:34"
+  },
+  {
+    "name": "man12.tar.gz",
+    "href": "man12.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/x68k/binary/Tarfiles/man12.tar.gz",
+    "is_dir": false,
+    "size": "872.5 KiB",
+    "date": "24-Sep-1996 02:34"
+  },
+  {
+    "name": "misc12.tar.gz",
+    "href": "misc12.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/x68k/binary/Tarfiles/misc12.tar.gz",
+    "is_dir": false,
+    "size": "1.8 MiB",
+    "date": "24-Sep-1996 02:35"
+  },
+  {
+    "name": "text12.tar.gz",
+    "href": "text12.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/x68k/binary/Tarfiles/text12.tar.gz",
+    "is_dir": false,
+    "size": "759.9 KiB",
+    "date": "24-Sep-1996 02:35"
+  }
+]

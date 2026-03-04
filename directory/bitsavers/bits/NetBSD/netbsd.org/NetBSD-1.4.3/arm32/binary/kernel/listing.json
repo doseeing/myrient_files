@@ -1,0 +1,98 @@
+[
+  {
+    "name": "BSDSUM",
+    "href": "BSDSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/arm32/binary/kernel/BSDSUM",
+    "is_dir": false,
+    "size": "233 B",
+    "date": "05-Nov-2000 11:11"
+  },
+  {
+    "name": "CKSUM",
+    "href": "CKSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/arm32/binary/kernel/CKSUM",
+    "is_dir": false,
+    "size": "296 B",
+    "date": "05-Nov-2000 11:11"
+  },
+  {
+    "name": "MD5",
+    "href": "MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/arm32/binary/kernel/MD5",
+    "is_dir": false,
+    "size": "482 B",
+    "date": "05-Nov-2000 11:11"
+  },
+  {
+    "name": "SYSVSUM",
+    "href": "SYSVSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/arm32/binary/kernel/SYSVSUM",
+    "is_dir": false,
+    "size": "242 B",
+    "date": "05-Nov-2000 11:11"
+  },
+  {
+    "name": "netbsd.A7000.gz",
+    "href": "netbsd.A7000.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/arm32/binary/kernel/netbsd.A7000.gz",
+    "is_dir": false,
+    "size": "740.4 KiB",
+    "date": "05-Nov-2000 10:42"
+  },
+  {
+    "name": "netbsd.CATS.gz",
+    "href": "netbsd.CATS.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/arm32/binary/kernel/netbsd.CATS.gz",
+    "is_dir": false,
+    "size": "877.1 KiB",
+    "date": "05-Nov-2000 10:43"
+  },
+  {
+    "name": "netbsd.EBSA285.gz",
+    "href": "netbsd.EBSA285.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/arm32/binary/kernel/netbsd.EBSA285.gz",
+    "is_dir": false,
+    "size": "748.7 KiB",
+    "date": "05-Nov-2000 10:43"
+  },
+  {
+    "name": "netbsd.GENERIC.gz",
+    "href": "netbsd.GENERIC.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/arm32/binary/kernel/netbsd.GENERIC.gz",
+    "is_dir": false,
+    "size": "851.5 KiB",
+    "date": "05-Nov-2000 10:41"
+  },
+  {
+    "name": "netbsd.RISCPC.gz",
+    "href": "netbsd.RISCPC.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/arm32/binary/kernel/netbsd.RISCPC.gz",
+    "is_dir": false,
+    "size": "743.4 KiB",
+    "date": "05-Nov-2000 10:43"
+  },
+  {
+    "name": "netbsd_netboot.SHARK.gz",
+    "href": "netbsd_netboot.SHARK.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/arm32/binary/kernel/netbsd_netboot.SHARK.gz",
+    "is_dir": false,
+    "size": "557.9 KiB",
+    "date": "05-Nov-2000 10:44"
+  },
+  {
+    "name": "netbsd_sdboot.SHARK.gz",
+    "href": "netbsd_sdboot.SHARK.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/arm32/binary/kernel/netbsd_sdboot.SHARK.gz",
+    "is_dir": false,
+    "size": "557.9 KiB",
+    "date": "05-Nov-2000 10:44"
+  },
+  {
+    "name": "netbsd_wdboot.SHARK.gz",
+    "href": "netbsd_wdboot.SHARK.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/arm32/binary/kernel/netbsd_wdboot.SHARK.gz",
+    "is_dir": false,
+    "size": "557.9 KiB",
+    "date": "05-Nov-2000 10:44"
+  }
+]

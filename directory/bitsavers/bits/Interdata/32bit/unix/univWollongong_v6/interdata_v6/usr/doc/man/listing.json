@@ -1,0 +1,82 @@
+[
+  {
+    "name": "man1",
+    "href": "man1/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/doc/man/man1/",
+    "is_dir": true,
+    "size": null,
+    "date": "10-Mar-2006 08:06"
+  },
+  {
+    "name": "man2",
+    "href": "man2/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/doc/man/man2/",
+    "is_dir": true,
+    "size": null,
+    "date": "10-Mar-2006 08:06"
+  },
+  {
+    "name": "man4",
+    "href": "man4/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/doc/man/man4/",
+    "is_dir": true,
+    "size": null,
+    "date": "10-Mar-2006 08:06"
+  },
+  {
+    "name": "man5",
+    "href": "man5/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/doc/man/man5/",
+    "is_dir": true,
+    "size": null,
+    "date": "10-Mar-2006 08:06"
+  },
+  {
+    "name": "man8",
+    "href": "man8/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/doc/man/man8/",
+    "is_dir": true,
+    "size": null,
+    "date": "10-Mar-2006 08:06"
+  },
+  {
+    "name": "READ_ME",
+    "href": "READ_ME",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/doc/man/READ_ME",
+    "is_dir": false,
+    "size": "219 B",
+    "date": "14-Nov-1978 07:49"
+  },
+  {
+    "name": "do",
+    "href": "do",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/doc/man/do",
+    "is_dir": false,
+    "size": "52 B",
+    "date": "11-Nov-1978 10:41"
+  },
+  {
+    "name": "make",
+    "href": "make",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/doc/man/make",
+    "is_dir": false,
+    "size": "136 B",
+    "date": "11-Nov-1978 10:52"
+  },
+  {
+    "name": "misc.0",
+    "href": "misc.0",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/doc/man/misc.0",
+    "is_dir": false,
+    "size": "1.6 KiB",
+    "date": "12-Nov-1978 15:57"
+  },
+  {
+    "name": "title.nr",
+    "href": "title.nr",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/doc/man/title.nr",
+    "is_dir": false,
+    "size": "119 B",
+    "date": "11-Nov-1978 10:15"
+  }
+]

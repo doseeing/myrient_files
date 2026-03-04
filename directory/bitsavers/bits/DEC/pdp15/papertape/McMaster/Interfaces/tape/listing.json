@@ -1,0 +1,50 @@
+[
+  {
+    "name": "mtread.ascii",
+    "href": "mtread.ascii",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp15/papertape/McMaster/Interfaces/tape/mtread.ascii",
+    "is_dir": false,
+    "size": "686 B",
+    "date": "28-Nov-2000 11:00"
+  },
+  {
+    "name": "taperead.ascii",
+    "href": "taperead.ascii",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp15/papertape/McMaster/Interfaces/tape/taperead.ascii",
+    "is_dir": false,
+    "size": "632 B",
+    "date": "28-Nov-2000 11:00"
+  },
+  {
+    "name": "tapetest1.ascii",
+    "href": "tapetest1.ascii",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp15/papertape/McMaster/Interfaces/tape/tapetest1.ascii",
+    "is_dir": false,
+    "size": "889 B",
+    "date": "28-Nov-2000 10:55"
+  },
+  {
+    "name": "tapetest2.ascii",
+    "href": "tapetest2.ascii",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp15/papertape/McMaster/Interfaces/tape/tapetest2.ascii",
+    "is_dir": false,
+    "size": "1.1 KiB",
+    "date": "28-Nov-2000 10:57"
+  },
+  {
+    "name": "tapetestwrite.ascii",
+    "href": "tapetestwrite.ascii",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp15/papertape/McMaster/Interfaces/tape/tapetestwrite.ascii",
+    "is_dir": false,
+    "size": "811 B",
+    "date": "28-Nov-2000 10:58"
+  },
+  {
+    "name": "tapewrite.ascii",
+    "href": "tapewrite.ascii",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp15/papertape/McMaster/Interfaces/tape/tapewrite.ascii",
+    "is_dir": false,
+    "size": "651 B",
+    "date": "28-Nov-2000 10:59"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "name": "diskimage",
+    "href": "diskimage/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/alpha/installation/diskimage/",
+    "is_dir": true,
+    "size": null,
+    "date": "01-Oct-2023 18:33"
+  },
+  {
+    "name": "floppy",
+    "href": "floppy/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/alpha/installation/floppy/",
+    "is_dir": true,
+    "size": null,
+    "date": "01-Oct-2023 18:33"
+  },
+  {
+    "name": "instkernel",
+    "href": "instkernel/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/alpha/installation/instkernel/",
+    "is_dir": true,
+    "size": null,
+    "date": "01-Oct-2023 18:33"
+  }
+]

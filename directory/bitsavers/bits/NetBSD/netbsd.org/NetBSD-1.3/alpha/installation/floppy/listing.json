@@ -1,0 +1,66 @@
+[
+  {
+    "name": "BSDSUM",
+    "href": "BSDSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/alpha/installation/floppy/BSDSUM",
+    "is_dir": false,
+    "size": "49 B",
+    "date": "31-Dec-1997 22:22"
+  },
+  {
+    "name": "CKSUM",
+    "href": "CKSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/alpha/installation/floppy/CKSUM",
+    "is_dir": false,
+    "size": "65 B",
+    "date": "31-Dec-1997 22:22"
+  },
+  {
+    "name": "INSTALL",
+    "href": "INSTALL",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/alpha/installation/floppy/INSTALL",
+    "is_dir": false,
+    "size": "4.4 KiB",
+    "date": "31-Dec-1997 17:15"
+  },
+  {
+    "name": "MD5",
+    "href": "MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/alpha/installation/floppy/MD5",
+    "is_dir": false,
+    "size": "109 B",
+    "date": "31-Dec-1997 22:22"
+  },
+  {
+    "name": "README.files",
+    "href": "README.files",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/alpha/installation/floppy/README.files",
+    "is_dir": false,
+    "size": "571 B",
+    "date": "31-Dec-1997 17:16"
+  },
+  {
+    "name": "SYSVSUM",
+    "href": "SYSVSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/alpha/installation/floppy/SYSVSUM",
+    "is_dir": false,
+    "size": "49 B",
+    "date": "31-Dec-1997 22:22"
+  },
+  {
+    "name": "install13.fs",
+    "href": "install13.fs",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/alpha/installation/floppy/install13.fs",
+    "is_dir": false,
+    "size": "1.4 MiB",
+    "date": "31-Dec-1997 17:12"
+  },
+  {
+    "name": "netbsd.ram.gz",
+    "href": "netbsd.ram.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/alpha/installation/floppy/netbsd.ram.gz",
+    "is_dir": false,
+    "size": "1.2 MiB",
+    "date": "31-Dec-1997 17:12"
+  }
+]

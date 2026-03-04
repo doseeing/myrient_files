@@ -1,0 +1,50 @@
+[
+  {
+    "name": "BSDSUM",
+    "href": "BSDSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/pc532/installation/floppy/BSDSUM",
+    "is_dir": false,
+    "size": "28 B",
+    "date": "19-Jan-1998 18:35"
+  },
+  {
+    "name": "CKSUM",
+    "href": "CKSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/pc532/installation/floppy/CKSUM",
+    "is_dir": false,
+    "size": "36 B",
+    "date": "19-Jan-1998 18:35"
+  },
+  {
+    "name": "MD5",
+    "href": "MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/pc532/installation/floppy/MD5",
+    "is_dir": false,
+    "size": "58 B",
+    "date": "19-Jan-1998 18:35"
+  },
+  {
+    "name": "README",
+    "href": "README",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/pc532/installation/floppy/README",
+    "is_dir": false,
+    "size": "107 B",
+    "date": "19-Jan-1998 18:34"
+  },
+  {
+    "name": "SYSVSUM",
+    "href": "SYSVSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/pc532/installation/floppy/SYSVSUM",
+    "is_dir": false,
+    "size": "28 B",
+    "date": "19-Jan-1998 18:35"
+  },
+  {
+    "name": "floppy-144.fs.gz",
+    "href": "floppy-144.fs.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/pc532/installation/floppy/floppy-144.fs.gz",
+    "is_dir": false,
+    "size": "1.0 MiB",
+    "date": "19-Jan-1998 05:41"
+  }
+]

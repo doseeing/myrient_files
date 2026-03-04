@@ -1,0 +1,18 @@
+[
+  {
+    "name": "CKSUMS",
+    "href": "CKSUMS",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/atari/security/CKSUMS",
+    "is_dir": false,
+    "size": "32 B",
+    "date": "03-Oct-1996 07:08"
+  },
+  {
+    "name": "secr12.tar.gz",
+    "href": "secr12.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/atari/security/secr12.tar.gz",
+    "is_dir": false,
+    "size": "335.3 KiB",
+    "date": "03-Oct-1996 07:08"
+  }
+]

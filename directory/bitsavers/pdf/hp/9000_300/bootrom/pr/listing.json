@@ -1,0 +1,154 @@
+[
+  {
+    "name": "AMIGO.UX",
+    "href": "AMIGO.UX",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/hp/9000_300/bootrom/pr/AMIGO.UX",
+    "is_dir": false,
+    "size": "31.5 KiB",
+    "date": "13-Jul-2018 18:29"
+  },
+  {
+    "name": "BOOTLINK.UX",
+    "href": "BOOTLINK.UX",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/hp/9000_300/bootrom/pr/BOOTLINK.UX",
+    "is_dir": false,
+    "size": "4.7 KiB",
+    "date": "13-Jul-2018 18:29"
+  },
+  {
+    "name": "BOOTROM1.UX",
+    "href": "BOOTROM1.UX",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/hp/9000_300/bootrom/pr/BOOTROM1.UX",
+    "is_dir": false,
+    "size": "961.3 KiB",
+    "date": "13-Jul-2018 18:29"
+  },
+  {
+    "name": "BOOTROM2.UX",
+    "href": "BOOTROM2.UX",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/hp/9000_300/bootrom/pr/BOOTROM2.UX",
+    "is_dir": false,
+    "size": "104.9 KiB",
+    "date": "13-Jul-2018 18:29"
+  },
+  {
+    "name": "BOOT_MOD.UX",
+    "href": "BOOT_MOD.UX",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/hp/9000_300/bootrom/pr/BOOT_MOD.UX",
+    "is_dir": false,
+    "size": "111.4 KiB",
+    "date": "13-Jul-2018 18:29"
+  },
+  {
+    "name": "BRDECS.UX",
+    "href": "BRDECS.UX",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/hp/9000_300/bootrom/pr/BRDECS.UX",
+    "is_dir": false,
+    "size": "11.4 KiB",
+    "date": "13-Jul-2018 18:29"
+  },
+  {
+    "name": "BUBL_BOOT.UX",
+    "href": "BUBL_BOOT.UX",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/hp/9000_300/bootrom/pr/BUBL_BOOT.UX",
+    "is_dir": false,
+    "size": "46.1 KiB",
+    "date": "13-Jul-2018 18:29"
+  },
+  {
+    "name": "CS80.UX",
+    "href": "CS80.UX",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/hp/9000_300/bootrom/pr/CS80.UX",
+    "is_dir": false,
+    "size": "44.3 KiB",
+    "date": "13-Jul-2018 18:29"
+  },
+  {
+    "name": "DM.UX",
+    "href": "DM.UX",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/hp/9000_300/bootrom/pr/DM.UX",
+    "is_dir": false,
+    "size": "17.3 KiB",
+    "date": "13-Jul-2018 18:29"
+  },
+  {
+    "name": "DUMBO.UX",
+    "href": "DUMBO.UX",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/hp/9000_300/bootrom/pr/DUMBO.UX",
+    "is_dir": false,
+    "size": "12.0 KiB",
+    "date": "13-Jul-2018 18:29"
+  },
+  {
+    "name": "GDC.UX",
+    "href": "GDC.UX",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/hp/9000_300/bootrom/pr/GDC.UX",
+    "is_dir": false,
+    "size": "121.2 KiB",
+    "date": "13-Jul-2018 18:29"
+  },
+  {
+    "name": "GPIO.UX",
+    "href": "GPIO.UX",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/hp/9000_300/bootrom/pr/GPIO.UX",
+    "is_dir": false,
+    "size": "17.5 KiB",
+    "date": "13-Jul-2018 18:29"
+  },
+  {
+    "name": "MISCASM.UX",
+    "href": "MISCASM.UX",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/hp/9000_300/bootrom/pr/MISCASM.UX",
+    "is_dir": false,
+    "size": "33.6 KiB",
+    "date": "13-Jul-2018 18:29"
+  },
+  {
+    "name": "RISOD.UX",
+    "href": "RISOD.UX",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/hp/9000_300/bootrom/pr/RISOD.UX",
+    "is_dir": false,
+    "size": "3.0 KiB",
+    "date": "13-Jul-2018 18:29"
+  },
+  {
+    "name": "SIMON.UX",
+    "href": "SIMON.UX",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/hp/9000_300/bootrom/pr/SIMON.UX",
+    "is_dir": false,
+    "size": "48.0 KiB",
+    "date": "13-Jul-2018 18:29"
+  },
+  {
+    "name": "SPSOD.UX",
+    "href": "SPSOD.UX",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/hp/9000_300/bootrom/pr/SPSOD.UX",
+    "is_dir": false,
+    "size": "20.6 KiB",
+    "date": "13-Jul-2018 18:29"
+  },
+  {
+    "name": "SR.UX",
+    "href": "SR.UX",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/hp/9000_300/bootrom/pr/SR.UX",
+    "is_dir": false,
+    "size": "36.7 KiB",
+    "date": "13-Jul-2018 18:29"
+  },
+  {
+    "name": "TI9914.UX",
+    "href": "TI9914.UX",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/hp/9000_300/bootrom/pr/TI9914.UX",
+    "is_dir": false,
+    "size": "61.6 KiB",
+    "date": "13-Jul-2018 18:29"
+  },
+  {
+    "name": "srm-ux",
+    "href": "srm-ux",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/hp/9000_300/bootrom/pr/srm-ux",
+    "is_dir": false,
+    "size": "6.6 KiB",
+    "date": "13-Jul-2018 18:29"
+  }
+]

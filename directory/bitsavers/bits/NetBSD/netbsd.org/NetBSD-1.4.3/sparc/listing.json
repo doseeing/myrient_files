@@ -1,0 +1,58 @@
+[
+  {
+    "name": "binary",
+    "href": "binary/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/sparc/binary/",
+    "is_dir": true,
+    "size": null,
+    "date": "01-Oct-2023 18:33"
+  },
+  {
+    "name": "installation",
+    "href": "installation/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/sparc/installation/",
+    "is_dir": true,
+    "size": null,
+    "date": "01-Oct-2023 18:33"
+  },
+  {
+    "name": "INSTALL.html",
+    "href": "INSTALL.html",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/sparc/INSTALL.html",
+    "is_dir": false,
+    "size": "101.3 KiB",
+    "date": "02-Nov-2000 11:02"
+  },
+  {
+    "name": "INSTALL.more",
+    "href": "INSTALL.more",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/sparc/INSTALL.more",
+    "is_dir": false,
+    "size": "95.4 KiB",
+    "date": "02-Nov-2000 11:02"
+  },
+  {
+    "name": "INSTALL.ps",
+    "href": "INSTALL.ps",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/sparc/INSTALL.ps",
+    "is_dir": false,
+    "size": "144.7 KiB",
+    "date": "02-Nov-2000 11:02"
+  },
+  {
+    "name": "INSTALL.txt",
+    "href": "INSTALL.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/sparc/INSTALL.txt",
+    "is_dir": false,
+    "size": "88.0 KiB",
+    "date": "02-Nov-2000 11:02"
+  },
+  {
+    "name": "SOURCE_DATE",
+    "href": "SOURCE_DATE",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/sparc/SOURCE_DATE",
+    "is_dir": false,
+    "size": "29 B",
+    "date": "07-Nov-2000 12:13"
+  }
+]

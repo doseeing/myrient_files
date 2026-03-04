@@ -1,0 +1,114 @@
+[
+  {
+    "name": "cmds",
+    "href": "cmds/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/troff/cmds/",
+    "is_dir": true,
+    "size": null,
+    "date": "10-Mar-2006 08:09"
+  },
+  {
+    "name": "doc",
+    "href": "doc/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/troff/doc/",
+    "is_dir": true,
+    "size": null,
+    "date": "10-Mar-2006 08:09"
+  },
+  {
+    "name": "eqn",
+    "href": "eqn/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/troff/eqn/",
+    "is_dir": true,
+    "size": null,
+    "date": "10-Mar-2006 08:09"
+  },
+  {
+    "name": "fonts",
+    "href": "fonts/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/troff/fonts/",
+    "is_dir": true,
+    "size": null,
+    "date": "10-Mar-2006 08:09"
+  },
+  {
+    "name": "macros",
+    "href": "macros/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/troff/macros/",
+    "is_dir": true,
+    "size": null,
+    "date": "10-Mar-2006 08:09"
+  },
+  {
+    "name": "neqn",
+    "href": "neqn/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/troff/neqn/",
+    "is_dir": true,
+    "size": null,
+    "date": "22-May-2020 16:52"
+  },
+  {
+    "name": "programs",
+    "href": "programs/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/troff/programs/",
+    "is_dir": true,
+    "size": null,
+    "date": "10-Mar-2006 08:09"
+  },
+  {
+    "name": "tbl",
+    "href": "tbl/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/troff/tbl/",
+    "is_dir": true,
+    "size": null,
+    "date": "10-Mar-2006 08:09"
+  },
+  {
+    "name": "terms",
+    "href": "terms/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/troff/terms/",
+    "is_dir": true,
+    "size": null,
+    "date": "10-Mar-2006 08:09"
+  },
+  {
+    "name": "tests",
+    "href": "tests/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/troff/tests/",
+    "is_dir": true,
+    "size": null,
+    "date": "10-Mar-2006 08:09"
+  },
+  {
+    "name": "READ_ME",
+    "href": "READ_ME",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/troff/READ_ME",
+    "is_dir": false,
+    "size": "670 B",
+    "date": "22-Nov-1978 06:18"
+  },
+  {
+    "name": "install",
+    "href": "install",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/troff/install",
+    "is_dir": false,
+    "size": "113 B",
+    "date": "22-Nov-1978 06:18"
+  },
+  {
+    "name": "make",
+    "href": "make",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/troff/make",
+    "is_dir": false,
+    "size": "76 B",
+    "date": "22-Nov-1978 06:18"
+  },
+  {
+    "name": "read_me_1",
+    "href": "read_me_1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/troff/read_me_1",
+    "is_dir": false,
+    "size": "1.9 KiB",
+    "date": "06-Jun-1978 06:40"
+  }
+]

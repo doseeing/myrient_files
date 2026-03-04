@@ -1,0 +1,58 @@
+[
+  {
+    "name": "BSDSUM",
+    "href": "BSDSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/source/security/Split/BSDSUM",
+    "is_dir": false,
+    "size": "72 B",
+    "date": "30-Dec-1997 18:14"
+  },
+  {
+    "name": "CKSUM",
+    "href": "CKSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/source/security/Split/CKSUM",
+    "is_dir": false,
+    "size": "94 B",
+    "date": "30-Dec-1997 18:14"
+  },
+  {
+    "name": "MD5",
+    "href": "MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/source/security/Split/MD5",
+    "is_dir": false,
+    "size": "167 B",
+    "date": "30-Dec-1997 18:14"
+  },
+  {
+    "name": "README.export-control",
+    "href": "README.export-control",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/source/security/Split/README.export-control",
+    "is_dir": false,
+    "size": "791 B",
+    "date": "30-Dec-1997 18:12"
+  },
+  {
+    "name": "SYSVSUM",
+    "href": "SYSVSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/source/security/Split/SYSVSUM",
+    "is_dir": false,
+    "size": "72 B",
+    "date": "30-Dec-1997 18:14"
+  },
+  {
+    "name": "secrsrc.aa",
+    "href": "secrsrc.aa",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/source/security/Split/secrsrc.aa",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "30-Dec-1997 18:12"
+  },
+  {
+    "name": "secrsrc.ab",
+    "href": "secrsrc.ab",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/source/security/Split/secrsrc.ab",
+    "is_dir": false,
+    "size": "167.9 KiB",
+    "date": "30-Dec-1997 18:12"
+  }
+]

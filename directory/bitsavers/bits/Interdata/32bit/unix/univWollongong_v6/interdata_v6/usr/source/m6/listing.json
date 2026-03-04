@@ -1,0 +1,82 @@
+[
+  {
+    "name": "install",
+    "href": "install",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/m6/install",
+    "is_dir": false,
+    "size": "28 B",
+    "date": "30-Dec-1978 09:34"
+  },
+  {
+    "name": "m6.h",
+    "href": "m6.h",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/m6/m6.h",
+    "is_dir": false,
+    "size": "1.8 KiB",
+    "date": "30-Dec-1978 09:08"
+  },
+  {
+    "name": "m61.c",
+    "href": "m61.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/m6/m61.c",
+    "is_dir": false,
+    "size": "365 B",
+    "date": "30-Dec-1978 08:42"
+  },
+  {
+    "name": "m62.c",
+    "href": "m62.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/m6/m62.c",
+    "is_dir": false,
+    "size": "1.4 KiB",
+    "date": "30-Dec-1978 08:44"
+  },
+  {
+    "name": "m63.c",
+    "href": "m63.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/m6/m63.c",
+    "is_dir": false,
+    "size": "1.1 KiB",
+    "date": "30-Dec-1978 08:46"
+  },
+  {
+    "name": "m64.c",
+    "href": "m64.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/m6/m64.c",
+    "is_dir": false,
+    "size": "1.1 KiB",
+    "date": "30-Dec-1978 08:49"
+  },
+  {
+    "name": "m65.c",
+    "href": "m65.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/m6/m65.c",
+    "is_dir": false,
+    "size": "1.1 KiB",
+    "date": "30-Dec-1978 08:51"
+  },
+  {
+    "name": "m66.c",
+    "href": "m66.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/m6/m66.c",
+    "is_dir": false,
+    "size": "2.5 KiB",
+    "date": "30-Dec-1978 08:58"
+  },
+  {
+    "name": "m67.c",
+    "href": "m67.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/m6/m67.c",
+    "is_dir": false,
+    "size": "1.3 KiB",
+    "date": "30-Dec-1978 09:04"
+  },
+  {
+    "name": "make",
+    "href": "make",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/m6/make",
+    "is_dir": false,
+    "size": "18 B",
+    "date": "30-Dec-1978 09:34"
+  }
+]

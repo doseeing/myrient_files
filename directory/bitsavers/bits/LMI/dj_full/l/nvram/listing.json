@@ -1,0 +1,130 @@
+[
+  {
+    "name": "copyright.text.1",
+    "href": "copyright.text.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/nvram/copyright.text.1",
+    "is_dir": false,
+    "size": "332 B",
+    "date": "21-Apr-2017 01:33"
+  },
+  {
+    "name": "crash-record.lisp.61",
+    "href": "crash-record.lisp.61",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/nvram/crash-record.lisp.61",
+    "is_dir": false,
+    "size": "28.2 KiB",
+    "date": "21-Apr-2017 01:33"
+  },
+  {
+    "name": "crash-record.lisp.62",
+    "href": "crash-record.lisp.62",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/nvram/crash-record.lisp.62",
+    "is_dir": false,
+    "size": "28.3 KiB",
+    "date": "21-Apr-2017 01:33"
+  },
+  {
+    "name": "defsystem.lisp.14",
+    "href": "defsystem.lisp.14",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/nvram/defsystem.lisp.14",
+    "is_dir": false,
+    "size": "1.3 KiB",
+    "date": "21-Apr-2017 01:33"
+  },
+  {
+    "name": "nvram-defs.lisp.11",
+    "href": "nvram-defs.lisp.11",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/nvram/nvram-defs.lisp.11",
+    "is_dir": false,
+    "size": "2.9 KiB",
+    "date": "21-Apr-2017 01:33"
+  },
+  {
+    "name": "patch-1.directory.1",
+    "href": "patch-1.directory.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/nvram/patch-1.directory.1",
+    "is_dir": false,
+    "size": "729 B",
+    "date": "21-Apr-2017 01:33"
+  },
+  {
+    "name": "patch-2.directory.1",
+    "href": "patch-2.directory.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/nvram/patch-2.directory.1",
+    "is_dir": false,
+    "size": "759 B",
+    "date": "21-Apr-2017 01:33"
+  },
+  {
+    "name": "patch-3.directory.1",
+    "href": "patch-3.directory.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/nvram/patch-3.directory.1",
+    "is_dir": false,
+    "size": "561 B",
+    "date": "21-Apr-2017 01:33"
+  },
+  {
+    "name": "patch-4.directory.1",
+    "href": "patch-4.directory.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/nvram/patch-4.directory.1",
+    "is_dir": false,
+    "size": "530 B",
+    "date": "21-Apr-2017 01:33"
+  },
+  {
+    "name": "patch.directory.2",
+    "href": "patch.directory.2",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/nvram/patch.directory.2",
+    "is_dir": false,
+    "size": "679 B",
+    "date": "21-Apr-2017 01:33"
+  },
+  {
+    "name": "patch.directory.3",
+    "href": "patch.directory.3",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/nvram/patch.directory.3",
+    "is_dir": false,
+    "size": "485 B",
+    "date": "21-Apr-2017 01:33"
+  },
+  {
+    "name": "patch.directory.4",
+    "href": "patch.directory.4",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/nvram/patch.directory.4",
+    "is_dir": false,
+    "size": "454 B",
+    "date": "21-Apr-2017 01:33"
+  },
+  {
+    "name": "setup-nvram.lisp.21",
+    "href": "setup-nvram.lisp.21",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/nvram/setup-nvram.lisp.21",
+    "is_dir": false,
+    "size": "12.3 KiB",
+    "date": "21-Apr-2017 01:33"
+  },
+  {
+    "name": "setup-nvram.lisp.22",
+    "href": "setup-nvram.lisp.22",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/nvram/setup-nvram.lisp.22",
+    "is_dir": false,
+    "size": "12.3 KiB",
+    "date": "21-Apr-2017 01:33"
+  },
+  {
+    "name": "shutdown.lisp.28",
+    "href": "shutdown.lisp.28",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/nvram/shutdown.lisp.28",
+    "is_dir": false,
+    "size": "6.8 KiB",
+    "date": "21-Apr-2017 01:33"
+  },
+  {
+    "name": "support-functions.lisp.20",
+    "href": "support-functions.lisp.20",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/nvram/support-functions.lisp.20",
+    "is_dir": false,
+    "size": "3.8 KiB",
+    "date": "21-Apr-2017 01:33"
+  }
+]

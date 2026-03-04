@@ -1,0 +1,298 @@
+[
+  {
+    "name": "sys",
+    "href": "sys/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v7/tar/1674_edVIIupg2.3binSrc_Apr83/src/include/sys/",
+    "is_dir": true,
+    "size": null,
+    "date": "10-Mar-2006 08:13"
+  },
+  {
+    "name": "a.out.h",
+    "href": "a.out.h",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v7/tar/1674_edVIIupg2.3binSrc_Apr83/src/include/a.out.h",
+    "is_dir": false,
+    "size": "1.1 KiB",
+    "date": "12-Jul-1980 07:38"
+  },
+  {
+    "name": "ar.h",
+    "href": "ar.h",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v7/tar/1674_edVIIupg2.3binSrc_Apr83/src/include/ar.h",
+    "is_dir": false,
+    "size": "126 B",
+    "date": "12-Jul-1980 07:38"
+  },
+  {
+    "name": "assert.h",
+    "href": "assert.h",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v7/tar/1674_edVIIupg2.3binSrc_Apr83/src/include/assert.h",
+    "is_dir": false,
+    "size": "313 B",
+    "date": "10-Jan-1979 20:12"
+  },
+  {
+    "name": "core.h",
+    "href": "core.h",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v7/tar/1674_edVIIupg2.3binSrc_Apr83/src/include/core.h",
+    "is_dir": false,
+    "size": "139 B",
+    "date": "12-Jul-1980 07:38"
+  },
+  {
+    "name": "ctype.h",
+    "href": "ctype.h",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v7/tar/1674_edVIIupg2.3binSrc_Apr83/src/include/ctype.h",
+    "is_dir": false,
+    "size": "721 B",
+    "date": "05-May-1979 06:14"
+  },
+  {
+    "name": "curses.h",
+    "href": "curses.h",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v7/tar/1674_edVIIupg2.3binSrc_Apr83/src/include/curses.h",
+    "is_dir": false,
+    "size": "4.2 KiB",
+    "date": "08-Mar-1983 23:18"
+  },
+  {
+    "name": "dk.h",
+    "href": "dk.h",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v7/tar/1674_edVIIupg2.3binSrc_Apr83/src/include/dk.h",
+    "is_dir": false,
+    "size": "583 B",
+    "date": "10-Jan-1979 20:12"
+  },
+  {
+    "name": "dumprestor.h",
+    "href": "dumprestor.h",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v7/tar/1674_edVIIupg2.3binSrc_Apr83/src/include/dumprestor.h",
+    "is_dir": false,
+    "size": "516 B",
+    "date": "10-Jan-1979 20:12"
+  },
+  {
+    "name": "errno.h",
+    "href": "errno.h",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v7/tar/1674_edVIIupg2.3binSrc_Apr83/src/include/errno.h",
+    "is_dir": false,
+    "size": "676 B",
+    "date": "08-Apr-1983 17:38"
+  },
+  {
+    "name": "error.h",
+    "href": "error.h",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v7/tar/1674_edVIIupg2.3binSrc_Apr83/src/include/error.h",
+    "is_dir": false,
+    "size": "1.6 KiB",
+    "date": "08-Mar-1983 23:20"
+  },
+  {
+    "name": "execargs.h",
+    "href": "execargs.h",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v7/tar/1674_edVIIupg2.3binSrc_Apr83/src/include/execargs.h",
+    "is_dir": false,
+    "size": "32 B",
+    "date": "10-Jan-1979 20:12"
+  },
+  {
+    "name": "fstab.h",
+    "href": "fstab.h",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v7/tar/1674_edVIIupg2.3binSrc_Apr83/src/include/fstab.h",
+    "is_dir": false,
+    "size": "1.0 KiB",
+    "date": "05-Sep-1981 05:07"
+  },
+  {
+    "name": "grp.h",
+    "href": "grp.h",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v7/tar/1674_edVIIupg2.3binSrc_Apr83/src/include/grp.h",
+    "is_dir": false,
+    "size": "103 B",
+    "date": "10-Jan-1979 20:12"
+  },
+  {
+    "name": "ident.h",
+    "href": "ident.h",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v7/tar/1674_edVIIupg2.3binSrc_Apr83/src/include/ident.h",
+    "is_dir": false,
+    "size": "34 B",
+    "date": "10-Jan-1979 20:12"
+  },
+  {
+    "name": "mailsys.h",
+    "href": "mailsys.h",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v7/tar/1674_edVIIupg2.3binSrc_Apr83/src/include/mailsys.h",
+    "is_dir": false,
+    "size": "716 B",
+    "date": "08-Mar-1983 23:20"
+  },
+  {
+    "name": "math.h",
+    "href": "math.h",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v7/tar/1674_edVIIupg2.3binSrc_Apr83/src/include/math.h",
+    "is_dir": false,
+    "size": "399 B",
+    "date": "12-Jul-1980 07:38"
+  },
+  {
+    "name": "mp.h",
+    "href": "mp.h",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v7/tar/1674_edVIIupg2.3binSrc_Apr83/src/include/mp.h",
+    "is_dir": false,
+    "size": "455 B",
+    "date": "10-Jan-1979 20:12"
+  },
+  {
+    "name": "olddump.h",
+    "href": "olddump.h",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v7/tar/1674_edVIIupg2.3binSrc_Apr83/src/include/olddump.h",
+    "is_dir": false,
+    "size": "1.4 KiB",
+    "date": "10-Jan-1979 20:12"
+  },
+  {
+    "name": "pack.h",
+    "href": "pack.h",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v7/tar/1674_edVIIupg2.3binSrc_Apr83/src/include/pack.h",
+    "is_dir": false,
+    "size": "2.2 KiB",
+    "date": "10-Jan-1979 20:12"
+  },
+  {
+    "name": "psout.h",
+    "href": "psout.h",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v7/tar/1674_edVIIupg2.3binSrc_Apr83/src/include/psout.h",
+    "is_dir": false,
+    "size": "1.6 KiB",
+    "date": "05-Sep-1981 05:52"
+  },
+  {
+    "name": "pwd.h",
+    "href": "pwd.h",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v7/tar/1674_edVIIupg2.3binSrc_Apr83/src/include/pwd.h",
+    "is_dir": false,
+    "size": "184 B",
+    "date": "10-Jan-1979 20:12"
+  },
+  {
+    "name": "regexp.h",
+    "href": "regexp.h",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v7/tar/1674_edVIIupg2.3binSrc_Apr83/src/include/regexp.h",
+    "is_dir": false,
+    "size": "6.1 KiB",
+    "date": "08-Mar-1983 23:23"
+  },
+  {
+    "name": "saio.h",
+    "href": "saio.h",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v7/tar/1674_edVIIupg2.3binSrc_Apr83/src/include/saio.h",
+    "is_dir": false,
+    "size": "863 B",
+    "date": "10-Jan-1979 20:12"
+  },
+  {
+    "name": "setjmp.h",
+    "href": "setjmp.h",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v7/tar/1674_edVIIupg2.3binSrc_Apr83/src/include/setjmp.h",
+    "is_dir": false,
+    "size": "24 B",
+    "date": "12-Jul-1980 07:38"
+  },
+  {
+    "name": "sgtty.h",
+    "href": "sgtty.h",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v7/tar/1674_edVIIupg2.3binSrc_Apr83/src/include/sgtty.h",
+    "is_dir": false,
+    "size": "2.4 KiB",
+    "date": "30-Apr-1983 00:16"
+  },
+  {
+    "name": "signal.h",
+    "href": "signal.h",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v7/tar/1674_edVIIupg2.3binSrc_Apr83/src/include/signal.h",
+    "is_dir": false,
+    "size": "796 B",
+    "date": "10-Jan-1979 20:12"
+  },
+  {
+    "name": "stat.h",
+    "href": "stat.h",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v7/tar/1674_edVIIupg2.3binSrc_Apr83/src/include/stat.h",
+    "is_dir": false,
+    "size": "1.2 KiB",
+    "date": "08-Mar-1983 23:25"
+  },
+  {
+    "name": "stdio.h",
+    "href": "stdio.h",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v7/tar/1674_edVIIupg2.3binSrc_Apr83/src/include/stdio.h",
+    "is_dir": false,
+    "size": "871 B",
+    "date": "06-Nov-1981 05:32"
+  },
+  {
+    "name": "symbol.h",
+    "href": "symbol.h",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v7/tar/1674_edVIIupg2.3binSrc_Apr83/src/include/symbol.h",
+    "is_dir": false,
+    "size": "111 B",
+    "date": "12-Jul-1980 07:38"
+  },
+  {
+    "name": "sys.s",
+    "href": "sys.s",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v7/tar/1674_edVIIupg2.3binSrc_Apr83/src/include/sys.s",
+    "is_dir": false,
+    "size": "724 B",
+    "date": "24-Aug-1980 13:26"
+  },
+  {
+    "name": "sysexits.h",
+    "href": "sysexits.h",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v7/tar/1674_edVIIupg2.3binSrc_Apr83/src/include/sysexits.h",
+    "is_dir": false,
+    "size": "2.7 KiB",
+    "date": "08-Mar-1983 23:24"
+  },
+  {
+    "name": "time.h",
+    "href": "time.h",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v7/tar/1674_edVIIupg2.3binSrc_Apr83/src/include/time.h",
+    "is_dir": false,
+    "size": "158 B",
+    "date": "10-Jan-1979 20:12"
+  },
+  {
+    "name": "tp_defs.h",
+    "href": "tp_defs.h",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v7/tar/1674_edVIIupg2.3binSrc_Apr83/src/include/tp_defs.h",
+    "is_dir": false,
+    "size": "288 B",
+    "date": "12-Jul-1980 07:38"
+  },
+  {
+    "name": "utmp.h",
+    "href": "utmp.h",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v7/tar/1674_edVIIupg2.3binSrc_Apr83/src/include/utmp.h",
+    "is_dir": false,
+    "size": "114 B",
+    "date": "10-Jan-1979 20:12"
+  },
+  {
+    "name": "varargs.h",
+    "href": "varargs.h",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v7/tar/1674_edVIIupg2.3binSrc_Apr83/src/include/varargs.h",
+    "is_dir": false,
+    "size": "189 B",
+    "date": "10-Jan-1979 20:12"
+  },
+  {
+    "name": "whoami.h",
+    "href": "whoami.h",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v7/tar/1674_edVIIupg2.3binSrc_Apr83/src/include/whoami.h",
+    "is_dir": false,
+    "size": "46 B",
+    "date": "08-Mar-1983 23:24"
+  }
+]

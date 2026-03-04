@@ -1,0 +1,66 @@
+[
+  {
+    "name": "rx33",
+    "href": "rx33/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/vax/install/rx33/",
+    "is_dir": true,
+    "size": null,
+    "date": "30-Sep-2023 17:20"
+  },
+  {
+    "name": "rx50",
+    "href": "rx50/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/vax/install/rx50/",
+    "is_dir": true,
+    "size": null,
+    "date": "30-Sep-2023 17:20"
+  },
+  {
+    "name": "tk50",
+    "href": "tk50/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/vax/install/tk50/",
+    "is_dir": true,
+    "size": null,
+    "date": "30-Sep-2023 17:20"
+  },
+  {
+    "name": "tu58",
+    "href": "tu58/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/vax/install/tu58/",
+    "is_dir": true,
+    "size": null,
+    "date": "30-Sep-2023 17:20"
+  },
+  {
+    "name": "INSTALL",
+    "href": "INSTALL",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/vax/install/INSTALL",
+    "is_dir": false,
+    "size": "4.1 KiB",
+    "date": "23-Oct-1996 19:29"
+  },
+  {
+    "name": "README",
+    "href": "README",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/vax/install/README",
+    "is_dir": false,
+    "size": "1.8 KiB",
+    "date": "23-Oct-1996 19:29"
+  },
+  {
+    "name": "README.copy",
+    "href": "README.copy",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/vax/install/README.copy",
+    "is_dir": false,
+    "size": "2.1 KiB",
+    "date": "23-Oct-1996 19:29"
+  },
+  {
+    "name": "README.edlabel",
+    "href": "README.edlabel",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/vax/install/README.edlabel",
+    "is_dir": false,
+    "size": "4.0 KiB",
+    "date": "23-Oct-1996 19:29"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "name": "assem.lisp.159",
+    "href": "assem.lisp.159",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-nubus/fleabit/generate/assem.lisp.159",
+    "is_dir": false,
+    "size": "41.6 KiB",
+    "date": "21-Apr-2017 01:42"
+  },
+  {
+    "name": "dis.lisp.42",
+    "href": "dis.lisp.42",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-nubus/fleabit/generate/dis.lisp.42",
+    "is_dir": false,
+    "size": "10.6 KiB",
+    "date": "21-Apr-2017 01:42"
+  },
+  {
+    "name": "emit.lisp.99",
+    "href": "emit.lisp.99",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-nubus/fleabit/generate/emit.lisp.99",
+    "is_dir": false,
+    "size": "11.9 KiB",
+    "date": "21-Apr-2017 01:42"
+  },
+  {
+    "name": "generate.lisp.232",
+    "href": "generate.lisp.232",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-nubus/fleabit/generate/generate.lisp.232",
+    "is_dir": false,
+    "size": "72.2 KiB",
+    "date": "21-Apr-2017 01:42"
+  },
+  {
+    "name": "linker.lisp.37",
+    "href": "linker.lisp.37",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-nubus/fleabit/generate/linker.lisp.37",
+    "is_dir": false,
+    "size": "4.7 KiB",
+    "date": "21-Apr-2017 01:42"
+  },
+  {
+    "name": "loader.lisp.4",
+    "href": "loader.lisp.4",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-nubus/fleabit/generate/loader.lisp.4",
+    "is_dir": false,
+    "size": "2.7 KiB",
+    "date": "21-Apr-2017 01:42"
+  },
+  {
+    "name": "ngenerate.lisp.23",
+    "href": "ngenerate.lisp.23",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-nubus/fleabit/generate/ngenerate.lisp.23",
+    "is_dir": false,
+    "size": "26.4 KiB",
+    "date": "21-Apr-2017 01:42"
+  },
+  {
+    "name": "nnreg-alloc.lisp.9",
+    "href": "nnreg-alloc.lisp.9",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-nubus/fleabit/generate/nnreg-alloc.lisp.9",
+    "is_dir": false,
+    "size": "12.3 KiB",
+    "date": "21-Apr-2017 01:42"
+  },
+  {
+    "name": "nreg-alloc.lisp.9",
+    "href": "nreg-alloc.lisp.9",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-nubus/fleabit/generate/nreg-alloc.lisp.9",
+    "is_dir": false,
+    "size": "8.8 KiB",
+    "date": "21-Apr-2017 01:42"
+  },
+  {
+    "name": "open.lisp.5",
+    "href": "open.lisp.5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-nubus/fleabit/generate/open.lisp.5",
+    "is_dir": false,
+    "size": "8.2 KiB",
+    "date": "21-Apr-2017 01:42"
+  },
+  {
+    "name": "oreg-alloc.lisp.27",
+    "href": "oreg-alloc.lisp.27",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-nubus/fleabit/generate/oreg-alloc.lisp.27",
+    "is_dir": false,
+    "size": "8.9 KiB",
+    "date": "21-Apr-2017 01:42"
+  },
+  {
+    "name": "reg-alloc.lisp.68",
+    "href": "reg-alloc.lisp.68",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-nubus/fleabit/generate/reg-alloc.lisp.68",
+    "is_dir": false,
+    "size": "16.6 KiB",
+    "date": "21-Apr-2017 01:42"
+  }
+]

@@ -1,0 +1,866 @@
+[
+  {
+    "name": "001__SMGBLDTRM.MAP__bw.pdf",
+    "href": "001__SMGBLDTRM.MAP__bw.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/092__SMGRTL/001__SMGBLDTRM.MAP__bw.pdf",
+    "is_dir": false,
+    "size": "1.8 MiB",
+    "date": "07-Dec-2021 03:44"
+  },
+  {
+    "name": "001__SMGBLDTRM.MAP__gray.pdf",
+    "href": "001__SMGBLDTRM.MAP__gray.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/092__SMGRTL/001__SMGBLDTRM.MAP__gray.pdf",
+    "is_dir": false,
+    "size": "9.1 MiB",
+    "date": "07-Dec-2021 03:44"
+  },
+  {
+    "name": "002__SMGMAPTRM.MAP__bw.pdf",
+    "href": "002__SMGMAPTRM.MAP__bw.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/092__SMGRTL/002__SMGMAPTRM.MAP__bw.pdf",
+    "is_dir": false,
+    "size": "1.5 MiB",
+    "date": "07-Dec-2021 03:44"
+  },
+  {
+    "name": "002__SMGMAPTRM.MAP__gray.pdf",
+    "href": "002__SMGMAPTRM.MAP__gray.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/092__SMGRTL/002__SMGMAPTRM.MAP__gray.pdf",
+    "is_dir": false,
+    "size": "5.0 MiB",
+    "date": "07-Dec-2021 03:44"
+  },
+  {
+    "name": "003__SMGSHR.MAP__bw.pdf",
+    "href": "003__SMGSHR.MAP__bw.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/092__SMGRTL/003__SMGSHR.MAP__bw.pdf",
+    "is_dir": false,
+    "size": "2.3 MiB",
+    "date": "07-Dec-2021 03:44"
+  },
+  {
+    "name": "003__SMGSHR.MAP__gray.pdf",
+    "href": "003__SMGSHR.MAP__gray.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/092__SMGRTL/003__SMGSHR.MAP__gray.pdf",
+    "is_dir": false,
+    "size": "14.9 MiB",
+    "date": "07-Dec-2021 03:44"
+  },
+  {
+    "name": "004__SMGDEF.SDL__bw.pdf",
+    "href": "004__SMGDEF.SDL__bw.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/092__SMGRTL/004__SMGDEF.SDL__bw.pdf",
+    "is_dir": false,
+    "size": "1.5 MiB",
+    "date": "07-Dec-2021 03:44"
+  },
+  {
+    "name": "004__SMGDEF.SDL__gray.pdf",
+    "href": "004__SMGDEF.SDL__gray.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/092__SMGRTL/004__SMGDEF.SDL__gray.pdf",
+    "is_dir": false,
+    "size": "6.4 MiB",
+    "date": "07-Dec-2021 03:44"
+  },
+  {
+    "name": "005__SMGKCB.SDL__bw.pdf",
+    "href": "005__SMGKCB.SDL__bw.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/092__SMGRTL/005__SMGKCB.SDL__bw.pdf",
+    "is_dir": false,
+    "size": "1.4 MiB",
+    "date": "07-Dec-2021 03:44"
+  },
+  {
+    "name": "005__SMGKCB.SDL__gray.pdf",
+    "href": "005__SMGKCB.SDL__gray.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/092__SMGRTL/005__SMGKCB.SDL__gray.pdf",
+    "is_dir": false,
+    "size": "3.8 MiB",
+    "date": "07-Dec-2021 03:44"
+  },
+  {
+    "name": "006__SMGKDE.SDL__bw.pdf",
+    "href": "006__SMGKDE.SDL__bw.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/092__SMGRTL/006__SMGKDE.SDL__bw.pdf",
+    "is_dir": false,
+    "size": "2.8 MiB",
+    "date": "07-Dec-2021 03:44"
+  },
+  {
+    "name": "006__SMGKDE.SDL__gray.pdf",
+    "href": "006__SMGKDE.SDL__gray.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/092__SMGRTL/006__SMGKDE.SDL__gray.pdf",
+    "is_dir": false,
+    "size": "4.8 MiB",
+    "date": "07-Dec-2021 03:44"
+  },
+  {
+    "name": "007__SMGKQB.SDL__bw.pdf",
+    "href": "007__SMGKQB.SDL__bw.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/092__SMGRTL/007__SMGKQB.SDL__bw.pdf",
+    "is_dir": false,
+    "size": "1.5 MiB",
+    "date": "07-Dec-2021 03:44"
+  },
+  {
+    "name": "007__SMGKQB.SDL__gray.pdf",
+    "href": "007__SMGKQB.SDL__gray.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/092__SMGRTL/007__SMGKQB.SDL__gray.pdf",
+    "is_dir": false,
+    "size": "3.1 MiB",
+    "date": "07-Dec-2021 03:44"
+  },
+  {
+    "name": "008__SMGKTH.SDL__bw.pdf",
+    "href": "008__SMGKTH.SDL__bw.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/092__SMGRTL/008__SMGKTH.SDL__bw.pdf",
+    "is_dir": false,
+    "size": "1.5 MiB",
+    "date": "07-Dec-2021 03:44"
+  },
+  {
+    "name": "008__SMGKTH.SDL__gray.pdf",
+    "href": "008__SMGKTH.SDL__gray.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/092__SMGRTL/008__SMGKTH.SDL__gray.pdf",
+    "is_dir": false,
+    "size": "3.6 MiB",
+    "date": "07-Dec-2021 03:44"
+  },
+  {
+    "name": "009__SMGTRMPTR.SDL__bw.pdf",
+    "href": "009__SMGTRMPTR.SDL__bw.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/092__SMGRTL/009__SMGTRMPTR.SDL__bw.pdf",
+    "is_dir": false,
+    "size": "1.6 MiB",
+    "date": "07-Dec-2021 03:44"
+  },
+  {
+    "name": "009__SMGTRMPTR.SDL__gray.pdf",
+    "href": "009__SMGTRMPTR.SDL__gray.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/092__SMGRTL/009__SMGTRMPTR.SDL__gray.pdf",
+    "is_dir": false,
+    "size": "5.4 MiB",
+    "date": "07-Dec-2021 03:44"
+  },
+  {
+    "name": "010__SMGDATSTR.REQ__bw.pdf",
+    "href": "010__SMGDATSTR.REQ__bw.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/092__SMGRTL/010__SMGDATSTR.REQ__bw.pdf",
+    "is_dir": false,
+    "size": "2.2 MiB",
+    "date": "07-Dec-2021 03:44"
+  },
+  {
+    "name": "010__SMGDATSTR.REQ__gray.pdf",
+    "href": "010__SMGDATSTR.REQ__gray.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/092__SMGRTL/010__SMGDATSTR.REQ__gray.pdf",
+    "is_dir": false,
+    "size": "13.8 MiB",
+    "date": "07-Dec-2021 03:44"
+  },
+  {
+    "name": "011__SMGLIB.REQ__bw.pdf",
+    "href": "011__SMGLIB.REQ__bw.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/092__SMGRTL/011__SMGLIB.REQ__bw.pdf",
+    "is_dir": false,
+    "size": "1.5 MiB",
+    "date": "07-Dec-2021 03:44"
+  },
+  {
+    "name": "011__SMGLIB.REQ__gray.pdf",
+    "href": "011__SMGLIB.REQ__gray.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/092__SMGRTL/011__SMGLIB.REQ__gray.pdf",
+    "is_dir": false,
+    "size": "3.1 MiB",
+    "date": "07-Dec-2021 03:44"
+  },
+  {
+    "name": "012__SMGLNK.REQ__bw.pdf",
+    "href": "012__SMGLNK.REQ__bw.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/092__SMGRTL/012__SMGLNK.REQ__bw.pdf",
+    "is_dir": false,
+    "size": "1.5 MiB",
+    "date": "07-Dec-2021 03:44"
+  },
+  {
+    "name": "012__SMGLNK.REQ__gray.pdf",
+    "href": "012__SMGLNK.REQ__gray.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/092__SMGRTL/012__SMGLNK.REQ__gray.pdf",
+    "is_dir": false,
+    "size": "3.4 MiB",
+    "date": "07-Dec-2021 03:44"
+  },
+  {
+    "name": "013__SMGMACROS.REQ__bw.pdf",
+    "href": "013__SMGMACROS.REQ__bw.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/092__SMGRTL/013__SMGMACROS.REQ__bw.pdf",
+    "is_dir": false,
+    "size": "1.8 MiB",
+    "date": "07-Dec-2021 03:44"
+  },
+  {
+    "name": "013__SMGMACROS.REQ__gray.pdf",
+    "href": "013__SMGMACROS.REQ__gray.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/092__SMGRTL/013__SMGMACROS.REQ__gray.pdf",
+    "is_dir": false,
+    "size": "7.7 MiB",
+    "date": "07-Dec-2021 03:45"
+  },
+  {
+    "name": "014__SMGPROLOG.REQ__bw.pdf",
+    "href": "014__SMGPROLOG.REQ__bw.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/092__SMGRTL/014__SMGPROLOG.REQ__bw.pdf",
+    "is_dir": false,
+    "size": "1.5 MiB",
+    "date": "07-Dec-2021 03:45"
+  },
+  {
+    "name": "014__SMGPROLOG.REQ__gray.pdf",
+    "href": "014__SMGPROLOG.REQ__gray.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/092__SMGRTL/014__SMGPROLOG.REQ__gray.pdf",
+    "is_dir": false,
+    "size": "3.3 MiB",
+    "date": "07-Dec-2021 03:45"
+  },
+  {
+    "name": "015__SMGSCRMAC.REQ__bw.pdf",
+    "href": "015__SMGSCRMAC.REQ__bw.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/092__SMGRTL/015__SMGSCRMAC.REQ__bw.pdf",
+    "is_dir": false,
+    "size": "1.5 MiB",
+    "date": "07-Dec-2021 03:45"
+  },
+  {
+    "name": "015__SMGSCRMAC.REQ__gray.pdf",
+    "href": "015__SMGSCRMAC.REQ__gray.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/092__SMGRTL/015__SMGSCRMAC.REQ__gray.pdf",
+    "is_dir": false,
+    "size": "3.2 MiB",
+    "date": "07-Dec-2021 03:45"
+  },
+  {
+    "name": "016__SMGSCRTCB.REQ__bw.pdf",
+    "href": "016__SMGSCRTCB.REQ__bw.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/092__SMGRTL/016__SMGSCRTCB.REQ__bw.pdf",
+    "is_dir": false,
+    "size": "1.5 MiB",
+    "date": "07-Dec-2021 03:45"
+  },
+  {
+    "name": "016__SMGSCRTCB.REQ__gray.pdf",
+    "href": "016__SMGSCRTCB.REQ__gray.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/092__SMGRTL/016__SMGSCRTCB.REQ__gray.pdf",
+    "is_dir": false,
+    "size": "3.1 MiB",
+    "date": "07-Dec-2021 03:45"
+  },
+  {
+    "name": "017__SMGTABDEF.REQ__bw.pdf",
+    "href": "017__SMGTABDEF.REQ__bw.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/092__SMGRTL/017__SMGTABDEF.REQ__bw.pdf",
+    "is_dir": false,
+    "size": "1.6 MiB",
+    "date": "07-Dec-2021 03:45"
+  },
+  {
+    "name": "017__SMGTABDEF.REQ__gray.pdf",
+    "href": "017__SMGTABDEF.REQ__gray.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/092__SMGRTL/017__SMGTABDEF.REQ__gray.pdf",
+    "is_dir": false,
+    "size": "3.9 MiB",
+    "date": "07-Dec-2021 03:45"
+  },
+  {
+    "name": "018__SMGTERM.REQ__bw.pdf",
+    "href": "018__SMGTERM.REQ__bw.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/092__SMGRTL/018__SMGTERM.REQ__bw.pdf",
+    "is_dir": false,
+    "size": "1.5 MiB",
+    "date": "07-Dec-2021 03:45"
+  },
+  {
+    "name": "018__SMGTERM.REQ__gray.pdf",
+    "href": "018__SMGTERM.REQ__gray.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/092__SMGRTL/018__SMGTERM.REQ__gray.pdf",
+    "is_dir": false,
+    "size": "3.7 MiB",
+    "date": "07-Dec-2021 03:45"
+  },
+  {
+    "name": "019__SMGTPACTL.REQ__bw.pdf",
+    "href": "019__SMGTPACTL.REQ__bw.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/092__SMGRTL/019__SMGTPACTL.REQ__bw.pdf",
+    "is_dir": false,
+    "size": "1.5 MiB",
+    "date": "07-Dec-2021 03:45"
+  },
+  {
+    "name": "019__SMGTPACTL.REQ__gray.pdf",
+    "href": "019__SMGTPACTL.REQ__gray.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/092__SMGRTL/019__SMGTPACTL.REQ__gray.pdf",
+    "is_dir": false,
+    "size": "3.2 MiB",
+    "date": "07-Dec-2021 03:45"
+  },
+  {
+    "name": "020__SMGTPALIB.REQ__bw.pdf",
+    "href": "020__SMGTPALIB.REQ__bw.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/092__SMGRTL/020__SMGTPALIB.REQ__bw.pdf",
+    "is_dir": false,
+    "size": "1.5 MiB",
+    "date": "07-Dec-2021 03:45"
+  },
+  {
+    "name": "020__SMGTPALIB.REQ__gray.pdf",
+    "href": "020__SMGTPALIB.REQ__gray.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/092__SMGRTL/020__SMGTPALIB.REQ__gray.pdf",
+    "is_dir": false,
+    "size": "2.7 MiB",
+    "date": "07-Dec-2021 03:45"
+  },
+  {
+    "name": "021__SMGTRMMAC.REQ__bw.pdf",
+    "href": "021__SMGTRMMAC.REQ__bw.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/092__SMGRTL/021__SMGTRMMAC.REQ__bw.pdf",
+    "is_dir": false,
+    "size": "1.5 MiB",
+    "date": "07-Dec-2021 03:45"
+  },
+  {
+    "name": "021__SMGTRMMAC.REQ__gray.pdf",
+    "href": "021__SMGTRMMAC.REQ__gray.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/092__SMGRTL/021__SMGTRMMAC.REQ__gray.pdf",
+    "is_dir": false,
+    "size": "3.7 MiB",
+    "date": "07-Dec-2021 03:45"
+  },
+  {
+    "name": "022__SMGTRMSTR.R32__bw.pdf",
+    "href": "022__SMGTRMSTR.R32__bw.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/092__SMGRTL/022__SMGTRMSTR.R32__bw.pdf",
+    "is_dir": false,
+    "size": "1.5 MiB",
+    "date": "07-Dec-2021 03:45"
+  },
+  {
+    "name": "022__SMGTRMSTR.R32__gray.pdf",
+    "href": "022__SMGTRMSTR.R32__gray.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/092__SMGRTL/022__SMGTRMSTR.R32__gray.pdf",
+    "is_dir": false,
+    "size": "3.2 MiB",
+    "date": "07-Dec-2021 03:45"
+  },
+  {
+    "name": "023__SMGALLESC.LIS__bw.pdf",
+    "href": "023__SMGALLESC.LIS__bw.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/092__SMGRTL/023__SMGALLESC.LIS__bw.pdf",
+    "is_dir": false,
+    "size": "1.7 MiB",
+    "date": "07-Dec-2021 03:45"
+  },
+  {
+    "name": "023__SMGALLESC.LIS__gray.pdf",
+    "href": "023__SMGALLESC.LIS__gray.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/092__SMGRTL/023__SMGALLESC.LIS__gray.pdf",
+    "is_dir": false,
+    "size": "5.5 MiB",
+    "date": "07-Dec-2021 03:45"
+  },
+  {
+    "name": "024__SMGBLDTRM.LIS__bw.pdf",
+    "href": "024__SMGBLDTRM.LIS__bw.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/092__SMGRTL/024__SMGBLDTRM.LIS__bw.pdf",
+    "is_dir": false,
+    "size": "2.4 MiB",
+    "date": "07-Dec-2021 03:45"
+  },
+  {
+    "name": "024__SMGBLDTRM.LIS__gray.pdf",
+    "href": "024__SMGBLDTRM.LIS__gray.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/092__SMGRTL/024__SMGBLDTRM.LIS__gray.pdf",
+    "is_dir": false,
+    "size": "13.7 MiB",
+    "date": "07-Dec-2021 03:45"
+  },
+  {
+    "name": "025__SMGBOOTAB.LIS__bw.pdf",
+    "href": "025__SMGBOOTAB.LIS__bw.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/092__SMGRTL/025__SMGBOOTAB.LIS__bw.pdf",
+    "is_dir": false,
+    "size": "2.4 MiB",
+    "date": "07-Dec-2021 03:45"
+  },
+  {
+    "name": "025__SMGBOOTAB.LIS__gray.pdf",
+    "href": "025__SMGBOOTAB.LIS__gray.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/092__SMGRTL/025__SMGBOOTAB.LIS__gray.pdf",
+    "is_dir": false,
+    "size": "13.8 MiB",
+    "date": "07-Dec-2021 03:45"
+  },
+  {
+    "name": "026__SMGDEFKEY.LIS__bw.pdf",
+    "href": "026__SMGDEFKEY.LIS__bw.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/092__SMGRTL/026__SMGDEFKEY.LIS__bw.pdf",
+    "is_dir": false,
+    "size": "1.5 MiB",
+    "date": "07-Dec-2021 03:45"
+  },
+  {
+    "name": "026__SMGDEFKEY.LIS__gray.pdf",
+    "href": "026__SMGDEFKEY.LIS__gray.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/092__SMGRTL/026__SMGDEFKEY.LIS__gray.pdf",
+    "is_dir": false,
+    "size": "3.2 MiB",
+    "date": "07-Dec-2021 03:45"
+  },
+  {
+    "name": "027__SMGDISCHA.LIS__bw.pdf",
+    "href": "027__SMGDISCHA.LIS__bw.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/092__SMGRTL/027__SMGDISCHA.LIS__bw.pdf",
+    "is_dir": false,
+    "size": "7.6 MiB",
+    "date": "07-Dec-2021 03:45"
+  },
+  {
+    "name": "027__SMGDISCHA.LIS__gray.pdf",
+    "href": "027__SMGDISCHA.LIS__gray.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/092__SMGRTL/027__SMGDISCHA.LIS__gray.pdf",
+    "is_dir": false,
+    "size": "70.7 MiB",
+    "date": "07-Dec-2021 03:46"
+  },
+  {
+    "name": "028__SMGDISDHW.LIS__bw.pdf",
+    "href": "028__SMGDISDHW.LIS__bw.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/092__SMGRTL/028__SMGDISDHW.LIS__bw.pdf",
+    "is_dir": false,
+    "size": "2.8 MiB",
+    "date": "07-Dec-2021 03:46"
+  },
+  {
+    "name": "028__SMGDISDHW.LIS__gray.pdf",
+    "href": "028__SMGDISDHW.LIS__gray.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/092__SMGRTL/028__SMGDISDHW.LIS__gray.pdf",
+    "is_dir": false,
+    "size": "22.8 MiB",
+    "date": "07-Dec-2021 03:46"
+  },
+  {
+    "name": "029__SMGDISDRW.LIS__bw.pdf",
+    "href": "029__SMGDISDRW.LIS__bw.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/092__SMGRTL/029__SMGDISDRW.LIS__bw.pdf",
+    "is_dir": false,
+    "size": "2.5 MiB",
+    "date": "07-Dec-2021 03:46"
+  },
+  {
+    "name": "029__SMGDISDRW.LIS__gray.pdf",
+    "href": "029__SMGDISDRW.LIS__gray.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/092__SMGRTL/029__SMGDISDRW.LIS__gray.pdf",
+    "is_dir": false,
+    "size": "17.5 MiB",
+    "date": "07-Dec-2021 03:46"
+  },
+  {
+    "name": "030__SMGDISINP.LIS__bw.pdf",
+    "href": "030__SMGDISINP.LIS__bw.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/092__SMGRTL/030__SMGDISINP.LIS__bw.pdf",
+    "is_dir": false,
+    "size": "2.4 MiB",
+    "date": "07-Dec-2021 03:46"
+  },
+  {
+    "name": "030__SMGDISINP.LIS__gray.pdf",
+    "href": "030__SMGDISINP.LIS__gray.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/092__SMGRTL/030__SMGDISINP.LIS__gray.pdf",
+    "is_dir": false,
+    "size": "15.1 MiB",
+    "date": "07-Dec-2021 03:46"
+  },
+  {
+    "name": "031__SMGDISLIN.LIS__bw.pdf",
+    "href": "031__SMGDISLIN.LIS__bw.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/092__SMGRTL/031__SMGDISLIN.LIS__bw.pdf",
+    "is_dir": false,
+    "size": "10.6 MiB",
+    "date": "07-Dec-2021 03:46"
+  },
+  {
+    "name": "031__SMGDISLIN.LIS__gray.pdf",
+    "href": "031__SMGDISLIN.LIS__gray.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/092__SMGRTL/031__SMGDISLIN.LIS__gray.pdf",
+    "is_dir": false,
+    "size": "102.1 MiB",
+    "date": "07-Dec-2021 03:47"
+  },
+  {
+    "name": "032__SMGDISOUT.LIS__bw.pdf",
+    "href": "032__SMGDISOUT.LIS__bw.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/092__SMGRTL/032__SMGDISOUT.LIS__bw.pdf",
+    "is_dir": false,
+    "size": "7.4 MiB",
+    "date": "07-Dec-2021 03:47"
+  },
+  {
+    "name": "032__SMGDISOUT.LIS__gray.pdf",
+    "href": "032__SMGDISOUT.LIS__gray.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/092__SMGRTL/032__SMGDISOUT.LIS__gray.pdf",
+    "is_dir": false,
+    "size": "59.4 MiB",
+    "date": "07-Dec-2021 03:47"
+  },
+  {
+    "name": "033__SMGINPUT.LIS__bw.pdf",
+    "href": "033__SMGINPUT.LIS__bw.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/092__SMGRTL/033__SMGINPUT.LIS__bw.pdf",
+    "is_dir": false,
+    "size": "5.3 MiB",
+    "date": "07-Dec-2021 03:47"
+  },
+  {
+    "name": "033__SMGINPUT.LIS__gray.pdf",
+    "href": "033__SMGINPUT.LIS__gray.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/092__SMGRTL/033__SMGINPUT.LIS__gray.pdf",
+    "is_dir": false,
+    "size": "53.1 MiB",
+    "date": "07-Dec-2021 03:48"
+  },
+  {
+    "name": "034__SMGKEYPAD.LIS__bw.pdf",
+    "href": "034__SMGKEYPAD.LIS__bw.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/092__SMGRTL/034__SMGKEYPAD.LIS__bw.pdf",
+    "is_dir": false,
+    "size": "4.0 MiB",
+    "date": "07-Dec-2021 03:48"
+  },
+  {
+    "name": "034__SMGKEYPAD.LIS__gray.pdf",
+    "href": "034__SMGKEYPAD.LIS__gray.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/092__SMGRTL/034__SMGKEYPAD.LIS__gray.pdf",
+    "is_dir": false,
+    "size": "35.6 MiB",
+    "date": "07-Dec-2021 03:48"
+  },
+  {
+    "name": "035__SMGKEYUTI.LIS__bw.pdf",
+    "href": "035__SMGKEYUTI.LIS__bw.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/092__SMGRTL/035__SMGKEYUTI.LIS__bw.pdf",
+    "is_dir": false,
+    "size": "2.0 MiB",
+    "date": "07-Dec-2021 03:48"
+  },
+  {
+    "name": "035__SMGKEYUTI.LIS__gray.pdf",
+    "href": "035__SMGKEYUTI.LIS__gray.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/092__SMGRTL/035__SMGKEYUTI.LIS__gray.pdf",
+    "is_dir": false,
+    "size": "11.4 MiB",
+    "date": "07-Dec-2021 03:48"
+  },
+  {
+    "name": "036__SMGLIB.LIS__bw.pdf",
+    "href": "036__SMGLIB.LIS__bw.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/092__SMGRTL/036__SMGLIB.LIS__bw.pdf",
+    "is_dir": false,
+    "size": "4.7 MiB",
+    "date": "07-Dec-2021 03:48"
+  },
+  {
+    "name": "036__SMGLIB.LIS__gray.pdf",
+    "href": "036__SMGLIB.LIS__gray.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/092__SMGRTL/036__SMGLIB.LIS__gray.pdf",
+    "is_dir": false,
+    "size": "34.0 MiB",
+    "date": "07-Dec-2021 03:48"
+  },
+  {
+    "name": "037__SMGMAPTRM.LIS__bw.pdf",
+    "href": "037__SMGMAPTRM.LIS__bw.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/092__SMGRTL/037__SMGMAPTRM.LIS__bw.pdf",
+    "is_dir": false,
+    "size": "1.6 MiB",
+    "date": "07-Dec-2021 03:48"
+  },
+  {
+    "name": "037__SMGMAPTRM.LIS__gray.pdf",
+    "href": "037__SMGMAPTRM.LIS__gray.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/092__SMGRTL/037__SMGMAPTRM.LIS__gray.pdf",
+    "is_dir": false,
+    "size": "5.9 MiB",
+    "date": "07-Dec-2021 03:48"
+  },
+  {
+    "name": "038__SMGMIN.LIS__bw.pdf",
+    "href": "038__SMGMIN.LIS__bw.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/092__SMGRTL/038__SMGMIN.LIS__bw.pdf",
+    "is_dir": false,
+    "size": "3.2 MiB",
+    "date": "07-Dec-2021 03:48"
+  },
+  {
+    "name": "038__SMGMIN.LIS__gray.pdf",
+    "href": "038__SMGMIN.LIS__gray.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/092__SMGRTL/038__SMGMIN.LIS__gray.pdf",
+    "is_dir": false,
+    "size": "26.0 MiB",
+    "date": "07-Dec-2021 03:48"
+  },
+  {
+    "name": "039__SMGMINUPD.LIS__bw.pdf",
+    "href": "039__SMGMINUPD.LIS__bw.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/092__SMGRTL/039__SMGMINUPD.LIS__bw.pdf",
+    "is_dir": false,
+    "size": "8.0 MiB",
+    "date": "07-Dec-2021 03:49"
+  },
+  {
+    "name": "039__SMGMINUPD.LIS__gray.pdf",
+    "href": "039__SMGMINUPD.LIS__gray.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/092__SMGRTL/039__SMGMINUPD.LIS__gray.pdf",
+    "is_dir": false,
+    "size": "69.3 MiB",
+    "date": "07-Dec-2021 03:49"
+  },
+  {
+    "name": "040__SMGMISC.LIS__bw.pdf",
+    "href": "040__SMGMISC.LIS__bw.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/092__SMGRTL/040__SMGMISC.LIS__bw.pdf",
+    "is_dir": false,
+    "size": "3.8 MiB",
+    "date": "07-Dec-2021 03:49"
+  },
+  {
+    "name": "040__SMGMISC.LIS__gray.pdf",
+    "href": "040__SMGMISC.LIS__gray.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/092__SMGRTL/040__SMGMISC.LIS__gray.pdf",
+    "is_dir": false,
+    "size": "32.5 MiB",
+    "date": "07-Dec-2021 03:49"
+  },
+  {
+    "name": "041__SMGMSGPTR.LIS__bw.pdf",
+    "href": "041__SMGMSGPTR.LIS__bw.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/092__SMGRTL/041__SMGMSGPTR.LIS__bw.pdf",
+    "is_dir": false,
+    "size": "2.1 MiB",
+    "date": "07-Dec-2021 03:49"
+  },
+  {
+    "name": "041__SMGMSGPTR.LIS__gray.pdf",
+    "href": "041__SMGMSGPTR.LIS__gray.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/092__SMGRTL/041__SMGMSGPTR.LIS__gray.pdf",
+    "is_dir": false,
+    "size": "9.8 MiB",
+    "date": "07-Dec-2021 03:49"
+  },
+  {
+    "name": "042__SMGMSGTXT.LIS__bw.pdf",
+    "href": "042__SMGMSGTXT.LIS__bw.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/092__SMGRTL/042__SMGMSGTXT.LIS__bw.pdf",
+    "is_dir": false,
+    "size": "2.1 MiB",
+    "date": "07-Dec-2021 03:49"
+  },
+  {
+    "name": "042__SMGMSGTXT.LIS__gray.pdf",
+    "href": "042__SMGMSGTXT.LIS__gray.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/092__SMGRTL/042__SMGMSGTXT.LIS__gray.pdf",
+    "is_dir": false,
+    "size": "9.8 MiB",
+    "date": "07-Dec-2021 03:49"
+  },
+  {
+    "name": "043__SMGNUMPAR.LIS__bw.pdf",
+    "href": "043__SMGNUMPAR.LIS__bw.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/092__SMGRTL/043__SMGNUMPAR.LIS__bw.pdf",
+    "is_dir": false,
+    "size": "1.6 MiB",
+    "date": "07-Dec-2021 03:50"
+  },
+  {
+    "name": "043__SMGNUMPAR.LIS__gray.pdf",
+    "href": "043__SMGNUMPAR.LIS__gray.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/092__SMGRTL/043__SMGNUMPAR.LIS__gray.pdf",
+    "is_dir": false,
+    "size": "3.8 MiB",
+    "date": "07-Dec-2021 03:50"
+  },
+  {
+    "name": "044__SMGNUMTAB.LIS__bw.pdf",
+    "href": "044__SMGNUMTAB.LIS__bw.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/092__SMGRTL/044__SMGNUMTAB.LIS__bw.pdf",
+    "is_dir": false,
+    "size": "2.2 MiB",
+    "date": "07-Dec-2021 03:50"
+  },
+  {
+    "name": "044__SMGNUMTAB.LIS__gray.pdf",
+    "href": "044__SMGNUMTAB.LIS__gray.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/092__SMGRTL/044__SMGNUMTAB.LIS__gray.pdf",
+    "is_dir": false,
+    "size": "12.0 MiB",
+    "date": "07-Dec-2021 03:50"
+  },
+  {
+    "name": "045__SMGPRVINP.LIS__bw.pdf",
+    "href": "045__SMGPRVINP.LIS__bw.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/092__SMGRTL/045__SMGPRVINP.LIS__bw.pdf",
+    "is_dir": false,
+    "size": "2.4 MiB",
+    "date": "07-Dec-2021 03:50"
+  },
+  {
+    "name": "045__SMGPRVINP.LIS__gray.pdf",
+    "href": "045__SMGPRVINP.LIS__gray.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/092__SMGRTL/045__SMGPRVINP.LIS__gray.pdf",
+    "is_dir": false,
+    "size": "13.2 MiB",
+    "date": "07-Dec-2021 03:50"
+  },
+  {
+    "name": "046__SMGPUTENC.LIS__bw.pdf",
+    "href": "046__SMGPUTENC.LIS__bw.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/092__SMGRTL/046__SMGPUTENC.LIS__bw.pdf",
+    "is_dir": false,
+    "size": "2.0 MiB",
+    "date": "07-Dec-2021 03:50"
+  },
+  {
+    "name": "046__SMGPUTENC.LIS__gray.pdf",
+    "href": "046__SMGPUTENC.LIS__gray.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/092__SMGRTL/046__SMGPUTENC.LIS__gray.pdf",
+    "is_dir": false,
+    "size": "8.3 MiB",
+    "date": "07-Dec-2021 03:50"
+  },
+  {
+    "name": "047__SMGPUTTEX.LIS__bw.pdf",
+    "href": "047__SMGPUTTEX.LIS__bw.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/092__SMGRTL/047__SMGPUTTEX.LIS__bw.pdf",
+    "is_dir": false,
+    "size": "2.4 MiB",
+    "date": "07-Dec-2021 03:50"
+  },
+  {
+    "name": "047__SMGPUTTEX.LIS__gray.pdf",
+    "href": "047__SMGPUTTEX.LIS__gray.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/092__SMGRTL/047__SMGPUTTEX.LIS__gray.pdf",
+    "is_dir": false,
+    "size": "13.7 MiB",
+    "date": "07-Dec-2021 03:50"
+  },
+  {
+    "name": "048__SMGSCROLL.LIS__bw.pdf",
+    "href": "048__SMGSCROLL.LIS__bw.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/092__SMGRTL/048__SMGSCROLL.LIS__bw.pdf",
+    "is_dir": false,
+    "size": "2.2 MiB",
+    "date": "07-Dec-2021 03:50"
+  },
+  {
+    "name": "048__SMGSCROLL.LIS__gray.pdf",
+    "href": "048__SMGSCROLL.LIS__gray.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/092__SMGRTL/048__SMGSCROLL.LIS__gray.pdf",
+    "is_dir": false,
+    "size": "11.7 MiB",
+    "date": "07-Dec-2021 03:50"
+  },
+  {
+    "name": "049__SMGSIMTRM.LIS__bw.pdf",
+    "href": "049__SMGSIMTRM.LIS__bw.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/092__SMGRTL/049__SMGSIMTRM.LIS__bw.pdf",
+    "is_dir": false,
+    "size": "4.0 MiB",
+    "date": "07-Dec-2021 03:50"
+  },
+  {
+    "name": "049__SMGSIMTRM.LIS__gray.pdf",
+    "href": "049__SMGSIMTRM.LIS__gray.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/092__SMGRTL/049__SMGSIMTRM.LIS__gray.pdf",
+    "is_dir": false,
+    "size": "24.2 MiB",
+    "date": "07-Dec-2021 03:50"
+  },
+  {
+    "name": "050__SMGSTATAB.LIS__bw.pdf",
+    "href": "050__SMGSTATAB.LIS__bw.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/092__SMGRTL/050__SMGSTATAB.LIS__bw.pdf",
+    "is_dir": false,
+    "size": "3.6 MiB",
+    "date": "07-Dec-2021 03:50"
+  },
+  {
+    "name": "050__SMGSTATAB.LIS__gray.pdf",
+    "href": "050__SMGSTATAB.LIS__gray.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/092__SMGRTL/050__SMGSTATAB.LIS__gray.pdf",
+    "is_dir": false,
+    "size": "34.4 MiB",
+    "date": "07-Dec-2021 03:50"
+  },
+  {
+    "name": "051__SMGSTRTAB.LIS__bw.pdf",
+    "href": "051__SMGSTRTAB.LIS__bw.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/092__SMGRTL/051__SMGSTRTAB.LIS__bw.pdf",
+    "is_dir": false,
+    "size": "4.9 MiB",
+    "date": "07-Dec-2021 03:50"
+  },
+  {
+    "name": "051__SMGSTRTAB.LIS__gray.pdf",
+    "href": "051__SMGSTRTAB.LIS__gray.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/092__SMGRTL/051__SMGSTRTAB.LIS__gray.pdf",
+    "is_dir": false,
+    "size": "49.8 MiB",
+    "date": "07-Dec-2021 03:51"
+  },
+  {
+    "name": "052__SMGTPALIB.LIS__bw.pdf",
+    "href": "052__SMGTPALIB.LIS__bw.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/092__SMGRTL/052__SMGTPALIB.LIS__bw.pdf",
+    "is_dir": false,
+    "size": "2.9 MiB",
+    "date": "07-Dec-2021 03:51"
+  },
+  {
+    "name": "052__SMGTPALIB.LIS__gray.pdf",
+    "href": "052__SMGTPALIB.LIS__gray.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/092__SMGRTL/052__SMGTPALIB.LIS__gray.pdf",
+    "is_dir": false,
+    "size": "10.1 MiB",
+    "date": "07-Dec-2021 03:51"
+  },
+  {
+    "name": "053__SMGUSRTRM.LIS__bw.pdf",
+    "href": "053__SMGUSRTRM.LIS__bw.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/092__SMGRTL/053__SMGUSRTRM.LIS__bw.pdf",
+    "is_dir": false,
+    "size": "3.3 MiB",
+    "date": "07-Dec-2021 03:51"
+  },
+  {
+    "name": "053__SMGUSRTRM.LIS__gray.pdf",
+    "href": "053__SMGUSRTRM.LIS__gray.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/092__SMGRTL/053__SMGUSRTRM.LIS__gray.pdf",
+    "is_dir": false,
+    "size": "25.9 MiB",
+    "date": "07-Dec-2021 03:51"
+  },
+  {
+    "name": "054__SMGVECTOR.LIS__bw.pdf",
+    "href": "054__SMGVECTOR.LIS__bw.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/092__SMGRTL/054__SMGVECTOR.LIS__bw.pdf",
+    "is_dir": false,
+    "size": "1.7 MiB",
+    "date": "07-Dec-2021 03:51"
+  },
+  {
+    "name": "054__SMGVECTOR.LIS__gray.pdf",
+    "href": "054__SMGVECTOR.LIS__gray.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/microfiche/vms-source-listings/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/AH-BT13A-SE__VAX-VMS_V4.0_SRC_LST_MCRF/092__SMGRTL/054__SMGVECTOR.LIS__gray.pdf",
+    "is_dir": false,
+    "size": "7.0 MiB",
+    "date": "07-Dec-2021 03:51"
+  }
+]

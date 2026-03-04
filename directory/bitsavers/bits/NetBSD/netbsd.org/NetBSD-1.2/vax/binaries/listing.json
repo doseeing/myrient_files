@@ -1,0 +1,58 @@
+[
+  {
+    "name": "base.tar.gz",
+    "href": "base.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/vax/binaries/base.tar.gz",
+    "is_dir": false,
+    "size": "15.4 MiB",
+    "date": "23-Oct-1996 17:43"
+  },
+  {
+    "name": "comp.tar.gz",
+    "href": "comp.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/vax/binaries/comp.tar.gz",
+    "is_dir": false,
+    "size": "4.4 MiB",
+    "date": "23-Oct-1996 17:45"
+  },
+  {
+    "name": "etc.tar.gz",
+    "href": "etc.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/vax/binaries/etc.tar.gz",
+    "is_dir": false,
+    "size": "69.2 KiB",
+    "date": "23-Oct-1996 17:45"
+  },
+  {
+    "name": "games.tar.gz",
+    "href": "games.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/vax/binaries/games.tar.gz",
+    "is_dir": false,
+    "size": "4.1 MiB",
+    "date": "23-Oct-1996 17:47"
+  },
+  {
+    "name": "man.tar.gz",
+    "href": "man.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/vax/binaries/man.tar.gz",
+    "is_dir": false,
+    "size": "923.6 KiB",
+    "date": "23-Oct-1996 17:47"
+  },
+  {
+    "name": "misc.tar.gz",
+    "href": "misc.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/vax/binaries/misc.tar.gz",
+    "is_dir": false,
+    "size": "1.8 MiB",
+    "date": "23-Oct-1996 17:48"
+  },
+  {
+    "name": "text.tar.gz",
+    "href": "text.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/vax/binaries/text.tar.gz",
+    "is_dir": false,
+    "size": "1.0 MiB",
+    "date": "23-Oct-1996 17:48"
+  }
+]

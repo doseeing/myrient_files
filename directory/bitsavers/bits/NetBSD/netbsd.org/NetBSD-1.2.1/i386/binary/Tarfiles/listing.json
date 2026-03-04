@@ -1,0 +1,66 @@
+[
+  {
+    "name": "CKSUMS",
+    "href": "CKSUMS",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2.1/i386/binary/Tarfiles/CKSUMS",
+    "is_dir": false,
+    "size": "230 B",
+    "date": "23-Mar-1997 19:19"
+  },
+  {
+    "name": "base121.tar.gz",
+    "href": "base121.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2.1/i386/binary/Tarfiles/base121.tar.gz",
+    "is_dir": false,
+    "size": "7.6 MiB",
+    "date": "23-Mar-1997 17:15"
+  },
+  {
+    "name": "comp121.tar.gz",
+    "href": "comp121.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2.1/i386/binary/Tarfiles/comp121.tar.gz",
+    "is_dir": false,
+    "size": "5.3 MiB",
+    "date": "23-Mar-1997 17:15"
+  },
+  {
+    "name": "etc121.tar.gz",
+    "href": "etc121.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2.1/i386/binary/Tarfiles/etc121.tar.gz",
+    "is_dir": false,
+    "size": "67.7 KiB",
+    "date": "23-Mar-1997 17:15"
+  },
+  {
+    "name": "games121.tar.gz",
+    "href": "games121.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2.1/i386/binary/Tarfiles/games121.tar.gz",
+    "is_dir": false,
+    "size": "2.7 MiB",
+    "date": "23-Mar-1997 17:15"
+  },
+  {
+    "name": "man121.tar.gz",
+    "href": "man121.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2.1/i386/binary/Tarfiles/man121.tar.gz",
+    "is_dir": false,
+    "size": "893.9 KiB",
+    "date": "23-Mar-1997 17:15"
+  },
+  {
+    "name": "misc121.tar.gz",
+    "href": "misc121.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2.1/i386/binary/Tarfiles/misc121.tar.gz",
+    "is_dir": false,
+    "size": "1.8 MiB",
+    "date": "23-Mar-1997 17:15"
+  },
+  {
+    "name": "text121.tar.gz",
+    "href": "text121.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2.1/i386/binary/Tarfiles/text121.tar.gz",
+    "is_dir": false,
+    "size": "763.9 KiB",
+    "date": "23-Mar-1997 17:15"
+  }
+]

@@ -1,0 +1,346 @@
+[
+  {
+    "name": "SHA512",
+    "href": "SHA512",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.2/SHA512",
+    "is_dir": false,
+    "size": "6.4 KiB",
+    "date": "28-Nov-2012 17:17"
+  },
+  {
+    "name": "acorn26cd-5.2.iso",
+    "href": "acorn26cd-5.2.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.2/acorn26cd-5.2.iso",
+    "is_dir": false,
+    "size": "155.7 MiB",
+    "date": "28-Nov-2012 06:35"
+  },
+  {
+    "name": "acorn32cd-5.2.iso",
+    "href": "acorn32cd-5.2.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.2/acorn32cd-5.2.iso",
+    "is_dir": false,
+    "size": "161.2 MiB",
+    "date": "28-Nov-2012 06:02"
+  },
+  {
+    "name": "alphacd-5.2.iso",
+    "href": "alphacd-5.2.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.2/alphacd-5.2.iso",
+    "is_dir": false,
+    "size": "209.3 MiB",
+    "date": "28-Nov-2012 06:30"
+  },
+  {
+    "name": "amd64cd-5.2.iso",
+    "href": "amd64cd-5.2.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.2/amd64cd-5.2.iso",
+    "is_dir": false,
+    "size": "241.1 MiB",
+    "date": "28-Nov-2012 07:10"
+  },
+  {
+    "name": "amigacd-5.2.iso",
+    "href": "amigacd-5.2.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.2/amigacd-5.2.iso",
+    "is_dir": false,
+    "size": "147.1 MiB",
+    "date": "28-Nov-2012 06:26"
+  },
+  {
+    "name": "arccd-5.2.iso",
+    "href": "arccd-5.2.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.2/arccd-5.2.iso",
+    "is_dir": false,
+    "size": "153.9 MiB",
+    "date": "28-Nov-2012 06:52"
+  },
+  {
+    "name": "ataricd-5.2.iso",
+    "href": "ataricd-5.2.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.2/ataricd-5.2.iso",
+    "is_dir": false,
+    "size": "153.1 MiB",
+    "date": "28-Nov-2012 06:49"
+  },
+  {
+    "name": "catscd-5.2.iso",
+    "href": "catscd-5.2.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.2/catscd-5.2.iso",
+    "is_dir": false,
+    "size": "176.8 MiB",
+    "date": "28-Nov-2012 07:18"
+  },
+  {
+    "name": "cobaltcd-5.2.iso",
+    "href": "cobaltcd-5.2.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.2/cobaltcd-5.2.iso",
+    "is_dir": false,
+    "size": "152.6 MiB",
+    "date": "28-Nov-2012 07:57"
+  },
+  {
+    "name": "dreamcastcd-5.2.iso",
+    "href": "dreamcastcd-5.2.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.2/dreamcastcd-5.2.iso",
+    "is_dir": false,
+    "size": "150.1 MiB",
+    "date": "28-Nov-2012 07:34"
+  },
+  {
+    "name": "evbarmcd-5.2.iso",
+    "href": "evbarmcd-5.2.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.2/evbarmcd-5.2.iso",
+    "is_dir": false,
+    "size": "599.2 MiB",
+    "date": "28-Nov-2012 07:55"
+  },
+  {
+    "name": "evbmips-mipsebcd-5.2.iso",
+    "href": "evbmips-mipsebcd-5.2.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.2/evbmips-mipsebcd-5.2.iso",
+    "is_dir": false,
+    "size": "186.8 MiB",
+    "date": "28-Nov-2012 08:20"
+  },
+  {
+    "name": "evbmips-mipselcd-5.2.iso",
+    "href": "evbmips-mipselcd-5.2.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.2/evbmips-mipselcd-5.2.iso",
+    "is_dir": false,
+    "size": "211.8 MiB",
+    "date": "28-Nov-2012 08:03"
+  },
+  {
+    "name": "evbppccd-5.2.iso",
+    "href": "evbppccd-5.2.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.2/evbppccd-5.2.iso",
+    "is_dir": false,
+    "size": "199.1 MiB",
+    "date": "28-Nov-2012 08:47"
+  },
+  {
+    "name": "ews4800mipscd-5.2.iso",
+    "href": "ews4800mipscd-5.2.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.2/ews4800mipscd-5.2.iso",
+    "is_dir": false,
+    "size": "155.2 MiB",
+    "date": "28-Nov-2012 09:10"
+  },
+  {
+    "name": "hp300cd-5.2.iso",
+    "href": "hp300cd-5.2.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.2/hp300cd-5.2.iso",
+    "is_dir": false,
+    "size": "143.8 MiB",
+    "date": "28-Nov-2012 08:41"
+  },
+  {
+    "name": "hp700cd-5.2.iso",
+    "href": "hp700cd-5.2.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.2/hp700cd-5.2.iso",
+    "is_dir": false,
+    "size": "194.9 MiB",
+    "date": "28-Nov-2012 08:51"
+  },
+  {
+    "name": "hpcarmcd-5.2.iso",
+    "href": "hpcarmcd-5.2.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.2/hpcarmcd-5.2.iso",
+    "is_dir": false,
+    "size": "159.9 MiB",
+    "date": "28-Nov-2012 09:34"
+  },
+  {
+    "name": "hpcmipscd-5.2.iso",
+    "href": "hpcmipscd-5.2.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.2/hpcmipscd-5.2.iso",
+    "is_dir": false,
+    "size": "159.1 MiB",
+    "date": "28-Nov-2012 09:04"
+  },
+  {
+    "name": "hpcshcd-5.2.iso",
+    "href": "hpcshcd-5.2.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.2/hpcshcd-5.2.iso",
+    "is_dir": false,
+    "size": "152.3 MiB",
+    "date": "28-Nov-2012 09:16"
+  },
+  {
+    "name": "i386cd-5.2.iso",
+    "href": "i386cd-5.2.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.2/i386cd-5.2.iso",
+    "is_dir": false,
+    "size": "241.6 MiB",
+    "date": "28-Nov-2012 09:38"
+  },
+  {
+    "name": "ibmnwscd-5.2.iso",
+    "href": "ibmnwscd-5.2.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.2/ibmnwscd-5.2.iso",
+    "is_dir": false,
+    "size": "154.7 MiB",
+    "date": "28-Nov-2012 09:58"
+  },
+  {
+    "name": "mac68kcd-5.2.iso",
+    "href": "mac68kcd-5.2.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.2/mac68kcd-5.2.iso",
+    "is_dir": false,
+    "size": "163.5 MiB",
+    "date": "28-Nov-2012 17:12"
+  },
+  {
+    "name": "macppccd-5.2.iso",
+    "href": "macppccd-5.2.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.2/macppccd-5.2.iso",
+    "is_dir": false,
+    "size": "245.5 MiB",
+    "date": "28-Nov-2012 17:13"
+  },
+  {
+    "name": "mipscocd-5.2.iso",
+    "href": "mipscocd-5.2.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.2/mipscocd-5.2.iso",
+    "is_dir": false,
+    "size": "150.7 MiB",
+    "date": "28-Nov-2012 10:20"
+  },
+  {
+    "name": "mvme68kcd-5.2.iso",
+    "href": "mvme68kcd-5.2.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.2/mvme68kcd-5.2.iso",
+    "is_dir": false,
+    "size": "150.7 MiB",
+    "date": "28-Nov-2012 11:10"
+  },
+  {
+    "name": "mvmeppccd-5.2.iso",
+    "href": "mvmeppccd-5.2.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.2/mvmeppccd-5.2.iso",
+    "is_dir": false,
+    "size": "154.1 MiB",
+    "date": "28-Nov-2012 10:43"
+  },
+  {
+    "name": "news68kcd-5.2.iso",
+    "href": "news68kcd-5.2.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.2/news68kcd-5.2.iso",
+    "is_dir": false,
+    "size": "144.1 MiB",
+    "date": "28-Nov-2012 11:32"
+  },
+  {
+    "name": "newsmipscd-5.2.iso",
+    "href": "newsmipscd-5.2.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.2/newsmipscd-5.2.iso",
+    "is_dir": false,
+    "size": "152.1 MiB",
+    "date": "28-Nov-2012 11:06"
+  },
+  {
+    "name": "ofppccd-5.2.iso",
+    "href": "ofppccd-5.2.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.2/ofppccd-5.2.iso",
+    "is_dir": false,
+    "size": "168.8 MiB",
+    "date": "28-Nov-2012 11:57"
+  },
+  {
+    "name": "pmaxcd-5.2.iso",
+    "href": "pmaxcd-5.2.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.2/pmaxcd-5.2.iso",
+    "is_dir": false,
+    "size": "163.2 MiB",
+    "date": "28-Nov-2012 11:29"
+  },
+  {
+    "name": "prepcd-5.2.iso",
+    "href": "prepcd-5.2.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.2/prepcd-5.2.iso",
+    "is_dir": false,
+    "size": "176.6 MiB",
+    "date": "28-Nov-2012 11:37"
+  },
+  {
+    "name": "sandpointcd-5.2.iso",
+    "href": "sandpointcd-5.2.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.2/sandpointcd-5.2.iso",
+    "is_dir": false,
+    "size": "157.7 MiB",
+    "date": "28-Nov-2012 12:21"
+  },
+  {
+    "name": "sgimipscd-5.2.iso",
+    "href": "sgimipscd-5.2.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.2/sgimipscd-5.2.iso",
+    "is_dir": false,
+    "size": "187.5 MiB",
+    "date": "28-Nov-2012 12:15"
+  },
+  {
+    "name": "sharkcd-5.2.iso",
+    "href": "sharkcd-5.2.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.2/sharkcd-5.2.iso",
+    "is_dir": false,
+    "size": "165.8 MiB",
+    "date": "28-Nov-2012 12:45"
+  },
+  {
+    "name": "sourcecd-5.2.iso",
+    "href": "sourcecd-5.2.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.2/sourcecd-5.2.iso",
+    "is_dir": false,
+    "size": "310.1 MiB",
+    "date": "28-Nov-2012 17:13"
+  },
+  {
+    "name": "sparc64cd-5.2.iso",
+    "href": "sparc64cd-5.2.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.2/sparc64cd-5.2.iso",
+    "is_dir": false,
+    "size": "214.4 MiB",
+    "date": "28-Nov-2012 12:36"
+  },
+  {
+    "name": "sparccd-5.2.iso",
+    "href": "sparccd-5.2.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.2/sparccd-5.2.iso",
+    "is_dir": false,
+    "size": "189.1 MiB",
+    "date": "28-Nov-2012 13:12"
+  },
+  {
+    "name": "sun2cd-5.2.iso",
+    "href": "sun2cd-5.2.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.2/sun2cd-5.2.iso",
+    "is_dir": false,
+    "size": "249.5 MiB",
+    "date": "28-Nov-2012 12:32"
+  },
+  {
+    "name": "sun3cd-5.2.iso",
+    "href": "sun3cd-5.2.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.2/sun3cd-5.2.iso",
+    "is_dir": false,
+    "size": "156.9 MiB",
+    "date": "28-Nov-2012 12:54"
+  },
+  {
+    "name": "vaxcd-5.2.iso",
+    "href": "vaxcd-5.2.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.2/vaxcd-5.2.iso",
+    "is_dir": false,
+    "size": "139.6 MiB",
+    "date": "28-Nov-2012 12:57"
+  },
+  {
+    "name": "x68kcd-5.2.iso",
+    "href": "x68kcd-5.2.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.2/x68kcd-5.2.iso",
+    "is_dir": false,
+    "size": "143.1 MiB",
+    "date": "28-Nov-2012 13:32"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "name": "bswap.h",
+    "href": "bswap.h",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/trix/sys/sdu/bswap.h",
+    "is_dir": false,
+    "size": "3.1 KiB",
+    "date": "11-Oct-1986 22:50"
+  },
+  {
+    "name": "interrupt.h",
+    "href": "interrupt.h",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/trix/sys/sdu/interrupt.h",
+    "is_dir": false,
+    "size": "3.1 KiB",
+    "date": "11-Oct-1986 22:50"
+  },
+  {
+    "name": "iomsg.h",
+    "href": "iomsg.h",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/trix/sys/sdu/iomsg.h",
+    "is_dir": false,
+    "size": "4.2 KiB",
+    "date": "11-Oct-1986 22:50"
+  },
+  {
+    "name": "mnc.h",
+    "href": "mnc.h",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/trix/sys/sdu/mnc.h",
+    "is_dir": false,
+    "size": "3.7 KiB",
+    "date": "11-Oct-1986 22:50"
+  },
+  {
+    "name": "sdu.c",
+    "href": "sdu.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/trix/sys/sdu/sdu.c",
+    "is_dir": false,
+    "size": "7.2 KiB",
+    "date": "11-Oct-1986 22:50"
+  },
+  {
+    "name": "socket.h",
+    "href": "socket.h",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/trix/sys/sdu/socket.h",
+    "is_dir": false,
+    "size": "3.0 KiB",
+    "date": "11-Oct-1986 22:50"
+  }
+]

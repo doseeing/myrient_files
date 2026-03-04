@@ -1,0 +1,74 @@
+[
+  {
+    "name": "binary",
+    "href": "binary/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/sparc/binary/",
+    "is_dir": true,
+    "size": null,
+    "date": "30-Sep-2023 17:20"
+  },
+  {
+    "name": "installation",
+    "href": "installation/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/sparc/installation/",
+    "is_dir": true,
+    "size": null,
+    "date": "30-Sep-2023 17:20"
+  },
+  {
+    "name": "security",
+    "href": "security/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/sparc/security/",
+    "is_dir": true,
+    "size": null,
+    "date": "30-Sep-2023 17:20"
+  },
+  {
+    "name": "BSDSUM",
+    "href": "BSDSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/sparc/BSDSUM",
+    "is_dir": false,
+    "size": "37 B",
+    "date": "15-Mar-1998 19:56"
+  },
+  {
+    "name": "CKSUM",
+    "href": "CKSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/sparc/CKSUM",
+    "is_dir": false,
+    "size": "50 B",
+    "date": "15-Mar-1998 19:56"
+  },
+  {
+    "name": "INSTALL",
+    "href": "INSTALL",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/sparc/INSTALL",
+    "is_dir": false,
+    "size": "57.7 KiB",
+    "date": "15-Mar-1998 19:50"
+  },
+  {
+    "name": "MD5",
+    "href": "MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/sparc/MD5",
+    "is_dir": false,
+    "size": "102 B",
+    "date": "15-Mar-1998 19:56"
+  },
+  {
+    "name": "SOURCE_DATE",
+    "href": "SOURCE_DATE",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/sparc/SOURCE_DATE",
+    "is_dir": false,
+    "size": "29 B",
+    "date": "12-Mar-1998 17:54"
+  },
+  {
+    "name": "SYSVSUM",
+    "href": "SYSVSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/sparc/SYSVSUM",
+    "is_dir": false,
+    "size": "37 B",
+    "date": "15-Mar-1998 19:56"
+  }
+]

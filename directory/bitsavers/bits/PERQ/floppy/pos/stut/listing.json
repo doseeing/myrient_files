@@ -1,0 +1,42 @@
+[
+  {
+    "name": "modifiedSTUT",
+    "href": "modifiedSTUT/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/PERQ/floppy/pos/stut/modifiedSTUT/",
+    "is_dir": true,
+    "size": null,
+    "date": "27-Oct-2004 01:35"
+  },
+  {
+    "name": "labels.txt",
+    "href": "labels.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/PERQ/floppy/pos/stut/labels.txt",
+    "is_dir": false,
+    "size": "511 B",
+    "date": "11-Oct-2004 17:43"
+  },
+  {
+    "name": "streamer_G.5_bin.dmk.gz",
+    "href": "streamer_G.5_bin.dmk.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/PERQ/floppy/pos/stut/streamer_G.5_bin.dmk.gz",
+    "is_dir": false,
+    "size": "95.7 KiB",
+    "date": "11-Oct-2004 17:40"
+  },
+  {
+    "name": "stutBin_G.6.dmk.gz",
+    "href": "stutBin_G.6.dmk.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/PERQ/floppy/pos/stut/stutBin_G.6.dmk.gz",
+    "is_dir": false,
+    "size": "39.3 KiB",
+    "date": "11-Oct-2004 17:37"
+  },
+  {
+    "name": "stutSrc_G.3.dmk.gz",
+    "href": "stutSrc_G.3.dmk.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/PERQ/floppy/pos/stut/stutSrc_G.3.dmk.gz",
+    "is_dir": false,
+    "size": "95.5 KiB",
+    "date": "11-Oct-2004 17:38"
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "name": "TODO",
+    "href": "TODO",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/trix/sys/kernel/TODO",
+    "is_dir": false,
+    "size": "1.6 KiB",
+    "date": "11-Oct-1986 22:50"
+  },
+  {
+    "name": "calls.c",
+    "href": "calls.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/trix/sys/kernel/calls.c",
+    "is_dir": false,
+    "size": "13.9 KiB",
+    "date": "11-Oct-1986 22:50"
+  },
+  {
+    "name": "com.c",
+    "href": "com.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/trix/sys/kernel/com.c",
+    "is_dir": false,
+    "size": "6.6 KiB",
+    "date": "11-Oct-1986 22:50"
+  },
+  {
+    "name": "device.c",
+    "href": "device.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/trix/sys/kernel/device.c",
+    "is_dir": false,
+    "size": "2.3 KiB",
+    "date": "11-Oct-1986 22:50"
+  },
+  {
+    "name": "domain.c",
+    "href": "domain.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/trix/sys/kernel/domain.c",
+    "is_dir": false,
+    "size": "12.1 KiB",
+    "date": "11-Oct-1986 22:50"
+  },
+  {
+    "name": "garbage.c",
+    "href": "garbage.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/trix/sys/kernel/garbage.c",
+    "is_dir": false,
+    "size": "4.1 KiB",
+    "date": "11-Oct-1986 22:50"
+  },
+  {
+    "name": "link.c",
+    "href": "link.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/trix/sys/kernel/link.c",
+    "is_dir": false,
+    "size": "4.3 KiB",
+    "date": "11-Oct-1986 22:50"
+  },
+  {
+    "name": "log.c",
+    "href": "log.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/trix/sys/kernel/log.c",
+    "is_dir": false,
+    "size": "2.6 KiB",
+    "date": "11-Oct-1986 22:50"
+  },
+  {
+    "name": "main.c",
+    "href": "main.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/trix/sys/kernel/main.c",
+    "is_dir": false,
+    "size": "8.4 KiB",
+    "date": "11-Oct-1986 22:50"
+  },
+  {
+    "name": "memory.c",
+    "href": "memory.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/trix/sys/kernel/memory.c",
+    "is_dir": false,
+    "size": "15.1 KiB",
+    "date": "11-Oct-1986 22:50"
+  },
+  {
+    "name": "pio.c",
+    "href": "pio.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/trix/sys/kernel/pio.c",
+    "is_dir": false,
+    "size": "3.2 KiB",
+    "date": "11-Oct-1986 22:50"
+  },
+  {
+    "name": "request.c",
+    "href": "request.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/trix/sys/kernel/request.c",
+    "is_dir": false,
+    "size": "6.5 KiB",
+    "date": "11-Oct-1986 22:50"
+  },
+  {
+    "name": "schedule.c",
+    "href": "schedule.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/trix/sys/kernel/schedule.c",
+    "is_dir": false,
+    "size": "5.0 KiB",
+    "date": "11-Oct-1986 22:50"
+  },
+  {
+    "name": "thread.c",
+    "href": "thread.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/trix/sys/kernel/thread.c",
+    "is_dir": false,
+    "size": "12.3 KiB",
+    "date": "11-Oct-1986 22:50"
+  },
+  {
+    "name": "tkcrt0.s",
+    "href": "tkcrt0.s",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/trix/sys/kernel/tkcrt0.s",
+    "is_dir": false,
+    "size": "3.5 KiB",
+    "date": "11-Oct-1986 22:50"
+  },
+  {
+    "name": "trap.c",
+    "href": "trap.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/trix/sys/kernel/trap.c",
+    "is_dir": false,
+    "size": "9.5 KiB",
+    "date": "11-Oct-1986 22:50"
+  },
+  {
+    "name": "traptab.d",
+    "href": "traptab.d",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/trix/sys/kernel/traptab.d",
+    "is_dir": false,
+    "size": "3.1 KiB",
+    "date": "11-Oct-1986 22:50"
+  },
+  {
+    "name": "virtual.c",
+    "href": "virtual.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/trix/sys/kernel/virtual.c",
+    "is_dir": false,
+    "size": "3.0 KiB",
+    "date": "11-Oct-1986 22:51"
+  }
+]

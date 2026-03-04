@@ -1,0 +1,346 @@
+[
+  {
+    "name": "NetBSD-5.2.3-acorn26.iso",
+    "href": "NetBSD-5.2.3-acorn26.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.2.3/NetBSD-5.2.3-acorn26.iso",
+    "is_dir": false,
+    "size": "155.6 MiB",
+    "date": "15-Nov-2014 21:01"
+  },
+  {
+    "name": "NetBSD-5.2.3-acorn32.iso",
+    "href": "NetBSD-5.2.3-acorn32.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.2.3/NetBSD-5.2.3-acorn32.iso",
+    "is_dir": false,
+    "size": "161.2 MiB",
+    "date": "15-Nov-2014 21:03"
+  },
+  {
+    "name": "NetBSD-5.2.3-alpha.iso",
+    "href": "NetBSD-5.2.3-alpha.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.2.3/NetBSD-5.2.3-alpha.iso",
+    "is_dir": false,
+    "size": "209.3 MiB",
+    "date": "15-Nov-2014 21:03"
+  },
+  {
+    "name": "NetBSD-5.2.3-amd64.iso",
+    "href": "NetBSD-5.2.3-amd64.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.2.3/NetBSD-5.2.3-amd64.iso",
+    "is_dir": false,
+    "size": "241.1 MiB",
+    "date": "15-Nov-2014 21:09"
+  },
+  {
+    "name": "NetBSD-5.2.3-amiga.iso",
+    "href": "NetBSD-5.2.3-amiga.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.2.3/NetBSD-5.2.3-amiga.iso",
+    "is_dir": false,
+    "size": "147.1 MiB",
+    "date": "15-Nov-2014 20:58"
+  },
+  {
+    "name": "NetBSD-5.2.3-arc.iso",
+    "href": "NetBSD-5.2.3-arc.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.2.3/NetBSD-5.2.3-arc.iso",
+    "is_dir": false,
+    "size": "153.9 MiB",
+    "date": "15-Nov-2014 20:59"
+  },
+  {
+    "name": "NetBSD-5.2.3-atari.iso",
+    "href": "NetBSD-5.2.3-atari.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.2.3/NetBSD-5.2.3-atari.iso",
+    "is_dir": false,
+    "size": "153.1 MiB",
+    "date": "15-Nov-2014 20:59"
+  },
+  {
+    "name": "NetBSD-5.2.3-cats.iso",
+    "href": "NetBSD-5.2.3-cats.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.2.3/NetBSD-5.2.3-cats.iso",
+    "is_dir": false,
+    "size": "176.8 MiB",
+    "date": "15-Nov-2014 21:05"
+  },
+  {
+    "name": "NetBSD-5.2.3-cobalt.iso",
+    "href": "NetBSD-5.2.3-cobalt.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.2.3/NetBSD-5.2.3-cobalt.iso",
+    "is_dir": false,
+    "size": "152.6 MiB",
+    "date": "15-Nov-2014 21:00"
+  },
+  {
+    "name": "NetBSD-5.2.3-dreamcast.iso",
+    "href": "NetBSD-5.2.3-dreamcast.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.2.3/NetBSD-5.2.3-dreamcast.iso",
+    "is_dir": false,
+    "size": "150.1 MiB",
+    "date": "15-Nov-2014 21:00"
+  },
+  {
+    "name": "NetBSD-5.2.3-evbarm.iso",
+    "href": "NetBSD-5.2.3-evbarm.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.2.3/NetBSD-5.2.3-evbarm.iso",
+    "is_dir": false,
+    "size": "599.3 MiB",
+    "date": "15-Nov-2014 21:11"
+  },
+  {
+    "name": "NetBSD-5.2.3-evbmips-mipseb.iso",
+    "href": "NetBSD-5.2.3-evbmips-mipseb.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.2.3/NetBSD-5.2.3-evbmips-mipseb.iso",
+    "is_dir": false,
+    "size": "186.8 MiB",
+    "date": "15-Nov-2014 21:00"
+  },
+  {
+    "name": "NetBSD-5.2.3-evbmips-mipsel.iso",
+    "href": "NetBSD-5.2.3-evbmips-mipsel.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.2.3/NetBSD-5.2.3-evbmips-mipsel.iso",
+    "is_dir": false,
+    "size": "211.8 MiB",
+    "date": "15-Nov-2014 21:22"
+  },
+  {
+    "name": "NetBSD-5.2.3-evbppc.iso",
+    "href": "NetBSD-5.2.3-evbppc.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.2.3/NetBSD-5.2.3-evbppc.iso",
+    "is_dir": false,
+    "size": "199.1 MiB",
+    "date": "15-Nov-2014 21:24"
+  },
+  {
+    "name": "NetBSD-5.2.3-ews4800mips.iso",
+    "href": "NetBSD-5.2.3-ews4800mips.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.2.3/NetBSD-5.2.3-ews4800mips.iso",
+    "is_dir": false,
+    "size": "155.2 MiB",
+    "date": "15-Nov-2014 21:22"
+  },
+  {
+    "name": "NetBSD-5.2.3-hp300.iso",
+    "href": "NetBSD-5.2.3-hp300.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.2.3/NetBSD-5.2.3-hp300.iso",
+    "is_dir": false,
+    "size": "143.8 MiB",
+    "date": "15-Nov-2014 21:22"
+  },
+  {
+    "name": "NetBSD-5.2.3-hp700.iso",
+    "href": "NetBSD-5.2.3-hp700.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.2.3/NetBSD-5.2.3-hp700.iso",
+    "is_dir": false,
+    "size": "194.9 MiB",
+    "date": "15-Nov-2014 21:23"
+  },
+  {
+    "name": "NetBSD-5.2.3-hpcarm.iso",
+    "href": "NetBSD-5.2.3-hpcarm.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.2.3/NetBSD-5.2.3-hpcarm.iso",
+    "is_dir": false,
+    "size": "159.9 MiB",
+    "date": "15-Nov-2014 21:24"
+  },
+  {
+    "name": "NetBSD-5.2.3-hpcmips.iso",
+    "href": "NetBSD-5.2.3-hpcmips.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.2.3/NetBSD-5.2.3-hpcmips.iso",
+    "is_dir": false,
+    "size": "159.1 MiB",
+    "date": "15-Nov-2014 21:25"
+  },
+  {
+    "name": "NetBSD-5.2.3-hpcsh.iso",
+    "href": "NetBSD-5.2.3-hpcsh.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.2.3/NetBSD-5.2.3-hpcsh.iso",
+    "is_dir": false,
+    "size": "152.3 MiB",
+    "date": "15-Nov-2014 21:25"
+  },
+  {
+    "name": "NetBSD-5.2.3-i386.iso",
+    "href": "NetBSD-5.2.3-i386.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.2.3/NetBSD-5.2.3-i386.iso",
+    "is_dir": false,
+    "size": "241.7 MiB",
+    "date": "15-Nov-2014 21:37"
+  },
+  {
+    "name": "NetBSD-5.2.3-ibmnws.iso",
+    "href": "NetBSD-5.2.3-ibmnws.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.2.3/NetBSD-5.2.3-ibmnws.iso",
+    "is_dir": false,
+    "size": "154.8 MiB",
+    "date": "15-Nov-2014 21:28"
+  },
+  {
+    "name": "NetBSD-5.2.3-mac68k.iso",
+    "href": "NetBSD-5.2.3-mac68k.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.2.3/NetBSD-5.2.3-mac68k.iso",
+    "is_dir": false,
+    "size": "163.5 MiB",
+    "date": "16-Nov-2014 11:22"
+  },
+  {
+    "name": "NetBSD-5.2.3-macppc.iso",
+    "href": "NetBSD-5.2.3-macppc.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.2.3/NetBSD-5.2.3-macppc.iso",
+    "is_dir": false,
+    "size": "245.5 MiB",
+    "date": "16-Nov-2014 11:21"
+  },
+  {
+    "name": "NetBSD-5.2.3-mipsco.iso",
+    "href": "NetBSD-5.2.3-mipsco.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.2.3/NetBSD-5.2.3-mipsco.iso",
+    "is_dir": false,
+    "size": "150.7 MiB",
+    "date": "15-Nov-2014 21:45"
+  },
+  {
+    "name": "NetBSD-5.2.3-mvme68k.iso",
+    "href": "NetBSD-5.2.3-mvme68k.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.2.3/NetBSD-5.2.3-mvme68k.iso",
+    "is_dir": false,
+    "size": "150.7 MiB",
+    "date": "15-Nov-2014 21:45"
+  },
+  {
+    "name": "NetBSD-5.2.3-mvmeppc.iso",
+    "href": "NetBSD-5.2.3-mvmeppc.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.2.3/NetBSD-5.2.3-mvmeppc.iso",
+    "is_dir": false,
+    "size": "154.1 MiB",
+    "date": "15-Nov-2014 21:47"
+  },
+  {
+    "name": "NetBSD-5.2.3-news68k.iso",
+    "href": "NetBSD-5.2.3-news68k.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.2.3/NetBSD-5.2.3-news68k.iso",
+    "is_dir": false,
+    "size": "144.1 MiB",
+    "date": "15-Nov-2014 21:46"
+  },
+  {
+    "name": "NetBSD-5.2.3-newsmips.iso",
+    "href": "NetBSD-5.2.3-newsmips.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.2.3/NetBSD-5.2.3-newsmips.iso",
+    "is_dir": false,
+    "size": "152.1 MiB",
+    "date": "15-Nov-2014 21:47"
+  },
+  {
+    "name": "NetBSD-5.2.3-ofppc.iso",
+    "href": "NetBSD-5.2.3-ofppc.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.2.3/NetBSD-5.2.3-ofppc.iso",
+    "is_dir": false,
+    "size": "168.8 MiB",
+    "date": "15-Nov-2014 21:55"
+  },
+  {
+    "name": "NetBSD-5.2.3-pmax.iso",
+    "href": "NetBSD-5.2.3-pmax.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.2.3/NetBSD-5.2.3-pmax.iso",
+    "is_dir": false,
+    "size": "163.2 MiB",
+    "date": "15-Nov-2014 21:53"
+  },
+  {
+    "name": "NetBSD-5.2.3-prep.iso",
+    "href": "NetBSD-5.2.3-prep.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.2.3/NetBSD-5.2.3-prep.iso",
+    "is_dir": false,
+    "size": "176.7 MiB",
+    "date": "15-Nov-2014 21:52"
+  },
+  {
+    "name": "NetBSD-5.2.3-sandpoint.iso",
+    "href": "NetBSD-5.2.3-sandpoint.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.2.3/NetBSD-5.2.3-sandpoint.iso",
+    "is_dir": false,
+    "size": "157.7 MiB",
+    "date": "15-Nov-2014 21:58"
+  },
+  {
+    "name": "NetBSD-5.2.3-sgimips.iso",
+    "href": "NetBSD-5.2.3-sgimips.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.2.3/NetBSD-5.2.3-sgimips.iso",
+    "is_dir": false,
+    "size": "187.5 MiB",
+    "date": "15-Nov-2014 22:09"
+  },
+  {
+    "name": "NetBSD-5.2.3-shark.iso",
+    "href": "NetBSD-5.2.3-shark.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.2.3/NetBSD-5.2.3-shark.iso",
+    "is_dir": false,
+    "size": "165.8 MiB",
+    "date": "15-Nov-2014 22:11"
+  },
+  {
+    "name": "NetBSD-5.2.3-source.iso",
+    "href": "NetBSD-5.2.3-source.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.2.3/NetBSD-5.2.3-source.iso",
+    "is_dir": false,
+    "size": "310.2 MiB",
+    "date": "16-Nov-2014 11:23"
+  },
+  {
+    "name": "NetBSD-5.2.3-sparc.iso",
+    "href": "NetBSD-5.2.3-sparc.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.2.3/NetBSD-5.2.3-sparc.iso",
+    "is_dir": false,
+    "size": "189.1 MiB",
+    "date": "15-Nov-2014 22:12"
+  },
+  {
+    "name": "NetBSD-5.2.3-sparc64.iso",
+    "href": "NetBSD-5.2.3-sparc64.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.2.3/NetBSD-5.2.3-sparc64.iso",
+    "is_dir": false,
+    "size": "214.4 MiB",
+    "date": "15-Nov-2014 22:16"
+  },
+  {
+    "name": "NetBSD-5.2.3-sun2.iso",
+    "href": "NetBSD-5.2.3-sun2.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.2.3/NetBSD-5.2.3-sun2.iso",
+    "is_dir": false,
+    "size": "249.7 MiB",
+    "date": "15-Nov-2014 22:01"
+  },
+  {
+    "name": "NetBSD-5.2.3-sun3.iso",
+    "href": "NetBSD-5.2.3-sun3.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.2.3/NetBSD-5.2.3-sun3.iso",
+    "is_dir": false,
+    "size": "156.9 MiB",
+    "date": "15-Nov-2014 22:09"
+  },
+  {
+    "name": "NetBSD-5.2.3-vax.iso",
+    "href": "NetBSD-5.2.3-vax.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.2.3/NetBSD-5.2.3-vax.iso",
+    "is_dir": false,
+    "size": "139.5 MiB",
+    "date": "15-Nov-2014 22:06"
+  },
+  {
+    "name": "NetBSD-5.2.3-x68k.iso",
+    "href": "NetBSD-5.2.3-x68k.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.2.3/NetBSD-5.2.3-x68k.iso",
+    "is_dir": false,
+    "size": "143.1 MiB",
+    "date": "15-Nov-2014 22:08"
+  },
+  {
+    "name": "SHA512",
+    "href": "SHA512",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.2.3/SHA512",
+    "is_dir": false,
+    "size": "6.7 KiB",
+    "date": "16-Nov-2014 11:26"
+  }
+]

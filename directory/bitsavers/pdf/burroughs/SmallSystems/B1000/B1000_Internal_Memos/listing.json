@@ -1,0 +1,386 @@
+[
+  {
+    "name": "Book_1",
+    "href": "Book_1/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/burroughs/SmallSystems/B1000/B1000_Internal_Memos/Book_1/",
+    "is_dir": true,
+    "size": null,
+    "date": "04-May-2023 04:57"
+  },
+  {
+    "name": "Book_2",
+    "href": "Book_2/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/burroughs/SmallSystems/B1000/B1000_Internal_Memos/Book_2/",
+    "is_dir": true,
+    "size": null,
+    "date": "04-May-2023 04:57"
+  },
+  {
+    "name": "Book_3",
+    "href": "Book_3/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/burroughs/SmallSystems/B1000/B1000_Internal_Memos/Book_3/",
+    "is_dir": true,
+    "size": null,
+    "date": "05-May-2023 21:56"
+  },
+  {
+    "name": "Book_4",
+    "href": "Book_4/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/burroughs/SmallSystems/B1000/B1000_Internal_Memos/Book_4/",
+    "is_dir": true,
+    "size": null,
+    "date": "05-May-2023 21:56"
+  },
+  {
+    "name": "Book_5",
+    "href": "Book_5/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/burroughs/SmallSystems/B1000/B1000_Internal_Memos/Book_5/",
+    "is_dir": true,
+    "size": null,
+    "date": "05-May-2023 21:55"
+  },
+  {
+    "name": "Book_6",
+    "href": "Book_6/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/burroughs/SmallSystems/B1000/B1000_Internal_Memos/Book_6/",
+    "is_dir": true,
+    "size": null,
+    "date": "06-May-2023 14:10"
+  },
+  {
+    "name": "Book_7",
+    "href": "Book_7/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/burroughs/SmallSystems/B1000/B1000_Internal_Memos/Book_7/",
+    "is_dir": true,
+    "size": null,
+    "date": "07-May-2023 00:17"
+  },
+  {
+    "name": "Book_8",
+    "href": "Book_8/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/burroughs/SmallSystems/B1000/B1000_Internal_Memos/Book_8/",
+    "is_dir": true,
+    "size": null,
+    "date": "08-May-2023 15:49"
+  },
+  {
+    "name": "1913-1747_M-Memory_197405.pdf",
+    "href": "1913-1747_M-Memory_197405.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/burroughs/SmallSystems/B1000/B1000_Internal_Memos/1913-1747_M-Memory_197405.pdf",
+    "is_dir": false,
+    "size": "2.3 MiB",
+    "date": "01-May-2023 19:04"
+  },
+  {
+    "name": "2201-2389H_SDL_S-Lang_197511.pdf",
+    "href": "2201-2389H_SDL_S-Lang_197511.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/burroughs/SmallSystems/B1000/B1000_Internal_Memos/2201-2389H_SDL_S-Lang_197511.pdf",
+    "is_dir": false,
+    "size": "4.2 MiB",
+    "date": "01-May-2023 19:04"
+  },
+  {
+    "name": "2201-2389J_SDL_S-Lang_197709.pdf",
+    "href": "2201-2389J_SDL_S-Lang_197709.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/burroughs/SmallSystems/B1000/B1000_Internal_Memos/2201-2389J_SDL_S-Lang_197709.pdf",
+    "is_dir": false,
+    "size": "5.2 MiB",
+    "date": "01-May-2023 23:07"
+  },
+  {
+    "name": "2201-6729B_COBOL_S-Lang_1971.pdf",
+    "href": "2201-6729B_COBOL_S-Lang_1971.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/burroughs/SmallSystems/B1000/B1000_Internal_Memos/2201-6729B_COBOL_S-Lang_1971.pdf",
+    "is_dir": false,
+    "size": "2.7 MiB",
+    "date": "01-May-2023 19:04"
+  },
+  {
+    "name": "2201-6737D_FORTRAN_S-Lang_197807.pdf",
+    "href": "2201-6737D_FORTRAN_S-Lang_197807.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/burroughs/SmallSystems/B1000/B1000_Internal_Memos/2201-6737D_FORTRAN_S-Lang_197807.pdf",
+    "is_dir": false,
+    "size": "2.3 MiB",
+    "date": "01-May-2023 23:07"
+  },
+  {
+    "name": "2201-6760F_S-Memory_197601.pdf",
+    "href": "2201-6760F_S-Memory_197601.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/burroughs/SmallSystems/B1000/B1000_Internal_Memos/2201-6760F_S-Memory_197601.pdf",
+    "is_dir": false,
+    "size": "1.9 MiB",
+    "date": "01-May-2023 19:04"
+  },
+  {
+    "name": "2201_6729E_B1700_COBOL_S-Lang_197602.pdf",
+    "href": "2201_6729E_B1700_COBOL_S-Lang_197602.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/burroughs/SmallSystems/B1000/B1000_Internal_Memos/2201_6729E_B1700_COBOL_S-Lang_197602.pdf",
+    "is_dir": false,
+    "size": "4.0 MiB",
+    "date": "01-May-2023 19:04"
+  },
+  {
+    "name": "2212-5116E_DMPALL_197711.pdf",
+    "href": "2212-5116E_DMPALL_197711.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/burroughs/SmallSystems/B1000/B1000_Internal_Memos/2212-5116E_DMPALL_197711.pdf",
+    "is_dir": false,
+    "size": "1.3 MiB",
+    "date": "22-May-2023 15:37"
+  },
+  {
+    "name": "2212-5199C_SYCOPY_197609.pdf",
+    "href": "2212-5199C_SYCOPY_197609.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/burroughs/SmallSystems/B1000/B1000_Internal_Memos/2212-5199C_SYCOPY_197609.pdf",
+    "is_dir": false,
+    "size": "216.2 KiB",
+    "date": "19-May-2023 23:49"
+  },
+  {
+    "name": "2212-5298_MIL_Micro_Implementation_Language.pdf",
+    "href": "2212-5298_MIL_Micro_Implementation_Language.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/burroughs/SmallSystems/B1000/B1000_Internal_Memos/2212-5298_MIL_Micro_Implementation_Language.pdf",
+    "is_dir": false,
+    "size": "8.6 MiB",
+    "date": "01-May-2023 21:38"
+  },
+  {
+    "name": "2212-5405F_B1700_SDLBNF_198006.pdf",
+    "href": "2212-5405F_B1700_SDLBNF_198006.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/burroughs/SmallSystems/B1000/B1000_Internal_Memos/2212-5405F_B1700_SDLBNF_198006.pdf",
+    "is_dir": false,
+    "size": "8.9 MiB",
+    "date": "01-May-2023 19:04"
+  },
+  {
+    "name": "2212-5462E_B1000_MCP_II_10.0_Specification.pdf",
+    "href": "2212-5462E_B1000_MCP_II_10.0_Specification.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/burroughs/SmallSystems/B1000/B1000_Internal_Memos/2212-5462E_B1000_MCP_II_10.0_Specification.pdf",
+    "is_dir": false,
+    "size": "21.0 MiB",
+    "date": "01-May-2023 23:34"
+  },
+  {
+    "name": "2219-0094B_B1800_B1700_EDP-TABS_197901.pdf",
+    "href": "2219-0094B_B1800_B1700_EDP-TABS_197901.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/burroughs/SmallSystems/B1000/B1000_Internal_Memos/2219-0094B_B1800_B1700_EDP-TABS_197901.pdf",
+    "is_dir": false,
+    "size": "3.2 MiB",
+    "date": "22-May-2023 15:10"
+  },
+  {
+    "name": "2219-0334_B1700_INTERP_MONITOR_197708.pdf",
+    "href": "2219-0334_B1700_INTERP_MONITOR_197708.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/burroughs/SmallSystems/B1000/B1000_Internal_Memos/2219-0334_B1700_INTERP_MONITOR_197708.pdf",
+    "is_dir": false,
+    "size": "669.7 KiB",
+    "date": "22-May-2023 15:10"
+  },
+  {
+    "name": "2228-3493A_B1800_B1700_FOREIGN_TAPECOPY_198102.pdf",
+    "href": "2228-3493A_B1800_B1700_FOREIGN_TAPECOPY_198102.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/burroughs/SmallSystems/B1000/B1000_Internal_Memos/2228-3493A_B1800_B1700_FOREIGN_TAPECOPY_198102.pdf",
+    "is_dir": false,
+    "size": "942.1 KiB",
+    "date": "25-Apr-2024 21:54"
+  },
+  {
+    "name": "2228-3527A_B1800_B1700_BNA_198102.pdf",
+    "href": "2228-3527A_B1800_B1700_BNA_198102.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/burroughs/SmallSystems/B1000/B1000_Internal_Memos/2228-3527A_B1800_B1700_BNA_198102.pdf",
+    "is_dir": false,
+    "size": "3.5 MiB",
+    "date": "25-Apr-2024 21:54"
+  },
+  {
+    "name": "2228-3535B_B1900_B1800_RSVP_198103.pdf",
+    "href": "2228-3535B_B1900_B1800_RSVP_198103.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/burroughs/SmallSystems/B1000/B1000_Internal_Memos/2228-3535B_B1900_B1800_RSVP_198103.pdf",
+    "is_dir": false,
+    "size": "1.9 MiB",
+    "date": "25-Apr-2024 21:54"
+  },
+  {
+    "name": "2228-3543A_BOLT_Executive_198201.pdf",
+    "href": "2228-3543A_BOLT_Executive_198201.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/burroughs/SmallSystems/B1000/B1000_Internal_Memos/2228-3543A_BOLT_Executive_198201.pdf",
+    "is_dir": false,
+    "size": "8.5 MiB",
+    "date": "25-Apr-2024 21:54"
+  },
+  {
+    "name": "2228-3550A_CONVERT_BACKUP_198008.pdf",
+    "href": "2228-3550A_CONVERT_BACKUP_198008.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/burroughs/SmallSystems/B1000/B1000_Internal_Memos/2228-3550A_CONVERT_BACKUP_198008.pdf",
+    "is_dir": false,
+    "size": "248.9 KiB",
+    "date": "25-Apr-2024 21:54"
+  },
+  {
+    "name": "2228-3584B_SYSTEM_ODT.pdf",
+    "href": "2228-3584B_SYSTEM_ODT.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/burroughs/SmallSystems/B1000/B1000_Internal_Memos/2228-3584B_SYSTEM_ODT.pdf",
+    "is_dir": false,
+    "size": "445.1 KiB",
+    "date": "25-Apr-2024 21:54"
+  },
+  {
+    "name": "2228-3592A_BOLT_Magnetic_Tape_Test_198201.pdf",
+    "href": "2228-3592A_BOLT_Magnetic_Tape_Test_198201.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/burroughs/SmallSystems/B1000/B1000_Internal_Memos/2228-3592A_BOLT_Magnetic_Tape_Test_198201.pdf",
+    "is_dir": false,
+    "size": "3.7 MiB",
+    "date": "25-Apr-2024 21:54"
+  },
+  {
+    "name": "2228-3600A_BOLT_Multiline_Control_Test_198201.pdf",
+    "href": "2228-3600A_BOLT_Multiline_Control_Test_198201.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/burroughs/SmallSystems/B1000/B1000_Internal_Memos/2228-3600A_BOLT_Multiline_Control_Test_198201.pdf",
+    "is_dir": false,
+    "size": "2.5 MiB",
+    "date": "25-Apr-2024 21:54"
+  },
+  {
+    "name": "2228-3618A_BOLT_Printer_Test_198201.pdf",
+    "href": "2228-3618A_BOLT_Printer_Test_198201.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/burroughs/SmallSystems/B1000/B1000_Internal_Memos/2228-3618A_BOLT_Printer_Test_198201.pdf",
+    "is_dir": false,
+    "size": "6.0 MiB",
+    "date": "25-Apr-2024 21:54"
+  },
+  {
+    "name": "2228-3626A_BOLT_Card_Device_Test_198201.pdf",
+    "href": "2228-3626A_BOLT_Card_Device_Test_198201.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/burroughs/SmallSystems/B1000/B1000_Internal_Memos/2228-3626A_BOLT_Card_Device_Test_198201.pdf",
+    "is_dir": false,
+    "size": "7.6 MiB",
+    "date": "25-Apr-2024 21:54"
+  },
+  {
+    "name": "2233-2803A_DDEC_DEC_Cross_Reference_List_198106.pdf",
+    "href": "2233-2803A_DDEC_DEC_Cross_Reference_List_198106.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/burroughs/SmallSystems/B1000/B1000_Internal_Memos/2233-2803A_DDEC_DEC_Cross_Reference_List_198106.pdf",
+    "is_dir": false,
+    "size": "994.8 KiB",
+    "date": "25-Apr-2024 21:54"
+  },
+  {
+    "name": "2233-2837A_B1800_B1700_Remote_Print_198109.pdf",
+    "href": "2233-2837A_B1800_B1700_Remote_Print_198109.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/burroughs/SmallSystems/B1000/B1000_Internal_Memos/2233-2837A_B1800_B1700_Remote_Print_198109.pdf",
+    "is_dir": false,
+    "size": "322.0 KiB",
+    "date": "25-Apr-2024 21:54"
+  },
+  {
+    "name": "2233-2886A_COBOL74_MCS_198111.pdf",
+    "href": "2233-2886A_COBOL74_MCS_198111.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/burroughs/SmallSystems/B1000/B1000_Internal_Memos/2233-2886A_COBOL74_MCS_198111.pdf",
+    "is_dir": false,
+    "size": "568.8 KiB",
+    "date": "25-Apr-2024 21:54"
+  },
+  {
+    "name": "B1500_Microprogramming_197101.pdf",
+    "href": "B1500_Microprogramming_197101.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/burroughs/SmallSystems/B1000/B1000_Internal_Memos/B1500_Microprogramming_197101.pdf",
+    "is_dir": false,
+    "size": "2.9 MiB",
+    "date": "01-May-2023 21:12"
+  },
+  {
+    "name": "B1500_Microprogramming_Manual.pdf",
+    "href": "B1500_Microprogramming_Manual.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/burroughs/SmallSystems/B1000/B1000_Internal_Memos/B1500_Microprogramming_Manual.pdf",
+    "is_dir": false,
+    "size": "1.2 MiB",
+    "date": "22-May-2023 20:19"
+  },
+  {
+    "name": "B1700_DOCTOR_Document_Formatter_197707.pdf",
+    "href": "B1700_DOCTOR_Document_Formatter_197707.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/burroughs/SmallSystems/B1000/B1000_Internal_Memos/B1700_DOCTOR_Document_Formatter_197707.pdf",
+    "is_dir": false,
+    "size": "1.1 MiB",
+    "date": "22-May-2023 15:10"
+  },
+  {
+    "name": "B1700_System_Class_1974.pdf",
+    "href": "B1700_System_Class_1974.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/burroughs/SmallSystems/B1000/B1000_Internal_Memos/B1700_System_Class_1974.pdf",
+    "is_dir": false,
+    "size": "11.8 MiB",
+    "date": "13-May-2023 16:22"
+  },
+  {
+    "name": "BASIC_S-Language_19730524.pdf",
+    "href": "BASIC_S-Language_19730524.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/burroughs/SmallSystems/B1000/B1000_Internal_Memos/BASIC_S-Language_19730524.pdf",
+    "is_dir": false,
+    "size": "1.0 MiB",
+    "date": "01-May-2023 21:09"
+  },
+  {
+    "name": "Language_Development_Memos_1974-75.pdf",
+    "href": "Language_Development_Memos_1974-75.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/burroughs/SmallSystems/B1000/B1000_Internal_Memos/Language_Development_Memos_1974-75.pdf",
+    "is_dir": false,
+    "size": "2.0 MiB",
+    "date": "14-May-2023 16:06"
+  },
+  {
+    "name": "M-Memory_Proc_19760109.pdf",
+    "href": "M-Memory_Proc_19760109.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/burroughs/SmallSystems/B1000/B1000_Internal_Memos/M-Memory_Proc_19760109.pdf",
+    "is_dir": false,
+    "size": "2.7 MiB",
+    "date": "01-May-2023 21:09"
+  },
+  {
+    "name": "M-Processor3_Design_Specification_19760326.pdf",
+    "href": "M-Processor3_Design_Specification_19760326.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/burroughs/SmallSystems/B1000/B1000_Internal_Memos/M-Processor3_Design_Specification_19760326.pdf",
+    "is_dir": false,
+    "size": "5.1 MiB",
+    "date": "01-May-2023 21:18"
+  },
+  {
+    "name": "McCrea_-_Software_Development_Language_for_the_Burroughs_B1700.pdf",
+    "href": "McCrea_-_Software_Development_Language_for_the_Burroughs_B1700.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/burroughs/SmallSystems/B1000/B1000_Internal_Memos/McCrea_-_Software_Development_Language_for_the_Burroughs_B1700.pdf",
+    "is_dir": false,
+    "size": "3.4 MiB",
+    "date": "01-May-2023 21:25"
+  },
+  {
+    "name": "Product_Specification_Status_Report_197704.pdf",
+    "href": "Product_Specification_Status_Report_197704.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/burroughs/SmallSystems/B1000/B1000_Internal_Memos/Product_Specification_Status_Report_197704.pdf",
+    "is_dir": false,
+    "size": "274.0 KiB",
+    "date": "18-May-2023 03:07"
+  },
+  {
+    "name": "Queue_Design_in_5.1_197602.pdf",
+    "href": "Queue_Design_in_5.1_197602.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/burroughs/SmallSystems/B1000/B1000_Internal_Memos/Queue_Design_in_5.1_197602.pdf",
+    "is_dir": false,
+    "size": "589.8 KiB",
+    "date": "22-May-2023 15:37"
+  },
+  {
+    "name": "Wilner_B1700_Design_and_Implementation_197205.pdf",
+    "href": "Wilner_B1700_Design_and_Implementation_197205.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/burroughs/SmallSystems/B1000/B1000_Internal_Memos/Wilner_B1700_Design_and_Implementation_197205.pdf",
+    "is_dir": false,
+    "size": "1.8 MiB",
+    "date": "01-May-2023 21:38"
+  },
+  {
+    "name": "_memos_by_number.txt",
+    "href": "_memos_by_number.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/burroughs/SmallSystems/B1000/B1000_Internal_Memos/_memos_by_number.txt",
+    "is_dir": false,
+    "size": "5.2 KiB",
+    "date": "25-Apr-2024 21:58"
+  }
+]

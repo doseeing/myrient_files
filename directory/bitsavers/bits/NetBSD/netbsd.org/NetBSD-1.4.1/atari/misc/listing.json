@@ -1,0 +1,66 @@
+[
+  {
+    "name": "BSDSUM",
+    "href": "BSDSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/atari/misc/BSDSUM",
+    "is_dir": false,
+    "size": "111 B",
+    "date": "06-Aug-1999 07:48"
+  },
+  {
+    "name": "CKSUM",
+    "href": "CKSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/atari/misc/CKSUM",
+    "is_dir": false,
+    "size": "141 B",
+    "date": "06-Aug-1999 07:48"
+  },
+  {
+    "name": "MD5",
+    "href": "MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/atari/misc/MD5",
+    "is_dir": false,
+    "size": "240 B",
+    "date": "06-Aug-1999 07:48"
+  },
+  {
+    "name": "README",
+    "href": "README",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/atari/misc/README",
+    "is_dir": false,
+    "size": "262 B",
+    "date": "03-Aug-1999 06:37"
+  },
+  {
+    "name": "SYSVSUM",
+    "href": "SYSVSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/atari/misc/SYSVSUM",
+    "is_dir": false,
+    "size": "111 B",
+    "date": "06-Aug-1999 07:48"
+  },
+  {
+    "name": "XF86Config.FBDev_sample",
+    "href": "XF86Config.FBDev_sample",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/atari/misc/XF86Config.FBDev_sample",
+    "is_dir": false,
+    "size": "12.3 KiB",
+    "date": "08-Jan-1998 18:40"
+  },
+  {
+    "name": "XF86Config.SVGA_sample",
+    "href": "XF86Config.SVGA_sample",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/atari/misc/XF86Config.SVGA_sample",
+    "is_dir": false,
+    "size": "17.3 KiB",
+    "date": "08-Jan-1998 18:39"
+  },
+  {
+    "name": "XF86Config.W32_sample",
+    "href": "XF86Config.W32_sample",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/atari/misc/XF86Config.W32_sample",
+    "is_dir": false,
+    "size": "17.3 KiB",
+    "date": "08-Jan-1998 18:59"
+  }
+]

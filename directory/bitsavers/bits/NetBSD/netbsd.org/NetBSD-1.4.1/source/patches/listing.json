@@ -1,0 +1,42 @@
+[
+  {
+    "name": "BSDSUM",
+    "href": "BSDSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/source/patches/BSDSUM",
+    "is_dir": false,
+    "size": "31 B",
+    "date": "23-Aug-1999 03:00"
+  },
+  {
+    "name": "CKSUM",
+    "href": "CKSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/source/patches/CKSUM",
+    "is_dir": false,
+    "size": "38 B",
+    "date": "23-Aug-1999 03:01"
+  },
+  {
+    "name": "MD5",
+    "href": "MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/source/patches/MD5",
+    "is_dir": false,
+    "size": "62 B",
+    "date": "23-Aug-1999 03:01"
+  },
+  {
+    "name": "SYSVSUM",
+    "href": "SYSVSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/source/patches/SYSVSUM",
+    "is_dir": false,
+    "size": "31 B",
+    "date": "23-Aug-1999 03:01"
+  },
+  {
+    "name": "diff-1.4-to-1.4.1.gz",
+    "href": "diff-1.4-to-1.4.1.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/source/patches/diff-1.4-to-1.4.1.gz",
+    "is_dir": false,
+    "size": "329.7 KiB",
+    "date": "23-Aug-1999 02:57"
+  }
+]

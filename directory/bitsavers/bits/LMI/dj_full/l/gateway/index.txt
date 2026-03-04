@@ -1,0 +1,21 @@
+name	is_dir	size	date
+database	True	-	21-Apr-2017 01:45
+index-sources	True	-	21-Apr-2017 01:45
+out-takes	True	-	21-Apr-2017 01:45
+all-odm-nodes.lisp.8	False	52.5 KiB	21-Apr-2017 01:32
+all-odm-symbols.lisp.2	False	241.1 KiB	21-Apr-2017 01:32
+all-odm-symbols.lisp.3	False	241.1 KiB	21-Apr-2017 01:32
+copyright.text.1	False	332 B	21-Apr-2017 01:32
+gateway-cwarns.lisp.1	False	3.1 KiB	21-Apr-2017 01:32
+odm-basics.lisp.8	False	86.8 KiB	21-Apr-2017 01:32
+odm-commands.lisp.11	False	52.3 KiB	21-Apr-2017 01:32
+odm-dired-environment.lisp.22	False	20.0 KiB	21-Apr-2017 01:32
+odm-manager.lisp.26	False	31.6 KiB	21-Apr-2017 01:32
+odm-startup.lisp.2	False	11.2 KiB	21-Apr-2017 01:32
+odm-utilities.lisp.1	False	10.6 KiB	21-Apr-2017 01:32
+odm-zwei.lisp.3	False	36.8 KiB	21-Apr-2017 01:32
+odm-zwei.lisp.4	False	36.8 KiB	21-Apr-2017 01:32
+patch-6.directory.2	False	668 B	21-Apr-2017 01:32
+patch.directory.6	False	545 B	21-Apr-2017 01:32
+patch.directory.7	False	521 B	21-Apr-2017 01:32
+sysdef.lisp.4	False	848 B	21-Apr-2017 01:32

@@ -1,0 +1,242 @@
+[
+  {
+    "name": "copyright.text.1",
+    "href": "copyright.text.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/micro-compiler/copyright.text.1",
+    "is_dir": false,
+    "size": "499 B",
+    "date": "21-Apr-2017 01:33"
+  },
+  {
+    "name": "distribution.lisp.3",
+    "href": "distribution.lisp.3",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/micro-compiler/distribution.lisp.3",
+    "is_dir": false,
+    "size": "916 B",
+    "date": "21-Apr-2017 01:33"
+  },
+  {
+    "name": "gjc-tests.lisp.2",
+    "href": "gjc-tests.lisp.2",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/micro-compiler/gjc-tests.lisp.2",
+    "is_dir": false,
+    "size": "1.9 KiB",
+    "date": "21-Apr-2017 01:33"
+  },
+  {
+    "name": "ma.lisp.95",
+    "href": "ma.lisp.95",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/micro-compiler/ma.lisp.95",
+    "is_dir": false,
+    "size": "90.0 KiB",
+    "date": "21-Apr-2017 01:33"
+  },
+  {
+    "name": "ma.lisp.96",
+    "href": "ma.lisp.96",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/micro-compiler/ma.lisp.96",
+    "is_dir": false,
+    "size": "90.3 KiB",
+    "date": "21-Apr-2017 01:33"
+  },
+  {
+    "name": "madefs.lisp.19",
+    "href": "madefs.lisp.19",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/micro-compiler/madefs.lisp.19",
+    "is_dir": false,
+    "size": "19.2 KiB",
+    "date": "21-Apr-2017 01:33"
+  },
+  {
+    "name": "maopt.lisp.84",
+    "href": "maopt.lisp.84",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/micro-compiler/maopt.lisp.84",
+    "is_dir": false,
+    "size": "56.8 KiB",
+    "date": "21-Apr-2017 01:33"
+  },
+  {
+    "name": "maopt.lisp.85",
+    "href": "maopt.lisp.85",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/micro-compiler/maopt.lisp.85",
+    "is_dir": false,
+    "size": "56.9 KiB",
+    "date": "21-Apr-2017 01:33"
+  },
+  {
+    "name": "mc.lisp.34",
+    "href": "mc.lisp.34",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/micro-compiler/mc.lisp.34",
+    "is_dir": false,
+    "size": "48.3 KiB",
+    "date": "21-Apr-2017 01:33"
+  },
+  {
+    "name": "meta-1.directory.1",
+    "href": "meta-1.directory.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/micro-compiler/meta-1.directory.1",
+    "is_dir": false,
+    "size": "432 B",
+    "date": "21-Apr-2017 01:33"
+  },
+  {
+    "name": "meta-2.directory.1",
+    "href": "meta-2.directory.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/micro-compiler/meta-2.directory.1",
+    "is_dir": false,
+    "size": "628 B",
+    "date": "21-Apr-2017 01:33"
+  },
+  {
+    "name": "meta-d.lisp.1",
+    "href": "meta-d.lisp.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/micro-compiler/meta-d.lisp.1",
+    "is_dir": false,
+    "size": "13.4 KiB",
+    "date": "21-Apr-2017 01:33"
+  },
+  {
+    "name": "meta-r.lisp.1",
+    "href": "meta-r.lisp.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/micro-compiler/meta-r.lisp.1",
+    "is_dir": false,
+    "size": "2.5 KiB",
+    "date": "21-Apr-2017 01:33"
+  },
+  {
+    "name": "meta-sys.lisp.1",
+    "href": "meta-sys.lisp.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/micro-compiler/meta-sys.lisp.1",
+    "is_dir": false,
+    "size": "319 B",
+    "date": "21-Apr-2017 01:33"
+  },
+  {
+    "name": "meta.directory.1",
+    "href": "meta.directory.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/micro-compiler/meta.directory.1",
+    "is_dir": false,
+    "size": "352 B",
+    "date": "21-Apr-2017 01:33"
+  },
+  {
+    "name": "meta.directory.2",
+    "href": "meta.directory.2",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/micro-compiler/meta.directory.2",
+    "is_dir": false,
+    "size": "547 B",
+    "date": "21-Apr-2017 01:33"
+  },
+  {
+    "name": "meta.lisp.1",
+    "href": "meta.lisp.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/micro-compiler/meta.lisp.1",
+    "is_dir": false,
+    "size": "24.2 KiB",
+    "date": "21-Apr-2017 01:33"
+  },
+  {
+    "name": "meta.lisp.2",
+    "href": "meta.lisp.2",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/micro-compiler/meta.lisp.2",
+    "is_dir": false,
+    "size": "24.4 KiB",
+    "date": "21-Apr-2017 01:33"
+  },
+  {
+    "name": "micro-compilation-tools-3-1.lisp.1",
+    "href": "micro-compilation-tools-3-1.lisp.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/micro-compiler/micro-compilation-tools-3-1.lisp.1",
+    "is_dir": false,
+    "size": "2.8 KiB",
+    "date": "21-Apr-2017 01:33"
+  },
+  {
+    "name": "micro-compilation-tools-3-2.lisp.1",
+    "href": "micro-compilation-tools-3-2.lisp.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/micro-compiler/micro-compilation-tools-3-2.lisp.1",
+    "is_dir": false,
+    "size": "1.9 KiB",
+    "date": "21-Apr-2017 01:33"
+  },
+  {
+    "name": "micro-compilation-tools-3-3.lisp.4",
+    "href": "micro-compilation-tools-3-3.lisp.4",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/micro-compiler/micro-compilation-tools-3-3.lisp.4",
+    "is_dir": false,
+    "size": "1.2 KiB",
+    "date": "21-Apr-2017 01:33"
+  },
+  {
+    "name": "micro-compilation-tools-3-4.lisp.1",
+    "href": "micro-compilation-tools-3-4.lisp.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/micro-compiler/micro-compilation-tools-3-4.lisp.1",
+    "is_dir": false,
+    "size": "3.3 KiB",
+    "date": "21-Apr-2017 01:33"
+  },
+  {
+    "name": "micro-compilation-tools-3.patch-directory.4",
+    "href": "micro-compilation-tools-3.patch-directory.4",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/micro-compiler/micro-compilation-tools-3.patch-directory.4",
+    "is_dir": false,
+    "size": "1014 B",
+    "date": "21-Apr-2017 01:33"
+  },
+  {
+    "name": "micro-compilation-tools-3.patch-directory.5",
+    "href": "micro-compilation-tools-3.patch-directory.5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/micro-compiler/micro-compilation-tools-3.patch-directory.5",
+    "is_dir": false,
+    "size": "1.1 KiB",
+    "date": "21-Apr-2017 01:33"
+  },
+  {
+    "name": "micro-compilation-tools.patch-directory.4",
+    "href": "micro-compilation-tools.patch-directory.4",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/micro-compiler/micro-compilation-tools.patch-directory.4",
+    "is_dir": false,
+    "size": "418 B",
+    "date": "21-Apr-2017 01:33"
+  },
+  {
+    "name": "mlap.lisp.63",
+    "href": "mlap.lisp.63",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/micro-compiler/mlap.lisp.63",
+    "is_dir": false,
+    "size": "40.8 KiB",
+    "date": "21-Apr-2017 01:33"
+  },
+  {
+    "name": "mlap.lisp.64",
+    "href": "mlap.lisp.64",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/micro-compiler/mlap.lisp.64",
+    "is_dir": false,
+    "size": "40.8 KiB",
+    "date": "21-Apr-2017 01:33"
+  },
+  {
+    "name": "required-functions-and-macros.lisp.2",
+    "href": "required-functions-and-macros.lisp.2",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/micro-compiler/required-functions-and-macros.lisp.2",
+    "is_dir": false,
+    "size": "2.0 KiB",
+    "date": "21-Apr-2017 01:33"
+  },
+  {
+    "name": "sysdef.lisp.6",
+    "href": "sysdef.lisp.6",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/micro-compiler/sysdef.lisp.6",
+    "is_dir": false,
+    "size": "2.6 KiB",
+    "date": "21-Apr-2017 01:33"
+  },
+  {
+    "name": "usymld.lisp.2",
+    "href": "usymld.lisp.2",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/micro-compiler/usymld.lisp.2",
+    "is_dir": false,
+    "size": "49.7 KiB",
+    "date": "21-Apr-2017 01:33"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "name": "index",
+    "href": "index/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/cref/index/",
+    "is_dir": true,
+    "size": null,
+    "date": "10-Mar-2006 08:07"
+  },
+  {
+    "name": "src",
+    "href": "src/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/cref/src/",
+    "is_dir": true,
+    "size": null,
+    "date": "10-Mar-2006 08:07"
+  },
+  {
+    "name": "tab",
+    "href": "tab/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/cref/tab/",
+    "is_dir": true,
+    "size": null,
+    "date": "10-Mar-2006 08:07"
+  },
+  {
+    "name": "READ_ME",
+    "href": "READ_ME",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/cref/READ_ME",
+    "is_dir": false,
+    "size": "38 B",
+    "date": "01-Aug-1978 07:46"
+  },
+  {
+    "name": "ccmn.h",
+    "href": "ccmn.h",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/cref/ccmn.h",
+    "is_dir": false,
+    "size": "1.2 KiB",
+    "date": "23-Jul-1978 06:54"
+  },
+  {
+    "name": "ecmn.h",
+    "href": "ecmn.h",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/cref/ecmn.h",
+    "is_dir": false,
+    "size": "1.1 KiB",
+    "date": "23-Jul-1978 06:56"
+  },
+  {
+    "name": "econs.h",
+    "href": "econs.h",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/cref/econs.h",
+    "is_dir": false,
+    "size": "362 B",
+    "date": "10-Dec-1977 07:09"
+  },
+  {
+    "name": "install",
+    "href": "install",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/cref/install",
+    "is_dir": false,
+    "size": "433 B",
+    "date": "12-Nov-1978 16:57"
+  },
+  {
+    "name": "make",
+    "href": "make",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/cref/make",
+    "is_dir": false,
+    "size": "207 B",
+    "date": "12-Nov-1978 16:57"
+  },
+  {
+    "name": "mcons.h",
+    "href": "mcons.h",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/cref/mcons.h",
+    "is_dir": false,
+    "size": "489 B",
+    "date": "10-Dec-1977 07:09"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "name": "BSDSUM",
+    "href": "BSDSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/mvme68k/binary/kernel/BSDSUM",
+    "is_dir": false,
+    "size": "109 B",
+    "date": "21-Nov-2000 18:37"
+  },
+  {
+    "name": "CKSUM",
+    "href": "CKSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/mvme68k/binary/kernel/CKSUM",
+    "is_dir": false,
+    "size": "140 B",
+    "date": "21-Nov-2000 18:37"
+  },
+  {
+    "name": "MD5",
+    "href": "MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/mvme68k/binary/kernel/MD5",
+    "is_dir": false,
+    "size": "233 B",
+    "date": "21-Nov-2000 18:37"
+  },
+  {
+    "name": "SYSVSUM",
+    "href": "SYSVSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/mvme68k/binary/kernel/SYSVSUM",
+    "is_dir": false,
+    "size": "112 B",
+    "date": "21-Nov-2000 18:37"
+  },
+  {
+    "name": "netbsd.GENERIC.gz",
+    "href": "netbsd.GENERIC.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/mvme68k/binary/kernel/netbsd.GENERIC.gz",
+    "is_dir": false,
+    "size": "650.7 KiB",
+    "date": "20-Nov-2000 22:14"
+  },
+  {
+    "name": "netbsd.VME147.gz",
+    "href": "netbsd.VME147.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/mvme68k/binary/kernel/netbsd.VME147.gz",
+    "is_dir": false,
+    "size": "450.0 KiB",
+    "date": "21-Nov-2000 18:34"
+  },
+  {
+    "name": "netbsd.VME162.gz",
+    "href": "netbsd.VME162.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/mvme68k/binary/kernel/netbsd.VME162.gz",
+    "is_dir": false,
+    "size": "518.0 KiB",
+    "date": "21-Nov-2000 18:35"
+  },
+  {
+    "name": "netbsd.VME167.gz",
+    "href": "netbsd.VME167.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/mvme68k/binary/kernel/netbsd.VME167.gz",
+    "is_dir": false,
+    "size": "549.6 KiB",
+    "date": "21-Nov-2000 18:36"
+  }
+]

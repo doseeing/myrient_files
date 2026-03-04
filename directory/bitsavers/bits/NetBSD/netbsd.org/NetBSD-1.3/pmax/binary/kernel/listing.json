@@ -1,0 +1,58 @@
+[
+  {
+    "name": "BSDSUM",
+    "href": "BSDSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/pmax/binary/kernel/BSDSUM",
+    "is_dir": false,
+    "size": "71 B",
+    "date": "18-Jan-1998 23:07"
+  },
+  {
+    "name": "CKSUM",
+    "href": "CKSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/pmax/binary/kernel/CKSUM",
+    "is_dir": false,
+    "size": "97 B",
+    "date": "18-Jan-1998 23:07"
+  },
+  {
+    "name": "MD5SUM",
+    "href": "MD5SUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/pmax/binary/kernel/MD5SUM",
+    "is_dir": false,
+    "size": "164 B",
+    "date": "18-Jan-1998 23:07"
+  },
+  {
+    "name": "SYSVSUM",
+    "href": "SYSVSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/pmax/binary/kernel/SYSVSUM",
+    "is_dir": false,
+    "size": "74 B",
+    "date": "18-Jan-1998 23:07"
+  },
+  {
+    "name": "netbsd.aout",
+    "href": "netbsd.aout",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/pmax/binary/kernel/netbsd.aout",
+    "is_dir": false,
+    "size": "1.3 MiB",
+    "date": "30-Dec-1997 09:18"
+  },
+  {
+    "name": "netbsd.ecoff",
+    "href": "netbsd.ecoff",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/pmax/binary/kernel/netbsd.ecoff",
+    "is_dir": false,
+    "size": "1.3 MiB",
+    "date": "30-Dec-1997 09:18"
+  },
+  {
+    "name": "nfsnetbsd.ecoff",
+    "href": "nfsnetbsd.ecoff",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/pmax/binary/kernel/nfsnetbsd.ecoff",
+    "is_dir": false,
+    "size": "970.8 KiB",
+    "date": "30-Dec-1997 09:24"
+  }
+]

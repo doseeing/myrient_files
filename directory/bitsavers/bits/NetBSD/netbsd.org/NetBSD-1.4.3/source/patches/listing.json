@@ -1,0 +1,58 @@
+[
+  {
+    "name": "BSDSUM",
+    "href": "BSDSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/source/patches/BSDSUM",
+    "is_dir": false,
+    "size": "69 B",
+    "date": "26-Nov-2000 17:10"
+  },
+  {
+    "name": "CKSUM",
+    "href": "CKSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/source/patches/CKSUM",
+    "is_dir": false,
+    "size": "90 B",
+    "date": "26-Nov-2000 17:10"
+  },
+  {
+    "name": "MD5",
+    "href": "MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/source/patches/MD5",
+    "is_dir": false,
+    "size": "167 B",
+    "date": "26-Nov-2000 17:10"
+  },
+  {
+    "name": "README",
+    "href": "README",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/source/patches/README",
+    "is_dir": false,
+    "size": "844 B",
+    "date": "26-Nov-2000 17:10"
+  },
+  {
+    "name": "SYSVSUM",
+    "href": "SYSVSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/source/patches/SYSVSUM",
+    "is_dir": false,
+    "size": "68 B",
+    "date": "26-Nov-2000 17:10"
+  },
+  {
+    "name": "bind-to-8.2.2-P7.diff",
+    "href": "bind-to-8.2.2-P7.diff",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/source/patches/bind-to-8.2.2-P7.diff",
+    "is_dir": false,
+    "size": "33.1 KiB",
+    "date": "18-Nov-2000 22:46"
+  },
+  {
+    "name": "ipnat-fix.diff",
+    "href": "ipnat-fix.diff",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/source/patches/ipnat-fix.diff",
+    "is_dir": false,
+    "size": "508 B",
+    "date": "26-Nov-2000 17:08"
+  }
+]

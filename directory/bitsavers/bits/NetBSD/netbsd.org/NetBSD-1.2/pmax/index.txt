@@ -1,0 +1,15 @@
+name	is_dir	size	date
+mdec	True	-	30-Sep-2023 17:20
+netboot	True	-	30-Sep-2023 17:20
+src	True	-	30-Sep-2023 17:20
+CKSUMS	False	244 B	25-Sep-1996 09:55
+INSTALL	False	36.0 KiB	01-Oct-1996 00:26
+SUMS	False	183 B	25-Sep-1996 18:58
+base.tar.gz	False	19.5 MiB	17-Sep-1996 09:32
+comp.tar.gz	False	7.1 MiB	17-Sep-1996 03:00
+etc.tar.gz	False	67.4 KiB	17-Sep-1996 01:36
+games.tar.gz	False	4.5 MiB	17-Sep-1996 01:45
+man.tar.gz	False	870.3 KiB	17-Sep-1996 03:02
+miniroot-1.2.gz	False	2.6 MiB	25-Sep-1996 09:23
+misc.tar.gz	False	1.8 MiB	17-Sep-1996 01:50
+text.tar.gz	False	1.2 MiB	17-Sep-1996 01:53

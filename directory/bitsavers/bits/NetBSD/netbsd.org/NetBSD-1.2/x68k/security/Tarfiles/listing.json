@@ -1,0 +1,18 @@
+[
+  {
+    "name": "CKSUMS",
+    "href": "CKSUMS",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/x68k/security/Tarfiles/CKSUMS",
+    "is_dir": false,
+    "size": "32 B",
+    "date": "24-Sep-1996 02:32"
+  },
+  {
+    "name": "secr12.tar.gz",
+    "href": "secr12.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/x68k/security/Tarfiles/secr12.tar.gz",
+    "is_dir": false,
+    "size": "133.0 KiB",
+    "date": "24-Sep-1996 02:32"
+  }
+]

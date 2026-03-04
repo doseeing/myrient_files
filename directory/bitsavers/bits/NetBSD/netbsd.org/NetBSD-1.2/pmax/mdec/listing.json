@@ -1,0 +1,26 @@
+[
+  {
+    "name": "bootrz",
+    "href": "bootrz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/pmax/mdec/bootrz",
+    "is_dir": false,
+    "size": "7.5 KiB",
+    "date": "12-Apr-1995 23:33"
+  },
+  {
+    "name": "rzboot",
+    "href": "rzboot",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/pmax/mdec/rzboot",
+    "is_dir": false,
+    "size": "512 B",
+    "date": "12-Apr-1995 23:33"
+  },
+  {
+    "name": "ultrix4.2a-disklabel",
+    "href": "ultrix4.2a-disklabel",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/pmax/mdec/ultrix4.2a-disklabel",
+    "is_dir": false,
+    "size": "125.9 KiB",
+    "date": "25-Sep-1996 09:09"
+  }
+]

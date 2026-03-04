@@ -1,0 +1,122 @@
+[
+  {
+    "name": "READ_ME",
+    "href": "READ_ME",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/yacc/READ_ME",
+    "is_dir": false,
+    "size": "81 B",
+    "date": "01-Aug-1978 08:36"
+  },
+  {
+    "name": "dextern",
+    "href": "dextern",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/yacc/dextern",
+    "is_dir": false,
+    "size": "4.3 KiB",
+    "date": "28-Oct-1977 06:15"
+  },
+  {
+    "name": "install",
+    "href": "install",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/yacc/install",
+    "is_dir": false,
+    "size": "60 B",
+    "date": "12-Nov-1978 17:11"
+  },
+  {
+    "name": "main.c",
+    "href": "main.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/yacc/main.c",
+    "is_dir": false,
+    "size": "112 B",
+    "date": "30-Oct-1977 08:25"
+  },
+  {
+    "name": "make",
+    "href": "make",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/yacc/make",
+    "is_dir": false,
+    "size": "76 B",
+    "date": "12-Nov-1978 16:35"
+  },
+  {
+    "name": "y0.c",
+    "href": "y0.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/yacc/y0.c",
+    "is_dir": false,
+    "size": "3.9 KiB",
+    "date": "23-Jul-1978 05:33"
+  },
+  {
+    "name": "y1.c",
+    "href": "y1.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/yacc/y1.c",
+    "is_dir": false,
+    "size": "6.5 KiB",
+    "date": "23-Jul-1978 05:39"
+  },
+  {
+    "name": "y2.c",
+    "href": "y2.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/yacc/y2.c",
+    "is_dir": false,
+    "size": "11.9 KiB",
+    "date": "23-Jul-1978 05:33"
+  },
+  {
+    "name": "y3.c",
+    "href": "y3.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/yacc/y3.c",
+    "is_dir": false,
+    "size": "9.5 KiB",
+    "date": "23-Jul-1978 05:39"
+  },
+  {
+    "name": "y4.c",
+    "href": "y4.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/yacc/y4.c",
+    "is_dir": false,
+    "size": "9.8 KiB",
+    "date": "28-Oct-1977 06:16"
+  },
+  {
+    "name": "y5.c",
+    "href": "y5.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/yacc/y5.c",
+    "is_dir": false,
+    "size": "573 B",
+    "date": "28-Oct-1977 06:16"
+  },
+  {
+    "name": "yyaccpt.c",
+    "href": "yyaccpt.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/yacc/yyaccpt.c",
+    "is_dir": false,
+    "size": "12 B",
+    "date": "30-Oct-1977 08:27"
+  },
+  {
+    "name": "yyerror.c",
+    "href": "yyerror.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/yacc/yyerror.c",
+    "is_dir": false,
+    "size": "477 B",
+    "date": "30-Oct-1977 08:27"
+  },
+  {
+    "name": "yyinit.c",
+    "href": "yyinit.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/yacc/yyinit.c",
+    "is_dir": false,
+    "size": "11 B",
+    "date": "30-Oct-1977 08:27"
+  },
+  {
+    "name": "yyparse.c",
+    "href": "yyparse.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/yacc/yyparse.c",
+    "is_dir": false,
+    "size": "3.2 KiB",
+    "date": "30-Oct-1977 09:00"
+  }
+]

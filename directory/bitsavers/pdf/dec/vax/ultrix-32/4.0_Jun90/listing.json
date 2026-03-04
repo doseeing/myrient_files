@@ -1,0 +1,770 @@
+[
+  {
+    "name": "binder_tags",
+    "href": "binder_tags/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/ultrix-32/4.0_Jun90/binder_tags/",
+    "is_dir": true,
+    "size": null,
+    "date": "30-Dec-2019 00:23"
+  },
+  {
+    "name": "AA-HF07E-TN_Ultrix_4.0_Worksystem_Software_Release_Notes_Jun90.pdf",
+    "href": "AA-HF07E-TN_Ultrix_4.0_Worksystem_Software_Release_Notes_Jun90.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/ultrix-32/4.0_Jun90/AA-HF07E-TN_Ultrix_4.0_Worksystem_Software_Release_Notes_Jun90.pdf",
+    "is_dir": false,
+    "size": "4.4 MiB",
+    "date": "30-Dec-2019 00:23"
+  },
+  {
+    "name": "AA-KU50B-TE_Guide_to_the_uwm_Window_Manager_1988.pdf",
+    "href": "AA-KU50B-TE_Guide_to_the_uwm_Window_Manager_1988.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/ultrix-32/4.0_Jun90/AA-KU50B-TE_Guide_to_the_uwm_Window_Manager_1988.pdf",
+    "is_dir": false,
+    "size": "1.4 MiB",
+    "date": "30-Dec-2019 00:23"
+  },
+  {
+    "name": "AA-LY15B-TE_ULTRIX_4.0_Reference_Pages_Section_2_System_Calls_Jun1990.pdf",
+    "href": "AA-LY15B-TE_ULTRIX_4.0_Reference_Pages_Section_2_System_Calls_Jun1990.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/ultrix-32/4.0_Jun90/AA-LY15B-TE_ULTRIX_4.0_Reference_Pages_Section_2_System_Calls_Jun1990.pdf",
+    "is_dir": false,
+    "size": "12.5 MiB",
+    "date": "29-Dec-2019 02:34"
+  },
+  {
+    "name": "AA-LY16B-TE_ULTRIX_4.0_Reference_Pages_Section_3_Library_Routines_Jun1990.pdf",
+    "href": "AA-LY16B-TE_ULTRIX_4.0_Reference_Pages_Section_3_Library_Routines_Jun1990.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/ultrix-32/4.0_Jun90/AA-LY16B-TE_ULTRIX_4.0_Reference_Pages_Section_3_Library_Routines_Jun1990.pdf",
+    "is_dir": false,
+    "size": "29.6 MiB",
+    "date": "29-Dec-2019 02:34"
+  },
+  {
+    "name": "AA-LY17B-TE_ULTRIX_4.0_Reference_Pages_Section_4_Special_Files_Jun90.pdf",
+    "href": "AA-LY17B-TE_ULTRIX_4.0_Reference_Pages_Section_4_Special_Files_Jun90.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/ultrix-32/4.0_Jun90/AA-LY17B-TE_ULTRIX_4.0_Reference_Pages_Section_4_Special_Files_Jun90.pdf",
+    "is_dir": false,
+    "size": "8.2 MiB",
+    "date": "30-Dec-2019 00:23"
+  },
+  {
+    "name": "AA-LY18B-TE_ULTRIX_4.0_Reference_Pages_Section_5_File_Formats_Jun90.pdf",
+    "href": "AA-LY18B-TE_ULTRIX_4.0_Reference_Pages_Section_5_File_Formats_Jun90.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/ultrix-32/4.0_Jun90/AA-LY18B-TE_ULTRIX_4.0_Reference_Pages_Section_5_File_Formats_Jun90.pdf",
+    "is_dir": false,
+    "size": "9.3 MiB",
+    "date": "30-Dec-2019 00:23"
+  },
+  {
+    "name": "AA-LY19B-TE_ULTRIX_4.0_Reference_Pages_Section_7_Macro_Packages_and_Conventions_Jun90.pdf",
+    "href": "AA-LY19B-TE_ULTRIX_4.0_Reference_Pages_Section_7_Macro_Packages_and_Conventions_Jun90.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/ultrix-32/4.0_Jun90/AA-LY19B-TE_ULTRIX_4.0_Reference_Pages_Section_7_Macro_Packages_and_Conventions_Jun90.pdf",
+    "is_dir": false,
+    "size": "2.5 MiB",
+    "date": "30-Dec-2019 16:39"
+  },
+  {
+    "name": "AA-LY20B-TE_ULTRIX_4.0_Reference_Pages_Section_8_Maintenance_Jun90.pdf",
+    "href": "AA-LY20B-TE_ULTRIX_4.0_Reference_Pages_Section_8_Maintenance_Jun90.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/ultrix-32/4.0_Jun90/AA-LY20B-TE_ULTRIX_4.0_Reference_Pages_Section_8_Maintenance_Jun90.pdf",
+    "is_dir": false,
+    "size": "15.8 MiB",
+    "date": "30-Dec-2019 00:23"
+  },
+  {
+    "name": "AA-LY21B-TE_Guide_to_the_BIND_Hesiod_Service_Jun90.pdf",
+    "href": "AA-LY21B-TE_Guide_to_the_BIND_Hesiod_Service_Jun90.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/ultrix-32/4.0_Jun90/AA-LY21B-TE_Guide_to_the_BIND_Hesiod_Service_Jun90.pdf",
+    "is_dir": false,
+    "size": "3.8 MiB",
+    "date": "30-Dec-2019 16:39"
+  },
+  {
+    "name": "AA-LY25C-TE_POSIX_Conformance_Document_Jun1990.pdf",
+    "href": "AA-LY25C-TE_POSIX_Conformance_Document_Jun1990.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/ultrix-32/4.0_Jun90/AA-LY25C-TE_POSIX_Conformance_Document_Jun1990.pdf",
+    "is_dir": false,
+    "size": "2.0 MiB",
+    "date": "30-Dec-2019 02:36"
+  },
+  {
+    "name": "AA-LY26B-TE_Guide_to_Developing_International_Software_Jun1990.pdf",
+    "href": "AA-LY26B-TE_Guide_to_Developing_International_Software_Jun1990.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/ultrix-32/4.0_Jun90/AA-LY26B-TE_Guide_to_Developing_International_Software_Jun1990.pdf",
+    "is_dir": false,
+    "size": "2.1 MiB",
+    "date": "30-Dec-2019 02:36"
+  },
+  {
+    "name": "AA-LY27B-TE_Guide_to_X_Open_curses_Screen_Handling_Jun1990.pdf",
+    "href": "AA-LY27B-TE_Guide_to_X_Open_curses_Screen_Handling_Jun1990.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/ultrix-32/4.0_Jun90/AA-LY27B-TE_Guide_to_X_Open_curses_Screen_Handling_Jun1990.pdf",
+    "is_dir": false,
+    "size": "1.8 MiB",
+    "date": "30-Dec-2019 02:36"
+  },
+  {
+    "name": "AA-MA85C-TE_Ultrix_4.0_Workstation_Software_Reference_Pages_Sections_1X_and_8X_Jun1990.pdf",
+    "href": "AA-MA85C-TE_Ultrix_4.0_Workstation_Software_Reference_Pages_Sections_1X_and_8X_Jun1990.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/ultrix-32/4.0_Jun90/AA-MA85C-TE_Ultrix_4.0_Workstation_Software_Reference_Pages_Sections_1X_and_8X_Jun1990.pdf",
+    "is_dir": false,
+    "size": "5.0 MiB",
+    "date": "30-Dec-2019 00:23"
+  },
+  {
+    "name": "AA-MA86D-TE_Introduction_to_the_ULTRIX_Workstation_Software_Environment_Jun1990.pdf",
+    "href": "AA-MA86D-TE_Introduction_to_the_ULTRIX_Workstation_Software_Environment_Jun1990.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/ultrix-32/4.0_Jun90/AA-MA86D-TE_Introduction_to_the_ULTRIX_Workstation_Software_Environment_Jun1990.pdf",
+    "is_dir": false,
+    "size": "2.2 MiB",
+    "date": "30-Dec-2019 02:36"
+  },
+  {
+    "name": "AA-MA87A-TE_DECwindows_Users_Guide_1988.pdf",
+    "href": "AA-MA87A-TE_DECwindows_Users_Guide_1988.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/ultrix-32/4.0_Jun90/AA-MA87A-TE_DECwindows_Users_Guide_1988.pdf",
+    "is_dir": false,
+    "size": "3.4 MiB",
+    "date": "30-Dec-2019 02:36"
+  },
+  {
+    "name": "AA-MA87B-TE_DECwindows_Users_Guide_1989.pdf",
+    "href": "AA-MA87B-TE_DECwindows_Users_Guide_1989.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/ultrix-32/4.0_Jun90/AA-MA87B-TE_DECwindows_Users_Guide_1989.pdf",
+    "is_dir": false,
+    "size": "4.2 MiB",
+    "date": "30-Dec-2019 02:36"
+  },
+  {
+    "name": "AA-MA88A-TE_DECwindows_Desktop_Applications_Guide_1988.pdf",
+    "href": "AA-MA88A-TE_DECwindows_Desktop_Applications_Guide_1988.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/ultrix-32/4.0_Jun90/AA-MA88A-TE_DECwindows_Desktop_Applications_Guide_1988.pdf",
+    "is_dir": false,
+    "size": "5.1 MiB",
+    "date": "30-Dec-2019 02:36"
+  },
+  {
+    "name": "AA-MA88B-TE_DECwindows_Desktop_Applications_Guide_1989.pdf",
+    "href": "AA-MA88B-TE_DECwindows_Desktop_Applications_Guide_1989.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/ultrix-32/4.0_Jun90/AA-MA88B-TE_DECwindows_Desktop_Applications_Guide_1989.pdf",
+    "is_dir": false,
+    "size": "6.3 MiB",
+    "date": "30-Dec-2019 02:36"
+  },
+  {
+    "name": "AA-MA89A-TE_Guide_to_the_dxdiff_Visual_Differences_Program_1988.pdf",
+    "href": "AA-MA89A-TE_Guide_to_the_dxdiff_Visual_Differences_Program_1988.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/ultrix-32/4.0_Jun90/AA-MA89A-TE_Guide_to_the_dxdiff_Visual_Differences_Program_1988.pdf",
+    "is_dir": false,
+    "size": "695.8 KiB",
+    "date": "30-Dec-2019 02:36"
+  },
+  {
+    "name": "AA-MA89B-TE_Guide_to_the_dxdiff_Visual_Differences_Program_1989.pdf",
+    "href": "AA-MA89B-TE_Guide_to_the_dxdiff_Visual_Differences_Program_1989.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/ultrix-32/4.0_Jun90/AA-MA89B-TE_Guide_to_the_dxdiff_Visual_Differences_Program_1989.pdf",
+    "is_dir": false,
+    "size": "739.2 KiB",
+    "date": "30-Dec-2019 02:36"
+  },
+  {
+    "name": "AA-MA93B-TE_Guide_to_the_dxdb_Debugger_1989.pdf",
+    "href": "AA-MA93B-TE_Guide_to_the_dxdb_Debugger_1989.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/ultrix-32/4.0_Jun90/AA-MA93B-TE_Guide_to_the_dxdb_Debugger_1989.pdf",
+    "is_dir": false,
+    "size": "1.3 MiB",
+    "date": "30-Dec-2019 02:36"
+  },
+  {
+    "name": "AA-MA95B-TE_Guide_to_the_XUI_Toolkit_C_Language_Binding_1989.pdf",
+    "href": "AA-MA95B-TE_Guide_to_the_XUI_Toolkit_C_Language_Binding_1989.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/ultrix-32/4.0_Jun90/AA-MA95B-TE_Guide_to_the_XUI_Toolkit_C_Language_Binding_1989.pdf",
+    "is_dir": false,
+    "size": "15.5 MiB",
+    "date": "30-Dec-2019 02:37"
+  },
+  {
+    "name": "AA-MA96A-TE_Guide_to_the_XUI_Toolkit_Intrinsics_C_Language_Binding_1988.pdf",
+    "href": "AA-MA96A-TE_Guide_to_the_XUI_Toolkit_Intrinsics_C_Language_Binding_1988.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/ultrix-32/4.0_Jun90/AA-MA96A-TE_Guide_to_the_XUI_Toolkit_Intrinsics_C_Language_Binding_1988.pdf",
+    "is_dir": false,
+    "size": "8.7 MiB",
+    "date": "30-Dec-2019 02:37"
+  },
+  {
+    "name": "AA-MA98A-TE_X_Window_System_Protocol_X_Version_11_1988.pdf",
+    "href": "AA-MA98A-TE_X_Window_System_Protocol_X_Version_11_1988.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/ultrix-32/4.0_Jun90/AA-MA98A-TE_X_Window_System_Protocol_X_Version_11_1988.pdf",
+    "is_dir": false,
+    "size": "7.9 MiB",
+    "date": "30-Dec-2019 02:37"
+  },
+  {
+    "name": "AA-MA99B-TE_Reference_Pages_Sections_3Dwt_3X11_and_3Xt_1989.pdf",
+    "href": "AA-MA99B-TE_Reference_Pages_Sections_3Dwt_3X11_and_3Xt_1989.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/ultrix-32/4.0_Jun90/AA-MA99B-TE_Reference_Pages_Sections_3Dwt_3X11_and_3Xt_1989.pdf",
+    "is_dir": false,
+    "size": "20.9 MiB",
+    "date": "30-Dec-2019 02:37"
+  },
+  {
+    "name": "AA-ME00B-TE_Ultrix_4.0_Guide_to_the_Yellow_Pages_Service_Jun1990.pdf",
+    "href": "AA-ME00B-TE_Ultrix_4.0_Guide_to_the_Yellow_Pages_Service_Jun1990.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/ultrix-32/4.0_Jun90/AA-ME00B-TE_Ultrix_4.0_Guide_to_the_Yellow_Pages_Service_Jun1990.pdf",
+    "is_dir": false,
+    "size": "2.5 MiB",
+    "date": "30-Dec-2019 16:41"
+  },
+  {
+    "name": "AA-ME82B-TE_Ultrix_4.0_Readers_Guide_and_Master_Index_Jun1990.pdf",
+    "href": "AA-ME82B-TE_Ultrix_4.0_Readers_Guide_and_Master_Index_Jun1990.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/ultrix-32/4.0_Jun90/AA-ME82B-TE_Ultrix_4.0_Readers_Guide_and_Master_Index_Jun1990.pdf",
+    "is_dir": false,
+    "size": "3.1 MiB",
+    "date": "30-Dec-2019 00:23"
+  },
+  {
+    "name": "AA-ME83B-TE_Guide_to_VAX_C_for_ULTRIX_4.0_199006.pdf",
+    "href": "AA-ME83B-TE_Guide_to_VAX_C_for_ULTRIX_4.0_199006.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/ultrix-32/4.0_Jun90/AA-ME83B-TE_Guide_to_VAX_C_for_ULTRIX_4.0_199006.pdf",
+    "is_dir": false,
+    "size": "13.5 MiB",
+    "date": "11-Jul-2021 21:11"
+  },
+  {
+    "name": "AA-ME84B-TE_Guide_to_the_Source_Code_Control_System_199006.pdf",
+    "href": "AA-ME84B-TE_Guide_to_the_Source_Code_Control_System_199006.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/ultrix-32/4.0_Jun90/AA-ME84B-TE_Guide_to_the_Source_Code_Control_System_199006.pdf",
+    "is_dir": false,
+    "size": "1.5 MiB",
+    "date": "11-Jul-2021 21:11"
+  },
+  {
+    "name": "AA-ME90D-TE_Ultrix_4.0_Guide_to_Configuration_File_Maintenance_Dec1991.pdf",
+    "href": "AA-ME90D-TE_Ultrix_4.0_Guide_to_Configuration_File_Maintenance_Dec1991.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/ultrix-32/4.0_Jun90/AA-ME90D-TE_Ultrix_4.0_Guide_to_Configuration_File_Maintenance_Dec1991.pdf",
+    "is_dir": false,
+    "size": "2.8 MiB",
+    "date": "30-Dec-2019 16:43"
+  },
+  {
+    "name": "AA-ME92B-TE_Ultrix_4.0_Guide_to_Backup_and_Restore_Jun1990.pdf",
+    "href": "AA-ME92B-TE_Ultrix_4.0_Guide_to_Backup_and_Restore_Jun1990.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/ultrix-32/4.0_Jun90/AA-ME92B-TE_Ultrix_4.0_Guide_to_Backup_and_Restore_Jun1990.pdf",
+    "is_dir": false,
+    "size": "3.2 MiB",
+    "date": "30-Dec-2019 16:44"
+  },
+  {
+    "name": "AA-ME94B-TE_Ultrix_4.0_Guide_to_System_Crash_Recovery_Jun1990.pdf",
+    "href": "AA-ME94B-TE_Ultrix_4.0_Guide_to_System_Crash_Recovery_Jun1990.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/ultrix-32/4.0_Jun90/AA-ME94B-TE_Ultrix_4.0_Guide_to_System_Crash_Recovery_Jun1990.pdf",
+    "is_dir": false,
+    "size": "1.1 MiB",
+    "date": "30-Dec-2019 16:44"
+  },
+  {
+    "name": "AA-ME95B-TE_Ultrix_4.0_Guide_to_the_Error_Logger_Jun1990.pdf",
+    "href": "AA-ME95B-TE_Ultrix_4.0_Guide_to_the_Error_Logger_Jun1990.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/ultrix-32/4.0_Jun90/AA-ME95B-TE_Ultrix_4.0_Guide_to_the_Error_Logger_Jun1990.pdf",
+    "is_dir": false,
+    "size": "1.6 MiB",
+    "date": "30-Dec-2019 16:44"
+  },
+  {
+    "name": "AA-ME96B-TE_Ultrix_4.0_Guide_to_System_Exercisers_Jun1990.pdf",
+    "href": "AA-ME96B-TE_Ultrix_4.0_Guide_to_System_Exercisers_Jun1990.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/ultrix-32/4.0_Jun90/AA-ME96B-TE_Ultrix_4.0_Guide_to_System_Exercisers_Jun1990.pdf",
+    "is_dir": false,
+    "size": "1.3 MiB",
+    "date": "30-Dec-2019 16:45"
+  },
+  {
+    "name": "AA-ME97B-TE_Ultrix_4.0_Introduction_to_Networking_and_Distributed_System_Services_Jun1990.pdf",
+    "href": "AA-ME97B-TE_Ultrix_4.0_Introduction_to_Networking_and_Distributed_System_Services_Jun1990.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/ultrix-32/4.0_Jun90/AA-ME97B-TE_Ultrix_4.0_Introduction_to_Networking_and_Distributed_System_Services_Jun1990.pdf",
+    "is_dir": false,
+    "size": "2.2 MiB",
+    "date": "30-Dec-2019 16:52"
+  },
+  {
+    "name": "AA-ME98B-TE_Ultrix_4.0_Guide_to_Ethernet_Communications_Servers_Jun1990.pdf",
+    "href": "AA-ME98B-TE_Ultrix_4.0_Guide_to_Ethernet_Communications_Servers_Jun1990.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/ultrix-32/4.0_Jun90/AA-ME98B-TE_Ultrix_4.0_Guide_to_Ethernet_Communications_Servers_Jun1990.pdf",
+    "is_dir": false,
+    "size": "2.1 MiB",
+    "date": "30-Dec-2019 16:52"
+  },
+  {
+    "name": "AA-ME99B-TE_Ultrix_4.0_Guide_to_the_Network_File_System_Jun1990.pdf",
+    "href": "AA-ME99B-TE_Ultrix_4.0_Guide_to_the_Network_File_System_Jun1990.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/ultrix-32/4.0_Jun90/AA-ME99B-TE_Ultrix_4.0_Guide_to_the_Network_File_System_Jun1990.pdf",
+    "is_dir": false,
+    "size": "3.0 MiB",
+    "date": "30-Dec-2019 16:52"
+  },
+  {
+    "name": "AA-MF01B-TE_Ultrix_4.0_Guide_to_Diskless_Management_Services_Jun1990.pdf",
+    "href": "AA-MF01B-TE_Ultrix_4.0_Guide_to_Diskless_Management_Services_Jun1990.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/ultrix-32/4.0_Jun90/AA-MF01B-TE_Ultrix_4.0_Guide_to_Diskless_Management_Services_Jun1990.pdf",
+    "is_dir": false,
+    "size": "1.9 MiB",
+    "date": "30-Dec-2019 16:52"
+  },
+  {
+    "name": "AA-MF02C-TE_Ultrix_4.0_Guide_to_Remote_Installation_Services_Jun1990.pdf",
+    "href": "AA-MF02C-TE_Ultrix_4.0_Guide_to_Remote_Installation_Services_Jun1990.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/ultrix-32/4.0_Jun90/AA-MF02C-TE_Ultrix_4.0_Guide_to_Remote_Installation_Services_Jun1990.pdf",
+    "is_dir": false,
+    "size": "1.2 MiB",
+    "date": "30-Dec-2019 16:53"
+  },
+  {
+    "name": "AA-MF03B-TE_Ultrix_4.0_Guide_to_the_uucp_Utility_Jun1990.pdf",
+    "href": "AA-MF03B-TE_Ultrix_4.0_Guide_to_the_uucp_Utility_Jun1990.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/ultrix-32/4.0_Jun90/AA-MF03B-TE_Ultrix_4.0_Guide_to_the_uucp_Utility_Jun1990.pdf",
+    "is_dir": false,
+    "size": "2.5 MiB",
+    "date": "30-Dec-2019 16:54"
+  },
+  {
+    "name": "AA-MF04B-TE_Ultrix_4.0_Guide_to_IBM_Terminal_Emulation_for_VAX_Processors_Jun1990.pdf",
+    "href": "AA-MF04B-TE_Ultrix_4.0_Guide_to_IBM_Terminal_Emulation_for_VAX_Processors_Jun1990.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/ultrix-32/4.0_Jun90/AA-MF04B-TE_Ultrix_4.0_Guide_to_IBM_Terminal_Emulation_for_VAX_Processors_Jun1990.pdf",
+    "is_dir": false,
+    "size": "1.4 MiB",
+    "date": "30-Dec-2019 16:56"
+  },
+  {
+    "name": "AA-MF05B-TE_Reference_Pages_for_Unsupported_Software_Jun90.pdf",
+    "href": "AA-MF05B-TE_Reference_Pages_for_Unsupported_Software_Jun90.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/ultrix-32/4.0_Jun90/AA-MF05B-TE_Reference_Pages_for_Unsupported_Software_Jun90.pdf",
+    "is_dir": false,
+    "size": "6.8 MiB",
+    "date": "07-Aug-2014 02:02"
+  },
+  {
+    "name": "AA-MF05B-TE_Ultrix_4.0_Reference_Pages_for_Unsupported_Software_Jun1990.pdf",
+    "href": "AA-MF05B-TE_Ultrix_4.0_Reference_Pages_for_Unsupported_Software_Jun1990.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/ultrix-32/4.0_Jun90/AA-MF05B-TE_Ultrix_4.0_Reference_Pages_for_Unsupported_Software_Jun1990.pdf",
+    "is_dir": false,
+    "size": "7.1 MiB",
+    "date": "30-Dec-2019 00:23"
+  },
+  {
+    "name": "AA-MF09A-TE_Ultrix_Guide_to_the_X_Toolkit_Widgets_C_Language_Binding_1988.pdf",
+    "href": "AA-MF09A-TE_Ultrix_Guide_to_the_X_Toolkit_Widgets_C_Language_Binding_1988.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/ultrix-32/4.0_Jun90/AA-MF09A-TE_Ultrix_Guide_to_the_X_Toolkit_Widgets_C_Language_Binding_1988.pdf",
+    "is_dir": false,
+    "size": "3.2 MiB",
+    "date": "30-Dec-2019 17:16"
+  },
+  {
+    "name": "AA-MG62B-TE_Ultrix_4.0_Guide_to_Preparing_Software_for_Distribution_on_ULTRIX_Systems_Jun1990.pdf",
+    "href": "AA-MG62B-TE_Ultrix_4.0_Guide_to_Preparing_Software_for_Distribution_on_ULTRIX_Systems_Jun1990.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/ultrix-32/4.0_Jun90/AA-MG62B-TE_Ultrix_4.0_Guide_to_Preparing_Software_for_Distribution_on_ULTRIX_Systems_Jun1990.pdf",
+    "is_dir": false,
+    "size": "1.9 MiB",
+    "date": "30-Dec-2019 17:16"
+  },
+  {
+    "name": "AA-MG63B-TE_ULTRIX_Technical_Summary_Jun90.pdf",
+    "href": "AA-MG63B-TE_ULTRIX_Technical_Summary_Jun90.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/ultrix-32/4.0_Jun90/AA-MG63B-TE_ULTRIX_Technical_Summary_Jun90.pdf",
+    "is_dir": false,
+    "size": "2.4 MiB",
+    "date": "07-Aug-2014 02:02"
+  },
+  {
+    "name": "AA-MG63B-TE_Ultrix_4.0_Technical_Summary_Jun1990.pdf",
+    "href": "AA-MG63B-TE_Ultrix_4.0_Technical_Summary_Jun1990.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/ultrix-32/4.0_Jun90/AA-MG63B-TE_Ultrix_4.0_Technical_Summary_Jun1990.pdf",
+    "is_dir": false,
+    "size": "2.8 MiB",
+    "date": "30-Dec-2019 17:16"
+  },
+  {
+    "name": "AA-ML74D-TE_Ultrix_4.0_Guide_to_Server_Setup_Jun1990.pdf",
+    "href": "AA-ML74D-TE_Ultrix_4.0_Guide_to_Server_Setup_Jun1990.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/ultrix-32/4.0_Jun90/AA-ML74D-TE_Ultrix_4.0_Guide_to_Server_Setup_Jun1990.pdf",
+    "is_dir": false,
+    "size": "1.3 MiB",
+    "date": "30-Dec-2019 17:16"
+  },
+  {
+    "name": "AA-ML94B-TE_Ultrix_4.0_Guide_to_Languages_and_Programming_Jun1990.pdf",
+    "href": "AA-ML94B-TE_Ultrix_4.0_Guide_to_Languages_and_Programming_Jun1990.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/ultrix-32/4.0_Jun90/AA-ML94B-TE_Ultrix_4.0_Guide_to_Languages_and_Programming_Jun1990.pdf",
+    "is_dir": false,
+    "size": "6.2 MiB",
+    "date": "30-Dec-2019 17:16"
+  },
+  {
+    "name": "AA-PAJTA-TE_Display_Postscript_pswrap_Reference_Manual_Oct1989.pdf",
+    "href": "AA-PAJTA-TE_Display_Postscript_pswrap_Reference_Manual_Oct1989.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/ultrix-32/4.0_Jun90/AA-PAJTA-TE_Display_Postscript_pswrap_Reference_Manual_Oct1989.pdf",
+    "is_dir": false,
+    "size": "1.1 MiB",
+    "date": "30-Dec-2019 17:57"
+  },
+  {
+    "name": "AA-PAJUA-TE_Guide_to_Developing_Applications_for_the_Display_Postscript_System_1989.pdf",
+    "href": "AA-PAJUA-TE_Guide_to_Developing_Applications_for_the_Display_Postscript_System_1989.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/ultrix-32/4.0_Jun90/AA-PAJUA-TE_Guide_to_Developing_Applications_for_the_Display_Postscript_System_1989.pdf",
+    "is_dir": false,
+    "size": "2.8 MiB",
+    "date": "30-Dec-2019 17:57"
+  },
+  {
+    "name": "AA-PAN7A-TE_Display_Postscript_Perspective_for_Software_Developers_Oct1989.pdf",
+    "href": "AA-PAN7A-TE_Display_Postscript_Perspective_for_Software_Developers_Oct1989.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/ultrix-32/4.0_Jun90/AA-PAN7A-TE_Display_Postscript_Perspective_for_Software_Developers_Oct1989.pdf",
+    "is_dir": false,
+    "size": "650.2 KiB",
+    "date": "30-Dec-2019 17:57"
+  },
+  {
+    "name": "AA-PAN8A-TE_Display_Postscript_Client_Library_Reference_Manual_Oct1989.pdf",
+    "href": "AA-PAN8A-TE_Display_Postscript_Client_Library_Reference_Manual_Oct1989.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/ultrix-32/4.0_Jun90/AA-PAN8A-TE_Display_Postscript_Client_Library_Reference_Manual_Oct1989.pdf",
+    "is_dir": false,
+    "size": "3.7 MiB",
+    "date": "30-Dec-2019 17:57"
+  },
+  {
+    "name": "AA-PAN9A-TE_Postscript_Language_Extensions_for_the_Display_Postscript_System_Oct1989.pdf",
+    "href": "AA-PAN9A-TE_Postscript_Language_Extensions_for_the_Display_Postscript_System_Oct1989.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/ultrix-32/4.0_Jun90/AA-PAN9A-TE_Postscript_Language_Extensions_for_the_Display_Postscript_System_Oct1989.pdf",
+    "is_dir": false,
+    "size": "5.4 MiB",
+    "date": "30-Dec-2019 17:57"
+  },
+  {
+    "name": "AA-PANAA-TE_Postscript_Language_Color_Extensions_Oct1989.pdf",
+    "href": "AA-PANAA-TE_Postscript_Language_Color_Extensions_Oct1989.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/ultrix-32/4.0_Jun90/AA-PANAA-TE_Postscript_Language_Color_Extensions_Oct1989.pdf",
+    "is_dir": false,
+    "size": "1.1 MiB",
+    "date": "30-Dec-2019 17:58"
+  },
+  {
+    "name": "AA-PB0GB-TE_Ultrix_4.0_Workstation_Software_Readers_Guide_Jun1990.pdf",
+    "href": "AA-PB0GB-TE_Ultrix_4.0_Workstation_Software_Readers_Guide_Jun1990.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/ultrix-32/4.0_Jun90/AA-PB0GB-TE_Ultrix_4.0_Workstation_Software_Readers_Guide_Jun1990.pdf",
+    "is_dir": false,
+    "size": "634.7 KiB",
+    "date": "30-Dec-2019 00:23"
+  },
+  {
+    "name": "AA-PBKNA-TE_The_Big_Gray_Book_The_Next_Step_with_ULTRIX_Jun1990.pdf",
+    "href": "AA-PBKNA-TE_The_Big_Gray_Book_The_Next_Step_with_ULTRIX_Jun1990.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/ultrix-32/4.0_Jun90/AA-PBKNA-TE_The_Big_Gray_Book_The_Next_Step_with_ULTRIX_Jun1990.pdf",
+    "is_dir": false,
+    "size": "7.0 MiB",
+    "date": "30-Dec-2019 18:52"
+  },
+  {
+    "name": "AA-PBKPA-TE_Guide_to_the_nawk_Utility_Jun90.pdf",
+    "href": "AA-PBKPA-TE_Guide_to_the_nawk_Utility_Jun90.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/ultrix-32/4.0_Jun90/AA-PBKPA-TE_Guide_to_the_nawk_Utility_Jun90.pdf",
+    "is_dir": false,
+    "size": "2.8 MiB",
+    "date": "07-Aug-2014 02:02"
+  },
+  {
+    "name": "AA-PBKPA-TE_Ultrix_4.0_Guide_to_the_nawk_Utility_Jun1990.pdf",
+    "href": "AA-PBKPA-TE_Ultrix_4.0_Guide_to_the_nawk_Utility_Jun1990.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/ultrix-32/4.0_Jun90/AA-PBKPA-TE_Ultrix_4.0_Guide_to_the_nawk_Utility_Jun1990.pdf",
+    "is_dir": false,
+    "size": "3.0 MiB",
+    "date": "30-Dec-2019 18:52"
+  },
+  {
+    "name": "AA-PBKQA-TE_ULTRIX_Security_Guide_for_Users_Jun90.pdf",
+    "href": "AA-PBKQA-TE_ULTRIX_Security_Guide_for_Users_Jun90.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/ultrix-32/4.0_Jun90/AA-PBKQA-TE_ULTRIX_Security_Guide_for_Users_Jun90.pdf",
+    "is_dir": false,
+    "size": "3.6 MiB",
+    "date": "07-Aug-2014 02:02"
+  },
+  {
+    "name": "AA-PBKQA-TE_Ultrix_4.0_Security_Guide_for_Users_Jun1990.pdf",
+    "href": "AA-PBKQA-TE_Ultrix_4.0_Security_Guide_for_Users_Jun1990.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/ultrix-32/4.0_Jun90/AA-PBKQA-TE_Ultrix_4.0_Security_Guide_for_Users_Jun1990.pdf",
+    "is_dir": false,
+    "size": "3.8 MiB",
+    "date": "30-Dec-2019 18:52"
+  },
+  {
+    "name": "AA-PBKRA-TE_ULTRIX_Guide_to_Software_Licensing_May90.pdf",
+    "href": "AA-PBKRA-TE_ULTRIX_Guide_to_Software_Licensing_May90.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/ultrix-32/4.0_Jun90/AA-PBKRA-TE_ULTRIX_Guide_to_Software_Licensing_May90.pdf",
+    "is_dir": false,
+    "size": "2.5 MiB",
+    "date": "07-Aug-2014 02:02"
+  },
+  {
+    "name": "AA-PBKRA-TE_Ultrix_4.0_Guide_to_Software_Licensing_May1990.pdf",
+    "href": "AA-PBKRA-TE_Ultrix_4.0_Guide_to_Software_Licensing_May1990.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/ultrix-32/4.0_Jun90/AA-PBKRA-TE_Ultrix_4.0_Guide_to_Software_Licensing_May1990.pdf",
+    "is_dir": false,
+    "size": "2.7 MiB",
+    "date": "30-Dec-2019 18:52"
+  },
+  {
+    "name": "AA-PBKSA-TE_ULTRIX_Guide_to_the_Location_Broker_Jun90.pdf",
+    "href": "AA-PBKSA-TE_ULTRIX_Guide_to_the_Location_Broker_Jun90.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/ultrix-32/4.0_Jun90/AA-PBKSA-TE_ULTRIX_Guide_to_the_Location_Broker_Jun90.pdf",
+    "is_dir": false,
+    "size": "1.3 MiB",
+    "date": "07-Aug-2014 02:02"
+  },
+  {
+    "name": "AA-PBKSA-TE_Ultrix_4.0_Guide_to_the_Location_Broker_Jun1990.pdf",
+    "href": "AA-PBKSA-TE_Ultrix_4.0_Guide_to_the_Location_Broker_Jun1990.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/ultrix-32/4.0_Jun90/AA-PBKSA-TE_Ultrix_4.0_Guide_to_the_Location_Broker_Jun1990.pdf",
+    "is_dir": false,
+    "size": "1.6 MiB",
+    "date": "30-Dec-2019 18:52"
+  },
+  {
+    "name": "AA-PBKTA-TE_ULTRIX_Security_Guide_for_Administrators_Jun90.pdf",
+    "href": "AA-PBKTA-TE_ULTRIX_Security_Guide_for_Administrators_Jun90.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/ultrix-32/4.0_Jun90/AA-PBKTA-TE_ULTRIX_Security_Guide_for_Administrators_Jun90.pdf",
+    "is_dir": false,
+    "size": "4.8 MiB",
+    "date": "07-Aug-2014 02:02"
+  },
+  {
+    "name": "AA-PBKTA-TE_Ultrix_4.0_Security_Guide_for_Administrators_Jun1990.pdf",
+    "href": "AA-PBKTA-TE_Ultrix_4.0_Security_Guide_for_Administrators_Jun1990.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/ultrix-32/4.0_Jun90/AA-PBKTA-TE_Ultrix_4.0_Security_Guide_for_Administrators_Jun1990.pdf",
+    "is_dir": false,
+    "size": "5.1 MiB",
+    "date": "30-Dec-2019 18:52"
+  },
+  {
+    "name": "AA-PBKUB-TE_Ultrix_4.2_Kernel_Messages_Reference_Manual_May1991.pdf",
+    "href": "AA-PBKUB-TE_Ultrix_4.2_Kernel_Messages_Reference_Manual_May1991.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/ultrix-32/4.0_Jun90/AA-PBKUB-TE_Ultrix_4.2_Kernel_Messages_Reference_Manual_May1991.pdf",
+    "is_dir": false,
+    "size": "6.4 MiB",
+    "date": "30-Dec-2019 18:52"
+  },
+  {
+    "name": "AA-PBKVA-TE_Ultrix_4.0_Guide_to_Kerberos_Jun1990.pdf",
+    "href": "AA-PBKVA-TE_Ultrix_4.0_Guide_to_Kerberos_Jun1990.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/ultrix-32/4.0_Jun90/AA-PBKVA-TE_Ultrix_4.0_Guide_to_Kerberos_Jun1990.pdf",
+    "is_dir": false,
+    "size": "4.6 MiB",
+    "date": "30-Dec-2019 18:52"
+  },
+  {
+    "name": "AA-PBKWA-TE_Ultrix_4.0_Guide_to_Network_Programming_Jun1990.pdf",
+    "href": "AA-PBKWA-TE_Ultrix_4.0_Guide_to_Network_Programming_Jun1990.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/ultrix-32/4.0_Jun90/AA-PBKWA-TE_Ultrix_4.0_Guide_to_Network_Programming_Jun1990.pdf",
+    "is_dir": false,
+    "size": "3.8 MiB",
+    "date": "30-Dec-2019 18:52"
+  },
+  {
+    "name": "AA-PBKXA-TE_Ultrix_4.0_Guide_to_the_X-Open_Transport_Interface_Jun1990.pdf",
+    "href": "AA-PBKXA-TE_Ultrix_4.0_Guide_to_the_X-Open_Transport_Interface_Jun1990.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/ultrix-32/4.0_Jun90/AA-PBKXA-TE_Ultrix_4.0_Guide_to_the_X-Open_Transport_Interface_Jun1990.pdf",
+    "is_dir": false,
+    "size": "3.4 MiB",
+    "date": "30-Dec-2019 18:52"
+  },
+  {
+    "name": "AA-PBKYA-TE_Ultrix_4.0_DECrpc_Programming_Guide_Jun1990.pdf",
+    "href": "AA-PBKYA-TE_Ultrix_4.0_DECrpc_Programming_Guide_Jun1990.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/ultrix-32/4.0_Jun90/AA-PBKYA-TE_Ultrix_4.0_DECrpc_Programming_Guide_Jun1990.pdf",
+    "is_dir": false,
+    "size": "6.6 MiB",
+    "date": "30-Dec-2019 18:54"
+  },
+  {
+    "name": "AA-PBKZA-TE_Ultrix_4.0_Guide_to_the_Data_Link_Interface_Jun1990.pdf",
+    "href": "AA-PBKZA-TE_Ultrix_4.0_Guide_to_the_Data_Link_Interface_Jun1990.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/ultrix-32/4.0_Jun90/AA-PBKZA-TE_Ultrix_4.0_Guide_to_the_Data_Link_Interface_Jun1990.pdf",
+    "is_dir": false,
+    "size": "2.1 MiB",
+    "date": "30-Dec-2019 18:57"
+  },
+  {
+    "name": "AA-PBM2A-TE_Ultrix_4.0_The_Packet_Filter_-_An_Efficient_Mechanism_for_User-Level_Network_Code_Jun1990.pdf",
+    "href": "AA-PBM2A-TE_Ultrix_4.0_The_Packet_Filter_-_An_Efficient_Mechanism_for_User-Level_Network_Code_Jun1990.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/ultrix-32/4.0_Jun90/AA-PBM2A-TE_Ultrix_4.0_The_Packet_Filter_-_An_Efficient_Mechanism_for_User-Level_Network_Code_Jun1990.pdf",
+    "is_dir": false,
+    "size": "1.6 MiB",
+    "date": "30-Dec-2019 18:57"
+  },
+  {
+    "name": "AA-PBZ6A-TE_Ultrix_4.0_Ultrix-SQL_Reference_Manual_Jun1990.pdf",
+    "href": "AA-PBZ6A-TE_Ultrix_4.0_Ultrix-SQL_Reference_Manual_Jun1990.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/ultrix-32/4.0_Jun90/AA-PBZ6A-TE_Ultrix_4.0_Ultrix-SQL_Reference_Manual_Jun1990.pdf",
+    "is_dir": false,
+    "size": "10.4 MiB",
+    "date": "30-Dec-2019 19:07"
+  },
+  {
+    "name": "AA-PBZ7A-TE_ULTRIX_SQL_Net_Users_Guide_Jun1990.pdf",
+    "href": "AA-PBZ7A-TE_ULTRIX_SQL_Net_Users_Guide_Jun1990.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/ultrix-32/4.0_Jun90/AA-PBZ7A-TE_ULTRIX_SQL_Net_Users_Guide_Jun1990.pdf",
+    "is_dir": false,
+    "size": "3.4 MiB",
+    "date": "29-Dec-2019 02:34"
+  },
+  {
+    "name": "AA-PBZ8A-TE_ULTRIX_SQL_Database_Administrators_Guide_Jun1990.pdf",
+    "href": "AA-PBZ8A-TE_ULTRIX_SQL_Database_Administrators_Guide_Jun1990.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/ultrix-32/4.0_Jun90/AA-PBZ8A-TE_ULTRIX_SQL_Database_Administrators_Guide_Jun1990.pdf",
+    "is_dir": false,
+    "size": "9.2 MiB",
+    "date": "29-Dec-2019 02:34"
+  },
+  {
+    "name": "AA-PBZ9A-TE_ULTRIX_SQL_Operations_Guide_Jun1990.pdf",
+    "href": "AA-PBZ9A-TE_ULTRIX_SQL_Operations_Guide_Jun1990.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/ultrix-32/4.0_Jun90/AA-PBZ9A-TE_ULTRIX_SQL_Operations_Guide_Jun1990.pdf",
+    "is_dir": false,
+    "size": "7.1 MiB",
+    "date": "29-Dec-2019 02:34"
+  },
+  {
+    "name": "AA-PC0WA-T1_ULTRIX_Reference_Pages_Section_1_Commands_M-Z_Jun90.pdf",
+    "href": "AA-PC0WA-T1_ULTRIX_Reference_Pages_Section_1_Commands_M-Z_Jun90.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/ultrix-32/4.0_Jun90/AA-PC0WA-T1_ULTRIX_Reference_Pages_Section_1_Commands_M-Z_Jun90.pdf",
+    "is_dir": false,
+    "size": "15.1 MiB",
+    "date": "07-Aug-2014 02:02"
+  },
+  {
+    "name": "AA-PC0WA-TE_Ultrix_4.0_Reference_Pages_Section_1_Commands_A-L_Jun1990.pdf",
+    "href": "AA-PC0WA-TE_Ultrix_4.0_Reference_Pages_Section_1_Commands_A-L_Jun1990.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/ultrix-32/4.0_Jun90/AA-PC0WA-TE_Ultrix_4.0_Reference_Pages_Section_1_Commands_A-L_Jun1990.pdf",
+    "is_dir": false,
+    "size": "17.0 MiB",
+    "date": "30-Dec-2019 19:21"
+  },
+  {
+    "name": "AA-PC0WA-TE_Ultrix_4.0_Reference_Pages_Section_1_Commands_M-Z_Jun1990.pdf",
+    "href": "AA-PC0WA-TE_Ultrix_4.0_Reference_Pages_Section_1_Commands_M-Z_Jun1990.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/ultrix-32/4.0_Jun90/AA-PC0WA-TE_Ultrix_4.0_Reference_Pages_Section_1_Commands_M-Z_Jun1990.pdf",
+    "is_dir": false,
+    "size": "15.2 MiB",
+    "date": "30-Dec-2019 19:27"
+  },
+  {
+    "name": "AA-PC31B-TE_ULTRIX_Guide_to_PrintServer_Clients_Dec91.pdf",
+    "href": "AA-PC31B-TE_ULTRIX_Guide_to_PrintServer_Clients_Dec91.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/ultrix-32/4.0_Jun90/AA-PC31B-TE_ULTRIX_Guide_to_PrintServer_Clients_Dec91.pdf",
+    "is_dir": false,
+    "size": "4.0 MiB",
+    "date": "07-Aug-2014 02:02"
+  },
+  {
+    "name": "AA-PC31B-TE_Ultrix_4.2A_Guide_to_Printserver_Clients_Dec1991.pdf",
+    "href": "AA-PC31B-TE_Ultrix_4.2A_Guide_to_Printserver_Clients_Dec1991.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/ultrix-32/4.0_Jun90/AA-PC31B-TE_Ultrix_4.2A_Guide_to_Printserver_Clients_Dec1991.pdf",
+    "is_dir": false,
+    "size": "4.3 MiB",
+    "date": "30-Dec-2019 20:06"
+  },
+  {
+    "name": "AA-PCAXA-TE_Ultrix_4.0_ULTRIX_SQL_Error_Message_Dictionary_Jun1990.pdf",
+    "href": "AA-PCAXA-TE_Ultrix_4.0_ULTRIX_SQL_Error_Message_Dictionary_Jun1990.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/ultrix-32/4.0_Jun90/AA-PCAXA-TE_Ultrix_4.0_ULTRIX_SQL_Error_Message_Dictionary_Jun1990.pdf",
+    "is_dir": false,
+    "size": "18.6 MiB",
+    "date": "30-Dec-2019 20:02"
+  },
+  {
+    "name": "AA-PFTEA-TE_ULTRIX_mh_Users_Guide_May91.pdf",
+    "href": "AA-PFTEA-TE_ULTRIX_mh_Users_Guide_May91.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/ultrix-32/4.0_Jun90/AA-PFTEA-TE_ULTRIX_mh_Users_Guide_May91.pdf",
+    "is_dir": false,
+    "size": "3.3 MiB",
+    "date": "07-Aug-2014 02:02"
+  },
+  {
+    "name": "AA-PFTEA-TE_Ultrix_4.2_MH_Users_Guide_May1991.pdf",
+    "href": "AA-PFTEA-TE_Ultrix_4.2_MH_Users_Guide_May1991.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/ultrix-32/4.0_Jun90/AA-PFTEA-TE_Ultrix_4.2_MH_Users_Guide_May1991.pdf",
+    "is_dir": false,
+    "size": "3.6 MiB",
+    "date": "30-Dec-2019 19:53"
+  },
+  {
+    "name": "AA-PGL4A-TE_Ultrix_4.2_Guide_to_the_User_Account_Manager_May1991.pdf",
+    "href": "AA-PGL4A-TE_Ultrix_4.2_Guide_to_the_User_Account_Manager_May1991.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/ultrix-32/4.0_Jun90/AA-PGL4A-TE_Ultrix_4.2_Guide_to_the_User_Account_Manager_May1991.pdf",
+    "is_dir": false,
+    "size": "1.8 MiB",
+    "date": "30-Dec-2019 19:53"
+  },
+  {
+    "name": "AA-PKDUA-TE_Ultrix_4.2A_Guide_to_Sharing_Software_on_a_Local_Area_Network_Dec1991.pdf",
+    "href": "AA-PKDUA-TE_Ultrix_4.2A_Guide_to_Sharing_Software_on_a_Local_Area_Network_Dec1991.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/ultrix-32/4.0_Jun90/AA-PKDUA-TE_Ultrix_4.2A_Guide_to_Sharing_Software_on_a_Local_Area_Network_Dec1991.pdf",
+    "is_dir": false,
+    "size": "3.3 MiB",
+    "date": "30-Dec-2019 19:53"
+  },
+  {
+    "name": "AA-PKDVA-TE_ULTRIX_Performance_Mangement_Guide_Dec91.pdf",
+    "href": "AA-PKDVA-TE_ULTRIX_Performance_Mangement_Guide_Dec91.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/ultrix-32/4.0_Jun90/AA-PKDVA-TE_ULTRIX_Performance_Mangement_Guide_Dec91.pdf",
+    "is_dir": false,
+    "size": "6.3 MiB",
+    "date": "07-Aug-2014 02:02"
+  },
+  {
+    "name": "AA-PKDVA-TE_Ultrix_4.2A_Performance_Management_Guide_Dec1991.pdf",
+    "href": "AA-PKDVA-TE_Ultrix_4.2A_Performance_Management_Guide_Dec1991.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/ultrix-32/4.0_Jun90/AA-PKDVA-TE_Ultrix_4.2A_Performance_Management_Guide_Dec1991.pdf",
+    "is_dir": false,
+    "size": "6.7 MiB",
+    "date": "30-Dec-2019 19:43"
+  },
+  {
+    "name": "AA-PN5HA-TE_Ultrix_4.2A_Ultrix_SCSI-CAM_Architecture_Jan1992.pdf",
+    "href": "AA-PN5HA-TE_Ultrix_4.2A_Ultrix_SCSI-CAM_Architecture_Jan1992.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/ultrix-32/4.0_Jun90/AA-PN5HA-TE_Ultrix_4.2A_Ultrix_SCSI-CAM_Architecture_Jan1992.pdf",
+    "is_dir": false,
+    "size": "11.7 MiB",
+    "date": "30-Dec-2019 19:43"
+  },
+  {
+    "name": "AA-PP85A-TE_Ultrix_4.2_SCSI-CAM_Architecture_Release_Notes_and_Installation_Instructions_May1992.pdf",
+    "href": "AA-PP85A-TE_Ultrix_4.2_SCSI-CAM_Architecture_Release_Notes_and_Installation_Instructions_May1992.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/ultrix-32/4.0_Jun90/AA-PP85A-TE_Ultrix_4.2_SCSI-CAM_Architecture_Release_Notes_and_Installation_Instructions_May1992.pdf",
+    "is_dir": false,
+    "size": "1.2 MiB",
+    "date": "30-Dec-2019 19:43"
+  },
+  {
+    "name": "ULTRIX_4_Documentation.txt",
+    "href": "ULTRIX_4_Documentation.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/ultrix-32/4.0_Jun90/ULTRIX_4_Documentation.txt",
+    "is_dir": false,
+    "size": "2.6 KiB",
+    "date": "22-May-2008 00:14"
+  },
+  {
+    "name": "Ultrix_4.3_Condist_BOM_Jun1993.pdf",
+    "href": "Ultrix_4.3_Condist_BOM_Jun1993.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/ultrix-32/4.0_Jun90/Ultrix_4.3_Condist_BOM_Jun1993.pdf",
+    "is_dir": false,
+    "size": "32.4 KiB",
+    "date": "30-Dec-2019 00:23"
+  },
+  {
+    "name": "ultrixPak.pdf",
+    "href": "ultrixPak.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/dec/vax/ultrix-32/4.0_Jun90/ultrixPak.pdf",
+    "is_dir": false,
+    "size": "201.5 KiB",
+    "date": "30-Dec-2019 18:58"
+  }
+]

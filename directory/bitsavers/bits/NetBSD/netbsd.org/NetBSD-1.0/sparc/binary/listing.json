@@ -1,0 +1,66 @@
+[
+  {
+    "name": "CKSUMS",
+    "href": "CKSUMS",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.0/sparc/binary/CKSUMS",
+    "is_dir": false,
+    "size": "242 B",
+    "date": "30-Oct-1994 02:43"
+  },
+  {
+    "name": "base.tar.gz",
+    "href": "base.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.0/sparc/binary/base.tar.gz",
+    "is_dir": false,
+    "size": "6.9 MiB",
+    "date": "30-Oct-1994 02:42"
+  },
+  {
+    "name": "comp.tar.gz",
+    "href": "comp.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.0/sparc/binary/comp.tar.gz",
+    "is_dir": false,
+    "size": "4.7 MiB",
+    "date": "30-Oct-1994 02:43"
+  },
+  {
+    "name": "etc.tar.gz",
+    "href": "etc.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.0/sparc/binary/etc.tar.gz",
+    "is_dir": false,
+    "size": "48.6 KiB",
+    "date": "30-Oct-1994 02:43"
+  },
+  {
+    "name": "games.tar.gz",
+    "href": "games.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.0/sparc/binary/games.tar.gz",
+    "is_dir": false,
+    "size": "1.1 MiB",
+    "date": "30-Oct-1994 02:43"
+  },
+  {
+    "name": "man.tar.gz",
+    "href": "man.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.0/sparc/binary/man.tar.gz",
+    "is_dir": false,
+    "size": "732.5 KiB",
+    "date": "30-Oct-1994 02:43"
+  },
+  {
+    "name": "misc.tar.gz",
+    "href": "misc.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.0/sparc/binary/misc.tar.gz",
+    "is_dir": false,
+    "size": "1.6 MiB",
+    "date": "30-Oct-1994 02:43"
+  },
+  {
+    "name": "text.tar.gz",
+    "href": "text.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.0/sparc/binary/text.tar.gz",
+    "is_dir": false,
+    "size": "817.9 KiB",
+    "date": "30-Oct-1994 02:43"
+  }
+]

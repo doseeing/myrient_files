@@ -1,0 +1,90 @@
+[
+  {
+    "name": "BB-X116A-BB_1984.tap.gz",
+    "href": "BB-X116A-BB_1984.tap.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp10/magtape/dec_distribs/decnet/BB-X116A-BB_1984.tap.gz",
+    "is_dir": false,
+    "size": "2.6 MiB",
+    "date": "04-Jun-2006 01:24"
+  },
+  {
+    "name": "BB-X116C-BB.tap.gz",
+    "href": "BB-X116C-BB.tap.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp10/magtape/dec_distribs/decnet/BB-X116C-BB.tap.gz",
+    "is_dir": false,
+    "size": "1.6 MiB",
+    "date": "26-Jun-2006 05:55"
+  },
+  {
+    "name": "BB-X116C-SB.tap.gz",
+    "href": "BB-X116C-SB.tap.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp10/magtape/dec_distribs/decnet/BB-X116C-SB.tap.gz",
+    "is_dir": false,
+    "size": "1.6 MiB",
+    "date": "26-Jun-2006 05:57"
+  },
+  {
+    "name": "BB-X116D-BB_1989.tap.gz",
+    "href": "BB-X116D-BB_1989.tap.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp10/magtape/dec_distribs/decnet/BB-X116D-BB_1989.tap.gz",
+    "is_dir": false,
+    "size": "1.6 MiB",
+    "date": "30-May-2006 14:59"
+  },
+  {
+    "name": "BB-X117B-SB_1986.tap.gz",
+    "href": "BB-X117B-SB_1986.tap.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp10/magtape/dec_distribs/decnet/BB-X117B-SB_1986.tap.gz",
+    "is_dir": false,
+    "size": "1.1 MiB",
+    "date": "26-Jun-2006 05:59"
+  },
+  {
+    "name": "DECNET-20_PhaseIII_4-1-82.tap.gz",
+    "href": "DECNET-20_PhaseIII_4-1-82.tap.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp10/magtape/dec_distribs/decnet/DECNET-20_PhaseIII_4-1-82.tap.gz",
+    "is_dir": false,
+    "size": "720.3 KiB",
+    "date": "04-Jun-2006 01:26"
+  },
+  {
+    "name": "DECNET-20_V2.1_2020_7-20-82.tap.gz",
+    "href": "DECNET-20_V2.1_2020_7-20-82.tap.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp10/magtape/dec_distribs/decnet/DECNET-20_V2.1_2020_7-20-82.tap.gz",
+    "is_dir": false,
+    "size": "668.0 KiB",
+    "date": "04-Jun-2006 01:27"
+  },
+  {
+    "name": "T10_704_DECNET_12-10-87.tap.gz",
+    "href": "T10_704_DECNET_12-10-87.tap.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp10/magtape/dec_distribs/decnet/T10_704_DECNET_12-10-87.tap.gz",
+    "is_dir": false,
+    "size": "845.7 KiB",
+    "date": "04-Jun-2006 01:29"
+  },
+  {
+    "name": "T10_704_DECNET_3-31-88.tap.gz",
+    "href": "T10_704_DECNET_3-31-88.tap.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp10/magtape/dec_distribs/decnet/T10_704_DECNET_3-31-88.tap.gz",
+    "is_dir": false,
+    "size": "848.9 KiB",
+    "date": "04-Jun-2006 01:31"
+  },
+  {
+    "name": "TOPS-20_V6.1_DECnetDistr_7-23-85.tap.gz",
+    "href": "TOPS-20_V6.1_DECnetDistr_7-23-85.tap.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp10/magtape/dec_distribs/decnet/TOPS-20_V6.1_DECnetDistr_7-23-85.tap.gz",
+    "is_dir": false,
+    "size": "2.2 MiB",
+    "date": "04-Jun-2006 01:55"
+  },
+  {
+    "name": "TOPS-20_V6.1_DECnetSrc_7-23-85.tap.gz",
+    "href": "TOPS-20_V6.1_DECnetSrc_7-23-85.tap.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp10/magtape/dec_distribs/decnet/TOPS-20_V6.1_DECnetSrc_7-23-85.tap.gz",
+    "is_dir": false,
+    "size": "2.9 MiB",
+    "date": "04-Jun-2006 01:51"
+  }
+]

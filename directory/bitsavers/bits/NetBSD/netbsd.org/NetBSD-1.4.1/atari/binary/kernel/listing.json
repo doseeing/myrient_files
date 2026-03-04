@@ -1,0 +1,74 @@
+[
+  {
+    "name": "BSDSUM",
+    "href": "BSDSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/atari/binary/kernel/BSDSUM",
+    "is_dir": false,
+    "size": "131 B",
+    "date": "11-Aug-1999 06:30"
+  },
+  {
+    "name": "CKSUM",
+    "href": "CKSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/atari/binary/kernel/CKSUM",
+    "is_dir": false,
+    "size": "171 B",
+    "date": "11-Aug-1999 06:31"
+  },
+  {
+    "name": "MD5",
+    "href": "MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/atari/binary/kernel/MD5",
+    "is_dir": false,
+    "size": "288 B",
+    "date": "11-Aug-1999 06:31"
+  },
+  {
+    "name": "SYSVSUM",
+    "href": "SYSVSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/atari/binary/kernel/SYSVSUM",
+    "is_dir": false,
+    "size": "134 B",
+    "date": "11-Aug-1999 06:31"
+  },
+  {
+    "name": "netbsd.ATARITT.gz",
+    "href": "netbsd.ATARITT.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/atari/binary/kernel/netbsd.ATARITT.gz",
+    "is_dir": false,
+    "size": "417.0 KiB",
+    "date": "10-Aug-1999 07:21"
+  },
+  {
+    "name": "netbsd.BOOT.gz",
+    "href": "netbsd.BOOT.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/atari/binary/kernel/netbsd.BOOT.gz",
+    "is_dir": false,
+    "size": "420.9 KiB",
+    "date": "10-Aug-1999 11:43"
+  },
+  {
+    "name": "netbsd.BOOTX.gz",
+    "href": "netbsd.BOOTX.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/atari/binary/kernel/netbsd.BOOTX.gz",
+    "is_dir": false,
+    "size": "423.0 KiB",
+    "date": "10-Aug-1999 16:06"
+  },
+  {
+    "name": "netbsd.GENERIC.gz",
+    "href": "netbsd.GENERIC.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/atari/binary/kernel/netbsd.GENERIC.gz",
+    "is_dir": false,
+    "size": "668.0 KiB",
+    "date": "11-Aug-1999 03:49"
+  },
+  {
+    "name": "netbsd.HADES.gz",
+    "href": "netbsd.HADES.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/atari/binary/kernel/netbsd.HADES.gz",
+    "is_dir": false,
+    "size": "525.8 KiB",
+    "date": "10-Aug-1999 20:57"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "name": "firmware",
+    "href": "firmware/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/burroughs/Terminal/ET1100_1210/et1210/firmware/",
+    "is_dir": true,
+    "size": null,
+    "date": "12-May-2023 02:33"
+  },
+  {
+    "name": "pcb",
+    "href": "pcb/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/burroughs/Terminal/ET1100_1210/et1210/pcb/",
+    "is_dir": true,
+    "size": null,
+    "date": "12-May-2023 02:33"
+  },
+  {
+    "name": "back.JPG",
+    "href": "back.JPG",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/burroughs/Terminal/ET1100_1210/et1210/back.JPG",
+    "is_dir": false,
+    "size": "705.6 KiB",
+    "date": "12-May-2023 02:33"
+  },
+  {
+    "name": "et1210_kb.jpg",
+    "href": "et1210_kb.jpg",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/burroughs/Terminal/ET1100_1210/et1210/et1210_kb.jpg",
+    "is_dir": false,
+    "size": "33.6 KiB",
+    "date": "12-May-2023 11:52"
+  },
+  {
+    "name": "et1210_w_kbd.jpg",
+    "href": "et1210_w_kbd.jpg",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/burroughs/Terminal/ET1100_1210/et1210/et1210_w_kbd.jpg",
+    "is_dir": false,
+    "size": "24.9 KiB",
+    "date": "12-May-2023 11:52"
+  },
+  {
+    "name": "front.JPG",
+    "href": "front.JPG",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/burroughs/Terminal/ET1100_1210/et1210/front.JPG",
+    "is_dir": false,
+    "size": "273.0 KiB",
+    "date": "12-May-2023 02:33"
+  },
+  {
+    "name": "side.JPG",
+    "href": "side.JPG",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/burroughs/Terminal/ET1100_1210/et1210/side.JPG",
+    "is_dir": false,
+    "size": "236.7 KiB",
+    "date": "12-May-2023 02:33"
+  },
+  {
+    "name": "sn.JPG",
+    "href": "sn.JPG",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/burroughs/Terminal/ET1100_1210/et1210/sn.JPG",
+    "is_dir": false,
+    "size": "348.8 KiB",
+    "date": "12-May-2023 02:33"
+  },
+  {
+    "name": "top.JPG",
+    "href": "top.JPG",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/burroughs/Terminal/ET1100_1210/et1210/top.JPG",
+    "is_dir": false,
+    "size": "754.8 KiB",
+    "date": "12-May-2023 02:33"
+  }
+]

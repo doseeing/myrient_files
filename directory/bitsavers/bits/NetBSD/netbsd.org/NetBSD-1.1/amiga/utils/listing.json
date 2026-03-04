@@ -1,0 +1,66 @@
+[
+  {
+    "name": "README",
+    "href": "README",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/amiga/utils/README",
+    "is_dir": false,
+    "size": "537 B",
+    "date": "25-Nov-1995 03:02"
+  },
+  {
+    "name": "device-streams.tar.gz",
+    "href": "device-streams.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/amiga/utils/device-streams.tar.gz",
+    "is_dir": false,
+    "size": "69.6 KiB",
+    "date": "25-Nov-1995 02:51"
+  },
+  {
+    "name": "loadbsd",
+    "href": "loadbsd",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/amiga/utils/loadbsd",
+    "is_dir": false,
+    "size": "9.4 KiB",
+    "date": "25-Nov-1995 02:46"
+  },
+  {
+    "name": "loadbsd.gz",
+    "href": "loadbsd.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/amiga/utils/loadbsd.gz",
+    "is_dir": false,
+    "size": "5.3 KiB",
+    "date": "25-Nov-1995 02:48"
+  },
+  {
+    "name": "rdbinfo",
+    "href": "rdbinfo",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/amiga/utils/rdbinfo",
+    "is_dir": false,
+    "size": "18.9 KiB",
+    "date": "16-Oct-1993 03:12"
+  },
+  {
+    "name": "rdbinfo.gz",
+    "href": "rdbinfo.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/amiga/utils/rdbinfo.gz",
+    "is_dir": false,
+    "size": "11.3 KiB",
+    "date": "25-Nov-1995 02:56"
+  },
+  {
+    "name": "xstreamtodev",
+    "href": "xstreamtodev",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/amiga/utils/xstreamtodev",
+    "is_dir": false,
+    "size": "22.5 KiB",
+    "date": "16-Oct-1993 03:14"
+  },
+  {
+    "name": "xstreamtodev.gz",
+    "href": "xstreamtodev.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/amiga/utils/xstreamtodev.gz",
+    "is_dir": false,
+    "size": "13.3 KiB",
+    "date": "25-Nov-1995 02:56"
+  }
+]

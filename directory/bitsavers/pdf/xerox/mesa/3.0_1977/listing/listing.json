@@ -1,0 +1,978 @@
+[
+  {
+    "name": "AlFont.mesa_Oct77.pdf",
+    "href": "AlFont.mesa_Oct77.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/3.0_1977/listing/AlFont.mesa_Oct77.pdf",
+    "is_dir": false,
+    "size": "152.6 KiB",
+    "date": "28-Oct-2010 00:35"
+  },
+  {
+    "name": "AltoDefs.mesa_Oct77.pdf",
+    "href": "AltoDefs.mesa_Oct77.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/3.0_1977/listing/AltoDefs.mesa_Oct77.pdf",
+    "is_dir": false,
+    "size": "35.8 KiB",
+    "date": "28-Oct-2010 00:35"
+  },
+  {
+    "name": "AltoFileDefs.mesa_Oct77.pdf",
+    "href": "AltoFileDefs.mesa_Oct77.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/3.0_1977/listing/AltoFileDefs.mesa_Oct77.pdf",
+    "is_dir": false,
+    "size": "87.7 KiB",
+    "date": "28-Oct-2010 00:35"
+  },
+  {
+    "name": "BFS.mesa_Oct77.pdf",
+    "href": "BFS.mesa_Oct77.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/3.0_1977/listing/BFS.mesa_Oct77.pdf",
+    "is_dir": false,
+    "size": "233.5 KiB",
+    "date": "28-Oct-2010 00:35"
+  },
+  {
+    "name": "BFSDefs.mesa_Oct77.pdf",
+    "href": "BFSDefs.mesa_Oct77.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/3.0_1977/listing/BFSDefs.mesa_Oct77.pdf",
+    "is_dir": false,
+    "size": "35.3 KiB",
+    "date": "28-Oct-2010 00:35"
+  },
+  {
+    "name": "BasicMesa.config_Oct77.pdf",
+    "href": "BasicMesa.config_Oct77.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/3.0_1977/listing/BasicMesa.config_Oct77.pdf",
+    "is_dir": false,
+    "size": "23.6 KiB",
+    "date": "27-Oct-2010 17:30"
+  },
+  {
+    "name": "BcdAllocator.mesa_Oct77.pdf",
+    "href": "BcdAllocator.mesa_Oct77.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/3.0_1977/listing/BcdAllocator.mesa_Oct77.pdf",
+    "is_dir": false,
+    "size": "206.6 KiB",
+    "date": "28-Oct-2010 00:35"
+  },
+  {
+    "name": "BcdDefs.mesa_Oct77.pdf",
+    "href": "BcdDefs.mesa_Oct77.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/3.0_1977/listing/BcdDefs.mesa_Oct77.pdf",
+    "is_dir": false,
+    "size": "108.0 KiB",
+    "date": "28-Oct-2010 00:35"
+  },
+  {
+    "name": "BcdList.mesa_Oct77.pdf",
+    "href": "BcdList.mesa_Oct77.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/3.0_1977/listing/BcdList.mesa_Oct77.pdf",
+    "is_dir": false,
+    "size": "363.4 KiB",
+    "date": "27-Oct-2010 17:30"
+  },
+  {
+    "name": "BcdMerge.mesa_Oct77.pdf",
+    "href": "BcdMerge.mesa_Oct77.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/3.0_1977/listing/BcdMerge.mesa_Oct77.pdf",
+    "is_dir": false,
+    "size": "517.6 KiB",
+    "date": "28-Oct-2010 00:35"
+  },
+  {
+    "name": "BcdMergeDefs.mesa_Oct77.pdf",
+    "href": "BcdMergeDefs.mesa_Oct77.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/3.0_1977/listing/BcdMergeDefs.mesa_Oct77.pdf",
+    "is_dir": false,
+    "size": "30.8 KiB",
+    "date": "28-Oct-2010 00:35"
+  },
+  {
+    "name": "BcdTab.mesa_Oct77.pdf",
+    "href": "BcdTab.mesa_Oct77.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/3.0_1977/listing/BcdTab.mesa_Oct77.pdf",
+    "is_dir": false,
+    "size": "144.9 KiB",
+    "date": "28-Oct-2010 00:35"
+  },
+  {
+    "name": "BcdTabDefs.mesa_Oct77.pdf",
+    "href": "BcdTabDefs.mesa_Oct77.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/3.0_1977/listing/BcdTabDefs.mesa_Oct77.pdf",
+    "is_dir": false,
+    "size": "58.4 KiB",
+    "date": "28-Oct-2010 00:35"
+  },
+  {
+    "name": "BcdTableDefs.mesa_Oct77.pdf",
+    "href": "BcdTableDefs.mesa_Oct77.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/3.0_1977/listing/BcdTableDefs.mesa_Oct77.pdf",
+    "is_dir": false,
+    "size": "56.4 KiB",
+    "date": "28-Oct-2010 00:35"
+  },
+  {
+    "name": "Binder.config_Oct77.pdf",
+    "href": "Binder.config_Oct77.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/3.0_1977/listing/Binder.config_Oct77.pdf",
+    "is_dir": false,
+    "size": "21.2 KiB",
+    "date": "27-Oct-2010 17:30"
+  },
+  {
+    "name": "BootDefs.mesa_Oct77.pdf",
+    "href": "BootDefs.mesa_Oct77.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/3.0_1977/listing/BootDefs.mesa_Oct77.pdf",
+    "is_dir": false,
+    "size": "80.9 KiB",
+    "date": "28-Oct-2010 00:35"
+  },
+  {
+    "name": "CNucleus.config_Oct77.pdf",
+    "href": "CNucleus.config_Oct77.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/3.0_1977/listing/CNucleus.config_Oct77.pdf",
+    "is_dir": false,
+    "size": "24.0 KiB",
+    "date": "27-Oct-2010 17:30"
+  },
+  {
+    "name": "CmdDefs.mesa_Oct77.pdf",
+    "href": "CmdDefs.mesa_Oct77.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/3.0_1977/listing/CmdDefs.mesa_Oct77.pdf",
+    "is_dir": false,
+    "size": "18.7 KiB",
+    "date": "27-Oct-2010 17:30"
+  },
+  {
+    "name": "CmdScan.mesa_Oct77.pdf",
+    "href": "CmdScan.mesa_Oct77.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/3.0_1977/listing/CmdScan.mesa_Oct77.pdf",
+    "is_dir": false,
+    "size": "59.4 KiB",
+    "date": "27-Oct-2010 17:30"
+  },
+  {
+    "name": "Commander.mesa_Oct77.pdf",
+    "href": "Commander.mesa_Oct77.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/3.0_1977/listing/Commander.mesa_Oct77.pdf",
+    "is_dir": false,
+    "size": "601.3 KiB",
+    "date": "27-Oct-2010 17:30"
+  },
+  {
+    "name": "CommanderDefs.mesa_Oct77.pdf",
+    "href": "CommanderDefs.mesa_Oct77.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/3.0_1977/listing/CommanderDefs.mesa_Oct77.pdf",
+    "is_dir": false,
+    "size": "22.4 KiB",
+    "date": "27-Oct-2010 17:30"
+  },
+  {
+    "name": "ControlDefs.mesa_Oct77.pdf",
+    "href": "ControlDefs.mesa_Oct77.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/3.0_1977/listing/ControlDefs.mesa_Oct77.pdf",
+    "is_dir": false,
+    "size": "208.1 KiB",
+    "date": "28-Oct-2010 00:35"
+  },
+  {
+    "name": "CoreSwapDefs.mesa_Oct77.pdf",
+    "href": "CoreSwapDefs.mesa_Oct77.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/3.0_1977/listing/CoreSwapDefs.mesa_Oct77.pdf",
+    "is_dir": false,
+    "size": "48.3 KiB",
+    "date": "28-Oct-2010 00:35"
+  },
+  {
+    "name": "Directory.mesa_Oct77.pdf",
+    "href": "Directory.mesa_Oct77.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/3.0_1977/listing/Directory.mesa_Oct77.pdf",
+    "is_dir": false,
+    "size": "186.6 KiB",
+    "date": "28-Oct-2010 00:35"
+  },
+  {
+    "name": "DirectoryDefs.mesa_Oct77.pdf",
+    "href": "DirectoryDefs.mesa_Oct77.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/3.0_1977/listing/DirectoryDefs.mesa_Oct77.pdf",
+    "is_dir": false,
+    "size": "41.8 KiB",
+    "date": "28-Oct-2010 00:35"
+  },
+  {
+    "name": "DiskDefs.mesa_Oct77.pdf",
+    "href": "DiskDefs.mesa_Oct77.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/3.0_1977/listing/DiskDefs.mesa_Oct77.pdf",
+    "is_dir": false,
+    "size": "141.7 KiB",
+    "date": "28-Oct-2010 00:35"
+  },
+  {
+    "name": "DiskKD.mesa_Oct77.pdf",
+    "href": "DiskKD.mesa_Oct77.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/3.0_1977/listing/DiskKD.mesa_Oct77.pdf",
+    "is_dir": false,
+    "size": "136.2 KiB",
+    "date": "28-Oct-2010 00:35"
+  },
+  {
+    "name": "DiskKDDefs.mesa_Oct77.pdf",
+    "href": "DiskKDDefs.mesa_Oct77.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/3.0_1977/listing/DiskKDDefs.mesa_Oct77.pdf",
+    "is_dir": false,
+    "size": "26.6 KiB",
+    "date": "28-Oct-2010 00:35"
+  },
+  {
+    "name": "Display.mesa_Oct77.pdf",
+    "href": "Display.mesa_Oct77.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/3.0_1977/listing/Display.mesa_Oct77.pdf",
+    "is_dir": false,
+    "size": "221.2 KiB",
+    "date": "28-Oct-2010 00:35"
+  },
+  {
+    "name": "DisplayControl.mesa_Oct77.pdf",
+    "href": "DisplayControl.mesa_Oct77.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/3.0_1977/listing/DisplayControl.mesa_Oct77.pdf",
+    "is_dir": false,
+    "size": "123.2 KiB",
+    "date": "27-Oct-2010 17:30"
+  },
+  {
+    "name": "DisplayDefs.mesa_Oct77.pdf",
+    "href": "DisplayDefs.mesa_Oct77.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/3.0_1977/listing/DisplayDefs.mesa_Oct77.pdf",
+    "is_dir": false,
+    "size": "20.4 KiB",
+    "date": "28-Oct-2010 00:35"
+  },
+  {
+    "name": "DisplayPackage.config_Oct77.pdf",
+    "href": "DisplayPackage.config_Oct77.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/3.0_1977/listing/DisplayPackage.config_Oct77.pdf",
+    "is_dir": false,
+    "size": "16.1 KiB",
+    "date": "27-Oct-2010 17:30"
+  },
+  {
+    "name": "Double.mesa_Mar78.pdf",
+    "href": "Double.mesa_Mar78.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/3.0_1977/listing/Double.mesa_Mar78.pdf",
+    "is_dir": false,
+    "size": "97.2 KiB",
+    "date": "27-Oct-2010 17:30"
+  },
+  {
+    "name": "Double.mesa_Oct77.pdf",
+    "href": "Double.mesa_Oct77.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/3.0_1977/listing/Double.mesa_Oct77.pdf",
+    "is_dir": false,
+    "size": "97.3 KiB",
+    "date": "27-Oct-2010 17:30"
+  },
+  {
+    "name": "DoubleDefs.mesa_Mar78.pdf",
+    "href": "DoubleDefs.mesa_Mar78.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/3.0_1977/listing/DoubleDefs.mesa_Mar78.pdf",
+    "is_dir": false,
+    "size": "27.7 KiB",
+    "date": "27-Oct-2010 17:30"
+  },
+  {
+    "name": "DoubleDefs.mesa_Oct77.pdf",
+    "href": "DoubleDefs.mesa_Oct77.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/3.0_1977/listing/DoubleDefs.mesa_Oct77.pdf",
+    "is_dir": false,
+    "size": "27.5 KiB",
+    "date": "27-Oct-2010 17:30"
+  },
+  {
+    "name": "FileMap.mesa_Oct77.pdf",
+    "href": "FileMap.mesa_Oct77.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/3.0_1977/listing/FileMap.mesa_Oct77.pdf",
+    "is_dir": false,
+    "size": "42.0 KiB",
+    "date": "27-Oct-2010 17:30"
+  },
+  {
+    "name": "Files.mesa_Oct77.pdf",
+    "href": "Files.mesa_Oct77.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/3.0_1977/listing/Files.mesa_Oct77.pdf",
+    "is_dir": false,
+    "size": "298.0 KiB",
+    "date": "28-Oct-2010 00:35"
+  },
+  {
+    "name": "FindSigs.mesa_Oct77.pdf",
+    "href": "FindSigs.mesa_Oct77.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/3.0_1977/listing/FindSigs.mesa_Oct77.pdf",
+    "is_dir": false,
+    "size": "244.5 KiB",
+    "date": "27-Oct-2010 17:30"
+  },
+  {
+    "name": "FontDefs.mesa_Oct77.pdf",
+    "href": "FontDefs.mesa_Oct77.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/3.0_1977/listing/FontDefs.mesa_Oct77.pdf",
+    "is_dir": false,
+    "size": "33.7 KiB",
+    "date": "28-Oct-2010 00:35"
+  },
+  {
+    "name": "FrameDefs.mesa_Oct77.pdf",
+    "href": "FrameDefs.mesa_Oct77.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/3.0_1977/listing/FrameDefs.mesa_Oct77.pdf",
+    "is_dir": false,
+    "size": "62.1 KiB",
+    "date": "28-Oct-2010 00:35"
+  },
+  {
+    "name": "Fsp.mesa_Oct77.pdf",
+    "href": "Fsp.mesa_Oct77.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/3.0_1977/listing/Fsp.mesa_Oct77.pdf",
+    "is_dir": false,
+    "size": "257.0 KiB",
+    "date": "28-Oct-2010 00:35"
+  },
+  {
+    "name": "FspDefs.mesa_Oct77.pdf",
+    "href": "FspDefs.mesa_Oct77.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/3.0_1977/listing/FspDefs.mesa_Oct77.pdf",
+    "is_dir": false,
+    "size": "137.0 KiB",
+    "date": "28-Oct-2010 00:35"
+  },
+  {
+    "name": "ICompiler.config_Oct77.pdf",
+    "href": "ICompiler.config_Oct77.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/3.0_1977/listing/ICompiler.config_Oct77.pdf",
+    "is_dir": false,
+    "size": "71.1 KiB",
+    "date": "27-Oct-2010 17:31"
+  },
+  {
+    "name": "IODefs.mesa_Oct77.pdf",
+    "href": "IODefs.mesa_Oct77.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/3.0_1977/listing/IODefs.mesa_Oct77.pdf",
+    "is_dir": false,
+    "size": "68.0 KiB",
+    "date": "28-Oct-2010 00:35"
+  },
+  {
+    "name": "ImageMaker.config_Oct77.pdf",
+    "href": "ImageMaker.config_Oct77.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/3.0_1977/listing/ImageMaker.config_Oct77.pdf",
+    "is_dir": false,
+    "size": "18.6 KiB",
+    "date": "27-Oct-2010 17:31"
+  },
+  {
+    "name": "IncludeChecker.config_Oct77.pdf",
+    "href": "IncludeChecker.config_Oct77.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/3.0_1977/listing/IncludeChecker.config_Oct77.pdf",
+    "is_dir": false,
+    "size": "15.9 KiB",
+    "date": "27-Oct-2010 17:31"
+  },
+  {
+    "name": "Includes.mesa_Oct77.pdf",
+    "href": "Includes.mesa_Oct77.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/3.0_1977/listing/Includes.mesa_Oct77.pdf",
+    "is_dir": false,
+    "size": "330.5 KiB",
+    "date": "27-Oct-2010 17:31"
+  },
+  {
+    "name": "InlineDefs.mesa_Oct77.pdf",
+    "href": "InlineDefs.mesa_Oct77.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/3.0_1977/listing/InlineDefs.mesa_Oct77.pdf",
+    "is_dir": false,
+    "size": "47.1 KiB",
+    "date": "28-Oct-2010 00:36"
+  },
+  {
+    "name": "KeyDefs.mesa_Oct77.pdf",
+    "href": "KeyDefs.mesa_Oct77.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/3.0_1977/listing/KeyDefs.mesa_Oct77.pdf",
+    "is_dir": false,
+    "size": "56.1 KiB",
+    "date": "28-Oct-2010 00:36"
+  },
+  {
+    "name": "KeyStreams.mesa_Oct77.pdf",
+    "href": "KeyStreams.mesa_Oct77.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/3.0_1977/listing/KeyStreams.mesa_Oct77.pdf",
+    "is_dir": false,
+    "size": "204.4 KiB",
+    "date": "28-Oct-2010 00:36"
+  },
+  {
+    "name": "Keyboard.mesa_Oct77.pdf",
+    "href": "Keyboard.mesa_Oct77.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/3.0_1977/listing/Keyboard.mesa_Oct77.pdf",
+    "is_dir": false,
+    "size": "130.4 KiB",
+    "date": "28-Oct-2010 00:36"
+  },
+  {
+    "name": "ListCode.mesa_Oct77.pdf",
+    "href": "ListCode.mesa_Oct77.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/3.0_1977/listing/ListCode.mesa_Oct77.pdf",
+    "is_dir": false,
+    "size": "487.0 KiB",
+    "date": "27-Oct-2010 17:31"
+  },
+  {
+    "name": "ListSymbols.mesa_Oct77.pdf",
+    "href": "ListSymbols.mesa_Oct77.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/3.0_1977/listing/ListSymbols.mesa_Oct77.pdf",
+    "is_dir": false,
+    "size": "317.4 KiB",
+    "date": "27-Oct-2010 17:31"
+  },
+  {
+    "name": "Lister.config_Oct77.pdf",
+    "href": "Lister.config_Oct77.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/3.0_1977/listing/Lister.config_Oct77.pdf",
+    "is_dir": false,
+    "size": "27.4 KiB",
+    "date": "27-Oct-2010 17:31"
+  },
+  {
+    "name": "ListerControl.mesa_Oct77.pdf",
+    "href": "ListerControl.mesa_Oct77.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/3.0_1977/listing/ListerControl.mesa_Oct77.pdf",
+    "is_dir": false,
+    "size": "36.0 KiB",
+    "date": "27-Oct-2010 17:31"
+  },
+  {
+    "name": "ListerDefs.mesa_Oct77.pdf",
+    "href": "ListerDefs.mesa_Oct77.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/3.0_1977/listing/ListerDefs.mesa_Oct77.pdf",
+    "is_dir": false,
+    "size": "35.2 KiB",
+    "date": "27-Oct-2010 17:31"
+  },
+  {
+    "name": "ListerInterface.mesa_Oct77.pdf",
+    "href": "ListerInterface.mesa_Oct77.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/3.0_1977/listing/ListerInterface.mesa_Oct77.pdf",
+    "is_dir": false,
+    "size": "188.4 KiB",
+    "date": "27-Oct-2010 17:31"
+  },
+  {
+    "name": "LookAt.mesa_Oct77.pdf",
+    "href": "LookAt.mesa_Oct77.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/3.0_1977/listing/LookAt.mesa_Oct77.pdf",
+    "is_dir": false,
+    "size": "41.1 KiB",
+    "date": "27-Oct-2010 17:31"
+  },
+  {
+    "name": "MakeCompiler.config_Oct77.pdf",
+    "href": "MakeCompiler.config_Oct77.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/3.0_1977/listing/MakeCompiler.config_Oct77.pdf",
+    "is_dir": false,
+    "size": "10.4 KiB",
+    "date": "27-Oct-2010 17:31"
+  },
+  {
+    "name": "MakeImage.mesa_Oct77.pdf",
+    "href": "MakeImage.mesa_Oct77.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/3.0_1977/listing/MakeImage.mesa_Oct77.pdf",
+    "is_dir": false,
+    "size": "731.1 KiB",
+    "date": "28-Oct-2010 00:36"
+  },
+  {
+    "name": "MakeImageUtilDefs.mesa_Oct77.pdf",
+    "href": "MakeImageUtilDefs.mesa_Oct77.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/3.0_1977/listing/MakeImageUtilDefs.mesa_Oct77.pdf",
+    "is_dir": false,
+    "size": "90.7 KiB",
+    "date": "28-Oct-2010 00:36"
+  },
+  {
+    "name": "MakeImageUtilities.mesa_Oct77.pdf",
+    "href": "MakeImageUtilities.mesa_Oct77.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/3.0_1977/listing/MakeImageUtilities.mesa_Oct77.pdf",
+    "is_dir": false,
+    "size": "271.1 KiB",
+    "date": "28-Oct-2010 00:36"
+  },
+  {
+    "name": "MenuDefs.mesa_Oct77.pdf",
+    "href": "MenuDefs.mesa_Oct77.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/3.0_1977/listing/MenuDefs.mesa_Oct77.pdf",
+    "is_dir": false,
+    "size": "37.7 KiB",
+    "date": "28-Oct-2010 00:36"
+  },
+  {
+    "name": "Menus.mesa_Oct77.pdf",
+    "href": "Menus.mesa_Oct77.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/3.0_1977/listing/Menus.mesa_Oct77.pdf",
+    "is_dir": false,
+    "size": "328.0 KiB",
+    "date": "28-Oct-2010 00:36"
+  },
+  {
+    "name": "Mesa.config_Oct77.pdf",
+    "href": "Mesa.config_Oct77.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/3.0_1977/listing/Mesa.config_Oct77.pdf",
+    "is_dir": false,
+    "size": "29.7 KiB",
+    "date": "27-Oct-2010 17:31"
+  },
+  {
+    "name": "MiniNub.mesa_Oct77.pdf",
+    "href": "MiniNub.mesa_Oct77.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/3.0_1977/listing/MiniNub.mesa_Oct77.pdf",
+    "is_dir": false,
+    "size": "125.9 KiB",
+    "date": "28-Oct-2010 00:36"
+  },
+  {
+    "name": "MiscDefs.mesa_Oct77.pdf",
+    "href": "MiscDefs.mesa_Oct77.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/3.0_1977/listing/MiscDefs.mesa_Oct77.pdf",
+    "is_dir": false,
+    "size": "20.3 KiB",
+    "date": "28-Oct-2010 00:36"
+  },
+  {
+    "name": "Miscellaneous.mesa_Oct77.pdf",
+    "href": "Miscellaneous.mesa_Oct77.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/3.0_1977/listing/Miscellaneous.mesa_Oct77.pdf",
+    "is_dir": false,
+    "size": "473.9 KiB",
+    "date": "28-Oct-2010 00:36"
+  },
+  {
+    "name": "Mopcodes.mesa_Oct77.pdf",
+    "href": "Mopcodes.mesa_Oct77.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/3.0_1977/listing/Mopcodes.mesa_Oct77.pdf",
+    "is_dir": false,
+    "size": "190.3 KiB",
+    "date": "28-Oct-2010 00:36"
+  },
+  {
+    "name": "NovaOps.mesa_Oct77.pdf",
+    "href": "NovaOps.mesa_Oct77.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/3.0_1977/listing/NovaOps.mesa_Oct77.pdf",
+    "is_dir": false,
+    "size": "34.5 KiB",
+    "date": "28-Oct-2010 00:36"
+  },
+  {
+    "name": "NubControl.mesa_Oct77.pdf",
+    "href": "NubControl.mesa_Oct77.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/3.0_1977/listing/NubControl.mesa_Oct77.pdf",
+    "is_dir": false,
+    "size": "206.3 KiB",
+    "date": "28-Oct-2010 00:36"
+  },
+  {
+    "name": "OpNames.mesa_Oct77.pdf",
+    "href": "OpNames.mesa_Oct77.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/3.0_1977/listing/OpNames.mesa_Oct77.pdf",
+    "is_dir": false,
+    "size": "157.9 KiB",
+    "date": "27-Oct-2010 17:31"
+  },
+  {
+    "name": "OpTable.mesa_Oct77.pdf",
+    "href": "OpTable.mesa_Oct77.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/3.0_1977/listing/OpTable.mesa_Oct77.pdf",
+    "is_dir": false,
+    "size": "156.5 KiB",
+    "date": "27-Oct-2010 17:31"
+  },
+  {
+    "name": "OsStaticDefs.mesa_Oct77.pdf",
+    "href": "OsStaticDefs.mesa_Oct77.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/3.0_1977/listing/OsStaticDefs.mesa_Oct77.pdf",
+    "is_dir": false,
+    "size": "55.3 KiB",
+    "date": "28-Oct-2010 00:36"
+  },
+  {
+    "name": "Output.mesa_Oct77.pdf",
+    "href": "Output.mesa_Oct77.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/3.0_1977/listing/Output.mesa_Oct77.pdf",
+    "is_dir": false,
+    "size": "62.6 KiB",
+    "date": "27-Oct-2010 17:31"
+  },
+  {
+    "name": "OutputDefs.mesa_Oct77.pdf",
+    "href": "OutputDefs.mesa_Oct77.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/3.0_1977/listing/OutputDefs.mesa_Oct77.pdf",
+    "is_dir": false,
+    "size": "23.5 KiB",
+    "date": "27-Oct-2010 17:31"
+  },
+  {
+    "name": "Process.mesa_Oct77.pdf",
+    "href": "Process.mesa_Oct77.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/3.0_1977/listing/Process.mesa_Oct77.pdf",
+    "is_dir": false,
+    "size": "130.9 KiB",
+    "date": "28-Oct-2010 00:36"
+  },
+  {
+    "name": "ProcessDefs.mesa_Oct77.pdf",
+    "href": "ProcessDefs.mesa_Oct77.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/3.0_1977/listing/ProcessDefs.mesa_Oct77.pdf",
+    "is_dir": false,
+    "size": "60.5 KiB",
+    "date": "28-Oct-2010 00:36"
+  },
+  {
+    "name": "RectangleDefs.mesa_Oct77.pdf",
+    "href": "RectangleDefs.mesa_Oct77.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/3.0_1977/listing/RectangleDefs.mesa_Oct77.pdf",
+    "is_dir": false,
+    "size": "213.9 KiB",
+    "date": "28-Oct-2010 00:36"
+  },
+  {
+    "name": "Rectangles.mesa_Oct77.pdf",
+    "href": "Rectangles.mesa_Oct77.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/3.0_1977/listing/Rectangles.mesa_Oct77.pdf",
+    "is_dir": false,
+    "size": "636.3 KiB",
+    "date": "28-Oct-2010 00:36"
+  },
+  {
+    "name": "SegMap.mesa_Oct77.pdf",
+    "href": "SegMap.mesa_Oct77.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/3.0_1977/listing/SegMap.mesa_Oct77.pdf",
+    "is_dir": false,
+    "size": "65.0 KiB",
+    "date": "27-Oct-2010 17:31"
+  },
+  {
+    "name": "SegmentDefs.mesa_Oct77.pdf",
+    "href": "SegmentDefs.mesa_Oct77.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/3.0_1977/listing/SegmentDefs.mesa_Oct77.pdf",
+    "is_dir": false,
+    "size": "182.8 KiB",
+    "date": "28-Oct-2010 00:36"
+  },
+  {
+    "name": "Segments.mesa_Oct77.pdf",
+    "href": "Segments.mesa_Oct77.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/3.0_1977/listing/Segments.mesa_Oct77.pdf",
+    "is_dir": false,
+    "size": "344.0 KiB",
+    "date": "28-Oct-2010 00:36"
+  },
+  {
+    "name": "SignalLister.config_Oct77.pdf",
+    "href": "SignalLister.config_Oct77.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/3.0_1977/listing/SignalLister.config_Oct77.pdf",
+    "is_dir": false,
+    "size": "24.6 KiB",
+    "date": "27-Oct-2010 17:31"
+  },
+  {
+    "name": "SimpleDisplay.config_Oct77.pdf",
+    "href": "SimpleDisplay.config_Oct77.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/3.0_1977/listing/SimpleDisplay.config_Oct77.pdf",
+    "is_dir": false,
+    "size": "15.1 KiB",
+    "date": "27-Oct-2010 17:31"
+  },
+  {
+    "name": "Statistics.config_Oct77.pdf",
+    "href": "Statistics.config_Oct77.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/3.0_1977/listing/Statistics.config_Oct77.pdf",
+    "is_dir": false,
+    "size": "12.9 KiB",
+    "date": "27-Oct-2010 17:31"
+  },
+  {
+    "name": "Stats.mesa_Oct77.pdf",
+    "href": "Stats.mesa_Oct77.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/3.0_1977/listing/Stats.mesa_Oct77.pdf",
+    "is_dir": false,
+    "size": "421.3 KiB",
+    "date": "27-Oct-2010 17:31"
+  },
+  {
+    "name": "StreamDefs.mesa_Oct77.pdf",
+    "href": "StreamDefs.mesa_Oct77.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/3.0_1977/listing/StreamDefs.mesa_Oct77.pdf",
+    "is_dir": false,
+    "size": "160.8 KiB",
+    "date": "28-Oct-2010 00:36"
+  },
+  {
+    "name": "StreamIO.mesa_Oct77.pdf",
+    "href": "StreamIO.mesa_Oct77.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/3.0_1977/listing/StreamIO.mesa_Oct77.pdf",
+    "is_dir": false,
+    "size": "209.1 KiB",
+    "date": "28-Oct-2010 00:36"
+  },
+  {
+    "name": "Streams.mesa_Oct77.pdf",
+    "href": "Streams.mesa_Oct77.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/3.0_1977/listing/Streams.mesa_Oct77.pdf",
+    "is_dir": false,
+    "size": "578.1 KiB",
+    "date": "28-Oct-2010 00:36"
+  },
+  {
+    "name": "StringDefs.mesa_Oct77.pdf",
+    "href": "StringDefs.mesa_Oct77.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/3.0_1977/listing/StringDefs.mesa_Oct77.pdf",
+    "is_dir": false,
+    "size": "59.8 KiB",
+    "date": "28-Oct-2010 00:36"
+  },
+  {
+    "name": "Strings.mesa_Oct77.pdf",
+    "href": "Strings.mesa_Oct77.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/3.0_1977/listing/Strings.mesa_Oct77.pdf",
+    "is_dir": false,
+    "size": "171.7 KiB",
+    "date": "28-Oct-2010 00:36"
+  },
+  {
+    "name": "Swapper.mesa_Oct77.pdf",
+    "href": "Swapper.mesa_Oct77.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/3.0_1977/listing/Swapper.mesa_Oct77.pdf",
+    "is_dir": false,
+    "size": "757.4 KiB",
+    "date": "28-Oct-2010 00:36"
+  },
+  {
+    "name": "SymCache.config_Oct77.pdf",
+    "href": "SymCache.config_Oct77.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/3.0_1977/listing/SymCache.config_Oct77.pdf",
+    "is_dir": false,
+    "size": "18.9 KiB",
+    "date": "27-Oct-2010 17:31"
+  },
+  {
+    "name": "SymDefs.mesa_Oct77.pdf",
+    "href": "SymDefs.mesa_Oct77.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/3.0_1977/listing/SymDefs.mesa_Oct77.pdf",
+    "is_dir": false,
+    "size": "186.0 KiB",
+    "date": "28-Oct-2010 00:36"
+  },
+  {
+    "name": "SymTabDefs.mesa_Oct77.pdf",
+    "href": "SymTabDefs.mesa_Oct77.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/3.0_1977/listing/SymTabDefs.mesa_Oct77.pdf",
+    "is_dir": false,
+    "size": "76.3 KiB",
+    "date": "28-Oct-2010 00:36"
+  },
+  {
+    "name": "SymbolCache.mesa_Oct77.pdf",
+    "href": "SymbolCache.mesa_Oct77.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/3.0_1977/listing/SymbolCache.mesa_Oct77.pdf",
+    "is_dir": false,
+    "size": "246.0 KiB",
+    "date": "28-Oct-2010 00:36"
+  },
+  {
+    "name": "SymbolTable.mesa_Oct77.pdf",
+    "href": "SymbolTable.mesa_Oct77.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/3.0_1977/listing/SymbolTable.mesa_Oct77.pdf",
+    "is_dir": false,
+    "size": "229.8 KiB",
+    "date": "28-Oct-2010 00:36"
+  },
+  {
+    "name": "SymbolTableDefs.mesa_Oct77.pdf",
+    "href": "SymbolTableDefs.mesa_Oct77.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/3.0_1977/listing/SymbolTableDefs.mesa_Oct77.pdf",
+    "is_dir": false,
+    "size": "41.1 KiB",
+    "date": "28-Oct-2010 00:36"
+  },
+  {
+    "name": "SystemDefs.mesa_Oct77.pdf",
+    "href": "SystemDefs.mesa_Oct77.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/3.0_1977/listing/SystemDefs.mesa_Oct77.pdf",
+    "is_dir": false,
+    "size": "34.7 KiB",
+    "date": "28-Oct-2010 00:36"
+  },
+  {
+    "name": "SystemDisplay.mesa_Oct77.pdf",
+    "href": "SystemDisplay.mesa_Oct77.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/3.0_1977/listing/SystemDisplay.mesa_Oct77.pdf",
+    "is_dir": false,
+    "size": "357.8 KiB",
+    "date": "28-Oct-2010 00:36"
+  },
+  {
+    "name": "TOC_1.pdf",
+    "href": "TOC_1.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/3.0_1977/listing/TOC_1.pdf",
+    "is_dir": false,
+    "size": "131.6 KiB",
+    "date": "28-Oct-2010 00:36"
+  },
+  {
+    "name": "TOC_2.pdf",
+    "href": "TOC_2.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/3.0_1977/listing/TOC_2.pdf",
+    "is_dir": false,
+    "size": "46.3 KiB",
+    "date": "27-Oct-2010 17:31"
+  },
+  {
+    "name": "TableDefs.mesa_Oct77.pdf",
+    "href": "TableDefs.mesa_Oct77.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/3.0_1977/listing/TableDefs.mesa_Oct77.pdf",
+    "is_dir": false,
+    "size": "48.6 KiB",
+    "date": "28-Oct-2010 00:36"
+  },
+  {
+    "name": "TimeConvert.mesa_Mar78.pdf",
+    "href": "TimeConvert.mesa_Mar78.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/3.0_1977/listing/TimeConvert.mesa_Mar78.pdf",
+    "is_dir": false,
+    "size": "182.4 KiB",
+    "date": "28-Oct-2010 00:36"
+  },
+  {
+    "name": "TimeConvert.mesa_Oct77.pdf",
+    "href": "TimeConvert.mesa_Oct77.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/3.0_1977/listing/TimeConvert.mesa_Oct77.pdf",
+    "is_dir": false,
+    "size": "124.2 KiB",
+    "date": "28-Oct-2010 00:36"
+  },
+  {
+    "name": "TimeDefs.mesa_Mar78.pdf",
+    "href": "TimeDefs.mesa_Mar78.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/3.0_1977/listing/TimeDefs.mesa_Mar78.pdf",
+    "is_dir": false,
+    "size": "47.4 KiB",
+    "date": "28-Oct-2010 00:36"
+  },
+  {
+    "name": "TimeDefs.mesa_Oct77.pdf",
+    "href": "TimeDefs.mesa_Oct77.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/3.0_1977/listing/TimeDefs.mesa_Oct77.pdf",
+    "is_dir": false,
+    "size": "35.2 KiB",
+    "date": "28-Oct-2010 00:36"
+  },
+  {
+    "name": "TrapDefs.mesa_Oct77.pdf",
+    "href": "TrapDefs.mesa_Oct77.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/3.0_1977/listing/TrapDefs.mesa_Oct77.pdf",
+    "is_dir": false,
+    "size": "19.7 KiB",
+    "date": "28-Oct-2010 00:36"
+  },
+  {
+    "name": "Version.mesa_Oct77.pdf",
+    "href": "Version.mesa_Oct77.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/3.0_1977/listing/Version.mesa_Oct77.pdf",
+    "is_dir": false,
+    "size": "241.0 KiB",
+    "date": "27-Oct-2010 17:31"
+  },
+  {
+    "name": "Viewer.config_Oct77.pdf",
+    "href": "Viewer.config_Oct77.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/3.0_1977/listing/Viewer.config_Oct77.pdf",
+    "is_dir": false,
+    "size": "13.2 KiB",
+    "date": "27-Oct-2010 17:31"
+  },
+  {
+    "name": "WManControl.mesa_Oct77.pdf",
+    "href": "WManControl.mesa_Oct77.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/3.0_1977/listing/WManControl.mesa_Oct77.pdf",
+    "is_dir": false,
+    "size": "372.0 KiB",
+    "date": "27-Oct-2010 17:31"
+  },
+  {
+    "name": "WManPosition.mesa_Oct77.pdf",
+    "href": "WManPosition.mesa_Oct77.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/3.0_1977/listing/WManPosition.mesa_Oct77.pdf",
+    "is_dir": false,
+    "size": "233.7 KiB",
+    "date": "27-Oct-2010 17:31"
+  },
+  {
+    "name": "WManSelection.mesa_Oct77.pdf",
+    "href": "WManSelection.mesa_Oct77.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/3.0_1977/listing/WManSelection.mesa_Oct77.pdf",
+    "is_dir": false,
+    "size": "228.6 KiB",
+    "date": "27-Oct-2010 17:31"
+  },
+  {
+    "name": "WManWindows.mesa_Oct77.pdf",
+    "href": "WManWindows.mesa_Oct77.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/3.0_1977/listing/WManWindows.mesa_Oct77.pdf",
+    "is_dir": false,
+    "size": "290.0 KiB",
+    "date": "27-Oct-2010 17:31"
+  },
+  {
+    "name": "WManager.config_Oct77.pdf",
+    "href": "WManager.config_Oct77.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/3.0_1977/listing/WManager.config_Oct77.pdf",
+    "is_dir": false,
+    "size": "19.1 KiB",
+    "date": "27-Oct-2010 17:31"
+  },
+  {
+    "name": "WManagerDefs.mesa_Oct77.pdf",
+    "href": "WManagerDefs.mesa_Oct77.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/3.0_1977/listing/WManagerDefs.mesa_Oct77.pdf",
+    "is_dir": false,
+    "size": "105.1 KiB",
+    "date": "27-Oct-2010 17:31"
+  },
+  {
+    "name": "WindowDefs.mesa_Oct77.pdf",
+    "href": "WindowDefs.mesa_Oct77.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/3.0_1977/listing/WindowDefs.mesa_Oct77.pdf",
+    "is_dir": false,
+    "size": "82.1 KiB",
+    "date": "28-Oct-2010 00:36"
+  },
+  {
+    "name": "Windows.mesa_Oct77.pdf",
+    "href": "Windows.mesa_Oct77.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/3.0_1977/listing/Windows.mesa_Oct77.pdf",
+    "is_dir": false,
+    "size": "594.8 KiB",
+    "date": "28-Oct-2010 00:36"
+  },
+  {
+    "name": "Zap.mesa_Oct77.pdf",
+    "href": "Zap.mesa_Oct77.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/3.0_1977/listing/Zap.mesa_Oct77.pdf",
+    "is_dir": false,
+    "size": "216.9 KiB",
+    "date": "27-Oct-2010 17:31"
+  },
+  {
+    "name": "Zapper.config_Oct77.pdf",
+    "href": "Zapper.config_Oct77.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/xerox/mesa/3.0_1977/listing/Zapper.config_Oct77.pdf",
+    "is_dir": false,
+    "size": "15.2 KiB",
+    "date": "27-Oct-2010 17:31"
+  }
+]

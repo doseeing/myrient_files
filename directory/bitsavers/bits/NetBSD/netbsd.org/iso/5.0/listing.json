@@ -1,0 +1,1050 @@
+[
+  {
+    "name": "BSDSUM",
+    "href": "BSDSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.0/BSDSUM",
+    "is_dir": false,
+    "size": "1.2 KiB",
+    "date": "27-Apr-2009 17:11"
+  },
+  {
+    "name": "CKSUM",
+    "href": "CKSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.0/CKSUM",
+    "is_dir": false,
+    "size": "1.6 KiB",
+    "date": "27-Apr-2009 17:27"
+  },
+  {
+    "name": "MD5",
+    "href": "MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.0/MD5",
+    "is_dir": false,
+    "size": "2.4 KiB",
+    "date": "27-Apr-2009 17:31"
+  },
+  {
+    "name": "SHA512",
+    "href": "SHA512",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.0/SHA512",
+    "is_dir": false,
+    "size": "6.4 KiB",
+    "date": "27-Apr-2009 17:35"
+  },
+  {
+    "name": "SYSVSUM",
+    "href": "SYSVSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.0/SYSVSUM",
+    "is_dir": false,
+    "size": "1.2 KiB",
+    "date": "27-Apr-2009 17:40"
+  },
+  {
+    "name": "acorn26cd-5.0.iso",
+    "href": "acorn26cd-5.0.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.0/acorn26cd-5.0.iso",
+    "is_dir": false,
+    "size": "154.3 MiB",
+    "date": "26-Apr-2009 06:39"
+  },
+  {
+    "name": "acorn26cd-5.0.iso.MD5",
+    "href": "acorn26cd-5.0.iso.MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.0/acorn26cd-5.0.iso.MD5",
+    "is_dir": false,
+    "size": "59 B",
+    "date": "27-Apr-2009 16:52"
+  },
+  {
+    "name": "acorn26cd-5.0.iso.SHA1",
+    "href": "acorn26cd-5.0.iso.SHA1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.0/acorn26cd-5.0.iso.SHA1",
+    "is_dir": false,
+    "size": "68 B",
+    "date": "27-Apr-2009 16:59"
+  },
+  {
+    "name": "acorn32cd-5.0.iso",
+    "href": "acorn32cd-5.0.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.0/acorn32cd-5.0.iso",
+    "is_dir": false,
+    "size": "159.8 MiB",
+    "date": "26-Apr-2009 05:59"
+  },
+  {
+    "name": "acorn32cd-5.0.iso.MD5",
+    "href": "acorn32cd-5.0.iso.MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.0/acorn32cd-5.0.iso.MD5",
+    "is_dir": false,
+    "size": "59 B",
+    "date": "27-Apr-2009 16:52"
+  },
+  {
+    "name": "acorn32cd-5.0.iso.SHA1",
+    "href": "acorn32cd-5.0.iso.SHA1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.0/acorn32cd-5.0.iso.SHA1",
+    "is_dir": false,
+    "size": "68 B",
+    "date": "27-Apr-2009 16:59"
+  },
+  {
+    "name": "alphacd-5.0.iso",
+    "href": "alphacd-5.0.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.0/alphacd-5.0.iso",
+    "is_dir": false,
+    "size": "206.1 MiB",
+    "date": "26-Apr-2009 06:59"
+  },
+  {
+    "name": "alphacd-5.0.iso.MD5",
+    "href": "alphacd-5.0.iso.MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.0/alphacd-5.0.iso.MD5",
+    "is_dir": false,
+    "size": "57 B",
+    "date": "27-Apr-2009 16:52"
+  },
+  {
+    "name": "alphacd-5.0.iso.SHA1",
+    "href": "alphacd-5.0.iso.SHA1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.0/alphacd-5.0.iso.SHA1",
+    "is_dir": false,
+    "size": "66 B",
+    "date": "27-Apr-2009 16:59"
+  },
+  {
+    "name": "amd64cd-5.0.iso",
+    "href": "amd64cd-5.0.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.0/amd64cd-5.0.iso",
+    "is_dir": false,
+    "size": "241.5 MiB",
+    "date": "26-Apr-2009 07:01"
+  },
+  {
+    "name": "amd64cd-5.0.iso.MD5",
+    "href": "amd64cd-5.0.iso.MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.0/amd64cd-5.0.iso.MD5",
+    "is_dir": false,
+    "size": "57 B",
+    "date": "27-Apr-2009 16:52"
+  },
+  {
+    "name": "amd64cd-5.0.iso.SHA1",
+    "href": "amd64cd-5.0.iso.SHA1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.0/amd64cd-5.0.iso.SHA1",
+    "is_dir": false,
+    "size": "66 B",
+    "date": "27-Apr-2009 16:59"
+  },
+  {
+    "name": "amigacd-5.0.iso",
+    "href": "amigacd-5.0.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.0/amigacd-5.0.iso",
+    "is_dir": false,
+    "size": "145.7 MiB",
+    "date": "26-Apr-2009 08:55"
+  },
+  {
+    "name": "amigacd-5.0.iso.MD5",
+    "href": "amigacd-5.0.iso.MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.0/amigacd-5.0.iso.MD5",
+    "is_dir": false,
+    "size": "57 B",
+    "date": "27-Apr-2009 16:52"
+  },
+  {
+    "name": "amigacd-5.0.iso.SHA1",
+    "href": "amigacd-5.0.iso.SHA1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.0/amigacd-5.0.iso.SHA1",
+    "is_dir": false,
+    "size": "66 B",
+    "date": "27-Apr-2009 16:59"
+  },
+  {
+    "name": "arccd-5.0.iso",
+    "href": "arccd-5.0.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.0/arccd-5.0.iso",
+    "is_dir": false,
+    "size": "152.5 MiB",
+    "date": "26-Apr-2009 09:31"
+  },
+  {
+    "name": "arccd-5.0.iso.MD5",
+    "href": "arccd-5.0.iso.MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.0/arccd-5.0.iso.MD5",
+    "is_dir": false,
+    "size": "55 B",
+    "date": "27-Apr-2009 16:52"
+  },
+  {
+    "name": "arccd-5.0.iso.SHA1",
+    "href": "arccd-5.0.iso.SHA1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.0/arccd-5.0.iso.SHA1",
+    "is_dir": false,
+    "size": "64 B",
+    "date": "27-Apr-2009 16:59"
+  },
+  {
+    "name": "ataricd-5.0.iso",
+    "href": "ataricd-5.0.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.0/ataricd-5.0.iso",
+    "is_dir": false,
+    "size": "151.7 MiB",
+    "date": "26-Apr-2009 08:55"
+  },
+  {
+    "name": "ataricd-5.0.iso.MD5",
+    "href": "ataricd-5.0.iso.MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.0/ataricd-5.0.iso.MD5",
+    "is_dir": false,
+    "size": "57 B",
+    "date": "27-Apr-2009 16:52"
+  },
+  {
+    "name": "ataricd-5.0.iso.SHA1",
+    "href": "ataricd-5.0.iso.SHA1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.0/ataricd-5.0.iso.SHA1",
+    "is_dir": false,
+    "size": "66 B",
+    "date": "27-Apr-2009 16:59"
+  },
+  {
+    "name": "catscd-5.0.iso",
+    "href": "catscd-5.0.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.0/catscd-5.0.iso",
+    "is_dir": false,
+    "size": "175.3 MiB",
+    "date": "26-Apr-2009 10:15"
+  },
+  {
+    "name": "catscd-5.0.iso.MD5",
+    "href": "catscd-5.0.iso.MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.0/catscd-5.0.iso.MD5",
+    "is_dir": false,
+    "size": "56 B",
+    "date": "27-Apr-2009 16:52"
+  },
+  {
+    "name": "catscd-5.0.iso.SHA1",
+    "href": "catscd-5.0.iso.SHA1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.0/catscd-5.0.iso.SHA1",
+    "is_dir": false,
+    "size": "65 B",
+    "date": "27-Apr-2009 16:59"
+  },
+  {
+    "name": "cobaltcd-5.0.iso",
+    "href": "cobaltcd-5.0.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.0/cobaltcd-5.0.iso",
+    "is_dir": false,
+    "size": "151.0 MiB",
+    "date": "26-Apr-2009 10:47"
+  },
+  {
+    "name": "cobaltcd-5.0.iso.MD5",
+    "href": "cobaltcd-5.0.iso.MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.0/cobaltcd-5.0.iso.MD5",
+    "is_dir": false,
+    "size": "58 B",
+    "date": "27-Apr-2009 16:52"
+  },
+  {
+    "name": "cobaltcd-5.0.iso.SHA1",
+    "href": "cobaltcd-5.0.iso.SHA1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.0/cobaltcd-5.0.iso.SHA1",
+    "is_dir": false,
+    "size": "67 B",
+    "date": "27-Apr-2009 16:59"
+  },
+  {
+    "name": "dreamcastcd-5.0.iso",
+    "href": "dreamcastcd-5.0.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.0/dreamcastcd-5.0.iso",
+    "is_dir": false,
+    "size": "148.4 MiB",
+    "date": "26-Apr-2009 12:12"
+  },
+  {
+    "name": "dreamcastcd-5.0.iso.MD5",
+    "href": "dreamcastcd-5.0.iso.MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.0/dreamcastcd-5.0.iso.MD5",
+    "is_dir": false,
+    "size": "61 B",
+    "date": "27-Apr-2009 16:52"
+  },
+  {
+    "name": "dreamcastcd-5.0.iso.SHA1",
+    "href": "dreamcastcd-5.0.iso.SHA1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.0/dreamcastcd-5.0.iso.SHA1",
+    "is_dir": false,
+    "size": "70 B",
+    "date": "27-Apr-2009 17:00"
+  },
+  {
+    "name": "evbarmcd-5.0.iso",
+    "href": "evbarmcd-5.0.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.0/evbarmcd-5.0.iso",
+    "is_dir": false,
+    "size": "600.1 MiB",
+    "date": "26-Apr-2009 14:21"
+  },
+  {
+    "name": "evbarmcd-5.0.iso.MD5",
+    "href": "evbarmcd-5.0.iso.MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.0/evbarmcd-5.0.iso.MD5",
+    "is_dir": false,
+    "size": "58 B",
+    "date": "27-Apr-2009 16:52"
+  },
+  {
+    "name": "evbarmcd-5.0.iso.SHA1",
+    "href": "evbarmcd-5.0.iso.SHA1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.0/evbarmcd-5.0.iso.SHA1",
+    "is_dir": false,
+    "size": "67 B",
+    "date": "27-Apr-2009 17:00"
+  },
+  {
+    "name": "evbmips-mipsebcd-5.0.iso",
+    "href": "evbmips-mipsebcd-5.0.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.0/evbmips-mipsebcd-5.0.iso",
+    "is_dir": false,
+    "size": "183.4 MiB",
+    "date": "26-Apr-2009 12:46"
+  },
+  {
+    "name": "evbmips-mipsebcd-5.0.iso.MD5",
+    "href": "evbmips-mipsebcd-5.0.iso.MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.0/evbmips-mipsebcd-5.0.iso.MD5",
+    "is_dir": false,
+    "size": "66 B",
+    "date": "27-Apr-2009 16:53"
+  },
+  {
+    "name": "evbmips-mipsebcd-5.0.iso.SHA1",
+    "href": "evbmips-mipsebcd-5.0.iso.SHA1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.0/evbmips-mipsebcd-5.0.iso.SHA1",
+    "is_dir": false,
+    "size": "75 B",
+    "date": "27-Apr-2009 17:00"
+  },
+  {
+    "name": "evbmips-mipselcd-5.0.iso",
+    "href": "evbmips-mipselcd-5.0.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.0/evbmips-mipselcd-5.0.iso",
+    "is_dir": false,
+    "size": "207.8 MiB",
+    "date": "26-Apr-2009 13:44"
+  },
+  {
+    "name": "evbmips-mipselcd-5.0.iso.MD5",
+    "href": "evbmips-mipselcd-5.0.iso.MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.0/evbmips-mipselcd-5.0.iso.MD5",
+    "is_dir": false,
+    "size": "66 B",
+    "date": "27-Apr-2009 16:53"
+  },
+  {
+    "name": "evbmips-mipselcd-5.0.iso.SHA1",
+    "href": "evbmips-mipselcd-5.0.iso.SHA1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.0/evbmips-mipselcd-5.0.iso.SHA1",
+    "is_dir": false,
+    "size": "75 B",
+    "date": "27-Apr-2009 17:00"
+  },
+  {
+    "name": "evbppccd-5.0.iso",
+    "href": "evbppccd-5.0.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.0/evbppccd-5.0.iso",
+    "is_dir": false,
+    "size": "198.5 MiB",
+    "date": "26-Apr-2009 14:07"
+  },
+  {
+    "name": "evbppccd-5.0.iso.MD5",
+    "href": "evbppccd-5.0.iso.MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.0/evbppccd-5.0.iso.MD5",
+    "is_dir": false,
+    "size": "58 B",
+    "date": "27-Apr-2009 16:53"
+  },
+  {
+    "name": "evbppccd-5.0.iso.SHA1",
+    "href": "evbppccd-5.0.iso.SHA1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.0/evbppccd-5.0.iso.SHA1",
+    "is_dir": false,
+    "size": "67 B",
+    "date": "27-Apr-2009 17:00"
+  },
+  {
+    "name": "ews4800mipscd-5.0.iso",
+    "href": "ews4800mipscd-5.0.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.0/ews4800mipscd-5.0.iso",
+    "is_dir": false,
+    "size": "153.7 MiB",
+    "date": "26-Apr-2009 16:38"
+  },
+  {
+    "name": "ews4800mipscd-5.0.iso.MD5",
+    "href": "ews4800mipscd-5.0.iso.MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.0/ews4800mipscd-5.0.iso.MD5",
+    "is_dir": false,
+    "size": "63 B",
+    "date": "27-Apr-2009 16:53"
+  },
+  {
+    "name": "ews4800mipscd-5.0.iso.SHA1",
+    "href": "ews4800mipscd-5.0.iso.SHA1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.0/ews4800mipscd-5.0.iso.SHA1",
+    "is_dir": false,
+    "size": "72 B",
+    "date": "27-Apr-2009 17:00"
+  },
+  {
+    "name": "hp300cd-5.0.iso",
+    "href": "hp300cd-5.0.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.0/hp300cd-5.0.iso",
+    "is_dir": false,
+    "size": "142.4 MiB",
+    "date": "26-Apr-2009 16:36"
+  },
+  {
+    "name": "hp300cd-5.0.iso.MD5",
+    "href": "hp300cd-5.0.iso.MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.0/hp300cd-5.0.iso.MD5",
+    "is_dir": false,
+    "size": "57 B",
+    "date": "27-Apr-2009 16:53"
+  },
+  {
+    "name": "hp300cd-5.0.iso.SHA1",
+    "href": "hp300cd-5.0.iso.SHA1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.0/hp300cd-5.0.iso.SHA1",
+    "is_dir": false,
+    "size": "66 B",
+    "date": "27-Apr-2009 17:00"
+  },
+  {
+    "name": "hp700cd-5.0.iso",
+    "href": "hp700cd-5.0.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.0/hp700cd-5.0.iso",
+    "is_dir": false,
+    "size": "193.1 MiB",
+    "date": "26-Apr-2009 17:22"
+  },
+  {
+    "name": "hp700cd-5.0.iso.MD5",
+    "href": "hp700cd-5.0.iso.MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.0/hp700cd-5.0.iso.MD5",
+    "is_dir": false,
+    "size": "57 B",
+    "date": "27-Apr-2009 16:53"
+  },
+  {
+    "name": "hp700cd-5.0.iso.SHA1",
+    "href": "hp700cd-5.0.iso.SHA1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.0/hp700cd-5.0.iso.SHA1",
+    "is_dir": false,
+    "size": "66 B",
+    "date": "27-Apr-2009 17:00"
+  },
+  {
+    "name": "hpcarmcd-5.0.iso",
+    "href": "hpcarmcd-5.0.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.0/hpcarmcd-5.0.iso",
+    "is_dir": false,
+    "size": "158.3 MiB",
+    "date": "26-Apr-2009 16:40"
+  },
+  {
+    "name": "hpcarmcd-5.0.iso.MD5",
+    "href": "hpcarmcd-5.0.iso.MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.0/hpcarmcd-5.0.iso.MD5",
+    "is_dir": false,
+    "size": "58 B",
+    "date": "27-Apr-2009 16:53"
+  },
+  {
+    "name": "hpcarmcd-5.0.iso.SHA1",
+    "href": "hpcarmcd-5.0.iso.SHA1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.0/hpcarmcd-5.0.iso.SHA1",
+    "is_dir": false,
+    "size": "67 B",
+    "date": "27-Apr-2009 17:00"
+  },
+  {
+    "name": "hpcmipscd-5.0.iso",
+    "href": "hpcmipscd-5.0.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.0/hpcmipscd-5.0.iso",
+    "is_dir": false,
+    "size": "157.7 MiB",
+    "date": "26-Apr-2009 17:39"
+  },
+  {
+    "name": "hpcmipscd-5.0.iso.MD5",
+    "href": "hpcmipscd-5.0.iso.MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.0/hpcmipscd-5.0.iso.MD5",
+    "is_dir": false,
+    "size": "59 B",
+    "date": "27-Apr-2009 16:53"
+  },
+  {
+    "name": "hpcmipscd-5.0.iso.SHA1",
+    "href": "hpcmipscd-5.0.iso.SHA1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.0/hpcmipscd-5.0.iso.SHA1",
+    "is_dir": false,
+    "size": "68 B",
+    "date": "27-Apr-2009 17:00"
+  },
+  {
+    "name": "hpcshcd-5.0.iso",
+    "href": "hpcshcd-5.0.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.0/hpcshcd-5.0.iso",
+    "is_dir": false,
+    "size": "150.8 MiB",
+    "date": "26-Apr-2009 19:24"
+  },
+  {
+    "name": "hpcshcd-5.0.iso.MD5",
+    "href": "hpcshcd-5.0.iso.MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.0/hpcshcd-5.0.iso.MD5",
+    "is_dir": false,
+    "size": "57 B",
+    "date": "27-Apr-2009 16:53"
+  },
+  {
+    "name": "hpcshcd-5.0.iso.SHA1",
+    "href": "hpcshcd-5.0.iso.SHA1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.0/hpcshcd-5.0.iso.SHA1",
+    "is_dir": false,
+    "size": "66 B",
+    "date": "27-Apr-2009 17:00"
+  },
+  {
+    "name": "i386cd-5.0.iso",
+    "href": "i386cd-5.0.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.0/i386cd-5.0.iso",
+    "is_dir": false,
+    "size": "228.6 MiB",
+    "date": "26-Apr-2009 19:32"
+  },
+  {
+    "name": "i386cd-5.0.iso.MD5",
+    "href": "i386cd-5.0.iso.MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.0/i386cd-5.0.iso.MD5",
+    "is_dir": false,
+    "size": "56 B",
+    "date": "27-Apr-2009 16:53"
+  },
+  {
+    "name": "i386cd-5.0.iso.SHA1",
+    "href": "i386cd-5.0.iso.SHA1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.0/i386cd-5.0.iso.SHA1",
+    "is_dir": false,
+    "size": "65 B",
+    "date": "27-Apr-2009 17:00"
+  },
+  {
+    "name": "ibmnwscd-5.0.iso",
+    "href": "ibmnwscd-5.0.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.0/ibmnwscd-5.0.iso",
+    "is_dir": false,
+    "size": "153.3 MiB",
+    "date": "26-Apr-2009 19:42"
+  },
+  {
+    "name": "ibmnwscd-5.0.iso.MD5",
+    "href": "ibmnwscd-5.0.iso.MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.0/ibmnwscd-5.0.iso.MD5",
+    "is_dir": false,
+    "size": "58 B",
+    "date": "27-Apr-2009 16:53"
+  },
+  {
+    "name": "ibmnwscd-5.0.iso.SHA1",
+    "href": "ibmnwscd-5.0.iso.SHA1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.0/ibmnwscd-5.0.iso.SHA1",
+    "is_dir": false,
+    "size": "67 B",
+    "date": "27-Apr-2009 17:01"
+  },
+  {
+    "name": "mac68kcd-5.0.iso",
+    "href": "mac68kcd-5.0.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.0/mac68kcd-5.0.iso",
+    "is_dir": false,
+    "size": "152.7 MiB",
+    "date": "27-Apr-2009 00:34"
+  },
+  {
+    "name": "mac68kcd-5.0.iso.MD5",
+    "href": "mac68kcd-5.0.iso.MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.0/mac68kcd-5.0.iso.MD5",
+    "is_dir": false,
+    "size": "58 B",
+    "date": "27-Apr-2009 16:53"
+  },
+  {
+    "name": "mac68kcd-5.0.iso.SHA1",
+    "href": "mac68kcd-5.0.iso.SHA1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.0/mac68kcd-5.0.iso.SHA1",
+    "is_dir": false,
+    "size": "67 B",
+    "date": "27-Apr-2009 17:01"
+  },
+  {
+    "name": "macppccd-5.0.iso",
+    "href": "macppccd-5.0.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.0/macppccd-5.0.iso",
+    "is_dir": false,
+    "size": "194.1 MiB",
+    "date": "27-Apr-2009 00:32"
+  },
+  {
+    "name": "macppccd-5.0.iso.MD5",
+    "href": "macppccd-5.0.iso.MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.0/macppccd-5.0.iso.MD5",
+    "is_dir": false,
+    "size": "58 B",
+    "date": "27-Apr-2009 16:53"
+  },
+  {
+    "name": "macppccd-5.0.iso.SHA1",
+    "href": "macppccd-5.0.iso.SHA1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.0/macppccd-5.0.iso.SHA1",
+    "is_dir": false,
+    "size": "67 B",
+    "date": "27-Apr-2009 17:01"
+  },
+  {
+    "name": "mipscocd-5.0.iso",
+    "href": "mipscocd-5.0.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.0/mipscocd-5.0.iso",
+    "is_dir": false,
+    "size": "149.1 MiB",
+    "date": "26-Apr-2009 22:38"
+  },
+  {
+    "name": "mipscocd-5.0.iso.MD5",
+    "href": "mipscocd-5.0.iso.MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.0/mipscocd-5.0.iso.MD5",
+    "is_dir": false,
+    "size": "58 B",
+    "date": "27-Apr-2009 16:53"
+  },
+  {
+    "name": "mipscocd-5.0.iso.SHA1",
+    "href": "mipscocd-5.0.iso.SHA1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.0/mipscocd-5.0.iso.SHA1",
+    "is_dir": false,
+    "size": "67 B",
+    "date": "27-Apr-2009 17:01"
+  },
+  {
+    "name": "mvme68kcd-5.0.iso",
+    "href": "mvme68kcd-5.0.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.0/mvme68kcd-5.0.iso",
+    "is_dir": false,
+    "size": "149.2 MiB",
+    "date": "27-Apr-2009 00:02"
+  },
+  {
+    "name": "mvme68kcd-5.0.iso.MD5",
+    "href": "mvme68kcd-5.0.iso.MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.0/mvme68kcd-5.0.iso.MD5",
+    "is_dir": false,
+    "size": "59 B",
+    "date": "27-Apr-2009 16:54"
+  },
+  {
+    "name": "mvme68kcd-5.0.iso.SHA1",
+    "href": "mvme68kcd-5.0.iso.SHA1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.0/mvme68kcd-5.0.iso.SHA1",
+    "is_dir": false,
+    "size": "68 B",
+    "date": "27-Apr-2009 17:01"
+  },
+  {
+    "name": "mvmeppccd-5.0.iso",
+    "href": "mvmeppccd-5.0.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.0/mvmeppccd-5.0.iso",
+    "is_dir": false,
+    "size": "152.7 MiB",
+    "date": "26-Apr-2009 23:56"
+  },
+  {
+    "name": "mvmeppccd-5.0.iso.MD5",
+    "href": "mvmeppccd-5.0.iso.MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.0/mvmeppccd-5.0.iso.MD5",
+    "is_dir": false,
+    "size": "59 B",
+    "date": "27-Apr-2009 16:54"
+  },
+  {
+    "name": "mvmeppccd-5.0.iso.SHA1",
+    "href": "mvmeppccd-5.0.iso.SHA1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.0/mvmeppccd-5.0.iso.SHA1",
+    "is_dir": false,
+    "size": "68 B",
+    "date": "27-Apr-2009 17:01"
+  },
+  {
+    "name": "news68kcd-5.0.iso",
+    "href": "news68kcd-5.0.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.0/news68kcd-5.0.iso",
+    "is_dir": false,
+    "size": "142.7 MiB",
+    "date": "27-Apr-2009 01:29"
+  },
+  {
+    "name": "news68kcd-5.0.iso.MD5",
+    "href": "news68kcd-5.0.iso.MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.0/news68kcd-5.0.iso.MD5",
+    "is_dir": false,
+    "size": "59 B",
+    "date": "27-Apr-2009 16:54"
+  },
+  {
+    "name": "news68kcd-5.0.iso.SHA1",
+    "href": "news68kcd-5.0.iso.SHA1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.0/news68kcd-5.0.iso.SHA1",
+    "is_dir": false,
+    "size": "68 B",
+    "date": "27-Apr-2009 17:01"
+  },
+  {
+    "name": "newsmipscd-5.0.iso",
+    "href": "newsmipscd-5.0.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.0/newsmipscd-5.0.iso",
+    "is_dir": false,
+    "size": "150.7 MiB",
+    "date": "27-Apr-2009 01:04"
+  },
+  {
+    "name": "newsmipscd-5.0.iso.MD5",
+    "href": "newsmipscd-5.0.iso.MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.0/newsmipscd-5.0.iso.MD5",
+    "is_dir": false,
+    "size": "60 B",
+    "date": "27-Apr-2009 16:54"
+  },
+  {
+    "name": "newsmipscd-5.0.iso.SHA1",
+    "href": "newsmipscd-5.0.iso.SHA1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.0/newsmipscd-5.0.iso.SHA1",
+    "is_dir": false,
+    "size": "69 B",
+    "date": "27-Apr-2009 17:01"
+  },
+  {
+    "name": "ofppccd-5.0.iso",
+    "href": "ofppccd-5.0.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.0/ofppccd-5.0.iso",
+    "is_dir": false,
+    "size": "167.2 MiB",
+    "date": "27-Apr-2009 03:11"
+  },
+  {
+    "name": "ofppccd-5.0.iso.MD5",
+    "href": "ofppccd-5.0.iso.MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.0/ofppccd-5.0.iso.MD5",
+    "is_dir": false,
+    "size": "57 B",
+    "date": "27-Apr-2009 16:54"
+  },
+  {
+    "name": "ofppccd-5.0.iso.SHA1",
+    "href": "ofppccd-5.0.iso.SHA1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.0/ofppccd-5.0.iso.SHA1",
+    "is_dir": false,
+    "size": "66 B",
+    "date": "27-Apr-2009 17:01"
+  },
+  {
+    "name": "pmaxcd-5.0.iso",
+    "href": "pmaxcd-5.0.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.0/pmaxcd-5.0.iso",
+    "is_dir": false,
+    "size": "161.8 MiB",
+    "date": "27-Apr-2009 03:01"
+  },
+  {
+    "name": "pmaxcd-5.0.iso.MD5",
+    "href": "pmaxcd-5.0.iso.MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.0/pmaxcd-5.0.iso.MD5",
+    "is_dir": false,
+    "size": "56 B",
+    "date": "27-Apr-2009 16:54"
+  },
+  {
+    "name": "pmaxcd-5.0.iso.SHA1",
+    "href": "pmaxcd-5.0.iso.SHA1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.0/pmaxcd-5.0.iso.SHA1",
+    "is_dir": false,
+    "size": "65 B",
+    "date": "27-Apr-2009 17:01"
+  },
+  {
+    "name": "prepcd-5.0.iso",
+    "href": "prepcd-5.0.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.0/prepcd-5.0.iso",
+    "is_dir": false,
+    "size": "175.1 MiB",
+    "date": "27-Apr-2009 04:41"
+  },
+  {
+    "name": "prepcd-5.0.iso.MD5",
+    "href": "prepcd-5.0.iso.MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.0/prepcd-5.0.iso.MD5",
+    "is_dir": false,
+    "size": "56 B",
+    "date": "27-Apr-2009 16:54"
+  },
+  {
+    "name": "prepcd-5.0.iso.SHA1",
+    "href": "prepcd-5.0.iso.SHA1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.0/prepcd-5.0.iso.SHA1",
+    "is_dir": false,
+    "size": "65 B",
+    "date": "27-Apr-2009 17:01"
+  },
+  {
+    "name": "sandpointcd-5.0.iso",
+    "href": "sandpointcd-5.0.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.0/sandpointcd-5.0.iso",
+    "is_dir": false,
+    "size": "156.3 MiB",
+    "date": "27-Apr-2009 04:40"
+  },
+  {
+    "name": "sandpointcd-5.0.iso.MD5",
+    "href": "sandpointcd-5.0.iso.MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.0/sandpointcd-5.0.iso.MD5",
+    "is_dir": false,
+    "size": "61 B",
+    "date": "27-Apr-2009 16:54"
+  },
+  {
+    "name": "sandpointcd-5.0.iso.SHA1",
+    "href": "sandpointcd-5.0.iso.SHA1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.0/sandpointcd-5.0.iso.SHA1",
+    "is_dir": false,
+    "size": "70 B",
+    "date": "27-Apr-2009 17:01"
+  },
+  {
+    "name": "sgimipscd-5.0.iso",
+    "href": "sgimipscd-5.0.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.0/sgimipscd-5.0.iso",
+    "is_dir": false,
+    "size": "187.5 MiB",
+    "date": "27-Apr-2009 06:34"
+  },
+  {
+    "name": "sgimipscd-5.0.iso.MD5",
+    "href": "sgimipscd-5.0.iso.MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.0/sgimipscd-5.0.iso.MD5",
+    "is_dir": false,
+    "size": "59 B",
+    "date": "27-Apr-2009 16:54"
+  },
+  {
+    "name": "sgimipscd-5.0.iso.SHA1",
+    "href": "sgimipscd-5.0.iso.SHA1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.0/sgimipscd-5.0.iso.SHA1",
+    "is_dir": false,
+    "size": "68 B",
+    "date": "27-Apr-2009 17:01"
+  },
+  {
+    "name": "sharkcd-5.0.iso",
+    "href": "sharkcd-5.0.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.0/sharkcd-5.0.iso",
+    "is_dir": false,
+    "size": "166.1 MiB",
+    "date": "27-Apr-2009 07:36"
+  },
+  {
+    "name": "sharkcd-5.0.iso.MD5",
+    "href": "sharkcd-5.0.iso.MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.0/sharkcd-5.0.iso.MD5",
+    "is_dir": false,
+    "size": "57 B",
+    "date": "27-Apr-2009 16:54"
+  },
+  {
+    "name": "sharkcd-5.0.iso.SHA1",
+    "href": "sharkcd-5.0.iso.SHA1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.0/sharkcd-5.0.iso.SHA1",
+    "is_dir": false,
+    "size": "66 B",
+    "date": "27-Apr-2009 17:01"
+  },
+  {
+    "name": "sourcecd-5.0.iso",
+    "href": "sourcecd-5.0.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.0/sourcecd-5.0.iso",
+    "is_dir": false,
+    "size": "314.9 MiB",
+    "date": "27-Apr-2009 02:42"
+  },
+  {
+    "name": "sourcecd-5.0.iso.MD5",
+    "href": "sourcecd-5.0.iso.MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.0/sourcecd-5.0.iso.MD5",
+    "is_dir": false,
+    "size": "58 B",
+    "date": "27-Apr-2009 16:54"
+  },
+  {
+    "name": "sourcecd-5.0.iso.SHA1",
+    "href": "sourcecd-5.0.iso.SHA1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.0/sourcecd-5.0.iso.SHA1",
+    "is_dir": false,
+    "size": "67 B",
+    "date": "27-Apr-2009 17:02"
+  },
+  {
+    "name": "sparc64cd-5.0.iso",
+    "href": "sparc64cd-5.0.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.0/sparc64cd-5.0.iso",
+    "is_dir": false,
+    "size": "217.8 MiB",
+    "date": "27-Apr-2009 08:36"
+  },
+  {
+    "name": "sparc64cd-5.0.iso.MD5",
+    "href": "sparc64cd-5.0.iso.MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.0/sparc64cd-5.0.iso.MD5",
+    "is_dir": false,
+    "size": "59 B",
+    "date": "27-Apr-2009 16:54"
+  },
+  {
+    "name": "sparc64cd-5.0.iso.SHA1",
+    "href": "sparc64cd-5.0.iso.SHA1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.0/sparc64cd-5.0.iso.SHA1",
+    "is_dir": false,
+    "size": "68 B",
+    "date": "27-Apr-2009 17:02"
+  },
+  {
+    "name": "sparccd-5.0.iso",
+    "href": "sparccd-5.0.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.0/sparccd-5.0.iso",
+    "is_dir": false,
+    "size": "186.6 MiB",
+    "date": "27-Apr-2009 07:13"
+  },
+  {
+    "name": "sparccd-5.0.iso.MD5",
+    "href": "sparccd-5.0.iso.MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.0/sparccd-5.0.iso.MD5",
+    "is_dir": false,
+    "size": "57 B",
+    "date": "27-Apr-2009 16:54"
+  },
+  {
+    "name": "sparccd-5.0.iso.SHA1",
+    "href": "sparccd-5.0.iso.SHA1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.0/sparccd-5.0.iso.SHA1",
+    "is_dir": false,
+    "size": "66 B",
+    "date": "27-Apr-2009 17:02"
+  },
+  {
+    "name": "sun2cd-5.0.iso",
+    "href": "sun2cd-5.0.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.0/sun2cd-5.0.iso",
+    "is_dir": false,
+    "size": "240.1 MiB",
+    "date": "27-Apr-2009 06:25"
+  },
+  {
+    "name": "sun2cd-5.0.iso.MD5",
+    "href": "sun2cd-5.0.iso.MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.0/sun2cd-5.0.iso.MD5",
+    "is_dir": false,
+    "size": "56 B",
+    "date": "27-Apr-2009 16:55"
+  },
+  {
+    "name": "sun2cd-5.0.iso.SHA1",
+    "href": "sun2cd-5.0.iso.SHA1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.0/sun2cd-5.0.iso.SHA1",
+    "is_dir": false,
+    "size": "65 B",
+    "date": "27-Apr-2009 17:02"
+  },
+  {
+    "name": "sun3cd-5.0.iso",
+    "href": "sun3cd-5.0.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.0/sun3cd-5.0.iso",
+    "is_dir": false,
+    "size": "155.3 MiB",
+    "date": "27-Apr-2009 09:26"
+  },
+  {
+    "name": "sun3cd-5.0.iso.MD5",
+    "href": "sun3cd-5.0.iso.MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.0/sun3cd-5.0.iso.MD5",
+    "is_dir": false,
+    "size": "56 B",
+    "date": "27-Apr-2009 16:55"
+  },
+  {
+    "name": "sun3cd-5.0.iso.SHA1",
+    "href": "sun3cd-5.0.iso.SHA1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.0/sun3cd-5.0.iso.SHA1",
+    "is_dir": false,
+    "size": "65 B",
+    "date": "27-Apr-2009 17:02"
+  },
+  {
+    "name": "vaxcd-5.0.iso",
+    "href": "vaxcd-5.0.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.0/vaxcd-5.0.iso",
+    "is_dir": false,
+    "size": "138.2 MiB",
+    "date": "27-Apr-2009 08:39"
+  },
+  {
+    "name": "vaxcd-5.0.iso.MD5",
+    "href": "vaxcd-5.0.iso.MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.0/vaxcd-5.0.iso.MD5",
+    "is_dir": false,
+    "size": "55 B",
+    "date": "27-Apr-2009 16:55"
+  },
+  {
+    "name": "vaxcd-5.0.iso.SHA1",
+    "href": "vaxcd-5.0.iso.SHA1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.0/vaxcd-5.0.iso.SHA1",
+    "is_dir": false,
+    "size": "64 B",
+    "date": "27-Apr-2009 17:02"
+  },
+  {
+    "name": "x68kcd-5.0.iso",
+    "href": "x68kcd-5.0.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.0/x68kcd-5.0.iso",
+    "is_dir": false,
+    "size": "141.7 MiB",
+    "date": "27-Apr-2009 09:54"
+  },
+  {
+    "name": "x68kcd-5.0.iso.MD5",
+    "href": "x68kcd-5.0.iso.MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.0/x68kcd-5.0.iso.MD5",
+    "is_dir": false,
+    "size": "56 B",
+    "date": "27-Apr-2009 16:55"
+  },
+  {
+    "name": "x68kcd-5.0.iso.SHA1",
+    "href": "x68kcd-5.0.iso.SHA1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/5.0/x68kcd-5.0.iso.SHA1",
+    "is_dir": false,
+    "size": "65 B",
+    "date": "27-Apr-2009 17:02"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "name": "interdata_v6",
+    "href": "interdata_v6/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/",
+    "is_dir": true,
+    "size": null,
+    "date": "10-Mar-2006 08:00"
+  },
+  {
+    "name": "README",
+    "href": "README",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/README",
+    "is_dir": false,
+    "size": "2.1 KiB",
+    "date": "12-Dec-2001 23:00"
+  },
+  {
+    "name": "boot.tp.gz",
+    "href": "boot.tp.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/boot.tp.gz",
+    "is_dir": false,
+    "size": "200.5 KiB",
+    "date": "12-Dec-2001 23:00"
+  },
+  {
+    "name": "interdata_v6.tar.gz",
+    "href": "interdata_v6.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6.tar.gz",
+    "is_dir": false,
+    "size": "1.1 MiB",
+    "date": "12-Dec-2001 23:00"
+  },
+  {
+    "name": "miller.pdf",
+    "href": "miller.pdf",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/miller.pdf",
+    "is_dir": false,
+    "size": "91.7 KiB",
+    "date": "09-Mar-2006 21:09"
+  },
+  {
+    "name": "miller.ps",
+    "href": "miller.ps",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/miller.ps",
+    "is_dir": false,
+    "size": "82.5 KiB",
+    "date": "12-Dec-2001 23:00"
+  },
+  {
+    "name": "root.gz",
+    "href": "root.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/root.gz",
+    "is_dir": false,
+    "size": "2.1 MiB",
+    "date": "12-Dec-2001 23:00"
+  },
+  {
+    "name": "src.tp.gz",
+    "href": "src.tp.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/src.tp.gz",
+    "is_dir": false,
+    "size": "1.9 MiB",
+    "date": "12-Dec-2001 23:00"
+  }
+]

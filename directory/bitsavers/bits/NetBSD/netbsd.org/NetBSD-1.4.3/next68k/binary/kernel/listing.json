@@ -1,0 +1,42 @@
+[
+  {
+    "name": "BSDSUM",
+    "href": "BSDSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/next68k/binary/kernel/BSDSUM",
+    "is_dir": false,
+    "size": "28 B",
+    "date": "07-Nov-2000 18:41"
+  },
+  {
+    "name": "CKSUM",
+    "href": "CKSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/next68k/binary/kernel/CKSUM",
+    "is_dir": false,
+    "size": "36 B",
+    "date": "07-Nov-2000 18:41"
+  },
+  {
+    "name": "MD5",
+    "href": "MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/next68k/binary/kernel/MD5",
+    "is_dir": false,
+    "size": "59 B",
+    "date": "07-Nov-2000 18:41"
+  },
+  {
+    "name": "SYSVSUM",
+    "href": "SYSVSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/next68k/binary/kernel/SYSVSUM",
+    "is_dir": false,
+    "size": "29 B",
+    "date": "07-Nov-2000 18:41"
+  },
+  {
+    "name": "netbsd.GENERIC.gz",
+    "href": "netbsd.GENERIC.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/next68k/binary/kernel/netbsd.GENERIC.gz",
+    "is_dir": false,
+    "size": "532.4 KiB",
+    "date": "07-Nov-2000 17:08"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "name": "binary",
+    "href": "binary/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/arm32/binary/",
+    "is_dir": true,
+    "size": null,
+    "date": "01-Oct-2023 18:33"
+  },
+  {
+    "name": "installation",
+    "href": "installation/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/arm32/installation/",
+    "is_dir": true,
+    "size": null,
+    "date": "01-Oct-2023 18:33"
+  },
+  {
+    "name": "INSTALL.html",
+    "href": "INSTALL.html",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/arm32/INSTALL.html",
+    "is_dir": false,
+    "size": "97.8 KiB",
+    "date": "04-Mar-2000 03:17"
+  },
+  {
+    "name": "INSTALL.more",
+    "href": "INSTALL.more",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/arm32/INSTALL.more",
+    "is_dir": false,
+    "size": "93.1 KiB",
+    "date": "04-Mar-2000 03:17"
+  },
+  {
+    "name": "INSTALL.ps",
+    "href": "INSTALL.ps",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/arm32/INSTALL.ps",
+    "is_dir": false,
+    "size": "144.5 KiB",
+    "date": "04-Mar-2000 03:17"
+  },
+  {
+    "name": "INSTALL.txt",
+    "href": "INSTALL.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/arm32/INSTALL.txt",
+    "is_dir": false,
+    "size": "89.3 KiB",
+    "date": "04-Mar-2000 03:17"
+  },
+  {
+    "name": "LAST_MINUTE",
+    "href": "LAST_MINUTE",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/arm32/LAST_MINUTE",
+    "is_dir": false,
+    "size": "4.9 KiB",
+    "date": "16-Mar-2000 10:38"
+  },
+  {
+    "name": "README",
+    "href": "README",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/arm32/README",
+    "is_dir": false,
+    "size": "683 B",
+    "date": "16-Mar-2000 10:40"
+  },
+  {
+    "name": "SOURCE_DATE",
+    "href": "SOURCE_DATE",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/arm32/SOURCE_DATE",
+    "is_dir": false,
+    "size": "20 B",
+    "date": "05-Mar-2000 07:59"
+  }
+]

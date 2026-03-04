@@ -1,0 +1,74 @@
+[
+  {
+    "name": "BSDSUM",
+    "href": "BSDSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/i386/installation/floppies/BSDSUM",
+    "is_dir": false,
+    "size": "115 B",
+    "date": "31-Dec-1997 02:22"
+  },
+  {
+    "name": "CKSUM",
+    "href": "CKSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/i386/installation/floppies/CKSUM",
+    "is_dir": false,
+    "size": "152 B",
+    "date": "31-Dec-1997 02:22"
+  },
+  {
+    "name": "MD5",
+    "href": "MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/i386/installation/floppies/MD5",
+    "is_dir": false,
+    "size": "268 B",
+    "date": "31-Dec-1997 02:23"
+  },
+  {
+    "name": "README.files",
+    "href": "README.files",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/i386/installation/floppies/README.files",
+    "is_dir": false,
+    "size": "1.2 KiB",
+    "date": "31-Dec-1997 02:13"
+  },
+  {
+    "name": "SYSVSUM",
+    "href": "SYSVSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/i386/installation/floppies/SYSVSUM",
+    "is_dir": false,
+    "size": "115 B",
+    "date": "31-Dec-1997 02:23"
+  },
+  {
+    "name": "boot-small.fs",
+    "href": "boot-small.fs",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/i386/installation/floppies/boot-small.fs",
+    "is_dir": false,
+    "size": "1.2 MiB",
+    "date": "31-Dec-1997 02:13"
+  },
+  {
+    "name": "boot-small.fs.gz",
+    "href": "boot-small.fs.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/i386/installation/floppies/boot-small.fs.gz",
+    "is_dir": false,
+    "size": "1.1 MiB",
+    "date": "31-Dec-1997 02:13"
+  },
+  {
+    "name": "boot.fs",
+    "href": "boot.fs",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/i386/installation/floppies/boot.fs",
+    "is_dir": false,
+    "size": "1.4 MiB",
+    "date": "31-Dec-1997 02:13"
+  },
+  {
+    "name": "boot.fs.gz",
+    "href": "boot.fs.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/i386/installation/floppies/boot.fs.gz",
+    "is_dir": false,
+    "size": "1.2 MiB",
+    "date": "31-Dec-1997 02:13"
+  }
+]

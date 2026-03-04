@@ -1,0 +1,90 @@
+[
+  {
+    "name": "Split",
+    "href": "Split/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/source/sets/Split/",
+    "is_dir": true,
+    "size": null,
+    "date": "01-Oct-2023 18:33"
+  },
+  {
+    "name": "BSDSUM",
+    "href": "BSDSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/source/sets/BSDSUM",
+    "is_dir": false,
+    "size": "89 B",
+    "date": "22-Aug-1999 23:57"
+  },
+  {
+    "name": "CKSUM",
+    "href": "CKSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/source/sets/CKSUM",
+    "is_dir": false,
+    "size": "121 B",
+    "date": "22-Aug-1999 23:57"
+  },
+  {
+    "name": "MD5",
+    "href": "MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/source/sets/MD5",
+    "is_dir": false,
+    "size": "207 B",
+    "date": "22-Aug-1999 23:57"
+  },
+  {
+    "name": "SYSVSUM",
+    "href": "SYSVSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/source/sets/SYSVSUM",
+    "is_dir": false,
+    "size": "89 B",
+    "date": "22-Aug-1999 23:57"
+  },
+  {
+    "name": "gnusrc.tgz",
+    "href": "gnusrc.tgz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/source/sets/gnusrc.tgz",
+    "is_dir": false,
+    "size": "19.0 MiB",
+    "date": "22-Aug-1999 23:54"
+  },
+  {
+    "name": "pkgsrc.tgz",
+    "href": "pkgsrc.tgz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/source/sets/pkgsrc.tgz",
+    "is_dir": false,
+    "size": "2.9 MiB",
+    "date": "23-Aug-1999 00:04"
+  },
+  {
+    "name": "sharesrc.tgz",
+    "href": "sharesrc.tgz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/source/sets/sharesrc.tgz",
+    "is_dir": false,
+    "size": "3.0 MiB",
+    "date": "22-Aug-1999 23:57"
+  },
+  {
+    "name": "src.tgz",
+    "href": "src.tgz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/source/sets/src.tgz",
+    "is_dir": false,
+    "size": "14.0 MiB",
+    "date": "22-Aug-1999 23:51"
+  },
+  {
+    "name": "syssrc.tgz",
+    "href": "syssrc.tgz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/source/sets/syssrc.tgz",
+    "is_dir": false,
+    "size": "13.6 MiB",
+    "date": "22-Aug-1999 23:56"
+  },
+  {
+    "name": "xsrc.tgz",
+    "href": "xsrc.tgz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/source/sets/xsrc.tgz",
+    "is_dir": false,
+    "size": "31.9 MiB",
+    "date": "23-Aug-1999 00:15"
+  }
+]

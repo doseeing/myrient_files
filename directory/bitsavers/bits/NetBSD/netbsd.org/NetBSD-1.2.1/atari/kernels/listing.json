@@ -1,0 +1,42 @@
+[
+  {
+    "name": "BOOT.gz",
+    "href": "BOOT.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2.1/atari/kernels/BOOT.gz",
+    "is_dir": false,
+    "size": "343.1 KiB",
+    "date": "15-Apr-1997 06:01"
+  },
+  {
+    "name": "BOOTX.gz",
+    "href": "BOOTX.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2.1/atari/kernels/BOOTX.gz",
+    "is_dir": false,
+    "size": "344.1 KiB",
+    "date": "15-Apr-1997 06:01"
+  },
+  {
+    "name": "CKSUMS",
+    "href": "CKSUMS",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2.1/atari/kernels/CKSUMS",
+    "is_dir": false,
+    "size": "82 B",
+    "date": "15-Apr-1997 13:01"
+  },
+  {
+    "name": "GENERIC.gz",
+    "href": "GENERIC.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2.1/atari/kernels/GENERIC.gz",
+    "is_dir": false,
+    "size": "445.2 KiB",
+    "date": "15-Apr-1997 06:01"
+  },
+  {
+    "name": "README",
+    "href": "README",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2.1/atari/kernels/README",
+    "is_dir": false,
+    "size": "471 B",
+    "date": "15-Apr-1997 13:02"
+  }
+]

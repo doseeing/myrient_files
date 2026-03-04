@@ -1,0 +1,18 @@
+name	is_dir	size	date
+bench	True	-	21-Apr-2017 01:46
+object	True	-	21-Apr-2017 01:46
+benchmarks-system.lisp.10	False	1.5 KiB	21-Apr-2017 01:38
+benchmarks-system.lisp.8	False	1.4 KiB	21-Apr-2017 01:38
+benchmarks-system.lisp.9	False	1.4 KiB	21-Apr-2017 01:38
+bill.lisp.1	False	402 B	21-Apr-2017 01:38
+bill.lisp.2	False	443 B	21-Apr-2017 01:38
+bill.lisp.3	False	471 B	21-Apr-2017 01:38
+brutils.lisp.6	False	1.4 KiB	21-Apr-2017 01:38
+deftest.lisp.50	False	17.9 KiB	21-Apr-2017 01:38
+digest.lisp.36	False	17.4 KiB	21-Apr-2017 01:38
+doit.lisp.1	False	82 B	21-Apr-2017 01:38
+sysdef.lisp.43	False	1.4 KiB	21-Apr-2017 01:38
+udoit.lisp.1	False	101 B	21-Apr-2017 01:38
+vardefs.lisp.4	False	1022 B	21-Apr-2017 01:38
+verify.lisp.27	False	5.6 KiB	21-Apr-2017 01:38
+warnings.text.1	False	10.2 KiB	21-Apr-2017 01:38

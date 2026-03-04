@@ -1,0 +1,42 @@
+[
+  {
+    "name": "IX",
+    "href": "IX/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Go/NCR/DISK1/PENPOINT/SS/BL/HP/CS/IX/",
+    "is_dir": true,
+    "size": null,
+    "date": "20-Jan-2017 04:15"
+  },
+  {
+    "name": "PT",
+    "href": "PT/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Go/NCR/DISK1/PENPOINT/SS/BL/HP/CS/PT/",
+    "is_dir": true,
+    "size": null,
+    "date": "20-Jan-2017 04:15"
+  },
+  {
+    "name": "BROWSTAT",
+    "href": "BROWSTAT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Go/NCR/DISK1/PENPOINT/SS/BL/HP/CS/BROWSTAT",
+    "is_dir": false,
+    "size": "18 B",
+    "date": "20-Jan-2017 04:14"
+  },
+  {
+    "name": "DOCSTATE.RES",
+    "href": "DOCSTATE.RES",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Go/NCR/DISK1/PENPOINT/SS/BL/HP/CS/DOCSTATE.RES",
+    "is_dir": false,
+    "size": "1.4 KiB",
+    "date": "20-Jan-2017 04:14"
+  },
+  {
+    "name": "PENPOINT.DIR",
+    "href": "PENPOINT.DIR",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Go/NCR/DISK1/PENPOINT/SS/BL/HP/CS/PENPOINT.DIR",
+    "is_dir": false,
+    "size": "512 B",
+    "date": "20-Jan-2017 04:14"
+  }
+]

@@ -1,0 +1,954 @@
+[
+  {
+    "name": "14.txt",
+    "href": "14.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp15/papertape/text/14.txt",
+    "is_dir": false,
+    "size": "1.6 KiB",
+    "date": "22-May-2000 16:25"
+  },
+  {
+    "name": "16.txt",
+    "href": "16.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp15/papertape/text/16.txt",
+    "is_dir": false,
+    "size": "1.6 KiB",
+    "date": "22-May-2000 16:25"
+  },
+  {
+    "name": "18.txt",
+    "href": "18.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp15/papertape/text/18.txt",
+    "is_dir": false,
+    "size": "1.2 KiB",
+    "date": "22-May-2000 16:25"
+  },
+  {
+    "name": "20.txt",
+    "href": "20.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp15/papertape/text/20.txt",
+    "is_dir": false,
+    "size": "1019 B",
+    "date": "22-May-2000 16:25"
+  },
+  {
+    "name": "3.txt",
+    "href": "3.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp15/papertape/text/3.txt",
+    "is_dir": false,
+    "size": "1.0 KiB",
+    "date": "22-May-2000 16:25"
+  },
+  {
+    "name": "4.txt",
+    "href": "4.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp15/papertape/text/4.txt",
+    "is_dir": false,
+    "size": "4.8 KiB",
+    "date": "22-May-2000 16:25"
+  },
+  {
+    "name": "actrasc.txt",
+    "href": "actrasc.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp15/papertape/text/actrasc.txt",
+    "is_dir": false,
+    "size": "372 B",
+    "date": "22-May-2000 16:25"
+  },
+  {
+    "name": "airfoil.txt",
+    "href": "airfoil.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp15/papertape/text/airfoil.txt",
+    "is_dir": false,
+    "size": "1.5 KiB",
+    "date": "22-May-2000 16:25"
+  },
+  {
+    "name": "alarm.txt",
+    "href": "alarm.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp15/papertape/text/alarm.txt",
+    "is_dir": false,
+    "size": "12.0 KiB",
+    "date": "22-May-2000 16:25"
+  },
+  {
+    "name": "ampdesign.txt",
+    "href": "ampdesign.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp15/papertape/text/ampdesign.txt",
+    "is_dir": false,
+    "size": "729 B",
+    "date": "22-May-2000 16:25"
+  },
+  {
+    "name": "analyssrc.txt",
+    "href": "analyssrc.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp15/papertape/text/analyssrc.txt",
+    "is_dir": false,
+    "size": "6.4 KiB",
+    "date": "22-May-2000 16:25"
+  },
+  {
+    "name": "asprtasc.txt",
+    "href": "asprtasc.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp15/papertape/text/asprtasc.txt",
+    "is_dir": false,
+    "size": "1.0 KiB",
+    "date": "22-May-2000 16:25"
+  },
+  {
+    "name": "au.txt",
+    "href": "au.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp15/papertape/text/au.txt",
+    "is_dir": false,
+    "size": "316 B",
+    "date": "22-May-2000 16:25"
+  },
+  {
+    "name": "autsdstart.txt",
+    "href": "autsdstart.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp15/papertape/text/autsdstart.txt",
+    "is_dir": false,
+    "size": "629 B",
+    "date": "22-May-2000 16:25"
+  },
+  {
+    "name": "binbscasc.txt",
+    "href": "binbscasc.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp15/papertape/text/binbscasc.txt",
+    "is_dir": false,
+    "size": "834 B",
+    "date": "22-May-2000 16:25"
+  },
+  {
+    "name": "binsrc.asc.txt",
+    "href": "binsrc.asc.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp15/papertape/text/binsrc.asc.txt",
+    "is_dir": false,
+    "size": "2.9 KiB",
+    "date": "22-May-2000 17:30"
+  },
+  {
+    "name": "cdt-ck.asc.txt",
+    "href": "cdt-ck.asc.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp15/papertape/text/cdt-ck.asc.txt",
+    "is_dir": false,
+    "size": "421 B",
+    "date": "22-May-2000 17:30"
+  },
+  {
+    "name": "charstasc.txt",
+    "href": "charstasc.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp15/papertape/text/charstasc.txt",
+    "is_dir": false,
+    "size": "8.3 KiB",
+    "date": "22-May-2000 16:25"
+  },
+  {
+    "name": "chartstasc.txt",
+    "href": "chartstasc.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp15/papertape/text/chartstasc.txt",
+    "is_dir": false,
+    "size": "8.2 KiB",
+    "date": "22-May-2000 16:25"
+  },
+  {
+    "name": "clktstasc.txt",
+    "href": "clktstasc.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp15/papertape/text/clktstasc.txt",
+    "is_dir": false,
+    "size": "1.9 KiB",
+    "date": "22-May-2000 16:25"
+  },
+  {
+    "name": "cube.txt",
+    "href": "cube.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp15/papertape/text/cube.txt",
+    "is_dir": false,
+    "size": "322 B",
+    "date": "22-May-2000 16:25"
+  },
+  {
+    "name": "d.txt",
+    "href": "d.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp15/papertape/text/d.txt",
+    "is_dir": false,
+    "size": "1.9 KiB",
+    "date": "22-May-2000 16:25"
+  },
+  {
+    "name": "delcomasc.txt",
+    "href": "delcomasc.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp15/papertape/text/delcomasc.txt",
+    "is_dir": false,
+    "size": "989 B",
+    "date": "22-May-2000 16:25"
+  },
+  {
+    "name": "dipasca12.txt",
+    "href": "dipasca12.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp15/papertape/text/dipasca12.txt",
+    "is_dir": false,
+    "size": "4.8 KiB",
+    "date": "22-May-2000 16:25"
+  },
+  {
+    "name": "display.asc.txt",
+    "href": "display.asc.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp15/papertape/text/display.asc.txt",
+    "is_dir": false,
+    "size": "821 B",
+    "date": "22-May-2000 17:30"
+  },
+  {
+    "name": "displayasc.txt",
+    "href": "displayasc.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp15/papertape/text/displayasc.txt",
+    "is_dir": false,
+    "size": "822 B",
+    "date": "22-May-2000 16:25"
+  },
+  {
+    "name": "divasca8.txt",
+    "href": "divasca8.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp15/papertape/text/divasca8.txt",
+    "is_dir": false,
+    "size": "3.1 KiB",
+    "date": "22-May-2000 16:25"
+  },
+  {
+    "name": "dpysrc.txt",
+    "href": "dpysrc.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp15/papertape/text/dpysrc.txt",
+    "is_dir": false,
+    "size": "264 B",
+    "date": "22-May-2000 16:25"
+  },
+  {
+    "name": "drmtstpt2asc.txt",
+    "href": "drmtstpt2asc.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp15/papertape/text/drmtstpt2asc.txt",
+    "is_dir": false,
+    "size": "862 B",
+    "date": "22-May-2000 16:25"
+  },
+  {
+    "name": "dtestasc.txt",
+    "href": "dtestasc.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp15/papertape/text/dtestasc.txt",
+    "is_dir": false,
+    "size": "1.4 KiB",
+    "date": "22-May-2000 16:25"
+  },
+  {
+    "name": "dtrigsasc.txt",
+    "href": "dtrigsasc.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp15/papertape/text/dtrigsasc.txt",
+    "is_dir": false,
+    "size": "12.0 KiB",
+    "date": "22-May-2000 16:25"
+  },
+  {
+    "name": "eegv4c.asc.txt",
+    "href": "eegv4c.asc.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp15/papertape/text/eegv4c.asc.txt",
+    "is_dir": false,
+    "size": "6.8 KiB",
+    "date": "22-May-2000 16:25"
+  },
+  {
+    "name": "eoltst.txt",
+    "href": "eoltst.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp15/papertape/text/eoltst.txt",
+    "is_dir": false,
+    "size": "874 B",
+    "date": "22-May-2000 16:25"
+  },
+  {
+    "name": "flioasc.txt",
+    "href": "flioasc.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp15/papertape/text/flioasc.txt",
+    "is_dir": false,
+    "size": "7.2 KiB",
+    "date": "22-May-2000 16:25"
+  },
+  {
+    "name": "flioasca6.txt",
+    "href": "flioasca6.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp15/papertape/text/flioasca6.txt",
+    "is_dir": false,
+    "size": "15.7 KiB",
+    "date": "22-May-2000 16:25"
+  },
+  {
+    "name": "fnewForGfx.asc.txt",
+    "href": "fnewForGfx.asc.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp15/papertape/text/fnewForGfx.asc.txt",
+    "is_dir": false,
+    "size": "1.4 KiB",
+    "date": "22-May-2000 17:30"
+  },
+  {
+    "name": "fnewForGraphics.asc.txt",
+    "href": "fnewForGraphics.asc.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp15/papertape/text/fnewForGraphics.asc.txt",
+    "is_dir": false,
+    "size": "1.4 KiB",
+    "date": "22-May-2000 17:30"
+  },
+  {
+    "name": "fnewPtp.asc.txt",
+    "href": "fnewPtp.asc.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp15/papertape/text/fnewPtp.asc.txt",
+    "is_dir": false,
+    "size": "1.2 KiB",
+    "date": "22-May-2000 17:30"
+  },
+  {
+    "name": "fnewRdm.asc.txt",
+    "href": "fnewRdm.asc.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp15/papertape/text/fnewRdm.asc.txt",
+    "is_dir": false,
+    "size": "680 B",
+    "date": "22-May-2000 17:30"
+  },
+  {
+    "name": "fnewascplot.txt",
+    "href": "fnewascplot.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp15/papertape/text/fnewascplot.txt",
+    "is_dir": false,
+    "size": "11.4 KiB",
+    "date": "22-May-2000 16:25"
+  },
+  {
+    "name": "fnewptapsrc.txt",
+    "href": "fnewptapsrc.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp15/papertape/text/fnewptapsrc.txt",
+    "is_dir": false,
+    "size": "1.2 KiB",
+    "date": "22-May-2000 16:25"
+  },
+  {
+    "name": "fnewptrasc.txt",
+    "href": "fnewptrasc.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp15/papertape/text/fnewptrasc.txt",
+    "is_dir": false,
+    "size": "1.2 KiB",
+    "date": "22-May-2000 16:25"
+  },
+  {
+    "name": "fnewrdmdpy.asc.txt",
+    "href": "fnewrdmdpy.asc.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp15/papertape/text/fnewrdmdpy.asc.txt",
+    "is_dir": false,
+    "size": "1.0 KiB",
+    "date": "22-May-2000 16:25"
+  },
+  {
+    "name": "fnewsrc.txt",
+    "href": "fnewsrc.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp15/papertape/text/fnewsrc.txt",
+    "is_dir": false,
+    "size": "681 B",
+    "date": "22-May-2000 16:25"
+  },
+  {
+    "name": "fnewsrcDspGrfPltRdmPtp.asc.txt",
+    "href": "fnewsrcDspGrfPltRdmPtp.asc.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp15/papertape/text/fnewsrcDspGrfPltRdmPtp.asc.txt",
+    "is_dir": false,
+    "size": "12.5 KiB",
+    "date": "22-May-2000 17:30"
+  },
+  {
+    "name": "fnewsrcPltGfxOscRdm.asc.txt",
+    "href": "fnewsrcPltGfxOscRdm.asc.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp15/papertape/text/fnewsrcPltGfxOscRdm.asc.txt",
+    "is_dir": false,
+    "size": "11.4 KiB",
+    "date": "22-May-2000 17:30"
+  },
+  {
+    "name": "focalDpy.asc.txt",
+    "href": "focalDpy.asc.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp15/papertape/text/focalDpy.asc.txt",
+    "is_dir": false,
+    "size": "264 B",
+    "date": "22-May-2000 17:30"
+  },
+  {
+    "name": "focalRdmDpy.asc.txt",
+    "href": "focalRdmDpy.asc.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp15/papertape/text/focalRdmDpy.asc.txt",
+    "is_dir": false,
+    "size": "1.0 KiB",
+    "date": "22-May-2000 17:30"
+  },
+  {
+    "name": "focal_fileha.asc.txt",
+    "href": "focal_fileha.asc.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp15/papertape/text/focal_fileha.asc.txt",
+    "is_dir": false,
+    "size": "260 B",
+    "date": "22-May-2000 17:30"
+  },
+  {
+    "name": "focal_filehb.asc.txt",
+    "href": "focal_filehb.asc.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp15/papertape/text/focal_filehb.asc.txt",
+    "is_dir": false,
+    "size": "6.0 KiB",
+    "date": "22-May-2000 17:30"
+  },
+  {
+    "name": "focal_inhan.asc.txt",
+    "href": "focal_inhan.asc.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp15/papertape/text/focal_inhan.asc.txt",
+    "is_dir": false,
+    "size": "3.0 KiB",
+    "date": "22-May-2000 17:30"
+  },
+  {
+    "name": "focalgfxdoc.txt",
+    "href": "focalgfxdoc.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp15/papertape/text/focalgfxdoc.txt",
+    "is_dir": false,
+    "size": "2.1 KiB",
+    "date": "22-May-2000 16:25"
+  },
+  {
+    "name": "focalhnddartb.txt",
+    "href": "focalhnddartb.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp15/papertape/text/focalhnddartb.txt",
+    "is_dir": false,
+    "size": "6.0 KiB",
+    "date": "22-May-2000 16:25"
+  },
+  {
+    "name": "focalinh.txt",
+    "href": "focalinh.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp15/papertape/text/focalinh.txt",
+    "is_dir": false,
+    "size": "3.0 KiB",
+    "date": "22-May-2000 16:25"
+  },
+  {
+    "name": "focalout.txt",
+    "href": "focalout.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp15/papertape/text/focalout.txt",
+    "is_dir": false,
+    "size": "3.6 KiB",
+    "date": "22-May-2000 16:25"
+  },
+  {
+    "name": "focaloutlow.txt",
+    "href": "focaloutlow.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp15/papertape/text/focaloutlow.txt",
+    "is_dir": false,
+    "size": "3.6 KiB",
+    "date": "22-May-2000 16:25"
+  },
+  {
+    "name": "fpnoeae.txt",
+    "href": "fpnoeae.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp15/papertape/text/fpnoeae.txt",
+    "is_dir": false,
+    "size": "5.8 KiB",
+    "date": "22-May-2000 16:25"
+  },
+  {
+    "name": "fpnoeaeasca4.txt",
+    "href": "fpnoeaeasca4.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp15/papertape/text/fpnoeaeasca4.txt",
+    "is_dir": false,
+    "size": "18.0 KiB",
+    "date": "22-May-2000 16:25"
+  },
+  {
+    "name": "fpointeae.txt",
+    "href": "fpointeae.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp15/papertape/text/fpointeae.txt",
+    "is_dir": false,
+    "size": "16.8 KiB",
+    "date": "22-May-2000 16:54"
+  },
+  {
+    "name": "genmathenta5.txt",
+    "href": "genmathenta5.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp15/papertape/text/genmathenta5.txt",
+    "is_dir": false,
+    "size": "10.1 KiB",
+    "date": "22-May-2000 16:25"
+  },
+  {
+    "name": "intrtstasc.txt",
+    "href": "intrtstasc.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp15/papertape/text/intrtstasc.txt",
+    "is_dir": false,
+    "size": "3.2 KiB",
+    "date": "22-May-2000 16:25"
+  },
+  {
+    "name": "iowiring.txt",
+    "href": "iowiring.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp15/papertape/text/iowiring.txt",
+    "is_dir": false,
+    "size": "3.8 KiB",
+    "date": "22-May-2000 16:25"
+  },
+  {
+    "name": "jeannie.txt",
+    "href": "jeannie.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp15/papertape/text/jeannie.txt",
+    "is_dir": false,
+    "size": "2.2 KiB",
+    "date": "22-May-2000 16:25"
+  },
+  {
+    "name": "kj2a.txt",
+    "href": "kj2a.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp15/papertape/text/kj2a.txt",
+    "is_dir": false,
+    "size": "6.2 KiB",
+    "date": "22-May-2000 16:25"
+  },
+  {
+    "name": "km15bt.asc.txt",
+    "href": "km15bt.asc.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp15/papertape/text/km15bt.asc.txt",
+    "is_dir": false,
+    "size": "2.0 KiB",
+    "date": "22-May-2000 16:25"
+  },
+  {
+    "name": "ld1.txt",
+    "href": "ld1.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp15/papertape/text/ld1.txt",
+    "is_dir": false,
+    "size": "814 B",
+    "date": "22-May-2000 16:25"
+  },
+  {
+    "name": "ldi.asc.txt",
+    "href": "ldi.asc.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp15/papertape/text/ldi.asc.txt",
+    "is_dir": false,
+    "size": "814 B",
+    "date": "22-May-2000 17:30"
+  },
+  {
+    "name": "ldivasc.txt",
+    "href": "ldivasc.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp15/papertape/text/ldivasc.txt",
+    "is_dir": false,
+    "size": "1.7 KiB",
+    "date": "22-May-2000 16:25"
+  },
+  {
+    "name": "life.asc.txt",
+    "href": "life.asc.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp15/papertape/text/life.asc.txt",
+    "is_dir": false,
+    "size": "2.0 KiB",
+    "date": "22-May-2000 17:30"
+  },
+  {
+    "name": "life.txt",
+    "href": "life.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp15/papertape/text/life.txt",
+    "is_dir": false,
+    "size": "663 B",
+    "date": "22-May-2000 16:25"
+  },
+  {
+    "name": "lifetape2.txt",
+    "href": "lifetape2.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp15/papertape/text/lifetape2.txt",
+    "is_dir": false,
+    "size": "2.0 KiB",
+    "date": "22-May-2000 16:25"
+  },
+  {
+    "name": "lineType.asc.txt",
+    "href": "lineType.asc.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp15/papertape/text/lineType.asc.txt",
+    "is_dir": false,
+    "size": "2.1 KiB",
+    "date": "22-May-2000 17:30"
+  },
+  {
+    "name": "lineasc.txt",
+    "href": "lineasc.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp15/papertape/text/lineasc.txt",
+    "is_dir": false,
+    "size": "2.1 KiB",
+    "date": "22-May-2000 16:25"
+  },
+  {
+    "name": "lmulasc.txt",
+    "href": "lmulasc.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp15/papertape/text/lmulasc.txt",
+    "is_dir": false,
+    "size": "1.4 KiB",
+    "date": "22-May-2000 16:25"
+  },
+  {
+    "name": "magDrumXfer.asc.txt",
+    "href": "magDrumXfer.asc.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp15/papertape/text/magDrumXfer.asc.txt",
+    "is_dir": false,
+    "size": "644 B",
+    "date": "22-May-2000 17:30"
+  },
+  {
+    "name": "magdrmxfer.txt",
+    "href": "magdrmxfer.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp15/papertape/text/magdrmxfer.txt",
+    "is_dir": false,
+    "size": "644 B",
+    "date": "22-May-2000 16:25"
+  },
+  {
+    "name": "mapad.asc.txt",
+    "href": "mapad.asc.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp15/papertape/text/mapad.asc.txt",
+    "is_dir": false,
+    "size": "2.7 KiB",
+    "date": "22-May-2000 17:30"
+  },
+  {
+    "name": "mapad.txt",
+    "href": "mapad.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp15/papertape/text/mapad.txt",
+    "is_dir": false,
+    "size": "2.7 KiB",
+    "date": "22-May-2000 16:25"
+  },
+  {
+    "name": "mathentasc.txt",
+    "href": "mathentasc.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp15/papertape/text/mathentasc.txt",
+    "is_dir": false,
+    "size": "1.6 KiB",
+    "date": "22-May-2000 16:25"
+  },
+  {
+    "name": "moonascc.txt",
+    "href": "moonascc.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp15/papertape/text/moonascc.txt",
+    "is_dir": false,
+    "size": "3.0 KiB",
+    "date": "22-May-2000 16:25"
+  },
+  {
+    "name": "moonlander.txt",
+    "href": "moonlander.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp15/papertape/text/moonlander.txt",
+    "is_dir": false,
+    "size": "2.0 KiB",
+    "date": "22-May-2000 16:25"
+  },
+  {
+    "name": "mtdrl.asc.txt",
+    "href": "mtdrl.asc.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp15/papertape/text/mtdrl.asc.txt",
+    "is_dir": false,
+    "size": "1.8 KiB",
+    "date": "22-May-2000 17:30"
+  },
+  {
+    "name": "mtdrl.txt",
+    "href": "mtdrl.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp15/papertape/text/mtdrl.txt",
+    "is_dir": false,
+    "size": "1.8 KiB",
+    "date": "22-May-2000 16:25"
+  },
+  {
+    "name": "mulyasc.txt",
+    "href": "mulyasc.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp15/papertape/text/mulyasc.txt",
+    "is_dir": false,
+    "size": "2.0 KiB",
+    "date": "22-May-2000 16:25"
+  },
+  {
+    "name": "nonresidentMonitor.asc.txt",
+    "href": "nonresidentMonitor.asc.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp15/papertape/text/nonresidentMonitor.asc.txt",
+    "is_dir": false,
+    "size": "19.0 KiB",
+    "date": "22-May-2000 16:25"
+  },
+  {
+    "name": "novaPDP.asc.txt",
+    "href": "novaPDP.asc.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp15/papertape/text/novaPDP.asc.txt",
+    "is_dir": false,
+    "size": "2.4 KiB",
+    "date": "22-May-2000 17:30"
+  },
+  {
+    "name": "oclose.asc.txt",
+    "href": "oclose.asc.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp15/papertape/text/oclose.asc.txt",
+    "is_dir": false,
+    "size": "654 B",
+    "date": "22-May-2000 17:30"
+  },
+  {
+    "name": "oclose.txt",
+    "href": "oclose.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp15/papertape/text/oclose.txt",
+    "is_dir": false,
+    "size": "655 B",
+    "date": "22-May-2000 16:25"
+  },
+  {
+    "name": "octalasc.txt",
+    "href": "octalasc.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp15/papertape/text/octalasc.txt",
+    "is_dir": false,
+    "size": "550 B",
+    "date": "22-May-2000 16:25"
+  },
+  {
+    "name": "plotpac.asc.txt",
+    "href": "plotpac.asc.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp15/papertape/text/plotpac.asc.txt",
+    "is_dir": false,
+    "size": "1.6 KiB",
+    "date": "22-May-2000 17:30"
+  },
+  {
+    "name": "plotpacasc.txt",
+    "href": "plotpacasc.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp15/papertape/text/plotpacasc.txt",
+    "is_dir": false,
+    "size": "1.6 KiB",
+    "date": "22-May-2000 16:25"
+  },
+  {
+    "name": "plotpkg.asc.txt",
+    "href": "plotpkg.asc.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp15/papertape/text/plotpkg.asc.txt",
+    "is_dir": false,
+    "size": "995 B",
+    "date": "22-May-2000 17:30"
+  },
+  {
+    "name": "plttstasc.txt",
+    "href": "plttstasc.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp15/papertape/text/plttstasc.txt",
+    "is_dir": false,
+    "size": "1.7 KiB",
+    "date": "22-May-2000 16:25"
+  },
+  {
+    "name": "pol.sym.asc.txt",
+    "href": "pol.sym.asc.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp15/papertape/text/pol.sym.asc.txt",
+    "is_dir": false,
+    "size": "4.8 KiB",
+    "date": "22-May-2000 17:30"
+  },
+  {
+    "name": "polarplot.txt",
+    "href": "polarplot.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp15/papertape/text/polarplot.txt",
+    "is_dir": false,
+    "size": "256 B",
+    "date": "22-May-2000 16:25"
+  },
+  {
+    "name": "qcrlt.txt",
+    "href": "qcrlt.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp15/papertape/text/qcrlt.txt",
+    "is_dir": false,
+    "size": "1.5 KiB",
+    "date": "22-May-2000 16:25"
+  },
+  {
+    "name": "qnza.txt",
+    "href": "qnza.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp15/papertape/text/qnza.txt",
+    "is_dir": false,
+    "size": "2.8 KiB",
+    "date": "22-May-2000 16:25"
+  },
+  {
+    "name": "residentMonitor.asc.txt",
+    "href": "residentMonitor.asc.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp15/papertape/text/residentMonitor.asc.txt",
+    "is_dir": false,
+    "size": "16.7 KiB",
+    "date": "22-May-2000 16:25"
+  },
+  {
+    "name": "rtcdrvsrc.txt",
+    "href": "rtcdrvsrc.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp15/papertape/text/rtcdrvsrc.txt",
+    "is_dir": false,
+    "size": "4.6 KiB",
+    "date": "22-May-2000 16:25"
+  },
+  {
+    "name": "sflbt.txt",
+    "href": "sflbt.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp15/papertape/text/sflbt.txt",
+    "is_dir": false,
+    "size": "609 B",
+    "date": "22-May-2000 16:25"
+  },
+  {
+    "name": "siops.asc.txt",
+    "href": "siops.asc.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp15/papertape/text/siops.asc.txt",
+    "is_dir": false,
+    "size": "11.5 KiB",
+    "date": "22-May-2000 17:30"
+  },
+  {
+    "name": "siops.txt",
+    "href": "siops.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp15/papertape/text/siops.txt",
+    "is_dir": false,
+    "size": "11.5 KiB",
+    "date": "22-May-2000 16:25"
+  },
+  {
+    "name": "start.txt",
+    "href": "start.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp15/papertape/text/start.txt",
+    "is_dir": false,
+    "size": "1.4 KiB",
+    "date": "22-May-2000 16:25"
+  },
+  {
+    "name": "strigsasc.txt",
+    "href": "strigsasc.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp15/papertape/text/strigsasc.txt",
+    "is_dir": false,
+    "size": "14.2 KiB",
+    "date": "22-May-2000 16:25"
+  },
+  {
+    "name": "sys.doc.txt",
+    "href": "sys.doc.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp15/papertape/text/sys.doc.txt",
+    "is_dir": false,
+    "size": "1.1 KiB",
+    "date": "22-May-2000 17:33"
+  },
+  {
+    "name": "tictocasc.txt",
+    "href": "tictocasc.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp15/papertape/text/tictocasc.txt",
+    "is_dir": false,
+    "size": "5.2 KiB",
+    "date": "22-May-2000 16:25"
+  },
+  {
+    "name": "trtstasc.txt",
+    "href": "trtstasc.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp15/papertape/text/trtstasc.txt",
+    "is_dir": false,
+    "size": "386 B",
+    "date": "22-May-2000 16:25"
+  },
+  {
+    "name": "ts.txt",
+    "href": "ts.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp15/papertape/text/ts.txt",
+    "is_dir": false,
+    "size": "2.5 KiB",
+    "date": "22-May-2000 16:25"
+  },
+  {
+    "name": "tsd.txt",
+    "href": "tsd.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp15/papertape/text/tsd.txt",
+    "is_dir": false,
+    "size": "2.5 KiB",
+    "date": "22-May-2000 16:25"
+  },
+  {
+    "name": "tty.txt",
+    "href": "tty.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp15/papertape/text/tty.txt",
+    "is_dir": false,
+    "size": "3.1 KiB",
+    "date": "22-May-2000 16:25"
+  },
+  {
+    "name": "unk.asc.txt",
+    "href": "unk.asc.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp15/papertape/text/unk.asc.txt",
+    "is_dir": false,
+    "size": "792 B",
+    "date": "22-May-2000 17:30"
+  },
+  {
+    "name": "unk2.asc.txt",
+    "href": "unk2.asc.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp15/papertape/text/unk2.asc.txt",
+    "is_dir": false,
+    "size": "6.4 KiB",
+    "date": "22-May-2000 16:25"
+  },
+  {
+    "name": "unk3.asc.txt",
+    "href": "unk3.asc.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp15/papertape/text/unk3.asc.txt",
+    "is_dir": false,
+    "size": "776 B",
+    "date": "22-May-2000 17:30"
+  },
+  {
+    "name": "unk4.asc.txt",
+    "href": "unk4.asc.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp15/papertape/text/unk4.asc.txt",
+    "is_dir": false,
+    "size": "517 B",
+    "date": "22-May-2000 17:30"
+  },
+  {
+    "name": "videosrc.txt",
+    "href": "videosrc.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp15/papertape/text/videosrc.txt",
+    "is_dir": false,
+    "size": "1.7 KiB",
+    "date": "22-May-2000 16:25"
+  },
+  {
+    "name": "wl#2.asc.txt",
+    "href": "wl%232.asc.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp15/papertape/text/wl%232.asc.txt",
+    "is_dir": false,
+    "size": "1005 B",
+    "date": "22-May-2000 16:25"
+  },
+  {
+    "name": "xcorrasc.txt",
+    "href": "xcorrasc.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp15/papertape/text/xcorrasc.txt",
+    "is_dir": false,
+    "size": "1.1 KiB",
+    "date": "22-May-2000 16:25"
+  },
+  {
+    "name": "zflbt.asc.txt",
+    "href": "zflbt.asc.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp15/papertape/text/zflbt.asc.txt",
+    "is_dir": false,
+    "size": "2.4 KiB",
+    "date": "22-May-2000 17:30"
+  },
+  {
+    "name": "zflbt.txt",
+    "href": "zflbt.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp15/papertape/text/zflbt.txt",
+    "is_dir": false,
+    "size": "2.4 KiB",
+    "date": "22-May-2000 16:25"
+  }
+]

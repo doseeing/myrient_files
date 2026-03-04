@@ -1,0 +1,42 @@
+[
+  {
+    "name": "conf",
+    "href": "conf/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v7/tar/1674_edVIIupg2.3binSrc_Apr83/sys/conf/",
+    "is_dir": true,
+    "size": null,
+    "date": "10-Mar-2006 08:15"
+  },
+  {
+    "name": "dev",
+    "href": "dev/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v7/tar/1674_edVIIupg2.3binSrc_Apr83/sys/dev/",
+    "is_dir": true,
+    "size": null,
+    "date": "10-Mar-2006 08:15"
+  },
+  {
+    "name": "h",
+    "href": "h/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v7/tar/1674_edVIIupg2.3binSrc_Apr83/sys/h/",
+    "is_dir": true,
+    "size": null,
+    "date": "10-Mar-2006 08:15"
+  },
+  {
+    "name": "sa",
+    "href": "sa/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v7/tar/1674_edVIIupg2.3binSrc_Apr83/sys/sa/",
+    "is_dir": true,
+    "size": null,
+    "date": "10-Mar-2006 08:15"
+  },
+  {
+    "name": "sys",
+    "href": "sys/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v7/tar/1674_edVIIupg2.3binSrc_Apr83/sys/sys/",
+    "is_dir": true,
+    "size": null,
+    "date": "10-Mar-2006 08:16"
+  }
+]

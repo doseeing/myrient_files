@@ -1,0 +1,154 @@
+[
+  {
+    "name": "c",
+    "href": "c/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/gjcx/auscom/c/",
+    "is_dir": true,
+    "size": null,
+    "date": "21-Apr-2017 01:47"
+  },
+  {
+    "name": "patch",
+    "href": "patch/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/gjcx/auscom/patch/",
+    "is_dir": true,
+    "size": null,
+    "date": "21-Apr-2017 01:44"
+  },
+  {
+    "name": "austrace.lisp.3",
+    "href": "austrace.lisp.3",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/gjcx/auscom/austrace.lisp.3",
+    "is_dir": false,
+    "size": "877 B",
+    "date": "21-Apr-2017 01:29"
+  },
+  {
+    "name": "austrace1.lisp.1",
+    "href": "austrace1.lisp.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/gjcx/auscom/austrace1.lisp.1",
+    "is_dir": false,
+    "size": "3.3 KiB",
+    "date": "21-Apr-2017 01:29"
+  },
+  {
+    "name": "austrace2.lisp.1",
+    "href": "austrace2.lisp.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/gjcx/auscom/austrace2.lisp.1",
+    "is_dir": false,
+    "size": "1.1 KiB",
+    "date": "21-Apr-2017 01:29"
+  },
+  {
+    "name": "austrace3.lisp.1",
+    "href": "austrace3.lisp.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/gjcx/auscom/austrace3.lisp.1",
+    "is_dir": false,
+    "size": "24.7 KiB",
+    "date": "21-Apr-2017 01:29"
+  },
+  {
+    "name": "debugs.lisp.2",
+    "href": "debugs.lisp.2",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/gjcx/auscom/debugs.lisp.2",
+    "is_dir": false,
+    "size": "637 B",
+    "date": "21-Apr-2017 01:29"
+  },
+  {
+    "name": "demo.lisp.6",
+    "href": "demo.lisp.6",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/gjcx/auscom/demo.lisp.6",
+    "is_dir": false,
+    "size": "1.7 KiB",
+    "date": "21-Apr-2017 01:29"
+  },
+  {
+    "name": "dfix-2.lisp.1",
+    "href": "dfix-2.lisp.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/gjcx/auscom/dfix-2.lisp.1",
+    "is_dir": false,
+    "size": "1.8 KiB",
+    "date": "21-Apr-2017 01:29"
+  },
+  {
+    "name": "diag.lisp.22",
+    "href": "diag.lisp.22",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/gjcx/auscom/diag.lisp.22",
+    "is_dir": false,
+    "size": "8.9 KiB",
+    "date": "21-Apr-2017 01:29"
+  },
+  {
+    "name": "download-data-d.lisp.2",
+    "href": "download-data-d.lisp.2",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/gjcx/auscom/download-data-d.lisp.2",
+    "is_dir": false,
+    "size": "33.6 KiB",
+    "date": "21-Apr-2017 01:29"
+  },
+  {
+    "name": "download-data.lisp.1",
+    "href": "download-data.lisp.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/gjcx/auscom/download-data.lisp.1",
+    "is_dir": false,
+    "size": "58.7 KiB",
+    "date": "21-Apr-2017 01:29"
+  },
+  {
+    "name": "driver-defs.lisp.11",
+    "href": "driver-defs.lisp.11",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/gjcx/auscom/driver-defs.lisp.11",
+    "is_dir": false,
+    "size": "5.1 KiB",
+    "date": "21-Apr-2017 01:29"
+  },
+  {
+    "name": "driver.lisp.48",
+    "href": "driver.lisp.48",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/gjcx/auscom/driver.lisp.48",
+    "is_dir": false,
+    "size": "14.0 KiB",
+    "date": "21-Apr-2017 01:29"
+  },
+  {
+    "name": "ebcdic.lisp.3",
+    "href": "ebcdic.lisp.3",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/gjcx/auscom/ebcdic.lisp.3",
+    "is_dir": false,
+    "size": "3.0 KiB",
+    "date": "21-Apr-2017 01:29"
+  },
+  {
+    "name": "load.lisp.20",
+    "href": "load.lisp.20",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/gjcx/auscom/load.lisp.20",
+    "is_dir": false,
+    "size": "1.8 KiB",
+    "date": "21-Apr-2017 01:29"
+  },
+  {
+    "name": "mbu.lisp.7",
+    "href": "mbu.lisp.7",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/gjcx/auscom/mbu.lisp.7",
+    "is_dir": false,
+    "size": "36.7 KiB",
+    "date": "21-Apr-2017 01:29"
+  },
+  {
+    "name": "mod.lisp.4",
+    "href": "mod.lisp.4",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/gjcx/auscom/mod.lisp.4",
+    "is_dir": false,
+    "size": "5.0 KiB",
+    "date": "21-Apr-2017 01:29"
+  },
+  {
+    "name": "sysdef.lisp.17",
+    "href": "sysdef.lisp.17",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/gjcx/auscom/sysdef.lisp.17",
+    "is_dir": false,
+    "size": "2.2 KiB",
+    "date": "21-Apr-2017 01:29"
+  }
+]

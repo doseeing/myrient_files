@@ -1,0 +1,162 @@
+[
+  {
+    "name": "database",
+    "href": "database/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/gateway/database/",
+    "is_dir": true,
+    "size": null,
+    "date": "21-Apr-2017 01:45"
+  },
+  {
+    "name": "index-sources",
+    "href": "index-sources/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/gateway/index-sources/",
+    "is_dir": true,
+    "size": null,
+    "date": "21-Apr-2017 01:45"
+  },
+  {
+    "name": "out-takes",
+    "href": "out-takes/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/gateway/out-takes/",
+    "is_dir": true,
+    "size": null,
+    "date": "21-Apr-2017 01:45"
+  },
+  {
+    "name": "all-odm-nodes.lisp.8",
+    "href": "all-odm-nodes.lisp.8",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/gateway/all-odm-nodes.lisp.8",
+    "is_dir": false,
+    "size": "52.5 KiB",
+    "date": "21-Apr-2017 01:32"
+  },
+  {
+    "name": "all-odm-symbols.lisp.2",
+    "href": "all-odm-symbols.lisp.2",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/gateway/all-odm-symbols.lisp.2",
+    "is_dir": false,
+    "size": "241.1 KiB",
+    "date": "21-Apr-2017 01:32"
+  },
+  {
+    "name": "all-odm-symbols.lisp.3",
+    "href": "all-odm-symbols.lisp.3",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/gateway/all-odm-symbols.lisp.3",
+    "is_dir": false,
+    "size": "241.1 KiB",
+    "date": "21-Apr-2017 01:32"
+  },
+  {
+    "name": "copyright.text.1",
+    "href": "copyright.text.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/gateway/copyright.text.1",
+    "is_dir": false,
+    "size": "332 B",
+    "date": "21-Apr-2017 01:32"
+  },
+  {
+    "name": "gateway-cwarns.lisp.1",
+    "href": "gateway-cwarns.lisp.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/gateway/gateway-cwarns.lisp.1",
+    "is_dir": false,
+    "size": "3.1 KiB",
+    "date": "21-Apr-2017 01:32"
+  },
+  {
+    "name": "odm-basics.lisp.8",
+    "href": "odm-basics.lisp.8",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/gateway/odm-basics.lisp.8",
+    "is_dir": false,
+    "size": "86.8 KiB",
+    "date": "21-Apr-2017 01:32"
+  },
+  {
+    "name": "odm-commands.lisp.11",
+    "href": "odm-commands.lisp.11",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/gateway/odm-commands.lisp.11",
+    "is_dir": false,
+    "size": "52.3 KiB",
+    "date": "21-Apr-2017 01:32"
+  },
+  {
+    "name": "odm-dired-environment.lisp.22",
+    "href": "odm-dired-environment.lisp.22",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/gateway/odm-dired-environment.lisp.22",
+    "is_dir": false,
+    "size": "20.0 KiB",
+    "date": "21-Apr-2017 01:32"
+  },
+  {
+    "name": "odm-manager.lisp.26",
+    "href": "odm-manager.lisp.26",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/gateway/odm-manager.lisp.26",
+    "is_dir": false,
+    "size": "31.6 KiB",
+    "date": "21-Apr-2017 01:32"
+  },
+  {
+    "name": "odm-startup.lisp.2",
+    "href": "odm-startup.lisp.2",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/gateway/odm-startup.lisp.2",
+    "is_dir": false,
+    "size": "11.2 KiB",
+    "date": "21-Apr-2017 01:32"
+  },
+  {
+    "name": "odm-utilities.lisp.1",
+    "href": "odm-utilities.lisp.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/gateway/odm-utilities.lisp.1",
+    "is_dir": false,
+    "size": "10.6 KiB",
+    "date": "21-Apr-2017 01:32"
+  },
+  {
+    "name": "odm-zwei.lisp.3",
+    "href": "odm-zwei.lisp.3",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/gateway/odm-zwei.lisp.3",
+    "is_dir": false,
+    "size": "36.8 KiB",
+    "date": "21-Apr-2017 01:32"
+  },
+  {
+    "name": "odm-zwei.lisp.4",
+    "href": "odm-zwei.lisp.4",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/gateway/odm-zwei.lisp.4",
+    "is_dir": false,
+    "size": "36.8 KiB",
+    "date": "21-Apr-2017 01:32"
+  },
+  {
+    "name": "patch-6.directory.2",
+    "href": "patch-6.directory.2",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/gateway/patch-6.directory.2",
+    "is_dir": false,
+    "size": "668 B",
+    "date": "21-Apr-2017 01:32"
+  },
+  {
+    "name": "patch.directory.6",
+    "href": "patch.directory.6",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/gateway/patch.directory.6",
+    "is_dir": false,
+    "size": "545 B",
+    "date": "21-Apr-2017 01:32"
+  },
+  {
+    "name": "patch.directory.7",
+    "href": "patch.directory.7",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/gateway/patch.directory.7",
+    "is_dir": false,
+    "size": "521 B",
+    "date": "21-Apr-2017 01:32"
+  },
+  {
+    "name": "sysdef.lisp.4",
+    "href": "sysdef.lisp.4",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/gateway/sysdef.lisp.4",
+    "is_dir": false,
+    "size": "848 B",
+    "date": "21-Apr-2017 01:32"
+  }
+]

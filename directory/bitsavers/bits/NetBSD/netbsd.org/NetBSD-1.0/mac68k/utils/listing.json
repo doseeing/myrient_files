@@ -1,0 +1,58 @@
+[
+  {
+    "name": "CKSUMS",
+    "href": "CKSUMS",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.0/mac68k/utils/CKSUMS",
+    "is_dir": false,
+    "size": "225 B",
+    "date": "30-Oct-1994 01:23"
+  },
+  {
+    "name": "booter.1.4.cpt.hqx",
+    "href": "booter.1.4.cpt.hqx",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.0/mac68k/utils/booter.1.4.cpt.hqx",
+    "is_dir": false,
+    "size": "46.3 KiB",
+    "date": "30-Oct-1994 01:23"
+  },
+  {
+    "name": "booter.1.4.src.cpt.hqx",
+    "href": "booter.1.4.src.cpt.hqx",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.0/mac68k/utils/booter.1.4.src.cpt.hqx",
+    "is_dir": false,
+    "size": "211.1 KiB",
+    "date": "30-Oct-1994 01:23"
+  },
+  {
+    "name": "installer.1.0.cpt.hqx",
+    "href": "installer.1.0.cpt.hqx",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.0/mac68k/utils/installer.1.0.cpt.hqx",
+    "is_dir": false,
+    "size": "117.9 KiB",
+    "date": "30-Oct-1994 01:23"
+  },
+  {
+    "name": "installer.1.0.src.cpt.hqx",
+    "href": "installer.1.0.src.cpt.hqx",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.0/mac68k/utils/installer.1.0.src.cpt.hqx",
+    "is_dir": false,
+    "size": "544.3 KiB",
+    "date": "30-Oct-1994 01:23"
+  },
+  {
+    "name": "mkfs.cpt.hqx",
+    "href": "mkfs.cpt.hqx",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.0/mac68k/utils/mkfs.cpt.hqx",
+    "is_dir": false,
+    "size": "37.9 KiB",
+    "date": "30-Oct-1994 01:23"
+  },
+  {
+    "name": "mkfs.src.cpt.hqx",
+    "href": "mkfs.src.cpt.hqx",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.0/mac68k/utils/mkfs.src.cpt.hqx",
+    "is_dir": false,
+    "size": "585.4 KiB",
+    "date": "30-Oct-1994 01:23"
+  }
+]

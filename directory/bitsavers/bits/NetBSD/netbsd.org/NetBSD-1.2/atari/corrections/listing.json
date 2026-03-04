@@ -1,0 +1,26 @@
+[
+  {
+    "name": "CKSUMS",
+    "href": "CKSUMS",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/atari/corrections/CKSUMS",
+    "is_dir": false,
+    "size": "71 B",
+    "date": "29-Oct-1996 07:16"
+  },
+  {
+    "name": "README",
+    "href": "README",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/atari/corrections/README",
+    "is_dir": false,
+    "size": "336 B",
+    "date": "29-Oct-1996 07:15"
+  },
+  {
+    "name": "installboot.gz",
+    "href": "installboot.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/atari/corrections/installboot.gz",
+    "is_dir": false,
+    "size": "5.9 KiB",
+    "date": "29-Oct-1996 07:10"
+  }
+]

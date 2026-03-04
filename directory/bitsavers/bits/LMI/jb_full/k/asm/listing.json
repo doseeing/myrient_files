@@ -1,0 +1,50 @@
+[
+  {
+    "name": "datatype.lisp.13",
+    "href": "datatype.lisp.13",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k/asm/datatype.lisp.13",
+    "is_dir": false,
+    "size": "7.4 KiB",
+    "date": "21-Apr-2017 01:10"
+  },
+  {
+    "name": "icache-test.lisp.16",
+    "href": "icache-test.lisp.16",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k/asm/icache-test.lisp.16",
+    "is_dir": false,
+    "size": "17.5 KiB",
+    "date": "21-Apr-2017 01:10"
+  },
+  {
+    "name": "interrupts.lisp.4",
+    "href": "interrupts.lisp.4",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k/asm/interrupts.lisp.4",
+    "is_dir": false,
+    "size": "2.0 KiB",
+    "date": "21-Apr-2017 01:10"
+  },
+  {
+    "name": "lowcore.lisp.11",
+    "href": "lowcore.lisp.11",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k/asm/lowcore.lisp.11",
+    "is_dir": false,
+    "size": "5.8 KiB",
+    "date": "21-Apr-2017 01:10"
+  },
+  {
+    "name": "multiply.lisp.3",
+    "href": "multiply.lisp.3",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k/asm/multiply.lisp.3",
+    "is_dir": false,
+    "size": "4.0 KiB",
+    "date": "21-Apr-2017 01:10"
+  },
+  {
+    "name": "ram-test.lisp.4",
+    "href": "ram-test.lisp.4",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k/asm/ram-test.lisp.4",
+    "is_dir": false,
+    "size": "8.9 KiB",
+    "date": "21-Apr-2017 01:10"
+  }
+]

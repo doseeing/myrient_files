@@ -1,0 +1,962 @@
+[
+  {
+    "name": "BSDSUM",
+    "href": "BSDSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/binary/sets/Split/BSDSUM",
+    "is_dir": false,
+    "size": "2.0 KiB",
+    "date": "08-Apr-1998 16:00"
+  },
+  {
+    "name": "CKSUM",
+    "href": "CKSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/binary/sets/Split/CKSUM",
+    "is_dir": false,
+    "size": "2.9 KiB",
+    "date": "08-Apr-1998 16:01"
+  },
+  {
+    "name": "MD5",
+    "href": "MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/binary/sets/Split/MD5",
+    "is_dir": false,
+    "size": "5.6 KiB",
+    "date": "08-Apr-1998 16:01"
+  },
+  {
+    "name": "SYSVSUM",
+    "href": "SYSVSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/binary/sets/Split/SYSVSUM",
+    "is_dir": false,
+    "size": "2.0 KiB",
+    "date": "08-Apr-1998 16:01"
+  },
+  {
+    "name": "base.aa",
+    "href": "base.aa",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/binary/sets/Split/base.aa",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "08-Apr-1998 15:58"
+  },
+  {
+    "name": "base.ab",
+    "href": "base.ab",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/binary/sets/Split/base.ab",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "08-Apr-1998 15:58"
+  },
+  {
+    "name": "base.ac",
+    "href": "base.ac",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/binary/sets/Split/base.ac",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "08-Apr-1998 15:58"
+  },
+  {
+    "name": "base.ad",
+    "href": "base.ad",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/binary/sets/Split/base.ad",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "08-Apr-1998 15:58"
+  },
+  {
+    "name": "base.ae",
+    "href": "base.ae",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/binary/sets/Split/base.ae",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "08-Apr-1998 15:58"
+  },
+  {
+    "name": "base.af",
+    "href": "base.af",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/binary/sets/Split/base.af",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "08-Apr-1998 15:58"
+  },
+  {
+    "name": "base.ag",
+    "href": "base.ag",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/binary/sets/Split/base.ag",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "08-Apr-1998 15:58"
+  },
+  {
+    "name": "base.ah",
+    "href": "base.ah",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/binary/sets/Split/base.ah",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "08-Apr-1998 15:58"
+  },
+  {
+    "name": "base.ai",
+    "href": "base.ai",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/binary/sets/Split/base.ai",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "08-Apr-1998 15:58"
+  },
+  {
+    "name": "base.aj",
+    "href": "base.aj",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/binary/sets/Split/base.aj",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "08-Apr-1998 15:58"
+  },
+  {
+    "name": "base.ak",
+    "href": "base.ak",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/binary/sets/Split/base.ak",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "08-Apr-1998 15:58"
+  },
+  {
+    "name": "base.al",
+    "href": "base.al",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/binary/sets/Split/base.al",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "08-Apr-1998 15:58"
+  },
+  {
+    "name": "base.am",
+    "href": "base.am",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/binary/sets/Split/base.am",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "08-Apr-1998 15:58"
+  },
+  {
+    "name": "base.an",
+    "href": "base.an",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/binary/sets/Split/base.an",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "08-Apr-1998 15:58"
+  },
+  {
+    "name": "base.ao",
+    "href": "base.ao",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/binary/sets/Split/base.ao",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "08-Apr-1998 15:58"
+  },
+  {
+    "name": "base.ap",
+    "href": "base.ap",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/binary/sets/Split/base.ap",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "08-Apr-1998 15:58"
+  },
+  {
+    "name": "base.aq",
+    "href": "base.aq",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/binary/sets/Split/base.aq",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "08-Apr-1998 15:58"
+  },
+  {
+    "name": "base.ar",
+    "href": "base.ar",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/binary/sets/Split/base.ar",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "08-Apr-1998 15:58"
+  },
+  {
+    "name": "base.as",
+    "href": "base.as",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/binary/sets/Split/base.as",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "08-Apr-1998 15:58"
+  },
+  {
+    "name": "base.at",
+    "href": "base.at",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/binary/sets/Split/base.at",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "08-Apr-1998 15:58"
+  },
+  {
+    "name": "base.au",
+    "href": "base.au",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/binary/sets/Split/base.au",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "08-Apr-1998 15:58"
+  },
+  {
+    "name": "base.av",
+    "href": "base.av",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/binary/sets/Split/base.av",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "08-Apr-1998 15:58"
+  },
+  {
+    "name": "base.aw",
+    "href": "base.aw",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/binary/sets/Split/base.aw",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "08-Apr-1998 15:58"
+  },
+  {
+    "name": "base.ax",
+    "href": "base.ax",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/binary/sets/Split/base.ax",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "08-Apr-1998 15:58"
+  },
+  {
+    "name": "base.ay",
+    "href": "base.ay",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/binary/sets/Split/base.ay",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "08-Apr-1998 15:58"
+  },
+  {
+    "name": "base.az",
+    "href": "base.az",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/binary/sets/Split/base.az",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "08-Apr-1998 15:58"
+  },
+  {
+    "name": "base.ba",
+    "href": "base.ba",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/binary/sets/Split/base.ba",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "08-Apr-1998 15:58"
+  },
+  {
+    "name": "base.bb",
+    "href": "base.bb",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/binary/sets/Split/base.bb",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "08-Apr-1998 15:58"
+  },
+  {
+    "name": "base.bc",
+    "href": "base.bc",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/binary/sets/Split/base.bc",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "08-Apr-1998 15:58"
+  },
+  {
+    "name": "base.bd",
+    "href": "base.bd",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/binary/sets/Split/base.bd",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "08-Apr-1998 15:58"
+  },
+  {
+    "name": "base.be",
+    "href": "base.be",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/binary/sets/Split/base.be",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "08-Apr-1998 15:58"
+  },
+  {
+    "name": "base.bf",
+    "href": "base.bf",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/binary/sets/Split/base.bf",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "08-Apr-1998 15:58"
+  },
+  {
+    "name": "base.bg",
+    "href": "base.bg",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/binary/sets/Split/base.bg",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "08-Apr-1998 15:58"
+  },
+  {
+    "name": "base.bh",
+    "href": "base.bh",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/binary/sets/Split/base.bh",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "08-Apr-1998 15:58"
+  },
+  {
+    "name": "base.bi",
+    "href": "base.bi",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/binary/sets/Split/base.bi",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "08-Apr-1998 15:58"
+  },
+  {
+    "name": "base.bj",
+    "href": "base.bj",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/binary/sets/Split/base.bj",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "08-Apr-1998 15:58"
+  },
+  {
+    "name": "base.bk",
+    "href": "base.bk",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/binary/sets/Split/base.bk",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "08-Apr-1998 15:58"
+  },
+  {
+    "name": "base.bl",
+    "href": "base.bl",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/binary/sets/Split/base.bl",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "08-Apr-1998 15:58"
+  },
+  {
+    "name": "base.bm",
+    "href": "base.bm",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/binary/sets/Split/base.bm",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "08-Apr-1998 15:58"
+  },
+  {
+    "name": "base.bn",
+    "href": "base.bn",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/binary/sets/Split/base.bn",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "08-Apr-1998 15:59"
+  },
+  {
+    "name": "base.bo",
+    "href": "base.bo",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/binary/sets/Split/base.bo",
+    "is_dir": false,
+    "size": "86.1 KiB",
+    "date": "08-Apr-1998 15:59"
+  },
+  {
+    "name": "comp.aa",
+    "href": "comp.aa",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/binary/sets/Split/comp.aa",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "08-Apr-1998 15:59"
+  },
+  {
+    "name": "comp.ab",
+    "href": "comp.ab",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/binary/sets/Split/comp.ab",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "08-Apr-1998 15:59"
+  },
+  {
+    "name": "comp.ac",
+    "href": "comp.ac",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/binary/sets/Split/comp.ac",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "08-Apr-1998 15:59"
+  },
+  {
+    "name": "comp.ad",
+    "href": "comp.ad",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/binary/sets/Split/comp.ad",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "08-Apr-1998 15:59"
+  },
+  {
+    "name": "comp.ae",
+    "href": "comp.ae",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/binary/sets/Split/comp.ae",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "08-Apr-1998 15:59"
+  },
+  {
+    "name": "comp.af",
+    "href": "comp.af",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/binary/sets/Split/comp.af",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "08-Apr-1998 15:59"
+  },
+  {
+    "name": "comp.ag",
+    "href": "comp.ag",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/binary/sets/Split/comp.ag",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "08-Apr-1998 15:59"
+  },
+  {
+    "name": "comp.ah",
+    "href": "comp.ah",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/binary/sets/Split/comp.ah",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "08-Apr-1998 15:59"
+  },
+  {
+    "name": "comp.ai",
+    "href": "comp.ai",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/binary/sets/Split/comp.ai",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "08-Apr-1998 15:59"
+  },
+  {
+    "name": "comp.aj",
+    "href": "comp.aj",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/binary/sets/Split/comp.aj",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "08-Apr-1998 15:59"
+  },
+  {
+    "name": "comp.ak",
+    "href": "comp.ak",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/binary/sets/Split/comp.ak",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "08-Apr-1998 15:59"
+  },
+  {
+    "name": "comp.al",
+    "href": "comp.al",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/binary/sets/Split/comp.al",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "08-Apr-1998 15:59"
+  },
+  {
+    "name": "comp.am",
+    "href": "comp.am",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/binary/sets/Split/comp.am",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "08-Apr-1998 15:59"
+  },
+  {
+    "name": "comp.an",
+    "href": "comp.an",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/binary/sets/Split/comp.an",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "08-Apr-1998 15:59"
+  },
+  {
+    "name": "comp.ao",
+    "href": "comp.ao",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/binary/sets/Split/comp.ao",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "08-Apr-1998 15:59"
+  },
+  {
+    "name": "comp.ap",
+    "href": "comp.ap",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/binary/sets/Split/comp.ap",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "08-Apr-1998 15:59"
+  },
+  {
+    "name": "comp.aq",
+    "href": "comp.aq",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/binary/sets/Split/comp.aq",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "08-Apr-1998 15:59"
+  },
+  {
+    "name": "comp.ar",
+    "href": "comp.ar",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/binary/sets/Split/comp.ar",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "08-Apr-1998 15:59"
+  },
+  {
+    "name": "comp.as",
+    "href": "comp.as",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/binary/sets/Split/comp.as",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "08-Apr-1998 15:59"
+  },
+  {
+    "name": "comp.at",
+    "href": "comp.at",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/binary/sets/Split/comp.at",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "08-Apr-1998 15:59"
+  },
+  {
+    "name": "comp.au",
+    "href": "comp.au",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/binary/sets/Split/comp.au",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "08-Apr-1998 15:59"
+  },
+  {
+    "name": "comp.av",
+    "href": "comp.av",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/binary/sets/Split/comp.av",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "08-Apr-1998 15:59"
+  },
+  {
+    "name": "comp.aw",
+    "href": "comp.aw",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/binary/sets/Split/comp.aw",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "08-Apr-1998 15:59"
+  },
+  {
+    "name": "comp.ax",
+    "href": "comp.ax",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/binary/sets/Split/comp.ax",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "08-Apr-1998 15:59"
+  },
+  {
+    "name": "comp.ay",
+    "href": "comp.ay",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/binary/sets/Split/comp.ay",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "08-Apr-1998 15:59"
+  },
+  {
+    "name": "comp.az",
+    "href": "comp.az",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/binary/sets/Split/comp.az",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "08-Apr-1998 15:59"
+  },
+  {
+    "name": "comp.ba",
+    "href": "comp.ba",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/binary/sets/Split/comp.ba",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "08-Apr-1998 15:59"
+  },
+  {
+    "name": "comp.bb",
+    "href": "comp.bb",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/binary/sets/Split/comp.bb",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "08-Apr-1998 15:59"
+  },
+  {
+    "name": "comp.bc",
+    "href": "comp.bc",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/binary/sets/Split/comp.bc",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "08-Apr-1998 15:59"
+  },
+  {
+    "name": "comp.bd",
+    "href": "comp.bd",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/binary/sets/Split/comp.bd",
+    "is_dir": false,
+    "size": "140.4 KiB",
+    "date": "08-Apr-1998 15:59"
+  },
+  {
+    "name": "etc.aa",
+    "href": "etc.aa",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/binary/sets/Split/etc.aa",
+    "is_dir": false,
+    "size": "53.3 KiB",
+    "date": "08-Apr-1998 15:59"
+  },
+  {
+    "name": "games.aa",
+    "href": "games.aa",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/binary/sets/Split/games.aa",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "08-Apr-1998 15:59"
+  },
+  {
+    "name": "games.ab",
+    "href": "games.ab",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/binary/sets/Split/games.ab",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "08-Apr-1998 15:59"
+  },
+  {
+    "name": "games.ac",
+    "href": "games.ac",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/binary/sets/Split/games.ac",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "08-Apr-1998 15:59"
+  },
+  {
+    "name": "games.ad",
+    "href": "games.ad",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/binary/sets/Split/games.ad",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "08-Apr-1998 15:59"
+  },
+  {
+    "name": "games.ae",
+    "href": "games.ae",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/binary/sets/Split/games.ae",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "08-Apr-1998 15:59"
+  },
+  {
+    "name": "games.af",
+    "href": "games.af",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/binary/sets/Split/games.af",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "08-Apr-1998 15:59"
+  },
+  {
+    "name": "games.ag",
+    "href": "games.ag",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/binary/sets/Split/games.ag",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "08-Apr-1998 15:59"
+  },
+  {
+    "name": "games.ah",
+    "href": "games.ah",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/binary/sets/Split/games.ah",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "08-Apr-1998 15:59"
+  },
+  {
+    "name": "games.ai",
+    "href": "games.ai",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/binary/sets/Split/games.ai",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "08-Apr-1998 15:59"
+  },
+  {
+    "name": "games.aj",
+    "href": "games.aj",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/binary/sets/Split/games.aj",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "08-Apr-1998 15:59"
+  },
+  {
+    "name": "games.ak",
+    "href": "games.ak",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/binary/sets/Split/games.ak",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "08-Apr-1998 15:59"
+  },
+  {
+    "name": "games.al",
+    "href": "games.al",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/binary/sets/Split/games.al",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "08-Apr-1998 15:59"
+  },
+  {
+    "name": "games.am",
+    "href": "games.am",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/binary/sets/Split/games.am",
+    "is_dir": false,
+    "size": "74.0 KiB",
+    "date": "08-Apr-1998 15:59"
+  },
+  {
+    "name": "kern.aa",
+    "href": "kern.aa",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/binary/sets/Split/kern.aa",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "08-Apr-1998 15:59"
+  },
+  {
+    "name": "kern.ab",
+    "href": "kern.ab",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/binary/sets/Split/kern.ab",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "08-Apr-1998 15:59"
+  },
+  {
+    "name": "kern.ac",
+    "href": "kern.ac",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/binary/sets/Split/kern.ac",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "08-Apr-1998 15:59"
+  },
+  {
+    "name": "kern.ad",
+    "href": "kern.ad",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/binary/sets/Split/kern.ad",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "08-Apr-1998 15:59"
+  },
+  {
+    "name": "kern.ae",
+    "href": "kern.ae",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/binary/sets/Split/kern.ae",
+    "is_dir": false,
+    "size": "106.9 KiB",
+    "date": "08-Apr-1998 15:59"
+  },
+  {
+    "name": "man.aa",
+    "href": "man.aa",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/binary/sets/Split/man.aa",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "08-Apr-1998 15:59"
+  },
+  {
+    "name": "man.ab",
+    "href": "man.ab",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/binary/sets/Split/man.ab",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "08-Apr-1998 15:59"
+  },
+  {
+    "name": "man.ac",
+    "href": "man.ac",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/binary/sets/Split/man.ac",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "08-Apr-1998 15:59"
+  },
+  {
+    "name": "man.ad",
+    "href": "man.ad",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/binary/sets/Split/man.ad",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "08-Apr-1998 15:59"
+  },
+  {
+    "name": "man.ae",
+    "href": "man.ae",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/binary/sets/Split/man.ae",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "08-Apr-1998 15:59"
+  },
+  {
+    "name": "man.af",
+    "href": "man.af",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/binary/sets/Split/man.af",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "08-Apr-1998 15:59"
+  },
+  {
+    "name": "man.ag",
+    "href": "man.ag",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/binary/sets/Split/man.ag",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "08-Apr-1998 15:59"
+  },
+  {
+    "name": "man.ah",
+    "href": "man.ah",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/binary/sets/Split/man.ah",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "08-Apr-1998 15:59"
+  },
+  {
+    "name": "man.ai",
+    "href": "man.ai",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/binary/sets/Split/man.ai",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "08-Apr-1998 15:59"
+  },
+  {
+    "name": "man.aj",
+    "href": "man.aj",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/binary/sets/Split/man.aj",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "08-Apr-1998 15:59"
+  },
+  {
+    "name": "man.ak",
+    "href": "man.ak",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/binary/sets/Split/man.ak",
+    "is_dir": false,
+    "size": "133.2 KiB",
+    "date": "08-Apr-1998 15:59"
+  },
+  {
+    "name": "misc.aa",
+    "href": "misc.aa",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/binary/sets/Split/misc.aa",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "08-Apr-1998 15:59"
+  },
+  {
+    "name": "misc.ab",
+    "href": "misc.ab",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/binary/sets/Split/misc.ab",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "08-Apr-1998 15:59"
+  },
+  {
+    "name": "misc.ac",
+    "href": "misc.ac",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/binary/sets/Split/misc.ac",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "08-Apr-1998 15:59"
+  },
+  {
+    "name": "misc.ad",
+    "href": "misc.ad",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/binary/sets/Split/misc.ad",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "08-Apr-1998 15:59"
+  },
+  {
+    "name": "misc.ae",
+    "href": "misc.ae",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/binary/sets/Split/misc.ae",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "08-Apr-1998 15:59"
+  },
+  {
+    "name": "misc.af",
+    "href": "misc.af",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/binary/sets/Split/misc.af",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "08-Apr-1998 15:59"
+  },
+  {
+    "name": "misc.ag",
+    "href": "misc.ag",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/binary/sets/Split/misc.ag",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "08-Apr-1998 15:59"
+  },
+  {
+    "name": "misc.ah",
+    "href": "misc.ah",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/binary/sets/Split/misc.ah",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "08-Apr-1998 15:59"
+  },
+  {
+    "name": "misc.ai",
+    "href": "misc.ai",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/binary/sets/Split/misc.ai",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "08-Apr-1998 15:59"
+  },
+  {
+    "name": "misc.aj",
+    "href": "misc.aj",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/binary/sets/Split/misc.aj",
+    "is_dir": false,
+    "size": "10.6 KiB",
+    "date": "08-Apr-1998 15:59"
+  },
+  {
+    "name": "text.aa",
+    "href": "text.aa",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/binary/sets/Split/text.aa",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "08-Apr-1998 15:59"
+  },
+  {
+    "name": "text.ab",
+    "href": "text.ab",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/binary/sets/Split/text.ab",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "08-Apr-1998 15:59"
+  },
+  {
+    "name": "text.ac",
+    "href": "text.ac",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/binary/sets/Split/text.ac",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "08-Apr-1998 15:59"
+  },
+  {
+    "name": "text.ad",
+    "href": "text.ad",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/binary/sets/Split/text.ad",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "08-Apr-1998 15:59"
+  },
+  {
+    "name": "text.ae",
+    "href": "text.ae",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/binary/sets/Split/text.ae",
+    "is_dir": false,
+    "size": "45.7 KiB",
+    "date": "08-Apr-1998 15:59"
+  }
+]

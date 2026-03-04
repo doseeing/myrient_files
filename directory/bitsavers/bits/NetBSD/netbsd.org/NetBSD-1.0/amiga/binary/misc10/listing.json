@@ -1,0 +1,26 @@
+[
+  {
+    "name": "CKSUMS",
+    "href": "CKSUMS",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.0/amiga/binary/misc10/CKSUMS",
+    "is_dir": false,
+    "size": "56 B",
+    "date": "28-Oct-1994 06:37"
+  },
+  {
+    "name": "misc10.aa",
+    "href": "misc10.aa",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.0/amiga/binary/misc10/misc10.aa",
+    "is_dir": false,
+    "size": "880.0 KiB",
+    "date": "28-Oct-1994 06:37"
+  },
+  {
+    "name": "misc10.ab",
+    "href": "misc10.ab",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.0/amiga/binary/misc10/misc10.ab",
+    "is_dir": false,
+    "size": "800.3 KiB",
+    "date": "28-Oct-1994 06:37"
+  }
+]

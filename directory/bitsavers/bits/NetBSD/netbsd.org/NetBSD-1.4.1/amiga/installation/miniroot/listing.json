@@ -1,0 +1,58 @@
+[
+  {
+    "name": "BSDSUM",
+    "href": "BSDSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/amiga/installation/miniroot/BSDSUM",
+    "is_dir": false,
+    "size": "46 B",
+    "date": "14-Aug-1999 22:48"
+  },
+  {
+    "name": "CKSUM",
+    "href": "CKSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/amiga/installation/miniroot/CKSUM",
+    "is_dir": false,
+    "size": "62 B",
+    "date": "14-Aug-1999 22:48"
+  },
+  {
+    "name": "MD5",
+    "href": "MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/amiga/installation/miniroot/MD5",
+    "is_dir": false,
+    "size": "106 B",
+    "date": "14-Aug-1999 22:48"
+  },
+  {
+    "name": "README",
+    "href": "README",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/amiga/installation/miniroot/README",
+    "is_dir": false,
+    "size": "81 B",
+    "date": "22-Jul-1999 20:23"
+  },
+  {
+    "name": "SYSVSUM",
+    "href": "SYSVSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/amiga/installation/miniroot/SYSVSUM",
+    "is_dir": false,
+    "size": "46 B",
+    "date": "14-Aug-1999 22:48"
+  },
+  {
+    "name": "miniroot.fs",
+    "href": "miniroot.fs",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/amiga/installation/miniroot/miniroot.fs",
+    "is_dir": false,
+    "size": "4.0 MiB",
+    "date": "14-Aug-1999 22:48"
+  },
+  {
+    "name": "miniroot.gz",
+    "href": "miniroot.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/amiga/installation/miniroot/miniroot.gz",
+    "is_dir": false,
+    "size": "1.5 MiB",
+    "date": "14-Aug-1999 21:36"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "name": "BSDSUM",
+    "href": "BSDSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/sparc/binary/kernel/BSDSUM",
+    "is_dir": false,
+    "size": "122 B",
+    "date": "16-Mar-2000 22:51"
+  },
+  {
+    "name": "CKSUM",
+    "href": "CKSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/sparc/binary/kernel/CKSUM",
+    "is_dir": false,
+    "size": "153 B",
+    "date": "16-Mar-2000 22:51"
+  },
+  {
+    "name": "MD5",
+    "href": "MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/sparc/binary/kernel/MD5",
+    "is_dir": false,
+    "size": "244 B",
+    "date": "16-Mar-2000 22:51"
+  },
+  {
+    "name": "SYSVSUM",
+    "href": "SYSVSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/sparc/binary/kernel/SYSVSUM",
+    "is_dir": false,
+    "size": "123 B",
+    "date": "16-Mar-2000 22:51"
+  },
+  {
+    "name": "netbsd-GENERIC.gz",
+    "href": "netbsd-GENERIC.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/sparc/binary/kernel/netbsd-GENERIC.gz",
+    "is_dir": false,
+    "size": "951.6 KiB",
+    "date": "16-Mar-2000 08:31"
+  },
+  {
+    "name": "netbsd-GENERIC_SCSI3.gz",
+    "href": "netbsd-GENERIC_SCSI3.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/sparc/binary/kernel/netbsd-GENERIC_SCSI3.gz",
+    "is_dir": false,
+    "size": "951.7 KiB",
+    "date": "16-Mar-2000 08:32"
+  },
+  {
+    "name": "netbsd-INSTALL.gz",
+    "href": "netbsd-INSTALL.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/sparc/binary/kernel/netbsd-INSTALL.gz",
+    "is_dir": false,
+    "size": "1.2 MiB",
+    "date": "16-Mar-2000 22:49"
+  },
+  {
+    "name": "synetbsd-INSTALL.gz",
+    "href": "synetbsd-INSTALL.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/sparc/binary/kernel/synetbsd-INSTALL.gz",
+    "is_dir": false,
+    "size": "1.1 MiB",
+    "date": "16-Mar-2000 22:49"
+  }
+]

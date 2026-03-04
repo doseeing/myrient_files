@@ -1,0 +1,66 @@
+[
+  {
+    "name": "BSDSUM",
+    "href": "BSDSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/pmax/binary/kernel/BSDSUM",
+    "is_dir": false,
+    "size": "217 B",
+    "date": "01-Nov-2000 16:22"
+  },
+  {
+    "name": "CKSUM",
+    "href": "CKSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/pmax/binary/kernel/CKSUM",
+    "is_dir": false,
+    "size": "283 B",
+    "date": "01-Nov-2000 16:22"
+  },
+  {
+    "name": "MD5",
+    "href": "MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/pmax/binary/kernel/MD5",
+    "is_dir": false,
+    "size": "465 B",
+    "date": "01-Nov-2000 16:22"
+  },
+  {
+    "name": "README",
+    "href": "README",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/pmax/binary/kernel/README",
+    "is_dir": false,
+    "size": "664 B",
+    "date": "23-Jul-1999 01:45"
+  },
+  {
+    "name": "SYSVSUM",
+    "href": "SYSVSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/pmax/binary/kernel/SYSVSUM",
+    "is_dir": false,
+    "size": "222 B",
+    "date": "01-Nov-2000 16:22"
+  },
+  {
+    "name": "install.ecoff.gz",
+    "href": "install.ecoff.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/pmax/binary/kernel/install.ecoff.gz",
+    "is_dir": false,
+    "size": "1.0 MiB",
+    "date": "01-Nov-2000 15:40"
+  },
+  {
+    "name": "install.gz",
+    "href": "install.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/pmax/binary/kernel/install.gz",
+    "is_dir": false,
+    "size": "1.1 MiB",
+    "date": "01-Nov-2000 15:40"
+  },
+  {
+    "name": "nfsnetbsd.gz",
+    "href": "nfsnetbsd.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/pmax/binary/kernel/nfsnetbsd.gz",
+    "is_dir": false,
+    "size": "427.4 KiB",
+    "date": "01-Nov-2000 16:00"
+  }
+]

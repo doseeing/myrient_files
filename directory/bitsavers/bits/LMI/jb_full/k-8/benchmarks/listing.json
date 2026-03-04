@@ -1,0 +1,274 @@
+[
+  {
+    "name": "bench.text.22",
+    "href": "bench.text.22",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-8/benchmarks/bench.text.22",
+    "is_dir": false,
+    "size": "2.8 KiB",
+    "date": "21-Apr-2017 01:19"
+  },
+  {
+    "name": "boyer.kenv.3",
+    "href": "boyer.kenv.3",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-8/benchmarks/boyer.kenv.3",
+    "is_dir": false,
+    "size": "582 B",
+    "date": "21-Apr-2017 01:19"
+  },
+  {
+    "name": "boyer.kfasl.3",
+    "href": "boyer.kfasl.3",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-8/benchmarks/boyer.kfasl.3",
+    "is_dir": false,
+    "size": "42.1 KiB",
+    "date": "21-Apr-2017 01:19"
+  },
+  {
+    "name": "boyer.lisp.4",
+    "href": "boyer.lisp.4",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-8/benchmarks/boyer.lisp.4",
+    "is_dir": false,
+    "size": "13.9 KiB",
+    "date": "21-Apr-2017 01:19"
+  },
+  {
+    "name": "browse-num.lisp.2",
+    "href": "browse-num.lisp.2",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-8/benchmarks/browse-num.lisp.2",
+    "is_dir": false,
+    "size": "3.5 KiB",
+    "date": "21-Apr-2017 01:19"
+  },
+  {
+    "name": "browse.kenv.4",
+    "href": "browse.kenv.4",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-8/benchmarks/browse.kenv.4",
+    "is_dir": false,
+    "size": "444 B",
+    "date": "21-Apr-2017 01:19"
+  },
+  {
+    "name": "browse.kfasl.4",
+    "href": "browse.kfasl.4",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-8/benchmarks/browse.kfasl.4",
+    "is_dir": false,
+    "size": "9.8 KiB",
+    "date": "21-Apr-2017 01:19"
+  },
+  {
+    "name": "browse.lisp.10",
+    "href": "browse.lisp.10",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-8/benchmarks/browse.lisp.10",
+    "is_dir": false,
+    "size": "3.3 KiB",
+    "date": "21-Apr-2017 01:19"
+  },
+  {
+    "name": "deriv.kenv.3",
+    "href": "deriv.kenv.3",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-8/benchmarks/deriv.kenv.3",
+    "is_dir": false,
+    "size": "532 B",
+    "date": "21-Apr-2017 01:19"
+  },
+  {
+    "name": "deriv.kfasl.3",
+    "href": "deriv.kfasl.3",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-8/benchmarks/deriv.kfasl.3",
+    "is_dir": false,
+    "size": "10.8 KiB",
+    "date": "21-Apr-2017 01:19"
+  },
+  {
+    "name": "deriv.lisp.4",
+    "href": "deriv.lisp.4",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-8/benchmarks/deriv.lisp.4",
+    "is_dir": false,
+    "size": "2.8 KiB",
+    "date": "21-Apr-2017 01:19"
+  },
+  {
+    "name": "destru.kenv.3",
+    "href": "destru.kenv.3",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-8/benchmarks/destru.kenv.3",
+    "is_dir": false,
+    "size": "268 B",
+    "date": "21-Apr-2017 01:19"
+  },
+  {
+    "name": "destru.kfasl.3",
+    "href": "destru.kfasl.3",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-8/benchmarks/destru.kfasl.3",
+    "is_dir": false,
+    "size": "2.0 KiB",
+    "date": "21-Apr-2017 01:19"
+  },
+  {
+    "name": "destru.lisp.4",
+    "href": "destru.lisp.4",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-8/benchmarks/destru.lisp.4",
+    "is_dir": false,
+    "size": "1.1 KiB",
+    "date": "21-Apr-2017 01:19"
+  },
+  {
+    "name": "div2.kenv.1",
+    "href": "div2.kenv.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-8/benchmarks/div2.kenv.1",
+    "is_dir": false,
+    "size": "268 B",
+    "date": "21-Apr-2017 01:19"
+  },
+  {
+    "name": "div2.kfasl.1",
+    "href": "div2.kfasl.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-8/benchmarks/div2.kfasl.1",
+    "is_dir": false,
+    "size": "1.6 KiB",
+    "date": "21-Apr-2017 01:19"
+  },
+  {
+    "name": "div2.lisp.2",
+    "href": "div2.lisp.2",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-8/benchmarks/div2.lisp.2",
+    "is_dir": false,
+    "size": "1.1 KiB",
+    "date": "21-Apr-2017 01:19"
+  },
+  {
+    "name": "fft.lisp.4",
+    "href": "fft.lisp.4",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-8/benchmarks/fft.lisp.4",
+    "is_dir": false,
+    "size": "3.8 KiB",
+    "date": "21-Apr-2017 01:19"
+  },
+  {
+    "name": "fprint.lisp.1",
+    "href": "fprint.lisp.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-8/benchmarks/fprint.lisp.1",
+    "is_dir": false,
+    "size": "1.3 KiB",
+    "date": "21-Apr-2017 01:19"
+  },
+  {
+    "name": "fread.lisp.1",
+    "href": "fread.lisp.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-8/benchmarks/fread.lisp.1",
+    "is_dir": false,
+    "size": "622 B",
+    "date": "21-Apr-2017 01:19"
+  },
+  {
+    "name": "frpoly.lisp.1",
+    "href": "frpoly.lisp.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-8/benchmarks/frpoly.lisp.1",
+    "is_dir": false,
+    "size": "5.8 KiB",
+    "date": "21-Apr-2017 01:19"
+  },
+  {
+    "name": "puzzle.kenv.4",
+    "href": "puzzle.kenv.4",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-8/benchmarks/puzzle.kenv.4",
+    "is_dir": false,
+    "size": "496 B",
+    "date": "21-Apr-2017 01:19"
+  },
+  {
+    "name": "puzzle.kfasl.4",
+    "href": "puzzle.kfasl.4",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-8/benchmarks/puzzle.kfasl.4",
+    "is_dir": false,
+    "size": "11.3 KiB",
+    "date": "21-Apr-2017 01:19"
+  },
+  {
+    "name": "puzzle.lisp.6",
+    "href": "puzzle.lisp.6",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-8/benchmarks/puzzle.lisp.6",
+    "is_dir": false,
+    "size": "3.8 KiB",
+    "date": "21-Apr-2017 01:19"
+  },
+  {
+    "name": "tak.kenv.1",
+    "href": "tak.kenv.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-8/benchmarks/tak.kenv.1",
+    "is_dir": false,
+    "size": "650 B",
+    "date": "21-Apr-2017 01:19"
+  },
+  {
+    "name": "tak.kfasl.1",
+    "href": "tak.kfasl.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-8/benchmarks/tak.kfasl.1",
+    "is_dir": false,
+    "size": "40.3 KiB",
+    "date": "21-Apr-2017 01:19"
+  },
+  {
+    "name": "tak.lisp.4",
+    "href": "tak.lisp.4",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-8/benchmarks/tak.lisp.4",
+    "is_dir": false,
+    "size": "16.0 KiB",
+    "date": "21-Apr-2017 01:19"
+  },
+  {
+    "name": "tprint.lisp.1",
+    "href": "tprint.lisp.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-8/benchmarks/tprint.lisp.1",
+    "is_dir": false,
+    "size": "941 B",
+    "date": "21-Apr-2017 01:19"
+  },
+  {
+    "name": "traverse.kenv.12",
+    "href": "traverse.kenv.12",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-8/benchmarks/traverse.kenv.12",
+    "is_dir": false,
+    "size": "4.6 KiB",
+    "date": "21-Apr-2017 01:19"
+  },
+  {
+    "name": "traverse.kfasl.12",
+    "href": "traverse.kfasl.12",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-8/benchmarks/traverse.kfasl.12",
+    "is_dir": false,
+    "size": "30.6 KiB",
+    "date": "21-Apr-2017 01:19"
+  },
+  {
+    "name": "traverse.lisp.14",
+    "href": "traverse.lisp.14",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-8/benchmarks/traverse.lisp.14",
+    "is_dir": false,
+    "size": "3.5 KiB",
+    "date": "21-Apr-2017 01:19"
+  },
+  {
+    "name": "triang.kenv.2",
+    "href": "triang.kenv.2",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-8/benchmarks/triang.kenv.2",
+    "is_dir": false,
+    "size": "402 B",
+    "date": "21-Apr-2017 01:19"
+  },
+  {
+    "name": "triang.kfasl.2",
+    "href": "triang.kfasl.2",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-8/benchmarks/triang.kfasl.2",
+    "is_dir": false,
+    "size": "6.6 KiB",
+    "date": "21-Apr-2017 01:19"
+  },
+  {
+    "name": "triang.lisp.4",
+    "href": "triang.lisp.4",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-8/benchmarks/triang.lisp.4",
+    "is_dir": false,
+    "size": "2.5 KiB",
+    "date": "21-Apr-2017 01:19"
+  }
+]

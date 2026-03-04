@@ -1,0 +1,234 @@
+[
+  {
+    "name": "patch-util.lisp.10",
+    "href": "patch-util.lisp.10",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/gjc/update/patch-util.lisp.10",
+    "is_dir": false,
+    "size": "16.0 KiB",
+    "date": "21-Apr-2017 01:29"
+  },
+  {
+    "name": "release-2p0-patch-status-tcprel.lisp.5",
+    "href": "release-2p0-patch-status-tcprel.lisp.5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/gjc/update/release-2p0-patch-status-tcprel.lisp.5",
+    "is_dir": false,
+    "size": "599 B",
+    "date": "21-Apr-2017 01:29"
+  },
+  {
+    "name": "release-2p0-patch-status.lisp.2",
+    "href": "release-2p0-patch-status.lisp.2",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/gjc/update/release-2p0-patch-status.lisp.2",
+    "is_dir": false,
+    "size": "661 B",
+    "date": "21-Apr-2017 01:29"
+  },
+  {
+    "name": "release-2p0-patch-update-tcprel.lisp.5",
+    "href": "release-2p0-patch-update-tcprel.lisp.5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/gjc/update/release-2p0-patch-update-tcprel.lisp.5",
+    "is_dir": false,
+    "size": "15.2 KiB",
+    "date": "21-Apr-2017 01:29"
+  },
+  {
+    "name": "release-2p0-patch-update-tcprel.report.5",
+    "href": "release-2p0-patch-update-tcprel.report.5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/gjc/update/release-2p0-patch-update-tcprel.report.5",
+    "is_dir": false,
+    "size": "207.0 KiB",
+    "date": "21-Apr-2017 01:29"
+  },
+  {
+    "name": "release-2p0-patch-update-tcprel.text.5",
+    "href": "release-2p0-patch-update-tcprel.text.5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/gjc/update/release-2p0-patch-update-tcprel.text.5",
+    "is_dir": false,
+    "size": "147.8 KiB",
+    "date": "21-Apr-2017 01:29"
+  },
+  {
+    "name": "release-3p0-patch-status-test.lisp.1",
+    "href": "release-3p0-patch-status-test.lisp.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/gjc/update/release-3p0-patch-status-test.lisp.1",
+    "is_dir": false,
+    "size": "791 B",
+    "date": "21-Apr-2017 01:29"
+  },
+  {
+    "name": "release-3p0-patch-status.lisp.2",
+    "href": "release-3p0-patch-status.lisp.2",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/gjc/update/release-3p0-patch-status.lisp.2",
+    "is_dir": false,
+    "size": "791 B",
+    "date": "21-Apr-2017 01:29"
+  },
+  {
+    "name": "release-3p0-patch-update-test.lisp.1",
+    "href": "release-3p0-patch-update-test.lisp.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/gjc/update/release-3p0-patch-update-test.lisp.1",
+    "is_dir": false,
+    "size": "12.5 KiB",
+    "date": "21-Apr-2017 01:29"
+  },
+  {
+    "name": "release-3p0-patch-update-test.report.1",
+    "href": "release-3p0-patch-update-test.report.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/gjc/update/release-3p0-patch-update-test.report.1",
+    "is_dir": false,
+    "size": "196.0 KiB",
+    "date": "21-Apr-2017 01:29"
+  },
+  {
+    "name": "release-3p0-patch-update-test.text.1",
+    "href": "release-3p0-patch-update-test.text.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/gjc/update/release-3p0-patch-update-test.text.1",
+    "is_dir": false,
+    "size": "143.2 KiB",
+    "date": "21-Apr-2017 01:29"
+  },
+  {
+    "name": "tape-util.lisp.7",
+    "href": "tape-util.lisp.7",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/gjc/update/tape-util.lisp.7",
+    "is_dir": false,
+    "size": "6.2 KiB",
+    "date": "21-Apr-2017 01:29"
+  },
+  {
+    "name": "tcp-rel1-patch-examples.lisp.4",
+    "href": "tcp-rel1-patch-examples.lisp.4",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/gjc/update/tcp-rel1-patch-examples.lisp.4",
+    "is_dir": false,
+    "size": "1.5 KiB",
+    "date": "21-Apr-2017 01:29"
+  },
+  {
+    "name": "tcp-rel1-patch-multibus.lisp.7",
+    "href": "tcp-rel1-patch-multibus.lisp.7",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/gjc/update/tcp-rel1-patch-multibus.lisp.7",
+    "is_dir": false,
+    "size": "799 B",
+    "date": "21-Apr-2017 01:29"
+  },
+  {
+    "name": "tcp-rel1-patch-status-base.lisp.1",
+    "href": "tcp-rel1-patch-status-base.lisp.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/gjc/update/tcp-rel1-patch-status-base.lisp.1",
+    "is_dir": false,
+    "size": "277 B",
+    "date": "21-Apr-2017 01:29"
+  },
+  {
+    "name": "tcp-rel1-patch-status.lisp.12",
+    "href": "tcp-rel1-patch-status.lisp.12",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/gjc/update/tcp-rel1-patch-status.lisp.12",
+    "is_dir": false,
+    "size": "595 B",
+    "date": "21-Apr-2017 01:29"
+  },
+  {
+    "name": "tcp-rel1-patch-update.lisp.10",
+    "href": "tcp-rel1-patch-update.lisp.10",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/gjc/update/tcp-rel1-patch-update.lisp.10",
+    "is_dir": false,
+    "size": "8.0 KiB",
+    "date": "21-Apr-2017 01:29"
+  },
+  {
+    "name": "tcp-rel1-status-1p4.lisp.2",
+    "href": "tcp-rel1-status-1p4.lisp.2",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/gjc/update/tcp-rel1-status-1p4.lisp.2",
+    "is_dir": false,
+    "size": "294 B",
+    "date": "21-Apr-2017 01:29"
+  },
+  {
+    "name": "tcp-rel1-status-test.lisp.1",
+    "href": "tcp-rel1-status-test.lisp.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/gjc/update/tcp-rel1-status-test.lisp.1",
+    "is_dir": false,
+    "size": "287 B",
+    "date": "21-Apr-2017 01:29"
+  },
+  {
+    "name": "tcp-rel1-status.lisp.1",
+    "href": "tcp-rel1-status.lisp.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/gjc/update/tcp-rel1-status.lisp.1",
+    "is_dir": false,
+    "size": "361 B",
+    "date": "21-Apr-2017 01:29"
+  },
+  {
+    "name": "tcp-rel1-update-1p4.lisp.2",
+    "href": "tcp-rel1-update-1p4.lisp.2",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/gjc/update/tcp-rel1-update-1p4.lisp.2",
+    "is_dir": false,
+    "size": "3.9 KiB",
+    "date": "21-Apr-2017 01:29"
+  },
+  {
+    "name": "tcp-rel1-update-1p4.report.2",
+    "href": "tcp-rel1-update-1p4.report.2",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/gjc/update/tcp-rel1-update-1p4.report.2",
+    "is_dir": false,
+    "size": "78.5 KiB",
+    "date": "21-Apr-2017 01:29"
+  },
+  {
+    "name": "tcp-rel1-update-1p4.text.2",
+    "href": "tcp-rel1-update-1p4.text.2",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/gjc/update/tcp-rel1-update-1p4.text.2",
+    "is_dir": false,
+    "size": "58.1 KiB",
+    "date": "21-Apr-2017 01:29"
+  },
+  {
+    "name": "tcp-rel1-update-test.lisp.1",
+    "href": "tcp-rel1-update-test.lisp.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/gjc/update/tcp-rel1-update-test.lisp.1",
+    "is_dir": false,
+    "size": "3.1 KiB",
+    "date": "21-Apr-2017 01:29"
+  },
+  {
+    "name": "tcp-rel1-update-test.report.1",
+    "href": "tcp-rel1-update-test.report.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/gjc/update/tcp-rel1-update-test.report.1",
+    "is_dir": false,
+    "size": "63.6 KiB",
+    "date": "21-Apr-2017 01:29"
+  },
+  {
+    "name": "tcp-rel1-update-test.text.1",
+    "href": "tcp-rel1-update-test.text.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/gjc/update/tcp-rel1-update-test.text.1",
+    "is_dir": false,
+    "size": "47.0 KiB",
+    "date": "21-Apr-2017 01:29"
+  },
+  {
+    "name": "tcp.lisp.10",
+    "href": "tcp.lisp.10",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/gjc/update/tcp.lisp.10",
+    "is_dir": false,
+    "size": "1.4 KiB",
+    "date": "21-Apr-2017 01:29"
+  },
+  {
+    "name": "utility-test.lisp.2",
+    "href": "utility-test.lisp.2",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/gjc/update/utility-test.lisp.2",
+    "is_dir": false,
+    "size": "399 B",
+    "date": "21-Apr-2017 01:29"
+  },
+  {
+    "name": "utility.lisp.12",
+    "href": "utility.lisp.12",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/gjc/update/utility.lisp.12",
+    "is_dir": false,
+    "size": "1.5 KiB",
+    "date": "21-Apr-2017 01:29"
+  }
+]

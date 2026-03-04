@@ -1,0 +1,138 @@
+[
+  {
+    "name": "BOOTER.README.txt",
+    "href": "BOOTER.README.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/mac68k/installation/misc/BOOTER.README.txt",
+    "is_dir": false,
+    "size": "2.3 KiB",
+    "date": "04-Mar-2000 18:40"
+  },
+  {
+    "name": "BSDSUM",
+    "href": "BSDSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/mac68k/installation/misc/BSDSUM",
+    "is_dir": false,
+    "size": "360 B",
+    "date": "04-Mar-2000 18:40"
+  },
+  {
+    "name": "Booter-HTML-manual-8.tar",
+    "href": "Booter-HTML-manual-8.tar",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/mac68k/installation/misc/Booter-HTML-manual-8.tar",
+    "is_dir": false,
+    "size": "83.5 KiB",
+    "date": "04-Mar-2000 18:40"
+  },
+  {
+    "name": "Booter.sea.hqx",
+    "href": "Booter.sea.hqx",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/mac68k/installation/misc/Booter.sea.hqx",
+    "is_dir": false,
+    "size": "141.5 KiB",
+    "date": "04-Mar-2000 18:40"
+  },
+  {
+    "name": "Booter1.11.3.sea.hqx",
+    "href": "Booter1.11.3.sea.hqx",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/mac68k/installation/misc/Booter1.11.3.sea.hqx",
+    "is_dir": false,
+    "size": "141.5 KiB",
+    "date": "04-Mar-2000 18:40"
+  },
+  {
+    "name": "CKSUM",
+    "href": "CKSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/mac68k/installation/misc/CKSUM",
+    "is_dir": false,
+    "size": "462 B",
+    "date": "04-Mar-2000 18:40"
+  },
+  {
+    "name": "Installer.sea.hqx",
+    "href": "Installer.sea.hqx",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/mac68k/installation/misc/Installer.sea.hqx",
+    "is_dir": false,
+    "size": "147.7 KiB",
+    "date": "04-Mar-2000 18:40"
+  },
+  {
+    "name": "Installer_1.1g.sea.hqx",
+    "href": "Installer_1.1g.sea.hqx",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/mac68k/installation/misc/Installer_1.1g.sea.hqx",
+    "is_dir": false,
+    "size": "147.7 KiB",
+    "date": "04-Mar-2000 18:40"
+  },
+  {
+    "name": "MD5",
+    "href": "MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/mac68k/installation/misc/MD5",
+    "is_dir": false,
+    "size": "773 B",
+    "date": "04-Mar-2000 18:40"
+  },
+  {
+    "name": "Mkfs.sea.hqx",
+    "href": "Mkfs.sea.hqx",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/mac68k/installation/misc/Mkfs.sea.hqx",
+    "is_dir": false,
+    "size": "78.3 KiB",
+    "date": "04-Mar-2000 18:40"
+  },
+  {
+    "name": "Mkfs_1.47.sea.hqx",
+    "href": "Mkfs_1.47.sea.hqx",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/mac68k/installation/misc/Mkfs_1.47.sea.hqx",
+    "is_dir": false,
+    "size": "78.3 KiB",
+    "date": "04-Mar-2000 18:40"
+  },
+  {
+    "name": "NetBSD_ROM.sit.hqx",
+    "href": "NetBSD_ROM.sit.hqx",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/mac68k/installation/misc/NetBSD_ROM.sit.hqx",
+    "is_dir": false,
+    "size": "91.6 KiB",
+    "date": "04-Mar-2000 18:40"
+  },
+  {
+    "name": "README.Booter",
+    "href": "README.Booter",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/mac68k/installation/misc/README.Booter",
+    "is_dir": false,
+    "size": "2.3 KiB",
+    "date": "04-Mar-2000 18:40"
+  },
+  {
+    "name": "README.Installer",
+    "href": "README.Installer",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/mac68k/installation/misc/README.Installer",
+    "is_dir": false,
+    "size": "1.8 KiB",
+    "date": "04-Mar-2000 18:40"
+  },
+  {
+    "name": "SYSVSUM",
+    "href": "SYSVSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/mac68k/installation/misc/SYSVSUM",
+    "is_dir": false,
+    "size": "363 B",
+    "date": "04-Mar-2000 18:40"
+  },
+  {
+    "name": "mode32-7.5.hqx",
+    "href": "mode32-7.5.hqx",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/mac68k/installation/misc/mode32-7.5.hqx",
+    "is_dir": false,
+    "size": "118.0 KiB",
+    "date": "04-Mar-2000 18:40"
+  },
+  {
+    "name": "res-edit-and-others.hqx",
+    "href": "res-edit-and-others.hqx",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/mac68k/installation/misc/res-edit-and-others.hqx",
+    "is_dir": false,
+    "size": "403.6 KiB",
+    "date": "04-Mar-2000 18:40"
+  }
+]

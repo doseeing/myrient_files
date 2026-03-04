@@ -1,0 +1,66 @@
+[
+  {
+    "name": "BSDSUM",
+    "href": "BSDSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/patches/BSDSUM",
+    "is_dir": false,
+    "size": "111 B",
+    "date": "24-Jan-2001 15:59"
+  },
+  {
+    "name": "CKSUM",
+    "href": "CKSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/patches/CKSUM",
+    "is_dir": false,
+    "size": "140 B",
+    "date": "24-Jan-2001 15:59"
+  },
+  {
+    "name": "MD5",
+    "href": "MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/patches/MD5",
+    "is_dir": false,
+    "size": "241 B",
+    "date": "24-Jan-2001 15:59"
+  },
+  {
+    "name": "README.files",
+    "href": "README.files",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/patches/README.files",
+    "is_dir": false,
+    "size": "533 B",
+    "date": "06-Feb-2001 14:30"
+  },
+  {
+    "name": "SYSVSUM",
+    "href": "SYSVSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/patches/SYSVSUM",
+    "is_dir": false,
+    "size": "111 B",
+    "date": "24-Jan-2001 15:59"
+  },
+  {
+    "name": "krb4_buffer_overflow.diff",
+    "href": "krb4_buffer_overflow.diff",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/patches/krb4_buffer_overflow.diff",
+    "is_dir": false,
+    "size": "3.5 KiB",
+    "date": "12-Dec-2000 22:04"
+  },
+  {
+    "name": "pmax-netboot.diff",
+    "href": "pmax-netboot.diff",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/patches/pmax-netboot.diff",
+    "is_dir": false,
+    "size": "2.0 KiB",
+    "date": "29-Nov-2000 22:57"
+  },
+  {
+    "name": "sparc64-compfix.tgz",
+    "href": "sparc64-compfix.tgz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/patches/sparc64-compfix.tgz",
+    "is_dir": false,
+    "size": "288.8 KiB",
+    "date": "24-Jan-2001 15:50"
+  }
+]

@@ -1,0 +1,250 @@
+[
+  {
+    "name": "I.5.b.1-ASM",
+    "href": "I.5.b.1-ASM/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/UCSD_Pascal/ucsd_released_2006/I.5/I.5Sources/I.5.b.1-ASM/",
+    "is_dir": true,
+    "size": null,
+    "date": "10-Mar-2006 08:24"
+  },
+  {
+    "name": "I.5Compiler",
+    "href": "I.5Compiler/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/UCSD_Pascal/ucsd_released_2006/I.5/I.5Sources/I.5Compiler/",
+    "is_dir": true,
+    "size": null,
+    "date": "10-Mar-2006 08:24"
+  },
+  {
+    "name": "I.5Disasm",
+    "href": "I.5Disasm/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/UCSD_Pascal/ucsd_released_2006/I.5/I.5Sources/I.5Disasm/",
+    "is_dir": true,
+    "size": null,
+    "date": "10-Mar-2006 08:24"
+  },
+  {
+    "name": "I.5Linker",
+    "href": "I.5Linker/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/UCSD_Pascal/ucsd_released_2006/I.5/I.5Sources/I.5Linker/",
+    "is_dir": true,
+    "size": null,
+    "date": "10-Mar-2006 08:24"
+  },
+  {
+    "name": "I.5System",
+    "href": "I.5System/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/UCSD_Pascal/ucsd_released_2006/I.5/I.5Sources/I.5System/",
+    "is_dir": true,
+    "size": null,
+    "date": "10-Mar-2006 08:25"
+  },
+  {
+    "name": "editor-e.4",
+    "href": "editor-e.4/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/UCSD_Pascal/ucsd_released_2006/I.5/I.5Sources/editor-e.4/",
+    "is_dir": true,
+    "size": null,
+    "date": "10-Mar-2006 08:26"
+  },
+  {
+    "name": "filer-F5",
+    "href": "filer-F5/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/UCSD_Pascal/ucsd_released_2006/I.5/I.5Sources/filer-F5/",
+    "is_dir": true,
+    "size": null,
+    "date": "10-Mar-2006 08:26"
+  },
+  {
+    "name": "I.5-PDP-INTERP.TXT",
+    "href": "I.5-PDP-INTERP.TXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/UCSD_Pascal/ucsd_released_2006/I.5/I.5Sources/I.5-PDP-INTERP.TXT",
+    "is_dir": false,
+    "size": "36.8 KiB",
+    "date": "09-Jan-2006 22:13"
+  },
+  {
+    "name": "I5Z80Interp.TXT",
+    "href": "I5Z80Interp.TXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/UCSD_Pascal/ucsd_released_2006/I.5/I.5Sources/I5Z80Interp.TXT",
+    "is_dir": false,
+    "size": "108.2 KiB",
+    "date": "09-Jan-2006 22:13"
+  },
+  {
+    "name": "P.UCSD_Pascal_1.5_Binder.txt",
+    "href": "P.UCSD_Pascal_1.5_Binder.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/UCSD_Pascal/ucsd_released_2006/I.5/I.5Sources/P.UCSD_Pascal_1.5_Binder.txt",
+    "is_dir": false,
+    "size": "373 B",
+    "date": "09-Jan-2006 22:13"
+  },
+  {
+    "name": "P.UCSD_Pascal_1.5_Compiler.txt",
+    "href": "P.UCSD_Pascal_1.5_Compiler.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/UCSD_Pascal/ucsd_released_2006/I.5/I.5Sources/P.UCSD_Pascal_1.5_Compiler.txt",
+    "is_dir": false,
+    "size": "4.5 KiB",
+    "date": "09-Jan-2006 22:13"
+  },
+  {
+    "name": "P.UCSD_Pascal_1.5_Disassembler.txt",
+    "href": "P.UCSD_Pascal_1.5_Disassembler.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/UCSD_Pascal/ucsd_released_2006/I.5/I.5Sources/P.UCSD_Pascal_1.5_Disassembler.txt",
+    "is_dir": false,
+    "size": "1.8 KiB",
+    "date": "09-Jan-2006 22:13"
+  },
+  {
+    "name": "P.UCSD_Pascal_1.5_LibMap.txt",
+    "href": "P.UCSD_Pascal_1.5_LibMap.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/UCSD_Pascal/ucsd_released_2006/I.5/I.5Sources/P.UCSD_Pascal_1.5_LibMap.txt",
+    "is_dir": false,
+    "size": "393 B",
+    "date": "09-Jan-2006 22:13"
+  },
+  {
+    "name": "P.UCSD_Pascal_1.5_Librarian.txt",
+    "href": "P.UCSD_Pascal_1.5_Librarian.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/UCSD_Pascal/ucsd_released_2006/I.5/I.5Sources/P.UCSD_Pascal_1.5_Librarian.txt",
+    "is_dir": false,
+    "size": "615 B",
+    "date": "09-Jan-2006 22:13"
+  },
+  {
+    "name": "P.UCSD_Pascal_1.5_Linker.txt",
+    "href": "P.UCSD_Pascal_1.5_Linker.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/UCSD_Pascal/ucsd_released_2006/I.5/I.5Sources/P.UCSD_Pascal_1.5_Linker.txt",
+    "is_dir": false,
+    "size": "1.8 KiB",
+    "date": "09-Jan-2006 22:13"
+  },
+  {
+    "name": "P.UCSD_Pascal_1.5_PIO.txt",
+    "href": "P.UCSD_Pascal_1.5_PIO.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/UCSD_Pascal/ucsd_released_2006/I.5/I.5Sources/P.UCSD_Pascal_1.5_PIO.txt",
+    "is_dir": false,
+    "size": "159 B",
+    "date": "09-Jan-2006 22:13"
+  },
+  {
+    "name": "P.UCSD_Pascal_1.5_PIO_Unit.txt",
+    "href": "P.UCSD_Pascal_1.5_PIO_Unit.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/UCSD_Pascal/ucsd_released_2006/I.5/I.5Sources/P.UCSD_Pascal_1.5_PIO_Unit.txt",
+    "is_dir": false,
+    "size": "314 B",
+    "date": "09-Jan-2006 22:13"
+  },
+  {
+    "name": "P.UCSD_Pascal_1.5_Radix.txt",
+    "href": "P.UCSD_Pascal_1.5_Radix.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/UCSD_Pascal/ucsd_released_2006/I.5/I.5Sources/P.UCSD_Pascal_1.5_Radix.txt",
+    "is_dir": false,
+    "size": "463 B",
+    "date": "09-Jan-2006 22:13"
+  },
+  {
+    "name": "P.UCSD_Pascal_1.5_System.txt",
+    "href": "P.UCSD_Pascal_1.5_System.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/UCSD_Pascal/ucsd_released_2006/I.5/I.5Sources/P.UCSD_Pascal_1.5_System.txt",
+    "is_dir": false,
+    "size": "2.1 KiB",
+    "date": "09-Jan-2006 22:13"
+  },
+  {
+    "name": "UCSD_Pascal_1.5_Interp_CopyRite.txt",
+    "href": "UCSD_Pascal_1.5_Interp_CopyRite.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/UCSD_Pascal/ucsd_released_2006/I.5/I.5Sources/UCSD_Pascal_1.5_Interp_CopyRite.txt",
+    "is_dir": false,
+    "size": "1.0 KiB",
+    "date": "09-Jan-2006 22:13"
+  },
+  {
+    "name": "UCSD_Pascal_1.5_Interp_MainOp.txt",
+    "href": "UCSD_Pascal_1.5_Interp_MainOp.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/UCSD_Pascal/ucsd_released_2006/I.5/I.5Sources/UCSD_Pascal_1.5_Interp_MainOp.txt",
+    "is_dir": false,
+    "size": "36.8 KiB",
+    "date": "09-Jan-2006 22:13"
+  },
+  {
+    "name": "UCSD_Pascal_1.5_Interp_ProcOp.txt",
+    "href": "UCSD_Pascal_1.5_Interp_ProcOp.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/UCSD_Pascal/ucsd_released_2006/I.5/I.5Sources/UCSD_Pascal_1.5_Interp_ProcOp.txt",
+    "is_dir": false,
+    "size": "41.8 KiB",
+    "date": "09-Jan-2006 22:13"
+  },
+  {
+    "name": "UCSD_Pascal_1.5_Interp_QXBOOT.txt",
+    "href": "UCSD_Pascal_1.5_Interp_QXBOOT.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/UCSD_Pascal/ucsd_released_2006/I.5/I.5Sources/UCSD_Pascal_1.5_Interp_QXBOOT.txt",
+    "is_dir": false,
+    "size": "15.5 KiB",
+    "date": "09-Jan-2006 22:13"
+  },
+  {
+    "name": "UCSD_Pascal_1.5_Interp_RKBOOT.txt",
+    "href": "UCSD_Pascal_1.5_Interp_RKBOOT.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/UCSD_Pascal/ucsd_released_2006/I.5/I.5Sources/UCSD_Pascal_1.5_Interp_RKBOOT.txt",
+    "is_dir": false,
+    "size": "9.3 KiB",
+    "date": "09-Jan-2006 22:13"
+  },
+  {
+    "name": "UCSD_Pascal_1.5_Interp_RXBOOT.txt",
+    "href": "UCSD_Pascal_1.5_Interp_RXBOOT.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/UCSD_Pascal/ucsd_released_2006/I.5/I.5Sources/UCSD_Pascal_1.5_Interp_RXBOOT.txt",
+    "is_dir": false,
+    "size": "15.1 KiB",
+    "date": "09-Jan-2006 22:13"
+  },
+  {
+    "name": "UCSD_Pascal_1.5_Interp_TERAK.txt",
+    "href": "UCSD_Pascal_1.5_Interp_TERAK.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/UCSD_Pascal/ucsd_released_2006/I.5/I.5Sources/UCSD_Pascal_1.5_Interp_TERAK.txt",
+    "is_dir": false,
+    "size": "417 B",
+    "date": "09-Jan-2006 22:13"
+  },
+  {
+    "name": "UCSD_Pascal_1.5_LibMap.txt",
+    "href": "UCSD_Pascal_1.5_LibMap.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/UCSD_Pascal/ucsd_released_2006/I.5/I.5Sources/UCSD_Pascal_1.5_LibMap.txt",
+    "is_dir": false,
+    "size": "16.2 KiB",
+    "date": "09-Jan-2006 22:13"
+  },
+  {
+    "name": "UCSD_Pascal_1.5_PIO.txt",
+    "href": "UCSD_Pascal_1.5_PIO.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/UCSD_Pascal/ucsd_released_2006/I.5/I.5Sources/UCSD_Pascal_1.5_PIO.txt",
+    "is_dir": false,
+    "size": "14.2 KiB",
+    "date": "09-Jan-2006 22:13"
+  },
+  {
+    "name": "UCSD_Pascal_1.5_PIO_Unit.txt",
+    "href": "UCSD_Pascal_1.5_PIO_Unit.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/UCSD_Pascal/ucsd_released_2006/I.5/I.5Sources/UCSD_Pascal_1.5_PIO_Unit.txt",
+    "is_dir": false,
+    "size": "9.0 KiB",
+    "date": "09-Jan-2006 22:13"
+  },
+  {
+    "name": "UCSD_Pascal_1.5_Radix.txt",
+    "href": "UCSD_Pascal_1.5_Radix.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/UCSD_Pascal/ucsd_released_2006/I.5/I.5Sources/UCSD_Pascal_1.5_Radix.txt",
+    "is_dir": false,
+    "size": "12.4 KiB",
+    "date": "09-Jan-2006 22:13"
+  },
+  {
+    "name": "set1.txt",
+    "href": "set1.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/UCSD_Pascal/ucsd_released_2006/I.5/I.5Sources/set1.txt",
+    "is_dir": false,
+    "size": "6.1 KiB",
+    "date": "09-Jan-2006 22:13"
+  }
+]

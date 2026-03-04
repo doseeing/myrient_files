@@ -1,0 +1,162 @@
+[
+  {
+    "name": "_text",
+    "href": "_text/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp1/papertapeImages/20031216/fcddt/_text/",
+    "is_dir": true,
+    "size": null,
+    "date": "27-Oct-2004 00:24"
+  },
+  {
+    "name": "characterDisplayRoutineSingleCase.bin",
+    "href": "characterDisplayRoutineSingleCase.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp1/papertapeImages/20031216/fcddt/characterDisplayRoutineSingleCase.bin",
+    "is_dir": false,
+    "size": "1.7 KiB",
+    "date": "17-Dec-1999 04:41"
+  },
+  {
+    "name": "characterDisplayRoutineWithUpperCase.bin",
+    "href": "characterDisplayRoutineWithUpperCase.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp1/papertapeImages/20031216/fcddt/characterDisplayRoutineWithUpperCase.bin",
+    "is_dir": false,
+    "size": "2.9 KiB",
+    "date": "17-Dec-1999 04:38"
+  },
+  {
+    "name": "ddt_sa6000_6-63.bin",
+    "href": "ddt_sa6000_6-63.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp1/papertapeImages/20031216/fcddt/ddt_sa6000_6-63.bin",
+    "is_dir": false,
+    "size": "4.0 KiB",
+    "date": "17-Dec-1999 04:32"
+  },
+  {
+    "name": "fcdddtPublicRoutinePass1Only.bin",
+    "href": "fcdddtPublicRoutinePass1Only.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp1/papertapeImages/20031216/fcddt/fcdddtPublicRoutinePass1Only.bin",
+    "is_dir": false,
+    "size": "0 B",
+    "date": "17-Dec-1999 04:58"
+  },
+  {
+    "name": "fcdddtPublicRoutinePass1Only_20jul65.bin",
+    "href": "fcdddtPublicRoutinePass1Only_20jul65.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp1/papertapeImages/20031216/fcddt/fcdddtPublicRoutinePass1Only_20jul65.bin",
+    "is_dir": false,
+    "size": "493 B",
+    "date": "17-Dec-1999 04:59"
+  },
+  {
+    "name": "fcdddtWithSymtable_sep8-65.bin",
+    "href": "fcdddtWithSymtable_sep8-65.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp1/papertapeImages/20031216/fcddt/fcdddtWithSymtable_sep8-65.bin",
+    "is_dir": false,
+    "size": "7.9 KiB",
+    "date": "17-Dec-1999 04:57"
+  },
+  {
+    "name": "fcdddt_7-29-65_symbols.bin",
+    "href": "fcdddt_7-29-65_symbols.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp1/papertapeImages/20031216/fcddt/fcdddt_7-29-65_symbols.bin",
+    "is_dir": false,
+    "size": "4.7 KiB",
+    "date": "17-Dec-1999 04:55"
+  },
+  {
+    "name": "fcdddt_part2_29jun65_eng.bin",
+    "href": "fcdddt_part2_29jun65_eng.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp1/papertapeImages/20031216/fcddt/fcdddt_part2_29jun65_eng.bin",
+    "is_dir": false,
+    "size": "6.5 KiB",
+    "date": "17-Dec-1999 04:54"
+  },
+  {
+    "name": "fcdddt_part3_21jul65.bin",
+    "href": "fcdddt_part3_21jul65.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp1/papertapeImages/20031216/fcddt/fcdddt_part3_21jul65.bin",
+    "is_dir": false,
+    "size": "10.9 KiB",
+    "date": "17-Dec-1999 04:51"
+  },
+  {
+    "name": "fcddtAssembledByMidas_jul29-65.bin",
+    "href": "fcddtAssembledByMidas_jul29-65.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp1/papertapeImages/20031216/fcddt/fcddtAssembledByMidas_jul29-65.bin",
+    "is_dir": false,
+    "size": "7.2 KiB",
+    "date": "17-Dec-1999 04:43"
+  },
+  {
+    "name": "fcddt_part1_jun29_65.bin",
+    "href": "fcddt_part1_jun29_65.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp1/papertapeImages/20031216/fcddt/fcddt_part1_jun29_65.bin",
+    "is_dir": false,
+    "size": "8.6 KiB",
+    "date": "17-Dec-1999 04:35"
+  },
+  {
+    "name": "initalSymbolTableForFcdddt_sep8-65.bin",
+    "href": "initalSymbolTableForFcdddt_sep8-65.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp1/papertapeImages/20031216/fcddt/initalSymbolTableForFcdddt_sep8-65.bin",
+    "is_dir": false,
+    "size": "1016 B",
+    "date": "17-Dec-1999 04:58"
+  },
+  {
+    "name": "initialSymbolTableForFcdddt_jun29-65.bin",
+    "href": "initialSymbolTableForFcdddt_jun29-65.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp1/papertapeImages/20031216/fcddt/initialSymbolTableForFcdddt_jun29-65.bin",
+    "is_dir": false,
+    "size": "2.2 KiB",
+    "date": "17-Dec-1999 04:44"
+  },
+  {
+    "name": "multiPrecisionPackage_4-3-62.bin",
+    "href": "multiPrecisionPackage_4-3-62.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp1/papertapeImages/20031216/fcddt/multiPrecisionPackage_4-3-62.bin",
+    "is_dir": false,
+    "size": "10.6 KiB",
+    "date": "17-Dec-1999 04:37"
+  },
+  {
+    "name": "patchForConditionalsInMidas.bin",
+    "href": "patchForConditionalsInMidas.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp1/papertapeImages/20031216/fcddt/patchForConditionalsInMidas.bin",
+    "is_dir": false,
+    "size": "155 B",
+    "date": "17-Dec-1999 04:56"
+  },
+  {
+    "name": "scope-half_oct65.bin_BACKWARDS",
+    "href": "scope-half_oct65.bin_BACKWARDS",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp1/papertapeImages/20031216/fcddt/scope-half_oct65.bin_BACKWARDS",
+    "is_dir": false,
+    "size": "8.3 KiB",
+    "date": "17-Dec-1999 04:40"
+  },
+  {
+    "name": "scopeDouble_forPossible_10-63.bin",
+    "href": "scopeDouble_forPossible_10-63.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp1/papertapeImages/20031216/fcddt/scopeDouble_forPossible_10-63.bin",
+    "is_dir": false,
+    "size": "8.2 KiB",
+    "date": "17-Dec-1999 04:30"
+  },
+  {
+    "name": "systemForFcdddt_jul-20-65_eng.bin",
+    "href": "systemForFcdddt_jul-20-65_eng.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp1/papertapeImages/20031216/fcddt/systemForFcdddt_jul-20-65_eng.bin",
+    "is_dir": false,
+    "size": "718 B",
+    "date": "17-Dec-1999 04:52"
+  },
+  {
+    "name": "systemForFcddt_jul20-65.bin",
+    "href": "systemForFcddt_jul20-65.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp1/papertapeImages/20031216/fcddt/systemForFcddt_jul20-65.bin",
+    "is_dir": false,
+    "size": "717 B",
+    "date": "17-Dec-1999 04:46"
+  }
+]

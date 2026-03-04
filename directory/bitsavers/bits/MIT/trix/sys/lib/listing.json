@@ -1,0 +1,114 @@
+[
+  {
+    "name": "cbuf.c",
+    "href": "cbuf.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/trix/sys/lib/cbuf.c",
+    "is_dir": false,
+    "size": "3.9 KiB",
+    "date": "11-Oct-1986 22:50"
+  },
+  {
+    "name": "kparsestat.c",
+    "href": "kparsestat.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/trix/sys/lib/kparsestat.c",
+    "is_dir": false,
+    "size": "3.8 KiB",
+    "date": "11-Oct-1986 22:50"
+  },
+  {
+    "name": "parsename.c",
+    "href": "parsename.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/trix/sys/lib/parsename.c",
+    "is_dir": false,
+    "size": "3.4 KiB",
+    "date": "11-Oct-1986 22:50"
+  },
+  {
+    "name": "parsestat.c",
+    "href": "parsestat.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/trix/sys/lib/parsestat.c",
+    "is_dir": false,
+    "size": "3.8 KiB",
+    "date": "11-Oct-1986 22:50"
+  },
+  {
+    "name": "print.c",
+    "href": "print.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/trix/sys/lib/print.c",
+    "is_dir": false,
+    "size": "6.4 KiB",
+    "date": "11-Oct-1986 22:50"
+  },
+  {
+    "name": "setjmp.s",
+    "href": "setjmp.s",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/trix/sys/lib/setjmp.s",
+    "is_dir": false,
+    "size": "2.9 KiB",
+    "date": "11-Oct-1986 22:50"
+  },
+  {
+    "name": "string.c",
+    "href": "string.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/trix/sys/lib/string.c",
+    "is_dir": false,
+    "size": "4.7 KiB",
+    "date": "11-Oct-1986 22:50"
+  },
+  {
+    "name": "t_CALL.s",
+    "href": "t_CALL.s",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/trix/sys/lib/t_CALL.s",
+    "is_dir": false,
+    "size": "6.7 KiB",
+    "date": "11-Oct-1986 22:50"
+  },
+  {
+    "name": "t_CALLS.c",
+    "href": "t_CALLS.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/trix/sys/lib/t_CALLS.c",
+    "is_dir": false,
+    "size": "6.0 KiB",
+    "date": "11-Oct-1986 22:50"
+  },
+  {
+    "name": "t_EXEC.c",
+    "href": "t_EXEC.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/trix/sys/lib/t_EXEC.c",
+    "is_dir": false,
+    "size": "3.2 KiB",
+    "date": "11-Oct-1986 22:50"
+  },
+  {
+    "name": "t_RQSTS.c",
+    "href": "t_RQSTS.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/trix/sys/lib/t_RQSTS.c",
+    "is_dir": false,
+    "size": "6.4 KiB",
+    "date": "11-Oct-1986 22:51"
+  },
+  {
+    "name": "util0.c",
+    "href": "util0.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/trix/sys/lib/util0.c",
+    "is_dir": false,
+    "size": "2.5 KiB",
+    "date": "11-Oct-1986 22:51"
+  },
+  {
+    "name": "util1.s",
+    "href": "util1.s",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/trix/sys/lib/util1.s",
+    "is_dir": false,
+    "size": "11.7 KiB",
+    "date": "11-Oct-1986 22:51"
+  },
+  {
+    "name": "util2.s",
+    "href": "util2.s",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/trix/sys/lib/util2.s",
+    "is_dir": false,
+    "size": "6.1 KiB",
+    "date": "11-Oct-1986 22:51"
+  }
+]

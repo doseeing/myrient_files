@@ -1,0 +1,90 @@
+[
+  {
+    "name": "CKSUMS",
+    "href": "CKSUMS",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2.1/amiga/utils/CKSUMS",
+    "is_dir": false,
+    "size": "269 B",
+    "date": "29-Sep-1996 04:58"
+  },
+  {
+    "name": "README",
+    "href": "README",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2.1/amiga/utils/README",
+    "is_dir": false,
+    "size": "724 B",
+    "date": "29-Sep-1996 04:56"
+  },
+  {
+    "name": "device-streams.tar.gz",
+    "href": "device-streams.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2.1/amiga/utils/device-streams.tar.gz",
+    "is_dir": false,
+    "size": "69.6 KiB",
+    "date": "29-Sep-1996 04:51"
+  },
+  {
+    "name": "loadbsd",
+    "href": "loadbsd",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2.1/amiga/utils/loadbsd",
+    "is_dir": false,
+    "size": "5.2 KiB",
+    "date": "29-Sep-1996 04:56"
+  },
+  {
+    "name": "loadbsd-2.14",
+    "href": "loadbsd-2.14",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2.1/amiga/utils/loadbsd-2.14",
+    "is_dir": false,
+    "size": "22.2 KiB",
+    "date": "29-Sep-1996 04:57"
+  },
+  {
+    "name": "loadbsd-2.14.gz",
+    "href": "loadbsd-2.14.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2.1/amiga/utils/loadbsd-2.14.gz",
+    "is_dir": false,
+    "size": "12.2 KiB",
+    "date": "29-Sep-1996 04:56"
+  },
+  {
+    "name": "loadbsd.gz",
+    "href": "loadbsd.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2.1/amiga/utils/loadbsd.gz",
+    "is_dir": false,
+    "size": "5.2 KiB",
+    "date": "29-Sep-1996 04:56"
+  },
+  {
+    "name": "rdbinfo",
+    "href": "rdbinfo",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2.1/amiga/utils/rdbinfo",
+    "is_dir": false,
+    "size": "18.9 KiB",
+    "date": "29-Sep-1996 04:51"
+  },
+  {
+    "name": "rdbinfo.gz",
+    "href": "rdbinfo.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2.1/amiga/utils/rdbinfo.gz",
+    "is_dir": false,
+    "size": "11.3 KiB",
+    "date": "29-Sep-1996 04:51"
+  },
+  {
+    "name": "xstreamtodev",
+    "href": "xstreamtodev",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2.1/amiga/utils/xstreamtodev",
+    "is_dir": false,
+    "size": "22.5 KiB",
+    "date": "29-Sep-1996 04:51"
+  },
+  {
+    "name": "xstreamtodev.gz",
+    "href": "xstreamtodev.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2.1/amiga/utils/xstreamtodev.gz",
+    "is_dir": false,
+    "size": "13.3 KiB",
+    "date": "29-Sep-1996 04:51"
+  }
+]

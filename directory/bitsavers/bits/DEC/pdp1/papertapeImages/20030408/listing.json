@@ -1,0 +1,90 @@
+[
+  {
+    "name": "_text",
+    "href": "_text/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp1/papertapeImages/20030408/_text/",
+    "is_dir": true,
+    "size": null,
+    "date": "27-Oct-2004 00:21"
+  },
+  {
+    "name": "et11b.bin",
+    "href": "et11b.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp1/papertapeImages/20030408/et11b.bin",
+    "is_dir": false,
+    "size": "24.7 KiB",
+    "date": "03-Dec-2003 01:27"
+  },
+  {
+    "name": "flip.bin",
+    "href": "flip.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp1/papertapeImages/20030408/flip.bin",
+    "is_dir": false,
+    "size": "27.2 KiB",
+    "date": "03-Dec-2003 01:27"
+  },
+  {
+    "name": "fortran.bin",
+    "href": "fortran.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp1/papertapeImages/20030408/fortran.bin",
+    "is_dir": false,
+    "size": "526 B",
+    "date": "03-Dec-2003 01:27"
+  },
+  {
+    "name": "id.bin",
+    "href": "id.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp1/papertapeImages/20030408/id.bin",
+    "is_dir": false,
+    "size": "39.2 KiB",
+    "date": "03-Dec-2003 01:27"
+  },
+  {
+    "name": "maize.bin",
+    "href": "maize.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp1/papertapeImages/20030408/maize.bin",
+    "is_dir": false,
+    "size": "21.6 KiB",
+    "date": "03-Dec-2003 01:27"
+  },
+  {
+    "name": "petrtest.bin",
+    "href": "petrtest.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp1/papertapeImages/20030408/petrtest.bin",
+    "is_dir": false,
+    "size": "455 B",
+    "date": "03-Dec-2003 01:27"
+  },
+  {
+    "name": "spaceWar.bin",
+    "href": "spaceWar.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp1/papertapeImages/20030408/spaceWar.bin",
+    "is_dir": false,
+    "size": "8.6 KiB",
+    "date": "03-Dec-2003 01:27"
+  },
+  {
+    "name": "spaceWar3.1.bin",
+    "href": "spaceWar3.1.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp1/papertapeImages/20030408/spaceWar3.1.bin",
+    "is_dir": false,
+    "size": "9.1 KiB",
+    "date": "03-Dec-2003 01:27"
+  },
+  {
+    "name": "spaceWarRstrt.bin",
+    "href": "spaceWarRstrt.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp1/papertapeImages/20030408/spaceWarRstrt.bin",
+    "is_dir": false,
+    "size": "655 B",
+    "date": "03-Dec-2003 01:27"
+  },
+  {
+    "name": "tapedup.bin",
+    "href": "tapedup.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp1/papertapeImages/20030408/tapedup.bin",
+    "is_dir": false,
+    "size": "1.1 KiB",
+    "date": "03-Dec-2003 01:27"
+  }
+]

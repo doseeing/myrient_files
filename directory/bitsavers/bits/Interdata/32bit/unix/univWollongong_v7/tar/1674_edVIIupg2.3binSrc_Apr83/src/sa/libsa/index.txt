@@ -1,0 +1,23 @@
+name	is_dir	size	date
+Makefile	False	1.1 KiB	14-Apr-1983 23:52
+SYS.c	False	11.5 KiB	08-Mar-1983 23:38
+SYS.o	False	14.1 KiB	14-Apr-1983 23:53
+conf.c	False	1.7 KiB	14-Apr-1983 23:52
+conf.o	False	2.0 KiB	14-Apr-1983 23:53
+d40.c	False	2.2 KiB	08-Mar-1983 23:38
+d40.o	False	2.4 KiB	14-Apr-1983 23:53
+dsk.c	False	1.8 KiB	14-Apr-1983 23:49
+dsk.o	False	2.3 KiB	14-Apr-1983 23:53
+msm.c	False	3.7 KiB	08-Mar-1983 23:39
+msm.o	False	4.1 KiB	14-Apr-1983 23:53
+msm.s	False	6.5 KiB	08-Mar-1983 23:39
+mt.c	False	2.0 KiB	08-Mar-1983 23:39
+mt.o	False	2.8 KiB	14-Apr-1983 23:53
+prf.c	False	1.1 KiB	08-Mar-1983 23:39
+prf.o	False	1.5 KiB	14-Apr-1983 23:53
+tty.c	False	1.9 KiB	08-Mar-1983 23:39
+tty.o	False	2.3 KiB	14-Apr-1983 23:53
+udd.c	False	3.3 KiB	14-Apr-1983 23:52
+udd.o	False	3.2 KiB	14-Apr-1983 23:53
+vprint.c	False	156 B	08-Mar-1983 23:39
+vprint.o	False	408 B	14-Apr-1983 23:53

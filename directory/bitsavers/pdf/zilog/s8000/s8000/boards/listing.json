@@ -1,0 +1,34 @@
+[
+  {
+    "name": "CPU",
+    "href": "CPU/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/zilog/s8000/s8000/boards/CPU/",
+    "is_dir": true,
+    "size": null,
+    "date": "31-Oct-2025 19:43"
+  },
+  {
+    "name": "Disk",
+    "href": "Disk/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/zilog/s8000/s8000/boards/Disk/",
+    "is_dir": true,
+    "size": null,
+    "date": "31-Oct-2025 19:43"
+  },
+  {
+    "name": "Secondary_Serial",
+    "href": "Secondary_Serial/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/zilog/s8000/s8000/boards/Secondary_Serial/",
+    "is_dir": true,
+    "size": null,
+    "date": "31-Oct-2025 19:43"
+  },
+  {
+    "name": "Tape",
+    "href": "Tape/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/zilog/s8000/s8000/boards/Tape/",
+    "is_dir": true,
+    "size": null,
+    "date": "31-Oct-2025 19:43"
+  }
+]

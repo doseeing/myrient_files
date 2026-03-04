@@ -1,0 +1,122 @@
+[
+  {
+    "name": "X11",
+    "href": "X11/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/sparc/X11/",
+    "is_dir": true,
+    "size": null,
+    "date": "30-Sep-2023 17:20"
+  },
+  {
+    "name": "extras",
+    "href": "extras/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/sparc/extras/",
+    "is_dir": true,
+    "size": null,
+    "date": "30-Sep-2023 17:20"
+  },
+  {
+    "name": "INSTALL",
+    "href": "INSTALL",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/sparc/INSTALL",
+    "is_dir": false,
+    "size": "45.2 KiB",
+    "date": "30-Sep-1996 23:08"
+  },
+  {
+    "name": "INSTALL.sparc",
+    "href": "INSTALL.sparc",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/sparc/INSTALL.sparc",
+    "is_dir": false,
+    "size": "43.6 KiB",
+    "date": "15-Sep-1996 22:14"
+  },
+  {
+    "name": "README",
+    "href": "README",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/sparc/README",
+    "is_dir": false,
+    "size": "459 B",
+    "date": "03-Oct-1996 10:42"
+  },
+  {
+    "name": "base.tar.gz",
+    "href": "base.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/sparc/base.tar.gz",
+    "is_dir": false,
+    "size": "8.2 MiB",
+    "date": "27-Sep-1996 08:49"
+  },
+  {
+    "name": "comp.tar.gz",
+    "href": "comp.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/sparc/comp.tar.gz",
+    "is_dir": false,
+    "size": "5.9 MiB",
+    "date": "27-Sep-1996 09:00"
+  },
+  {
+    "name": "etc.tar.gz",
+    "href": "etc.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/sparc/etc.tar.gz",
+    "is_dir": false,
+    "size": "70.3 KiB",
+    "date": "27-Sep-1996 09:00"
+  },
+  {
+    "name": "games.tar.gz",
+    "href": "games.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/sparc/games.tar.gz",
+    "is_dir": false,
+    "size": "2.8 MiB",
+    "date": "27-Sep-1996 09:02"
+  },
+  {
+    "name": "man.tar.gz",
+    "href": "man.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/sparc/man.tar.gz",
+    "is_dir": false,
+    "size": "878.1 KiB",
+    "date": "27-Sep-1996 09:03"
+  },
+  {
+    "name": "miniroot-12.fs.sun4",
+    "href": "miniroot-12.fs.sun4",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/sparc/miniroot-12.fs.sun4",
+    "is_dir": false,
+    "size": "5.0 MiB",
+    "date": "03-Oct-1996 10:11"
+  },
+  {
+    "name": "miniroot-12.fs.sun4c",
+    "href": "miniroot-12.fs.sun4c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/sparc/miniroot-12.fs.sun4c",
+    "is_dir": false,
+    "size": "5.0 MiB",
+    "date": "03-Oct-1996 10:21"
+  },
+  {
+    "name": "misc.tar.gz",
+    "href": "misc.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/sparc/misc.tar.gz",
+    "is_dir": false,
+    "size": "1.8 MiB",
+    "date": "27-Sep-1996 09:06"
+  },
+  {
+    "name": "secr.tar.gz",
+    "href": "secr.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/sparc/secr.tar.gz",
+    "is_dir": false,
+    "size": "622.4 KiB",
+    "date": "24-Sep-1996 19:36"
+  },
+  {
+    "name": "text.tar.gz",
+    "href": "text.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/sparc/text.tar.gz",
+    "is_dir": false,
+    "size": "797.4 KiB",
+    "date": "27-Sep-1996 09:07"
+  }
+]

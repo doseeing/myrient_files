@@ -1,0 +1,26 @@
+[
+  {
+    "name": "firmware",
+    "href": "firmware/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/megatek/7000/boards/Unibus_Intf/Host_Logic/firmware/",
+    "is_dir": true,
+    "size": null,
+    "date": "25-Sep-2024 02:32"
+  },
+  {
+    "name": "back_1.jpg",
+    "href": "back_1.jpg",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/megatek/7000/boards/Unibus_Intf/Host_Logic/back_1.jpg",
+    "is_dir": false,
+    "size": "1.6 MiB",
+    "date": "23-Sep-2024 02:35"
+  },
+  {
+    "name": "front_1.jpg",
+    "href": "front_1.jpg",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/megatek/7000/boards/Unibus_Intf/Host_Logic/front_1.jpg",
+    "is_dir": false,
+    "size": "1.4 MiB",
+    "date": "23-Sep-2024 02:35"
+  }
+]

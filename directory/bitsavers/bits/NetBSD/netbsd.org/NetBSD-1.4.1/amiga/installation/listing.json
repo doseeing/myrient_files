@@ -1,0 +1,50 @@
+[
+  {
+    "name": "miniroot",
+    "href": "miniroot/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/amiga/installation/miniroot/",
+    "is_dir": true,
+    "size": null,
+    "date": "01-Oct-2023 18:33"
+  },
+  {
+    "name": "misc",
+    "href": "misc/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/amiga/installation/misc/",
+    "is_dir": true,
+    "size": null,
+    "date": "01-Oct-2023 18:33"
+  },
+  {
+    "name": "BSDSUM",
+    "href": "BSDSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/amiga/installation/BSDSUM",
+    "is_dir": false,
+    "size": "39 B",
+    "date": "22-Jul-1999 21:48"
+  },
+  {
+    "name": "CKSUM",
+    "href": "CKSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/amiga/installation/CKSUM",
+    "is_dir": false,
+    "size": "54 B",
+    "date": "22-Jul-1999 21:48"
+  },
+  {
+    "name": "MD5",
+    "href": "MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/amiga/installation/MD5",
+    "is_dir": false,
+    "size": "103 B",
+    "date": "22-Jul-1999 21:48"
+  },
+  {
+    "name": "SYSVSUM",
+    "href": "SYSVSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/amiga/installation/SYSVSUM",
+    "is_dir": false,
+    "size": "39 B",
+    "date": "22-Jul-1999 21:48"
+  }
+]

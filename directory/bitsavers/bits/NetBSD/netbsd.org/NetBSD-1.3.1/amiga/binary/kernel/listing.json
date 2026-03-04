@@ -1,0 +1,74 @@
+[
+  {
+    "name": "BSDSUM",
+    "href": "BSDSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/amiga/binary/kernel/BSDSUM",
+    "is_dir": false,
+    "size": "123 B",
+    "date": "26-Mar-1998 21:48"
+  },
+  {
+    "name": "CKSUM",
+    "href": "CKSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/amiga/binary/kernel/CKSUM",
+    "is_dir": false,
+    "size": "163 B",
+    "date": "26-Mar-1998 21:48"
+  },
+  {
+    "name": "MD5",
+    "href": "MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/amiga/binary/kernel/MD5",
+    "is_dir": false,
+    "size": "280 B",
+    "date": "26-Mar-1998 21:48"
+  },
+  {
+    "name": "README.ariadne",
+    "href": "README.ariadne",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/amiga/binary/kernel/README.ariadne",
+    "is_dir": false,
+    "size": "162 B",
+    "date": "26-Mar-1998 21:48"
+  },
+  {
+    "name": "SYSVSUM",
+    "href": "SYSVSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/amiga/binary/kernel/SYSVSUM",
+    "is_dir": false,
+    "size": "127 B",
+    "date": "26-Mar-1998 21:48"
+  },
+  {
+    "name": "netbsd",
+    "href": "netbsd",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/amiga/binary/kernel/netbsd",
+    "is_dir": false,
+    "size": "1.8 MiB",
+    "date": "26-Mar-1998 21:12"
+  },
+  {
+    "name": "netbsd-with-ariadne-fix",
+    "href": "netbsd-with-ariadne-fix",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/amiga/binary/kernel/netbsd-with-ariadne-fix",
+    "is_dir": false,
+    "size": "1.8 MiB",
+    "date": "24-Mar-1998 21:16"
+  },
+  {
+    "name": "netbsd-with-ariadne-fix.gz",
+    "href": "netbsd-with-ariadne-fix.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/amiga/binary/kernel/netbsd-with-ariadne-fix.gz",
+    "is_dir": false,
+    "size": "830.9 KiB",
+    "date": "25-Mar-1998 12:54"
+  },
+  {
+    "name": "netbsd.gz",
+    "href": "netbsd.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/amiga/binary/kernel/netbsd.gz",
+    "is_dir": false,
+    "size": "830.9 KiB",
+    "date": "26-Mar-1998 21:11"
+  }
+]

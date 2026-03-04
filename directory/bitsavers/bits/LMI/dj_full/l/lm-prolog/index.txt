@@ -1,0 +1,17 @@
+name	is_dir	size	date
+botex	True	-	21-Apr-2017 01:45
+compatibility	True	-	21-Apr-2017 01:45
+experimental	True	-	21-Apr-2017 01:45
+kernel	True	-	21-Apr-2017 01:45
+library	True	-	21-Apr-2017 01:45
+lisp-library	True	-	21-Apr-2017 01:45
+predicates	True	-	21-Apr-2017 01:45
+global.lisp.21	False	2.7 KiB	21-Apr-2017 01:33
+keyboard.lisp.5	False	663 B	21-Apr-2017 01:33
+lispm-init.lisp.9	False	351 B	21-Apr-2017 01:33
+lispm.init.16	False	20 B	21-Apr-2017 01:33
+lm-prolog-1.patch-directory.1	False	535 B	21-Apr-2017 01:33
+lm-prolog-2.patch-directory.1	False	406 B	21-Apr-2017 01:33
+lm-prolog.patch-directory.2	False	319 B	21-Apr-2017 01:33
+load.lisp.31	False	7.6 KiB	21-Apr-2017 01:33
+loaded.lisp.5	False	554 B	21-Apr-2017 01:33

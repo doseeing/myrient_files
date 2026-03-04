@@ -1,0 +1,26 @@
+[
+  {
+    "name": "CKSUMS",
+    "href": "CKSUMS",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/i386/binary/Kernels/CKSUMS",
+    "is_dir": false,
+    "size": "63 B",
+    "date": "26-Nov-1995 19:42"
+  },
+  {
+    "name": "netbsd-adp.gz",
+    "href": "netbsd-adp.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/i386/binary/Kernels/netbsd-adp.gz",
+    "is_dir": false,
+    "size": "659.3 KiB",
+    "date": "25-Nov-1995 09:28"
+  },
+  {
+    "name": "netbsd-oth.gz",
+    "href": "netbsd-oth.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/i386/binary/Kernels/netbsd-oth.gz",
+    "is_dir": false,
+    "size": "660.7 KiB",
+    "date": "25-Nov-1995 09:31"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "name": "CKSUMS",
+    "href": "CKSUMS",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2.1/amiga/miniroot/CKSUMS",
+    "is_dir": false,
+    "size": "129 B",
+    "date": "25-Mar-1997 02:20"
+  },
+  {
+    "name": "inst-121.fs",
+    "href": "inst-121.fs",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2.1/amiga/miniroot/inst-121.fs",
+    "is_dir": false,
+    "size": "4.0 MiB",
+    "date": "25-Mar-1997 00:56"
+  },
+  {
+    "name": "inst-121.fs.gz",
+    "href": "inst-121.fs.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2.1/amiga/miniroot/inst-121.fs.gz",
+    "is_dir": false,
+    "size": "1018.2 KiB",
+    "date": "25-Mar-1997 02:16"
+  },
+  {
+    "name": "upgr-121.fs",
+    "href": "upgr-121.fs",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2.1/amiga/miniroot/upgr-121.fs",
+    "is_dir": false,
+    "size": "4.0 MiB",
+    "date": "25-Mar-1997 00:59"
+  },
+  {
+    "name": "upgr-121.fs.gz",
+    "href": "upgr-121.fs.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2.1/amiga/miniroot/upgr-121.fs.gz",
+    "is_dir": false,
+    "size": "1017.8 KiB",
+    "date": "25-Mar-1997 02:18"
+  }
+]

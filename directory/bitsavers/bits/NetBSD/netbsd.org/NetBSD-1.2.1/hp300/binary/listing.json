@@ -1,0 +1,66 @@
+[
+  {
+    "name": "CKSUMS",
+    "href": "CKSUMS",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2.1/hp300/binary/CKSUMS",
+    "is_dir": false,
+    "size": "230 B",
+    "date": "02-May-1997 23:00"
+  },
+  {
+    "name": "base121.tar.gz",
+    "href": "base121.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2.1/hp300/binary/base121.tar.gz",
+    "is_dir": false,
+    "size": "7.2 MiB",
+    "date": "02-May-1997 23:00"
+  },
+  {
+    "name": "comp121.tar.gz",
+    "href": "comp121.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2.1/hp300/binary/comp121.tar.gz",
+    "is_dir": false,
+    "size": "5.1 MiB",
+    "date": "02-May-1997 23:00"
+  },
+  {
+    "name": "etc121.tar.gz",
+    "href": "etc121.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2.1/hp300/binary/etc121.tar.gz",
+    "is_dir": false,
+    "size": "68.7 KiB",
+    "date": "02-May-1997 23:00"
+  },
+  {
+    "name": "games121.tar.gz",
+    "href": "games121.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2.1/hp300/binary/games121.tar.gz",
+    "is_dir": false,
+    "size": "2.7 MiB",
+    "date": "02-May-1997 23:00"
+  },
+  {
+    "name": "man121.tar.gz",
+    "href": "man121.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2.1/hp300/binary/man121.tar.gz",
+    "is_dir": false,
+    "size": "897.7 KiB",
+    "date": "02-May-1997 23:00"
+  },
+  {
+    "name": "misc121.tar.gz",
+    "href": "misc121.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2.1/hp300/binary/misc121.tar.gz",
+    "is_dir": false,
+    "size": "1.8 MiB",
+    "date": "02-May-1997 23:00"
+  },
+  {
+    "name": "text121.tar.gz",
+    "href": "text121.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2.1/hp300/binary/text121.tar.gz",
+    "is_dir": false,
+    "size": "756.0 KiB",
+    "date": "02-May-1997 23:00"
+  }
+]

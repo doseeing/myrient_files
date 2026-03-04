@@ -1,0 +1,50 @@
+[
+  {
+    "name": "CKSUMS",
+    "href": "CKSUMS",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/sun3/x11r6/CKSUMS",
+    "is_dir": false,
+    "size": "171 B",
+    "date": "27-Nov-1995 21:06"
+  },
+  {
+    "name": "README",
+    "href": "README",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/sun3/x11r6/README",
+    "is_dir": false,
+    "size": "1.4 KiB",
+    "date": "27-Nov-1995 21:05"
+  },
+  {
+    "name": "x11r6base.tar.gz",
+    "href": "x11r6base.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/sun3/x11r6/x11r6base.tar.gz",
+    "is_dir": false,
+    "size": "2.5 MiB",
+    "date": "13-Jul-1995 11:41"
+  },
+  {
+    "name": "x11r6comp.tar.gz",
+    "href": "x11r6comp.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/sun3/x11r6/x11r6comp.tar.gz",
+    "is_dir": false,
+    "size": "1016.9 KiB",
+    "date": "22-Aug-1995 05:39"
+  },
+  {
+    "name": "x11r6font.tar.gz",
+    "href": "x11r6font.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/sun3/x11r6/x11r6font.tar.gz",
+    "is_dir": false,
+    "size": "2.4 MiB",
+    "date": "08-Jul-1995 05:43"
+  },
+  {
+    "name": "x11r6morefonts.tar.gz",
+    "href": "x11r6morefonts.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/sun3/x11r6/x11r6morefonts.tar.gz",
+    "is_dir": false,
+    "size": "2.4 MiB",
+    "date": "08-Jul-1995 22:36"
+  }
+]

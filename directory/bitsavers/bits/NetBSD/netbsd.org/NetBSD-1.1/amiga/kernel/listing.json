@@ -1,0 +1,26 @@
+[
+  {
+    "name": "CKSUMS",
+    "href": "CKSUMS",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/amiga/kernel/CKSUMS",
+    "is_dir": false,
+    "size": "73 B",
+    "date": "25-Nov-1995 21:38"
+  },
+  {
+    "name": "netbsd",
+    "href": "netbsd",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/amiga/kernel/netbsd",
+    "is_dir": false,
+    "size": "889.0 KiB",
+    "date": "25-Nov-1995 21:36"
+  },
+  {
+    "name": "netbsd.gz",
+    "href": "netbsd.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/amiga/kernel/netbsd.gz",
+    "is_dir": false,
+    "size": "437.2 KiB",
+    "date": "25-Nov-1995 21:33"
+  }
+]

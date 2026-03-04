@@ -1,0 +1,130 @@
+[
+  {
+    "name": "arp.lisp.130",
+    "href": "arp.lisp.130",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/kernel/arp.lisp.130",
+    "is_dir": false,
+    "size": "19.9 KiB",
+    "date": "21-Apr-2017 01:46"
+  },
+  {
+    "name": "arp.lisp.131",
+    "href": "arp.lisp.131",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/kernel/arp.lisp.131",
+    "is_dir": false,
+    "size": "20.0 KiB",
+    "date": "21-Apr-2017 01:46"
+  },
+  {
+    "name": "arp.unfasl.1",
+    "href": "arp.unfasl.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/kernel/arp.unfasl.1",
+    "is_dir": false,
+    "size": "81.1 KiB",
+    "date": "21-Apr-2017 01:46"
+  },
+  {
+    "name": "configure.lisp.105",
+    "href": "configure.lisp.105",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/kernel/configure.lisp.105",
+    "is_dir": false,
+    "size": "15.2 KiB",
+    "date": "21-Apr-2017 01:46"
+  },
+  {
+    "name": "configure.lisp.106",
+    "href": "configure.lisp.106",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/kernel/configure.lisp.106",
+    "is_dir": false,
+    "size": "15.4 KiB",
+    "date": "21-Apr-2017 01:46"
+  },
+  {
+    "name": "configure.lisp.107",
+    "href": "configure.lisp.107",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/kernel/configure.lisp.107",
+    "is_dir": false,
+    "size": "15.5 KiB",
+    "date": "21-Apr-2017 01:46"
+  },
+  {
+    "name": "defs.lisp.77",
+    "href": "defs.lisp.77",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/kernel/defs.lisp.77",
+    "is_dir": false,
+    "size": "6.2 KiB",
+    "date": "21-Apr-2017 01:46"
+  },
+  {
+    "name": "library.lisp.55",
+    "href": "library.lisp.55",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/kernel/library.lisp.55",
+    "is_dir": false,
+    "size": "12.1 KiB",
+    "date": "21-Apr-2017 01:46"
+  },
+  {
+    "name": "library.lisp.56",
+    "href": "library.lisp.56",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/kernel/library.lisp.56",
+    "is_dir": false,
+    "size": "12.1 KiB",
+    "date": "21-Apr-2017 01:46"
+  },
+  {
+    "name": "netspy.lisp.17",
+    "href": "netspy.lisp.17",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/kernel/netspy.lisp.17",
+    "is_dir": false,
+    "size": "10.7 KiB",
+    "date": "21-Apr-2017 01:46"
+  },
+  {
+    "name": "netspy.lisp.18",
+    "href": "netspy.lisp.18",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/kernel/netspy.lisp.18",
+    "is_dir": false,
+    "size": "10.7 KiB",
+    "date": "21-Apr-2017 01:46"
+  },
+  {
+    "name": "netstat.lisp.105",
+    "href": "netstat.lisp.105",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/kernel/netstat.lisp.105",
+    "is_dir": false,
+    "size": "15.8 KiB",
+    "date": "21-Apr-2017 01:46"
+  },
+  {
+    "name": "network-interface.lisp.125",
+    "href": "network-interface.lisp.125",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/kernel/network-interface.lisp.125",
+    "is_dir": false,
+    "size": "7.8 KiB",
+    "date": "21-Apr-2017 01:46"
+  },
+  {
+    "name": "network-protocol.lisp.144",
+    "href": "network-protocol.lisp.144",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/kernel/network-protocol.lisp.144",
+    "is_dir": false,
+    "size": "10.5 KiB",
+    "date": "21-Apr-2017 01:46"
+  },
+  {
+    "name": "packets.lisp.22",
+    "href": "packets.lisp.22",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/kernel/packets.lisp.22",
+    "is_dir": false,
+    "size": "8.5 KiB",
+    "date": "21-Apr-2017 01:46"
+  },
+  {
+    "name": "transport-protocol.lisp.42",
+    "href": "transport-protocol.lisp.42",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/kernel/transport-protocol.lisp.42",
+    "is_dir": false,
+    "size": "6.8 KiB",
+    "date": "21-Apr-2017 01:46"
+  }
+]

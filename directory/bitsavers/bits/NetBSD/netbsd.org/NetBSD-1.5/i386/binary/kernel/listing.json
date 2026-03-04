@@ -1,0 +1,122 @@
+[
+  {
+    "name": "BSDSUM",
+    "href": "BSDSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/i386/binary/kernel/BSDSUM",
+    "is_dir": false,
+    "size": "379 B",
+    "date": "19-Nov-2000 21:41"
+  },
+  {
+    "name": "CKSUM",
+    "href": "CKSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/i386/binary/kernel/CKSUM",
+    "is_dir": false,
+    "size": "465 B",
+    "date": "19-Nov-2000 21:41"
+  },
+  {
+    "name": "MD5",
+    "href": "MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/i386/binary/kernel/MD5",
+    "is_dir": false,
+    "size": "717 B",
+    "date": "19-Nov-2000 21:41"
+  },
+  {
+    "name": "SYSVSUM",
+    "href": "SYSVSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/i386/binary/kernel/SYSVSUM",
+    "is_dir": false,
+    "size": "379 B",
+    "date": "19-Nov-2000 21:41"
+  },
+  {
+    "name": "netbsd.GENERIC.gz",
+    "href": "netbsd.GENERIC.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/i386/binary/kernel/netbsd.GENERIC.gz",
+    "is_dir": false,
+    "size": "2.1 MiB",
+    "date": "19-Nov-2000 21:36"
+  },
+  {
+    "name": "netbsd.GENERIC_LAPTOP.gz",
+    "href": "netbsd.GENERIC_LAPTOP.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/i386/binary/kernel/netbsd.GENERIC_LAPTOP.gz",
+    "is_dir": false,
+    "size": "1.6 MiB",
+    "date": "19-Nov-2000 21:38"
+  },
+  {
+    "name": "netbsd.GENERIC_TINY.gz",
+    "href": "netbsd.GENERIC_TINY.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/i386/binary/kernel/netbsd.GENERIC_TINY.gz",
+    "is_dir": false,
+    "size": "646.4 KiB",
+    "date": "17-Nov-2000 02:19"
+  },
+  {
+    "name": "netbsd.INSTALL.gz",
+    "href": "netbsd.INSTALL.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/i386/binary/kernel/netbsd.INSTALL.gz",
+    "is_dir": false,
+    "size": "1.9 MiB",
+    "date": "17-Nov-2000 02:22"
+  },
+  {
+    "name": "netbsd.INSTALL.symbols",
+    "href": "netbsd.INSTALL.symbols",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/i386/binary/kernel/netbsd.INSTALL.symbols",
+    "is_dir": false,
+    "size": "223.2 KiB",
+    "date": "17-Nov-2000 02:22"
+  },
+  {
+    "name": "netbsd.INSTALL_LAPTOP.gz",
+    "href": "netbsd.INSTALL_LAPTOP.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/i386/binary/kernel/netbsd.INSTALL_LAPTOP.gz",
+    "is_dir": false,
+    "size": "1.6 MiB",
+    "date": "17-Nov-2000 02:22"
+  },
+  {
+    "name": "netbsd.INSTALL_LAPTOP.symbols",
+    "href": "netbsd.INSTALL_LAPTOP.symbols",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/i386/binary/kernel/netbsd.INSTALL_LAPTOP.symbols",
+    "is_dir": false,
+    "size": "184.9 KiB",
+    "date": "17-Nov-2000 02:22"
+  },
+  {
+    "name": "netbsd.INSTALL_SMALL.gz",
+    "href": "netbsd.INSTALL_SMALL.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/i386/binary/kernel/netbsd.INSTALL_SMALL.gz",
+    "is_dir": false,
+    "size": "1.1 MiB",
+    "date": "17-Nov-2000 02:22"
+  },
+  {
+    "name": "netbsd.INSTALL_SMALL.symbols",
+    "href": "netbsd.INSTALL_SMALL.symbols",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/i386/binary/kernel/netbsd.INSTALL_SMALL.symbols",
+    "is_dir": false,
+    "size": "117.8 KiB",
+    "date": "17-Nov-2000 02:22"
+  },
+  {
+    "name": "netbsd.INSTALL_TINY.gz",
+    "href": "netbsd.INSTALL_TINY.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/i386/binary/kernel/netbsd.INSTALL_TINY.gz",
+    "is_dir": false,
+    "size": "1.0 MiB",
+    "date": "17-Nov-2000 02:22"
+  },
+  {
+    "name": "netbsd.INSTALL_TINY.symbols",
+    "href": "netbsd.INSTALL_TINY.symbols",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/i386/binary/kernel/netbsd.INSTALL_TINY.symbols",
+    "is_dir": false,
+    "size": "106.7 KiB",
+    "date": "17-Nov-2000 02:22"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "name": "BSDSUM",
+    "href": "BSDSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/sparc64/installation/ramdisk/BSDSUM",
+    "is_dir": false,
+    "size": "25 B",
+    "date": "22-Nov-2000 18:51"
+  },
+  {
+    "name": "CKSUM",
+    "href": "CKSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/sparc64/installation/ramdisk/CKSUM",
+    "is_dir": false,
+    "size": "32 B",
+    "date": "22-Nov-2000 18:51"
+  },
+  {
+    "name": "MD5",
+    "href": "MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/sparc64/installation/ramdisk/MD5",
+    "is_dir": false,
+    "size": "55 B",
+    "date": "22-Nov-2000 18:51"
+  },
+  {
+    "name": "SYSVSUM",
+    "href": "SYSVSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/sparc64/installation/ramdisk/SYSVSUM",
+    "is_dir": false,
+    "size": "25 B",
+    "date": "22-Nov-2000 18:51"
+  },
+  {
+    "name": "ramdisk.fs.gz",
+    "href": "ramdisk.fs.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/sparc64/installation/ramdisk/ramdisk.fs.gz",
+    "is_dir": false,
+    "size": "2.5 MiB",
+    "date": "22-Nov-2000 18:51"
+  }
+]

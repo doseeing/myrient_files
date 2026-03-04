@@ -1,0 +1,122 @@
+[
+  {
+    "name": "libsa",
+    "href": "libsa/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v7/tar/1674_edVIIupg2.3binSrc_Apr83/sys/sa/libsa/",
+    "is_dir": true,
+    "size": null,
+    "date": "10-Mar-2006 08:00"
+  },
+  {
+    "name": "sadb",
+    "href": "sadb/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v7/tar/1674_edVIIupg2.3binSrc_Apr83/sys/sa/sadb/",
+    "is_dir": true,
+    "size": null,
+    "date": "10-Mar-2006 08:00"
+  },
+  {
+    "name": "adb",
+    "href": "adb",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v7/tar/1674_edVIIupg2.3binSrc_Apr83/sys/sa/adb",
+    "is_dir": false,
+    "size": "47.9 KiB",
+    "date": "15-Apr-1983 00:30"
+  },
+  {
+    "name": "boot",
+    "href": "boot",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v7/tar/1674_edVIIupg2.3binSrc_Apr83/sys/sa/boot",
+    "is_dir": false,
+    "size": "15.4 KiB",
+    "date": "15-Apr-1983 00:30"
+  },
+  {
+    "name": "boot.50",
+    "href": "boot.50",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v7/tar/1674_edVIIupg2.3binSrc_Apr83/sys/sa/boot.50",
+    "is_dir": false,
+    "size": "15.2 KiB",
+    "date": "15-Apr-1983 00:30"
+  },
+  {
+    "name": "boot.lsu",
+    "href": "boot.lsu",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v7/tar/1674_edVIIupg2.3binSrc_Apr83/sys/sa/boot.lsu",
+    "is_dir": false,
+    "size": "15.8 KiB",
+    "date": "15-Apr-1983 00:30"
+  },
+  {
+    "name": "cat",
+    "href": "cat",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v7/tar/1674_edVIIupg2.3binSrc_Apr83/sys/sa/cat",
+    "is_dir": false,
+    "size": "15.3 KiB",
+    "date": "15-Apr-1983 00:30"
+  },
+  {
+    "name": "icheck",
+    "href": "icheck",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v7/tar/1674_edVIIupg2.3binSrc_Apr83/sys/sa/icheck",
+    "is_dir": false,
+    "size": "19.8 KiB",
+    "date": "15-Apr-1983 00:30"
+  },
+  {
+    "name": "libsa.a",
+    "href": "libsa.a",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v7/tar/1674_edVIIupg2.3binSrc_Apr83/sys/sa/libsa.a",
+    "is_dir": false,
+    "size": "35.5 KiB",
+    "date": "14-Apr-1983 23:50"
+  },
+  {
+    "name": "ls",
+    "href": "ls",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v7/tar/1674_edVIIupg2.3binSrc_Apr83/sys/sa/ls",
+    "is_dir": false,
+    "size": "15.5 KiB",
+    "date": "15-Apr-1983 00:30"
+  },
+  {
+    "name": "maketape",
+    "href": "maketape",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v7/tar/1674_edVIIupg2.3binSrc_Apr83/sys/sa/maketape",
+    "is_dir": false,
+    "size": "408 B",
+    "date": "15-Apr-1983 00:35"
+  },
+  {
+    "name": "mkfs",
+    "href": "mkfs",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v7/tar/1674_edVIIupg2.3binSrc_Apr83/sys/sa/mkfs",
+    "is_dir": false,
+    "size": "21.8 KiB",
+    "date": "15-Apr-1983 18:30"
+  },
+  {
+    "name": "mktape",
+    "href": "mktape",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v7/tar/1674_edVIIupg2.3binSrc_Apr83/sys/sa/mktape",
+    "is_dir": false,
+    "size": "375 B",
+    "date": "08-Mar-1983 23:38"
+  },
+  {
+    "name": "restor",
+    "href": "restor",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v7/tar/1674_edVIIupg2.3binSrc_Apr83/sys/sa/restor",
+    "is_dir": false,
+    "size": "22.3 KiB",
+    "date": "15-Apr-1983 00:30"
+  },
+  {
+    "name": "tboot",
+    "href": "tboot",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v7/tar/1674_edVIIupg2.3binSrc_Apr83/sys/sa/tboot",
+    "is_dir": false,
+    "size": "10.6 KiB",
+    "date": "08-Mar-1983 23:38"
+  }
+]

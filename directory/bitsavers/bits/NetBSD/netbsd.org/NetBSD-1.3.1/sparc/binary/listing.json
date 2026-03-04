@@ -1,0 +1,50 @@
+[
+  {
+    "name": "kernel",
+    "href": "kernel/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/sparc/binary/kernel/",
+    "is_dir": true,
+    "size": null,
+    "date": "30-Sep-2023 17:20"
+  },
+  {
+    "name": "sets",
+    "href": "sets/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/sparc/binary/sets/",
+    "is_dir": true,
+    "size": null,
+    "date": "30-Sep-2023 17:20"
+  },
+  {
+    "name": "BSDSUM",
+    "href": "BSDSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/sparc/binary/BSDSUM",
+    "is_dir": false,
+    "size": "0 B",
+    "date": "12-Mar-1998 17:54"
+  },
+  {
+    "name": "CKSUM",
+    "href": "CKSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/sparc/binary/CKSUM",
+    "is_dir": false,
+    "size": "0 B",
+    "date": "12-Mar-1998 17:54"
+  },
+  {
+    "name": "MD5",
+    "href": "MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/sparc/binary/MD5",
+    "is_dir": false,
+    "size": "0 B",
+    "date": "12-Mar-1998 17:54"
+  },
+  {
+    "name": "SYSVSUM",
+    "href": "SYSVSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/sparc/binary/SYSVSUM",
+    "is_dir": false,
+    "size": "0 B",
+    "date": "12-Mar-1998 17:54"
+  }
+]

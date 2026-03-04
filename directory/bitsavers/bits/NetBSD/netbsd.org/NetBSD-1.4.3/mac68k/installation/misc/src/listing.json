@@ -1,0 +1,74 @@
+[
+  {
+    "name": "BSDSUM",
+    "href": "BSDSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/mac68k/installation/misc/src/BSDSUM",
+    "is_dir": false,
+    "size": "168 B",
+    "date": "31-Oct-2000 03:29"
+  },
+  {
+    "name": "Booter1.11.2-src.sea.hqx",
+    "href": "Booter1.11.2-src.sea.hqx",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/mac68k/installation/misc/src/Booter1.11.2-src.sea.hqx",
+    "is_dir": false,
+    "size": "404.7 KiB",
+    "date": "19-Apr-1998 07:24"
+  },
+  {
+    "name": "Booter1.11.3-src.sea.hqx",
+    "href": "Booter1.11.3-src.sea.hqx",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/mac68k/installation/misc/src/Booter1.11.3-src.sea.hqx",
+    "is_dir": false,
+    "size": "409.5 KiB",
+    "date": "01-Aug-1998 03:32"
+  },
+  {
+    "name": "CKSUM",
+    "href": "CKSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/mac68k/installation/misc/src/CKSUM",
+    "is_dir": false,
+    "size": "207 B",
+    "date": "31-Oct-2000 03:29"
+  },
+  {
+    "name": "Installer_1.1g.src.sea.hqx",
+    "href": "Installer_1.1g.src.sea.hqx",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/mac68k/installation/misc/src/Installer_1.1g.src.sea.hqx",
+    "is_dir": false,
+    "size": "608.9 KiB",
+    "date": "30-Oct-1997 09:00"
+  },
+  {
+    "name": "MD5",
+    "href": "MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/mac68k/installation/misc/src/MD5",
+    "is_dir": false,
+    "size": "324 B",
+    "date": "31-Oct-2000 03:29"
+  },
+  {
+    "name": "Mkfs_1.45src.sea.hqx",
+    "href": "Mkfs_1.45src.sea.hqx",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/mac68k/installation/misc/src/Mkfs_1.45src.sea.hqx",
+    "is_dir": false,
+    "size": "682.7 KiB",
+    "date": "08-Aug-1997 00:48"
+  },
+  {
+    "name": "Mkfs_1.47src.sea.hqx",
+    "href": "Mkfs_1.47src.sea.hqx",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/mac68k/installation/misc/src/Mkfs_1.47src.sea.hqx",
+    "is_dir": false,
+    "size": "688.1 KiB",
+    "date": "14-Nov-1999 02:21"
+  },
+  {
+    "name": "SYSVSUM",
+    "href": "SYSVSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/mac68k/installation/misc/src/SYSVSUM",
+    "is_dir": false,
+    "size": "172 B",
+    "date": "31-Oct-2000 03:29"
+  }
+]

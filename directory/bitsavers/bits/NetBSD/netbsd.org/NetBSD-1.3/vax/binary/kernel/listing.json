@@ -1,0 +1,42 @@
+[
+  {
+    "name": "BSDSUM",
+    "href": "BSDSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/vax/binary/kernel/BSDSUM",
+    "is_dir": false,
+    "size": "33 B",
+    "date": "16-Jan-1998 18:51"
+  },
+  {
+    "name": "CKSUM",
+    "href": "CKSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/vax/binary/kernel/CKSUM",
+    "is_dir": false,
+    "size": "31 B",
+    "date": "16-Jan-1998 18:51"
+  },
+  {
+    "name": "MD5",
+    "href": "MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/vax/binary/kernel/MD5",
+    "is_dir": false,
+    "size": "54 B",
+    "date": "16-Jan-1998 18:51"
+  },
+  {
+    "name": "SYSVSUM",
+    "href": "SYSVSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/vax/binary/kernel/SYSVSUM",
+    "is_dir": false,
+    "size": "22 B",
+    "date": "16-Jan-1998 18:51"
+  },
+  {
+    "name": "gennetbsd.gz",
+    "href": "gennetbsd.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/vax/binary/kernel/gennetbsd.gz",
+    "is_dir": false,
+    "size": "443.5 KiB",
+    "date": "16-Jan-1998 18:51"
+  }
+]

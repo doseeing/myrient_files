@@ -1,0 +1,18 @@
+[
+  {
+    "name": "CKSUMS",
+    "href": "CKSUMS",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2.1/x68k/binary/etc121/CKSUMS",
+    "is_dir": false,
+    "size": "25 B",
+    "date": "22-Mar-1997 01:56"
+  },
+  {
+    "name": "etc121aa",
+    "href": "etc121aa",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2.1/x68k/binary/etc121/etc121aa",
+    "is_dir": false,
+    "size": "67.5 KiB",
+    "date": "22-Mar-1997 01:56"
+  }
+]

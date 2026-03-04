@@ -1,0 +1,106 @@
+[
+  {
+    "name": "BSDSUM",
+    "href": "BSDSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/i386/installation/floppy/BSDSUM",
+    "is_dir": false,
+    "size": "218 B",
+    "date": "10-Aug-1999 08:23"
+  },
+  {
+    "name": "CKSUM",
+    "href": "CKSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/i386/installation/floppy/CKSUM",
+    "is_dir": false,
+    "size": "287 B",
+    "date": "10-Aug-1999 08:23"
+  },
+  {
+    "name": "MD5",
+    "href": "MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/i386/installation/floppy/MD5",
+    "is_dir": false,
+    "size": "496 B",
+    "date": "10-Aug-1999 08:23"
+  },
+  {
+    "name": "README.files",
+    "href": "README.files",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/i386/installation/floppy/README.files",
+    "is_dir": false,
+    "size": "1.5 KiB",
+    "date": "16-Jul-1999 09:42"
+  },
+  {
+    "name": "SYSVSUM",
+    "href": "SYSVSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/i386/installation/floppy/SYSVSUM",
+    "is_dir": false,
+    "size": "218 B",
+    "date": "10-Aug-1999 08:23"
+  },
+  {
+    "name": "boot-tiny.fs",
+    "href": "boot-tiny.fs",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/i386/installation/floppy/boot-tiny.fs",
+    "is_dir": false,
+    "size": "1.0 MiB",
+    "date": "09-Aug-1999 20:16"
+  },
+  {
+    "name": "boot-tiny.fs.gz",
+    "href": "boot-tiny.fs.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/i386/installation/floppy/boot-tiny.fs.gz",
+    "is_dir": false,
+    "size": "1.0 MiB",
+    "date": "09-Aug-1999 20:16"
+  },
+  {
+    "name": "boot-unstr1.fs",
+    "href": "boot-unstr1.fs",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/i386/installation/floppy/boot-unstr1.fs",
+    "is_dir": false,
+    "size": "1.4 MiB",
+    "date": "10-Aug-1999 08:23"
+  },
+  {
+    "name": "boot-unstr1.fs.gz",
+    "href": "boot-unstr1.fs.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/i386/installation/floppy/boot-unstr1.fs.gz",
+    "is_dir": false,
+    "size": "1.4 MiB",
+    "date": "09-Aug-1999 20:19"
+  },
+  {
+    "name": "boot-unstr2.fs",
+    "href": "boot-unstr2.fs",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/i386/installation/floppy/boot-unstr2.fs",
+    "is_dir": false,
+    "size": "44.4 KiB",
+    "date": "09-Aug-1999 20:19"
+  },
+  {
+    "name": "boot-unstr2.fs.gz",
+    "href": "boot-unstr2.fs.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/i386/installation/floppy/boot-unstr2.fs.gz",
+    "is_dir": false,
+    "size": "44.4 KiB",
+    "date": "09-Aug-1999 20:19"
+  },
+  {
+    "name": "boot.fs",
+    "href": "boot.fs",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/i386/installation/floppy/boot.fs",
+    "is_dir": false,
+    "size": "1.4 MiB",
+    "date": "09-Aug-1999 20:35"
+  },
+  {
+    "name": "boot.fs.gz",
+    "href": "boot.fs.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/i386/installation/floppy/boot.fs.gz",
+    "is_dir": false,
+    "size": "1.4 MiB",
+    "date": "09-Aug-1999 20:35"
+  }
+]

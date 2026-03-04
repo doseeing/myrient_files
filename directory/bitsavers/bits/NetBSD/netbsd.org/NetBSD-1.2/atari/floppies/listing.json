@@ -1,0 +1,42 @@
+[
+  {
+    "name": "CKSUMS",
+    "href": "CKSUMS",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/atari/floppies/CKSUMS",
+    "is_dir": false,
+    "size": "137 B",
+    "date": "29-Sep-1996 20:03"
+  },
+  {
+    "name": "INSTALL.atari",
+    "href": "INSTALL.atari",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/atari/floppies/INSTALL.atari",
+    "is_dir": false,
+    "size": "39.2 KiB",
+    "date": "20-Sep-1996 20:40"
+  },
+  {
+    "name": "boot-12.fs.gz",
+    "href": "boot-12.fs.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/atari/floppies/boot-12.fs.gz",
+    "is_dir": false,
+    "size": "356.9 KiB",
+    "date": "29-Sep-1996 19:58"
+  },
+  {
+    "name": "miniroot-12.fs.1.gz",
+    "href": "miniroot-12.fs.1.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/atari/floppies/miniroot-12.fs.1.gz",
+    "is_dir": false,
+    "size": "319.8 KiB",
+    "date": "28-Sep-1996 13:54"
+  },
+  {
+    "name": "miniroot-12.fs.2.gz",
+    "href": "miniroot-12.fs.2.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/atari/floppies/miniroot-12.fs.2.gz",
+    "is_dir": false,
+    "size": "95.2 KiB",
+    "date": "28-Sep-1996 13:55"
+  }
+]

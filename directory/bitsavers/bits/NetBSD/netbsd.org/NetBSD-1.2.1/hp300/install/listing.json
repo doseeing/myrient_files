@@ -1,0 +1,50 @@
+[
+  {
+    "name": "CKSUMS",
+    "href": "CKSUMS",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2.1/hp300/install/CKSUMS",
+    "is_dir": false,
+    "size": "159 B",
+    "date": "02-May-1997 23:00"
+  },
+  {
+    "name": "SYS_INST.gz",
+    "href": "SYS_INST.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2.1/hp300/install/SYS_INST.gz",
+    "is_dir": false,
+    "size": "26.6 KiB",
+    "date": "02-May-1997 23:00"
+  },
+  {
+    "name": "SYS_NBOOT.gz",
+    "href": "SYS_NBOOT.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2.1/hp300/install/SYS_NBOOT.gz",
+    "is_dir": false,
+    "size": "20.5 KiB",
+    "date": "02-May-1997 23:00"
+  },
+  {
+    "name": "miniroot-121.fs.gz",
+    "href": "miniroot-121.fs.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2.1/hp300/install/miniroot-121.fs.gz",
+    "is_dir": false,
+    "size": "1.4 MiB",
+    "date": "02-May-1997 23:00"
+  },
+  {
+    "name": "netbsd-dl.gz",
+    "href": "netbsd-dl.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2.1/hp300/install/netbsd-dl.gz",
+    "is_dir": false,
+    "size": "354.9 KiB",
+    "date": "02-May-1997 23:00"
+  },
+  {
+    "name": "netbsd-gen.gz",
+    "href": "netbsd-gen.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2.1/hp300/install/netbsd-gen.gz",
+    "is_dir": false,
+    "size": "436.3 KiB",
+    "date": "02-May-1997 23:00"
+  }
+]

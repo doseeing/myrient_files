@@ -1,0 +1,50 @@
+[
+  {
+    "name": "CKSUMS",
+    "href": "CKSUMS",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/x68k/binary/comp12/CKSUMS",
+    "is_dir": false,
+    "size": "144 B",
+    "date": "24-Sep-1996 02:33"
+  },
+  {
+    "name": "comp12.aa",
+    "href": "comp12.aa",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/x68k/binary/comp12/comp12.aa",
+    "is_dir": false,
+    "size": "1.2 MiB",
+    "date": "24-Sep-1996 02:33"
+  },
+  {
+    "name": "comp12.ab",
+    "href": "comp12.ab",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/x68k/binary/comp12/comp12.ab",
+    "is_dir": false,
+    "size": "1.2 MiB",
+    "date": "24-Sep-1996 02:33"
+  },
+  {
+    "name": "comp12.ac",
+    "href": "comp12.ac",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/x68k/binary/comp12/comp12.ac",
+    "is_dir": false,
+    "size": "1.2 MiB",
+    "date": "24-Sep-1996 02:33"
+  },
+  {
+    "name": "comp12.ad",
+    "href": "comp12.ad",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/x68k/binary/comp12/comp12.ad",
+    "is_dir": false,
+    "size": "1.2 MiB",
+    "date": "24-Sep-1996 02:33"
+  },
+  {
+    "name": "comp12.ae",
+    "href": "comp12.ae",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/x68k/binary/comp12/comp12.ae",
+    "is_dir": false,
+    "size": "414.6 KiB",
+    "date": "24-Sep-1996 02:33"
+  }
+]

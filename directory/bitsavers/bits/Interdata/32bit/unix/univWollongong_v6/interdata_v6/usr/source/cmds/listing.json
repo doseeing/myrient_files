@@ -1,0 +1,594 @@
+[
+  {
+    "name": "READ_ME",
+    "href": "READ_ME",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/cmds/READ_ME",
+    "is_dir": false,
+    "size": "86 B",
+    "date": "01-Aug-1978 07:42"
+  },
+  {
+    "name": "ar.c",
+    "href": "ar.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/cmds/ar.c",
+    "is_dir": false,
+    "size": "8.9 KiB",
+    "date": "21-Jul-1978 17:22"
+  },
+  {
+    "name": "ar.c_old",
+    "href": "ar.c_old",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/cmds/ar.c_old",
+    "is_dir": false,
+    "size": "8.8 KiB",
+    "date": "21-Jul-1978 15:27"
+  },
+  {
+    "name": "arcv.c",
+    "href": "arcv.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/cmds/arcv.c",
+    "is_dir": false,
+    "size": "4.9 KiB",
+    "date": "21-Jul-1978 15:08"
+  },
+  {
+    "name": "banner.c_old",
+    "href": "banner.c_old",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/cmds/banner.c_old",
+    "is_dir": false,
+    "size": "2.9 KiB",
+    "date": "21-Jul-1978 16:20"
+  },
+  {
+    "name": "cal.c",
+    "href": "cal.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/cmds/cal.c",
+    "is_dir": false,
+    "size": "2.5 KiB",
+    "date": "27-Nov-1977 10:22"
+  },
+  {
+    "name": "cat.c",
+    "href": "cat.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/cmds/cat.c",
+    "is_dir": false,
+    "size": "481 B",
+    "date": "21-Jul-1978 15:15"
+  },
+  {
+    "name": "chmod.c",
+    "href": "chmod.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/cmds/chmod.c",
+    "is_dir": false,
+    "size": "381 B",
+    "date": "28-Nov-1977 05:50"
+  },
+  {
+    "name": "cmp.c",
+    "href": "cmp.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/cmds/cmp.c",
+    "is_dir": false,
+    "size": "1.5 KiB",
+    "date": "27-Nov-1977 10:39"
+  },
+  {
+    "name": "col.c",
+    "href": "col.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/cmds/col.c",
+    "is_dir": false,
+    "size": "2.0 KiB",
+    "date": "21-Jul-1978 15:11"
+  },
+  {
+    "name": "comm.c",
+    "href": "comm.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/cmds/comm.c",
+    "is_dir": false,
+    "size": "2.1 KiB",
+    "date": "28-Nov-1977 02:23"
+  },
+  {
+    "name": "cp.c",
+    "href": "cp.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/cmds/cp.c",
+    "is_dir": false,
+    "size": "1.0 KiB",
+    "date": "27-Nov-1977 10:22"
+  },
+  {
+    "name": "cpall.c",
+    "href": "cpall.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/cmds/cpall.c",
+    "is_dir": false,
+    "size": "383 B",
+    "date": "13-Nov-1978 03:38"
+  },
+  {
+    "name": "crypt.c",
+    "href": "crypt.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/cmds/crypt.c",
+    "is_dir": false,
+    "size": "3.0 KiB",
+    "date": "01-Dec-1977 08:19"
+  },
+  {
+    "name": "date.c",
+    "href": "date.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/cmds/date.c",
+    "is_dir": false,
+    "size": "2.2 KiB",
+    "date": "22-Jul-1978 06:25"
+  },
+  {
+    "name": "dd.c",
+    "href": "dd.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/cmds/dd.c",
+    "is_dir": false,
+    "size": "7.6 KiB",
+    "date": "28-Nov-1977 05:49"
+  },
+  {
+    "name": "df.c",
+    "href": "df.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/cmds/df.c",
+    "is_dir": false,
+    "size": "1.5 KiB",
+    "date": "27-Nov-1977 10:42"
+  },
+  {
+    "name": "diff.c",
+    "href": "diff.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/cmds/diff.c",
+    "is_dir": false,
+    "size": "10.6 KiB",
+    "date": "04-Dec-1977 02:06"
+  },
+  {
+    "name": "dsw.c",
+    "href": "dsw.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/cmds/dsw.c",
+    "is_dir": false,
+    "size": "849 B",
+    "date": "05-Dec-1977 02:11"
+  },
+  {
+    "name": "du.c",
+    "href": "du.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/cmds/du.c",
+    "is_dir": false,
+    "size": "2.1 KiB",
+    "date": "01-Dec-1977 16:54"
+  },
+  {
+    "name": "echo.c",
+    "href": "echo.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/cmds/echo.c",
+    "is_dir": false,
+    "size": "256 B",
+    "date": "27-Nov-1977 10:42"
+  },
+  {
+    "name": "ed.c",
+    "href": "ed.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/cmds/ed.c",
+    "is_dir": false,
+    "size": "17.6 KiB",
+    "date": "22-Jul-1978 06:28"
+  },
+  {
+    "name": "exit.c",
+    "href": "exit.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/cmds/exit.c",
+    "is_dir": false,
+    "size": "53 B",
+    "date": "27-Nov-1977 10:22"
+  },
+  {
+    "name": "file.c",
+    "href": "file.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/cmds/file.c",
+    "is_dir": false,
+    "size": "4.1 KiB",
+    "date": "23-Jul-1978 05:21"
+  },
+  {
+    "name": "find.c",
+    "href": "find.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/cmds/find.c",
+    "is_dir": false,
+    "size": "9.7 KiB",
+    "date": "16-Mar-1978 12:55"
+  },
+  {
+    "name": "goto.c",
+    "href": "goto.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/cmds/goto.c",
+    "is_dir": false,
+    "size": "1.0 KiB",
+    "date": "27-Nov-1977 10:43"
+  },
+  {
+    "name": "grep.c",
+    "href": "grep.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/cmds/grep.c",
+    "is_dir": false,
+    "size": "4.6 KiB",
+    "date": "27-Nov-1977 10:45"
+  },
+  {
+    "name": "if.c",
+    "href": "if.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/cmds/if.c",
+    "is_dir": false,
+    "size": "2.0 KiB",
+    "date": "27-Nov-1977 10:43"
+  },
+  {
+    "name": "install",
+    "href": "install",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/cmds/install",
+    "is_dir": false,
+    "size": "911 B",
+    "date": "13-Nov-1978 15:46"
+  },
+  {
+    "name": "kill.c",
+    "href": "kill.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/cmds/kill.c",
+    "is_dir": false,
+    "size": "576 B",
+    "date": "27-Nov-1977 10:22"
+  },
+  {
+    "name": "ld.c",
+    "href": "ld.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/cmds/ld.c",
+    "is_dir": false,
+    "size": "17.2 KiB",
+    "date": "23-Jul-1978 04:14"
+  },
+  {
+    "name": "ln.c",
+    "href": "ln.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/cmds/ln.c",
+    "is_dir": false,
+    "size": "740 B",
+    "date": "27-Nov-1977 10:22"
+  },
+  {
+    "name": "login.c",
+    "href": "login.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/cmds/login.c",
+    "is_dir": false,
+    "size": "3.2 KiB",
+    "date": "01-Aug-1978 19:49"
+  },
+  {
+    "name": "ls.c",
+    "href": "ls.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/cmds/ls.c",
+    "is_dir": false,
+    "size": "7.7 KiB",
+    "date": "27-Nov-1977 10:41"
+  },
+  {
+    "name": "mail.c",
+    "href": "mail.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/cmds/mail.c",
+    "is_dir": false,
+    "size": "4.7 KiB",
+    "date": "21-Jul-1978 15:23"
+  },
+  {
+    "name": "mail.c_old",
+    "href": "mail.c_old",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/cmds/mail.c_old",
+    "is_dir": false,
+    "size": "4.1 KiB",
+    "date": "21-Jul-1978 15:23"
+  },
+  {
+    "name": "make",
+    "href": "make",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/cmds/make",
+    "is_dir": false,
+    "size": "1.5 KiB",
+    "date": "12-Nov-1978 16:52"
+  },
+  {
+    "name": "mesg.c",
+    "href": "mesg.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/cmds/mesg.c",
+    "is_dir": false,
+    "size": "662 B",
+    "date": "27-Nov-1977 10:41"
+  },
+  {
+    "name": "mkdir.c",
+    "href": "mkdir.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/cmds/mkdir.c",
+    "is_dir": false,
+    "size": "1.9 KiB",
+    "date": "01-Dec-1977 16:18"
+  },
+  {
+    "name": "mv.c",
+    "href": "mv.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/cmds/mv.c",
+    "is_dir": false,
+    "size": "3.4 KiB",
+    "date": "21-Jul-1978 15:20"
+  },
+  {
+    "name": "newgrp.c",
+    "href": "newgrp.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/cmds/newgrp.c",
+    "is_dir": false,
+    "size": "2.1 KiB",
+    "date": "27-Nov-1977 10:23"
+  },
+  {
+    "name": "nice.c",
+    "href": "nice.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/cmds/nice.c",
+    "is_dir": false,
+    "size": "646 B",
+    "date": "27-Nov-1977 10:22"
+  },
+  {
+    "name": "nm.c",
+    "href": "nm.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/cmds/nm.c",
+    "is_dir": false,
+    "size": "2.4 KiB",
+    "date": "04-Dec-1977 02:13"
+  },
+  {
+    "name": "nohup.c",
+    "href": "nohup.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/cmds/nohup.c",
+    "is_dir": false,
+    "size": "529 B",
+    "date": "27-Nov-1977 10:39"
+  },
+  {
+    "name": "od.c",
+    "href": "od.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/cmds/od.c",
+    "is_dir": false,
+    "size": "9.1 KiB",
+    "date": "08-Dec-1977 20:02"
+  },
+  {
+    "name": "opr.c_old",
+    "href": "opr.c_old",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/cmds/opr.c_old",
+    "is_dir": false,
+    "size": "3.3 KiB",
+    "date": "23-Jul-1978 09:11"
+  },
+  {
+    "name": "passwd.c",
+    "href": "passwd.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/cmds/passwd.c",
+    "is_dir": false,
+    "size": "3.5 KiB",
+    "date": "16-Mar-1978 12:28"
+  },
+  {
+    "name": "pr.c",
+    "href": "pr.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/cmds/pr.c",
+    "is_dir": false,
+    "size": "5.8 KiB",
+    "date": "15-Oct-1978 08:41"
+  },
+  {
+    "name": "prof.c",
+    "href": "prof.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/cmds/prof.c",
+    "is_dir": false,
+    "size": "5.7 KiB",
+    "date": "21-Jul-1978 15:41"
+  },
+  {
+    "name": "ps.c",
+    "href": "ps.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/cmds/ps.c",
+    "is_dir": false,
+    "size": "5.1 KiB",
+    "date": "29-Jul-1978 09:07"
+  },
+  {
+    "name": "ptx.c",
+    "href": "ptx.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/cmds/ptx.c",
+    "is_dir": false,
+    "size": "3.2 KiB",
+    "date": "21-Jul-1978 15:26"
+  },
+  {
+    "name": "pwd.c",
+    "href": "pwd.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/cmds/pwd.c",
+    "is_dir": false,
+    "size": "1.2 KiB",
+    "date": "27-Nov-1977 10:39"
+  },
+  {
+    "name": "quiz.c",
+    "href": "quiz.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/cmds/quiz.c",
+    "is_dir": false,
+    "size": "5.9 KiB",
+    "date": "12-Nov-1978 14:55"
+  },
+  {
+    "name": "rm.c",
+    "href": "rm.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/cmds/rm.c",
+    "is_dir": false,
+    "size": "1.5 KiB",
+    "date": "12-Nov-1978 19:24"
+  },
+  {
+    "name": "rmdir.c",
+    "href": "rmdir.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/cmds/rmdir.c",
+    "is_dir": false,
+    "size": "2.5 KiB",
+    "date": "21-Jul-1978 15:20"
+  },
+  {
+    "name": "sh.c",
+    "href": "sh.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/cmds/sh.c",
+    "is_dir": false,
+    "size": "11.4 KiB",
+    "date": "13-Nov-1978 15:42"
+  },
+  {
+    "name": "size.c",
+    "href": "size.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/cmds/size.c",
+    "is_dir": false,
+    "size": "586 B",
+    "date": "27-Nov-1977 10:29"
+  },
+  {
+    "name": "sleep.c",
+    "href": "sleep.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/cmds/sleep.c",
+    "is_dir": false,
+    "size": "255 B",
+    "date": "27-Nov-1977 10:22"
+  },
+  {
+    "name": "sort.c",
+    "href": "sort.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/cmds/sort.c",
+    "is_dir": false,
+    "size": "8.9 KiB",
+    "date": "22-Jul-1978 07:40"
+  },
+  {
+    "name": "split.c",
+    "href": "split.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/cmds/split.c",
+    "is_dir": false,
+    "size": "1.2 KiB",
+    "date": "27-Nov-1977 10:29"
+  },
+  {
+    "name": "strip.c",
+    "href": "strip.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/cmds/strip.c",
+    "is_dir": false,
+    "size": "1.8 KiB",
+    "date": "12-Nov-1978 13:27"
+  },
+  {
+    "name": "stty.c",
+    "href": "stty.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/cmds/stty.c",
+    "is_dir": false,
+    "size": "3.7 KiB",
+    "date": "30-Jul-1978 16:01"
+  },
+  {
+    "name": "su.c",
+    "href": "su.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/cmds/su.c",
+    "is_dir": false,
+    "size": "1.2 KiB",
+    "date": "28-Nov-1977 06:11"
+  },
+  {
+    "name": "sync.c",
+    "href": "sync.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/cmds/sync.c",
+    "is_dir": false,
+    "size": "21 B",
+    "date": "27-Nov-1977 10:22"
+  },
+  {
+    "name": "tee.c",
+    "href": "tee.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/cmds/tee.c",
+    "is_dir": false,
+    "size": "696 B",
+    "date": "27-Nov-1977 10:22"
+  },
+  {
+    "name": "time.c",
+    "href": "time.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/cmds/time.c",
+    "is_dir": false,
+    "size": "1.2 KiB",
+    "date": "27-Nov-1977 10:22"
+  },
+  {
+    "name": "tr.c",
+    "href": "tr.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/cmds/tr.c",
+    "is_dir": false,
+    "size": "2.3 KiB",
+    "date": "27-Nov-1977 10:29"
+  },
+  {
+    "name": "tty.c",
+    "href": "tty.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/cmds/tty.c",
+    "is_dir": false,
+    "size": "202 B",
+    "date": "27-Nov-1977 10:22"
+  },
+  {
+    "name": "uniq.c",
+    "href": "uniq.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/cmds/uniq.c",
+    "is_dir": false,
+    "size": "2.0 KiB",
+    "date": "28-Nov-1977 02:24"
+  },
+  {
+    "name": "units.c",
+    "href": "units.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/cmds/units.c",
+    "is_dir": false,
+    "size": "5.9 KiB",
+    "date": "12-Nov-1978 14:55"
+  },
+  {
+    "name": "usort.c",
+    "href": "usort.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/cmds/usort.c",
+    "is_dir": false,
+    "size": "8.9 KiB",
+    "date": "12-Nov-1978 13:27"
+  },
+  {
+    "name": "wc.c",
+    "href": "wc.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/cmds/wc.c",
+    "is_dir": false,
+    "size": "1.2 KiB",
+    "date": "04-Dec-1977 02:22"
+  },
+  {
+    "name": "who.c",
+    "href": "who.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/cmds/who.c",
+    "is_dir": false,
+    "size": "985 B",
+    "date": "27-Nov-1977 10:29"
+  },
+  {
+    "name": "write.c",
+    "href": "write.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/cmds/write.c",
+    "is_dir": false,
+    "size": "2.1 KiB",
+    "date": "30-Jul-1978 11:34"
+  }
+]

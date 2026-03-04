@@ -1,0 +1,58 @@
+[
+  {
+    "name": "CKSUMS",
+    "href": "CKSUMS",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/amiga/security/CKSUMS",
+    "is_dir": false,
+    "size": "154 B",
+    "date": "29-Sep-1996 04:31"
+  },
+  {
+    "name": "README.export-control",
+    "href": "README.export-control",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/amiga/security/README.export-control",
+    "is_dir": false,
+    "size": "791 B",
+    "date": "29-Sep-1996 04:40"
+  },
+  {
+    "name": "secr12.aa",
+    "href": "secr12.aa",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/amiga/security/secr12.aa",
+    "is_dir": false,
+    "size": "80.0 KiB",
+    "date": "29-Sep-1996 04:31"
+  },
+  {
+    "name": "secr12.ab",
+    "href": "secr12.ab",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/amiga/security/secr12.ab",
+    "is_dir": false,
+    "size": "80.0 KiB",
+    "date": "29-Sep-1996 04:31"
+  },
+  {
+    "name": "secr12.ac",
+    "href": "secr12.ac",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/amiga/security/secr12.ac",
+    "is_dir": false,
+    "size": "80.0 KiB",
+    "date": "29-Sep-1996 04:31"
+  },
+  {
+    "name": "secr12.ad",
+    "href": "secr12.ad",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/amiga/security/secr12.ad",
+    "is_dir": false,
+    "size": "80.0 KiB",
+    "date": "29-Sep-1996 04:31"
+  },
+  {
+    "name": "secr12.ae",
+    "href": "secr12.ae",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/amiga/security/secr12.ae",
+    "is_dir": false,
+    "size": "15.3 KiB",
+    "date": "29-Sep-1996 04:31"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "name": "old",
+    "href": "old/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/mac68k/mac_utils/old/",
+    "is_dir": true,
+    "size": null,
+    "date": "30-Sep-2023 17:20"
+  },
+  {
+    "name": "src",
+    "href": "src/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/mac68k/mac_utils/src/",
+    "is_dir": true,
+    "size": null,
+    "date": "30-Sep-2023 17:20"
+  },
+  {
+    "name": "Booter1.9.4.sit.bin",
+    "href": "Booter1.9.4.sit.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/mac68k/mac_utils/Booter1.9.4.sit.bin",
+    "is_dir": false,
+    "size": "50.5 KiB",
+    "date": "28-Sep-1996 16:22"
+  },
+  {
+    "name": "Installer1.1.sea.hqx",
+    "href": "Installer1.1.sea.hqx",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/mac68k/mac_utils/Installer1.1.sea.hqx",
+    "is_dir": false,
+    "size": "146.6 KiB",
+    "date": "25-Sep-1996 07:00"
+  },
+  {
+    "name": "mkfs.cpt.hqx",
+    "href": "mkfs.cpt.hqx",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/mac68k/mac_utils/mkfs.cpt.hqx",
+    "is_dir": false,
+    "size": "37.9 KiB",
+    "date": "25-Sep-1996 07:00"
+  },
+  {
+    "name": "mode32-7.5.hqx",
+    "href": "mode32-7.5.hqx",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/mac68k/mac_utils/mode32-7.5.hqx",
+    "is_dir": false,
+    "size": "118.0 KiB",
+    "date": "25-Sep-1996 07:00"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "name": "binary",
+    "href": "binary/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/binary/",
+    "is_dir": true,
+    "size": null,
+    "date": "30-Sep-2023 17:20"
+  },
+  {
+    "name": "installation",
+    "href": "installation/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/installation/",
+    "is_dir": true,
+    "size": null,
+    "date": "30-Sep-2023 17:20"
+  },
+  {
+    "name": "INSTALL",
+    "href": "INSTALL",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/INSTALL",
+    "is_dir": false,
+    "size": "82.0 KiB",
+    "date": "08-Apr-1998 15:59"
+  },
+  {
+    "name": "README.first",
+    "href": "README.first",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/README.first",
+    "is_dir": false,
+    "size": "1.6 KiB",
+    "date": "08-Apr-1998 15:59"
+  },
+  {
+    "name": "SOURCE_DATE",
+    "href": "SOURCE_DATE",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/SOURCE_DATE",
+    "is_dir": false,
+    "size": "29 B",
+    "date": "08-Apr-1998 15:59"
+  },
+  {
+    "name": "release.man",
+    "href": "release.man",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/i386/release.man",
+    "is_dir": false,
+    "size": "8.2 KiB",
+    "date": "08-Apr-1998 15:59"
+  }
+]

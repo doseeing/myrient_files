@@ -1,0 +1,466 @@
+[
+  {
+    "name": "MD5",
+    "href": "MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/7.1.2/MD5",
+    "is_dir": false,
+    "size": "3.7 KiB",
+    "date": "16-Mar-2018 02:49"
+  },
+  {
+    "name": "NetBSD-7.1.2-acorn26.iso",
+    "href": "NetBSD-7.1.2-acorn26.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/7.1.2/NetBSD-7.1.2-acorn26.iso",
+    "is_dir": false,
+    "size": "200.5 MiB",
+    "date": "15-Mar-2018 17:27"
+  },
+  {
+    "name": "NetBSD-7.1.2-acorn32.iso",
+    "href": "NetBSD-7.1.2-acorn32.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/7.1.2/NetBSD-7.1.2-acorn32.iso",
+    "is_dir": false,
+    "size": "206.2 MiB",
+    "date": "15-Mar-2018 17:11"
+  },
+  {
+    "name": "NetBSD-7.1.2-alpha.iso",
+    "href": "NetBSD-7.1.2-alpha.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/7.1.2/NetBSD-7.1.2-alpha.iso",
+    "is_dir": false,
+    "size": "272.1 MiB",
+    "date": "15-Mar-2018 17:08"
+  },
+  {
+    "name": "NetBSD-7.1.2-amd64-install.img.gz",
+    "href": "NetBSD-7.1.2-amd64-install.img.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/7.1.2/NetBSD-7.1.2-amd64-install.img.gz",
+    "is_dir": false,
+    "size": "359.8 MiB",
+    "date": "15-Mar-2018 17:18"
+  },
+  {
+    "name": "NetBSD-7.1.2-amd64.iso",
+    "href": "NetBSD-7.1.2-amd64.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/7.1.2/NetBSD-7.1.2-amd64.iso",
+    "is_dir": false,
+    "size": "375.6 MiB",
+    "date": "15-Mar-2018 17:16"
+  },
+  {
+    "name": "NetBSD-7.1.2-amiga.iso",
+    "href": "NetBSD-7.1.2-amiga.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/7.1.2/NetBSD-7.1.2-amiga.iso",
+    "is_dir": false,
+    "size": "192.5 MiB",
+    "date": "15-Mar-2018 16:48"
+  },
+  {
+    "name": "NetBSD-7.1.2-arc.iso",
+    "href": "NetBSD-7.1.2-arc.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/7.1.2/NetBSD-7.1.2-arc.iso",
+    "is_dir": false,
+    "size": "211.2 MiB",
+    "date": "15-Mar-2018 17:18"
+  },
+  {
+    "name": "NetBSD-7.1.2-atari.iso",
+    "href": "NetBSD-7.1.2-atari.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/7.1.2/NetBSD-7.1.2-atari.iso",
+    "is_dir": false,
+    "size": "196.3 MiB",
+    "date": "15-Mar-2018 17:23"
+  },
+  {
+    "name": "NetBSD-7.1.2-cats.iso",
+    "href": "NetBSD-7.1.2-cats.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/7.1.2/NetBSD-7.1.2-cats.iso",
+    "is_dir": false,
+    "size": "313.0 MiB",
+    "date": "15-Mar-2018 17:19"
+  },
+  {
+    "name": "NetBSD-7.1.2-cobalt.iso",
+    "href": "NetBSD-7.1.2-cobalt.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/7.1.2/NetBSD-7.1.2-cobalt.iso",
+    "is_dir": false,
+    "size": "210.4 MiB",
+    "date": "15-Mar-2018 16:52"
+  },
+  {
+    "name": "NetBSD-7.1.2-dreamcast.iso",
+    "href": "NetBSD-7.1.2-dreamcast.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/7.1.2/NetBSD-7.1.2-dreamcast.iso",
+    "is_dir": false,
+    "size": "200.7 MiB",
+    "date": "15-Mar-2018 17:10"
+  },
+  {
+    "name": "NetBSD-7.1.2-emips.iso",
+    "href": "NetBSD-7.1.2-emips.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/7.1.2/NetBSD-7.1.2-emips.iso",
+    "is_dir": false,
+    "size": "219.0 MiB",
+    "date": "15-Mar-2018 17:19"
+  },
+  {
+    "name": "NetBSD-7.1.2-evbarm-arm.iso",
+    "href": "NetBSD-7.1.2-evbarm-arm.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/7.1.2/NetBSD-7.1.2-evbarm-arm.iso",
+    "is_dir": false,
+    "size": "1.4 GiB",
+    "date": "15-Mar-2018 18:19"
+  },
+  {
+    "name": "NetBSD-7.1.2-evbarm-armeb.iso",
+    "href": "NetBSD-7.1.2-evbarm-armeb.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/7.1.2/NetBSD-7.1.2-evbarm-armeb.iso",
+    "is_dir": false,
+    "size": "288.1 MiB",
+    "date": "15-Mar-2018 18:08"
+  },
+  {
+    "name": "NetBSD-7.1.2-evbarm-earm.iso",
+    "href": "NetBSD-7.1.2-evbarm-earm.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/7.1.2/NetBSD-7.1.2-evbarm-earm.iso",
+    "is_dir": false,
+    "size": "1.3 GiB",
+    "date": "15-Mar-2018 18:42"
+  },
+  {
+    "name": "NetBSD-7.1.2-evbarm-earmeb.iso",
+    "href": "NetBSD-7.1.2-evbarm-earmeb.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/7.1.2/NetBSD-7.1.2-evbarm-earmeb.iso",
+    "is_dir": false,
+    "size": "364.8 MiB",
+    "date": "15-Mar-2018 17:43"
+  },
+  {
+    "name": "NetBSD-7.1.2-evbarm-earmv6hf.iso",
+    "href": "NetBSD-7.1.2-evbarm-earmv6hf.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/7.1.2/NetBSD-7.1.2-evbarm-earmv6hf.iso",
+    "is_dir": false,
+    "size": "625.1 MiB",
+    "date": "15-Mar-2018 18:15"
+  },
+  {
+    "name": "NetBSD-7.1.2-evbarm-earmv7hf.iso",
+    "href": "NetBSD-7.1.2-evbarm-earmv7hf.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/7.1.2/NetBSD-7.1.2-evbarm-earmv7hf.iso",
+    "is_dir": false,
+    "size": "823.8 MiB",
+    "date": "15-Mar-2018 18:34"
+  },
+  {
+    "name": "NetBSD-7.1.2-evbarm-earmv7hfeb.iso",
+    "href": "NetBSD-7.1.2-evbarm-earmv7hfeb.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/7.1.2/NetBSD-7.1.2-evbarm-earmv7hfeb.iso",
+    "is_dir": false,
+    "size": "655.5 MiB",
+    "date": "15-Mar-2018 18:08"
+  },
+  {
+    "name": "NetBSD-7.1.2-evbmips-mips64eb.iso",
+    "href": "NetBSD-7.1.2-evbmips-mips64eb.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/7.1.2/NetBSD-7.1.2-evbmips-mips64eb.iso",
+    "is_dir": false,
+    "size": "358.7 MiB",
+    "date": "15-Mar-2018 18:23"
+  },
+  {
+    "name": "NetBSD-7.1.2-evbmips-mips64el.iso",
+    "href": "NetBSD-7.1.2-evbmips-mips64el.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/7.1.2/NetBSD-7.1.2-evbmips-mips64el.iso",
+    "is_dir": false,
+    "size": "383.8 MiB",
+    "date": "15-Mar-2018 18:12"
+  },
+  {
+    "name": "NetBSD-7.1.2-evbmips-mipseb.iso",
+    "href": "NetBSD-7.1.2-evbmips-mipseb.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/7.1.2/NetBSD-7.1.2-evbmips-mipseb.iso",
+    "is_dir": false,
+    "size": "240.0 MiB",
+    "date": "15-Mar-2018 18:00"
+  },
+  {
+    "name": "NetBSD-7.1.2-evbmips-mipsel.iso",
+    "href": "NetBSD-7.1.2-evbmips-mipsel.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/7.1.2/NetBSD-7.1.2-evbmips-mipsel.iso",
+    "is_dir": false,
+    "size": "278.4 MiB",
+    "date": "15-Mar-2018 18:00"
+  },
+  {
+    "name": "NetBSD-7.1.2-evbppc.iso",
+    "href": "NetBSD-7.1.2-evbppc.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/7.1.2/NetBSD-7.1.2-evbppc.iso",
+    "is_dir": false,
+    "size": "362.1 MiB",
+    "date": "15-Mar-2018 18:07"
+  },
+  {
+    "name": "NetBSD-7.1.2-evbsh3-sh3eb.iso",
+    "href": "NetBSD-7.1.2-evbsh3-sh3eb.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/7.1.2/NetBSD-7.1.2-evbsh3-sh3eb.iso",
+    "is_dir": false,
+    "size": "196.4 MiB",
+    "date": "15-Mar-2018 17:46"
+  },
+  {
+    "name": "NetBSD-7.1.2-evbsh3-sh3el.iso",
+    "href": "NetBSD-7.1.2-evbsh3-sh3el.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/7.1.2/NetBSD-7.1.2-evbsh3-sh3el.iso",
+    "is_dir": false,
+    "size": "219.8 MiB",
+    "date": "15-Mar-2018 18:02"
+  },
+  {
+    "name": "NetBSD-7.1.2-ews4800mips.iso",
+    "href": "NetBSD-7.1.2-ews4800mips.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/7.1.2/NetBSD-7.1.2-ews4800mips.iso",
+    "is_dir": false,
+    "size": "214.5 MiB",
+    "date": "15-Mar-2018 18:00"
+  },
+  {
+    "name": "NetBSD-7.1.2-hp300.iso",
+    "href": "NetBSD-7.1.2-hp300.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/7.1.2/NetBSD-7.1.2-hp300.iso",
+    "is_dir": false,
+    "size": "189.5 MiB",
+    "date": "15-Mar-2018 18:12"
+  },
+  {
+    "name": "NetBSD-7.1.2-hpcarm.iso",
+    "href": "NetBSD-7.1.2-hpcarm.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/7.1.2/NetBSD-7.1.2-hpcarm.iso",
+    "is_dir": false,
+    "size": "308.4 MiB",
+    "date": "15-Mar-2018 19:03"
+  },
+  {
+    "name": "NetBSD-7.1.2-hpcmips.iso",
+    "href": "NetBSD-7.1.2-hpcmips.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/7.1.2/NetBSD-7.1.2-hpcmips.iso",
+    "is_dir": false,
+    "size": "218.7 MiB",
+    "date": "15-Mar-2018 18:21"
+  },
+  {
+    "name": "NetBSD-7.1.2-hpcsh.iso",
+    "href": "NetBSD-7.1.2-hpcsh.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/7.1.2/NetBSD-7.1.2-hpcsh.iso",
+    "is_dir": false,
+    "size": "200.8 MiB",
+    "date": "15-Mar-2018 18:37"
+  },
+  {
+    "name": "NetBSD-7.1.2-hppa.iso",
+    "href": "NetBSD-7.1.2-hppa.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/7.1.2/NetBSD-7.1.2-hppa.iso",
+    "is_dir": false,
+    "size": "272.4 MiB",
+    "date": "15-Mar-2018 18:32"
+  },
+  {
+    "name": "NetBSD-7.1.2-i386-install.img.gz",
+    "href": "NetBSD-7.1.2-i386-install.img.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/7.1.2/NetBSD-7.1.2-i386-install.img.gz",
+    "is_dir": false,
+    "size": "380.8 MiB",
+    "date": "15-Mar-2018 18:54"
+  },
+  {
+    "name": "NetBSD-7.1.2-i386.iso",
+    "href": "NetBSD-7.1.2-i386.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/7.1.2/NetBSD-7.1.2-i386.iso",
+    "is_dir": false,
+    "size": "407.5 MiB",
+    "date": "15-Mar-2018 18:52"
+  },
+  {
+    "name": "NetBSD-7.1.2-ibmnws.iso",
+    "href": "NetBSD-7.1.2-ibmnws.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/7.1.2/NetBSD-7.1.2-ibmnws.iso",
+    "is_dir": false,
+    "size": "216.4 MiB",
+    "date": "15-Mar-2018 18:52"
+  },
+  {
+    "name": "NetBSD-7.1.2-luna68k.iso",
+    "href": "NetBSD-7.1.2-luna68k.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/7.1.2/NetBSD-7.1.2-luna68k.iso",
+    "is_dir": false,
+    "size": "189.3 MiB",
+    "date": "15-Mar-2018 18:39"
+  },
+  {
+    "name": "NetBSD-7.1.2-mac68k.iso",
+    "href": "NetBSD-7.1.2-mac68k.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/7.1.2/NetBSD-7.1.2-mac68k.iso",
+    "is_dir": false,
+    "size": "206.2 MiB",
+    "date": "16-Mar-2018 02:35"
+  },
+  {
+    "name": "NetBSD-7.1.2-macppc.iso",
+    "href": "NetBSD-7.1.2-macppc.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/7.1.2/NetBSD-7.1.2-macppc.iso",
+    "is_dir": false,
+    "size": "317.7 MiB",
+    "date": "16-Mar-2018 02:34"
+  },
+  {
+    "name": "NetBSD-7.1.2-mipsco.iso",
+    "href": "NetBSD-7.1.2-mipsco.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/7.1.2/NetBSD-7.1.2-mipsco.iso",
+    "is_dir": false,
+    "size": "209.9 MiB",
+    "date": "15-Mar-2018 18:35"
+  },
+  {
+    "name": "NetBSD-7.1.2-mvme68k.iso",
+    "href": "NetBSD-7.1.2-mvme68k.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/7.1.2/NetBSD-7.1.2-mvme68k.iso",
+    "is_dir": false,
+    "size": "195.2 MiB",
+    "date": "15-Mar-2018 18:56"
+  },
+  {
+    "name": "NetBSD-7.1.2-mvmeppc.iso",
+    "href": "NetBSD-7.1.2-mvmeppc.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/7.1.2/NetBSD-7.1.2-mvmeppc.iso",
+    "is_dir": false,
+    "size": "215.4 MiB",
+    "date": "15-Mar-2018 19:08"
+  },
+  {
+    "name": "NetBSD-7.1.2-news68k.iso",
+    "href": "NetBSD-7.1.2-news68k.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/7.1.2/NetBSD-7.1.2-news68k.iso",
+    "is_dir": false,
+    "size": "187.9 MiB",
+    "date": "15-Mar-2018 18:51"
+  },
+  {
+    "name": "NetBSD-7.1.2-newsmips.iso",
+    "href": "NetBSD-7.1.2-newsmips.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/7.1.2/NetBSD-7.1.2-newsmips.iso",
+    "is_dir": false,
+    "size": "211.2 MiB",
+    "date": "15-Mar-2018 19:14"
+  },
+  {
+    "name": "NetBSD-7.1.2-ofppc.iso",
+    "href": "NetBSD-7.1.2-ofppc.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/7.1.2/NetBSD-7.1.2-ofppc.iso",
+    "is_dir": false,
+    "size": "231.4 MiB",
+    "date": "15-Mar-2018 19:20"
+  },
+  {
+    "name": "NetBSD-7.1.2-pmax.iso",
+    "href": "NetBSD-7.1.2-pmax.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/7.1.2/NetBSD-7.1.2-pmax.iso",
+    "is_dir": false,
+    "size": "222.3 MiB",
+    "date": "15-Mar-2018 19:28"
+  },
+  {
+    "name": "NetBSD-7.1.2-prep.iso",
+    "href": "NetBSD-7.1.2-prep.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/7.1.2/NetBSD-7.1.2-prep.iso",
+    "is_dir": false,
+    "size": "245.5 MiB",
+    "date": "15-Mar-2018 19:43"
+  },
+  {
+    "name": "NetBSD-7.1.2-sandpoint.iso",
+    "href": "NetBSD-7.1.2-sandpoint.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/7.1.2/NetBSD-7.1.2-sandpoint.iso",
+    "is_dir": false,
+    "size": "226.5 MiB",
+    "date": "15-Mar-2018 19:27"
+  },
+  {
+    "name": "NetBSD-7.1.2-sgimips.iso",
+    "href": "NetBSD-7.1.2-sgimips.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/7.1.2/NetBSD-7.1.2-sgimips.iso",
+    "is_dir": false,
+    "size": "247.9 MiB",
+    "date": "15-Mar-2018 19:34"
+  },
+  {
+    "name": "NetBSD-7.1.2-shark.iso",
+    "href": "NetBSD-7.1.2-shark.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/7.1.2/NetBSD-7.1.2-shark.iso",
+    "is_dir": false,
+    "size": "299.2 MiB",
+    "date": "15-Mar-2018 20:00"
+  },
+  {
+    "name": "NetBSD-7.1.2-sparc.iso",
+    "href": "NetBSD-7.1.2-sparc.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/7.1.2/NetBSD-7.1.2-sparc.iso",
+    "is_dir": false,
+    "size": "242.5 MiB",
+    "date": "15-Mar-2018 19:49"
+  },
+  {
+    "name": "NetBSD-7.1.2-sparc64.iso",
+    "href": "NetBSD-7.1.2-sparc64.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/7.1.2/NetBSD-7.1.2-sparc64.iso",
+    "is_dir": false,
+    "size": "339.1 MiB",
+    "date": "15-Mar-2018 20:01"
+  },
+  {
+    "name": "NetBSD-7.1.2-sun2.iso",
+    "href": "NetBSD-7.1.2-sun2.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/7.1.2/NetBSD-7.1.2-sun2.iso",
+    "is_dir": false,
+    "size": "530.0 MiB",
+    "date": "15-Mar-2018 19:17"
+  },
+  {
+    "name": "NetBSD-7.1.2-sun3.iso",
+    "href": "NetBSD-7.1.2-sun3.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/7.1.2/NetBSD-7.1.2-sun3.iso",
+    "is_dir": false,
+    "size": "200.3 MiB",
+    "date": "15-Mar-2018 19:50"
+  },
+  {
+    "name": "NetBSD-7.1.2-vax.iso",
+    "href": "NetBSD-7.1.2-vax.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/7.1.2/NetBSD-7.1.2-vax.iso",
+    "is_dir": false,
+    "size": "231.2 MiB",
+    "date": "15-Mar-2018 19:40"
+  },
+  {
+    "name": "NetBSD-7.1.2-x68k.iso",
+    "href": "NetBSD-7.1.2-x68k.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/7.1.2/NetBSD-7.1.2-x68k.iso",
+    "is_dir": false,
+    "size": "189.5 MiB",
+    "date": "15-Mar-2018 19:45"
+  },
+  {
+    "name": "NetBSD-7.1.2-zaurus.iso",
+    "href": "NetBSD-7.1.2-zaurus.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/7.1.2/NetBSD-7.1.2-zaurus.iso",
+    "is_dir": false,
+    "size": "303.4 MiB",
+    "date": "15-Mar-2018 20:16"
+  },
+  {
+    "name": "SHA512",
+    "href": "SHA512",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/7.1.2/SHA512",
+    "is_dir": false,
+    "size": "9.1 KiB",
+    "date": "16-Mar-2018 02:41"
+  }
+]

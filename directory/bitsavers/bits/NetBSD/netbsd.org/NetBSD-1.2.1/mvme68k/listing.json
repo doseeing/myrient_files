@@ -1,0 +1,42 @@
+[
+  {
+    "name": "INSTALL.mvme68k",
+    "href": "INSTALL.mvme68k",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2.1/mvme68k/INSTALL.mvme68k",
+    "is_dir": false,
+    "size": "25.2 KiB",
+    "date": "01-Apr-1997 18:39"
+  },
+  {
+    "name": "README.1ST",
+    "href": "README.1ST",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2.1/mvme68k/README.1ST",
+    "is_dir": false,
+    "size": "685 B",
+    "date": "01-Apr-1997 18:40"
+  },
+  {
+    "name": "export_exec_mvme68k.tar.gz",
+    "href": "export_exec_mvme68k.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2.1/mvme68k/export_exec_mvme68k.tar.gz",
+    "is_dir": false,
+    "size": "15.3 MiB",
+    "date": "29-Mar-1997 16:32"
+  },
+  {
+    "name": "export_root_mvme68k.tar.gz",
+    "href": "export_root_mvme68k.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2.1/mvme68k/export_root_mvme68k.tar.gz",
+    "is_dir": false,
+    "size": "3.5 MiB",
+    "date": "29-Mar-1997 16:32"
+  },
+  {
+    "name": "export_rootbin_mvme68k.tar.gz",
+    "href": "export_rootbin_mvme68k.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2.1/mvme68k/export_rootbin_mvme68k.tar.gz",
+    "is_dir": false,
+    "size": "3.4 MiB",
+    "date": "29-Mar-1997 16:32"
+  }
+]

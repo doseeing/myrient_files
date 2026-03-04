@@ -1,0 +1,130 @@
+[
+  {
+    "name": "BSDSUM",
+    "href": "BSDSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/mvme68k/binary/sets/BSDSUM",
+    "is_dir": false,
+    "size": "115 B",
+    "date": "07-Aug-1999 13:10"
+  },
+  {
+    "name": "CKSUM",
+    "href": "CKSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/mvme68k/binary/sets/CKSUM",
+    "is_dir": false,
+    "size": "162 B",
+    "date": "07-Aug-1999 13:10"
+  },
+  {
+    "name": "MD5",
+    "href": "MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/mvme68k/binary/sets/MD5",
+    "is_dir": false,
+    "size": "298 B",
+    "date": "07-Aug-1999 13:10"
+  },
+  {
+    "name": "SYSVSUM",
+    "href": "SYSVSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/mvme68k/binary/sets/SYSVSUM",
+    "is_dir": false,
+    "size": "118 B",
+    "date": "07-Aug-1999 13:10"
+  },
+  {
+    "name": "base.tgz",
+    "href": "base.tgz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/mvme68k/binary/sets/base.tgz",
+    "is_dir": false,
+    "size": "10.2 MiB",
+    "date": "04-Aug-1999 18:06"
+  },
+  {
+    "name": "comp.tgz",
+    "href": "comp.tgz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/mvme68k/binary/sets/comp.tgz",
+    "is_dir": false,
+    "size": "8.1 MiB",
+    "date": "04-Aug-1999 18:21"
+  },
+  {
+    "name": "etc.tgz",
+    "href": "etc.tgz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/mvme68k/binary/sets/etc.tgz",
+    "is_dir": false,
+    "size": "56.3 KiB",
+    "date": "04-Aug-1999 18:21"
+  },
+  {
+    "name": "games.tgz",
+    "href": "games.tgz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/mvme68k/binary/sets/games.tgz",
+    "is_dir": false,
+    "size": "2.8 MiB",
+    "date": "26-Jul-1999 15:23"
+  },
+  {
+    "name": "kern.tgz",
+    "href": "kern.tgz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/mvme68k/binary/sets/kern.tgz",
+    "is_dir": false,
+    "size": "500.0 KiB",
+    "date": "04-Aug-1999 17:53"
+  },
+  {
+    "name": "man.tgz",
+    "href": "man.tgz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/mvme68k/binary/sets/man.tgz",
+    "is_dir": false,
+    "size": "4.0 MiB",
+    "date": "04-Aug-1999 18:31"
+  },
+  {
+    "name": "misc.tgz",
+    "href": "misc.tgz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/mvme68k/binary/sets/misc.tgz",
+    "is_dir": false,
+    "size": "2.2 MiB",
+    "date": "04-Aug-1999 18:35"
+  },
+  {
+    "name": "text.tgz",
+    "href": "text.tgz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/mvme68k/binary/sets/text.tgz",
+    "is_dir": false,
+    "size": "1.3 MiB",
+    "date": "26-Jul-1999 21:02"
+  },
+  {
+    "name": "xbase.tgz",
+    "href": "xbase.tgz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/mvme68k/binary/sets/xbase.tgz",
+    "is_dir": false,
+    "size": "2.4 MiB",
+    "date": "23-Jul-1999 12:50"
+  },
+  {
+    "name": "xcomp.tgz",
+    "href": "xcomp.tgz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/mvme68k/binary/sets/xcomp.tgz",
+    "is_dir": false,
+    "size": "1.6 MiB",
+    "date": "22-Jul-1999 17:48"
+  },
+  {
+    "name": "xcontrib.tgz",
+    "href": "xcontrib.tgz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/mvme68k/binary/sets/xcontrib.tgz",
+    "is_dir": false,
+    "size": "179.2 KiB",
+    "date": "22-Jul-1999 17:48"
+  },
+  {
+    "name": "xfont.tgz",
+    "href": "xfont.tgz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/mvme68k/binary/sets/xfont.tgz",
+    "is_dir": false,
+    "size": "5.7 MiB",
+    "date": "22-Jul-1999 17:49"
+  }
+]

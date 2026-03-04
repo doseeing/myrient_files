@@ -1,0 +1,82 @@
+[
+  {
+    "name": "BSDSUM",
+    "href": "BSDSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/atari/installation/misc/BSDSUM",
+    "is_dir": false,
+    "size": "112 B",
+    "date": "07-Jan-1998 17:08"
+  },
+  {
+    "name": "CKSUM",
+    "href": "CKSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/atari/installation/misc/CKSUM",
+    "is_dir": false,
+    "size": "151 B",
+    "date": "07-Jan-1998 17:08"
+  },
+  {
+    "name": "MD5",
+    "href": "MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/atari/installation/misc/MD5",
+    "is_dir": false,
+    "size": "273 B",
+    "date": "07-Jan-1998 17:08"
+  },
+  {
+    "name": "README",
+    "href": "README",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/atari/installation/misc/README",
+    "is_dir": false,
+    "size": "719 B",
+    "date": "05-Jan-1998 10:23"
+  },
+  {
+    "name": "SYSVSUM",
+    "href": "SYSVSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/atari/installation/misc/SYSVSUM",
+    "is_dir": false,
+    "size": "114 B",
+    "date": "07-Jan-1998 17:08"
+  },
+  {
+    "name": "aptck.ttp.gz",
+    "href": "aptck.ttp.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/atari/installation/misc/aptck.ttp.gz",
+    "is_dir": false,
+    "size": "16.2 KiB",
+    "date": "05-Jan-1998 09:36"
+  },
+  {
+    "name": "chg_pid.ttp.gz",
+    "href": "chg_pid.ttp.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/atari/installation/misc/chg_pid.ttp.gz",
+    "is_dir": false,
+    "size": "13.0 KiB",
+    "date": "05-Jan-1998 09:36"
+  },
+  {
+    "name": "gzip.ttp",
+    "href": "gzip.ttp",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/atari/installation/misc/gzip.ttp",
+    "is_dir": false,
+    "size": "65.3 KiB",
+    "date": "05-Jan-1998 08:32"
+  },
+  {
+    "name": "loadbsd.ttp.gz",
+    "href": "loadbsd.ttp.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/atari/installation/misc/loadbsd.ttp.gz",
+    "is_dir": false,
+    "size": "13.4 KiB",
+    "date": "05-Jan-1998 07:50"
+  },
+  {
+    "name": "rawwrite.ttp.gz",
+    "href": "rawwrite.ttp.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/atari/installation/misc/rawwrite.ttp.gz",
+    "is_dir": false,
+    "size": "12.5 KiB",
+    "date": "05-Jan-1998 09:36"
+  }
+]

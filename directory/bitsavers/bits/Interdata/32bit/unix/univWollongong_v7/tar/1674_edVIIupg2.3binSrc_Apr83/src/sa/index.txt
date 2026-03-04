@@ -1,0 +1,34 @@
+name	is_dir	size	date
+libsa	True	-	10-Mar-2006 08:14
+sadb	True	-	10-Mar-2006 08:14
+Makefile	False	3.3 KiB	08-Mar-1983 23:37
+adb	False	47.9 KiB	15-Apr-1983 00:26
+boot	False	15.4 KiB	15-Apr-1983 00:27
+boot.50	False	15.2 KiB	15-Apr-1983 00:28
+boot.c	False	1.5 KiB	08-Mar-1983 23:37
+boot.lsu	False	15.8 KiB	15-Apr-1983 00:28
+boot.o	False	3.3 KiB	15-Apr-1983 00:27
+boot0.o	False	5.8 KiB	15-Apr-1983 00:27
+boot0.s	False	4.5 KiB	08-Mar-1983 23:37
+cat	False	15.3 KiB	14-Apr-1983 23:56
+cat.c	False	168 B	08-Mar-1983 23:37
+copyunix.c	False	1.1 KiB	08-Mar-1983 23:37
+copyunix.o	False	1.1 KiB	15-Apr-1983 00:27
+dfltboot.c	False	81 B	08-Mar-1983 23:37
+dfltboot.h	False	47 B	08-Mar-1983 23:37
+dfltboot.o	False	144 B	15-Apr-1983 00:27
+icheck	False	19.8 KiB	14-Apr-1983 23:58
+last.c	False	30 B	08-Mar-1983 23:38
+last.o	False	104 B	15-Apr-1983 00:27
+libsa.a	False	35.5 KiB	14-Apr-1983 23:53
+ls	False	15.5 KiB	14-Apr-1983 23:56
+ls.c	False	562 B	08-Mar-1983 23:38
+mkfs	False	21.8 KiB	15-Apr-1983 18:29
+mktape	False	375 B	08-Mar-1983 23:38
+oldlibsa.a	False	31.5 KiB	08-Mar-1983 23:38
+restor	False	22.3 KiB	14-Apr-1983 23:56
+saio.h	False	1.1 KiB	08-Mar-1983 23:38
+srt0.o	False	6.4 KiB	14-Apr-1983 23:54
+srt0.s	False	4.7 KiB	08-Mar-1983 23:38
+tboot	False	10.6 KiB	08-Mar-1983 23:38
+test.c	False	1.4 KiB	08-Mar-1983 23:38

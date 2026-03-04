@@ -1,0 +1,706 @@
+[
+  {
+    "name": "CKSUMS",
+    "href": "CKSUMS",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/amiga/binary/base11/CKSUMS",
+    "is_dir": false,
+    "size": "2.3 KiB",
+    "date": "25-Nov-1995 03:29"
+  },
+  {
+    "name": "base11.aa",
+    "href": "base11.aa",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/amiga/binary/base11/base11.aa",
+    "is_dir": false,
+    "size": "80.0 KiB",
+    "date": "25-Nov-1995 03:27"
+  },
+  {
+    "name": "base11.ab",
+    "href": "base11.ab",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/amiga/binary/base11/base11.ab",
+    "is_dir": false,
+    "size": "80.0 KiB",
+    "date": "25-Nov-1995 03:27"
+  },
+  {
+    "name": "base11.ac",
+    "href": "base11.ac",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/amiga/binary/base11/base11.ac",
+    "is_dir": false,
+    "size": "80.0 KiB",
+    "date": "25-Nov-1995 03:27"
+  },
+  {
+    "name": "base11.ad",
+    "href": "base11.ad",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/amiga/binary/base11/base11.ad",
+    "is_dir": false,
+    "size": "80.0 KiB",
+    "date": "25-Nov-1995 03:27"
+  },
+  {
+    "name": "base11.ae",
+    "href": "base11.ae",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/amiga/binary/base11/base11.ae",
+    "is_dir": false,
+    "size": "80.0 KiB",
+    "date": "25-Nov-1995 03:27"
+  },
+  {
+    "name": "base11.af",
+    "href": "base11.af",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/amiga/binary/base11/base11.af",
+    "is_dir": false,
+    "size": "80.0 KiB",
+    "date": "25-Nov-1995 03:27"
+  },
+  {
+    "name": "base11.ag",
+    "href": "base11.ag",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/amiga/binary/base11/base11.ag",
+    "is_dir": false,
+    "size": "80.0 KiB",
+    "date": "25-Nov-1995 03:27"
+  },
+  {
+    "name": "base11.ah",
+    "href": "base11.ah",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/amiga/binary/base11/base11.ah",
+    "is_dir": false,
+    "size": "80.0 KiB",
+    "date": "25-Nov-1995 03:27"
+  },
+  {
+    "name": "base11.ai",
+    "href": "base11.ai",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/amiga/binary/base11/base11.ai",
+    "is_dir": false,
+    "size": "80.0 KiB",
+    "date": "25-Nov-1995 03:27"
+  },
+  {
+    "name": "base11.aj",
+    "href": "base11.aj",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/amiga/binary/base11/base11.aj",
+    "is_dir": false,
+    "size": "80.0 KiB",
+    "date": "25-Nov-1995 03:27"
+  },
+  {
+    "name": "base11.ak",
+    "href": "base11.ak",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/amiga/binary/base11/base11.ak",
+    "is_dir": false,
+    "size": "80.0 KiB",
+    "date": "25-Nov-1995 03:27"
+  },
+  {
+    "name": "base11.al",
+    "href": "base11.al",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/amiga/binary/base11/base11.al",
+    "is_dir": false,
+    "size": "80.0 KiB",
+    "date": "25-Nov-1995 03:27"
+  },
+  {
+    "name": "base11.am",
+    "href": "base11.am",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/amiga/binary/base11/base11.am",
+    "is_dir": false,
+    "size": "80.0 KiB",
+    "date": "25-Nov-1995 03:27"
+  },
+  {
+    "name": "base11.an",
+    "href": "base11.an",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/amiga/binary/base11/base11.an",
+    "is_dir": false,
+    "size": "80.0 KiB",
+    "date": "25-Nov-1995 03:27"
+  },
+  {
+    "name": "base11.ao",
+    "href": "base11.ao",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/amiga/binary/base11/base11.ao",
+    "is_dir": false,
+    "size": "80.0 KiB",
+    "date": "25-Nov-1995 03:27"
+  },
+  {
+    "name": "base11.ap",
+    "href": "base11.ap",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/amiga/binary/base11/base11.ap",
+    "is_dir": false,
+    "size": "80.0 KiB",
+    "date": "25-Nov-1995 03:27"
+  },
+  {
+    "name": "base11.aq",
+    "href": "base11.aq",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/amiga/binary/base11/base11.aq",
+    "is_dir": false,
+    "size": "80.0 KiB",
+    "date": "25-Nov-1995 03:27"
+  },
+  {
+    "name": "base11.ar",
+    "href": "base11.ar",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/amiga/binary/base11/base11.ar",
+    "is_dir": false,
+    "size": "80.0 KiB",
+    "date": "25-Nov-1995 03:27"
+  },
+  {
+    "name": "base11.as",
+    "href": "base11.as",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/amiga/binary/base11/base11.as",
+    "is_dir": false,
+    "size": "80.0 KiB",
+    "date": "25-Nov-1995 03:27"
+  },
+  {
+    "name": "base11.at",
+    "href": "base11.at",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/amiga/binary/base11/base11.at",
+    "is_dir": false,
+    "size": "80.0 KiB",
+    "date": "25-Nov-1995 03:27"
+  },
+  {
+    "name": "base11.au",
+    "href": "base11.au",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/amiga/binary/base11/base11.au",
+    "is_dir": false,
+    "size": "80.0 KiB",
+    "date": "25-Nov-1995 03:27"
+  },
+  {
+    "name": "base11.av",
+    "href": "base11.av",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/amiga/binary/base11/base11.av",
+    "is_dir": false,
+    "size": "80.0 KiB",
+    "date": "25-Nov-1995 03:27"
+  },
+  {
+    "name": "base11.aw",
+    "href": "base11.aw",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/amiga/binary/base11/base11.aw",
+    "is_dir": false,
+    "size": "80.0 KiB",
+    "date": "25-Nov-1995 03:27"
+  },
+  {
+    "name": "base11.ax",
+    "href": "base11.ax",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/amiga/binary/base11/base11.ax",
+    "is_dir": false,
+    "size": "80.0 KiB",
+    "date": "25-Nov-1995 03:27"
+  },
+  {
+    "name": "base11.ay",
+    "href": "base11.ay",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/amiga/binary/base11/base11.ay",
+    "is_dir": false,
+    "size": "80.0 KiB",
+    "date": "25-Nov-1995 03:27"
+  },
+  {
+    "name": "base11.az",
+    "href": "base11.az",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/amiga/binary/base11/base11.az",
+    "is_dir": false,
+    "size": "80.0 KiB",
+    "date": "25-Nov-1995 03:27"
+  },
+  {
+    "name": "base11.ba",
+    "href": "base11.ba",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/amiga/binary/base11/base11.ba",
+    "is_dir": false,
+    "size": "80.0 KiB",
+    "date": "25-Nov-1995 03:27"
+  },
+  {
+    "name": "base11.bb",
+    "href": "base11.bb",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/amiga/binary/base11/base11.bb",
+    "is_dir": false,
+    "size": "80.0 KiB",
+    "date": "25-Nov-1995 03:27"
+  },
+  {
+    "name": "base11.bc",
+    "href": "base11.bc",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/amiga/binary/base11/base11.bc",
+    "is_dir": false,
+    "size": "80.0 KiB",
+    "date": "25-Nov-1995 03:27"
+  },
+  {
+    "name": "base11.bd",
+    "href": "base11.bd",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/amiga/binary/base11/base11.bd",
+    "is_dir": false,
+    "size": "80.0 KiB",
+    "date": "25-Nov-1995 03:27"
+  },
+  {
+    "name": "base11.be",
+    "href": "base11.be",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/amiga/binary/base11/base11.be",
+    "is_dir": false,
+    "size": "80.0 KiB",
+    "date": "25-Nov-1995 03:27"
+  },
+  {
+    "name": "base11.bf",
+    "href": "base11.bf",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/amiga/binary/base11/base11.bf",
+    "is_dir": false,
+    "size": "80.0 KiB",
+    "date": "25-Nov-1995 03:27"
+  },
+  {
+    "name": "base11.bg",
+    "href": "base11.bg",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/amiga/binary/base11/base11.bg",
+    "is_dir": false,
+    "size": "80.0 KiB",
+    "date": "25-Nov-1995 03:27"
+  },
+  {
+    "name": "base11.bh",
+    "href": "base11.bh",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/amiga/binary/base11/base11.bh",
+    "is_dir": false,
+    "size": "80.0 KiB",
+    "date": "25-Nov-1995 03:27"
+  },
+  {
+    "name": "base11.bi",
+    "href": "base11.bi",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/amiga/binary/base11/base11.bi",
+    "is_dir": false,
+    "size": "80.0 KiB",
+    "date": "25-Nov-1995 03:27"
+  },
+  {
+    "name": "base11.bj",
+    "href": "base11.bj",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/amiga/binary/base11/base11.bj",
+    "is_dir": false,
+    "size": "80.0 KiB",
+    "date": "25-Nov-1995 03:27"
+  },
+  {
+    "name": "base11.bk",
+    "href": "base11.bk",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/amiga/binary/base11/base11.bk",
+    "is_dir": false,
+    "size": "80.0 KiB",
+    "date": "25-Nov-1995 03:27"
+  },
+  {
+    "name": "base11.bl",
+    "href": "base11.bl",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/amiga/binary/base11/base11.bl",
+    "is_dir": false,
+    "size": "80.0 KiB",
+    "date": "25-Nov-1995 03:27"
+  },
+  {
+    "name": "base11.bm",
+    "href": "base11.bm",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/amiga/binary/base11/base11.bm",
+    "is_dir": false,
+    "size": "80.0 KiB",
+    "date": "25-Nov-1995 03:27"
+  },
+  {
+    "name": "base11.bn",
+    "href": "base11.bn",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/amiga/binary/base11/base11.bn",
+    "is_dir": false,
+    "size": "80.0 KiB",
+    "date": "25-Nov-1995 03:27"
+  },
+  {
+    "name": "base11.bo",
+    "href": "base11.bo",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/amiga/binary/base11/base11.bo",
+    "is_dir": false,
+    "size": "80.0 KiB",
+    "date": "25-Nov-1995 03:27"
+  },
+  {
+    "name": "base11.bp",
+    "href": "base11.bp",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/amiga/binary/base11/base11.bp",
+    "is_dir": false,
+    "size": "80.0 KiB",
+    "date": "25-Nov-1995 03:27"
+  },
+  {
+    "name": "base11.bq",
+    "href": "base11.bq",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/amiga/binary/base11/base11.bq",
+    "is_dir": false,
+    "size": "80.0 KiB",
+    "date": "25-Nov-1995 03:27"
+  },
+  {
+    "name": "base11.br",
+    "href": "base11.br",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/amiga/binary/base11/base11.br",
+    "is_dir": false,
+    "size": "80.0 KiB",
+    "date": "25-Nov-1995 03:27"
+  },
+  {
+    "name": "base11.bs",
+    "href": "base11.bs",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/amiga/binary/base11/base11.bs",
+    "is_dir": false,
+    "size": "80.0 KiB",
+    "date": "25-Nov-1995 03:27"
+  },
+  {
+    "name": "base11.bt",
+    "href": "base11.bt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/amiga/binary/base11/base11.bt",
+    "is_dir": false,
+    "size": "80.0 KiB",
+    "date": "25-Nov-1995 03:27"
+  },
+  {
+    "name": "base11.bu",
+    "href": "base11.bu",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/amiga/binary/base11/base11.bu",
+    "is_dir": false,
+    "size": "80.0 KiB",
+    "date": "25-Nov-1995 03:27"
+  },
+  {
+    "name": "base11.bv",
+    "href": "base11.bv",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/amiga/binary/base11/base11.bv",
+    "is_dir": false,
+    "size": "80.0 KiB",
+    "date": "25-Nov-1995 03:27"
+  },
+  {
+    "name": "base11.bw",
+    "href": "base11.bw",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/amiga/binary/base11/base11.bw",
+    "is_dir": false,
+    "size": "80.0 KiB",
+    "date": "25-Nov-1995 03:27"
+  },
+  {
+    "name": "base11.bx",
+    "href": "base11.bx",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/amiga/binary/base11/base11.bx",
+    "is_dir": false,
+    "size": "80.0 KiB",
+    "date": "25-Nov-1995 03:27"
+  },
+  {
+    "name": "base11.by",
+    "href": "base11.by",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/amiga/binary/base11/base11.by",
+    "is_dir": false,
+    "size": "80.0 KiB",
+    "date": "25-Nov-1995 03:27"
+  },
+  {
+    "name": "base11.bz",
+    "href": "base11.bz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/amiga/binary/base11/base11.bz",
+    "is_dir": false,
+    "size": "80.0 KiB",
+    "date": "25-Nov-1995 03:27"
+  },
+  {
+    "name": "base11.ca",
+    "href": "base11.ca",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/amiga/binary/base11/base11.ca",
+    "is_dir": false,
+    "size": "80.0 KiB",
+    "date": "25-Nov-1995 03:27"
+  },
+  {
+    "name": "base11.cb",
+    "href": "base11.cb",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/amiga/binary/base11/base11.cb",
+    "is_dir": false,
+    "size": "80.0 KiB",
+    "date": "25-Nov-1995 03:27"
+  },
+  {
+    "name": "base11.cc",
+    "href": "base11.cc",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/amiga/binary/base11/base11.cc",
+    "is_dir": false,
+    "size": "80.0 KiB",
+    "date": "25-Nov-1995 03:27"
+  },
+  {
+    "name": "base11.cd",
+    "href": "base11.cd",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/amiga/binary/base11/base11.cd",
+    "is_dir": false,
+    "size": "80.0 KiB",
+    "date": "25-Nov-1995 03:27"
+  },
+  {
+    "name": "base11.ce",
+    "href": "base11.ce",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/amiga/binary/base11/base11.ce",
+    "is_dir": false,
+    "size": "80.0 KiB",
+    "date": "25-Nov-1995 03:27"
+  },
+  {
+    "name": "base11.cf",
+    "href": "base11.cf",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/amiga/binary/base11/base11.cf",
+    "is_dir": false,
+    "size": "80.0 KiB",
+    "date": "25-Nov-1995 03:27"
+  },
+  {
+    "name": "base11.cg",
+    "href": "base11.cg",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/amiga/binary/base11/base11.cg",
+    "is_dir": false,
+    "size": "80.0 KiB",
+    "date": "25-Nov-1995 03:27"
+  },
+  {
+    "name": "base11.ch",
+    "href": "base11.ch",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/amiga/binary/base11/base11.ch",
+    "is_dir": false,
+    "size": "80.0 KiB",
+    "date": "25-Nov-1995 03:27"
+  },
+  {
+    "name": "base11.ci",
+    "href": "base11.ci",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/amiga/binary/base11/base11.ci",
+    "is_dir": false,
+    "size": "80.0 KiB",
+    "date": "25-Nov-1995 03:27"
+  },
+  {
+    "name": "base11.cj",
+    "href": "base11.cj",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/amiga/binary/base11/base11.cj",
+    "is_dir": false,
+    "size": "80.0 KiB",
+    "date": "25-Nov-1995 03:27"
+  },
+  {
+    "name": "base11.ck",
+    "href": "base11.ck",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/amiga/binary/base11/base11.ck",
+    "is_dir": false,
+    "size": "80.0 KiB",
+    "date": "25-Nov-1995 03:27"
+  },
+  {
+    "name": "base11.cl",
+    "href": "base11.cl",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/amiga/binary/base11/base11.cl",
+    "is_dir": false,
+    "size": "80.0 KiB",
+    "date": "25-Nov-1995 03:27"
+  },
+  {
+    "name": "base11.cm",
+    "href": "base11.cm",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/amiga/binary/base11/base11.cm",
+    "is_dir": false,
+    "size": "80.0 KiB",
+    "date": "25-Nov-1995 03:27"
+  },
+  {
+    "name": "base11.cn",
+    "href": "base11.cn",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/amiga/binary/base11/base11.cn",
+    "is_dir": false,
+    "size": "80.0 KiB",
+    "date": "25-Nov-1995 03:27"
+  },
+  {
+    "name": "base11.co",
+    "href": "base11.co",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/amiga/binary/base11/base11.co",
+    "is_dir": false,
+    "size": "80.0 KiB",
+    "date": "25-Nov-1995 03:27"
+  },
+  {
+    "name": "base11.cp",
+    "href": "base11.cp",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/amiga/binary/base11/base11.cp",
+    "is_dir": false,
+    "size": "80.0 KiB",
+    "date": "25-Nov-1995 03:27"
+  },
+  {
+    "name": "base11.cq",
+    "href": "base11.cq",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/amiga/binary/base11/base11.cq",
+    "is_dir": false,
+    "size": "80.0 KiB",
+    "date": "25-Nov-1995 03:27"
+  },
+  {
+    "name": "base11.cr",
+    "href": "base11.cr",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/amiga/binary/base11/base11.cr",
+    "is_dir": false,
+    "size": "80.0 KiB",
+    "date": "25-Nov-1995 03:27"
+  },
+  {
+    "name": "base11.cs",
+    "href": "base11.cs",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/amiga/binary/base11/base11.cs",
+    "is_dir": false,
+    "size": "80.0 KiB",
+    "date": "25-Nov-1995 03:27"
+  },
+  {
+    "name": "base11.ct",
+    "href": "base11.ct",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/amiga/binary/base11/base11.ct",
+    "is_dir": false,
+    "size": "80.0 KiB",
+    "date": "25-Nov-1995 03:27"
+  },
+  {
+    "name": "base11.cu",
+    "href": "base11.cu",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/amiga/binary/base11/base11.cu",
+    "is_dir": false,
+    "size": "80.0 KiB",
+    "date": "25-Nov-1995 03:27"
+  },
+  {
+    "name": "base11.cv",
+    "href": "base11.cv",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/amiga/binary/base11/base11.cv",
+    "is_dir": false,
+    "size": "80.0 KiB",
+    "date": "25-Nov-1995 03:27"
+  },
+  {
+    "name": "base11.cw",
+    "href": "base11.cw",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/amiga/binary/base11/base11.cw",
+    "is_dir": false,
+    "size": "80.0 KiB",
+    "date": "25-Nov-1995 03:27"
+  },
+  {
+    "name": "base11.cx",
+    "href": "base11.cx",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/amiga/binary/base11/base11.cx",
+    "is_dir": false,
+    "size": "80.0 KiB",
+    "date": "25-Nov-1995 03:27"
+  },
+  {
+    "name": "base11.cy",
+    "href": "base11.cy",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/amiga/binary/base11/base11.cy",
+    "is_dir": false,
+    "size": "80.0 KiB",
+    "date": "25-Nov-1995 03:27"
+  },
+  {
+    "name": "base11.cz",
+    "href": "base11.cz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/amiga/binary/base11/base11.cz",
+    "is_dir": false,
+    "size": "80.0 KiB",
+    "date": "25-Nov-1995 03:27"
+  },
+  {
+    "name": "base11.da",
+    "href": "base11.da",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/amiga/binary/base11/base11.da",
+    "is_dir": false,
+    "size": "80.0 KiB",
+    "date": "25-Nov-1995 03:27"
+  },
+  {
+    "name": "base11.db",
+    "href": "base11.db",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/amiga/binary/base11/base11.db",
+    "is_dir": false,
+    "size": "80.0 KiB",
+    "date": "25-Nov-1995 03:27"
+  },
+  {
+    "name": "base11.dc",
+    "href": "base11.dc",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/amiga/binary/base11/base11.dc",
+    "is_dir": false,
+    "size": "80.0 KiB",
+    "date": "25-Nov-1995 03:27"
+  },
+  {
+    "name": "base11.dd",
+    "href": "base11.dd",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/amiga/binary/base11/base11.dd",
+    "is_dir": false,
+    "size": "80.0 KiB",
+    "date": "25-Nov-1995 03:27"
+  },
+  {
+    "name": "base11.de",
+    "href": "base11.de",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/amiga/binary/base11/base11.de",
+    "is_dir": false,
+    "size": "80.0 KiB",
+    "date": "25-Nov-1995 03:27"
+  },
+  {
+    "name": "base11.df",
+    "href": "base11.df",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/amiga/binary/base11/base11.df",
+    "is_dir": false,
+    "size": "80.0 KiB",
+    "date": "25-Nov-1995 03:27"
+  },
+  {
+    "name": "base11.dg",
+    "href": "base11.dg",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/amiga/binary/base11/base11.dg",
+    "is_dir": false,
+    "size": "80.0 KiB",
+    "date": "25-Nov-1995 03:27"
+  },
+  {
+    "name": "base11.dh",
+    "href": "base11.dh",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/amiga/binary/base11/base11.dh",
+    "is_dir": false,
+    "size": "80.0 KiB",
+    "date": "25-Nov-1995 03:27"
+  },
+  {
+    "name": "base11.di",
+    "href": "base11.di",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/amiga/binary/base11/base11.di",
+    "is_dir": false,
+    "size": "50.8 KiB",
+    "date": "25-Nov-1995 03:27"
+  }
+]

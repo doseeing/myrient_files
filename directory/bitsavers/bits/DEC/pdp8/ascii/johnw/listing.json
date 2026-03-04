@@ -1,0 +1,218 @@
+[
+  {
+    "name": "system",
+    "href": "system/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/ascii/johnw/system/",
+    "is_dir": true,
+    "size": null,
+    "date": "27-Oct-2004 00:45"
+  },
+  {
+    "name": "00readme.txt",
+    "href": "00readme.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/ascii/johnw/00readme.txt",
+    "is_dir": false,
+    "size": "1.8 KiB",
+    "date": "24-May-2000 00:09"
+  },
+  {
+    "name": "blank.pal",
+    "href": "blank.pal",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/ascii/johnw/blank.pal",
+    "is_dir": false,
+    "size": "321 B",
+    "date": "24-May-2000 00:08"
+  },
+  {
+    "name": "char.asc",
+    "href": "char.asc",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/ascii/johnw/char.asc",
+    "is_dir": false,
+    "size": "66 B",
+    "date": "24-May-2000 00:08"
+  },
+  {
+    "name": "delete.pal",
+    "href": "delete.pal",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/ascii/johnw/delete.pal",
+    "is_dir": false,
+    "size": "1.5 KiB",
+    "date": "24-May-2000 00:08"
+  },
+  {
+    "name": "direct.pal",
+    "href": "direct.pal",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/ascii/johnw/direct.pal",
+    "is_dir": false,
+    "size": "5.7 KiB",
+    "date": "24-May-2000 00:08"
+  },
+  {
+    "name": "dtcopy.pal",
+    "href": "dtcopy.pal",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/ascii/johnw/dtcopy.pal",
+    "is_dir": false,
+    "size": "4.1 KiB",
+    "date": "24-May-2000 00:08"
+  },
+  {
+    "name": "dtdump.pal",
+    "href": "dtdump.pal",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/ascii/johnw/dtdump.pal",
+    "is_dir": false,
+    "size": "1.7 KiB",
+    "date": "24-May-2000 00:08"
+  },
+  {
+    "name": "dttest.pal",
+    "href": "dttest.pal",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/ascii/johnw/dttest.pal",
+    "is_dir": false,
+    "size": "7.1 KiB",
+    "date": "24-May-2000 00:08"
+  },
+  {
+    "name": "dttype.pal",
+    "href": "dttype.pal",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/ascii/johnw/dttype.pal",
+    "is_dir": false,
+    "size": "797 B",
+    "date": "24-May-2000 00:08"
+  },
+  {
+    "name": "edit.asc",
+    "href": "edit.asc",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/ascii/johnw/edit.asc",
+    "is_dir": false,
+    "size": "378 B",
+    "date": "24-May-2000 00:08"
+  },
+  {
+    "name": "edit52.pal",
+    "href": "edit52.pal",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/ascii/johnw/edit52.pal",
+    "is_dir": false,
+    "size": "27.8 KiB",
+    "date": "24-May-2000 00:08"
+  },
+  {
+    "name": "extens.asc",
+    "href": "extens.asc",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/ascii/johnw/extens.asc",
+    "is_dir": false,
+    "size": "178 B",
+    "date": "24-May-2000 00:08"
+  },
+  {
+    "name": "forth.pal",
+    "href": "forth.pal",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/ascii/johnw/forth.pal",
+    "is_dir": false,
+    "size": "24.8 KiB",
+    "date": "24-May-2000 00:08"
+  },
+  {
+    "name": "memuse.pal",
+    "href": "memuse.pal",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/ascii/johnw/memuse.pal",
+    "is_dir": false,
+    "size": "1.4 KiB",
+    "date": "24-May-2000 00:08"
+  },
+  {
+    "name": "prdec.pal",
+    "href": "prdec.pal",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/ascii/johnw/prdec.pal",
+    "is_dir": false,
+    "size": "1.1 KiB",
+    "date": "24-May-2000 00:08"
+  },
+  {
+    "name": "proct.pal",
+    "href": "proct.pal",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/ascii/johnw/proct.pal",
+    "is_dir": false,
+    "size": "649 B",
+    "date": "24-May-2000 00:08"
+  },
+  {
+    "name": "pttype.pal",
+    "href": "pttype.pal",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/ascii/johnw/pttype.pal",
+    "is_dir": false,
+    "size": "1.4 KiB",
+    "date": "24-May-2000 00:09"
+  },
+  {
+    "name": "readkb.pal",
+    "href": "readkb.pal",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/ascii/johnw/readkb.pal",
+    "is_dir": false,
+    "size": "2.2 KiB",
+    "date": "24-May-2000 00:09"
+  },
+  {
+    "name": "rewind.pal",
+    "href": "rewind.pal",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/ascii/johnw/rewind.pal",
+    "is_dir": false,
+    "size": "760 B",
+    "date": "24-May-2000 00:09"
+  },
+  {
+    "name": "rim.pal",
+    "href": "rim.pal",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/ascii/johnw/rim.pal",
+    "is_dir": false,
+    "size": "339 B",
+    "date": "24-May-2000 00:09"
+  },
+  {
+    "name": "sid.dsk",
+    "href": "sid.dsk",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/ascii/johnw/sid.dsk",
+    "is_dir": false,
+    "size": "512.0 KiB",
+    "date": "24-May-2000 00:09"
+  },
+  {
+    "name": "ttyiot.asc",
+    "href": "ttyiot.asc",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/ascii/johnw/ttyiot.asc",
+    "is_dir": false,
+    "size": "101 B",
+    "date": "24-May-2000 00:09"
+  },
+  {
+    "name": "type.pal",
+    "href": "type.pal",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/ascii/johnw/type.pal",
+    "is_dir": false,
+    "size": "735 B",
+    "date": "24-May-2000 00:09"
+  },
+  {
+    "name": "type1.pal",
+    "href": "type1.pal",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/ascii/johnw/type1.pal",
+    "is_dir": false,
+    "size": "280 B",
+    "date": "24-May-2000 00:09"
+  },
+  {
+    "name": "typrim.pal",
+    "href": "typrim.pal",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/ascii/johnw/typrim.pal",
+    "is_dir": false,
+    "size": "1.2 KiB",
+    "date": "24-May-2000 00:09"
+  },
+  {
+    "name": "wowman.pal",
+    "href": "wowman.pal",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/ascii/johnw/wowman.pal",
+    "is_dir": false,
+    "size": "1021 B",
+    "date": "24-May-2000 00:09"
+  }
+]

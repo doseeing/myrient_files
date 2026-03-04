@@ -1,0 +1,2354 @@
+[
+  {
+    "name": "AGENDA.TEXT",
+    "href": "AGENDA.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/AGENDA.TEXT",
+    "is_dir": false,
+    "size": "2.0 KiB",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "ASMLIST.TEXT",
+    "href": "ASMLIST.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/ASMLIST.TEXT",
+    "is_dir": false,
+    "size": "42 B",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "ASMXREF",
+    "href": "ASMXREF",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/ASMXREF",
+    "is_dir": false,
+    "size": "15.0 KiB",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "ASMXREF.TEXT",
+    "href": "ASMXREF.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/ASMXREF.TEXT",
+    "is_dir": false,
+    "size": "28.2 KiB",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "BLD.CC.TEXT",
+    "href": "BLD.CC.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/BLD.CC.TEXT",
+    "is_dir": false,
+    "size": "238 B",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "BLD.CP.TEXT",
+    "href": "BLD.CP.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/BLD.CP.TEXT",
+    "is_dir": false,
+    "size": "264 B",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "BLD.UP.LST.TEXT",
+    "href": "BLD.UP.LST.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/BLD.UP.LST.TEXT",
+    "is_dir": false,
+    "size": "289 B",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "BLD.UP.TEXT",
+    "href": "BLD.UP.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/BLD.UP.TEXT",
+    "is_dir": false,
+    "size": "238 B",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "BLD.VN.TEXT",
+    "href": "BLD.VN.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/BLD.VN.TEXT",
+    "is_dir": false,
+    "size": "265 B",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "BLDACT",
+    "href": "BLDACT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/BLDACT",
+    "is_dir": false,
+    "size": "18.0 KiB",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "BLDACT.EQU.OBJ",
+    "href": "BLDACT.EQU.OBJ",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/BLDACT.EQU.OBJ",
+    "is_dir": false,
+    "size": "3.0 KiB",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "BLDACT.EQU.TEXT",
+    "href": "BLDACT.EQU.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/BLDACT.EQU.TEXT",
+    "is_dir": false,
+    "size": "1.3 KiB",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "BLDACT.TEXT",
+    "href": "BLDACT.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/BLDACT.TEXT",
+    "is_dir": false,
+    "size": "25.4 KiB",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "BLDALT",
+    "href": "BLDALT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/BLDALT",
+    "is_dir": false,
+    "size": "19.5 KiB",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "BLDALT.EQU.OBJ",
+    "href": "BLDALT.EQU.OBJ",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/BLDALT.EQU.OBJ",
+    "is_dir": false,
+    "size": "3.0 KiB",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "BLDALT.EQU.TEXT",
+    "href": "BLDALT.EQU.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/BLDALT.EQU.TEXT",
+    "is_dir": false,
+    "size": "1.5 KiB",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "BLDALT.OBJ",
+    "href": "BLDALT.OBJ",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/BLDALT.OBJ",
+    "is_dir": false,
+    "size": "14.5 KiB",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "BLDALT.TEXT",
+    "href": "BLDALT.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/BLDALT.TEXT",
+    "is_dir": false,
+    "size": "19.1 KiB",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "BLDTST",
+    "href": "BLDTST",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/BLDTST",
+    "is_dir": false,
+    "size": "4.0 KiB",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "BLDTST.TEXT",
+    "href": "BLDTST.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/BLDTST.TEXT",
+    "is_dir": false,
+    "size": "1.0 KiB",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "BOOT.CONCEPT2",
+    "href": "BOOT.CONCEPT2",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/BOOT.CONCEPT2",
+    "is_dir": false,
+    "size": "5.5 KiB",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "BOOTFILES.TEXT",
+    "href": "BOOTFILES.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/BOOTFILES.TEXT",
+    "is_dir": false,
+    "size": "8.8 KiB",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "BUGREPORT.TEXT",
+    "href": "BUGREPORT.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/BUGREPORT.TEXT",
+    "is_dir": false,
+    "size": "199 B",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "BUILDIMAGE.TEXT",
+    "href": "BUILDIMAGE.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/BUILDIMAGE.TEXT",
+    "is_dir": false,
+    "size": "12.6 KiB",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "C2.SCHED.TEXT",
+    "href": "C2.SCHED.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/C2.SCHED.TEXT",
+    "is_dir": false,
+    "size": "3.6 KiB",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "C2CHNG.DOC.TEXT",
+    "href": "C2CHNG.DOC.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/C2CHNG.DOC.TEXT",
+    "is_dir": false,
+    "size": "8.2 KiB",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "C2MEET.TEXT",
+    "href": "C2MEET.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/C2MEET.TEXT",
+    "is_dir": false,
+    "size": "914 B",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "C2MEET2.TEXT",
+    "href": "C2MEET2.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/C2MEET2.TEXT",
+    "is_dir": false,
+    "size": "3.9 KiB",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "C2RESCHED.TEXT",
+    "href": "C2RESCHED.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/C2RESCHED.TEXT",
+    "is_dir": false,
+    "size": "724 B",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "CC.BI.ASM.TEXT",
+    "href": "CC.BI.ASM.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/CC.BI.ASM.TEXT",
+    "is_dir": false,
+    "size": "896 B",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "CC.BLDIMGE.TEXT",
+    "href": "CC.BLDIMGE.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/CC.BLDIMGE.TEXT",
+    "is_dir": false,
+    "size": "18.3 KiB",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "CC.EXEC",
+    "href": "CC.EXEC",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/CC.EXEC",
+    "is_dir": false,
+    "size": "9.0 KiB",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "CC.EXEC.OBJ",
+    "href": "CC.EXEC.OBJ",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/CC.EXEC.OBJ",
+    "is_dir": false,
+    "size": "9.5 KiB",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "CC.EXEC.TEXT",
+    "href": "CC.EXEC.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/CC.EXEC.TEXT",
+    "is_dir": false,
+    "size": "17.4 KiB",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "CC.OTEST.TEXT",
+    "href": "CC.OTEST.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/CC.OTEST.TEXT",
+    "is_dir": false,
+    "size": "24.0 KiB",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "CC.PROM",
+    "href": "CC.PROM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/CC.PROM",
+    "is_dir": false,
+    "size": "9.0 KiB",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "CC.PROM.FB.TEXT",
+    "href": "CC.PROM.FB.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/CC.PROM.FB.TEXT",
+    "is_dir": false,
+    "size": "51.3 KiB",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "CC.PROM.FE.TEXT",
+    "href": "CC.PROM.FE.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/CC.PROM.FE.TEXT",
+    "is_dir": false,
+    "size": "16.1 KiB",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "CC.PROM.TEXT",
+    "href": "CC.PROM.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/CC.PROM.TEXT",
+    "is_dir": false,
+    "size": "242.8 KiB",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "CC.SETDCP",
+    "href": "CC.SETDCP",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/CC.SETDCP",
+    "is_dir": false,
+    "size": "26.5 KiB",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "CC.SETDCP.OBJ",
+    "href": "CC.SETDCP.OBJ",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/CC.SETDCP.OBJ",
+    "is_dir": false,
+    "size": "24.0 KiB",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "CC.SETDCP.TEXT",
+    "href": "CC.SETDCP.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/CC.SETDCP.TEXT",
+    "is_dir": false,
+    "size": "32.9 KiB",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "CCDCPIO.OBJ",
+    "href": "CCDCPIO.OBJ",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/CCDCPIO.OBJ",
+    "is_dir": false,
+    "size": "11.0 KiB",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "CCDCPIO.TEXT",
+    "href": "CCDCPIO.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/CCDCPIO.TEXT",
+    "is_dir": false,
+    "size": "11.5 KiB",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "CCDRVHDR.TEXT",
+    "href": "CCDRVHDR.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/CCDRVHDR.TEXT",
+    "is_dir": false,
+    "size": "4.5 KiB",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "CCOSINIT.TEXT",
+    "href": "CCOSINIT.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/CCOSINIT.TEXT",
+    "is_dir": false,
+    "size": "4.9 KiB",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "CCOTCIO.TEXT",
+    "href": "CCOTCIO.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/CCOTCIO.TEXT",
+    "is_dir": false,
+    "size": "30.8 KiB",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "CCOVIEW",
+    "href": "CCOVIEW",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/CCOVIEW",
+    "is_dir": false,
+    "size": "37.5 KiB",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "CF18.4CC.DATA",
+    "href": "CF18.4CC.DATA",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/CF18.4CC.DATA",
+    "is_dir": false,
+    "size": "20.5 KiB",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "CHKPRNTR.TEXT",
+    "href": "CHKPRNTR.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/CHKPRNTR.TEXT",
+    "is_dir": false,
+    "size": "10.6 KiB",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "CHKZERO",
+    "href": "CHKZERO",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/CHKZERO",
+    "is_dir": false,
+    "size": "3.5 KiB",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "CHKZERO.TEXT",
+    "href": "CHKZERO.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/CHKZERO.TEXT",
+    "is_dir": false,
+    "size": "1.6 KiB",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "CLOCK",
+    "href": "CLOCK",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/CLOCK",
+    "is_dir": false,
+    "size": "6.0 KiB",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "CLOCKTST.TEXT",
+    "href": "CLOCKTST.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/CLOCKTST.TEXT",
+    "is_dir": false,
+    "size": "4.4 KiB",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "CMDFL.TEXT",
+    "href": "CMDFL.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/CMDFL.TEXT",
+    "is_dir": false,
+    "size": "79 B",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "CONCEPT.BLOCKS",
+    "href": "CONCEPT.BLOCKS",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/CONCEPT.BLOCKS",
+    "is_dir": false,
+    "size": "2.5 KiB",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "CONST2.DOC.TEXT",
+    "href": "CONST2.DOC.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/CONST2.DOC.TEXT",
+    "is_dir": false,
+    "size": "7.4 KiB",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "COPYMASTER.TEXT",
+    "href": "COPYMASTER.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/COPYMASTER.TEXT",
+    "is_dir": false,
+    "size": "4.5 KiB",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "CSK.FAST",
+    "href": "CSK.FAST",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/CSK.FAST",
+    "is_dir": false,
+    "size": "1.5 KiB",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "CSK.FAST.TEXT",
+    "href": "CSK.FAST.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/CSK.FAST.TEXT",
+    "is_dir": false,
+    "size": "10.3 KiB",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "CTRLZ.TEXT",
+    "href": "CTRLZ.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/CTRLZ.TEXT",
+    "is_dir": false,
+    "size": "1 B",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "CURR.SP.TEXT",
+    "href": "CURR.SP.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/CURR.SP.TEXT",
+    "is_dir": false,
+    "size": "16.2 KiB",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "DC.DOC.TEXT",
+    "href": "DC.DOC.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/DC.DOC.TEXT",
+    "is_dir": false,
+    "size": "377 B",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "DCDSGN.TEXT",
+    "href": "DCDSGN.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/DCDSGN.TEXT",
+    "is_dir": false,
+    "size": "16.8 KiB",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "DCEVAL.TEXT",
+    "href": "DCEVAL.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/DCEVAL.TEXT",
+    "is_dir": false,
+    "size": "2.9 KiB",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "DCOM.EQU.TEXT",
+    "href": "DCOM.EQU.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/DCOM.EQU.TEXT",
+    "is_dir": false,
+    "size": "16.0 KiB",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "DCPCMDLINE.TEXT",
+    "href": "DCPCMDLINE.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/DCPCMDLINE.TEXT",
+    "is_dir": false,
+    "size": "4.5 KiB",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "DECISION.TEXT",
+    "href": "DECISION.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/DECISION.TEXT",
+    "is_dir": false,
+    "size": "16.7 KiB",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "DEMOBELL.TEXT",
+    "href": "DEMOBELL.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/DEMOBELL.TEXT",
+    "is_dir": false,
+    "size": "4.3 KiB",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "DEMOTIMER.TEXT",
+    "href": "DEMOTIMER.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/DEMOTIMER.TEXT",
+    "is_dir": false,
+    "size": "63 B",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "DEVTYP.TEXT",
+    "href": "DEVTYP.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/DEVTYP.TEXT",
+    "is_dir": false,
+    "size": "837 B",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "DIABLO.TEXT",
+    "href": "DIABLO.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/DIABLO.TEXT",
+    "is_dir": false,
+    "size": "69 B",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "DISKX.TEXT",
+    "href": "DISKX.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/DISKX.TEXT",
+    "is_dir": false,
+    "size": "1.9 KiB",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "DISKX1",
+    "href": "DISKX1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/DISKX1",
+    "is_dir": false,
+    "size": "3.5 KiB",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "DISKX1.TEXT",
+    "href": "DISKX1.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/DISKX1.TEXT",
+    "is_dir": false,
+    "size": "2.3 KiB",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "DONADA.OBJ",
+    "href": "DONADA.OBJ",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/DONADA.OBJ",
+    "is_dir": false,
+    "size": "1.0 KiB",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "DONADA.TEXT",
+    "href": "DONADA.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/DONADA.TEXT",
+    "is_dir": false,
+    "size": "1.2 KiB",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "DONTPANIC",
+    "href": "DONTPANIC",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/DONTPANIC",
+    "is_dir": false,
+    "size": "6.5 KiB",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "DONTPANIC.TEXT",
+    "href": "DONTPANIC.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/DONTPANIC.TEXT",
+    "is_dir": false,
+    "size": "771 B",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "DRV.CDISK1",
+    "href": "DRV.CDISK1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/DRV.CDISK1",
+    "is_dir": false,
+    "size": "2.5 KiB",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "DRV.CDISK1.TEXT",
+    "href": "DRV.CDISK1.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/DRV.CDISK1.TEXT",
+    "is_dir": false,
+    "size": "51.9 KiB",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "DRV.CDISK2",
+    "href": "DRV.CDISK2",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/DRV.CDISK2",
+    "is_dir": false,
+    "size": "2.5 KiB",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "DRV.CDISK2.TEXT",
+    "href": "DRV.CDISK2.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/DRV.CDISK2.TEXT",
+    "is_dir": false,
+    "size": "55.9 KiB",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "DRV.DTACOM",
+    "href": "DRV.DTACOM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/DRV.DTACOM",
+    "is_dir": false,
+    "size": "4.5 KiB",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "DRV.DTACOM.TEXT",
+    "href": "DRV.DTACOM.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/DRV.DTACOM.TEXT",
+    "is_dir": false,
+    "size": "87.7 KiB",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "DRV.EPRNT",
+    "href": "DRV.EPRNT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/DRV.EPRNT",
+    "is_dir": false,
+    "size": "3.0 KiB",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "DRV.EPRNT.TEXT",
+    "href": "DRV.EPRNT.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/DRV.EPRNT.TEXT",
+    "is_dir": false,
+    "size": "70.7 KiB",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "DRV.FLOP",
+    "href": "DRV.FLOP",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/DRV.FLOP",
+    "is_dir": false,
+    "size": "3.0 KiB",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "DRV.FLOP.TEXT",
+    "href": "DRV.FLOP.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/DRV.FLOP.TEXT",
+    "is_dir": false,
+    "size": "81.8 KiB",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "DRV.KYBD",
+    "href": "DRV.KYBD",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/DRV.KYBD",
+    "is_dir": false,
+    "size": "3.0 KiB",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "DRV.KYBD.TEXT",
+    "href": "DRV.KYBD.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/DRV.KYBD.TEXT",
+    "is_dir": false,
+    "size": "58.1 KiB",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "DRV.KYBDTM.TEXT",
+    "href": "DRV.KYBDTM.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/DRV.KYBDTM.TEXT",
+    "is_dir": false,
+    "size": "4.3 KiB",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "DRV.OMNI.TEXT",
+    "href": "DRV.OMNI.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/DRV.OMNI.TEXT",
+    "is_dir": false,
+    "size": "46.8 KiB",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "DRV.OMNINET",
+    "href": "DRV.OMNINET",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/DRV.OMNINET",
+    "is_dir": false,
+    "size": "2.0 KiB",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "DRV.SLTIO.TEXT",
+    "href": "DRV.SLTIO.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/DRV.SLTIO.TEXT",
+    "is_dir": false,
+    "size": "3.6 KiB",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "DRV.SPOOL",
+    "href": "DRV.SPOOL",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/DRV.SPOOL",
+    "is_dir": false,
+    "size": "2.5 KiB",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "DRV.SYSTRM",
+    "href": "DRV.SYSTRM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/DRV.SYSTRM",
+    "is_dir": false,
+    "size": "4.0 KiB",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "DRV.SYSTRM.TEXT",
+    "href": "DRV.SYSTRM.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/DRV.SYSTRM.TEXT",
+    "is_dir": false,
+    "size": "53.0 KiB",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "DRV.TIMER",
+    "href": "DRV.TIMER",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/DRV.TIMER",
+    "is_dir": false,
+    "size": "2.5 KiB",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "DRVLD.TEXT",
+    "href": "DRVLD.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/DRVLD.TEXT",
+    "is_dir": false,
+    "size": "65 B",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "DSKDRV.DOC.TEXT",
+    "href": "DSKDRV.DOC.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/DSKDRV.DOC.TEXT",
+    "is_dir": false,
+    "size": "7.3 KiB",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "DUPMASTER.TEXT",
+    "href": "DUPMASTER.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/DUPMASTER.TEXT",
+    "is_dir": false,
+    "size": "4.5 KiB",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "E80PM.ASM.TEXT",
+    "href": "E80PM.ASM.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/E80PM.ASM.TEXT",
+    "is_dir": false,
+    "size": "2.4 KiB",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "ECHO80PM.TEXT",
+    "href": "ECHO80PM.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/ECHO80PM.TEXT",
+    "is_dir": false,
+    "size": "18.0 KiB",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "ED.USERKEY.TEXT",
+    "href": "ED.USERKEY.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/ED.USERKEY.TEXT",
+    "is_dir": false,
+    "size": "402 B",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "EPTST",
+    "href": "EPTST",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/EPTST",
+    "is_dir": false,
+    "size": "5.0 KiB",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "EPTST.TEXT",
+    "href": "EPTST.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/EPTST.TEXT",
+    "is_dir": false,
+    "size": "4.5 KiB",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "EXCEPDSGN.TEXT",
+    "href": "EXCEPDSGN.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/EXCEPDSGN.TEXT",
+    "is_dir": false,
+    "size": "6.3 KiB",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "FC1.UPDATE.TEXT",
+    "href": "FC1.UPDATE.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/FC1.UPDATE.TEXT",
+    "is_dir": false,
+    "size": "346 B",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "FC2.UPDATE.TEXT",
+    "href": "FC2.UPDATE.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/FC2.UPDATE.TEXT",
+    "is_dir": false,
+    "size": "282 B",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "FDIAG.ASM.TEXT",
+    "href": "FDIAG.ASM.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/FDIAG.ASM.TEXT",
+    "is_dir": false,
+    "size": "14.7 KiB",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "FDIAG.PAS.TEXT",
+    "href": "FDIAG.PAS.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/FDIAG.PAS.TEXT",
+    "is_dir": false,
+    "size": "23.9 KiB",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "FG.UPDATE.TEXT",
+    "href": "FG.UPDATE.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/FG.UPDATE.TEXT",
+    "is_dir": false,
+    "size": "365 B",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "FI.UPDATE.TEXT",
+    "href": "FI.UPDATE.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/FI.UPDATE.TEXT",
+    "is_dir": false,
+    "size": "469 B",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "FILEDIR.TEXT",
+    "href": "FILEDIR.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/FILEDIR.TEXT",
+    "is_dir": false,
+    "size": "4.6 KiB",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "FILEHDR.TEXT",
+    "href": "FILEHDR.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/FILEHDR.TEXT",
+    "is_dir": false,
+    "size": "4.8 KiB",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "FIRSTC2.TEXT",
+    "href": "FIRSTC2.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/FIRSTC2.TEXT",
+    "is_dir": false,
+    "size": "3.9 KiB",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "FLOP.EQU.TEXT",
+    "href": "FLOP.EQU.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/FLOP.EQU.TEXT",
+    "is_dir": false,
+    "size": "16.0 KiB",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "FLOP.MAN.TEXT",
+    "href": "FLOP.MAN.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/FLOP.MAN.TEXT",
+    "is_dir": false,
+    "size": "11.7 KiB",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "FLOP48TPI.TEXT",
+    "href": "FLOP48TPI.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/FLOP48TPI.TEXT",
+    "is_dir": false,
+    "size": "1.6 KiB",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "FLOPE",
+    "href": "FLOPE",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/FLOPE",
+    "is_dir": false,
+    "size": "24.5 KiB",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "FLOPE.TEXT",
+    "href": "FLOPE.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/FLOPE.TEXT",
+    "is_dir": false,
+    "size": "45.5 KiB",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "FLPY.DOC.TEXT",
+    "href": "FLPY.DOC.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/FLPY.DOC.TEXT",
+    "is_dir": false,
+    "size": "3.1 KiB",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "FLPYSPEC.TEXT",
+    "href": "FLPYSPEC.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/FLPYSPEC.TEXT",
+    "is_dir": false,
+    "size": "2.2 KiB",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "FORMATTER.TEXT",
+    "href": "FORMATTER.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/FORMATTER.TEXT",
+    "is_dir": false,
+    "size": "6.6 KiB",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "FORMINIT",
+    "href": "FORMINIT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/FORMINIT",
+    "is_dir": false,
+    "size": "9.5 KiB",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "FORMINIT.TEXT",
+    "href": "FORMINIT.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/FORMINIT.TEXT",
+    "is_dir": false,
+    "size": "4.7 KiB",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "FRMT.ASM.TEXT",
+    "href": "FRMT.ASM.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/FRMT.ASM.TEXT",
+    "is_dir": false,
+    "size": "1.1 KiB",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "HJELP",
+    "href": "HJELP",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/HJELP",
+    "is_dir": false,
+    "size": "7.0 KiB",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "HJELP.TEXT",
+    "href": "HJELP.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/HJELP.TEXT",
+    "is_dir": false,
+    "size": "3.9 KiB",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "IECBUS2.TEXT",
+    "href": "IECBUS2.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/IECBUS2.TEXT",
+    "is_dir": false,
+    "size": "6.7 KiB",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "ILEAVE",
+    "href": "ILEAVE",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/ILEAVE",
+    "is_dir": false,
+    "size": "3.5 KiB",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "ILEAVE.TEXT",
+    "href": "ILEAVE.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/ILEAVE.TEXT",
+    "is_dir": false,
+    "size": "826 B",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "INCOMPAT.TEXT",
+    "href": "INCOMPAT.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/INCOMPAT.TEXT",
+    "is_dir": false,
+    "size": "1.4 KiB",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "INTERRUPTS.TEXT",
+    "href": "INTERRUPTS.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/INTERRUPTS.TEXT",
+    "is_dir": false,
+    "size": "4.4 KiB",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "JUNKKK",
+    "href": "JUNKKK",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/JUNKKK",
+    "is_dir": false,
+    "size": "2.0 KiB",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "JUNKKK.TEXT",
+    "href": "JUNKKK.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/JUNKKK.TEXT",
+    "is_dir": false,
+    "size": "165 B",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "KBRD.TBLS",
+    "href": "KBRD.TBLS",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/KBRD.TBLS",
+    "is_dir": false,
+    "size": "1.5 KiB",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "KBRD.TBLS.TEXT",
+    "href": "KBRD.TBLS.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/KBRD.TBLS.TEXT",
+    "is_dir": false,
+    "size": "5.7 KiB",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "KBRD.VR3.TEXT",
+    "href": "KBRD.VR3.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/KBRD.VR3.TEXT",
+    "is_dir": false,
+    "size": "53.4 KiB",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "KBRDCHRRV0.TEXT",
+    "href": "KBRDCHRRV0.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/KBRDCHRRV0.TEXT",
+    "is_dir": false,
+    "size": "6.6 KiB",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "KBRDCHRRV3.TEXT",
+    "href": "KBRDCHRRV3.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/KBRDCHRRV3.TEXT",
+    "is_dir": false,
+    "size": "6.7 KiB",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "KBRDDSGN.TEXT",
+    "href": "KBRDDSGN.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/KBRDDSGN.TEXT",
+    "is_dir": false,
+    "size": "36.5 KiB",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "KBRDSTAT.TEXT",
+    "href": "KBRDSTAT.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/KBRDSTAT.TEXT",
+    "is_dir": false,
+    "size": "1.4 KiB",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "KBRDTBLS.TEXT",
+    "href": "KBRDTBLS.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/KBRDTBLS.TEXT",
+    "is_dir": false,
+    "size": "12.5 KiB",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "KYBD.TEMP",
+    "href": "KYBD.TEMP",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/KYBD.TEMP",
+    "is_dir": false,
+    "size": "656 B",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "LABELDSGN.TEXT",
+    "href": "LABELDSGN.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/LABELDSGN.TEXT",
+    "is_dir": false,
+    "size": "27.7 KiB",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "LC.LST.TEXT",
+    "href": "LC.LST.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/LC.LST.TEXT",
+    "is_dir": false,
+    "size": "6.8 KiB",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "LDACTTBL.TEXT",
+    "href": "LDACTTBL.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/LDACTTBL.TEXT",
+    "is_dir": false,
+    "size": "5.7 KiB",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "LDNETPRNT",
+    "href": "LDNETPRNT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/LDNETPRNT",
+    "is_dir": false,
+    "size": "3.0 KiB",
+    "date": "03-Sep-2024 01:23"
+  },
+  {
+    "name": "LDNETPRNT.OBJ",
+    "href": "LDNETPRNT.OBJ",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/LDNETPRNT.OBJ",
+    "is_dir": false,
+    "size": "1.5 KiB",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "LDNETPRNT.TEXT",
+    "href": "LDNETPRNT.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/LDNETPRNT.TEXT",
+    "is_dir": false,
+    "size": "1.4 KiB",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "LDPRTALT.TEXT",
+    "href": "LDPRTALT.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/LDPRTALT.TEXT",
+    "is_dir": false,
+    "size": "5.4 KiB",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "LETTER.TEXT",
+    "href": "LETTER.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/LETTER.TEXT",
+    "is_dir": false,
+    "size": "1.1 KiB",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "LINKT.TEXT",
+    "href": "LINKT.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/LINKT.TEXT",
+    "is_dir": false,
+    "size": "39 B",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "LNKMAP.TEXT",
+    "href": "LNKMAP.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/LNKMAP.TEXT",
+    "is_dir": false,
+    "size": "6.8 KiB",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "LOADSPOOLER",
+    "href": "LOADSPOOLER",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/LOADSPOOLER",
+    "is_dir": false,
+    "size": "3.0 KiB",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "LTR.MCS.TEXT",
+    "href": "LTR.MCS.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/LTR.MCS.TEXT",
+    "is_dir": false,
+    "size": "3.6 KiB",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "M.COPY.TEXT",
+    "href": "M.COPY.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/M.COPY.TEXT",
+    "is_dir": false,
+    "size": "492 B",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "MBUG.CCPT.TEXT",
+    "href": "MBUG.CCPT.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/MBUG.CCPT.TEXT",
+    "is_dir": false,
+    "size": "108.1 KiB",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "MBUG.NEW.PROM",
+    "href": "MBUG.NEW.PROM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/MBUG.NEW.PROM",
+    "is_dir": false,
+    "size": "8.5 KiB",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "MBUG.PROM1.TEXT",
+    "href": "MBUG.PROM1.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/MBUG.PROM1.TEXT",
+    "is_dir": false,
+    "size": "63.4 KiB",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "MBUG.PROM2.TEXT",
+    "href": "MBUG.PROM2.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/MBUG.PROM2.TEXT",
+    "is_dir": false,
+    "size": "50.1 KiB",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "MN.ASMXREF.TEXT",
+    "href": "MN.ASMXREF.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/MN.ASMXREF.TEXT",
+    "is_dir": false,
+    "size": "2.9 KiB",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "MODS.0.7.TEXT",
+    "href": "MODS.0.7.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/MODS.0.7.TEXT",
+    "is_dir": false,
+    "size": "1016 B",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "MODS.1.0.TEXT",
+    "href": "MODS.1.0.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/MODS.1.0.TEXT",
+    "is_dir": false,
+    "size": "818 B",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "MOVEBOOT",
+    "href": "MOVEBOOT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/MOVEBOOT",
+    "is_dir": false,
+    "size": "3.0 KiB",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "MOVEBOOT.TEXT",
+    "href": "MOVEBOOT.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/MOVEBOOT.TEXT",
+    "is_dir": false,
+    "size": "960 B",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "MS.LINKCHK.TEXT",
+    "href": "MS.LINKCHK.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/MS.LINKCHK.TEXT",
+    "is_dir": false,
+    "size": "2.2 KiB",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "MSDOS.DOC.TEXT",
+    "href": "MSDOS.DOC.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/MSDOS.DOC.TEXT",
+    "is_dir": false,
+    "size": "54.7 KiB",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "MV11.OBJ",
+    "href": "MV11.OBJ",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/MV11.OBJ",
+    "is_dir": false,
+    "size": "1.0 KiB",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "MV11.TEXT",
+    "href": "MV11.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/MV11.TEXT",
+    "is_dir": false,
+    "size": "97 B",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "NDRV.SPOOL.OBJ",
+    "href": "NDRV.SPOOL.OBJ",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/NDRV.SPOOL.OBJ",
+    "is_dir": false,
+    "size": "2.5 KiB",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "NDRV.SPOOL.TEXT",
+    "href": "NDRV.SPOOL.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/NDRV.SPOOL.TEXT",
+    "is_dir": false,
+    "size": "24.5 KiB",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "NET.OUT.TEXT",
+    "href": "NET.OUT.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/NET.OUT.TEXT",
+    "is_dir": false,
+    "size": "27.3 KiB",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "NETGLOBALS.TEXT",
+    "href": "NETGLOBALS.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/NETGLOBALS.TEXT",
+    "is_dir": false,
+    "size": "5.6 KiB",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "NEWBUFF.TEXT",
+    "href": "NEWBUFF.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/NEWBUFF.TEXT",
+    "is_dir": false,
+    "size": "3.6 KiB",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "NEWDRVCMD.TEXT",
+    "href": "NEWDRVCMD.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/NEWDRVCMD.TEXT",
+    "is_dir": false,
+    "size": "3.0 KiB",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "NEWDRVINT.TEXT",
+    "href": "NEWDRVINT.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/NEWDRVINT.TEXT",
+    "is_dir": false,
+    "size": "2.1 KiB",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "OCS.TEXT",
+    "href": "OCS.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/OCS.TEXT",
+    "is_dir": false,
+    "size": "14.2 KiB",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "OCSFILE.TEXT",
+    "href": "OCSFILE.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/OCSFILE.TEXT",
+    "is_dir": false,
+    "size": "5.1 KiB",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "OCSLIB.OBJ",
+    "href": "OCSLIB.OBJ",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/OCSLIB.OBJ",
+    "is_dir": false,
+    "size": "20.0 KiB",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "OD",
+    "href": "OD",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/OD",
+    "is_dir": false,
+    "size": "32.5 KiB",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "OD.DOC.TEXT",
+    "href": "OD.DOC.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/OD.DOC.TEXT",
+    "is_dir": false,
+    "size": "5.0 KiB",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "OD.MAIN.TEXT",
+    "href": "OD.MAIN.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/OD.MAIN.TEXT",
+    "is_dir": false,
+    "size": "26.7 KiB",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "OD.SCREEN.TEXT",
+    "href": "OD.SCREEN.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/OD.SCREEN.TEXT",
+    "is_dir": false,
+    "size": "9.8 KiB",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "OD.UTILS.TEXT",
+    "href": "OD.UTILS.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/OD.UTILS.TEXT",
+    "is_dir": false,
+    "size": "9.3 KiB",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "OD1",
+    "href": "OD1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/OD1",
+    "is_dir": false,
+    "size": "33.0 KiB",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "ODMAKE.TEXT",
+    "href": "ODMAKE.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/ODMAKE.TEXT",
+    "is_dir": false,
+    "size": "82 B",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "ODWIN.TEXT",
+    "href": "ODWIN.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/ODWIN.TEXT",
+    "is_dir": false,
+    "size": "95 B",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "OLD.PROM.TEXT",
+    "href": "OLD.PROM.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/OLD.PROM.TEXT",
+    "is_dir": false,
+    "size": "41.8 KiB",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "OLDVT",
+    "href": "OLDVT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/OLDVT",
+    "is_dir": false,
+    "size": "16.0 KiB",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "ONE.TEXT",
+    "href": "ONE.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/ONE.TEXT",
+    "is_dir": false,
+    "size": "3.0 KiB",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "OUTKTBLS.TEXT",
+    "href": "OUTKTBLS.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/OUTKTBLS.TEXT",
+    "is_dir": false,
+    "size": "7.3 KiB",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "P.PROM.DS.TEXT",
+    "href": "P.PROM.DS.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/P.PROM.DS.TEXT",
+    "is_dir": false,
+    "size": "27.1 KiB",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "P.PROM.EQ.TEXT",
+    "href": "P.PROM.EQ.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/P.PROM.EQ.TEXT",
+    "is_dir": false,
+    "size": "15.1 KiB",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "P.PROM.FB.TEXT",
+    "href": "P.PROM.FB.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/P.PROM.FB.TEXT",
+    "is_dir": false,
+    "size": "51.3 KiB",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "P.PROM.FD.TEXT",
+    "href": "P.PROM.FD.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/P.PROM.FD.TEXT",
+    "is_dir": false,
+    "size": "38.2 KiB",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "P.PROM.FE.TEXT",
+    "href": "P.PROM.FE.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/P.PROM.FE.TEXT",
+    "is_dir": false,
+    "size": "16.1 KiB",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "P.PROM.KB.TEXT",
+    "href": "P.PROM.KB.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/P.PROM.KB.TEXT",
+    "is_dir": false,
+    "size": "13.9 KiB",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "P.PROM.LD.TEXT",
+    "href": "P.PROM.LD.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/P.PROM.LD.TEXT",
+    "is_dir": false,
+    "size": "11.4 KiB",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "P.PROM.OD.TEXT",
+    "href": "P.PROM.OD.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/P.PROM.OD.TEXT",
+    "is_dir": false,
+    "size": "35.1 KiB",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "P.PROM.SP.TEXT",
+    "href": "P.PROM.SP.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/P.PROM.SP.TEXT",
+    "is_dir": false,
+    "size": "16.8 KiB",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "P.PROM.TEXT",
+    "href": "P.PROM.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/P.PROM.TEXT",
+    "is_dir": false,
+    "size": "43.5 KiB",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "PALT.TEST",
+    "href": "PALT.TEST",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/PALT.TEST",
+    "is_dir": false,
+    "size": "1.5 KiB",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "PARM.TEXT",
+    "href": "PARM.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/PARM.TEXT",
+    "is_dir": false,
+    "size": "118 B",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "PAT.DIABLO15",
+    "href": "PAT.DIABLO15",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/PAT.DIABLO15",
+    "is_dir": false,
+    "size": "656 B",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "PAT.DIABLO630",
+    "href": "PAT.DIABLO630",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/PAT.DIABLO630",
+    "is_dir": false,
+    "size": "656 B",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "PAT.NOENHANCE",
+    "href": "PAT.NOENHANCE",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/PAT.NOENHANCE",
+    "is_dir": false,
+    "size": "656 B",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "PD.DOC.TEXT",
+    "href": "PD.DOC.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/PD.DOC.TEXT",
+    "is_dir": false,
+    "size": "5.7 KiB",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "PEEK.TEXT",
+    "href": "PEEK.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/PEEK.TEXT",
+    "is_dir": false,
+    "size": "551 B",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "PIPES",
+    "href": "PIPES",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/PIPES",
+    "is_dir": false,
+    "size": "5.0 KiB",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "PIPES.DOC.TEXT",
+    "href": "PIPES.DOC.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/PIPES.DOC.TEXT",
+    "is_dir": false,
+    "size": "3.1 KiB",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "PIPES.OBJ",
+    "href": "PIPES.OBJ",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/PIPES.OBJ",
+    "is_dir": false,
+    "size": "5.5 KiB",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "PIPES.TEXT",
+    "href": "PIPES.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/PIPES.TEXT",
+    "is_dir": false,
+    "size": "4.7 KiB",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "PMGRASM.TEXT",
+    "href": "PMGRASM.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/PMGRASM.TEXT",
+    "is_dir": false,
+    "size": "4.5 KiB",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "PMGRUNIT.TEXT",
+    "href": "PMGRUNIT.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/PMGRUNIT.TEXT",
+    "is_dir": false,
+    "size": "1.1 KiB",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "PRIME.TEXT",
+    "href": "PRIME.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/PRIME.TEXT",
+    "is_dir": false,
+    "size": "182 B",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "PRNT.DOC.TEXT",
+    "href": "PRNT.DOC.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/PRNT.DOC.TEXT",
+    "is_dir": false,
+    "size": "23.8 KiB",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "PRNT.DRV",
+    "href": "PRNT.DRV",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/PRNT.DRV",
+    "is_dir": false,
+    "size": "2.0 KiB",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "PRNT.DRV.TEXT",
+    "href": "PRNT.DRV.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/PRNT.DRV.TEXT",
+    "is_dir": false,
+    "size": "39.1 KiB",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "PRNTDSGN.TEXT",
+    "href": "PRNTDSGN.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/PRNTDSGN.TEXT",
+    "is_dir": false,
+    "size": "7.7 KiB",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "PROMTST",
+    "href": "PROMTST",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/PROMTST",
+    "is_dir": false,
+    "size": "2.0 KiB",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "PROMTST.TEXT",
+    "href": "PROMTST.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/PROMTST.TEXT",
+    "is_dir": false,
+    "size": "318 B",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "PRTCLDSP.TEXT",
+    "href": "PRTCLDSP.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/PRTCLDSP.TEXT",
+    "is_dir": false,
+    "size": "13.9 KiB",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "PRTDSPASM.TEXT",
+    "href": "PRTDSPASM.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/PRTDSPASM.TEXT",
+    "is_dir": false,
+    "size": "3.9 KiB",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "PTP.DOC.TEXT",
+    "href": "PTP.DOC.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/PTP.DOC.TEXT",
+    "is_dir": false,
+    "size": "48.8 KiB",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "PTP.MEMO.TEXT",
+    "href": "PTP.MEMO.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/PTP.MEMO.TEXT",
+    "is_dir": false,
+    "size": "1.2 KiB",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "RANDOM.TEXT",
+    "href": "RANDOM.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/RANDOM.TEXT",
+    "is_dir": false,
+    "size": "760 B",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "READKBRD",
+    "href": "READKBRD",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/READKBRD",
+    "is_dir": false,
+    "size": "2.5 KiB",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "READKBRD.TEXT",
+    "href": "READKBRD.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/READKBRD.TEXT",
+    "is_dir": false,
+    "size": "1.8 KiB",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "S.TEXT",
+    "href": "S.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/S.TEXT",
+    "is_dir": false,
+    "size": "275 B",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "SBOOT.40.1.TEXT",
+    "href": "SBOOT.40.1.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/SBOOT.40.1.TEXT",
+    "is_dir": false,
+    "size": "10.3 KiB",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "SBOOT.40.2.TEXT",
+    "href": "SBOOT.40.2.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/SBOOT.40.2.TEXT",
+    "is_dir": false,
+    "size": "17.0 KiB",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "SBOOT.40.3.TEXT",
+    "href": "SBOOT.40.3.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/SBOOT.40.3.TEXT",
+    "is_dir": false,
+    "size": "44.7 KiB",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "SBOOT.40.4.TEXT",
+    "href": "SBOOT.40.4.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/SBOOT.40.4.TEXT",
+    "is_dir": false,
+    "size": "20.9 KiB",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "SBOOT.40.OBJ",
+    "href": "SBOOT.40.OBJ",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/SBOOT.40.OBJ",
+    "is_dir": false,
+    "size": "5.5 KiB",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "SBOOT.40.TEXT",
+    "href": "SBOOT.40.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/SBOOT.40.TEXT",
+    "is_dir": false,
+    "size": "17.5 KiB",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "SCHEDULE.TEXT",
+    "href": "SCHEDULE.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/SCHEDULE.TEXT",
+    "is_dir": false,
+    "size": "4.6 KiB",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "SETKBRD.TEXT",
+    "href": "SETKBRD.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/SETKBRD.TEXT",
+    "is_dir": false,
+    "size": "98 B",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "SETSR",
+    "href": "SETSR",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/SETSR",
+    "is_dir": false,
+    "size": "3.0 KiB",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "SIMPLEKBRD.TEXT",
+    "href": "SIMPLEKBRD.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/SIMPLEKBRD.TEXT",
+    "is_dir": false,
+    "size": "5.7 KiB",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "SPC2000.TEXT",
+    "href": "SPC2000.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/SPC2000.TEXT",
+    "is_dir": false,
+    "size": "17 B",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "SPLDRV.DOC.TEXT",
+    "href": "SPLDRV.DOC.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/SPLDRV.DOC.TEXT",
+    "is_dir": false,
+    "size": "5.6 KiB",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "STARTUP.TEXT",
+    "href": "STARTUP.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/STARTUP.TEXT",
+    "is_dir": false,
+    "size": "80 B",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "STATREPORT.TEXT",
+    "href": "STATREPORT.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/STATREPORT.TEXT",
+    "is_dir": false,
+    "size": "4.9 KiB",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "SUPER",
+    "href": "SUPER",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/SUPER",
+    "is_dir": false,
+    "size": "96.0 KiB",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "TERMINAL",
+    "href": "TERMINAL",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/TERMINAL",
+    "is_dir": false,
+    "size": "21.0 KiB",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "TERMINAL.TEXT",
+    "href": "TERMINAL.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/TERMINAL.TEXT",
+    "is_dir": false,
+    "size": "15.0 KiB",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "TESTBOOT",
+    "href": "TESTBOOT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/TESTBOOT",
+    "is_dir": false,
+    "size": "3.5 KiB",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "TESTBOOT.TEXT",
+    "href": "TESTBOOT.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/TESTBOOT.TEXT",
+    "is_dir": false,
+    "size": "3.3 KiB",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "TESTP",
+    "href": "TESTP",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/TESTP",
+    "is_dir": false,
+    "size": "2.0 KiB",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "TESTP.TEXT",
+    "href": "TESTP.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/TESTP.TEXT",
+    "is_dir": false,
+    "size": "309 B",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "TIMER.CLK.TEXT",
+    "href": "TIMER.CLK.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/TIMER.CLK.TEXT",
+    "is_dir": false,
+    "size": "23.4 KiB",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "TIMER.DOC.TEXT",
+    "href": "TIMER.DOC.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/TIMER.DOC.TEXT",
+    "is_dir": false,
+    "size": "10.5 KiB",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "TIMER.DRV.TEXT",
+    "href": "TIMER.DRV.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/TIMER.DRV.TEXT",
+    "is_dir": false,
+    "size": "26.8 KiB",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "TIMER1",
+    "href": "TIMER1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/TIMER1",
+    "is_dir": false,
+    "size": "5.5 KiB",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "TIMER1.TEXT",
+    "href": "TIMER1.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/TIMER1.TEXT",
+    "is_dir": false,
+    "size": "5.2 KiB",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "TIMER2",
+    "href": "TIMER2",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/TIMER2",
+    "is_dir": false,
+    "size": "5.5 KiB",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "TIMER2.TEXT",
+    "href": "TIMER2.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/TIMER2.TEXT",
+    "is_dir": false,
+    "size": "5.2 KiB",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "TIMERDSGN.TEXT",
+    "href": "TIMERDSGN.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/TIMERDSGN.TEXT",
+    "is_dir": false,
+    "size": "20.6 KiB",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "TIMERRTNS",
+    "href": "TIMERRTNS",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/TIMERRTNS",
+    "is_dir": false,
+    "size": "3.0 KiB",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "TIMERRTNS.TEXT",
+    "href": "TIMERRTNS.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/TIMERRTNS.TEXT",
+    "is_dir": false,
+    "size": "3.0 KiB",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "TMPFL.TEXT",
+    "href": "TMPFL.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/TMPFL.TEXT",
+    "is_dir": false,
+    "size": "122 B",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "TRANPDOC.TEXT",
+    "href": "TRANPDOC.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/TRANPDOC.TEXT",
+    "is_dir": false,
+    "size": "13.7 KiB",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "TRANPDSGN.TEXT",
+    "href": "TRANPDSGN.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/TRANPDSGN.TEXT",
+    "is_dir": false,
+    "size": "7.9 KiB",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "TRAP",
+    "href": "TRAP",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/TRAP",
+    "is_dir": false,
+    "size": "1.5 KiB",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "TRAP.TEXT",
+    "href": "TRAP.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/TRAP.TEXT",
+    "is_dir": false,
+    "size": "307 B",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "TRMNL.DOC.TEXT",
+    "href": "TRMNL.DOC.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/TRMNL.DOC.TEXT",
+    "is_dir": false,
+    "size": "4.2 KiB",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "TST.CC",
+    "href": "TST.CC",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/TST.CC",
+    "is_dir": false,
+    "size": "9.0 KiB",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "TSTTR",
+    "href": "TSTTR",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/TSTTR",
+    "is_dir": false,
+    "size": "2.0 KiB",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "TTY.TEXT",
+    "href": "TTY.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/TTY.TEXT",
+    "is_dir": false,
+    "size": "1.2 KiB",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "TTY2",
+    "href": "TTY2",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/TTY2",
+    "is_dir": false,
+    "size": "5.5 KiB",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "TTY2.TEXT",
+    "href": "TTY2.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/TTY2.TEXT",
+    "is_dir": false,
+    "size": "20.9 KiB",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "TURNOFF.TEXT",
+    "href": "TURNOFF.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/TURNOFF.TEXT",
+    "is_dir": false,
+    "size": "3.5 KiB",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "UNITST.TEXT",
+    "href": "UNITST.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/UNITST.TEXT",
+    "is_dir": false,
+    "size": "1.3 KiB",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "UP.CCOS.TEXT",
+    "href": "UP.CCOS.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/UP.CCOS.TEXT",
+    "is_dir": false,
+    "size": "690 B",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "UP.PROM",
+    "href": "UP.PROM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/UP.PROM",
+    "is_dir": false,
+    "size": "8.0 KiB",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "UP.PROM.TEXT",
+    "href": "UP.PROM.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/UP.PROM.TEXT",
+    "is_dir": false,
+    "size": "214.4 KiB",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "USERKEYS.TEXT",
+    "href": "USERKEYS.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/USERKEYS.TEXT",
+    "is_dir": false,
+    "size": "1.0 KiB",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "USTAT",
+    "href": "USTAT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/USTAT",
+    "is_dir": false,
+    "size": "3.0 KiB",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "USTAT.OBJ",
+    "href": "USTAT.OBJ",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/USTAT.OBJ",
+    "is_dir": false,
+    "size": "2.0 KiB",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "USTAT.TEXT",
+    "href": "USTAT.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/USTAT.TEXT",
+    "is_dir": false,
+    "size": "1.3 KiB",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "VEC6",
+    "href": "VEC6",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/VEC6",
+    "is_dir": false,
+    "size": "1.5 KiB",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "VEC6.TEXT",
+    "href": "VEC6.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/VEC6.TEXT",
+    "is_dir": false,
+    "size": "229 B",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "VOLLCK.DC2.TEXT",
+    "href": "VOLLCK.DC2.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/VOLLCK.DC2.TEXT",
+    "is_dir": false,
+    "size": "3.1 KiB",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "VOLLCK.DC3.TEXT",
+    "href": "VOLLCK.DC3.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/VOLLCK.DC3.TEXT",
+    "is_dir": false,
+    "size": "4.2 KiB",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "VOLLCK.DOC.TEXT",
+    "href": "VOLLCK.DOC.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/VOLLCK.DOC.TEXT",
+    "is_dir": false,
+    "size": "3.2 KiB",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "VRS3KBRD",
+    "href": "VRS3KBRD",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/VRS3KBRD",
+    "is_dir": false,
+    "size": "1.5 KiB",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "VRS3KBRD.TEXT",
+    "href": "VRS3KBRD.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/VRS3KBRD.TEXT",
+    "is_dir": false,
+    "size": "5.6 KiB",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "W",
+    "href": "W",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/W",
+    "is_dir": false,
+    "size": "137.5 KiB",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "XTRAPROM.TEXT",
+    "href": "XTRAPROM.TEXT",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/XTRAPROM.TEXT",
+    "is_dir": false,
+    "size": "1.8 KiB",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "XYZ.PAL",
+    "href": "XYZ.PAL",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/XYZ.PAL",
+    "is_dir": false,
+    "size": "2.5 KiB",
+    "date": "03-Sep-2024 01:24"
+  },
+  {
+    "name": "ZED",
+    "href": "ZED",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Corvus/Concept/Floppies_5inch/SOURCES/text/ZED",
+    "is_dir": false,
+    "size": "48.5 KiB",
+    "date": "03-Sep-2024 01:24"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "name": "CKSUMS",
+    "href": "CKSUMS",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2.1/mac68k/binary/CKSUMS",
+    "is_dir": false,
+    "size": "211 B",
+    "date": "20-Mar-1997 23:17"
+  },
+  {
+    "name": "base121",
+    "href": "base121",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2.1/mac68k/binary/base121",
+    "is_dir": false,
+    "size": "7.2 MiB",
+    "date": "17-Mar-1997 22:32"
+  },
+  {
+    "name": "comp121",
+    "href": "comp121",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2.1/mac68k/binary/comp121",
+    "is_dir": false,
+    "size": "5.1 MiB",
+    "date": "17-Mar-1997 23:03"
+  },
+  {
+    "name": "etc121",
+    "href": "etc121",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2.1/mac68k/binary/etc121",
+    "is_dir": false,
+    "size": "67.6 KiB",
+    "date": "17-Mar-1997 23:03"
+  },
+  {
+    "name": "games121",
+    "href": "games121",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2.1/mac68k/binary/games121",
+    "is_dir": false,
+    "size": "2.7 MiB",
+    "date": "17-Mar-1997 23:19"
+  },
+  {
+    "name": "man121",
+    "href": "man121",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2.1/mac68k/binary/man121",
+    "is_dir": false,
+    "size": "873.3 KiB",
+    "date": "17-Mar-1997 23:24"
+  },
+  {
+    "name": "misc121",
+    "href": "misc121",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2.1/mac68k/binary/misc121",
+    "is_dir": false,
+    "size": "1.8 MiB",
+    "date": "17-Mar-1997 23:35"
+  },
+  {
+    "name": "netbsd121",
+    "href": "netbsd121",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2.1/mac68k/binary/netbsd121",
+    "is_dir": false,
+    "size": "437.7 KiB",
+    "date": "18-Mar-1997 04:28"
+  },
+  {
+    "name": "text121",
+    "href": "text121",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2.1/mac68k/binary/text121",
+    "is_dir": false,
+    "size": "760.9 KiB",
+    "date": "17-Mar-1997 23:42"
+  }
+]

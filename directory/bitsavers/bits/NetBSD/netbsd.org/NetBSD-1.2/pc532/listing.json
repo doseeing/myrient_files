@@ -1,0 +1,98 @@
+[
+  {
+    "name": "CKSUM",
+    "href": "CKSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/pc532/CKSUM",
+    "is_dir": false,
+    "size": "310 B",
+    "date": "25-Sep-1996 17:55"
+  },
+  {
+    "name": "INSTALL",
+    "href": "INSTALL",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/pc532/INSTALL",
+    "is_dir": false,
+    "size": "39.6 KiB",
+    "date": "30-Sep-1996 23:08"
+  },
+  {
+    "name": "base.tar.gz",
+    "href": "base.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/pc532/base.tar.gz",
+    "is_dir": false,
+    "size": "7.4 MiB",
+    "date": "25-Sep-1996 17:55"
+  },
+  {
+    "name": "comp.tar.gz",
+    "href": "comp.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/pc532/comp.tar.gz",
+    "is_dir": false,
+    "size": "5.1 MiB",
+    "date": "25-Sep-1996 17:55"
+  },
+  {
+    "name": "download.c.gz",
+    "href": "download.c.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/pc532/download.c.gz",
+    "is_dir": false,
+    "size": "5.0 KiB",
+    "date": "25-Sep-1996 17:55"
+  },
+  {
+    "name": "etc.tar.gz",
+    "href": "etc.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/pc532/etc.tar.gz",
+    "is_dir": false,
+    "size": "66.9 KiB",
+    "date": "25-Sep-1996 17:55"
+  },
+  {
+    "name": "games.tar.gz",
+    "href": "games.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/pc532/games.tar.gz",
+    "is_dir": false,
+    "size": "2.7 MiB",
+    "date": "25-Sep-1996 17:55"
+  },
+  {
+    "name": "inst-12.fs.gz",
+    "href": "inst-12.fs.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/pc532/inst-12.fs.gz",
+    "is_dir": false,
+    "size": "1.3 MiB",
+    "date": "25-Sep-1996 17:55"
+  },
+  {
+    "name": "man.tar.gz",
+    "href": "man.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/pc532/man.tar.gz",
+    "is_dir": false,
+    "size": "871.6 KiB",
+    "date": "25-Sep-1996 17:55"
+  },
+  {
+    "name": "misc.tar.gz",
+    "href": "misc.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/pc532/misc.tar.gz",
+    "is_dir": false,
+    "size": "1.8 MiB",
+    "date": "25-Sep-1996 17:55"
+  },
+  {
+    "name": "netbsd.default.gz",
+    "href": "netbsd.default.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/pc532/netbsd.default.gz",
+    "is_dir": false,
+    "size": "343.4 KiB",
+    "date": "25-Sep-1996 17:55"
+  },
+  {
+    "name": "text.tar.gz",
+    "href": "text.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/pc532/text.tar.gz",
+    "is_dir": false,
+    "size": "775.4 KiB",
+    "date": "25-Sep-1996 17:55"
+  }
+]

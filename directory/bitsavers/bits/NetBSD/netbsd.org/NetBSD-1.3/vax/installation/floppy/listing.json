@@ -1,0 +1,114 @@
+[
+  {
+    "name": "BSDSUM",
+    "href": "BSDSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/vax/installation/floppy/BSDSUM",
+    "is_dir": false,
+    "size": "265 B",
+    "date": "16-Jan-1998 18:59"
+  },
+  {
+    "name": "CKSUM",
+    "href": "CKSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/vax/installation/floppy/CKSUM",
+    "is_dir": false,
+    "size": "335 B",
+    "date": "16-Jan-1998 18:59"
+  },
+  {
+    "name": "MD5",
+    "href": "MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/vax/installation/floppy/MD5",
+    "is_dir": false,
+    "size": "566 B",
+    "date": "16-Jan-1998 18:59"
+  },
+  {
+    "name": "SYSVSUM",
+    "href": "SYSVSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/vax/installation/floppy/SYSVSUM",
+    "is_dir": false,
+    "size": "256 B",
+    "date": "16-Jan-1998 18:59"
+  },
+  {
+    "name": "rx33-bootdisk-13A",
+    "href": "rx33-bootdisk-13A",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/vax/installation/floppy/rx33-bootdisk-13A",
+    "is_dir": false,
+    "size": "256.0 KiB",
+    "date": "16-Jan-1998 18:53"
+  },
+  {
+    "name": "rx33-copy1-13A",
+    "href": "rx33-copy1-13A",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/vax/installation/floppy/rx33-copy1-13A",
+    "is_dir": false,
+    "size": "1.2 MiB",
+    "date": "16-Jan-1998 18:55"
+  },
+  {
+    "name": "rx33-copy2-13A",
+    "href": "rx33-copy2-13A",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/vax/installation/floppy/rx33-copy2-13A",
+    "is_dir": false,
+    "size": "848.0 KiB",
+    "date": "16-Jan-1998 18:56"
+  },
+  {
+    "name": "rx50-bootdisk-13A",
+    "href": "rx50-bootdisk-13A",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/vax/installation/floppy/rx50-bootdisk-13A",
+    "is_dir": false,
+    "size": "256.0 KiB",
+    "date": "16-Jan-1998 18:55"
+  },
+  {
+    "name": "rx50-copy1-13A",
+    "href": "rx50-copy1-13A",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/vax/installation/floppy/rx50-copy1-13A",
+    "is_dir": false,
+    "size": "400.0 KiB",
+    "date": "16-Jan-1998 18:55"
+  },
+  {
+    "name": "rx50-copy2-13A",
+    "href": "rx50-copy2-13A",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/vax/installation/floppy/rx50-copy2-13A",
+    "is_dir": false,
+    "size": "400.0 KiB",
+    "date": "16-Jan-1998 18:56"
+  },
+  {
+    "name": "rx50-copy3-13A",
+    "href": "rx50-copy3-13A",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/vax/installation/floppy/rx50-copy3-13A",
+    "is_dir": false,
+    "size": "400.0 KiB",
+    "date": "16-Jan-1998 18:56"
+  },
+  {
+    "name": "rx50-copy4-13A",
+    "href": "rx50-copy4-13A",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/vax/installation/floppy/rx50-copy4-13A",
+    "is_dir": false,
+    "size": "400.0 KiB",
+    "date": "16-Jan-1998 18:57"
+  },
+  {
+    "name": "rx50-copy5-13A",
+    "href": "rx50-copy5-13A",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/vax/installation/floppy/rx50-copy5-13A",
+    "is_dir": false,
+    "size": "400.0 KiB",
+    "date": "16-Jan-1998 18:57"
+  },
+  {
+    "name": "rx50-copy6-13A",
+    "href": "rx50-copy6-13A",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/vax/installation/floppy/rx50-copy6-13A",
+    "is_dir": false,
+    "size": "48.0 KiB",
+    "date": "16-Jan-1998 18:57"
+  }
+]

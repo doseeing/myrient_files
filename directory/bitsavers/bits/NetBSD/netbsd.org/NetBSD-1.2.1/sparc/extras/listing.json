@@ -1,0 +1,58 @@
+[
+  {
+    "name": "README",
+    "href": "README",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2.1/sparc/extras/README",
+    "is_dir": false,
+    "size": "665 B",
+    "date": "08-Apr-1997 21:28"
+  },
+  {
+    "name": "install",
+    "href": "install",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2.1/sparc/extras/install",
+    "is_dir": false,
+    "size": "10.8 KiB",
+    "date": "08-Apr-1997 21:21"
+  },
+  {
+    "name": "install.md",
+    "href": "install.md",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2.1/sparc/extras/install.md",
+    "is_dir": false,
+    "size": "7.0 KiB",
+    "date": "08-Apr-1997 21:21"
+  },
+  {
+    "name": "install.sub",
+    "href": "install.sub",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2.1/sparc/extras/install.sub",
+    "is_dir": false,
+    "size": "27.5 KiB",
+    "date": "08-Apr-1997 21:21"
+  },
+  {
+    "name": "netbsd.GENERIC",
+    "href": "netbsd.GENERIC",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2.1/sparc/extras/netbsd.GENERIC",
+    "is_dir": false,
+    "size": "1.3 MiB",
+    "date": "08-Apr-1997 21:18"
+  },
+  {
+    "name": "netbsd.GENERIC_SCSI3",
+    "href": "netbsd.GENERIC_SCSI3",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2.1/sparc/extras/netbsd.GENERIC_SCSI3",
+    "is_dir": false,
+    "size": "1.3 MiB",
+    "date": "08-Apr-1997 21:19"
+  },
+  {
+    "name": "upgrade",
+    "href": "upgrade",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2.1/sparc/extras/upgrade",
+    "is_dir": false,
+    "size": "7.7 KiB",
+    "date": "08-Apr-1997 21:21"
+  }
+]

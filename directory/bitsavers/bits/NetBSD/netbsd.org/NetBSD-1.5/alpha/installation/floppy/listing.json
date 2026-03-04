@@ -1,0 +1,58 @@
+[
+  {
+    "name": "BSDSUM",
+    "href": "BSDSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/alpha/installation/floppy/BSDSUM",
+    "is_dir": false,
+    "size": "40 B",
+    "date": "28-Nov-2000 19:24"
+  },
+  {
+    "name": "CKSUM",
+    "href": "CKSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/alpha/installation/floppy/CKSUM",
+    "is_dir": false,
+    "size": "56 B",
+    "date": "28-Nov-2000 19:24"
+  },
+  {
+    "name": "MD5",
+    "href": "MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/alpha/installation/floppy/MD5",
+    "is_dir": false,
+    "size": "100 B",
+    "date": "28-Nov-2000 19:24"
+  },
+  {
+    "name": "README.files",
+    "href": "README.files",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/alpha/installation/floppy/README.files",
+    "is_dir": false,
+    "size": "1.8 KiB",
+    "date": "22-Nov-2000 11:55"
+  },
+  {
+    "name": "SYSVSUM",
+    "href": "SYSVSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/alpha/installation/floppy/SYSVSUM",
+    "is_dir": false,
+    "size": "39 B",
+    "date": "28-Nov-2000 19:24"
+  },
+  {
+    "name": "disk1of2",
+    "href": "disk1of2",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/alpha/installation/floppy/disk1of2",
+    "is_dir": false,
+    "size": "1.4 MiB",
+    "date": "22-Nov-2000 11:55"
+  },
+  {
+    "name": "disk2of2",
+    "href": "disk2of2",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/alpha/installation/floppy/disk2of2",
+    "is_dir": false,
+    "size": "1.1 MiB",
+    "date": "22-Nov-2000 11:55"
+  }
+]

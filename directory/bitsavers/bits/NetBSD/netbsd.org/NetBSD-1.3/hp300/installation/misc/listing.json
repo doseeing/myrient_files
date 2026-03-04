@@ -1,0 +1,66 @@
+[
+  {
+    "name": "BSDSUM",
+    "href": "BSDSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/hp300/installation/misc/BSDSUM",
+    "is_dir": false,
+    "size": "86 B",
+    "date": "05-Jan-1998 22:00"
+  },
+  {
+    "name": "CKSUM",
+    "href": "CKSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/hp300/installation/misc/CKSUM",
+    "is_dir": false,
+    "size": "116 B",
+    "date": "05-Jan-1998 22:00"
+  },
+  {
+    "name": "HP-IB.geometry",
+    "href": "HP-IB.geometry",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/hp300/installation/misc/HP-IB.geometry",
+    "is_dir": false,
+    "size": "1.4 KiB",
+    "date": "05-Jan-1998 22:00"
+  },
+  {
+    "name": "MD5",
+    "href": "MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/hp300/installation/misc/MD5",
+    "is_dir": false,
+    "size": "215 B",
+    "date": "05-Jan-1998 22:00"
+  },
+  {
+    "name": "SYSVSUM",
+    "href": "SYSVSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/hp300/installation/misc/SYSVSUM",
+    "is_dir": false,
+    "size": "86 B",
+    "date": "05-Jan-1998 22:00"
+  },
+  {
+    "name": "SYS_INST.gz",
+    "href": "SYS_INST.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/hp300/installation/misc/SYS_INST.gz",
+    "is_dir": false,
+    "size": "38.5 KiB",
+    "date": "05-Jan-1998 22:00"
+  },
+  {
+    "name": "SYS_UBOOT.gz",
+    "href": "SYS_UBOOT.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/hp300/installation/misc/SYS_UBOOT.gz",
+    "is_dir": false,
+    "size": "34.0 KiB",
+    "date": "05-Jan-1998 22:00"
+  },
+  {
+    "name": "rbootd.tgz",
+    "href": "rbootd.tgz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/hp300/installation/misc/rbootd.tgz",
+    "is_dir": false,
+    "size": "21.9 KiB",
+    "date": "05-Jan-1998 22:00"
+  }
+]

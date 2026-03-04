@@ -1,0 +1,58 @@
+[
+  {
+    "name": "CKSUMS",
+    "href": "CKSUMS",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/hp300/install/CKSUMS",
+    "is_dir": false,
+    "size": "183 B",
+    "date": "25-Sep-1996 21:05"
+  },
+  {
+    "name": "HP-IB.geometry",
+    "href": "HP-IB.geometry",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/hp300/install/HP-IB.geometry",
+    "is_dir": false,
+    "size": "1.4 KiB",
+    "date": "25-Sep-1996 21:05"
+  },
+  {
+    "name": "SYS_INST.gz",
+    "href": "SYS_INST.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/hp300/install/SYS_INST.gz",
+    "is_dir": false,
+    "size": "26.5 KiB",
+    "date": "25-Sep-1996 21:05"
+  },
+  {
+    "name": "SYS_NBOOT.gz",
+    "href": "SYS_NBOOT.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/hp300/install/SYS_NBOOT.gz",
+    "is_dir": false,
+    "size": "20.5 KiB",
+    "date": "25-Sep-1996 21:05"
+  },
+  {
+    "name": "miniroot-12.fs.gz",
+    "href": "miniroot-12.fs.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/hp300/install/miniroot-12.fs.gz",
+    "is_dir": false,
+    "size": "1.4 MiB",
+    "date": "25-Sep-1996 21:05"
+  },
+  {
+    "name": "netbsd.gz",
+    "href": "netbsd.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/hp300/install/netbsd.gz",
+    "is_dir": false,
+    "size": "434.7 KiB",
+    "date": "25-Sep-1996 21:05"
+  },
+  {
+    "name": "rbootd.tar.gz",
+    "href": "rbootd.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/hp300/install/rbootd.tar.gz",
+    "is_dir": false,
+    "size": "22.1 KiB",
+    "date": "25-Sep-1996 21:05"
+  }
+]

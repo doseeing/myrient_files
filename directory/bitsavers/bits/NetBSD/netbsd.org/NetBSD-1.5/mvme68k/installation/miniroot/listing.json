@@ -1,0 +1,42 @@
+[
+  {
+    "name": "BSDSUM",
+    "href": "BSDSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/mvme68k/installation/miniroot/BSDSUM",
+    "is_dir": false,
+    "size": "26 B",
+    "date": "21-Nov-2000 18:31"
+  },
+  {
+    "name": "CKSUM",
+    "href": "CKSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/mvme68k/installation/miniroot/CKSUM",
+    "is_dir": false,
+    "size": "34 B",
+    "date": "21-Nov-2000 18:31"
+  },
+  {
+    "name": "MD5",
+    "href": "MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/mvme68k/installation/miniroot/MD5",
+    "is_dir": false,
+    "size": "56 B",
+    "date": "21-Nov-2000 18:31"
+  },
+  {
+    "name": "SYSVSUM",
+    "href": "SYSVSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/mvme68k/installation/miniroot/SYSVSUM",
+    "is_dir": false,
+    "size": "25 B",
+    "date": "21-Nov-2000 18:31"
+  },
+  {
+    "name": "miniroot.fs.gz",
+    "href": "miniroot.fs.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/mvme68k/installation/miniroot/miniroot.fs.gz",
+    "is_dir": false,
+    "size": "1.8 MiB",
+    "date": "21-Nov-2000 18:18"
+  }
+]

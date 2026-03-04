@@ -1,0 +1,34 @@
+[
+  {
+    "name": "CKSUM",
+    "href": "CKSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/source/dsrc12/CKSUM",
+    "is_dir": false,
+    "size": "55 B",
+    "date": "23-Sep-1996 22:57"
+  },
+  {
+    "name": "README.export-control",
+    "href": "README.export-control",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/source/dsrc12/README.export-control",
+    "is_dir": false,
+    "size": "791 B",
+    "date": "30-Sep-1996 22:28"
+  },
+  {
+    "name": "dsrc12.aa",
+    "href": "dsrc12.aa",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/source/dsrc12/dsrc12.aa",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "23-Sep-1996 22:56"
+  },
+  {
+    "name": "dsrc12.ab",
+    "href": "dsrc12.ab",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/source/dsrc12/dsrc12.ab",
+    "is_dir": false,
+    "size": "143.0 KiB",
+    "date": "23-Sep-1996 22:57"
+  }
+]

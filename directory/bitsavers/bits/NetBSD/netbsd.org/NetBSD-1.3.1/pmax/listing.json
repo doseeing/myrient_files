@@ -1,0 +1,42 @@
+[
+  {
+    "name": "binary",
+    "href": "binary/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/pmax/binary/",
+    "is_dir": true,
+    "size": null,
+    "date": "30-Sep-2023 17:20"
+  },
+  {
+    "name": "installation",
+    "href": "installation/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/pmax/installation/",
+    "is_dir": true,
+    "size": null,
+    "date": "30-Sep-2023 17:20"
+  },
+  {
+    "name": "INSTALL",
+    "href": "INSTALL",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/pmax/INSTALL",
+    "is_dir": false,
+    "size": "64.3 KiB",
+    "date": "23-Mar-1998 08:53"
+  },
+  {
+    "name": "NOTES",
+    "href": "NOTES",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/pmax/NOTES",
+    "is_dir": false,
+    "size": "6.9 KiB",
+    "date": "23-Mar-1998 08:53"
+  },
+  {
+    "name": "SOURCE_DATE",
+    "href": "SOURCE_DATE",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/pmax/SOURCE_DATE",
+    "is_dir": false,
+    "size": "29 B",
+    "date": "23-Mar-1998 08:43"
+  }
+]

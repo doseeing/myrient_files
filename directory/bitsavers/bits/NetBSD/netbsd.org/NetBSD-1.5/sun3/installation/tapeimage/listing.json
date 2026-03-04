@@ -1,0 +1,58 @@
+[
+  {
+    "name": "BSDSUM",
+    "href": "BSDSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/sun3/installation/tapeimage/BSDSUM",
+    "is_dir": false,
+    "size": "57 B",
+    "date": "29-Nov-2000 15:31"
+  },
+  {
+    "name": "CKSUM",
+    "href": "CKSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/sun3/installation/tapeimage/CKSUM",
+    "is_dir": false,
+    "size": "79 B",
+    "date": "29-Nov-2000 15:31"
+  },
+  {
+    "name": "MD5",
+    "href": "MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/sun3/installation/tapeimage/MD5",
+    "is_dir": false,
+    "size": "158 B",
+    "date": "29-Nov-2000 15:31"
+  },
+  {
+    "name": "MakeBootTape",
+    "href": "MakeBootTape",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/sun3/installation/tapeimage/MakeBootTape",
+    "is_dir": false,
+    "size": "875 B",
+    "date": "19-Jun-2000 23:46"
+  },
+  {
+    "name": "MakeInstTape",
+    "href": "MakeInstTape",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/sun3/installation/tapeimage/MakeInstTape",
+    "is_dir": false,
+    "size": "492 B",
+    "date": "20-Dec-1997 02:52"
+  },
+  {
+    "name": "SYSVSUM",
+    "href": "SYSVSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/sun3/installation/tapeimage/SYSVSUM",
+    "is_dir": false,
+    "size": "59 B",
+    "date": "29-Nov-2000 15:31"
+  },
+  {
+    "name": "tapeboot",
+    "href": "tapeboot",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/sun3/installation/tapeimage/tapeboot",
+    "is_dir": false,
+    "size": "8.0 KiB",
+    "date": "22-Nov-2000 04:28"
+  }
+]

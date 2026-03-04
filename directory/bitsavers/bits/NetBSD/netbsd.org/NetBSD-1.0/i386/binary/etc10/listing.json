@@ -1,0 +1,18 @@
+[
+  {
+    "name": "CKSUMS",
+    "href": "CKSUMS",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.0/i386/binary/etc10/CKSUMS",
+    "is_dir": false,
+    "size": "45 B",
+    "date": "19-Oct-1994 07:17"
+  },
+  {
+    "name": "etc10.aa",
+    "href": "etc10.aa",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.0/i386/binary/etc10/etc10.aa",
+    "is_dir": false,
+    "size": "49.9 KiB",
+    "date": "19-Oct-1994 07:11"
+  }
+]

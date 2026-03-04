@@ -1,0 +1,74 @@
+[
+  {
+    "name": "patches",
+    "href": "patches/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/source/patches/",
+    "is_dir": true,
+    "size": null,
+    "date": "01-Oct-2023 18:33"
+  },
+  {
+    "name": "security",
+    "href": "security/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/source/security/",
+    "is_dir": true,
+    "size": null,
+    "date": "01-Oct-2023 18:33"
+  },
+  {
+    "name": "sets",
+    "href": "sets/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/source/sets/",
+    "is_dir": true,
+    "size": null,
+    "date": "01-Oct-2023 18:33"
+  },
+  {
+    "name": "BSDSUM",
+    "href": "BSDSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/source/BSDSUM",
+    "is_dir": false,
+    "size": "47 B",
+    "date": "18-Nov-2000 23:51"
+  },
+  {
+    "name": "CKSUM",
+    "href": "CKSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/source/CKSUM",
+    "is_dir": false,
+    "size": "62 B",
+    "date": "18-Nov-2000 23:51"
+  },
+  {
+    "name": "MD5",
+    "href": "MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/source/MD5",
+    "is_dir": false,
+    "size": "112 B",
+    "date": "18-Nov-2000 23:51"
+  },
+  {
+    "name": "README",
+    "href": "README",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/source/README",
+    "is_dir": false,
+    "size": "319 B",
+    "date": "18-Nov-2000 23:51"
+  },
+  {
+    "name": "SYSVSUM",
+    "href": "SYSVSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/source/SYSVSUM",
+    "is_dir": false,
+    "size": "49 B",
+    "date": "18-Nov-2000 23:51"
+  },
+  {
+    "name": "diff-1.4.2-to-1.4.3.gz",
+    "href": "diff-1.4.2-to-1.4.3.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/source/diff-1.4.2-to-1.4.3.gz",
+    "is_dir": false,
+    "size": "538.2 KiB",
+    "date": "07-Nov-2000 20:00"
+  }
+]

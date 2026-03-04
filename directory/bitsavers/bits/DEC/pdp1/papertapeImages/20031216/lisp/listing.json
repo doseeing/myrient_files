@@ -1,0 +1,122 @@
+[
+  {
+    "name": "_text",
+    "href": "_text/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp1/papertapeImages/20031216/lisp/_text/",
+    "is_dir": true,
+    "size": null,
+    "date": "27-Oct-2004 00:24"
+  },
+  {
+    "name": "drumSupervisorForLisp_7-25-64.bin",
+    "href": "drumSupervisorForLisp_7-25-64.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp1/papertapeImages/20031216/lisp/drumSupervisorForLisp_7-25-64.bin",
+    "is_dir": false,
+    "size": "1.5 KiB",
+    "date": "17-Dec-1999 04:06"
+  },
+  {
+    "name": "dumpc#15_8-17-64.bin",
+    "href": "dumpc%2315_8-17-64.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp1/papertapeImages/20031216/lisp/dumpc%2315_8-17-64.bin",
+    "is_dir": false,
+    "size": "3.7 KiB",
+    "date": "17-Dec-1999 04:07"
+  },
+  {
+    "name": "dumpd_#15_8-17-64.bin",
+    "href": "dumpd_%2315_8-17-64.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp1/papertapeImages/20031216/lisp/dumpd_%2315_8-17-64.bin",
+    "is_dir": false,
+    "size": "2.4 KiB",
+    "date": "17-Dec-1999 04:09"
+  },
+  {
+    "name": "dumpl#15_8-17-64.bin",
+    "href": "dumpl%2315_8-17-64.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp1/papertapeImages/20031216/lisp/dumpl%2315_8-17-64.bin",
+    "is_dir": false,
+    "size": "3.4 KiB",
+    "date": "17-Dec-1999 04:22"
+  },
+  {
+    "name": "dumpu_#15_8-17-64.bin",
+    "href": "dumpu_%2315_8-17-64.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp1/papertapeImages/20031216/lisp/dumpu_%2315_8-17-64.bin",
+    "is_dir": false,
+    "size": "4.2 KiB",
+    "date": "17-Dec-1999 04:11"
+  },
+  {
+    "name": "lispForDrum_12-28-63.bin",
+    "href": "lispForDrum_12-28-63.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp1/papertapeImages/20031216/lisp/lispForDrum_12-28-63.bin",
+    "is_dir": false,
+    "size": "15.2 KiB",
+    "date": "17-Dec-1999 04:04"
+  },
+  {
+    "name": "lispFunctions.bin",
+    "href": "lispFunctions.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp1/papertapeImages/20031216/lisp/lispFunctions.bin",
+    "is_dir": false,
+    "size": "5.7 KiB",
+    "date": "17-Dec-1999 04:24"
+  },
+  {
+    "name": "lispStorage_8-9-64.bin",
+    "href": "lispStorage_8-9-64.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp1/papertapeImages/20031216/lisp/lispStorage_8-9-64.bin",
+    "is_dir": false,
+    "size": "4.2 KiB",
+    "date": "17-Dec-1999 04:14"
+  },
+  {
+    "name": "lisp_8-17-64_part1.bin",
+    "href": "lisp_8-17-64_part1.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp1/papertapeImages/20031216/lisp/lisp_8-17-64_part1.bin",
+    "is_dir": false,
+    "size": "5.7 KiB",
+    "date": "17-Dec-1999 04:12"
+  },
+  {
+    "name": "lisp_8-17-64_part2.bin",
+    "href": "lisp_8-17-64_part2.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp1/papertapeImages/20031216/lisp/lisp_8-17-64_part2.bin",
+    "is_dir": false,
+    "size": "7.4 KiB",
+    "date": "17-Dec-1999 04:18"
+  },
+  {
+    "name": "lisp_8-17-64_part3.bin",
+    "href": "lisp_8-17-64_part3.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp1/papertapeImages/20031216/lisp/lisp_8-17-64_part3.bin",
+    "is_dir": false,
+    "size": "5.2 KiB",
+    "date": "17-Dec-1999 04:21"
+  },
+  {
+    "name": "lisp_8-17-64_syms.bin",
+    "href": "lisp_8-17-64_syms.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp1/papertapeImages/20031216/lisp/lisp_8-17-64_syms.bin",
+    "is_dir": false,
+    "size": "6.1 KiB",
+    "date": "17-Dec-1999 04:20"
+  },
+  {
+    "name": "lisp_8-9-64_for_mac.bin",
+    "href": "lisp_8-9-64_for_mac.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp1/papertapeImages/20031216/lisp/lisp_8-9-64_for_mac.bin",
+    "is_dir": false,
+    "size": "1.2 KiB",
+    "date": "17-Dec-1999 04:23"
+  },
+  {
+    "name": "waterpot_lisp_24oct63.bin",
+    "href": "waterpot_lisp_24oct63.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp1/papertapeImages/20031216/lisp/waterpot_lisp_24oct63.bin",
+    "is_dir": false,
+    "size": "1.1 KiB",
+    "date": "17-Dec-1999 04:05"
+  }
+]

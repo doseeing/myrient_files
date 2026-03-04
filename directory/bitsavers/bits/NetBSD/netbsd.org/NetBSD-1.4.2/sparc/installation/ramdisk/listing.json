@@ -1,0 +1,50 @@
+[
+  {
+    "name": "BSDSUM",
+    "href": "BSDSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/sparc/installation/ramdisk/BSDSUM",
+    "is_dir": false,
+    "size": "58 B",
+    "date": "16-Mar-2000 22:52"
+  },
+  {
+    "name": "CKSUM",
+    "href": "CKSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/sparc/installation/ramdisk/CKSUM",
+    "is_dir": false,
+    "size": "74 B",
+    "date": "16-Mar-2000 22:52"
+  },
+  {
+    "name": "MD5",
+    "href": "MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/sparc/installation/ramdisk/MD5",
+    "is_dir": false,
+    "size": "120 B",
+    "date": "16-Mar-2000 22:52"
+  },
+  {
+    "name": "SYSVSUM",
+    "href": "SYSVSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/sparc/installation/ramdisk/SYSVSUM",
+    "is_dir": false,
+    "size": "60 B",
+    "date": "16-Mar-2000 22:52"
+  },
+  {
+    "name": "ramdisk-142.fs.gz",
+    "href": "ramdisk-142.fs.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/sparc/installation/ramdisk/ramdisk-142.fs.gz",
+    "is_dir": false,
+    "size": "680.9 KiB",
+    "date": "16-Mar-2000 22:48"
+  },
+  {
+    "name": "syramdisk-142.fs.gz",
+    "href": "syramdisk-142.fs.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/sparc/installation/ramdisk/syramdisk-142.fs.gz",
+    "is_dir": false,
+    "size": "598.2 KiB",
+    "date": "16-Mar-2000 22:48"
+  }
+]

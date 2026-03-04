@@ -1,0 +1,26 @@
+[
+  {
+    "name": "boot",
+    "href": "boot",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/vax/installation/netboot/boot",
+    "is_dir": false,
+    "size": "30.7 KiB",
+    "date": "18-Jan-1998 21:29"
+  },
+  {
+    "name": "boot.mopformat",
+    "href": "boot.mopformat",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/vax/installation/netboot/boot.mopformat",
+    "is_dir": false,
+    "size": "53.5 KiB",
+    "date": "18-Jan-1998 21:30"
+  },
+  {
+    "name": "edlabel",
+    "href": "edlabel",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/vax/installation/netboot/edlabel",
+    "is_dir": false,
+    "size": "33.0 KiB",
+    "date": "24-Jan-1998 17:51"
+  }
+]

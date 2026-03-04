@@ -1,0 +1,34 @@
+[
+  {
+    "name": "foo",
+    "href": "foo/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/saz/bugs/foo/",
+    "is_dir": true,
+    "size": null,
+    "date": "21-Apr-2017 01:47"
+  },
+  {
+    "name": "zmacs.txt.1",
+    "href": "zmacs.txt.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/saz/bugs/zmacs.txt.1",
+    "is_dir": false,
+    "size": "1.1 KiB",
+    "date": "21-Apr-2017 01:39"
+  },
+  {
+    "name": "zmacs.txt.2",
+    "href": "zmacs.txt.2",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/saz/bugs/zmacs.txt.2",
+    "is_dir": false,
+    "size": "1.2 KiB",
+    "date": "21-Apr-2017 01:39"
+  },
+  {
+    "name": "zmacs.txt.3",
+    "href": "zmacs.txt.3",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/saz/bugs/zmacs.txt.3",
+    "is_dir": false,
+    "size": "1.3 KiB",
+    "date": "21-Apr-2017 01:39"
+  }
+]

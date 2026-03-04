@@ -1,0 +1,66 @@
+[
+  {
+    "name": "BSDSUM",
+    "href": "BSDSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/pmax/installation/misc/BSDSUM",
+    "is_dir": false,
+    "size": "75 B",
+    "date": "08-Aug-1999 11:50"
+  },
+  {
+    "name": "CKSUM",
+    "href": "CKSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/pmax/installation/misc/CKSUM",
+    "is_dir": false,
+    "size": "98 B",
+    "date": "08-Aug-1999 11:50"
+  },
+  {
+    "name": "MD5",
+    "href": "MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/pmax/installation/misc/MD5",
+    "is_dir": false,
+    "size": "170 B",
+    "date": "08-Aug-1999 11:50"
+  },
+  {
+    "name": "README",
+    "href": "README",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/pmax/installation/misc/README",
+    "is_dir": false,
+    "size": "635 B",
+    "date": "13-May-1999 02:48"
+  },
+  {
+    "name": "SYSVSUM",
+    "href": "SYSVSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/pmax/installation/misc/SYSVSUM",
+    "is_dir": false,
+    "size": "75 B",
+    "date": "08-Aug-1999 11:50"
+  },
+  {
+    "name": "bootblocks.tgz",
+    "href": "bootblocks.tgz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/pmax/installation/misc/bootblocks.tgz",
+    "is_dir": false,
+    "size": "39.8 KiB",
+    "date": "28-Jul-1999 00:48"
+  },
+  {
+    "name": "gunzip.ultrix",
+    "href": "gunzip.ultrix",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/pmax/installation/misc/gunzip.ultrix",
+    "is_dir": false,
+    "size": "140.1 KiB",
+    "date": "27-Dec-1999 06:21"
+  },
+  {
+    "name": "smallnet.ecoff.gz",
+    "href": "smallnet.ecoff.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/pmax/installation/misc/smallnet.ecoff.gz",
+    "is_dir": false,
+    "size": "404.2 KiB",
+    "date": "08-Aug-1999 10:19"
+  }
+]

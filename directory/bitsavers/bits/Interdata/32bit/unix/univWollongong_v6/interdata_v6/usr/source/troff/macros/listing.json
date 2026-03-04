@@ -1,0 +1,50 @@
+[
+  {
+    "name": "READ_ME",
+    "href": "READ_ME",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/troff/macros/READ_ME",
+    "is_dir": false,
+    "size": "128 B",
+    "date": "01-Aug-1978 08:42"
+  },
+  {
+    "name": "install",
+    "href": "install",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/troff/macros/install",
+    "is_dir": false,
+    "size": "25 B",
+    "date": "14-Nov-1978 09:13"
+  },
+  {
+    "name": "macdoc.n",
+    "href": "macdoc.n",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/troff/macros/macdoc.n",
+    "is_dir": false,
+    "size": "3.3 KiB",
+    "date": "24-May-1978 08:48"
+  },
+  {
+    "name": "tmac.m",
+    "href": "tmac.m",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/troff/macros/tmac.m",
+    "is_dir": false,
+    "size": "559 B",
+    "date": "24-May-1978 08:48"
+  },
+  {
+    "name": "tmac.n",
+    "href": "tmac.n",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/troff/macros/tmac.n",
+    "is_dir": false,
+    "size": "1.9 KiB",
+    "date": "23-Jul-1978 10:34"
+  },
+  {
+    "name": "tmac.s",
+    "href": "tmac.s",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/troff/macros/tmac.s",
+    "is_dir": false,
+    "size": "9.3 KiB",
+    "date": "24-May-1978 08:48"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "name": "READ_ME",
+    "href": "READ_ME",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/libc/READ_ME",
+    "is_dir": false,
+    "size": "470 B",
+    "date": "01-Aug-1978 13:08"
+  },
+  {
+    "name": "install",
+    "href": "install",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/libc/install",
+    "is_dir": false,
+    "size": "61 B",
+    "date": "12-Nov-1978 17:07"
+  },
+  {
+    "name": "iobuf.h",
+    "href": "iobuf.h",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/libc/iobuf.h",
+    "is_dir": false,
+    "size": "118 B",
+    "date": "17-Jul-1978 15:48"
+  },
+  {
+    "name": "make",
+    "href": "make",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/libc/make",
+    "is_dir": false,
+    "size": "37 B",
+    "date": "12-Nov-1978 17:06"
+  },
+  {
+    "name": "src.a",
+    "href": "src.a",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/libc/src.a",
+    "is_dir": false,
+    "size": "30.3 KiB",
+    "date": "01-Aug-1978 13:06"
+  }
+]

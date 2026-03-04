@@ -1,0 +1,50 @@
+[
+  {
+    "name": "BSDSUM",
+    "href": "BSDSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/amiga/binary/kernel/BSDSUM",
+    "is_dir": false,
+    "size": "38 B",
+    "date": "01-Jan-1998 03:05"
+  },
+  {
+    "name": "CKSUM",
+    "href": "CKSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/amiga/binary/kernel/CKSUM",
+    "is_dir": false,
+    "size": "54 B",
+    "date": "01-Jan-1998 03:05"
+  },
+  {
+    "name": "MD5",
+    "href": "MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/amiga/binary/kernel/MD5",
+    "is_dir": false,
+    "size": "99 B",
+    "date": "01-Jan-1998 03:05"
+  },
+  {
+    "name": "SYSVSUM",
+    "href": "SYSVSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/amiga/binary/kernel/SYSVSUM",
+    "is_dir": false,
+    "size": "39 B",
+    "date": "01-Jan-1998 03:05"
+  },
+  {
+    "name": "netbsd",
+    "href": "netbsd",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/amiga/binary/kernel/netbsd",
+    "is_dir": false,
+    "size": "1.8 MiB",
+    "date": "01-Jan-1998 02:53"
+  },
+  {
+    "name": "netbsd.gz",
+    "href": "netbsd.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/amiga/binary/kernel/netbsd.gz",
+    "is_dir": false,
+    "size": "829.9 KiB",
+    "date": "01-Jan-1998 02:52"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "name": "_text",
+    "href": "_text/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp1/papertapeImages/20031210/tapeboxes/exec/_text/",
+    "is_dir": true,
+    "size": null,
+    "date": "27-Oct-2004 00:23"
+  },
+  {
+    "name": "exec-listerFormat.bin",
+    "href": "exec-listerFormat.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp1/papertapeImages/20031210/tapeboxes/exec/exec-listerFormat.bin",
+    "is_dir": false,
+    "size": "28.3 KiB",
+    "date": "11-Dec-1999 04:24"
+  },
+  {
+    "name": "execAndSymTab_Mar66.bin",
+    "href": "execAndSymTab_Mar66.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp1/papertapeImages/20031210/tapeboxes/exec/execAndSymTab_Mar66.bin",
+    "is_dir": false,
+    "size": "10.0 KiB",
+    "date": "11-Dec-1999 04:34"
+  },
+  {
+    "name": "exec_sym_table.bin",
+    "href": "exec_sym_table.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp1/papertapeImages/20031210/tapeboxes/exec/exec_sym_table.bin",
+    "is_dir": false,
+    "size": "3.0 KiB",
+    "date": "11-Dec-1999 04:30"
+  },
+  {
+    "name": "extExec-listerFormat.bin",
+    "href": "extExec-listerFormat.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp1/papertapeImages/20031210/tapeboxes/exec/extExec-listerFormat.bin",
+    "is_dir": false,
+    "size": "16.4 KiB",
+    "date": "11-Dec-1999 04:27"
+  },
+  {
+    "name": "extExecSymTab.bin",
+    "href": "extExecSymTab.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp1/papertapeImages/20031210/tapeboxes/exec/extExecSymTab.bin",
+    "is_dir": false,
+    "size": "2.2 KiB",
+    "date": "11-Dec-1999 04:31"
+  },
+  {
+    "name": "id_part1-3.bin",
+    "href": "id_part1-3.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp1/papertapeImages/20031210/tapeboxes/exec/id_part1-3.bin",
+    "is_dir": false,
+    "size": "27.7 KiB",
+    "date": "11-Dec-1999 04:19"
+  },
+  {
+    "name": "id_part4.bin",
+    "href": "id_part4.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp1/papertapeImages/20031210/tapeboxes/exec/id_part4.bin",
+    "is_dir": false,
+    "size": "5.0 KiB",
+    "date": "11-Dec-1999 04:20"
+  },
+  {
+    "name": "id_sym_tab_no_good.bin",
+    "href": "id_sym_tab_no_good.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp1/papertapeImages/20031210/tapeboxes/exec/id_sym_tab_no_good.bin",
+    "is_dir": false,
+    "size": "4.5 KiB",
+    "date": "11-Dec-1999 04:28"
+  },
+  {
+    "name": "mysSymTab.bin",
+    "href": "mysSymTab.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp1/papertapeImages/20031210/tapeboxes/exec/mysSymTab.bin",
+    "is_dir": false,
+    "size": "2.7 KiB",
+    "date": "11-Dec-1999 04:32"
+  }
+]

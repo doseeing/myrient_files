@@ -1,0 +1,98 @@
+[
+  {
+    "name": "BSDSUM",
+    "href": "BSDSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/sun3/binary/kernel/BSDSUM",
+    "is_dir": false,
+    "size": "233 B",
+    "date": "29-Nov-2000 02:15"
+  },
+  {
+    "name": "CKSUM",
+    "href": "CKSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/sun3/binary/kernel/CKSUM",
+    "is_dir": false,
+    "size": "295 B",
+    "date": "29-Nov-2000 02:15"
+  },
+  {
+    "name": "MD5",
+    "href": "MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/sun3/binary/kernel/MD5",
+    "is_dir": false,
+    "size": "482 B",
+    "date": "29-Nov-2000 02:16"
+  },
+  {
+    "name": "SYSVSUM",
+    "href": "SYSVSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/sun3/binary/kernel/SYSVSUM",
+    "is_dir": false,
+    "size": "235 B",
+    "date": "29-Nov-2000 02:16"
+  },
+  {
+    "name": "netbsd.DISKLESS.gz",
+    "href": "netbsd.DISKLESS.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/sun3/binary/kernel/netbsd.DISKLESS.gz",
+    "is_dir": false,
+    "size": "358.0 KiB",
+    "date": "28-Nov-2000 20:46"
+  },
+  {
+    "name": "netbsd.DISKLESS3X.gz",
+    "href": "netbsd.DISKLESS3X.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/sun3/binary/kernel/netbsd.DISKLESS3X.gz",
+    "is_dir": false,
+    "size": "346.0 KiB",
+    "date": "28-Nov-2000 20:47"
+  },
+  {
+    "name": "netbsd.GENERIC.gz",
+    "href": "netbsd.GENERIC.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/sun3/binary/kernel/netbsd.GENERIC.gz",
+    "is_dir": false,
+    "size": "656.7 KiB",
+    "date": "28-Nov-2000 20:38"
+  },
+  {
+    "name": "netbsd.GENERIC3X.gz",
+    "href": "netbsd.GENERIC3X.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/sun3/binary/kernel/netbsd.GENERIC3X.gz",
+    "is_dir": false,
+    "size": "675.5 KiB",
+    "date": "28-Nov-2000 20:41"
+  },
+  {
+    "name": "netbsd.INSTALL.gz",
+    "href": "netbsd.INSTALL.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/sun3/binary/kernel/netbsd.INSTALL.gz",
+    "is_dir": false,
+    "size": "441.8 KiB",
+    "date": "28-Nov-2000 20:43"
+  },
+  {
+    "name": "netbsd.INSTALL3X.gz",
+    "href": "netbsd.INSTALL3X.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/sun3/binary/kernel/netbsd.INSTALL3X.gz",
+    "is_dir": false,
+    "size": "462.7 KiB",
+    "date": "28-Nov-2000 20:45"
+  },
+  {
+    "name": "netbsd.RAMDISK.gz",
+    "href": "netbsd.RAMDISK.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/sun3/binary/kernel/netbsd.RAMDISK.gz",
+    "is_dir": false,
+    "size": "444.8 KiB",
+    "date": "28-Nov-2000 21:15"
+  },
+  {
+    "name": "netbsd.RAMDISK3X.gz",
+    "href": "netbsd.RAMDISK3X.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/sun3/binary/kernel/netbsd.RAMDISK3X.gz",
+    "is_dir": false,
+    "size": "457.9 KiB",
+    "date": "28-Nov-2000 21:17"
+  }
+]

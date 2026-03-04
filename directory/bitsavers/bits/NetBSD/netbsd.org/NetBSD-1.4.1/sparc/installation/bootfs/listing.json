@@ -1,0 +1,50 @@
+[
+  {
+    "name": "BSDSUM",
+    "href": "BSDSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/sparc/installation/bootfs/BSDSUM",
+    "is_dir": false,
+    "size": "48 B",
+    "date": "09-Aug-1999 10:07"
+  },
+  {
+    "name": "CKSUM",
+    "href": "CKSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/sparc/installation/bootfs/CKSUM",
+    "is_dir": false,
+    "size": "63 B",
+    "date": "09-Aug-1999 10:06"
+  },
+  {
+    "name": "MD5",
+    "href": "MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/sparc/installation/bootfs/MD5",
+    "is_dir": false,
+    "size": "108 B",
+    "date": "09-Aug-1999 10:07"
+  },
+  {
+    "name": "SYSVSUM",
+    "href": "SYSVSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/sparc/installation/bootfs/SYSVSUM",
+    "is_dir": false,
+    "size": "48 B",
+    "date": "09-Aug-1999 10:07"
+  },
+  {
+    "name": "boot-141.fs",
+    "href": "boot-141.fs",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/sparc/installation/bootfs/boot-141.fs",
+    "is_dir": false,
+    "size": "1.4 MiB",
+    "date": "09-Aug-1999 10:01"
+  },
+  {
+    "name": "syboot-141.fs",
+    "href": "syboot-141.fs",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/sparc/installation/bootfs/syboot-141.fs",
+    "is_dir": false,
+    "size": "1.4 MiB",
+    "date": "09-Aug-1999 10:01"
+  }
+]

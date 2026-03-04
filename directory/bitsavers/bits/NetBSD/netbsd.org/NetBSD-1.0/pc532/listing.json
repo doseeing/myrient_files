@@ -1,0 +1,138 @@
+[
+  {
+    "name": "CKSUMS",
+    "href": "CKSUMS",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.0/pc532/CKSUMS",
+    "is_dir": false,
+    "size": "491 B",
+    "date": "24-Oct-1994 05:49"
+  },
+  {
+    "name": "INSTALL",
+    "href": "INSTALL",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.0/pc532/INSTALL",
+    "is_dir": false,
+    "size": "34.0 KiB",
+    "date": "30-Oct-1994 13:06"
+  },
+  {
+    "name": "base.tar.gz",
+    "href": "base.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.0/pc532/base.tar.gz",
+    "is_dir": false,
+    "size": "14.4 MiB",
+    "date": "24-Oct-1994 05:49"
+  },
+  {
+    "name": "comp.tar.gz",
+    "href": "comp.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.0/pc532/comp.tar.gz",
+    "is_dir": false,
+    "size": "4.0 MiB",
+    "date": "24-Oct-1994 05:50"
+  },
+  {
+    "name": "etc.tar.gz",
+    "href": "etc.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.0/pc532/etc.tar.gz",
+    "is_dir": false,
+    "size": "48.6 KiB",
+    "date": "24-Oct-1994 05:50"
+  },
+  {
+    "name": "games.tar.gz",
+    "href": "games.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.0/pc532/games.tar.gz",
+    "is_dir": false,
+    "size": "2.3 MiB",
+    "date": "24-Oct-1994 05:50"
+  },
+  {
+    "name": "man.tar.gz",
+    "href": "man.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.0/pc532/man.tar.gz",
+    "is_dir": false,
+    "size": "728.7 KiB",
+    "date": "24-Oct-1994 05:50"
+  },
+  {
+    "name": "misc.tar.gz",
+    "href": "misc.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.0/pc532/misc.tar.gz",
+    "is_dir": false,
+    "size": "1.6 MiB",
+    "date": "24-Oct-1994 05:50"
+  },
+  {
+    "name": "netbsd.rd.19200.gz",
+    "href": "netbsd.rd.19200.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.0/pc532/netbsd.rd.19200.gz",
+    "is_dir": false,
+    "size": "203.9 KiB",
+    "date": "24-Oct-1994 05:50"
+  },
+  {
+    "name": "netbsd.rd.9600.gz",
+    "href": "netbsd.rd.9600.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.0/pc532/netbsd.rd.9600.gz",
+    "is_dir": false,
+    "size": "203.9 KiB",
+    "date": "24-Oct-1994 05:50"
+  },
+  {
+    "name": "netbsd.sd0.19200.gz",
+    "href": "netbsd.sd0.19200.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.0/pc532/netbsd.sd0.19200.gz",
+    "is_dir": false,
+    "size": "209.3 KiB",
+    "date": "24-Oct-1994 05:50"
+  },
+  {
+    "name": "netbsd.sd0.9600.gz",
+    "href": "netbsd.sd0.9600.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.0/pc532/netbsd.sd0.9600.gz",
+    "is_dir": false,
+    "size": "209.3 KiB",
+    "date": "24-Oct-1994 05:50"
+  },
+  {
+    "name": "netbsd.sd1.19200.gz",
+    "href": "netbsd.sd1.19200.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.0/pc532/netbsd.sd1.19200.gz",
+    "is_dir": false,
+    "size": "203.6 KiB",
+    "date": "24-Oct-1994 05:50"
+  },
+  {
+    "name": "netbsd.sd1.9600.gz",
+    "href": "netbsd.sd1.9600.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.0/pc532/netbsd.sd1.9600.gz",
+    "is_dir": false,
+    "size": "203.6 KiB",
+    "date": "24-Oct-1994 05:50"
+  },
+  {
+    "name": "ram.root.gz",
+    "href": "ram.root.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.0/pc532/ram.root.gz",
+    "is_dir": false,
+    "size": "622.0 KiB",
+    "date": "24-Oct-1994 05:50"
+  },
+  {
+    "name": "text.tar.gz",
+    "href": "text.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.0/pc532/text.tar.gz",
+    "is_dir": false,
+    "size": "1.1 MiB",
+    "date": "24-Oct-1994 05:50"
+  },
+  {
+    "name": "util.tar.gz",
+    "href": "util.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.0/pc532/util.tar.gz",
+    "is_dir": false,
+    "size": "1.2 MiB",
+    "date": "24-Oct-1994 05:50"
+  }
+]

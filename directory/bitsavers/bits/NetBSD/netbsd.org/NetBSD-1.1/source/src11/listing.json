@@ -1,0 +1,338 @@
+[
+  {
+    "name": "CKSUMS",
+    "href": "CKSUMS",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/source/src11/CKSUMS",
+    "is_dir": false,
+    "size": "1.1 KiB",
+    "date": "26-Nov-1995 04:48"
+  },
+  {
+    "name": "src11.aa",
+    "href": "src11.aa",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/source/src11/src11.aa",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "26-Nov-1995 04:42"
+  },
+  {
+    "name": "src11.ab",
+    "href": "src11.ab",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/source/src11/src11.ab",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "26-Nov-1995 04:42"
+  },
+  {
+    "name": "src11.ac",
+    "href": "src11.ac",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/source/src11/src11.ac",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "26-Nov-1995 04:42"
+  },
+  {
+    "name": "src11.ad",
+    "href": "src11.ad",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/source/src11/src11.ad",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "26-Nov-1995 04:42"
+  },
+  {
+    "name": "src11.ae",
+    "href": "src11.ae",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/source/src11/src11.ae",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "26-Nov-1995 04:42"
+  },
+  {
+    "name": "src11.af",
+    "href": "src11.af",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/source/src11/src11.af",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "26-Nov-1995 04:42"
+  },
+  {
+    "name": "src11.ag",
+    "href": "src11.ag",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/source/src11/src11.ag",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "26-Nov-1995 04:42"
+  },
+  {
+    "name": "src11.ah",
+    "href": "src11.ah",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/source/src11/src11.ah",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "26-Nov-1995 04:43"
+  },
+  {
+    "name": "src11.ai",
+    "href": "src11.ai",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/source/src11/src11.ai",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "26-Nov-1995 04:43"
+  },
+  {
+    "name": "src11.aj",
+    "href": "src11.aj",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/source/src11/src11.aj",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "26-Nov-1995 04:43"
+  },
+  {
+    "name": "src11.ak",
+    "href": "src11.ak",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/source/src11/src11.ak",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "26-Nov-1995 04:43"
+  },
+  {
+    "name": "src11.al",
+    "href": "src11.al",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/source/src11/src11.al",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "26-Nov-1995 04:43"
+  },
+  {
+    "name": "src11.am",
+    "href": "src11.am",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/source/src11/src11.am",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "26-Nov-1995 04:43"
+  },
+  {
+    "name": "src11.an",
+    "href": "src11.an",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/source/src11/src11.an",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "26-Nov-1995 04:43"
+  },
+  {
+    "name": "src11.ao",
+    "href": "src11.ao",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/source/src11/src11.ao",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "26-Nov-1995 04:44"
+  },
+  {
+    "name": "src11.ap",
+    "href": "src11.ap",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/source/src11/src11.ap",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "26-Nov-1995 04:44"
+  },
+  {
+    "name": "src11.aq",
+    "href": "src11.aq",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/source/src11/src11.aq",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "26-Nov-1995 04:44"
+  },
+  {
+    "name": "src11.ar",
+    "href": "src11.ar",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/source/src11/src11.ar",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "26-Nov-1995 04:44"
+  },
+  {
+    "name": "src11.as",
+    "href": "src11.as",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/source/src11/src11.as",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "26-Nov-1995 04:44"
+  },
+  {
+    "name": "src11.at",
+    "href": "src11.at",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/source/src11/src11.at",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "26-Nov-1995 04:44"
+  },
+  {
+    "name": "src11.au",
+    "href": "src11.au",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/source/src11/src11.au",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "26-Nov-1995 04:45"
+  },
+  {
+    "name": "src11.av",
+    "href": "src11.av",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/source/src11/src11.av",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "26-Nov-1995 04:45"
+  },
+  {
+    "name": "src11.aw",
+    "href": "src11.aw",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/source/src11/src11.aw",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "26-Nov-1995 04:45"
+  },
+  {
+    "name": "src11.ax",
+    "href": "src11.ax",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/source/src11/src11.ax",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "26-Nov-1995 04:45"
+  },
+  {
+    "name": "src11.ay",
+    "href": "src11.ay",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/source/src11/src11.ay",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "26-Nov-1995 04:45"
+  },
+  {
+    "name": "src11.az",
+    "href": "src11.az",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/source/src11/src11.az",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "26-Nov-1995 04:45"
+  },
+  {
+    "name": "src11.ba",
+    "href": "src11.ba",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/source/src11/src11.ba",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "26-Nov-1995 04:45"
+  },
+  {
+    "name": "src11.bb",
+    "href": "src11.bb",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/source/src11/src11.bb",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "26-Nov-1995 04:46"
+  },
+  {
+    "name": "src11.bc",
+    "href": "src11.bc",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/source/src11/src11.bc",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "26-Nov-1995 04:46"
+  },
+  {
+    "name": "src11.bd",
+    "href": "src11.bd",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/source/src11/src11.bd",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "26-Nov-1995 04:46"
+  },
+  {
+    "name": "src11.be",
+    "href": "src11.be",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/source/src11/src11.be",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "26-Nov-1995 04:46"
+  },
+  {
+    "name": "src11.bf",
+    "href": "src11.bf",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/source/src11/src11.bf",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "26-Nov-1995 04:46"
+  },
+  {
+    "name": "src11.bg",
+    "href": "src11.bg",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/source/src11/src11.bg",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "26-Nov-1995 04:46"
+  },
+  {
+    "name": "src11.bh",
+    "href": "src11.bh",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/source/src11/src11.bh",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "26-Nov-1995 04:47"
+  },
+  {
+    "name": "src11.bi",
+    "href": "src11.bi",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/source/src11/src11.bi",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "26-Nov-1995 04:47"
+  },
+  {
+    "name": "src11.bj",
+    "href": "src11.bj",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/source/src11/src11.bj",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "26-Nov-1995 04:47"
+  },
+  {
+    "name": "src11.bk",
+    "href": "src11.bk",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/source/src11/src11.bk",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "26-Nov-1995 04:47"
+  },
+  {
+    "name": "src11.bl",
+    "href": "src11.bl",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/source/src11/src11.bl",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "26-Nov-1995 04:47"
+  },
+  {
+    "name": "src11.bm",
+    "href": "src11.bm",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/source/src11/src11.bm",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "26-Nov-1995 04:47"
+  },
+  {
+    "name": "src11.bn",
+    "href": "src11.bn",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/source/src11/src11.bn",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "26-Nov-1995 04:47"
+  },
+  {
+    "name": "src11.bo",
+    "href": "src11.bo",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/source/src11/src11.bo",
+    "is_dir": false,
+    "size": "123.4 KiB",
+    "date": "26-Nov-1995 04:47"
+  }
+]

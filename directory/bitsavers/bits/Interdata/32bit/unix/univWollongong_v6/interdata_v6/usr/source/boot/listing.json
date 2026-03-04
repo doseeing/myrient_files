@@ -1,0 +1,74 @@
+[
+  {
+    "name": "READ_ME",
+    "href": "READ_ME",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/boot/READ_ME",
+    "is_dir": false,
+    "size": "416 B",
+    "date": "03-Jun-1979 12:22"
+  },
+  {
+    "name": "boot0.s",
+    "href": "boot0.s",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/boot/boot0.s",
+    "is_dir": false,
+    "size": "956 B",
+    "date": "16-Mar-1978 12:26"
+  },
+  {
+    "name": "install",
+    "href": "install",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/boot/install",
+    "is_dir": false,
+    "size": "491 B",
+    "date": "03-Jun-1979 12:38"
+  },
+  {
+    "name": "make",
+    "href": "make",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/boot/make",
+    "is_dir": false,
+    "size": "89 B",
+    "date": "03-Jun-1979 12:23"
+  },
+  {
+    "name": "mdl.s",
+    "href": "mdl.s",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/boot/mdl.s",
+    "is_dir": false,
+    "size": "5.3 KiB",
+    "date": "23-Jul-1978 11:36"
+  },
+  {
+    "name": "mkboot.c",
+    "href": "mkboot.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/boot/mkboot.c",
+    "is_dir": false,
+    "size": "1.9 KiB",
+    "date": "16-Mar-1978 12:28"
+  },
+  {
+    "name": "tpboot.s",
+    "href": "tpboot.s",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/boot/tpboot.s",
+    "is_dir": false,
+    "size": "4.9 KiB",
+    "date": "03-Jun-1979 16:27"
+  },
+  {
+    "name": "uboot-40.s",
+    "href": "uboot-40.s",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/boot/uboot-40.s",
+    "is_dir": false,
+    "size": "6.3 KiB",
+    "date": "30-Jul-1978 18:04"
+  },
+  {
+    "name": "uboot.s",
+    "href": "uboot.s",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/boot/uboot.s",
+    "is_dir": false,
+    "size": "6.4 KiB",
+    "date": "30-Jul-1978 16:39"
+  }
+]

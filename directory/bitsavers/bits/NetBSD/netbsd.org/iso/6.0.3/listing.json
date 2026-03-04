@@ -1,0 +1,426 @@
+[
+  {
+    "name": "MD5",
+    "href": "MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/6.0.3/MD5",
+    "is_dir": false,
+    "size": "66 B",
+    "date": "28-Sep-2013 18:48"
+  },
+  {
+    "name": "NetBSD-6.0.3-acorn26.iso",
+    "href": "NetBSD-6.0.3-acorn26.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/6.0.3/NetBSD-6.0.3-acorn26.iso",
+    "is_dir": false,
+    "size": "189.1 MiB",
+    "date": "27-Sep-2013 08:19"
+  },
+  {
+    "name": "NetBSD-6.0.3-acorn32.iso",
+    "href": "NetBSD-6.0.3-acorn32.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/6.0.3/NetBSD-6.0.3-acorn32.iso",
+    "is_dir": false,
+    "size": "188.7 MiB",
+    "date": "27-Sep-2013 08:01"
+  },
+  {
+    "name": "NetBSD-6.0.3-alpha.iso",
+    "href": "NetBSD-6.0.3-alpha.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/6.0.3/NetBSD-6.0.3-alpha.iso",
+    "is_dir": false,
+    "size": "246.9 MiB",
+    "date": "27-Sep-2013 07:23"
+  },
+  {
+    "name": "NetBSD-6.0.3-amd64-install.img.gz",
+    "href": "NetBSD-6.0.3-amd64-install.img.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/6.0.3/NetBSD-6.0.3-amd64-install.img.gz",
+    "is_dir": false,
+    "size": "333.9 MiB",
+    "date": "27-Sep-2013 08:45"
+  },
+  {
+    "name": "NetBSD-6.0.3-amd64.iso",
+    "href": "NetBSD-6.0.3-amd64.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/6.0.3/NetBSD-6.0.3-amd64.iso",
+    "is_dir": false,
+    "size": "329.8 MiB",
+    "date": "27-Sep-2013 08:45"
+  },
+  {
+    "name": "NetBSD-6.0.3-amiga.iso",
+    "href": "NetBSD-6.0.3-amiga.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/6.0.3/NetBSD-6.0.3-amiga.iso",
+    "is_dir": false,
+    "size": "163.5 MiB",
+    "date": "27-Sep-2013 07:56"
+  },
+  {
+    "name": "NetBSD-6.0.3-arc.iso",
+    "href": "NetBSD-6.0.3-arc.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/6.0.3/NetBSD-6.0.3-arc.iso",
+    "is_dir": false,
+    "size": "194.1 MiB",
+    "date": "27-Sep-2013 09:06"
+  },
+  {
+    "name": "NetBSD-6.0.3-atari.iso",
+    "href": "NetBSD-6.0.3-atari.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/6.0.3/NetBSD-6.0.3-atari.iso",
+    "is_dir": false,
+    "size": "174.1 MiB",
+    "date": "27-Sep-2013 08:31"
+  },
+  {
+    "name": "NetBSD-6.0.3-cats.iso",
+    "href": "NetBSD-6.0.3-cats.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/6.0.3/NetBSD-6.0.3-cats.iso",
+    "is_dir": false,
+    "size": "209.0 MiB",
+    "date": "27-Sep-2013 09:22"
+  },
+  {
+    "name": "NetBSD-6.0.3-cobalt.iso",
+    "href": "NetBSD-6.0.3-cobalt.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/6.0.3/NetBSD-6.0.3-cobalt.iso",
+    "is_dir": false,
+    "size": "193.0 MiB",
+    "date": "27-Sep-2013 09:54"
+  },
+  {
+    "name": "NetBSD-6.0.3-dreamcast.iso",
+    "href": "NetBSD-6.0.3-dreamcast.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/6.0.3/NetBSD-6.0.3-dreamcast.iso",
+    "is_dir": false,
+    "size": "186.9 MiB",
+    "date": "27-Sep-2013 09:54"
+  },
+  {
+    "name": "NetBSD-6.0.3-emips.iso",
+    "href": "NetBSD-6.0.3-emips.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/6.0.3/NetBSD-6.0.3-emips.iso",
+    "is_dir": false,
+    "size": "201.8 MiB",
+    "date": "27-Sep-2013 09:18"
+  },
+  {
+    "name": "NetBSD-6.0.3-evbarm.iso",
+    "href": "NetBSD-6.0.3-evbarm.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/6.0.3/NetBSD-6.0.3-evbarm.iso",
+    "is_dir": false,
+    "size": "784.9 MiB",
+    "date": "27-Sep-2013 10:03"
+  },
+  {
+    "name": "NetBSD-6.0.3-evbmips-mips64eb.iso",
+    "href": "NetBSD-6.0.3-evbmips-mips64eb.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/6.0.3/NetBSD-6.0.3-evbmips-mips64eb.iso",
+    "is_dir": false,
+    "size": "277.0 MiB",
+    "date": "27-Sep-2013 10:09"
+  },
+  {
+    "name": "NetBSD-6.0.3-evbmips-mips64el.iso",
+    "href": "NetBSD-6.0.3-evbmips-mips64el.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/6.0.3/NetBSD-6.0.3-evbmips-mips64el.iso",
+    "is_dir": false,
+    "size": "297.2 MiB",
+    "date": "27-Sep-2013 11:17"
+  },
+  {
+    "name": "NetBSD-6.0.3-evbmips-mipseb.iso",
+    "href": "NetBSD-6.0.3-evbmips-mipseb.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/6.0.3/NetBSD-6.0.3-evbmips-mipseb.iso",
+    "is_dir": false,
+    "size": "219.2 MiB",
+    "date": "27-Sep-2013 10:30"
+  },
+  {
+    "name": "NetBSD-6.0.3-evbmips-mipsel.iso",
+    "href": "NetBSD-6.0.3-evbmips-mipsel.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/6.0.3/NetBSD-6.0.3-evbmips-mipsel.iso",
+    "is_dir": false,
+    "size": "253.4 MiB",
+    "date": "27-Sep-2013 10:48"
+  },
+  {
+    "name": "NetBSD-6.0.3-evbppc.iso",
+    "href": "NetBSD-6.0.3-evbppc.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/6.0.3/NetBSD-6.0.3-evbppc.iso",
+    "is_dir": false,
+    "size": "301.9 MiB",
+    "date": "27-Sep-2013 10:47"
+  },
+  {
+    "name": "NetBSD-6.0.3-evbsh3-sh3eb.iso",
+    "href": "NetBSD-6.0.3-evbsh3-sh3eb.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/6.0.3/NetBSD-6.0.3-evbsh3-sh3eb.iso",
+    "is_dir": false,
+    "size": "182.6 MiB",
+    "date": "27-Sep-2013 10:44"
+  },
+  {
+    "name": "NetBSD-6.0.3-evbsh3-sh3el.iso",
+    "href": "NetBSD-6.0.3-evbsh3-sh3el.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/6.0.3/NetBSD-6.0.3-evbsh3-sh3el.iso",
+    "is_dir": false,
+    "size": "204.6 MiB",
+    "date": "27-Sep-2013 11:32"
+  },
+  {
+    "name": "NetBSD-6.0.3-ews4800mips.iso",
+    "href": "NetBSD-6.0.3-ews4800mips.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/6.0.3/NetBSD-6.0.3-ews4800mips.iso",
+    "is_dir": false,
+    "size": "190.4 MiB",
+    "date": "27-Sep-2013 11:49"
+  },
+  {
+    "name": "NetBSD-6.0.3-hp300.iso",
+    "href": "NetBSD-6.0.3-hp300.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/6.0.3/NetBSD-6.0.3-hp300.iso",
+    "is_dir": false,
+    "size": "167.1 MiB",
+    "date": "27-Sep-2013 11:18"
+  },
+  {
+    "name": "NetBSD-6.0.3-hp700.iso",
+    "href": "NetBSD-6.0.3-hp700.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/6.0.3/NetBSD-6.0.3-hp700.iso",
+    "is_dir": false,
+    "size": "244.2 MiB",
+    "date": "27-Sep-2013 11:20"
+  },
+  {
+    "name": "NetBSD-6.0.3-hpcarm.iso",
+    "href": "NetBSD-6.0.3-hpcarm.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/6.0.3/NetBSD-6.0.3-hpcarm.iso",
+    "is_dir": false,
+    "size": "205.3 MiB",
+    "date": "27-Sep-2013 12:22"
+  },
+  {
+    "name": "NetBSD-6.0.3-hpcmips.iso",
+    "href": "NetBSD-6.0.3-hpcmips.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/6.0.3/NetBSD-6.0.3-hpcmips.iso",
+    "is_dir": false,
+    "size": "201.0 MiB",
+    "date": "27-Sep-2013 12:21"
+  },
+  {
+    "name": "NetBSD-6.0.3-hpcsh.iso",
+    "href": "NetBSD-6.0.3-hpcsh.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/6.0.3/NetBSD-6.0.3-hpcsh.iso",
+    "is_dir": false,
+    "size": "186.9 MiB",
+    "date": "27-Sep-2013 11:49"
+  },
+  {
+    "name": "NetBSD-6.0.3-i386-install.img.gz",
+    "href": "NetBSD-6.0.3-i386-install.img.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/6.0.3/NetBSD-6.0.3-i386-install.img.gz",
+    "is_dir": false,
+    "size": "310.6 MiB",
+    "date": "27-Sep-2013 12:07"
+  },
+  {
+    "name": "NetBSD-6.0.3-i386.iso",
+    "href": "NetBSD-6.0.3-i386.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/6.0.3/NetBSD-6.0.3-i386.iso",
+    "is_dir": false,
+    "size": "312.7 MiB",
+    "date": "27-Sep-2013 12:06"
+  },
+  {
+    "name": "NetBSD-6.0.3-ibmnws.iso",
+    "href": "NetBSD-6.0.3-ibmnws.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/6.0.3/NetBSD-6.0.3-ibmnws.iso",
+    "is_dir": false,
+    "size": "195.6 MiB",
+    "date": "27-Sep-2013 12:55"
+  },
+  {
+    "name": "NetBSD-6.0.3-luna68k.iso",
+    "href": "NetBSD-6.0.3-luna68k.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/6.0.3/NetBSD-6.0.3-luna68k.iso",
+    "is_dir": false,
+    "size": "165.9 MiB",
+    "date": "27-Sep-2013 12:39"
+  },
+  {
+    "name": "NetBSD-6.0.3-mac68k.iso",
+    "href": "NetBSD-6.0.3-mac68k.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/6.0.3/NetBSD-6.0.3-mac68k.iso",
+    "is_dir": false,
+    "size": "235.1 MiB",
+    "date": "28-Sep-2013 17:40"
+  },
+  {
+    "name": "NetBSD-6.0.3-macppc.iso",
+    "href": "NetBSD-6.0.3-macppc.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/6.0.3/NetBSD-6.0.3-macppc.iso",
+    "is_dir": false,
+    "size": "295.8 MiB",
+    "date": "27-Sep-2013 19:58"
+  },
+  {
+    "name": "NetBSD-6.0.3-mipsco.iso",
+    "href": "NetBSD-6.0.3-mipsco.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/6.0.3/NetBSD-6.0.3-mipsco.iso",
+    "is_dir": false,
+    "size": "192.8 MiB",
+    "date": "27-Sep-2013 13:46"
+  },
+  {
+    "name": "NetBSD-6.0.3-mvme68k.iso",
+    "href": "NetBSD-6.0.3-mvme68k.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/6.0.3/NetBSD-6.0.3-mvme68k.iso",
+    "is_dir": false,
+    "size": "172.7 MiB",
+    "date": "27-Sep-2013 13:28"
+  },
+  {
+    "name": "NetBSD-6.0.3-mvmeppc.iso",
+    "href": "NetBSD-6.0.3-mvmeppc.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/6.0.3/NetBSD-6.0.3-mvmeppc.iso",
+    "is_dir": false,
+    "size": "194.6 MiB",
+    "date": "27-Sep-2013 14:29"
+  },
+  {
+    "name": "NetBSD-6.0.3-news68k.iso",
+    "href": "NetBSD-6.0.3-news68k.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/6.0.3/NetBSD-6.0.3-news68k.iso",
+    "is_dir": false,
+    "size": "165.9 MiB",
+    "date": "27-Sep-2013 13:58"
+  },
+  {
+    "name": "NetBSD-6.0.3-newsmips.iso",
+    "href": "NetBSD-6.0.3-newsmips.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/6.0.3/NetBSD-6.0.3-newsmips.iso",
+    "is_dir": false,
+    "size": "187.4 MiB",
+    "date": "27-Sep-2013 14:19"
+  },
+  {
+    "name": "NetBSD-6.0.3-ofppc.iso",
+    "href": "NetBSD-6.0.3-ofppc.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/6.0.3/NetBSD-6.0.3-ofppc.iso",
+    "is_dir": false,
+    "size": "209.9 MiB",
+    "date": "27-Sep-2013 14:32"
+  },
+  {
+    "name": "NetBSD-6.0.3-pmax.iso",
+    "href": "NetBSD-6.0.3-pmax.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/6.0.3/NetBSD-6.0.3-pmax.iso",
+    "is_dir": false,
+    "size": "199.5 MiB",
+    "date": "27-Sep-2013 14:52"
+  },
+  {
+    "name": "NetBSD-6.0.3-prep.iso",
+    "href": "NetBSD-6.0.3-prep.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/6.0.3/NetBSD-6.0.3-prep.iso",
+    "is_dir": false,
+    "size": "222.2 MiB",
+    "date": "27-Sep-2013 15:06"
+  },
+  {
+    "name": "NetBSD-6.0.3-sandpoint.iso",
+    "href": "NetBSD-6.0.3-sandpoint.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/6.0.3/NetBSD-6.0.3-sandpoint.iso",
+    "is_dir": false,
+    "size": "205.2 MiB",
+    "date": "27-Sep-2013 15:30"
+  },
+  {
+    "name": "NetBSD-6.0.3-sgimips.iso",
+    "href": "NetBSD-6.0.3-sgimips.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/6.0.3/NetBSD-6.0.3-sgimips.iso",
+    "is_dir": false,
+    "size": "227.5 MiB",
+    "date": "27-Sep-2013 16:06"
+  },
+  {
+    "name": "NetBSD-6.0.3-shark.iso",
+    "href": "NetBSD-6.0.3-shark.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/6.0.3/NetBSD-6.0.3-shark.iso",
+    "is_dir": false,
+    "size": "196.2 MiB",
+    "date": "27-Sep-2013 16:08"
+  },
+  {
+    "name": "NetBSD-6.0.3-source.iso",
+    "href": "NetBSD-6.0.3-source.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/6.0.3/NetBSD-6.0.3-source.iso",
+    "is_dir": false,
+    "size": "449.1 MiB",
+    "date": "27-Sep-2013 19:57"
+  },
+  {
+    "name": "NetBSD-6.0.3-sparc.iso",
+    "href": "NetBSD-6.0.3-sparc.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/6.0.3/NetBSD-6.0.3-sparc.iso",
+    "is_dir": false,
+    "size": "225.6 MiB",
+    "date": "27-Sep-2013 16:42"
+  },
+  {
+    "name": "NetBSD-6.0.3-sparc64.iso",
+    "href": "NetBSD-6.0.3-sparc64.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/6.0.3/NetBSD-6.0.3-sparc64.iso",
+    "is_dir": false,
+    "size": "291.6 MiB",
+    "date": "27-Sep-2013 17:26"
+  },
+  {
+    "name": "NetBSD-6.0.3-sun2.iso",
+    "href": "NetBSD-6.0.3-sun2.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/6.0.3/NetBSD-6.0.3-sun2.iso",
+    "is_dir": false,
+    "size": "365.7 MiB",
+    "date": "27-Sep-2013 16:30"
+  },
+  {
+    "name": "NetBSD-6.0.3-sun3.iso",
+    "href": "NetBSD-6.0.3-sun3.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/6.0.3/NetBSD-6.0.3-sun3.iso",
+    "is_dir": false,
+    "size": "173.1 MiB",
+    "date": "27-Sep-2013 17:25"
+  },
+  {
+    "name": "NetBSD-6.0.3-vax.iso",
+    "href": "NetBSD-6.0.3-vax.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/6.0.3/NetBSD-6.0.3-vax.iso",
+    "is_dir": false,
+    "size": "163.4 MiB",
+    "date": "27-Sep-2013 16:52"
+  },
+  {
+    "name": "NetBSD-6.0.3-x68k.iso",
+    "href": "NetBSD-6.0.3-x68k.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/6.0.3/NetBSD-6.0.3-x68k.iso",
+    "is_dir": false,
+    "size": "159.2 MiB",
+    "date": "27-Sep-2013 17:10"
+  },
+  {
+    "name": "NetBSD-6.0.3-zaurus.iso",
+    "href": "NetBSD-6.0.3-zaurus.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/6.0.3/NetBSD-6.0.3-zaurus.iso",
+    "is_dir": false,
+    "size": "200.2 MiB",
+    "date": "27-Sep-2013 18:01"
+  },
+  {
+    "name": "SHA512",
+    "href": "SHA512",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/6.0.3/SHA512",
+    "is_dir": false,
+    "size": "0 B",
+    "date": "28-Sep-2013 18:48"
+  }
+]

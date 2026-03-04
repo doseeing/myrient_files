@@ -1,0 +1,26 @@
+[
+  {
+    "name": "CKSUMS",
+    "href": "CKSUMS",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/x68k/binary/misc12/CKSUMS",
+    "is_dir": false,
+    "size": "57 B",
+    "date": "24-Sep-1996 02:34"
+  },
+  {
+    "name": "misc12.aa",
+    "href": "misc12.aa",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/x68k/binary/misc12/misc12.aa",
+    "is_dir": false,
+    "size": "1.2 MiB",
+    "date": "24-Sep-1996 02:34"
+  },
+  {
+    "name": "misc12.ab",
+    "href": "misc12.ab",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/x68k/binary/misc12/misc12.ab",
+    "is_dir": false,
+    "size": "656.0 KiB",
+    "date": "24-Sep-1996 02:34"
+  }
+]

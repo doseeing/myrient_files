@@ -1,0 +1,66 @@
+[
+  {
+    "name": "CKSUMS",
+    "href": "CKSUMS",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.0/hp300/binary/CKSUMS",
+    "is_dir": false,
+    "size": "224 B",
+    "date": "15-Nov-1994 05:26"
+  },
+  {
+    "name": "base10.tar.gz",
+    "href": "base10.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.0/hp300/binary/base10.tar.gz",
+    "is_dir": false,
+    "size": "6.1 MiB",
+    "date": "10-Nov-1994 19:02"
+  },
+  {
+    "name": "comp10.tar.gz",
+    "href": "comp10.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.0/hp300/binary/comp10.tar.gz",
+    "is_dir": false,
+    "size": "4.0 MiB",
+    "date": "10-Nov-1994 19:09"
+  },
+  {
+    "name": "etc10.tar.gz",
+    "href": "etc10.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.0/hp300/binary/etc10.tar.gz",
+    "is_dir": false,
+    "size": "50.8 KiB",
+    "date": "10-Nov-1994 19:09"
+  },
+  {
+    "name": "games10.tar.gz",
+    "href": "games10.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.0/hp300/binary/games10.tar.gz",
+    "is_dir": false,
+    "size": "1.0 MiB",
+    "date": "10-Nov-1994 19:11"
+  },
+  {
+    "name": "man10.tar.gz",
+    "href": "man10.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.0/hp300/binary/man10.tar.gz",
+    "is_dir": false,
+    "size": "751.7 KiB",
+    "date": "10-Nov-1994 19:15"
+  },
+  {
+    "name": "misc10.tar.gz",
+    "href": "misc10.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.0/hp300/binary/misc10.tar.gz",
+    "is_dir": false,
+    "size": "1.6 MiB",
+    "date": "10-Nov-1994 19:18"
+  },
+  {
+    "name": "text10.tar.gz",
+    "href": "text10.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.0/hp300/binary/text10.tar.gz",
+    "is_dir": false,
+    "size": "782.4 KiB",
+    "date": "10-Nov-1994 19:13"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "name": "BSDSUM",
+    "href": "BSDSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/pmax/installation/misc/BSDSUM",
+    "is_dir": false,
+    "size": "18 B",
+    "date": "18-Jan-1998 23:50"
+  },
+  {
+    "name": "CKSUM",
+    "href": "CKSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/pmax/installation/misc/CKSUM",
+    "is_dir": false,
+    "size": "26 B",
+    "date": "18-Jan-1998 23:50"
+  },
+  {
+    "name": "MD5SUM",
+    "href": "MD5SUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/pmax/installation/misc/MD5SUM",
+    "is_dir": false,
+    "size": "49 B",
+    "date": "18-Jan-1998 23:50"
+  },
+  {
+    "name": "SYSVSUM",
+    "href": "SYSVSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/pmax/installation/misc/SYSVSUM",
+    "is_dir": false,
+    "size": "19 B",
+    "date": "18-Jan-1998 23:50"
+  },
+  {
+    "name": "sysinst",
+    "href": "sysinst",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/pmax/installation/misc/sysinst",
+    "is_dir": false,
+    "size": "552.1 KiB",
+    "date": "17-Jan-1998 01:35"
+  }
+]

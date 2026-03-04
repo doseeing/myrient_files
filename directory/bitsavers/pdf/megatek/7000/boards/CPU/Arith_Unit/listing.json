@@ -1,0 +1,26 @@
+[
+  {
+    "name": "firmware",
+    "href": "firmware/",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/megatek/7000/boards/CPU/Arith_Unit/firmware/",
+    "is_dir": true,
+    "size": null,
+    "date": "22-Sep-2024 18:01"
+  },
+  {
+    "name": "back.jpg",
+    "href": "back.jpg",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/megatek/7000/boards/CPU/Arith_Unit/back.jpg",
+    "is_dir": false,
+    "size": "1.6 MiB",
+    "date": "22-Sep-2024 18:01"
+  },
+  {
+    "name": "front.jpg",
+    "href": "front.jpg",
+    "url": "https://myrient.erista.me/files/bitsavers/pdf/megatek/7000/boards/CPU/Arith_Unit/front.jpg",
+    "is_dir": false,
+    "size": "1.1 MiB",
+    "date": "22-Sep-2024 18:01"
+  }
+]

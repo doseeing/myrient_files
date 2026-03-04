@@ -1,0 +1,58 @@
+[
+  {
+    "name": "BSDSUM",
+    "href": "BSDSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/sparc64/installation/misc/BSDSUM",
+    "is_dir": false,
+    "size": "55 B",
+    "date": "17-Nov-2000 21:32"
+  },
+  {
+    "name": "CKSUM",
+    "href": "CKSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/sparc64/installation/misc/CKSUM",
+    "is_dir": false,
+    "size": "78 B",
+    "date": "17-Nov-2000 21:32"
+  },
+  {
+    "name": "MD5",
+    "href": "MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/sparc64/installation/misc/MD5",
+    "is_dir": false,
+    "size": "151 B",
+    "date": "17-Nov-2000 21:32"
+  },
+  {
+    "name": "SYSVSUM",
+    "href": "SYSVSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/sparc64/installation/misc/SYSVSUM",
+    "is_dir": false,
+    "size": "56 B",
+    "date": "17-Nov-2000 21:32"
+  },
+  {
+    "name": "bootblk",
+    "href": "bootblk",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/sparc64/installation/misc/bootblk",
+    "is_dir": false,
+    "size": "4.7 KiB",
+    "date": "17-Nov-2000 16:31"
+  },
+  {
+    "name": "installboot",
+    "href": "installboot",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/sparc64/installation/misc/installboot",
+    "is_dir": false,
+    "size": "70.3 KiB",
+    "date": "17-Nov-2000 16:31"
+  },
+  {
+    "name": "ofwboot",
+    "href": "ofwboot",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/sparc64/installation/misc/ofwboot",
+    "is_dir": false,
+    "size": "246.7 KiB",
+    "date": "17-Nov-2000 16:27"
+  }
+]

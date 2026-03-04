@@ -1,0 +1,42 @@
+[
+  {
+    "name": "BSDSUM",
+    "href": "BSDSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/hp300/installation/miniroot/BSDSUM",
+    "is_dir": false,
+    "size": "30 B",
+    "date": "14-Mar-1998 16:09"
+  },
+  {
+    "name": "CKSUM",
+    "href": "CKSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/hp300/installation/miniroot/CKSUM",
+    "is_dir": false,
+    "size": "38 B",
+    "date": "14-Mar-1998 16:10"
+  },
+  {
+    "name": "MD5",
+    "href": "MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/hp300/installation/miniroot/MD5",
+    "is_dir": false,
+    "size": "60 B",
+    "date": "14-Mar-1998 16:10"
+  },
+  {
+    "name": "SYSVSUM",
+    "href": "SYSVSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/hp300/installation/miniroot/SYSVSUM",
+    "is_dir": false,
+    "size": "30 B",
+    "date": "14-Mar-1998 16:10"
+  },
+  {
+    "name": "miniroot-131.fs.gz",
+    "href": "miniroot-131.fs.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/hp300/installation/miniroot/miniroot-131.fs.gz",
+    "is_dir": false,
+    "size": "1.6 MiB",
+    "date": "14-Mar-1998 15:42"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "name": "BSDSUM",
+    "href": "BSDSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/sparc/installation/netboot/BSDSUM",
+    "is_dir": false,
+    "size": "18 B",
+    "date": "02-Jan-1998 14:12"
+  },
+  {
+    "name": "CKSUM",
+    "href": "CKSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/sparc/installation/netboot/CKSUM",
+    "is_dir": false,
+    "size": "26 B",
+    "date": "02-Jan-1998 14:12"
+  },
+  {
+    "name": "MD5",
+    "href": "MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/sparc/installation/netboot/MD5",
+    "is_dir": false,
+    "size": "50 B",
+    "date": "02-Jan-1998 14:12"
+  },
+  {
+    "name": "SYSVSUM",
+    "href": "SYSVSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/sparc/installation/netboot/SYSVSUM",
+    "is_dir": false,
+    "size": "18 B",
+    "date": "02-Jan-1998 14:12"
+  },
+  {
+    "name": "boot.net",
+    "href": "boot.net",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/sparc/installation/netboot/boot.net",
+    "is_dir": false,
+    "size": "42.8 KiB",
+    "date": "02-Jan-1998 13:34"
+  }
+]

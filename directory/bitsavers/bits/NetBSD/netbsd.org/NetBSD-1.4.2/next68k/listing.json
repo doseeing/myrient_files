@@ -1,0 +1,74 @@
+[
+  {
+    "name": "binary",
+    "href": "binary/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/next68k/binary/",
+    "is_dir": true,
+    "size": null,
+    "date": "01-Oct-2023 18:33"
+  },
+  {
+    "name": "installation",
+    "href": "installation/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/next68k/installation/",
+    "is_dir": true,
+    "size": null,
+    "date": "01-Oct-2023 18:33"
+  },
+  {
+    "name": "INSTALL.html",
+    "href": "INSTALL.html",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/next68k/INSTALL.html",
+    "is_dir": false,
+    "size": "68.3 KiB",
+    "date": "04-Mar-2000 15:26"
+  },
+  {
+    "name": "INSTALL.more",
+    "href": "INSTALL.more",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/next68k/INSTALL.more",
+    "is_dir": false,
+    "size": "62.3 KiB",
+    "date": "04-Mar-2000 15:26"
+  },
+  {
+    "name": "INSTALL.ps",
+    "href": "INSTALL.ps",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/next68k/INSTALL.ps",
+    "is_dir": false,
+    "size": "97.8 KiB",
+    "date": "04-Mar-2000 15:26"
+  },
+  {
+    "name": "INSTALL.txt",
+    "href": "INSTALL.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/next68k/INSTALL.txt",
+    "is_dir": false,
+    "size": "55.5 KiB",
+    "date": "04-Mar-2000 15:26"
+  },
+  {
+    "name": "LAST_MINUTE",
+    "href": "LAST_MINUTE",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/next68k/LAST_MINUTE",
+    "is_dir": false,
+    "size": "2.4 KiB",
+    "date": "16-Mar-2000 10:41"
+  },
+  {
+    "name": "README",
+    "href": "README",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/next68k/README",
+    "is_dir": false,
+    "size": "844 B",
+    "date": "16-Mar-2000 10:42"
+  },
+  {
+    "name": "SOURCE_DATE",
+    "href": "SOURCE_DATE",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/next68k/SOURCE_DATE",
+    "is_dir": false,
+    "size": "20 B",
+    "date": "05-Mar-2000 07:59"
+  }
+]

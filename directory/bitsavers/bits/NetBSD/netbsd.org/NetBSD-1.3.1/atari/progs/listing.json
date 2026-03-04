@@ -1,0 +1,66 @@
+[
+  {
+    "name": "BSDSUM",
+    "href": "BSDSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/atari/progs/BSDSUM",
+    "is_dir": false,
+    "size": "125 B",
+    "date": "02-Apr-1998 07:54"
+  },
+  {
+    "name": "CKSUM",
+    "href": "CKSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/atari/progs/CKSUM",
+    "is_dir": false,
+    "size": "156 B",
+    "date": "02-Apr-1998 07:54"
+  },
+  {
+    "name": "MD5",
+    "href": "MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/atari/progs/MD5",
+    "is_dir": false,
+    "size": "253 B",
+    "date": "02-Apr-1998 07:54"
+  },
+  {
+    "name": "README.X32servonly.diff",
+    "href": "README.X32servonly.diff",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/atari/progs/README.X32servonly.diff",
+    "is_dir": false,
+    "size": "483 B",
+    "date": "30-Mar-1998 12:41"
+  },
+  {
+    "name": "README.xservers",
+    "href": "README.xservers",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/atari/progs/README.xservers",
+    "is_dir": false,
+    "size": "2.2 KiB",
+    "date": "30-Mar-1998 12:41"
+  },
+  {
+    "name": "SYSVSUM",
+    "href": "SYSVSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/atari/progs/SYSVSUM",
+    "is_dir": false,
+    "size": "125 B",
+    "date": "02-Apr-1998 07:54"
+  },
+  {
+    "name": "X32servonly.diff.gz",
+    "href": "X32servonly.diff.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/atari/progs/X32servonly.diff.gz",
+    "is_dir": false,
+    "size": "60.1 KiB",
+    "date": "30-Mar-1998 12:41"
+  },
+  {
+    "name": "XF68_NetBSD-1.3-Atari.tar.gz",
+    "href": "XF68_NetBSD-1.3-Atari.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/atari/progs/XF68_NetBSD-1.3-Atari.tar.gz",
+    "is_dir": false,
+    "size": "1.9 MiB",
+    "date": "30-Mar-1998 12:41"
+  }
+]

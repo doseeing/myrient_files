@@ -1,0 +1,50 @@
+[
+  {
+    "name": "BSDSUM",
+    "href": "BSDSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/patches/BSDSUM",
+    "is_dir": false,
+    "size": "41 B",
+    "date": "22-Jan-2001 15:39"
+  },
+  {
+    "name": "CKSUM",
+    "href": "CKSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/patches/CKSUM",
+    "is_dir": false,
+    "size": "55 B",
+    "date": "22-Jan-2001 15:39"
+  },
+  {
+    "name": "MD5",
+    "href": "MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/patches/MD5",
+    "is_dir": false,
+    "size": "107 B",
+    "date": "22-Jan-2001 15:39"
+  },
+  {
+    "name": "README",
+    "href": "README",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/patches/README",
+    "is_dir": false,
+    "size": "216 B",
+    "date": "22-Jan-2001 15:36"
+  },
+  {
+    "name": "SYSVSUM",
+    "href": "SYSVSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/patches/SYSVSUM",
+    "is_dir": false,
+    "size": "41 B",
+    "date": "22-Jan-2001 15:39"
+  },
+  {
+    "name": "x68k-rtclock.diff",
+    "href": "x68k-rtclock.diff",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/patches/x68k-rtclock.diff",
+    "is_dir": false,
+    "size": "511 B",
+    "date": "22-Jan-2001 15:38"
+  }
+]

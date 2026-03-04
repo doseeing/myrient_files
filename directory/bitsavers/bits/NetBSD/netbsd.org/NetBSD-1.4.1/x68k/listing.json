@@ -1,0 +1,98 @@
+[
+  {
+    "name": "binary",
+    "href": "binary/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/x68k/binary/",
+    "is_dir": true,
+    "size": null,
+    "date": "01-Oct-2023 18:33"
+  },
+  {
+    "name": "installation",
+    "href": "installation/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/x68k/installation/",
+    "is_dir": true,
+    "size": null,
+    "date": "01-Oct-2023 18:33"
+  },
+  {
+    "name": "BSDSUM",
+    "href": "BSDSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/x68k/BSDSUM",
+    "is_dir": false,
+    "size": "128 B",
+    "date": "16-Aug-1999 14:42"
+  },
+  {
+    "name": "CKSUM",
+    "href": "CKSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/x68k/CKSUM",
+    "is_dir": false,
+    "size": "171 B",
+    "date": "16-Aug-1999 14:42"
+  },
+  {
+    "name": "INSTALL.html",
+    "href": "INSTALL.html",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/x68k/INSTALL.html",
+    "is_dir": false,
+    "size": "99.2 KiB",
+    "date": "16-Aug-1999 14:32"
+  },
+  {
+    "name": "INSTALL.more",
+    "href": "INSTALL.more",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/x68k/INSTALL.more",
+    "is_dir": false,
+    "size": "95.5 KiB",
+    "date": "16-Aug-1999 14:34"
+  },
+  {
+    "name": "INSTALL.ps",
+    "href": "INSTALL.ps",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/x68k/INSTALL.ps",
+    "is_dir": false,
+    "size": "150.4 KiB",
+    "date": "16-Aug-1999 14:29"
+  },
+  {
+    "name": "INSTALL.txt",
+    "href": "INSTALL.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/x68k/INSTALL.txt",
+    "is_dir": false,
+    "size": "93.0 KiB",
+    "date": "16-Aug-1999 14:31"
+  },
+  {
+    "name": "MD5",
+    "href": "MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/x68k/MD5",
+    "is_dir": false,
+    "size": "319 B",
+    "date": "16-Aug-1999 14:42"
+  },
+  {
+    "name": "SOURCE_DATE",
+    "href": "SOURCE_DATE",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/x68k/SOURCE_DATE",
+    "is_dir": false,
+    "size": "29 B",
+    "date": "16-Aug-1999 14:42"
+  },
+  {
+    "name": "SYSVSUM",
+    "href": "SYSVSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/x68k/SYSVSUM",
+    "is_dir": false,
+    "size": "129 B",
+    "date": "16-Aug-1999 14:42"
+  },
+  {
+    "name": "release.man",
+    "href": "release.man",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/x68k/release.man",
+    "is_dir": false,
+    "size": "13.1 KiB",
+    "date": "18-Jul-1999 16:00"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "name": "CKSUMS",
+    "href": "CKSUMS",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.0/sparc/install/CKSUMS",
+    "is_dir": false,
+    "size": "161 B",
+    "date": "06-Nov-1994 20:58"
+  },
+  {
+    "name": "gtar",
+    "href": "gtar",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.0/sparc/install/gtar",
+    "is_dir": false,
+    "size": "192.0 KiB",
+    "date": "30-Oct-1994 02:44"
+  },
+  {
+    "name": "gzip",
+    "href": "gzip",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.0/sparc/install/gzip",
+    "is_dir": false,
+    "size": "184.0 KiB",
+    "date": "30-Oct-1994 02:44"
+  },
+  {
+    "name": "install.sh",
+    "href": "install.sh",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.0/sparc/install/install.sh",
+    "is_dir": false,
+    "size": "497 B",
+    "date": "30-Oct-1994 02:44"
+  },
+  {
+    "name": "netbsd.first_scsi",
+    "href": "netbsd.first_scsi",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.0/sparc/install/netbsd.first_scsi",
+    "is_dir": false,
+    "size": "1.1 MiB",
+    "date": "30-Oct-1994 02:44"
+  },
+  {
+    "name": "netbsd.id3_scsi",
+    "href": "netbsd.id3_scsi",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.0/sparc/install/netbsd.id3_scsi",
+    "is_dir": false,
+    "size": "1.1 MiB",
+    "date": "30-Oct-1994 02:44"
+  }
+]

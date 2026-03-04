@@ -1,0 +1,82 @@
+[
+  {
+    "name": "generic-memory-interface.lisp.1",
+    "href": "generic-memory-interface.lisp.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-8/kbug2/generic-memory-interface.lisp.1",
+    "is_dir": false,
+    "size": "1.5 KiB",
+    "date": "21-Apr-2017 01:19"
+  },
+  {
+    "name": "generic.lisp.2",
+    "href": "generic.lisp.2",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-8/kbug2/generic.lisp.2",
+    "is_dir": false,
+    "size": "3.9 KiB",
+    "date": "21-Apr-2017 01:19"
+  },
+  {
+    "name": "kbug-generic.lisp.148",
+    "href": "kbug-generic.lisp.148",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-8/kbug2/kbug-generic.lisp.148",
+    "is_dir": false,
+    "size": "53.1 KiB",
+    "date": "21-Apr-2017 01:19"
+  },
+  {
+    "name": "kbug2.lisp.221",
+    "href": "kbug2.lisp.221",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-8/kbug2/kbug2.lisp.221",
+    "is_dir": false,
+    "size": "42.7 KiB",
+    "date": "21-Apr-2017 01:19"
+  },
+  {
+    "name": "kbug2.lqfasl.213",
+    "href": "kbug2.lqfasl.213",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-8/kbug2/kbug2.lqfasl.213",
+    "is_dir": false,
+    "size": "44.3 KiB",
+    "date": "21-Apr-2017 01:19"
+  },
+  {
+    "name": "simple-printers.lisp.2",
+    "href": "simple-printers.lisp.2",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-8/kbug2/simple-printers.lisp.2",
+    "is_dir": false,
+    "size": "1.8 KiB",
+    "date": "21-Apr-2017 01:19"
+  },
+  {
+    "name": "warm-download.lisp.4",
+    "href": "warm-download.lisp.4",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-8/kbug2/warm-download.lisp.4",
+    "is_dir": false,
+    "size": "1.1 KiB",
+    "date": "21-Apr-2017 01:19"
+  },
+  {
+    "name": "wimp-repl.lisp.25",
+    "href": "wimp-repl.lisp.25",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-8/kbug2/wimp-repl.lisp.25",
+    "is_dir": false,
+    "size": "8.3 KiB",
+    "date": "21-Apr-2017 01:19"
+  },
+  {
+    "name": "wimp-terminal.lisp.6",
+    "href": "wimp-terminal.lisp.6",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-8/kbug2/wimp-terminal.lisp.6",
+    "is_dir": false,
+    "size": "3.2 KiB",
+    "date": "21-Apr-2017 01:19"
+  },
+  {
+    "name": "window.lisp.10",
+    "href": "window.lisp.10",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-8/kbug2/window.lisp.10",
+    "is_dir": false,
+    "size": "2.7 KiB",
+    "date": "21-Apr-2017 01:19"
+  }
+]

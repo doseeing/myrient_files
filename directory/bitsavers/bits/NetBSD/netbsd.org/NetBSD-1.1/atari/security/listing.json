@@ -1,0 +1,34 @@
+[
+  {
+    "name": "CKSUMS",
+    "href": "CKSUMS",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/atari/security/CKSUMS",
+    "is_dir": false,
+    "size": "53 B",
+    "date": "25-Nov-1995 03:40"
+  },
+  {
+    "name": "README.export-control",
+    "href": "README.export-control",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/atari/security/README.export-control",
+    "is_dir": false,
+    "size": "791 B",
+    "date": "25-Nov-1995 03:04"
+  },
+  {
+    "name": "secr11.aa",
+    "href": "secr11.aa",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/atari/security/secr11.aa",
+    "is_dir": false,
+    "size": "80.0 KiB",
+    "date": "25-Nov-1995 03:38"
+  },
+  {
+    "name": "secr11.ab",
+    "href": "secr11.ab",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/atari/security/secr11.ab",
+    "is_dir": false,
+    "size": "44.8 KiB",
+    "date": "25-Nov-1995 03:38"
+  }
+]

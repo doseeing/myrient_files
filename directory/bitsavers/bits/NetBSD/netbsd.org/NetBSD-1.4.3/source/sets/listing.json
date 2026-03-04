@@ -1,0 +1,74 @@
+[
+  {
+    "name": "BSDSUM",
+    "href": "BSDSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/source/sets/BSDSUM",
+    "is_dir": false,
+    "size": "111 B",
+    "date": "27-Jan-2001 17:51"
+  },
+  {
+    "name": "CKSUM",
+    "href": "CKSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/source/sets/CKSUM",
+    "is_dir": false,
+    "size": "149 B",
+    "date": "27-Jan-2001 17:56"
+  },
+  {
+    "name": "MD5",
+    "href": "MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/source/sets/MD5",
+    "is_dir": false,
+    "size": "257 B",
+    "date": "27-Jan-2001 18:03"
+  },
+  {
+    "name": "SYSVSUM",
+    "href": "SYSVSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/source/sets/SYSVSUM",
+    "is_dir": false,
+    "size": "110 B",
+    "date": "27-Jan-2001 18:13"
+  },
+  {
+    "name": "gnusrc.tgz",
+    "href": "gnusrc.tgz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/source/sets/gnusrc.tgz",
+    "is_dir": false,
+    "size": "19.0 MiB",
+    "date": "07-Nov-2000 10:54"
+  },
+  {
+    "name": "sharesrc.tgz",
+    "href": "sharesrc.tgz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/source/sets/sharesrc.tgz",
+    "is_dir": false,
+    "size": "3.0 MiB",
+    "date": "07-Nov-2000 11:00"
+  },
+  {
+    "name": "src.tgz",
+    "href": "src.tgz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/source/sets/src.tgz",
+    "is_dir": false,
+    "size": "14.5 MiB",
+    "date": "07-Nov-2000 10:49"
+  },
+  {
+    "name": "syssrc.tgz",
+    "href": "syssrc.tgz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/source/sets/syssrc.tgz",
+    "is_dir": false,
+    "size": "14.0 MiB",
+    "date": "07-Nov-2000 10:59"
+  },
+  {
+    "name": "xsrc.tgz",
+    "href": "xsrc.tgz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.3/source/sets/xsrc.tgz",
+    "is_dir": false,
+    "size": "33.6 MiB",
+    "date": "26-Jan-2001 12:00"
+  }
+]

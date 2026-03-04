@@ -1,0 +1,74 @@
+[
+  {
+    "name": ".new",
+    "href": ".new/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/sparc/binary/.new/",
+    "is_dir": true,
+    "size": null,
+    "date": "30-Sep-2023 17:20"
+  },
+  {
+    "name": "CKSUMS",
+    "href": "CKSUMS",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/sparc/binary/CKSUMS",
+    "is_dir": false,
+    "size": "212 B",
+    "date": "26-Nov-1995 21:36"
+  },
+  {
+    "name": "base.tar.gz",
+    "href": "base.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/sparc/binary/base.tar.gz",
+    "is_dir": false,
+    "size": "7.6 MiB",
+    "date": "22-Nov-1995 00:53"
+  },
+  {
+    "name": "comp.tar.gz",
+    "href": "comp.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/sparc/binary/comp.tar.gz",
+    "is_dir": false,
+    "size": "5.1 MiB",
+    "date": "22-Nov-1995 01:01"
+  },
+  {
+    "name": "etc.tar.gz",
+    "href": "etc.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/sparc/binary/etc.tar.gz",
+    "is_dir": false,
+    "size": "65.0 KiB",
+    "date": "22-Nov-1995 01:01"
+  },
+  {
+    "name": "games.tar.gz",
+    "href": "games.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/sparc/binary/games.tar.gz",
+    "is_dir": false,
+    "size": "2.8 MiB",
+    "date": "22-Nov-1995 01:04"
+  },
+  {
+    "name": "man.tar.gz",
+    "href": "man.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/sparc/binary/man.tar.gz",
+    "is_dir": false,
+    "size": "815.5 KiB",
+    "date": "22-Nov-1995 01:05"
+  },
+  {
+    "name": "misc.tar.gz",
+    "href": "misc.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/sparc/binary/misc.tar.gz",
+    "is_dir": false,
+    "size": "1.8 MiB",
+    "date": "22-Nov-1995 01:08"
+  },
+  {
+    "name": "text.tar.gz",
+    "href": "text.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/sparc/binary/text.tar.gz",
+    "is_dir": false,
+    "size": "790.8 KiB",
+    "date": "22-Nov-1995 01:09"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "name": "CKSUMS",
+    "href": "CKSUMS",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/sun3/inst11alpha/CKSUMS",
+    "is_dir": false,
+    "size": "170 B",
+    "date": "27-Nov-1995 20:54"
+  },
+  {
+    "name": "MakeBootTape",
+    "href": "MakeBootTape",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/sun3/inst11alpha/MakeBootTape",
+    "is_dir": false,
+    "size": "450 B",
+    "date": "27-Nov-1995 19:12"
+  },
+  {
+    "name": "miniroot.gz",
+    "href": "miniroot.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/sun3/inst11alpha/miniroot.gz",
+    "is_dir": false,
+    "size": "2.8 MiB",
+    "date": "20-Nov-1995 23:04"
+  },
+  {
+    "name": "netboot",
+    "href": "netboot",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/sun3/inst11alpha/netboot",
+    "is_dir": false,
+    "size": "13.0 KiB",
+    "date": "27-Nov-1995 19:05"
+  },
+  {
+    "name": "netbsd-gen.gz",
+    "href": "netbsd-gen.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/sun3/inst11alpha/netbsd-gen.gz",
+    "is_dir": false,
+    "size": "377.7 KiB",
+    "date": "21-Nov-1995 01:21"
+  },
+  {
+    "name": "netbsd-rd.gz",
+    "href": "netbsd-rd.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/sun3/inst11alpha/netbsd-rd.gz",
+    "is_dir": false,
+    "size": "363.9 KiB",
+    "date": "20-Nov-1995 22:56"
+  },
+  {
+    "name": "tapeboot",
+    "href": "tapeboot",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/sun3/inst11alpha/tapeboot",
+    "is_dir": false,
+    "size": "6.0 KiB",
+    "date": "27-Nov-1995 19:07"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "name": "BSDSUM",
+    "href": "BSDSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/sparc/installation/netboot/BSDSUM",
+    "is_dir": false,
+    "size": "97 B",
+    "date": "20-Jul-1999 15:19"
+  },
+  {
+    "name": "CKSUM",
+    "href": "CKSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/sparc/installation/netboot/CKSUM",
+    "is_dir": false,
+    "size": "138 B",
+    "date": "20-Jul-1999 15:19"
+  },
+  {
+    "name": "MD5",
+    "href": "MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/sparc/installation/netboot/MD5",
+    "is_dir": false,
+    "size": "259 B",
+    "date": "20-Jul-1999 15:19"
+  },
+  {
+    "name": "SYSVSUM",
+    "href": "SYSVSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/sparc/installation/netboot/SYSVSUM",
+    "is_dir": false,
+    "size": "98 B",
+    "date": "20-Jul-1999 15:19"
+  },
+  {
+    "name": "boot.net",
+    "href": "boot.net",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/sparc/installation/netboot/boot.net",
+    "is_dir": false,
+    "size": "54.9 KiB",
+    "date": "20-Jul-1999 07:36"
+  },
+  {
+    "name": "install.md",
+    "href": "install.md",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/sparc/installation/netboot/install.md",
+    "is_dir": false,
+    "size": "7.5 KiB",
+    "date": "20-Jul-1999 07:37"
+  },
+  {
+    "name": "install.sh",
+    "href": "install.sh",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/sparc/installation/netboot/install.sh",
+    "is_dir": false,
+    "size": "11.4 KiB",
+    "date": "20-Jul-1999 07:36"
+  },
+  {
+    "name": "install.sub",
+    "href": "install.sub",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/sparc/installation/netboot/install.sub",
+    "is_dir": false,
+    "size": "32.1 KiB",
+    "date": "20-Jul-1999 07:36"
+  },
+  {
+    "name": "upgrade.sh",
+    "href": "upgrade.sh",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/sparc/installation/netboot/upgrade.sh",
+    "is_dir": false,
+    "size": "10.3 KiB",
+    "date": "20-Jul-1999 07:36"
+  }
+]

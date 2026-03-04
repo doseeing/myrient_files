@@ -1,0 +1,74 @@
+[
+  {
+    "name": "READ_ME",
+    "href": "READ_ME",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/lpd_melb/READ_ME",
+    "is_dir": false,
+    "size": "330 B",
+    "date": "22-Nov-1978 05:39"
+  },
+  {
+    "name": "bprint.c",
+    "href": "bprint.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/lpd_melb/bprint.c",
+    "is_dir": false,
+    "size": "744 B",
+    "date": "22-Nov-1978 05:32"
+  },
+  {
+    "name": "chset.h",
+    "href": "chset.h",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/lpd_melb/chset.h",
+    "is_dir": false,
+    "size": "11.7 KiB",
+    "date": "22-Nov-1978 05:32"
+  },
+  {
+    "name": "install",
+    "href": "install",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/lpd_melb/install",
+    "is_dir": false,
+    "size": "78 B",
+    "date": "22-Nov-1978 05:32"
+  },
+  {
+    "name": "lpd.c",
+    "href": "lpd.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/lpd_melb/lpd.c",
+    "is_dir": false,
+    "size": "9.5 KiB",
+    "date": "22-Nov-1978 05:32"
+  },
+  {
+    "name": "make",
+    "href": "make",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/lpd_melb/make",
+    "is_dir": false,
+    "size": "77 B",
+    "date": "22-Nov-1978 05:31"
+  },
+  {
+    "name": "opctl.c",
+    "href": "opctl.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/lpd_melb/opctl.c",
+    "is_dir": false,
+    "size": "3.2 KiB",
+    "date": "22-Nov-1978 05:32"
+  },
+  {
+    "name": "opq.c",
+    "href": "opq.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/lpd_melb/opq.c",
+    "is_dir": false,
+    "size": "4.4 KiB",
+    "date": "22-Nov-1978 05:32"
+  },
+  {
+    "name": "opr.c",
+    "href": "opr.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/lpd_melb/opr.c",
+    "is_dir": false,
+    "size": "8.6 KiB",
+    "date": "22-Nov-1978 05:32"
+  }
+]

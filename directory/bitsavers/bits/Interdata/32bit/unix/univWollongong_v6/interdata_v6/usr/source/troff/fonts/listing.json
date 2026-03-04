@@ -1,0 +1,42 @@
+[
+  {
+    "name": "chtest",
+    "href": "chtest",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/troff/fonts/chtest",
+    "is_dir": false,
+    "size": "621 B",
+    "date": "15-Sep-1977 15:00"
+  },
+  {
+    "name": "fonts.a",
+    "href": "fonts.a",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/troff/fonts/fonts.a",
+    "is_dir": false,
+    "size": "36.9 KiB",
+    "date": "01-Aug-1978 13:22"
+  },
+  {
+    "name": "frc",
+    "href": "frc",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/troff/fonts/frc",
+    "is_dir": false,
+    "size": "107 B",
+    "date": "15-Sep-1977 15:00"
+  },
+  {
+    "name": "mkfont.c",
+    "href": "mkfont.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/troff/fonts/mkfont.c",
+    "is_dir": false,
+    "size": "1.7 KiB",
+    "date": "15-Sep-1977 15:00"
+  },
+  {
+    "name": "mkfont1.c",
+    "href": "mkfont1.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/Interdata/32bit/unix/univWollongong_v6/interdata_v6/usr/source/troff/fonts/mkfont1.c",
+    "is_dir": false,
+    "size": "5.2 KiB",
+    "date": "15-Sep-1977 15:00"
+  }
+]

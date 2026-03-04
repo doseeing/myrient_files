@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Makefile",
+    "href": "Makefile",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/trix/sys/low/Makefile",
+    "is_dir": false,
+    "size": "177 B",
+    "date": "11-Oct-1986 22:50"
+  },
+  {
+    "name": "low.s",
+    "href": "low.s",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/trix/sys/low/low.s",
+    "is_dir": false,
+    "size": "24.8 KiB",
+    "date": "11-Oct-1986 22:50"
+  },
+  {
+    "name": "lowcore.S",
+    "href": "lowcore.S",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/trix/sys/low/lowcore.S",
+    "is_dir": false,
+    "size": "24.2 KiB",
+    "date": "11-Oct-1986 22:50"
+  },
+  {
+    "name": "porch.S",
+    "href": "porch.S",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/trix/sys/low/porch.S",
+    "is_dir": false,
+    "size": "5.2 KiB",
+    "date": "11-Oct-1986 22:50"
+  }
+]

@@ -1,0 +1,882 @@
+[
+  {
+    "name": "MD5",
+    "href": "MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.0/MD5",
+    "is_dir": false,
+    "size": "3.4 KiB",
+    "date": "18-Jul-2018 07:28"
+  },
+  {
+    "name": "NetBSD-8.0-acorn32.iso",
+    "href": "NetBSD-8.0-acorn32.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.0/NetBSD-8.0-acorn32.iso",
+    "is_dir": false,
+    "size": "306.8 MiB",
+    "date": "17-Jul-2018 21:58"
+  },
+  {
+    "name": "NetBSD-8.0-acorn32.iso.torrent",
+    "href": "NetBSD-8.0-acorn32.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.0/NetBSD-8.0-acorn32.iso.torrent",
+    "is_dir": false,
+    "size": "24.2 KiB",
+    "date": "18-Jul-2018 17:13"
+  },
+  {
+    "name": "NetBSD-8.0-alpha.iso",
+    "href": "NetBSD-8.0-alpha.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.0/NetBSD-8.0-alpha.iso",
+    "is_dir": false,
+    "size": "373.0 MiB",
+    "date": "17-Jul-2018 21:53"
+  },
+  {
+    "name": "NetBSD-8.0-alpha.iso.torrent",
+    "href": "NetBSD-8.0-alpha.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.0/NetBSD-8.0-alpha.iso.torrent",
+    "is_dir": false,
+    "size": "29.3 KiB",
+    "date": "18-Jul-2018 17:13"
+  },
+  {
+    "name": "NetBSD-8.0-amd64-install.img.gz",
+    "href": "NetBSD-8.0-amd64-install.img.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.0/NetBSD-8.0-amd64-install.img.gz",
+    "is_dir": false,
+    "size": "978.4 MiB",
+    "date": "17-Jul-2018 22:27"
+  },
+  {
+    "name": "NetBSD-8.0-amd64-install.img.gz.torrent",
+    "href": "NetBSD-8.0-amd64-install.img.gz.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.0/NetBSD-8.0-amd64-install.img.gz.torrent",
+    "is_dir": false,
+    "size": "76.6 KiB",
+    "date": "18-Jul-2018 17:13"
+  },
+  {
+    "name": "NetBSD-8.0-amd64-uefi-install.img.gz",
+    "href": "NetBSD-8.0-amd64-uefi-install.img.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.0/NetBSD-8.0-amd64-uefi-install.img.gz",
+    "is_dir": false,
+    "size": "978.4 MiB",
+    "date": "17-Jul-2018 22:31"
+  },
+  {
+    "name": "NetBSD-8.0-amd64-uefi-install.img.gz.torrent",
+    "href": "NetBSD-8.0-amd64-uefi-install.img.gz.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.0/NetBSD-8.0-amd64-uefi-install.img.gz.torrent",
+    "is_dir": false,
+    "size": "76.6 KiB",
+    "date": "18-Jul-2018 17:13"
+  },
+  {
+    "name": "NetBSD-8.0-amd64.iso",
+    "href": "NetBSD-8.0-amd64.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.0/NetBSD-8.0-amd64.iso",
+    "is_dir": false,
+    "size": "716.1 MiB",
+    "date": "17-Jul-2018 22:24"
+  },
+  {
+    "name": "NetBSD-8.0-amd64.iso.torrent",
+    "href": "NetBSD-8.0-amd64.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.0/NetBSD-8.0-amd64.iso.torrent",
+    "is_dir": false,
+    "size": "56.1 KiB",
+    "date": "18-Jul-2018 17:13"
+  },
+  {
+    "name": "NetBSD-8.0-amiga.iso",
+    "href": "NetBSD-8.0-amiga.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.0/NetBSD-8.0-amiga.iso",
+    "is_dir": false,
+    "size": "293.5 MiB",
+    "date": "17-Jul-2018 21:30"
+  },
+  {
+    "name": "NetBSD-8.0-amiga.iso.torrent",
+    "href": "NetBSD-8.0-amiga.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.0/NetBSD-8.0-amiga.iso.torrent",
+    "is_dir": false,
+    "size": "23.1 KiB",
+    "date": "18-Jul-2018 17:14"
+  },
+  {
+    "name": "NetBSD-8.0-arc.iso",
+    "href": "NetBSD-8.0-arc.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.0/NetBSD-8.0-arc.iso",
+    "is_dir": false,
+    "size": "328.0 MiB",
+    "date": "17-Jul-2018 21:56"
+  },
+  {
+    "name": "NetBSD-8.0-arc.iso.torrent",
+    "href": "NetBSD-8.0-arc.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.0/NetBSD-8.0-arc.iso.torrent",
+    "is_dir": false,
+    "size": "25.8 KiB",
+    "date": "18-Jul-2018 17:14"
+  },
+  {
+    "name": "NetBSD-8.0-atari.iso",
+    "href": "NetBSD-8.0-atari.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.0/NetBSD-8.0-atari.iso",
+    "is_dir": false,
+    "size": "294.8 MiB",
+    "date": "17-Jul-2018 21:45"
+  },
+  {
+    "name": "NetBSD-8.0-atari.iso.torrent",
+    "href": "NetBSD-8.0-atari.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.0/NetBSD-8.0-atari.iso.torrent",
+    "is_dir": false,
+    "size": "23.2 KiB",
+    "date": "18-Jul-2018 17:14"
+  },
+  {
+    "name": "NetBSD-8.0-cats.iso",
+    "href": "NetBSD-8.0-cats.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.0/NetBSD-8.0-cats.iso",
+    "is_dir": false,
+    "size": "440.4 MiB",
+    "date": "17-Jul-2018 22:16"
+  },
+  {
+    "name": "NetBSD-8.0-cats.iso.torrent",
+    "href": "NetBSD-8.0-cats.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.0/NetBSD-8.0-cats.iso.torrent",
+    "is_dir": false,
+    "size": "34.6 KiB",
+    "date": "18-Jul-2018 17:14"
+  },
+  {
+    "name": "NetBSD-8.0-cobalt.iso",
+    "href": "NetBSD-8.0-cobalt.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.0/NetBSD-8.0-cobalt.iso",
+    "is_dir": false,
+    "size": "327.0 MiB",
+    "date": "17-Jul-2018 21:55"
+  },
+  {
+    "name": "NetBSD-8.0-cobalt.iso.torrent",
+    "href": "NetBSD-8.0-cobalt.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.0/NetBSD-8.0-cobalt.iso.torrent",
+    "is_dir": false,
+    "size": "25.7 KiB",
+    "date": "18-Jul-2018 17:14"
+  },
+  {
+    "name": "NetBSD-8.0-dreamcast.iso",
+    "href": "NetBSD-8.0-dreamcast.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.0/NetBSD-8.0-dreamcast.iso",
+    "is_dir": false,
+    "size": "297.6 MiB",
+    "date": "17-Jul-2018 21:49"
+  },
+  {
+    "name": "NetBSD-8.0-dreamcast.iso.torrent",
+    "href": "NetBSD-8.0-dreamcast.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.0/NetBSD-8.0-dreamcast.iso.torrent",
+    "is_dir": false,
+    "size": "23.4 KiB",
+    "date": "18-Jul-2018 17:14"
+  },
+  {
+    "name": "NetBSD-8.0-emips.iso",
+    "href": "NetBSD-8.0-emips.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.0/NetBSD-8.0-emips.iso",
+    "is_dir": false,
+    "size": "340.9 MiB",
+    "date": "17-Jul-2018 21:57"
+  },
+  {
+    "name": "NetBSD-8.0-emips.iso.torrent",
+    "href": "NetBSD-8.0-emips.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.0/NetBSD-8.0-emips.iso.torrent",
+    "is_dir": false,
+    "size": "26.8 KiB",
+    "date": "18-Jul-2018 17:14"
+  },
+  {
+    "name": "NetBSD-8.0-evbarm-earm.iso",
+    "href": "NetBSD-8.0-evbarm-earm.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.0/NetBSD-8.0-evbarm-earm.iso",
+    "is_dir": false,
+    "size": "2.2 GiB",
+    "date": "17-Jul-2018 23:08"
+  },
+  {
+    "name": "NetBSD-8.0-evbarm-earm.iso.torrent",
+    "href": "NetBSD-8.0-evbarm-earm.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.0/NetBSD-8.0-evbarm-earm.iso.torrent",
+    "is_dir": false,
+    "size": "176.6 KiB",
+    "date": "18-Jul-2018 17:14"
+  },
+  {
+    "name": "NetBSD-8.0-evbarm-earmeb.iso",
+    "href": "NetBSD-8.0-evbarm-earmeb.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.0/NetBSD-8.0-evbarm-earmeb.iso",
+    "is_dir": false,
+    "size": "520.6 MiB",
+    "date": "17-Jul-2018 23:02"
+  },
+  {
+    "name": "NetBSD-8.0-evbarm-earmeb.iso.torrent",
+    "href": "NetBSD-8.0-evbarm-earmeb.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.0/NetBSD-8.0-evbarm-earmeb.iso.torrent",
+    "is_dir": false,
+    "size": "40.9 KiB",
+    "date": "18-Jul-2018 17:14"
+  },
+  {
+    "name": "NetBSD-8.0-evbarm-earmv6hf.iso",
+    "href": "NetBSD-8.0-evbarm-earmv6hf.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.0/NetBSD-8.0-evbarm-earmv6hf.iso",
+    "is_dir": false,
+    "size": "939.7 MiB",
+    "date": "17-Jul-2018 23:17"
+  },
+  {
+    "name": "NetBSD-8.0-evbarm-earmv6hf.iso.torrent",
+    "href": "NetBSD-8.0-evbarm-earmv6hf.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.0/NetBSD-8.0-evbarm-earmv6hf.iso.torrent",
+    "is_dir": false,
+    "size": "73.6 KiB",
+    "date": "18-Jul-2018 17:14"
+  },
+  {
+    "name": "NetBSD-8.0-evbarm-earmv7hf.iso",
+    "href": "NetBSD-8.0-evbarm-earmv7hf.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.0/NetBSD-8.0-evbarm-earmv7hf.iso",
+    "is_dir": false,
+    "size": "1.4 GiB",
+    "date": "17-Jul-2018 23:43"
+  },
+  {
+    "name": "NetBSD-8.0-evbarm-earmv7hf.iso.torrent",
+    "href": "NetBSD-8.0-evbarm-earmv7hf.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.0/NetBSD-8.0-evbarm-earmv7hf.iso.torrent",
+    "is_dir": false,
+    "size": "116.2 KiB",
+    "date": "18-Jul-2018 17:14"
+  },
+  {
+    "name": "NetBSD-8.0-evbarm-earmv7hfeb.iso",
+    "href": "NetBSD-8.0-evbarm-earmv7hfeb.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.0/NetBSD-8.0-evbarm-earmv7hfeb.iso",
+    "is_dir": false,
+    "size": "987.9 MiB",
+    "date": "17-Jul-2018 23:16"
+  },
+  {
+    "name": "NetBSD-8.0-evbarm-earmv7hfeb.iso.torrent",
+    "href": "NetBSD-8.0-evbarm-earmv7hfeb.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.0/NetBSD-8.0-evbarm-earmv7hfeb.iso.torrent",
+    "is_dir": false,
+    "size": "77.4 KiB",
+    "date": "18-Jul-2018 17:14"
+  },
+  {
+    "name": "NetBSD-8.0-evbmips-mips64eb.iso",
+    "href": "NetBSD-8.0-evbmips-mips64eb.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.0/NetBSD-8.0-evbmips-mips64eb.iso",
+    "is_dir": false,
+    "size": "585.4 MiB",
+    "date": "17-Jul-2018 23:39"
+  },
+  {
+    "name": "NetBSD-8.0-evbmips-mips64eb.iso.torrent",
+    "href": "NetBSD-8.0-evbmips-mips64eb.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.0/NetBSD-8.0-evbmips-mips64eb.iso.torrent",
+    "is_dir": false,
+    "size": "45.9 KiB",
+    "date": "18-Jul-2018 17:14"
+  },
+  {
+    "name": "NetBSD-8.0-evbmips-mips64el.iso",
+    "href": "NetBSD-8.0-evbmips-mips64el.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.0/NetBSD-8.0-evbmips-mips64el.iso",
+    "is_dir": false,
+    "size": "601.6 MiB",
+    "date": "17-Jul-2018 23:44"
+  },
+  {
+    "name": "NetBSD-8.0-evbmips-mips64el.iso.torrent",
+    "href": "NetBSD-8.0-evbmips-mips64el.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.0/NetBSD-8.0-evbmips-mips64el.iso.torrent",
+    "is_dir": false,
+    "size": "47.2 KiB",
+    "date": "18-Jul-2018 17:15"
+  },
+  {
+    "name": "NetBSD-8.0-evbmips-mipseb.iso",
+    "href": "NetBSD-8.0-evbmips-mipseb.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.0/NetBSD-8.0-evbmips-mipseb.iso",
+    "is_dir": false,
+    "size": "369.7 MiB",
+    "date": "17-Jul-2018 22:53"
+  },
+  {
+    "name": "NetBSD-8.0-evbmips-mipseb.iso.torrent",
+    "href": "NetBSD-8.0-evbmips-mipseb.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.0/NetBSD-8.0-evbmips-mipseb.iso.torrent",
+    "is_dir": false,
+    "size": "29.1 KiB",
+    "date": "18-Jul-2018 17:15"
+  },
+  {
+    "name": "NetBSD-8.0-evbmips-mipsel.iso",
+    "href": "NetBSD-8.0-evbmips-mipsel.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.0/NetBSD-8.0-evbmips-mipsel.iso",
+    "is_dir": false,
+    "size": "428.5 MiB",
+    "date": "17-Jul-2018 23:10"
+  },
+  {
+    "name": "NetBSD-8.0-evbmips-mipsel.iso.torrent",
+    "href": "NetBSD-8.0-evbmips-mipsel.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.0/NetBSD-8.0-evbmips-mipsel.iso.torrent",
+    "is_dir": false,
+    "size": "33.7 KiB",
+    "date": "18-Jul-2018 17:15"
+  },
+  {
+    "name": "NetBSD-8.0-evbppc.iso",
+    "href": "NetBSD-8.0-evbppc.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.0/NetBSD-8.0-evbppc.iso",
+    "is_dir": false,
+    "size": "484.5 MiB",
+    "date": "17-Jul-2018 23:12"
+  },
+  {
+    "name": "NetBSD-8.0-evbppc.iso.torrent",
+    "href": "NetBSD-8.0-evbppc.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.0/NetBSD-8.0-evbppc.iso.torrent",
+    "is_dir": false,
+    "size": "38.0 KiB",
+    "date": "18-Jul-2018 17:15"
+  },
+  {
+    "name": "NetBSD-8.0-evbsh3-sh3eb.iso",
+    "href": "NetBSD-8.0-evbsh3-sh3eb.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.0/NetBSD-8.0-evbsh3-sh3eb.iso",
+    "is_dir": false,
+    "size": "298.1 MiB",
+    "date": "17-Jul-2018 23:01"
+  },
+  {
+    "name": "NetBSD-8.0-evbsh3-sh3eb.iso.torrent",
+    "href": "NetBSD-8.0-evbsh3-sh3eb.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.0/NetBSD-8.0-evbsh3-sh3eb.iso.torrent",
+    "is_dir": false,
+    "size": "23.5 KiB",
+    "date": "18-Jul-2018 17:15"
+  },
+  {
+    "name": "NetBSD-8.0-evbsh3-sh3el.iso",
+    "href": "NetBSD-8.0-evbsh3-sh3el.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.0/NetBSD-8.0-evbsh3-sh3el.iso",
+    "is_dir": false,
+    "size": "318.4 MiB",
+    "date": "17-Jul-2018 23:01"
+  },
+  {
+    "name": "NetBSD-8.0-evbsh3-sh3el.iso.torrent",
+    "href": "NetBSD-8.0-evbsh3-sh3el.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.0/NetBSD-8.0-evbsh3-sh3el.iso.torrent",
+    "is_dir": false,
+    "size": "25.1 KiB",
+    "date": "18-Jul-2018 17:15"
+  },
+  {
+    "name": "NetBSD-8.0-ews4800mips.iso",
+    "href": "NetBSD-8.0-ews4800mips.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.0/NetBSD-8.0-ews4800mips.iso",
+    "is_dir": false,
+    "size": "335.0 MiB",
+    "date": "17-Jul-2018 23:09"
+  },
+  {
+    "name": "NetBSD-8.0-ews4800mips.iso.torrent",
+    "href": "NetBSD-8.0-ews4800mips.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.0/NetBSD-8.0-ews4800mips.iso.torrent",
+    "is_dir": false,
+    "size": "26.3 KiB",
+    "date": "18-Jul-2018 17:15"
+  },
+  {
+    "name": "NetBSD-8.0-hp300.iso",
+    "href": "NetBSD-8.0-hp300.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.0/NetBSD-8.0-hp300.iso",
+    "is_dir": false,
+    "size": "286.8 MiB",
+    "date": "17-Jul-2018 23:34"
+  },
+  {
+    "name": "NetBSD-8.0-hp300.iso.torrent",
+    "href": "NetBSD-8.0-hp300.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.0/NetBSD-8.0-hp300.iso.torrent",
+    "is_dir": false,
+    "size": "22.6 KiB",
+    "date": "18-Jul-2018 17:15"
+  },
+  {
+    "name": "NetBSD-8.0-hpcarm.iso",
+    "href": "NetBSD-8.0-hpcarm.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.0/NetBSD-8.0-hpcarm.iso",
+    "is_dir": false,
+    "size": "439.1 MiB",
+    "date": "18-Jul-2018 00:11"
+  },
+  {
+    "name": "NetBSD-8.0-hpcarm.iso.torrent",
+    "href": "NetBSD-8.0-hpcarm.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.0/NetBSD-8.0-hpcarm.iso.torrent",
+    "is_dir": false,
+    "size": "34.5 KiB",
+    "date": "18-Jul-2018 17:15"
+  },
+  {
+    "name": "NetBSD-8.0-hpcmips.iso",
+    "href": "NetBSD-8.0-hpcmips.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.0/NetBSD-8.0-hpcmips.iso",
+    "is_dir": false,
+    "size": "334.6 MiB",
+    "date": "18-Jul-2018 00:06"
+  },
+  {
+    "name": "NetBSD-8.0-hpcmips.iso.torrent",
+    "href": "NetBSD-8.0-hpcmips.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.0/NetBSD-8.0-hpcmips.iso.torrent",
+    "is_dir": false,
+    "size": "26.3 KiB",
+    "date": "18-Jul-2018 17:15"
+  },
+  {
+    "name": "NetBSD-8.0-hpcsh.iso",
+    "href": "NetBSD-8.0-hpcsh.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.0/NetBSD-8.0-hpcsh.iso",
+    "is_dir": false,
+    "size": "297.6 MiB",
+    "date": "18-Jul-2018 00:05"
+  },
+  {
+    "name": "NetBSD-8.0-hpcsh.iso.torrent",
+    "href": "NetBSD-8.0-hpcsh.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.0/NetBSD-8.0-hpcsh.iso.torrent",
+    "is_dir": false,
+    "size": "23.4 KiB",
+    "date": "18-Jul-2018 17:15"
+  },
+  {
+    "name": "NetBSD-8.0-hppa.iso",
+    "href": "NetBSD-8.0-hppa.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.0/NetBSD-8.0-hppa.iso",
+    "is_dir": false,
+    "size": "381.6 MiB",
+    "date": "17-Jul-2018 23:42"
+  },
+  {
+    "name": "NetBSD-8.0-hppa.iso.torrent",
+    "href": "NetBSD-8.0-hppa.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.0/NetBSD-8.0-hppa.iso.torrent",
+    "is_dir": false,
+    "size": "30.0 KiB",
+    "date": "18-Jul-2018 17:15"
+  },
+  {
+    "name": "NetBSD-8.0-i386-install.img.gz",
+    "href": "NetBSD-8.0-i386-install.img.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.0/NetBSD-8.0-i386-install.img.gz",
+    "is_dir": false,
+    "size": "905.8 MiB",
+    "date": "31-Jan-2019 17:51"
+  },
+  {
+    "name": "NetBSD-8.0-i386-install.img.gz.torrent",
+    "href": "NetBSD-8.0-i386-install.img.gz.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.0/NetBSD-8.0-i386-install.img.gz.torrent",
+    "is_dir": false,
+    "size": "71.0 KiB",
+    "date": "18-Jul-2018 17:15"
+  },
+  {
+    "name": "NetBSD-8.0-i386.iso",
+    "href": "NetBSD-8.0-i386.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.0/NetBSD-8.0-i386.iso",
+    "is_dir": false,
+    "size": "676.9 MiB",
+    "date": "18-Jul-2018 00:26"
+  },
+  {
+    "name": "NetBSD-8.0-i386.iso.torrent",
+    "href": "NetBSD-8.0-i386.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.0/NetBSD-8.0-i386.iso.torrent",
+    "is_dir": false,
+    "size": "53.1 KiB",
+    "date": "18-Jul-2018 17:15"
+  },
+  {
+    "name": "NetBSD-8.0-ibmnws.iso",
+    "href": "NetBSD-8.0-ibmnws.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.0/NetBSD-8.0-ibmnws.iso",
+    "is_dir": false,
+    "size": "316.2 MiB",
+    "date": "18-Jul-2018 00:13"
+  },
+  {
+    "name": "NetBSD-8.0-ibmnws.iso.torrent",
+    "href": "NetBSD-8.0-ibmnws.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.0/NetBSD-8.0-ibmnws.iso.torrent",
+    "is_dir": false,
+    "size": "24.9 KiB",
+    "date": "18-Jul-2018 17:15"
+  },
+  {
+    "name": "NetBSD-8.0-luna68k.iso",
+    "href": "NetBSD-8.0-luna68k.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.0/NetBSD-8.0-luna68k.iso",
+    "is_dir": false,
+    "size": "282.8 MiB",
+    "date": "17-Jul-2018 23:52"
+  },
+  {
+    "name": "NetBSD-8.0-luna68k.iso.torrent",
+    "href": "NetBSD-8.0-luna68k.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.0/NetBSD-8.0-luna68k.iso.torrent",
+    "is_dir": false,
+    "size": "22.3 KiB",
+    "date": "18-Jul-2018 17:15"
+  },
+  {
+    "name": "NetBSD-8.0-mac68k.iso",
+    "href": "NetBSD-8.0-mac68k.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.0/NetBSD-8.0-mac68k.iso",
+    "is_dir": false,
+    "size": "308.0 MiB",
+    "date": "18-Jul-2018 07:23"
+  },
+  {
+    "name": "NetBSD-8.0-mac68k.iso.torrent",
+    "href": "NetBSD-8.0-mac68k.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.0/NetBSD-8.0-mac68k.iso.torrent",
+    "is_dir": false,
+    "size": "24.2 KiB",
+    "date": "18-Jul-2018 17:15"
+  },
+  {
+    "name": "NetBSD-8.0-macppc.iso",
+    "href": "NetBSD-8.0-macppc.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.0/NetBSD-8.0-macppc.iso",
+    "is_dir": false,
+    "size": "440.6 MiB",
+    "date": "18-Jul-2018 07:21"
+  },
+  {
+    "name": "NetBSD-8.0-macppc.iso.torrent",
+    "href": "NetBSD-8.0-macppc.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.0/NetBSD-8.0-macppc.iso.torrent",
+    "is_dir": false,
+    "size": "34.6 KiB",
+    "date": "18-Jul-2018 17:15"
+  },
+  {
+    "name": "NetBSD-8.0-mipsco.iso",
+    "href": "NetBSD-8.0-mipsco.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.0/NetBSD-8.0-mipsco.iso",
+    "is_dir": false,
+    "size": "331.2 MiB",
+    "date": "18-Jul-2018 00:35"
+  },
+  {
+    "name": "NetBSD-8.0-mipsco.iso.torrent",
+    "href": "NetBSD-8.0-mipsco.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.0/NetBSD-8.0-mipsco.iso.torrent",
+    "is_dir": false,
+    "size": "26.1 KiB",
+    "date": "18-Jul-2018 17:15"
+  },
+  {
+    "name": "NetBSD-8.0-mvme68k.iso",
+    "href": "NetBSD-8.0-mvme68k.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.0/NetBSD-8.0-mvme68k.iso",
+    "is_dir": false,
+    "size": "293.7 MiB",
+    "date": "18-Jul-2018 00:45"
+  },
+  {
+    "name": "NetBSD-8.0-mvme68k.iso.torrent",
+    "href": "NetBSD-8.0-mvme68k.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.0/NetBSD-8.0-mvme68k.iso.torrent",
+    "is_dir": false,
+    "size": "23.1 KiB",
+    "date": "18-Jul-2018 17:15"
+  },
+  {
+    "name": "NetBSD-8.0-mvmeppc.iso",
+    "href": "NetBSD-8.0-mvmeppc.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.0/NetBSD-8.0-mvmeppc.iso",
+    "is_dir": false,
+    "size": "313.2 MiB",
+    "date": "18-Jul-2018 00:48"
+  },
+  {
+    "name": "NetBSD-8.0-mvmeppc.iso.torrent",
+    "href": "NetBSD-8.0-mvmeppc.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.0/NetBSD-8.0-mvmeppc.iso.torrent",
+    "is_dir": false,
+    "size": "24.6 KiB",
+    "date": "18-Jul-2018 17:15"
+  },
+  {
+    "name": "NetBSD-8.0-news68k.iso",
+    "href": "NetBSD-8.0-news68k.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.0/NetBSD-8.0-news68k.iso",
+    "is_dir": false,
+    "size": "285.9 MiB",
+    "date": "18-Jul-2018 00:32"
+  },
+  {
+    "name": "NetBSD-8.0-news68k.iso.torrent",
+    "href": "NetBSD-8.0-news68k.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.0/NetBSD-8.0-news68k.iso.torrent",
+    "is_dir": false,
+    "size": "22.5 KiB",
+    "date": "18-Jul-2018 17:15"
+  },
+  {
+    "name": "NetBSD-8.0-newsmips.iso",
+    "href": "NetBSD-8.0-newsmips.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.0/NetBSD-8.0-newsmips.iso",
+    "is_dir": false,
+    "size": "331.6 MiB",
+    "date": "18-Jul-2018 01:03"
+  },
+  {
+    "name": "NetBSD-8.0-newsmips.iso.torrent",
+    "href": "NetBSD-8.0-newsmips.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.0/NetBSD-8.0-newsmips.iso.torrent",
+    "is_dir": false,
+    "size": "26.1 KiB",
+    "date": "18-Jul-2018 17:16"
+  },
+  {
+    "name": "NetBSD-8.0-ofppc.iso",
+    "href": "NetBSD-8.0-ofppc.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.0/NetBSD-8.0-ofppc.iso",
+    "is_dir": false,
+    "size": "328.3 MiB",
+    "date": "18-Jul-2018 01:11"
+  },
+  {
+    "name": "NetBSD-8.0-ofppc.iso.torrent",
+    "href": "NetBSD-8.0-ofppc.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.0/NetBSD-8.0-ofppc.iso.torrent",
+    "is_dir": false,
+    "size": "25.8 KiB",
+    "date": "18-Jul-2018 17:16"
+  },
+  {
+    "name": "NetBSD-8.0-pmax.iso",
+    "href": "NetBSD-8.0-pmax.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.0/NetBSD-8.0-pmax.iso",
+    "is_dir": false,
+    "size": "344.5 MiB",
+    "date": "18-Jul-2018 01:18"
+  },
+  {
+    "name": "NetBSD-8.0-pmax.iso.torrent",
+    "href": "NetBSD-8.0-pmax.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.0/NetBSD-8.0-pmax.iso.torrent",
+    "is_dir": false,
+    "size": "27.1 KiB",
+    "date": "18-Jul-2018 17:16"
+  },
+  {
+    "name": "NetBSD-8.0-prep.iso",
+    "href": "NetBSD-8.0-prep.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.0/NetBSD-8.0-prep.iso",
+    "is_dir": false,
+    "size": "342.7 MiB",
+    "date": "18-Jul-2018 01:17"
+  },
+  {
+    "name": "NetBSD-8.0-prep.iso.torrent",
+    "href": "NetBSD-8.0-prep.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.0/NetBSD-8.0-prep.iso.torrent",
+    "is_dir": false,
+    "size": "26.9 KiB",
+    "date": "18-Jul-2018 17:16"
+  },
+  {
+    "name": "NetBSD-8.0-sandpoint.iso",
+    "href": "NetBSD-8.0-sandpoint.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.0/NetBSD-8.0-sandpoint.iso",
+    "is_dir": false,
+    "size": "325.1 MiB",
+    "date": "18-Jul-2018 01:33"
+  },
+  {
+    "name": "NetBSD-8.0-sandpoint.iso.torrent",
+    "href": "NetBSD-8.0-sandpoint.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.0/NetBSD-8.0-sandpoint.iso.torrent",
+    "is_dir": false,
+    "size": "25.6 KiB",
+    "date": "18-Jul-2018 17:16"
+  },
+  {
+    "name": "NetBSD-8.0-sgimips.iso",
+    "href": "NetBSD-8.0-sgimips.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.0/NetBSD-8.0-sgimips.iso",
+    "is_dir": false,
+    "size": "370.5 MiB",
+    "date": "18-Jul-2018 01:35"
+  },
+  {
+    "name": "NetBSD-8.0-sgimips.iso.torrent",
+    "href": "NetBSD-8.0-sgimips.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.0/NetBSD-8.0-sgimips.iso.torrent",
+    "is_dir": false,
+    "size": "29.1 KiB",
+    "date": "18-Jul-2018 17:16"
+  },
+  {
+    "name": "NetBSD-8.0-shark.iso",
+    "href": "NetBSD-8.0-shark.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.0/NetBSD-8.0-shark.iso",
+    "is_dir": false,
+    "size": "429.2 MiB",
+    "date": "18-Jul-2018 01:37"
+  },
+  {
+    "name": "NetBSD-8.0-shark.iso.torrent",
+    "href": "NetBSD-8.0-shark.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.0/NetBSD-8.0-shark.iso.torrent",
+    "is_dir": false,
+    "size": "33.7 KiB",
+    "date": "18-Jul-2018 17:16"
+  },
+  {
+    "name": "NetBSD-8.0-sparc.iso",
+    "href": "NetBSD-8.0-sparc.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.0/NetBSD-8.0-sparc.iso",
+    "is_dir": false,
+    "size": "335.3 MiB",
+    "date": "18-Jul-2018 01:42"
+  },
+  {
+    "name": "NetBSD-8.0-sparc.iso.torrent",
+    "href": "NetBSD-8.0-sparc.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.0/NetBSD-8.0-sparc.iso.torrent",
+    "is_dir": false,
+    "size": "26.4 KiB",
+    "date": "18-Jul-2018 17:16"
+  },
+  {
+    "name": "NetBSD-8.0-sparc64.iso",
+    "href": "NetBSD-8.0-sparc64.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.0/NetBSD-8.0-sparc64.iso",
+    "is_dir": false,
+    "size": "603.1 MiB",
+    "date": "18-Jul-2018 01:29"
+  },
+  {
+    "name": "NetBSD-8.0-sparc64.iso.torrent",
+    "href": "NetBSD-8.0-sparc64.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.0/NetBSD-8.0-sparc64.iso.torrent",
+    "is_dir": false,
+    "size": "47.3 KiB",
+    "date": "18-Jul-2018 17:16"
+  },
+  {
+    "name": "NetBSD-8.0-sun2.iso",
+    "href": "NetBSD-8.0-sun2.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.0/NetBSD-8.0-sun2.iso",
+    "is_dir": false,
+    "size": "540.2 MiB",
+    "date": "18-Jul-2018 01:26"
+  },
+  {
+    "name": "NetBSD-8.0-sun2.iso.torrent",
+    "href": "NetBSD-8.0-sun2.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.0/NetBSD-8.0-sun2.iso.torrent",
+    "is_dir": false,
+    "size": "42.4 KiB",
+    "date": "18-Jul-2018 17:16"
+  },
+  {
+    "name": "NetBSD-8.0-sun3.iso",
+    "href": "NetBSD-8.0-sun3.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.0/NetBSD-8.0-sun3.iso",
+    "is_dir": false,
+    "size": "296.9 MiB",
+    "date": "18-Jul-2018 01:42"
+  },
+  {
+    "name": "NetBSD-8.0-sun3.iso.torrent",
+    "href": "NetBSD-8.0-sun3.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.0/NetBSD-8.0-sun3.iso.torrent",
+    "is_dir": false,
+    "size": "23.4 KiB",
+    "date": "18-Jul-2018 17:16"
+  },
+  {
+    "name": "NetBSD-8.0-vax.iso",
+    "href": "NetBSD-8.0-vax.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.0/NetBSD-8.0-vax.iso",
+    "is_dir": false,
+    "size": "340.6 MiB",
+    "date": "18-Jul-2018 01:45"
+  },
+  {
+    "name": "NetBSD-8.0-vax.iso.torrent",
+    "href": "NetBSD-8.0-vax.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.0/NetBSD-8.0-vax.iso.torrent",
+    "is_dir": false,
+    "size": "26.8 KiB",
+    "date": "18-Jul-2018 17:16"
+  },
+  {
+    "name": "NetBSD-8.0-x68k.iso",
+    "href": "NetBSD-8.0-x68k.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.0/NetBSD-8.0-x68k.iso",
+    "is_dir": false,
+    "size": "287.7 MiB",
+    "date": "18-Jul-2018 01:49"
+  },
+  {
+    "name": "NetBSD-8.0-x68k.iso.torrent",
+    "href": "NetBSD-8.0-x68k.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.0/NetBSD-8.0-x68k.iso.torrent",
+    "is_dir": false,
+    "size": "22.7 KiB",
+    "date": "18-Jul-2018 17:16"
+  },
+  {
+    "name": "NetBSD-8.0-zaurus.iso",
+    "href": "NetBSD-8.0-zaurus.iso",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.0/NetBSD-8.0-zaurus.iso",
+    "is_dir": false,
+    "size": "433.7 MiB",
+    "date": "18-Jul-2018 02:13"
+  },
+  {
+    "name": "NetBSD-8.0-zaurus.iso.torrent",
+    "href": "NetBSD-8.0-zaurus.iso.torrent",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.0/NetBSD-8.0-zaurus.iso.torrent",
+    "is_dir": false,
+    "size": "34.1 KiB",
+    "date": "18-Jul-2018 17:16"
+  },
+  {
+    "name": "SHA512",
+    "href": "SHA512",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/iso/8.0/SHA512",
+    "is_dir": false,
+    "size": "8.7 KiB",
+    "date": "18-Jul-2018 07:35"
+  }
+]

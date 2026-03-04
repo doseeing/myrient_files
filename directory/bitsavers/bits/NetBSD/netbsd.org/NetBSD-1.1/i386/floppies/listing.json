@@ -1,0 +1,82 @@
+[
+  {
+    "name": "CKSUMS",
+    "href": "CKSUMS",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/i386/floppies/CKSUMS",
+    "is_dir": false,
+    "size": "272 B",
+    "date": "26-Nov-1995 18:29"
+  },
+  {
+    "name": "README.files",
+    "href": "README.files",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/i386/floppies/README.files",
+    "is_dir": false,
+    "size": "959 B",
+    "date": "26-Nov-1995 18:29"
+  },
+  {
+    "name": "inst-11.fs",
+    "href": "inst-11.fs",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/i386/floppies/inst-11.fs",
+    "is_dir": false,
+    "size": "1.2 MiB",
+    "date": "26-Nov-1995 18:17"
+  },
+  {
+    "name": "inst-11.fs.gz",
+    "href": "inst-11.fs.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/i386/floppies/inst-11.fs.gz",
+    "is_dir": false,
+    "size": "492.5 KiB",
+    "date": "25-Nov-1995 08:38"
+  },
+  {
+    "name": "kcadp11.fs",
+    "href": "kcadp11.fs",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/i386/floppies/kcadp11.fs",
+    "is_dir": false,
+    "size": "1.2 MiB",
+    "date": "26-Nov-1995 18:17"
+  },
+  {
+    "name": "kcadp11.fs.gz",
+    "href": "kcadp11.fs.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/i386/floppies/kcadp11.fs.gz",
+    "is_dir": false,
+    "size": "597.1 KiB",
+    "date": "25-Nov-1995 08:44"
+  },
+  {
+    "name": "kcoth11.fs",
+    "href": "kcoth11.fs",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/i386/floppies/kcoth11.fs",
+    "is_dir": false,
+    "size": "1.2 MiB",
+    "date": "26-Nov-1995 18:18"
+  },
+  {
+    "name": "kcoth11.fs.gz",
+    "href": "kcoth11.fs.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/i386/floppies/kcoth11.fs.gz",
+    "is_dir": false,
+    "size": "597.8 KiB",
+    "date": "25-Nov-1995 08:51"
+  },
+  {
+    "name": "upgr11.fs",
+    "href": "upgr11.fs",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/i386/floppies/upgr11.fs",
+    "is_dir": false,
+    "size": "489.5 KiB",
+    "date": "25-Nov-1995 09:46"
+  },
+  {
+    "name": "upgr11.fs.gz",
+    "href": "upgr11.fs.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/i386/floppies/upgr11.fs.gz",
+    "is_dir": false,
+    "size": "489.5 KiB",
+    "date": "25-Nov-1995 09:46"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "name": "_text",
+    "href": "_text/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp1/papertapeImages/20040106/disassembler/_text/",
+    "is_dir": true,
+    "size": null,
+    "date": "27-Oct-2004 00:25"
+  },
+  {
+    "name": "DDT6000_20aug66.bin",
+    "href": "DDT6000_20aug66.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp1/papertapeImages/20040106/disassembler/DDT6000_20aug66.bin",
+    "is_dir": false,
+    "size": "3.7 KiB",
+    "date": "07-Jan-2004 06:23"
+  },
+  {
+    "name": "ackermansLisp.bin",
+    "href": "ackermansLisp.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp1/papertapeImages/20040106/disassembler/ackermansLisp.bin",
+    "is_dir": false,
+    "size": "21.4 KiB",
+    "date": "07-Jan-2004 06:17"
+  },
+  {
+    "name": "ddt-6000_eng_asmWpossible_20aug66.bin",
+    "href": "ddt-6000_eng_asmWpossible_20aug66.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp1/papertapeImages/20040106/disassembler/ddt-6000_eng_asmWpossible_20aug66.bin",
+    "is_dir": false,
+    "size": "13.6 KiB",
+    "date": "07-Jan-2004 06:20"
+  },
+  {
+    "name": "disassemDisassem.bin",
+    "href": "disassemDisassem.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp1/papertapeImages/20040106/disassembler/disassemDisassem.bin",
+    "is_dir": false,
+    "size": "6.9 KiB",
+    "date": "07-Jan-2004 06:13"
+  },
+  {
+    "name": "disassembler.bin",
+    "href": "disassembler.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp1/papertapeImages/20040106/disassembler/disassembler.bin",
+    "is_dir": false,
+    "size": "2.6 KiB",
+    "date": "07-Jan-2004 06:12"
+  },
+  {
+    "name": "et10b_needUtilTape_eng_7-2-64.bin",
+    "href": "et10b_needUtilTape_eng_7-2-64.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp1/papertapeImages/20040106/disassembler/et10b_needUtilTape_eng_7-2-64.bin",
+    "is_dir": false,
+    "size": "11.4 KiB",
+    "date": "07-Jan-2004 06:27"
+  },
+  {
+    "name": "fiodec2bcd_6-18-64_eng.bin",
+    "href": "fiodec2bcd_6-18-64_eng.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp1/papertapeImages/20040106/disassembler/fiodec2bcd_6-18-64_eng.bin",
+    "is_dir": false,
+    "size": "2.2 KiB",
+    "date": "07-Jan-2004 06:14"
+  },
+  {
+    "name": "sniffin_kelly_bellows_27-mar-64.bin",
+    "href": "sniffin_kelly_bellows_27-mar-64.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp1/papertapeImages/20040106/disassembler/sniffin_kelly_bellows_27-mar-64.bin",
+    "is_dir": false,
+    "size": "2.9 KiB",
+    "date": "07-Jan-2004 06:22"
+  },
+  {
+    "name": "spaceWarTSdebugged.bin",
+    "href": "spaceWarTSdebugged.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp1/papertapeImages/20040106/disassembler/spaceWarTSdebugged.bin",
+    "is_dir": false,
+    "size": "13.5 KiB",
+    "date": "07-Jan-2004 06:25"
+  },
+  {
+    "name": "symbolsForDDT6000.bin",
+    "href": "symbolsForDDT6000.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp1/papertapeImages/20040106/disassembler/symbolsForDDT6000.bin",
+    "is_dir": false,
+    "size": "2.5 KiB",
+    "date": "07-Jan-2004 06:22"
+  }
+]

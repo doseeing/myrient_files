@@ -1,0 +1,16 @@
+name	is_dir	size	date
+libsa	True	-	10-Mar-2006 08:00
+sadb	True	-	10-Mar-2006 08:00
+adb	False	47.9 KiB	15-Apr-1983 00:30
+boot	False	15.4 KiB	15-Apr-1983 00:30
+boot.50	False	15.2 KiB	15-Apr-1983 00:30
+boot.lsu	False	15.8 KiB	15-Apr-1983 00:30
+cat	False	15.3 KiB	15-Apr-1983 00:30
+icheck	False	19.8 KiB	15-Apr-1983 00:30
+libsa.a	False	35.5 KiB	14-Apr-1983 23:50
+ls	False	15.5 KiB	15-Apr-1983 00:30
+maketape	False	408 B	15-Apr-1983 00:35
+mkfs	False	21.8 KiB	15-Apr-1983 18:30
+mktape	False	375 B	08-Mar-1983 23:38
+restor	False	22.3 KiB	15-Apr-1983 00:30
+tboot	False	10.6 KiB	08-Mar-1983 23:38

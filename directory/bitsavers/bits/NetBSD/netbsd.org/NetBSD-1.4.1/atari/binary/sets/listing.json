@@ -1,0 +1,130 @@
+[
+  {
+    "name": "BSDSUM",
+    "href": "BSDSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/atari/binary/sets/BSDSUM",
+    "is_dir": false,
+    "size": "141 B",
+    "date": "06-Aug-1999 07:47"
+  },
+  {
+    "name": "CKSUM",
+    "href": "CKSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/atari/binary/sets/CKSUM",
+    "is_dir": false,
+    "size": "196 B",
+    "date": "06-Aug-1999 07:48"
+  },
+  {
+    "name": "MD5",
+    "href": "MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/atari/binary/sets/MD5",
+    "is_dir": false,
+    "size": "352 B",
+    "date": "06-Aug-1999 07:48"
+  },
+  {
+    "name": "SYSVSUM",
+    "href": "SYSVSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/atari/binary/sets/SYSVSUM",
+    "is_dir": false,
+    "size": "142 B",
+    "date": "06-Aug-1999 07:48"
+  },
+  {
+    "name": "base.tgz",
+    "href": "base.tgz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/atari/binary/sets/base.tgz",
+    "is_dir": false,
+    "size": "10.3 MiB",
+    "date": "31-Jul-1999 00:36"
+  },
+  {
+    "name": "comp.tgz",
+    "href": "comp.tgz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/atari/binary/sets/comp.tgz",
+    "is_dir": false,
+    "size": "8.3 MiB",
+    "date": "31-Jul-1999 01:23"
+  },
+  {
+    "name": "etc.tgz",
+    "href": "etc.tgz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/atari/binary/sets/etc.tgz",
+    "is_dir": false,
+    "size": "56.7 KiB",
+    "date": "31-Jul-1999 01:24"
+  },
+  {
+    "name": "games.tgz",
+    "href": "games.tgz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/atari/binary/sets/games.tgz",
+    "is_dir": false,
+    "size": "2.8 MiB",
+    "date": "26-Jul-1999 15:23"
+  },
+  {
+    "name": "man.tgz",
+    "href": "man.tgz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/atari/binary/sets/man.tgz",
+    "is_dir": false,
+    "size": "4.1 MiB",
+    "date": "31-Jul-1999 01:59"
+  },
+  {
+    "name": "misc.tgz",
+    "href": "misc.tgz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/atari/binary/sets/misc.tgz",
+    "is_dir": false,
+    "size": "2.2 MiB",
+    "date": "31-Jul-1999 02:11"
+  },
+  {
+    "name": "text.tgz",
+    "href": "text.tgz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/atari/binary/sets/text.tgz",
+    "is_dir": false,
+    "size": "1.3 MiB",
+    "date": "26-Jul-1999 21:02"
+  },
+  {
+    "name": "xbase.tgz",
+    "href": "xbase.tgz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/atari/binary/sets/xbase.tgz",
+    "is_dir": false,
+    "size": "2.5 MiB",
+    "date": "22-Apr-1999 20:16"
+  },
+  {
+    "name": "xcomp.tgz",
+    "href": "xcomp.tgz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/atari/binary/sets/xcomp.tgz",
+    "is_dir": false,
+    "size": "1.6 MiB",
+    "date": "22-Jul-1999 17:48"
+  },
+  {
+    "name": "xcontrib.tgz",
+    "href": "xcontrib.tgz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/atari/binary/sets/xcontrib.tgz",
+    "is_dir": false,
+    "size": "179.2 KiB",
+    "date": "22-Jul-1999 17:48"
+  },
+  {
+    "name": "xfont.tgz",
+    "href": "xfont.tgz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/atari/binary/sets/xfont.tgz",
+    "is_dir": false,
+    "size": "5.7 MiB",
+    "date": "22-Jul-1999 17:49"
+  },
+  {
+    "name": "xserver.tgz",
+    "href": "xserver.tgz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/atari/binary/sets/xserver.tgz",
+    "is_dir": false,
+    "size": "6.0 MiB",
+    "date": "02-Aug-1999 10:42"
+  }
+]

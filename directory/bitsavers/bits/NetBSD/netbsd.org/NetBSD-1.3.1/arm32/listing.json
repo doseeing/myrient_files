@@ -1,0 +1,82 @@
+[
+  {
+    "name": "binary",
+    "href": "binary/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/arm32/binary/",
+    "is_dir": true,
+    "size": null,
+    "date": "30-Sep-2023 17:20"
+  },
+  {
+    "name": "installation",
+    "href": "installation/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/arm32/installation/",
+    "is_dir": true,
+    "size": null,
+    "date": "30-Sep-2023 17:20"
+  },
+  {
+    "name": "source",
+    "href": "source/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/arm32/source/",
+    "is_dir": true,
+    "size": null,
+    "date": "30-Sep-2023 17:20"
+  },
+  {
+    "name": "BSDSUM",
+    "href": "BSDSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/arm32/BSDSUM",
+    "is_dir": false,
+    "size": "50 B",
+    "date": "26-Mar-1998 22:31"
+  },
+  {
+    "name": "CKSUM",
+    "href": "CKSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/arm32/CKSUM",
+    "is_dir": false,
+    "size": "72 B",
+    "date": "26-Mar-1998 22:31"
+  },
+  {
+    "name": "FAQ",
+    "href": "FAQ",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/arm32/FAQ",
+    "is_dir": false,
+    "size": "43.5 KiB",
+    "date": "26-Mar-1998 22:22"
+  },
+  {
+    "name": "INSTALL",
+    "href": "INSTALL",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/arm32/INSTALL",
+    "is_dir": false,
+    "size": "64.3 KiB",
+    "date": "26-Mar-1998 22:22"
+  },
+  {
+    "name": "MD5",
+    "href": "MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/arm32/MD5",
+    "is_dir": false,
+    "size": "147 B",
+    "date": "26-Mar-1998 22:31"
+  },
+  {
+    "name": "SOURCE_DATE",
+    "href": "SOURCE_DATE",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/arm32/SOURCE_DATE",
+    "is_dir": false,
+    "size": "30 B",
+    "date": "26-Mar-1998 22:22"
+  },
+  {
+    "name": "SYSVSUM",
+    "href": "SYSVSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3.1/arm32/SYSVSUM",
+    "is_dir": false,
+    "size": "50 B",
+    "date": "26-Mar-1998 22:31"
+  }
+]

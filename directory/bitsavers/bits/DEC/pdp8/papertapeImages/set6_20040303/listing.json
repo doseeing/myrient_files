@@ -1,0 +1,370 @@
+[
+  {
+    "name": "_7bit",
+    "href": "_7bit/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/papertapeImages/set6_20040303/_7bit/",
+    "is_dir": true,
+    "size": null,
+    "date": "27-Oct-2004 00:48"
+  },
+  {
+    "name": "decus_5-12.txt",
+    "href": "decus_5-12.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/papertapeImages/set6_20040303/decus_5-12.txt",
+    "is_dir": false,
+    "size": "2.1 KiB",
+    "date": "04-Mar-2004 02:36"
+  },
+  {
+    "name": "decus_5-20.bin",
+    "href": "decus_5-20.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/papertapeImages/set6_20040303/decus_5-20.bin",
+    "is_dir": false,
+    "size": "278 B",
+    "date": "04-Mar-2004 04:49"
+  },
+  {
+    "name": "decus_5-22.txt",
+    "href": "decus_5-22.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/papertapeImages/set6_20040303/decus_5-22.txt",
+    "is_dir": false,
+    "size": "1.5 KiB",
+    "date": "04-Mar-2004 04:58"
+  },
+  {
+    "name": "decus_5-23.bin",
+    "href": "decus_5-23.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/papertapeImages/set6_20040303/decus_5-23.bin",
+    "is_dir": false,
+    "size": "144 B",
+    "date": "04-Mar-2004 05:04"
+  },
+  {
+    "name": "decus_5-24.bin",
+    "href": "decus_5-24.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/papertapeImages/set6_20040303/decus_5-24.bin",
+    "is_dir": false,
+    "size": "2.0 KiB",
+    "date": "04-Mar-2004 04:11"
+  },
+  {
+    "name": "decus_5-26.txt",
+    "href": "decus_5-26.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/papertapeImages/set6_20040303/decus_5-26.txt",
+    "is_dir": false,
+    "size": "2.5 KiB",
+    "date": "04-Mar-2004 02:33"
+  },
+  {
+    "name": "decus_5-26_symb.txt",
+    "href": "decus_5-26_symb.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/papertapeImages/set6_20040303/decus_5-26_symb.txt",
+    "is_dir": false,
+    "size": "3.2 KiB",
+    "date": "04-Mar-2004 03:08"
+  },
+  {
+    "name": "decus_5-31a.bin",
+    "href": "decus_5-31a.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/papertapeImages/set6_20040303/decus_5-31a.bin",
+    "is_dir": false,
+    "size": "5.0 KiB",
+    "date": "04-Mar-2004 03:55"
+  },
+  {
+    "name": "decus_5-32a.bin",
+    "href": "decus_5-32a.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/papertapeImages/set6_20040303/decus_5-32a.bin",
+    "is_dir": false,
+    "size": "1.3 KiB",
+    "date": "04-Mar-2004 05:02"
+  },
+  {
+    "name": "decus_8-103ab.bin",
+    "href": "decus_8-103ab.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/papertapeImages/set6_20040303/decus_8-103ab.bin",
+    "is_dir": false,
+    "size": "4.5 KiB",
+    "date": "04-Mar-2004 04:24"
+  },
+  {
+    "name": "decus_8-104.txt",
+    "href": "decus_8-104.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/papertapeImages/set6_20040303/decus_8-104.txt",
+    "is_dir": false,
+    "size": "13.9 KiB",
+    "date": "04-Mar-2004 03:33"
+  },
+  {
+    "name": "decus_8-113.txt",
+    "href": "decus_8-113.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/papertapeImages/set6_20040303/decus_8-113.txt",
+    "is_dir": false,
+    "size": "3.1 KiB",
+    "date": "04-Mar-2004 03:46"
+  },
+  {
+    "name": "decus_8-113_friedensamp.bin",
+    "href": "decus_8-113_friedensamp.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/papertapeImages/set6_20040303/decus_8-113_friedensamp.bin",
+    "is_dir": false,
+    "size": "321 B",
+    "date": "04-Mar-2004 03:21"
+  },
+  {
+    "name": "decus_8-115.bin",
+    "href": "decus_8-115.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/papertapeImages/set6_20040303/decus_8-115.bin",
+    "is_dir": false,
+    "size": "1.1 KiB",
+    "date": "04-Mar-2004 04:45"
+  },
+  {
+    "name": "decus_8-118.txt",
+    "href": "decus_8-118.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/papertapeImages/set6_20040303/decus_8-118.txt",
+    "is_dir": false,
+    "size": "6.3 KiB",
+    "date": "04-Mar-2004 03:26"
+  },
+  {
+    "name": "decus_8-119.bin",
+    "href": "decus_8-119.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/papertapeImages/set6_20040303/decus_8-119.bin",
+    "is_dir": false,
+    "size": "4.8 KiB",
+    "date": "04-Mar-2004 04:03"
+  },
+  {
+    "name": "decus_8-121.txt",
+    "href": "decus_8-121.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/papertapeImages/set6_20040303/decus_8-121.txt",
+    "is_dir": false,
+    "size": "5.5 KiB",
+    "date": "04-Mar-2004 03:39"
+  },
+  {
+    "name": "decus_8-121_crSysTap.bin",
+    "href": "decus_8-121_crSysTap.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/papertapeImages/set6_20040303/decus_8-121_crSysTap.bin",
+    "is_dir": false,
+    "size": "1.7 KiB",
+    "date": "04-Mar-2004 04:42"
+  },
+  {
+    "name": "decus_8-122.bin",
+    "href": "decus_8-122.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/papertapeImages/set6_20040303/decus_8-122.bin",
+    "is_dir": false,
+    "size": "7.3 KiB",
+    "date": "04-Mar-2004 04:53"
+  },
+  {
+    "name": "decus_8-19a_3-1-67.bin",
+    "href": "decus_8-19a_3-1-67.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/papertapeImages/set6_20040303/decus_8-19a_3-1-67.bin",
+    "is_dir": false,
+    "size": "2.2 KiB",
+    "date": "04-Mar-2004 04:39"
+  },
+  {
+    "name": "decus_8-21.bin",
+    "href": "decus_8-21.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/papertapeImages/set6_20040303/decus_8-21.bin",
+    "is_dir": false,
+    "size": "1.3 KiB",
+    "date": "04-Mar-2004 03:56"
+  },
+  {
+    "name": "decus_8-21.txt",
+    "href": "decus_8-21.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/papertapeImages/set6_20040303/decus_8-21.txt",
+    "is_dir": false,
+    "size": "3.8 KiB",
+    "date": "04-Mar-2004 02:22"
+  },
+  {
+    "name": "decus_8-21samp.txt",
+    "href": "decus_8-21samp.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/papertapeImages/set6_20040303/decus_8-21samp.txt",
+    "is_dir": false,
+    "size": "3.2 KiB",
+    "date": "04-Mar-2004 02:30"
+  },
+  {
+    "name": "decus_8-26.bin",
+    "href": "decus_8-26.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/papertapeImages/set6_20040303/decus_8-26.bin",
+    "is_dir": false,
+    "size": "687 B",
+    "date": "04-Mar-2004 04:50"
+  },
+  {
+    "name": "decus_8-38b.bin",
+    "href": "decus_8-38b.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/papertapeImages/set6_20040303/decus_8-38b.bin",
+    "is_dir": false,
+    "size": "383 B",
+    "date": "04-Mar-2004 04:07"
+  },
+  {
+    "name": "decus_8-39.bin",
+    "href": "decus_8-39.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/papertapeImages/set6_20040303/decus_8-39.bin",
+    "is_dir": false,
+    "size": "677 B",
+    "date": "04-Mar-2004 04:28"
+  },
+  {
+    "name": "decus_8-44.bin",
+    "href": "decus_8-44.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/papertapeImages/set6_20040303/decus_8-44.bin",
+    "is_dir": false,
+    "size": "5.2 KiB",
+    "date": "04-Mar-2004 04:14"
+  },
+  {
+    "name": "decus_8-49.bin",
+    "href": "decus_8-49.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/papertapeImages/set6_20040303/decus_8-49.bin",
+    "is_dir": false,
+    "size": "1.2 KiB",
+    "date": "04-Mar-2004 04:51"
+  },
+  {
+    "name": "decus_8-50.txt",
+    "href": "decus_8-50.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/papertapeImages/set6_20040303/decus_8-50.txt",
+    "is_dir": false,
+    "size": "1.8 KiB",
+    "date": "04-Mar-2004 02:58"
+  },
+  {
+    "name": "decus_8-50lst.txt",
+    "href": "decus_8-50lst.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/papertapeImages/set6_20040303/decus_8-50lst.txt",
+    "is_dir": false,
+    "size": "2.2 KiB",
+    "date": "04-Mar-2004 03:01"
+  },
+  {
+    "name": "decus_8-51.txt",
+    "href": "decus_8-51.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/papertapeImages/set6_20040303/decus_8-51.txt",
+    "is_dir": false,
+    "size": "3.0 KiB",
+    "date": "04-Mar-2004 02:44"
+  },
+  {
+    "name": "decus_8-52.txt",
+    "href": "decus_8-52.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/papertapeImages/set6_20040303/decus_8-52.txt",
+    "is_dir": false,
+    "size": "294 B",
+    "date": "04-Mar-2004 02:57"
+  },
+  {
+    "name": "decus_8-52symb.txt",
+    "href": "decus_8-52symb.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/papertapeImages/set6_20040303/decus_8-52symb.txt",
+    "is_dir": false,
+    "size": "3.3 KiB",
+    "date": "04-Mar-2004 03:04"
+  },
+  {
+    "name": "decus_8-69.txt",
+    "href": "decus_8-69.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/papertapeImages/set6_20040303/decus_8-69.txt",
+    "is_dir": false,
+    "size": "1.6 KiB",
+    "date": "04-Mar-2004 02:50"
+  },
+  {
+    "name": "decus_8-69symb.txt",
+    "href": "decus_8-69symb.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/papertapeImages/set6_20040303/decus_8-69symb.txt",
+    "is_dir": false,
+    "size": "1.4 KiB",
+    "date": "04-Mar-2004 03:11"
+  },
+  {
+    "name": "decus_8-74.txt",
+    "href": "decus_8-74.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/papertapeImages/set6_20040303/decus_8-74.txt",
+    "is_dir": false,
+    "size": "2.3 KiB",
+    "date": "04-Mar-2004 02:53"
+  },
+  {
+    "name": "decus_8-75.bin",
+    "href": "decus_8-75.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/papertapeImages/set6_20040303/decus_8-75.bin",
+    "is_dir": false,
+    "size": "1.7 KiB",
+    "date": "04-Mar-2004 05:00"
+  },
+  {
+    "name": "decus_8-76.bin",
+    "href": "decus_8-76.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/papertapeImages/set6_20040303/decus_8-76.bin",
+    "is_dir": false,
+    "size": "3.6 KiB",
+    "date": "04-Mar-2004 04:30"
+  },
+  {
+    "name": "decus_8-77.txt",
+    "href": "decus_8-77.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/papertapeImages/set6_20040303/decus_8-77.txt",
+    "is_dir": false,
+    "size": "13.5 KiB",
+    "date": "04-Mar-2004 03:24"
+  },
+  {
+    "name": "decus_8-79.txt",
+    "href": "decus_8-79.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/papertapeImages/set6_20040303/decus_8-79.txt",
+    "is_dir": false,
+    "size": "2.1 KiB",
+    "date": "04-Mar-2004 02:26"
+  },
+  {
+    "name": "decus_8-83a.bin",
+    "href": "decus_8-83a.bin",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/papertapeImages/set6_20040303/decus_8-83a.bin",
+    "is_dir": false,
+    "size": "1.0 KiB",
+    "date": "04-Mar-2004 04:08"
+  },
+  {
+    "name": "decus_8-90.txt",
+    "href": "decus_8-90.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/papertapeImages/set6_20040303/decus_8-90.txt",
+    "is_dir": false,
+    "size": "1.8 KiB",
+    "date": "04-Mar-2004 03:52"
+  },
+  {
+    "name": "decus_8-96.txt",
+    "href": "decus_8-96.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/papertapeImages/set6_20040303/decus_8-96.txt",
+    "is_dir": false,
+    "size": "2.5 KiB",
+    "date": "04-Mar-2004 02:39"
+  },
+  {
+    "name": "decus_8-99.txt",
+    "href": "decus_8-99.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/papertapeImages/set6_20040303/decus_8-99.txt",
+    "is_dir": false,
+    "size": "653 B",
+    "date": "04-Mar-2004 02:47"
+  },
+  {
+    "name": "decus_9-93.txt",
+    "href": "decus_9-93.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/DEC/pdp8/papertapeImages/set6_20040303/decus_9-93.txt",
+    "is_dir": false,
+    "size": "4.3 KiB",
+    "date": "04-Mar-2004 03:14"
+  }
+]

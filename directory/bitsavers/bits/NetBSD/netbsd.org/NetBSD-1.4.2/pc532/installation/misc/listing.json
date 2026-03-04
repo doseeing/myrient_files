@@ -1,0 +1,42 @@
+[
+  {
+    "name": "BSDSUM",
+    "href": "BSDSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/pc532/installation/misc/BSDSUM",
+    "is_dir": false,
+    "size": "38 B",
+    "date": "22-Mar-2000 03:54"
+  },
+  {
+    "name": "CKSUM",
+    "href": "CKSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/pc532/installation/misc/CKSUM",
+    "is_dir": false,
+    "size": "46 B",
+    "date": "22-Mar-2000 03:54"
+  },
+  {
+    "name": "MD5",
+    "href": "MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/pc532/installation/misc/MD5",
+    "is_dir": false,
+    "size": "70 B",
+    "date": "22-Mar-2000 03:54"
+  },
+  {
+    "name": "SYSVSUM",
+    "href": "SYSVSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/pc532/installation/misc/SYSVSUM",
+    "is_dir": false,
+    "size": "38 B",
+    "date": "22-Mar-2000 03:54"
+  },
+  {
+    "name": "download.c",
+    "href": "download.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/pc532/installation/misc/download.c",
+    "is_dir": false,
+    "size": "12.3 KiB",
+    "date": "22-Mar-2000 03:54"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "name": "BSDSUM",
+    "href": "BSDSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/atari/installation/miniroot/BSDSUM",
+    "is_dir": false,
+    "size": "87 B",
+    "date": "24-Nov-2000 22:06"
+  },
+  {
+    "name": "CKSUM",
+    "href": "CKSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/atari/installation/miniroot/CKSUM",
+    "is_dir": false,
+    "size": "112 B",
+    "date": "24-Nov-2000 22:06"
+  },
+  {
+    "name": "MD5",
+    "href": "MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/atari/installation/miniroot/MD5",
+    "is_dir": false,
+    "size": "181 B",
+    "date": "24-Nov-2000 22:06"
+  },
+  {
+    "name": "SYSVSUM",
+    "href": "SYSVSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/atari/installation/miniroot/SYSVSUM",
+    "is_dir": false,
+    "size": "89 B",
+    "date": "24-Nov-2000 22:06"
+  },
+  {
+    "name": "miniroot-15.fs.1.gz",
+    "href": "miniroot-15.fs.1.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/atari/installation/miniroot/miniroot-15.fs.1.gz",
+    "is_dir": false,
+    "size": "318.5 KiB",
+    "date": "24-Nov-2000 22:03"
+  },
+  {
+    "name": "miniroot-15.fs.2.gz",
+    "href": "miniroot-15.fs.2.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/atari/installation/miniroot/miniroot-15.fs.2.gz",
+    "is_dir": false,
+    "size": "158.0 KiB",
+    "date": "24-Nov-2000 22:04"
+  },
+  {
+    "name": "miniroot-15.fs.gz",
+    "href": "miniroot-15.fs.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/atari/installation/miniroot/miniroot-15.fs.gz",
+    "is_dir": false,
+    "size": "577.9 KiB",
+    "date": "24-Nov-2000 22:02"
+  }
+]

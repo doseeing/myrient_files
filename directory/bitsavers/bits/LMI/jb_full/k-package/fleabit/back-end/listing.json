@@ -1,0 +1,186 @@
+[
+  {
+    "name": "bookkeep.lisp.18",
+    "href": "bookkeep.lisp.18",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-package/fleabit/back-end/bookkeep.lisp.18",
+    "is_dir": false,
+    "size": "14.7 KiB",
+    "date": "21-Apr-2017 01:42"
+  },
+  {
+    "name": "close-analyze.lisp.19",
+    "href": "close-analyze.lisp.19",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-package/fleabit/back-end/close-analyze.lisp.19",
+    "is_dir": false,
+    "size": "1.9 KiB",
+    "date": "21-Apr-2017 01:42"
+  },
+  {
+    "name": "closure.lisp.19",
+    "href": "closure.lisp.19",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-package/fleabit/back-end/closure.lisp.19",
+    "is_dir": false,
+    "size": "19.3 KiB",
+    "date": "21-Apr-2017 01:42"
+  },
+  {
+    "name": "do-test.lisp.1",
+    "href": "do-test.lisp.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-package/fleabit/back-end/do-test.lisp.1",
+    "is_dir": false,
+    "size": "8.2 KiB",
+    "date": "21-Apr-2017 01:42"
+  },
+  {
+    "name": "emit-crock.lisp.24",
+    "href": "emit-crock.lisp.24",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-package/fleabit/back-end/emit-crock.lisp.24",
+    "is_dir": false,
+    "size": "5.8 KiB",
+    "date": "21-Apr-2017 01:42"
+  },
+  {
+    "name": "env-analyze.lisp.3",
+    "href": "env-analyze.lisp.3",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-package/fleabit/back-end/env-analyze.lisp.3",
+    "is_dir": false,
+    "size": "1.8 KiB",
+    "date": "21-Apr-2017 01:42"
+  },
+  {
+    "name": "env-analyze.lisp.4",
+    "href": "env-analyze.lisp.4",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-package/fleabit/back-end/env-analyze.lisp.4",
+    "is_dir": false,
+    "size": "1.8 KiB",
+    "date": "21-Apr-2017 01:42"
+  },
+  {
+    "name": "generate.lisp.12",
+    "href": "generate.lisp.12",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-package/fleabit/back-end/generate.lisp.12",
+    "is_dir": false,
+    "size": "23.4 KiB",
+    "date": "21-Apr-2017 01:42"
+  },
+  {
+    "name": "live.lisp.10",
+    "href": "live.lisp.10",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-package/fleabit/back-end/live.lisp.10",
+    "is_dir": false,
+    "size": "5.0 KiB",
+    "date": "21-Apr-2017 01:42"
+  },
+  {
+    "name": "lmarithgen.lisp.6",
+    "href": "lmarithgen.lisp.6",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-package/fleabit/back-end/lmarithgen.lisp.6",
+    "is_dir": false,
+    "size": "10.1 KiB",
+    "date": "21-Apr-2017 01:42"
+  },
+  {
+    "name": "lmbookkeep.lisp.15",
+    "href": "lmbookkeep.lisp.15",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-package/fleabit/back-end/lmbookkeep.lisp.15",
+    "is_dir": false,
+    "size": "7.2 KiB",
+    "date": "21-Apr-2017 01:42"
+  },
+  {
+    "name": "lmemit.lisp.24",
+    "href": "lmemit.lisp.24",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-package/fleabit/back-end/lmemit.lisp.24",
+    "is_dir": false,
+    "size": "3.8 KiB",
+    "date": "21-Apr-2017 01:42"
+  },
+  {
+    "name": "lmgen.lisp.10",
+    "href": "lmgen.lisp.10",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-package/fleabit/back-end/lmgen.lisp.10",
+    "is_dir": false,
+    "size": "15.1 KiB",
+    "date": "21-Apr-2017 01:42"
+  },
+  {
+    "name": "lmlocgen.lisp.2",
+    "href": "lmlocgen.lisp.2",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-package/fleabit/back-end/lmlocgen.lisp.2",
+    "is_dir": false,
+    "size": "14.2 KiB",
+    "date": "21-Apr-2017 01:42"
+  },
+  {
+    "name": "lmrep.lisp.3",
+    "href": "lmrep.lisp.3",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-package/fleabit/back-end/lmrep.lisp.3",
+    "is_dir": false,
+    "size": "9.0 KiB",
+    "date": "21-Apr-2017 01:42"
+  },
+  {
+    "name": "new-live.lisp.5",
+    "href": "new-live.lisp.5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-package/fleabit/back-end/new-live.lisp.5",
+    "is_dir": false,
+    "size": "2.1 KiB",
+    "date": "21-Apr-2017 01:42"
+  },
+  {
+    "name": "new-strategy.lisp.20",
+    "href": "new-strategy.lisp.20",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-package/fleabit/back-end/new-strategy.lisp.20",
+    "is_dir": false,
+    "size": "10.4 KiB",
+    "date": "21-Apr-2017 01:42"
+  },
+  {
+    "name": "parassign.lisp.24",
+    "href": "parassign.lisp.24",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-package/fleabit/back-end/parassign.lisp.24",
+    "is_dir": false,
+    "size": "19.0 KiB",
+    "date": "21-Apr-2017 01:42"
+  },
+  {
+    "name": "reg.lisp.26",
+    "href": "reg.lisp.26",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-package/fleabit/back-end/reg.lisp.26",
+    "is_dir": false,
+    "size": "25.3 KiB",
+    "date": "21-Apr-2017 01:42"
+  },
+  {
+    "name": "strategy.lisp.15",
+    "href": "strategy.lisp.15",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-package/fleabit/back-end/strategy.lisp.15",
+    "is_dir": false,
+    "size": "9.7 KiB",
+    "date": "21-Apr-2017 01:42"
+  },
+  {
+    "name": "trace.lisp.5",
+    "href": "trace.lisp.5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-package/fleabit/back-end/trace.lisp.5",
+    "is_dir": false,
+    "size": "5.1 KiB",
+    "date": "21-Apr-2017 01:42"
+  },
+  {
+    "name": "xlive.lisp.3",
+    "href": "xlive.lisp.3",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-package/fleabit/back-end/xlive.lisp.3",
+    "is_dir": false,
+    "size": "3.3 KiB",
+    "date": "21-Apr-2017 01:42"
+  },
+  {
+    "name": "xstrategy.lisp.4",
+    "href": "xstrategy.lisp.4",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/jb_full/k-package/fleabit/back-end/xstrategy.lisp.4",
+    "is_dir": false,
+    "size": "11.4 KiB",
+    "date": "21-Apr-2017 01:42"
+  }
+]

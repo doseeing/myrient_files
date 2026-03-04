@@ -1,0 +1,26 @@
+[
+  {
+    "name": "CKSUMS",
+    "href": "CKSUMS",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.0/amiga/binary/games10/CKSUMS",
+    "is_dir": false,
+    "size": "56 B",
+    "date": "28-Oct-1994 06:36"
+  },
+  {
+    "name": "games10.aa",
+    "href": "games10.aa",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.0/amiga/binary/games10/games10.aa",
+    "is_dir": false,
+    "size": "880.0 KiB",
+    "date": "28-Oct-1994 06:36"
+  },
+  {
+    "name": "games10.ab",
+    "href": "games10.ab",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.0/amiga/binary/games10/games10.ab",
+    "is_dir": false,
+    "size": "189.0 KiB",
+    "date": "28-Oct-1994 06:36"
+  }
+]

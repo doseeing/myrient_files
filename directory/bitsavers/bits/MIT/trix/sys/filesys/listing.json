@@ -1,0 +1,74 @@
+[
+  {
+    "name": "DIFF",
+    "href": "DIFF",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/trix/sys/filesys/DIFF",
+    "is_dir": false,
+    "size": "377 B",
+    "date": "11-Oct-1986 22:50"
+  },
+  {
+    "name": "Makefile",
+    "href": "Makefile",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/trix/sys/filesys/Makefile",
+    "is_dir": false,
+    "size": "613 B",
+    "date": "11-Oct-1986 22:50"
+  },
+  {
+    "name": "block.c",
+    "href": "block.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/trix/sys/filesys/block.c",
+    "is_dir": false,
+    "size": "6.9 KiB",
+    "date": "11-Oct-1986 22:50"
+  },
+  {
+    "name": "file.c",
+    "href": "file.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/trix/sys/filesys/file.c",
+    "is_dir": false,
+    "size": "18.8 KiB",
+    "date": "11-Oct-1986 22:50"
+  },
+  {
+    "name": "fsys.c",
+    "href": "fsys.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/trix/sys/filesys/fsys.c",
+    "is_dir": false,
+    "size": "6.5 KiB",
+    "date": "11-Oct-1986 22:50"
+  },
+  {
+    "name": "inode.c",
+    "href": "inode.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/trix/sys/filesys/inode.c",
+    "is_dir": false,
+    "size": "20.5 KiB",
+    "date": "11-Oct-1986 22:50"
+  },
+  {
+    "name": "l3.c",
+    "href": "l3.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/trix/sys/filesys/l3.c",
+    "is_dir": false,
+    "size": "2.7 KiB",
+    "date": "11-Oct-1986 22:50"
+  },
+  {
+    "name": "ninode.c",
+    "href": "ninode.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/trix/sys/filesys/ninode.c",
+    "is_dir": false,
+    "size": "20.7 KiB",
+    "date": "11-Oct-1986 22:50"
+  },
+  {
+    "name": "soft.c",
+    "href": "soft.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/MIT/trix/sys/filesys/soft.c",
+    "is_dir": false,
+    "size": "3.4 KiB",
+    "date": "11-Oct-1986 22:50"
+  }
+]

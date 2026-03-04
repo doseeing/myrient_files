@@ -1,0 +1,74 @@
+[
+  {
+    "name": "binary",
+    "href": "binary/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/macppc/binary/",
+    "is_dir": true,
+    "size": null,
+    "date": "01-Oct-2023 18:33"
+  },
+  {
+    "name": "installation",
+    "href": "installation/",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/macppc/installation/",
+    "is_dir": true,
+    "size": null,
+    "date": "01-Oct-2023 18:33"
+  },
+  {
+    "name": "INSTALL.html",
+    "href": "INSTALL.html",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/macppc/INSTALL.html",
+    "is_dir": false,
+    "size": "99.3 KiB",
+    "date": "03-Mar-2000 23:14"
+  },
+  {
+    "name": "INSTALL.more",
+    "href": "INSTALL.more",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/macppc/INSTALL.more",
+    "is_dir": false,
+    "size": "92.7 KiB",
+    "date": "03-Mar-2000 23:14"
+  },
+  {
+    "name": "INSTALL.ps",
+    "href": "INSTALL.ps",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/macppc/INSTALL.ps",
+    "is_dir": false,
+    "size": "145.0 KiB",
+    "date": "03-Mar-2000 23:14"
+  },
+  {
+    "name": "INSTALL.txt",
+    "href": "INSTALL.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/macppc/INSTALL.txt",
+    "is_dir": false,
+    "size": "87.0 KiB",
+    "date": "03-Mar-2000 23:14"
+  },
+  {
+    "name": "LAST_MINUTE",
+    "href": "LAST_MINUTE",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/macppc/LAST_MINUTE",
+    "is_dir": false,
+    "size": "4.5 KiB",
+    "date": "16-Mar-2000 10:32"
+  },
+  {
+    "name": "README",
+    "href": "README",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/macppc/README",
+    "is_dir": false,
+    "size": "1.1 KiB",
+    "date": "16-Mar-2000 10:32"
+  },
+  {
+    "name": "SOURCE_DATE",
+    "href": "SOURCE_DATE",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/macppc/SOURCE_DATE",
+    "is_dir": false,
+    "size": "20 B",
+    "date": "04-Mar-2000 04:34"
+  }
+]

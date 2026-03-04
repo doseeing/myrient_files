@@ -1,0 +1,138 @@
+[
+  {
+    "name": "RT-BSD44",
+    "href": "RT-BSD44",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/IBM/RT/rt_aos4/images/RT-BSD44",
+    "is_dir": false,
+    "size": "14.6 KiB",
+    "date": "16-Feb-2020 19:56"
+  },
+  {
+    "name": "dump.usr.gz",
+    "href": "dump.usr.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/IBM/RT/rt_aos4/images/dump.usr.gz",
+    "is_dir": false,
+    "size": "13.6 MiB",
+    "date": "16-Feb-2020 19:56"
+  },
+  {
+    "name": "fd.c",
+    "href": "fd.c",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/IBM/RT/rt_aos4/images/fd.c",
+    "is_dir": false,
+    "size": "47.7 KiB",
+    "date": "16-Feb-2020 19:56"
+  },
+  {
+    "name": "fdvar.h",
+    "href": "fdvar.h",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/IBM/RT/rt_aos4/images/fdvar.h",
+    "is_dir": false,
+    "size": "6.8 KiB",
+    "date": "16-Feb-2020 19:56"
+  },
+  {
+    "name": "files.patched.gz",
+    "href": "files.patched.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/IBM/RT/rt_aos4/images/files.patched.gz",
+    "is_dir": false,
+    "size": "65.0 KiB",
+    "date": "16-Feb-2020 19:56"
+  },
+  {
+    "name": "gdb.ibm.tar.Z",
+    "href": "gdb.ibm.tar.Z",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/IBM/RT/rt_aos4/images/gdb.ibm.tar.Z",
+    "is_dir": false,
+    "size": "99.8 KiB",
+    "date": "16-Feb-2020 19:56"
+  },
+  {
+    "name": "gdb.jfc.tar.Z",
+    "href": "gdb.jfc.tar.Z",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/IBM/RT/rt_aos4/images/gdb.jfc.tar.Z",
+    "is_dir": false,
+    "size": "84.1 KiB",
+    "date": "16-Feb-2020 19:56"
+  },
+  {
+    "name": "ide.drives.txt",
+    "href": "ide.drives.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/IBM/RT/rt_aos4/images/ide.drives.txt",
+    "is_dir": false,
+    "size": "2.0 KiB",
+    "date": "16-Feb-2020 19:56"
+  },
+  {
+    "name": "include.tar.gz",
+    "href": "include.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/IBM/RT/rt_aos4/images/include.tar.gz",
+    "is_dir": false,
+    "size": "34.5 KiB",
+    "date": "16-Feb-2020 19:56"
+  },
+  {
+    "name": "miniroot.dd.gz",
+    "href": "miniroot.dd.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/IBM/RT/rt_aos4/images/miniroot.dd.gz",
+    "is_dir": false,
+    "size": "494.4 KiB",
+    "date": "16-Feb-2020 19:56"
+  },
+  {
+    "name": "rootdump.tar.gz",
+    "href": "rootdump.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/IBM/RT/rt_aos4/images/rootdump.tar.gz",
+    "is_dir": false,
+    "size": "4.3 MiB",
+    "date": "16-Feb-2020 19:56"
+  },
+  {
+    "name": "rt.ide.drives.txt",
+    "href": "rt.ide.drives.txt",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/IBM/RT/rt_aos4/images/rt.ide.drives.txt",
+    "is_dir": false,
+    "size": "2.6 KiB",
+    "date": "16-Feb-2020 19:56"
+  },
+  {
+    "name": "sautil.dd.gz",
+    "href": "sautil.dd.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/IBM/RT/rt_aos4/images/sautil.dd.gz",
+    "is_dir": false,
+    "size": "145.4 KiB",
+    "date": "16-Feb-2020 19:56"
+  },
+  {
+    "name": "src.tar.gz",
+    "href": "src.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/IBM/RT/rt_aos4/images/src.tar.gz",
+    "is_dir": false,
+    "size": "8.6 MiB",
+    "date": "16-Feb-2020 19:56"
+  },
+  {
+    "name": "srctape.dd.gz",
+    "href": "srctape.dd.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/IBM/RT/rt_aos4/images/srctape.dd.gz",
+    "is_dir": false,
+    "size": "11.3 MiB",
+    "date": "16-Feb-2020 19:56"
+  },
+  {
+    "name": "sys.tar.gz",
+    "href": "sys.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/IBM/RT/rt_aos4/images/sys.tar.gz",
+    "is_dir": false,
+    "size": "2.9 MiB",
+    "date": "16-Feb-2020 19:56"
+  },
+  {
+    "name": "usrdump.dd.gz",
+    "href": "usrdump.dd.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/IBM/RT/rt_aos4/images/usrdump.dd.gz",
+    "is_dir": false,
+    "size": "13.5 MiB",
+    "date": "16-Feb-2020 19:56"
+  }
+]

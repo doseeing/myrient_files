@@ -1,0 +1,58 @@
+[
+  {
+    "name": "CKSUMS",
+    "href": "CKSUMS",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/x68k/floppies/CKSUMS",
+    "is_dir": false,
+    "size": "175 B",
+    "date": "24-Sep-1996 02:32"
+  },
+  {
+    "name": "inst12.fs",
+    "href": "inst12.fs",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/x68k/floppies/inst12.fs",
+    "is_dir": false,
+    "size": "1.2 MiB",
+    "date": "24-Sep-1996 02:32"
+  },
+  {
+    "name": "inst12.fs.gz",
+    "href": "inst12.fs.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/x68k/floppies/inst12.fs.gz",
+    "is_dir": false,
+    "size": "470.5 KiB",
+    "date": "24-Sep-1996 02:32"
+  },
+  {
+    "name": "kc12.fs",
+    "href": "kc12.fs",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/x68k/floppies/kc12.fs",
+    "is_dir": false,
+    "size": "1.2 MiB",
+    "date": "24-Sep-1996 02:32"
+  },
+  {
+    "name": "kc12.fs.gz",
+    "href": "kc12.fs.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/x68k/floppies/kc12.fs.gz",
+    "is_dir": false,
+    "size": "565.3 KiB",
+    "date": "24-Sep-1996 02:32"
+  },
+  {
+    "name": "upgr12.fs",
+    "href": "upgr12.fs",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/x68k/floppies/upgr12.fs",
+    "is_dir": false,
+    "size": "1.2 MiB",
+    "date": "24-Sep-1996 02:32"
+  },
+  {
+    "name": "upgr12.fs.gz",
+    "href": "upgr12.fs.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/x68k/floppies/upgr12.fs.gz",
+    "is_dir": false,
+    "size": "467.8 KiB",
+    "date": "24-Sep-1996 02:32"
+  }
+]

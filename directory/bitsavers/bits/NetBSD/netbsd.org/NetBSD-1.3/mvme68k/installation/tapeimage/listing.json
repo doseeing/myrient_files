@@ -1,0 +1,58 @@
+[
+  {
+    "name": "BSDSUM",
+    "href": "BSDSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/mvme68k/installation/tapeimage/BSDSUM",
+    "is_dir": false,
+    "size": "57 B",
+    "date": "04-Jan-1998 13:59"
+  },
+  {
+    "name": "CKSUM",
+    "href": "CKSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/mvme68k/installation/tapeimage/CKSUM",
+    "is_dir": false,
+    "size": "81 B",
+    "date": "04-Jan-1998 14:00"
+  },
+  {
+    "name": "MD5",
+    "href": "MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/mvme68k/installation/tapeimage/MD5",
+    "is_dir": false,
+    "size": "156 B",
+    "date": "04-Jan-1998 14:00"
+  },
+  {
+    "name": "SYSVSUM",
+    "href": "SYSVSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/mvme68k/installation/tapeimage/SYSVSUM",
+    "is_dir": false,
+    "size": "58 B",
+    "date": "04-Jan-1998 13:59"
+  },
+  {
+    "name": "bootst.gz",
+    "href": "bootst.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/mvme68k/installation/tapeimage/bootst.gz",
+    "is_dir": false,
+    "size": "3.2 KiB",
+    "date": "03-Jan-1998 22:47"
+  },
+  {
+    "name": "netbsd-rd.gz",
+    "href": "netbsd-rd.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/mvme68k/installation/tapeimage/netbsd-rd.gz",
+    "is_dir": false,
+    "size": "448.0 KiB",
+    "date": "04-Jan-1998 13:37"
+  },
+  {
+    "name": "stboot.gz",
+    "href": "stboot.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/mvme68k/installation/tapeimage/stboot.gz",
+    "is_dir": false,
+    "size": "63 B",
+    "date": "03-Jan-1998 22:47"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "name": "easy.lisp.28",
+    "href": "easy.lisp.28",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/ip-tcp/kernel/easy.lisp.28",
+    "is_dir": false,
+    "size": "9.2 KiB",
+    "date": "21-Apr-2017 01:47"
+  },
+  {
+    "name": "generic-server.lisp.26",
+    "href": "generic-server.lisp.26",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/ip-tcp/kernel/generic-server.lisp.26",
+    "is_dir": false,
+    "size": "16.9 KiB",
+    "date": "21-Apr-2017 01:47"
+  },
+  {
+    "name": "icmp.lisp.92",
+    "href": "icmp.lisp.92",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/ip-tcp/kernel/icmp.lisp.92",
+    "is_dir": false,
+    "size": "33.5 KiB",
+    "date": "21-Apr-2017 01:47"
+  },
+  {
+    "name": "ip.lisp.291",
+    "href": "ip.lisp.291",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/ip-tcp/kernel/ip.lisp.291",
+    "is_dir": false,
+    "size": "92.4 KiB",
+    "date": "21-Apr-2017 01:47"
+  },
+  {
+    "name": "ports.lisp.3",
+    "href": "ports.lisp.3",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/ip-tcp/kernel/ports.lisp.3",
+    "is_dir": false,
+    "size": "2.1 KiB",
+    "date": "21-Apr-2017 01:47"
+  },
+  {
+    "name": "tcp-stream.lisp.66",
+    "href": "tcp-stream.lisp.66",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/ip-tcp/kernel/tcp-stream.lisp.66",
+    "is_dir": false,
+    "size": "15.7 KiB",
+    "date": "21-Apr-2017 01:47"
+  },
+  {
+    "name": "tcp.lisp.295",
+    "href": "tcp.lisp.295",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/ip-tcp/kernel/tcp.lisp.295",
+    "is_dir": false,
+    "size": "133.7 KiB",
+    "date": "21-Apr-2017 01:47"
+  },
+  {
+    "name": "udp-stream.lisp.21",
+    "href": "udp-stream.lisp.21",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/ip-tcp/kernel/udp-stream.lisp.21",
+    "is_dir": false,
+    "size": "8.1 KiB",
+    "date": "21-Apr-2017 01:47"
+  },
+  {
+    "name": "udp.lisp.115",
+    "href": "udp.lisp.115",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/ip-tcp/kernel/udp.lisp.115",
+    "is_dir": false,
+    "size": "26.1 KiB",
+    "date": "21-Apr-2017 01:47"
+  },
+  {
+    "name": "udp.lisp.116",
+    "href": "udp.lisp.116",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/l/network/ip-tcp/kernel/udp.lisp.116",
+    "is_dir": false,
+    "size": "26.1 KiB",
+    "date": "21-Apr-2017 01:47"
+  }
+]

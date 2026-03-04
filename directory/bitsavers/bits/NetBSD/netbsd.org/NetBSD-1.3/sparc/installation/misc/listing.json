@@ -1,0 +1,98 @@
+[
+  {
+    "name": "BSDSUM",
+    "href": "BSDSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/sparc/installation/misc/BSDSUM",
+    "is_dir": false,
+    "size": "61 B",
+    "date": "02-Jan-1998 17:09"
+  },
+  {
+    "name": "CKSUM",
+    "href": "CKSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/sparc/installation/misc/CKSUM",
+    "is_dir": false,
+    "size": "90 B",
+    "date": "02-Jan-1998 17:09"
+  },
+  {
+    "name": "MD5",
+    "href": "MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/sparc/installation/misc/MD5",
+    "is_dir": false,
+    "size": "189 B",
+    "date": "02-Jan-1998 17:09"
+  },
+  {
+    "name": "README",
+    "href": "README",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/sparc/installation/misc/README",
+    "is_dir": false,
+    "size": "361 B",
+    "date": "02-Jan-1998 17:08"
+  },
+  {
+    "name": "SYSVSUM",
+    "href": "SYSVSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/sparc/installation/misc/SYSVSUM",
+    "is_dir": false,
+    "size": "62 B",
+    "date": "02-Jan-1998 17:09"
+  },
+  {
+    "name": "dev.tgz",
+    "href": "dev.tgz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/sparc/installation/misc/dev.tgz",
+    "is_dir": false,
+    "size": "9.3 KiB",
+    "date": "02-Jan-1998 17:03"
+  },
+  {
+    "name": "gtar",
+    "href": "gtar",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/sparc/installation/misc/gtar",
+    "is_dir": false,
+    "size": "192.0 KiB",
+    "date": "02-Jan-1998 16:54"
+  },
+  {
+    "name": "gzip",
+    "href": "gzip",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/sparc/installation/misc/gzip",
+    "is_dir": false,
+    "size": "184.0 KiB",
+    "date": "02-Jan-1998 16:54"
+  },
+  {
+    "name": "install.md",
+    "href": "install.md",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/sparc/installation/misc/install.md",
+    "is_dir": false,
+    "size": "7.1 KiB",
+    "date": "21-Oct-1997 06:58"
+  },
+  {
+    "name": "install.sh",
+    "href": "install.sh",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/sparc/installation/misc/install.sh",
+    "is_dir": false,
+    "size": "11.4 KiB",
+    "date": "25-Nov-1997 12:43"
+  },
+  {
+    "name": "install.sub",
+    "href": "install.sub",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/sparc/installation/misc/install.sub",
+    "is_dir": false,
+    "size": "31.1 KiB",
+    "date": "12-Nov-1997 01:18"
+  },
+  {
+    "name": "upgrade.sh",
+    "href": "upgrade.sh",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.3/sparc/installation/misc/upgrade.sh",
+    "is_dir": false,
+    "size": "8.6 KiB",
+    "date": "12-Nov-1997 01:34"
+  }
+]

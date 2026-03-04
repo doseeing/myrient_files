@@ -1,0 +1,58 @@
+[
+  {
+    "name": "CKSUMS",
+    "href": "CKSUMS",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/hp300/install/CKSUMS",
+    "is_dir": false,
+    "size": "180 B",
+    "date": "27-Nov-1995 18:25"
+  },
+  {
+    "name": "HP-IB.geometry",
+    "href": "HP-IB.geometry",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/hp300/install/HP-IB.geometry",
+    "is_dir": false,
+    "size": "1.4 KiB",
+    "date": "17-Nov-1995 07:47"
+  },
+  {
+    "name": "SYS_INST.gz",
+    "href": "SYS_INST.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/hp300/install/SYS_INST.gz",
+    "is_dir": false,
+    "size": "25.9 KiB",
+    "date": "17-Nov-1995 07:47"
+  },
+  {
+    "name": "SYS_NBOOT.gz",
+    "href": "SYS_NBOOT.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/hp300/install/SYS_NBOOT.gz",
+    "is_dir": false,
+    "size": "20.1 KiB",
+    "date": "17-Nov-1995 07:48"
+  },
+  {
+    "name": "inst-11.fs.gz",
+    "href": "inst-11.fs.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/hp300/install/inst-11.fs.gz",
+    "is_dir": false,
+    "size": "1.3 MiB",
+    "date": "27-Nov-1995 18:24"
+  },
+  {
+    "name": "netbsd.gz",
+    "href": "netbsd.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/hp300/install/netbsd.gz",
+    "is_dir": false,
+    "size": "396.0 KiB",
+    "date": "27-Nov-1995 18:24"
+  },
+  {
+    "name": "rbootd.tar.gz",
+    "href": "rbootd.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.1/hp300/install/rbootd.tar.gz",
+    "is_dir": false,
+    "size": "22.1 KiB",
+    "date": "17-Nov-1995 14:45"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "name": "grammar.lisp.1",
+    "href": "grammar.lisp.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/gjcx/pascal/grammar.lisp.1",
+    "is_dir": false,
+    "size": "5.2 KiB",
+    "date": "21-Apr-2017 01:29"
+  },
+  {
+    "name": "load.lisp.1",
+    "href": "load.lisp.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/gjcx/pascal/load.lisp.1",
+    "is_dir": false,
+    "size": "711 B",
+    "date": "21-Apr-2017 01:29"
+  },
+  {
+    "name": "parser.lisp.6",
+    "href": "parser.lisp.6",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/gjcx/pascal/parser.lisp.6",
+    "is_dir": false,
+    "size": "11.4 KiB",
+    "date": "21-Apr-2017 01:29"
+  },
+  {
+    "name": "sysdef.lisp.1",
+    "href": "sysdef.lisp.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/gjcx/pascal/sysdef.lisp.1",
+    "is_dir": false,
+    "size": "525 B",
+    "date": "21-Apr-2017 01:29"
+  },
+  {
+    "name": "tokenizer.lisp.3",
+    "href": "tokenizer.lisp.3",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/gjcx/pascal/tokenizer.lisp.3",
+    "is_dir": false,
+    "size": "4.3 KiB",
+    "date": "21-Apr-2017 01:29"
+  },
+  {
+    "name": "translator.lisp.1",
+    "href": "translator.lisp.1",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/LMI/dj_full/gjcx/pascal/translator.lisp.1",
+    "is_dir": false,
+    "size": "8.3 KiB",
+    "date": "21-Apr-2017 01:29"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "name": "INSTALL.mvme68k",
+    "href": "INSTALL.mvme68k",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/mvme68k/INSTALL.mvme68k",
+    "is_dir": false,
+    "size": "25.1 KiB",
+    "date": "20-Sep-1996 15:34"
+  },
+  {
+    "name": "README.1ST",
+    "href": "README.1ST",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/mvme68k/README.1ST",
+    "is_dir": false,
+    "size": "657 B",
+    "date": "20-Sep-1996 15:34"
+  },
+  {
+    "name": "domestic_mvme68k.tar.gz",
+    "href": "domestic_mvme68k.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/mvme68k/domestic_mvme68k.tar.gz",
+    "is_dir": false,
+    "size": "541.2 KiB",
+    "date": "20-Sep-1996 15:34"
+  },
+  {
+    "name": "export_exec_mvme68k.tar.gz",
+    "href": "export_exec_mvme68k.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/mvme68k/export_exec_mvme68k.tar.gz",
+    "is_dir": false,
+    "size": "15.3 MiB",
+    "date": "20-Sep-1996 15:32"
+  },
+  {
+    "name": "export_root_mvme68k.tar.gz",
+    "href": "export_root_mvme68k.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/mvme68k/export_root_mvme68k.tar.gz",
+    "is_dir": false,
+    "size": "3.5 MiB",
+    "date": "20-Sep-1996 15:34"
+  },
+  {
+    "name": "export_rootbin_mvme68k.tar.gz",
+    "href": "export_rootbin_mvme68k.tar.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/mvme68k/export_rootbin_mvme68k.tar.gz",
+    "is_dir": false,
+    "size": "3.4 MiB",
+    "date": "20-Sep-1996 15:34"
+  },
+  {
+    "name": "test_miniroot.gz",
+    "href": "test_miniroot.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/mvme68k/test_miniroot.gz",
+    "is_dir": false,
+    "size": "3.0 MiB",
+    "date": "20-Sep-1996 15:35"
+  },
+  {
+    "name": "test_netbsd-rd",
+    "href": "test_netbsd-rd",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/mvme68k/test_netbsd-rd",
+    "is_dir": false,
+    "size": "914.6 KiB",
+    "date": "20-Sep-1996 15:36"
+  }
+]

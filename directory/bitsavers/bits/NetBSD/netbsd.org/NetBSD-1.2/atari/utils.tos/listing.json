@@ -1,0 +1,34 @@
+[
+  {
+    "name": "CKSUMS",
+    "href": "CKSUMS",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/atari/utils.tos/CKSUMS",
+    "is_dir": false,
+    "size": "57 B",
+    "date": "19-Sep-1996 07:37"
+  },
+  {
+    "name": "README",
+    "href": "README",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/atari/utils.tos/README",
+    "is_dir": false,
+    "size": "263 B",
+    "date": "19-Sep-1996 07:36"
+  },
+  {
+    "name": "gzip.ttp",
+    "href": "gzip.ttp",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/atari/utils.tos/gzip.ttp",
+    "is_dir": false,
+    "size": "65.3 KiB",
+    "date": "19-Sep-1996 07:36"
+  },
+  {
+    "name": "rawwrite.ttp.gz",
+    "href": "rawwrite.ttp.gz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.2/atari/utils.tos/rawwrite.ttp.gz",
+    "is_dir": false,
+    "size": "8.4 KiB",
+    "date": "19-Sep-1996 07:36"
+  }
+]

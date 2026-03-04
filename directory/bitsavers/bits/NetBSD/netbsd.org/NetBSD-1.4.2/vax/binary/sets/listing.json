@@ -1,0 +1,130 @@
+[
+  {
+    "name": "BSDSUM",
+    "href": "BSDSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/vax/binary/sets/BSDSUM",
+    "is_dir": false,
+    "size": "241 B",
+    "date": "16-Mar-2000 09:43"
+  },
+  {
+    "name": "CKSUM",
+    "href": "CKSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/vax/binary/sets/CKSUM",
+    "is_dir": false,
+    "size": "333 B",
+    "date": "16-Mar-2000 09:56"
+  },
+  {
+    "name": "MD5",
+    "href": "MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/vax/binary/sets/MD5",
+    "is_dir": false,
+    "size": "606 B",
+    "date": "16-Mar-2000 10:08"
+  },
+  {
+    "name": "SYSVSUM",
+    "href": "SYSVSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/vax/binary/sets/SYSVSUM",
+    "is_dir": false,
+    "size": "246 B",
+    "date": "16-Mar-2000 10:13"
+  },
+  {
+    "name": "base.tgz",
+    "href": "base.tgz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/vax/binary/sets/base.tgz",
+    "is_dir": false,
+    "size": "10.4 MiB",
+    "date": "08-Mar-2000 11:25"
+  },
+  {
+    "name": "comp.tgz",
+    "href": "comp.tgz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/vax/binary/sets/comp.tgz",
+    "is_dir": false,
+    "size": "7.9 MiB",
+    "date": "08-Mar-2000 14:33"
+  },
+  {
+    "name": "etc.tgz",
+    "href": "etc.tgz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/vax/binary/sets/etc.tgz",
+    "is_dir": false,
+    "size": "60.7 KiB",
+    "date": "08-Mar-2000 14:35"
+  },
+  {
+    "name": "games.tgz",
+    "href": "games.tgz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/vax/binary/sets/games.tgz",
+    "is_dir": false,
+    "size": "2.8 MiB",
+    "date": "08-Mar-2000 15:33"
+  },
+  {
+    "name": "kern.tgz",
+    "href": "kern.tgz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/vax/binary/sets/kern.tgz",
+    "is_dir": false,
+    "size": "512.9 KiB",
+    "date": "16-Mar-2000 09:21"
+  },
+  {
+    "name": "man.tgz",
+    "href": "man.tgz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/vax/binary/sets/man.tgz",
+    "is_dir": false,
+    "size": "4.2 MiB",
+    "date": "08-Mar-2000 17:00"
+  },
+  {
+    "name": "misc.tgz",
+    "href": "misc.tgz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/vax/binary/sets/misc.tgz",
+    "is_dir": false,
+    "size": "2.1 MiB",
+    "date": "08-Mar-2000 17:48"
+  },
+  {
+    "name": "text.tgz",
+    "href": "text.tgz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/vax/binary/sets/text.tgz",
+    "is_dir": false,
+    "size": "1.2 MiB",
+    "date": "08-Mar-2000 18:17"
+  },
+  {
+    "name": "xbase.tgz",
+    "href": "xbase.tgz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/vax/binary/sets/xbase.tgz",
+    "is_dir": false,
+    "size": "14.3 MiB",
+    "date": "10-Mar-2000 02:13"
+  },
+  {
+    "name": "xcomp.tgz",
+    "href": "xcomp.tgz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/vax/binary/sets/xcomp.tgz",
+    "is_dir": false,
+    "size": "1.6 MiB",
+    "date": "10-Mar-2000 02:44"
+  },
+  {
+    "name": "xcontrib.tgz",
+    "href": "xcontrib.tgz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/vax/binary/sets/xcontrib.tgz",
+    "is_dir": false,
+    "size": "4.8 MiB",
+    "date": "10-Mar-2000 03:41"
+  },
+  {
+    "name": "xfont.tgz",
+    "href": "xfont.tgz",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.2/vax/binary/sets/xfont.tgz",
+    "is_dir": false,
+    "size": "5.1 MiB",
+    "date": "10-Mar-2000 04:03"
+  }
+]

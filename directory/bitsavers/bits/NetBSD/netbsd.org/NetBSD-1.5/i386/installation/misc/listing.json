@@ -1,0 +1,42 @@
+[
+  {
+    "name": "BSDSUM",
+    "href": "BSDSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/i386/installation/misc/BSDSUM",
+    "is_dir": false,
+    "size": "21 B",
+    "date": "22-Nov-2000 16:14"
+  },
+  {
+    "name": "CKSUM",
+    "href": "CKSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/i386/installation/misc/CKSUM",
+    "is_dir": false,
+    "size": "29 B",
+    "date": "22-Nov-2000 16:14"
+  },
+  {
+    "name": "MD5",
+    "href": "MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/i386/installation/misc/MD5",
+    "is_dir": false,
+    "size": "53 B",
+    "date": "22-Nov-2000 16:14"
+  },
+  {
+    "name": "SYSVSUM",
+    "href": "SYSVSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/i386/installation/misc/SYSVSUM",
+    "is_dir": false,
+    "size": "21 B",
+    "date": "22-Nov-2000 16:14"
+  },
+  {
+    "name": "dosboot.com",
+    "href": "dosboot.com",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.5/i386/installation/misc/dosboot.com",
+    "is_dir": false,
+    "size": "42.9 KiB",
+    "date": "17-Nov-2000 02:24"
+  }
+]

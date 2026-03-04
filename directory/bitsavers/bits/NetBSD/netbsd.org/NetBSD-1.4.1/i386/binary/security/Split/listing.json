@@ -1,0 +1,82 @@
+[
+  {
+    "name": "BSDSUM",
+    "href": "BSDSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/i386/binary/security/Split/BSDSUM",
+    "is_dir": false,
+    "size": "123 B",
+    "date": "17-Jul-1999 20:27"
+  },
+  {
+    "name": "CKSUM",
+    "href": "CKSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/i386/binary/security/Split/CKSUM",
+    "is_dir": false,
+    "size": "166 B",
+    "date": "17-Jul-1999 20:27"
+  },
+  {
+    "name": "MD5",
+    "href": "MD5",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/i386/binary/security/Split/MD5",
+    "is_dir": false,
+    "size": "313 B",
+    "date": "17-Jul-1999 20:27"
+  },
+  {
+    "name": "README.export-control",
+    "href": "README.export-control",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/i386/binary/security/Split/README.export-control",
+    "is_dir": false,
+    "size": "611 B",
+    "date": "07-Jun-2000 04:45"
+  },
+  {
+    "name": "README.files",
+    "href": "README.files",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/i386/binary/security/Split/README.files",
+    "is_dir": false,
+    "size": "1.3 KiB",
+    "date": "17-Jul-1999 20:26"
+  },
+  {
+    "name": "SYSVSUM",
+    "href": "SYSVSUM",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/i386/binary/security/Split/SYSVSUM",
+    "is_dir": false,
+    "size": "123 B",
+    "date": "17-Jul-1999 20:27"
+  },
+  {
+    "name": "secr.aa",
+    "href": "secr.aa",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/i386/binary/security/Split/secr.aa",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "17-Jul-1999 20:26"
+  },
+  {
+    "name": "secr.ab",
+    "href": "secr.ab",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/i386/binary/security/Split/secr.ab",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "17-Jul-1999 20:26"
+  },
+  {
+    "name": "secr.ac",
+    "href": "secr.ac",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/i386/binary/security/Split/secr.ac",
+    "is_dir": false,
+    "size": "235.0 KiB",
+    "date": "17-Jul-1999 20:26"
+  },
+  {
+    "name": "secr.ad",
+    "href": "secr.ad",
+    "url": "https://myrient.erista.me/files/bitsavers/bits/NetBSD/netbsd.org/NetBSD-1.4.1/i386/binary/security/Split/secr.ad",
+    "is_dir": false,
+    "size": "112.2 KiB",
+    "date": "17-Jul-1999 20:26"
+  }
+]
