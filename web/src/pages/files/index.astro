@@ -1,0 +1,52 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import { loadListing, encodePathSegment } from '../../lib/directory';
+
+const pathSegments: string[] = [];
+const listing = loadListing(pathSegments);
+
+const pathForUrl = (segments: string[]) =>
+  '/files/' + segments.map(encodePathSegment).join('/') + '/';
+---
+
+<Layout title="Files" description="Content listing">
+  <nav class="breadcrumb">
+    <a href="/files/">/files/</a>
+  </nav>
+  <h1 class="page-title">Index of /files/</h1>
+
+  {listing === null ? (
+    <p>No listing found. Run the spider to populate <code>directory/</code>.</p>
+  ) : (
+    <div class="files-table-wrap">
+      <table class="files-table">
+        <thead>
+          <tr>
+            <th class="name">Name</th>
+            <th class="size">Size</th>
+            <th class="date">Date</th>
+          </tr>
+        </thead>
+        <tbody>
+          {listing.map((entry) => (
+            <tr>
+              <td class="name">
+                {entry.is_dir ? (
+                  <a href={pathForUrl([...pathSegments, entry.name])} class="dir">
+                    {entry.name}/
+                  </a>
+                ) : (
+                  <a href={entry.url} target="_blank" rel="noopener noreferrer">
+                    {entry.name}
+                  </a>
+                )}
+              </td>
+              <td class="size">{entry.size ?? '-'}</td>
+              <td class="date">{entry.date ?? '-'}</td>
+            </tr>
+          ))}
+        </tbody>
+      </table>
+    </div>
+  )}
+</Layout>

@@ -1,0 +1,87 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import { loadListing, collectAllPaths, encodePathSegment, decodePathSegment } from '../../lib/directory';
+
+export function getStaticPaths() {
+  const paths = collectAllPaths();
+  return paths
+    .filter((segments) => segments.length > 0)
+    .map((segments) => ({
+      params: { path: segments.map(encodePathSegment).join('/') },
+    }));
+}
+
+const pathParam = Astro.params.path;
+const pathSegments = pathParam
+  ? pathParam.split('/').filter(Boolean).map(decodePathSegment)
+  : [];
+const listing = loadListing(pathSegments);
+
+const pathForUrl = (segments: string[]) =>
+  '/files/' + segments.map(encodePathSegment).join('/') + '/';
+
+const breadcrumbSegments: { name: string; href: string }[] = [];
+for (let i = 0; i < pathSegments.length; i++) {
+  breadcrumbSegments.push({
+    name: pathSegments[i],
+    href: pathForUrl(pathSegments.slice(0, i + 1)),
+  });
+}
+---
+
+<Layout title={`Index of /files/${pathSegments.join('/')}`} description="Content listing">
+  <nav class="breadcrumb">
+    <a href="/files/">/files/</a>
+    {breadcrumbSegments.map((seg) => (
+      <>
+        <a href={seg.href}>{seg.name}/</a>
+        {' '}
+      </>
+    ))}
+  </nav>
+  <h1 class="page-title">
+    Index of /files/{pathSegments.join('/')}/
+  </h1>
+
+  {listing === null ? (
+    <p>No listing found for this path.</p>
+  ) : (
+    <div class="files-table-wrap">
+      <table class="files-table">
+        <thead>
+          <tr>
+            <th class="name">Name</th>
+            <th class="size">Size</th>
+            <th class="date">Date</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="name">
+              <a href={pathForUrl(pathSegments.slice(0, -1))}>Parent directory/</a>
+            </td>
+            <td class="size">-</td>
+            <td class="date">-</td>
+          </tr>
+          {listing.map((entry) => (
+            <tr>
+              <td class="name">
+                {entry.is_dir ? (
+                  <a href={pathForUrl([...pathSegments, entry.name])} class="dir">
+                    {entry.name}/
+                  </a>
+                ) : (
+                  <a href={entry.url} target="_blank" rel="noopener noreferrer">
+                    {entry.name}
+                  </a>
+                )}
+              </td>
+              <td class="size">{entry.size ?? '-'}</td>
+              <td class="date">{entry.date ?? '-'}</td>
+            </tr>
+          ))}
+        </tbody>
+      </table>
+    </div>
+  )}
+</Layout>
