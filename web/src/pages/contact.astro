@@ -1,0 +1,39 @@
+---
+import Layout from '../layouts/Layout.astro';
+
+const base = import.meta.env.BASE_URL;
+---
+
+<Layout title="Contact Us" description="How to contact Myrient support and what to include when reporting issues.">
+  <h1>Contact Us</h1>
+
+  <section>
+    <h2>Before contacting us</h2>
+    <hr />
+
+    <p>Please read the <a href={`${base}faq/`}>FAQ page</a>. Your question is most likely already answered in it.</p>
+
+    <p>If you would like to upload missing content, please read the <a href="https://myrient.erista.me/upload/" target="_blank" rel="noopener noreferrer">Upload page</a> for more information. Sending uploaded files via email will result in the content not being added.</p>
+
+    <p>If you require assistance with using the content from Myrient in emulators or on real systems, please join our <a href="https://discord.gg/4kVP9AuQ24" target="_blank" rel="noopener noreferrer">Discord server</a>. We do not provide assistance with using the content from Myrient in emulators or on real systems via email.</p>
+  </section>
+
+  <section>
+    <h2>What to include in your email</h2>
+    <hr />
+
+    <h3>When reporting technical issues</h3>
+    <p>Please check our announcement channels on Discord or Telegram to see if the issue has been identified. In most cases, technical issues are temporary and resolved as soon as possible.</p>
+    <p>If the issue has not been identified yet, please let us know by including as many details as possible when describing the behavior you encountered and, if possible, steps to reproduce it.</p>
+
+    <h3>When reporting Myrient being blocked by your internet service provider (ISP) or government</h3>
+    <p>Please include the name of your ISP and country you are located in.</p>
+  </section>
+
+  <section>
+    <h2>How to contact us</h2>
+    <hr />
+
+    <p>You can contact us by sending an email to <a href="mailto:support@erista.me">support@erista.me</a>.</p>
+  </section>
+</Layout>

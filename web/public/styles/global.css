@@ -119,13 +119,14 @@ body {
   color: var(--link);
 }
 
-h1, h2, h3 {
+h1, h2, h3, h4 {
   margin-top: 0;
   font-weight: 600;
 }
 
 h1 { font-size: 1.75rem; }
 h2 { font-size: 1.35rem; margin-bottom: 0.5rem; }
+h4 { font-size: 1.1rem; font-weight: 500; font-style: italic; color: var(--text-muted); }
 
 a {
   color: var(--link);
@@ -141,6 +142,15 @@ hr {
   border: none;
   border-top: 1px solid var(--border);
   margin: 1.5rem 0;
+}
+
+code {
+  font-family: var(--font-mono);
+  font-size: 0.9em;
+  padding: 0.15em 0.4em;
+  background: var(--bg-card);
+  border-radius: 3px;
+  border: 1px solid var(--border);
 }
 
 /* Files listing table */
@@ -192,4 +202,23 @@ hr {
 
 .page-title {
   margin-bottom: 0.5rem;
+}
+
+.donate-addresses {
+  margin: 1rem 0;
+}
+
+.donate-addresses dt {
+  font-weight: 600;
+  margin-top: 1rem;
+  color: var(--text-muted);
+}
+
+.donate-addresses dt:first-child {
+  margin-top: 0;
+}
+
+.donate-addresses dd {
+  margin: 0.25rem 0 0;
+  word-break: break-all;
 }
