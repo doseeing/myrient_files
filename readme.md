@@ -4,6 +4,8 @@ Spider that fetches the [Myrient](https://myrient.erista.me/files/) file index a
 
 > **Note:** Myrient is shutting down on 31 March 2026. Use this to capture the top-level index; extend the script if you need to archive deeper listings.
 
+See [dev_note.md](dev_note.md) for notes on building a mirror site of Myrient.
+
 ## Requirements
 
 - Python 3.10+
